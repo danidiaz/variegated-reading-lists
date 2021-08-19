@@ -961,3 +961,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > Root ENTITIES have global identity. ENTITIES inside the boundary have local identity, unique only within the AGGREGATE.
 
+[DDD, Aggregate Root and entities in library application scenario](https://softwareengineering.stackexchange.com/questions/408389/ddd-aggregate-root-and-entities-in-library-application-scenario)
+
+> Should I pass here the references to these objects (book and user) instead of ids?
+

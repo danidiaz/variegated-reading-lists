@@ -1,0 +1,519 @@
+# Miscellany
+
+## Books
+
+[convex optimization](http://stanford.edu/~boyd/cvxbook/)
+
+[mathematical writing](http://www.jmlr.org/reviewing-papers/knuth_mathematical_writing.pdf)
+
+[types for programming and reasoning](http://www.janis-voigtlaender.eu/papers/TypesForProgrammingAndReasoning.pdf)
+
+## Papers
+
+[Boltzmann Samplers for the Random Generation of Combinatorial Structures](http://algo.inria.fr/flajolet/Publications/DuFlLoSc04.pdf)
+
+[Generating Constrained Random Data with Uniform Distribution](http://publications.lib.chalmers.se/records/fulltext/195847/local_195847.pdf)
+
+[A Hybrid Convolutional Variational Autoencoder for Text Generation](https://arxiv.org/abs/1702.02390)
+
+[The Multiplicative Weights Update Method](https://www.cs.princeton.edu/~arora/pubs/MWsurvey.pdf)
+
+[uncertainty in deep learning](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
+
+[structuring dfs algorithms](https://galois.com/wp-content/uploads/2014/08/pub_JL_StructuringDFSAlgorithms.pdf)
+
+[on the origins of dl](https://arxiv.org/pdf/1702.07800.pdf)
+
+[Relational Lattices: From Databases to Universal Algebra](http://www.dcs.bbk.ac.uk/~szabolcs/rellat-jlamp-second-submission-2.pdf)
+
+[Dependency grammars as Haskell programs](http://ltrc.iiit.ac.in/icon2016/proceedings/icon2016/pdf/W16-6310.pdf)
+
+(The Origins of the Linguistic Conception of
+Computer Programming)[https://pure.uva.nl/ws/files/2419813/154677_Alberts_Nofre_Priestly_Technol_Culture_55_1_2014.pdf] also [hn](https://news.ycombinator.com/item?id=13820863)
+
+[DEEP LEARNING WITH DYNAMIC COMPUTATION GRAPHS](https://openreview.net/pdf?id=ryrGawqex)
+
+[On the Design of Distributed Programming Models](https://arxiv.org/abs/1701.07615) "we show that concurrent programming models are necessary, but not sufficient, in the construction of large-scale distributed systems because of the problem of failure and network partitions: languages need to be able to capture and encode the tradeoffs between consistency and availability"
+
+[Initial algebra semantics is enough!](https://cs.appstate.edu/~johannp/tlca07-rev.pdf)
+
+[Polarized Data Parallel Data Flow](http://benl.ouroborus.net/papers/2016-polarized/dpdf-FHPC2016-preprint.pdf) avoiding explicit recurison, mentioned [here](https://ghc.haskell.org/trac/ghc/wiki/LinearTypes/Examples)
+
+[A prettier printer](http://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf)
+
+[Empirical Study of the Anatomy of Modern Sat Solvers](http://www.cs.toronto.edu/~fbacchus/csc2512/Lectures/2013Readings/Skallah_Empirical_Study_SAT_Solvers.pdf)
+
+[Linkers - Ian Lance Taylor](http://inai.de/documents/Linkers.pdf), [Gold](https://events.linuxfoundation.org/slides/lfcs2010_taylor.pdf), [A New ELF Linker](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/34417.pdf)
+
+[A Poor Man's Concurrency Monad](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.39.8039&rep=rep1&type=pdf). [more](https://hexagoxel.de/postsforpublish/posts/2018-09-09-cont-part-one.html).
+
+[Visualizing the Evolution of SAT Formula Structure in Solvers](https://ece.uwaterloo.ca/~vganesh/Publications_files/vg2015-SATGraf-SAT15.pdf) [Why SAT solvers are practical](https://twitter.com/tikhonjelvis/status/871571333280407552)
+
+[A Technique for Drawing Directed Graphs](http://www.graphviz.org/Documentation/TSE93.pdf)
+
+[Fast Deterministic Selection](http://erdani.com/research/sea2017.pdf) [Selection Algorithm](https://en.wikipedia.org/wiki/Selection_algorithm) [The related problem of k-highest elements](https://stackoverflow.com/questions/4956593/optimal-algorithm-for-returning-top-k-values-from-an-array-of-length-n)
+
+[Algebraic Graphs with Class - A functional pearl](https://github.com/gasche/icfp2017-papers)
+
+[Fast and Loose Reasoning is Morally Correct](https://pdfs.semanticscholar.org/a316/3d9097a87a713f0dd3f154f139e19dcb2a82.pdf)
+
+[Calculating the Fundamental Group of the Circle in Homotopy Type Theory](https://arxiv.org/pdf/1301.3443.pdf)
+
+[Static Analysis of Programs using Semirings](http://opus.bath.ac.uk/56621/1/North_L_dissertation_2016_17_1_.pdf)
+
+[information effects](http://reasonablypolymorphic.com/blog/information-effects)
+
+[A unified approach to solving seven programming problems (functional pearl)](http://dl.acm.org/citation.cfm?id=3110252&preflayout=flat)
+
+[Adaptive Lock-Free Data Structures in Haskell: A General Method for Concurrent Implementation Swapping](https://arxiv.org/pdf/1708.02318.pdf)
+
+[Improving Haskell](http://www.cs.nott.ac.uk/~pszgmh/improving.pdf) [github](https://github.com/mathandley/Unie)
+
+[Hygienic Source-Code Generation Using Functors](https://arxiv.org/pdf/1801.01579.pdf)
+
+[Somewhat Practical, Pretty Much Declarative Verifiable Computing in Haskell](http://ace.cs.ohio.edu/~gstewart/papers/snaarkl.pdf)
+
+[Compiler Construction The Art of Niklaus Wirth](https://pdfs.semanticscholar.org/036f/c4effda4bbbe9f6a9ee762df717bd0af1324.pdf)
+
+[Batch Normailzation](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c) [HN](https://news.ycombinator.com/item?id=16668687)
+
+> Batch Normalization (BN) is a milestone technique in the development of deep learning, enabling various networks to train. 
+
+[The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+
+[The simple essence of automatic differentiation](https://arxiv.org/pdf/1804.00746.pdf)
+
+[Building a Bw-Tree Takes More Than Just Buzz Words](https://db.cs.cmu.edu/papers/2018/mod342-wangA.pdf)
+
+[Formal Language Recognition with the Java Type Checker](http://drops.dagstuhl.de/opus/volltexte/2016/6104/pdf/LIPIcs-ECOOP-2016-10.pdf)
+
+[Calculational Verification of Reactive Programs with Reactive Relations and Kleene Algebra](https://arxiv.org/pdf/1806.02101.pdf)
+
+[Type variables in patterns](https://arxiv.org/pdf/1806.03476.pdf)
+
+[Semi-Indexing Semi-Structured Data in Tiny Space](http://www.di.unipi.it/~ottavian/files/semi_index_cikm.pdf) [hw-json](http://hackage.haskell.org/package/hw-json)
+
+[What’s the Difference? Substracting bijections](http://ozark.hendrix.edu/~yorgey/pub/GCBP-author-version.pdf) [blog](https://byorgey.wordpress.com/2018/06/23/new-icfp-functional-pearl-on-subtracting-bijections/)
+
+[On the Complexity and Performance of Parsing with Derivatives](https://michaeldadams.org/papers/derivatives2/derivatives2.pdf)
+
+>  a paper came out in 2016 that cleared up a number of the performance issues. So, most implementations (except Racket) are still terrible, but should “just” need to apply the findings from that newer paper to be fixed.
+
+[Invertible syntax descriptions: Unifying parsing and pretty printing.](http://www.informatik.uni-marburg.de/~rendel/unparse/)
+
+[From Fast Exponentiation to Square Matrices: An Adventure in Types](https://www.usma.edu/eecs/SiteAssets/SitePages/Faculty%20Publication%20Documents/Okasaki/icfp99square.pdf)
+
+[How to Architect a Query Compiler, Revisited](https://www.cs.purdue.edu/homes/rompf/papers/tahboub-sigmod18.pdf) [links to related papers in HN](https://news.ycombinator.com/item?id=17852400) [video1 on collapsing towers of interpreters](https://www.youtube.com/watch?v=QuJ-cEvH_oI) [video2](https://www.youtube.com/watch?v=Ywy_eSzCLi8)
+
+[Future Directions for Optimizing Compilers](https://arxiv.org/pdf/1809.02161.pdf).
+
+[Partially-Static Data as Free Extension of Algebras](https://www.cl.cam.ac.uk/~jdy22/papers/partially-static-data-as-free-extension-of-algebras.pdf).
+
+[Music as Language Putting Probabilistic Temporal Graph Grammars to Good Use](https://omelkonian.github.io/data/publications/music-grammars.pdf)
+
+[Coroutining Folds with Hyperfunctions](https://arxiv.org/pdf/1309.5135.pdf) [tweet](https://twitter.com/glaebhoerl/status/1150108066404323333)
+
+[everybody's got to be somewhere](https://twitter.com/pigworker/status/1153226075746525185)
+
+[On understanding data abstraction, revisited](https://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
+
+> one might arge encapsulation is somewhat overrated
+
+[Dependent Type Systems as Macros](https://www.williamjbowman.com/resources/wjb2019-depmacros.pdf)
+
+[Quantitative Information Flow with Monads in Haskell](http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/kuifje.pdf)
+
+[Monad Transformers and Modular Algebraic Effects](https://www.fceia.unr.edu.ar/~mauro/pubs/haskell2019.pdf)
+
+[Flipping Fold, Reformulating Reduction](http://gbaz.github.io/slides/buildable2014.pdf)
+
+[Algebraic Property Graphs](https://arxiv.org/abs/1909.04881). [video](https://www.youtube.com/watch?v=W3rpPnhw-nM). [reddit](https://www.reddit.com/r/haskell/comments/mbicfg/implementing_dragon_ubers_dataintegration_tool/gry2vff/). [Fast Left-Kan Extensions Using The Chase](https://conexus.com/fast-left-kan-extensions-using-the-chase/). [Financial Reporting Data Warehousing with CQL](https://conexus.com/financial-reporting-data-warehousing-with-cql/).
+
+[seeking stability by being lazy and shallow](https://twitter.com/tweagio/status/1375097389002919947)
+
+[Algebras for Weighted Search](https://twitter.com/oisdk/status/1406249847569715203)
+
+[Ever wondered how fusion works? ](https://www.reddit.com/r/haskell/comments/oshj2c/ever_wondered_how_fusion_works_i_have_some_links/)
+
+## Posts
+
+[Nested monadic loops may cause space leaks](https://www.reddit.com/r/haskell/comments/5n7sfw/nested_monadic_loops_may_cause_space_leaks/)
+
+[A Comonad of Graph Decompositions](http://blog.higher-order.com/blog/2016/04/02/a-comonad-of-graph-decompositions/)
+
+[hacking on ghc](https://www.reddit.com/r/haskell/comments/3jq3cu/hacking_on_ghc_is_not_that_hard/)
+
+[Inlining and spesialization](https://www.reddit.com/r/haskell/comments/60h7a8/inlining_and_specialisation/)
+
+[effects bibliography](https://github.com/yallop/effects-bibliography)
+
+winterkoninkje's [columbicubiculomania](http://winterkoninkje.dreamwidth.org/tag/columbicubiculomania) [binary operations](http://winterkoninkje.dreamwidth.org/79868.html) [ring theory](http://winterkoninkje.dreamwidth.org/80018.html) [modal logic](http://winterkoninkje.dreamwidth.org/87291.html)
+
+[lazy dynamic programming](http://jelv.is/blog/Lazy-Dynamic-Programming/)
+
+[Selda: a monadic database EDSL](https://www.reddit.com/r/haskell/comments/66ih1l/selda_a_monadic_database_edsl/)
+
+[Dynamic Programming exercises](https://mail.haskell.org/pipermail/haskell-cafe/2017-April/126879.html) [exercises](http://ozark.hendrix.edu/~yorgey/280/static/hw.7.pdf) [lecture notes](http://ozark.hendrix.edu/~yorgey/280/static/CSCI-280-lecture-notes.pdf)
+
+[A program that accepts exactly any desired finite set, in the right universe](http://jdh.hamkins.org/a-program-that-accepts-any-desired-finite-set-in-the-right-universe/)
+
+[ANN: Prettyprinter 1.0 – ending the Wadler/Leijen zoo dilemma (https://pay.reddit.com/r/haskell/comments/6e62i5/ann_prettyprinter_10_ending_the_wadlerleijen_zoo/)
+
+[Universally stateless monads](https://ro-che.info/articles/2017-06-04-universally-stateless-monads)
+
+[stm collisions](https://www.reddit.com/r/haskell/comments/6g83px/stm_collisions/)
+
+> > Getting introspection on a monadic computation by restricting what you can see of the result of earlier computations is basically the same approach Atze uses in his key monad and cage stuff here: http://people.seas.harvard.edu/~pbuiras/publications/KeyMonadHaskell2016.pdf There he embeds arrow computations into a monad simply by forbidding you to see the contents of the "cage" by the way it is encoded.
+
+[A (computational) linguistic farce in three acts](http://www.earningmyturns.org/2017/06/a-computational-linguistic-farce-in.html) [hacker news](https://news.ycombinator.com/item?id=14532306)
+
+[An Adversarial Review of “Adversarial Generation of Natural Language”](https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7) [more drama](https://medium.com/@yoav.goldberg/a-response-to-yann-lecuns-response-245125295c02)
+
+[word embeddings](http://w4nderlu.st/teaching/word-embeddings) [medium](https://medium.com/@WithTheBest/crunching-the-letters-structuralisms-impact-on-word-embedding-bc722a32e751) [hackernews](https://news.ycombinator.com/item?id=14532923)
+
+[megaparsec indentation](https://markkarpov.com/megaparsec/indentation-sensitive-parsing.html)
+
+[megaparsec simple language](https://markkarpov.com/megaparsec/parsing-simple-imperative-language.html)
+
+[Using free monads in a real-life large application?](https://www.reddit.com/r/haskell/comments/6hr59m/using_free_monads_in_a_reallife_large_application/)
+
+> The important thing is that mtl style is vastly more optimizable for GHC. 
+
+> Whatever effect interpreter you would write for that effect type, you can implement a transformer that does the same thing for this class.
+
+> With mtl style, if you want to treat a class as an effect, and a transformer as an interpreter, then you end up needing n2 type class instances for n effects, if you want to have total coverage.
+
+[template haskell quotes](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#ghc-flag--XTemplateHaskellQuotes)
+
+> A typed expression quotation is written as [|| ... ||], or [e|| ... ||], where the ”...” is an expression; if the ”...” expression has type a, then the quotation has type Q (TExp a).
+
+> Values of type TExp a may be converted to values of type Exp using the function unType :: TExp a -> Exp.
+
+> Top-level declaration splices break up a source file into declaration groups. A declaration group is the group of declarations created by a top-level declaration splice, plus those following it, down to but not including the next top-level declaration splice. N.B. only top-level splices delimit declaration groups, not expression splices. The first declaration group in a module includes all top-level definitions down to but not including the first top-level declaration splice.
+
+> A typed expression splice is written $$x, where x is an identifier, or $$(...), where the ”...” is an arbitrary expression.
+
+> A typed expression splice can occur in place of an expression; the spliced expression must have type Q (TExp a)
+
+> A typed expression quotation is written as [|| ... ||], or [e|| ... ||], where the ”...” is an expression; if the ”...” expression has type a, then the quotation has type Q (TExp a).
+
+> Values of type TExp a may be converted to values of type Exp using the function unType :: TExp a -> Exp.
+
+> The problem with typed TH splice is that it doesn’t really make sense at the top-level and it should be treated as an implicit splice.
+
+[Quasi-quoting DSLs for free](https://www.well-typed.com/blog/2014/10/quasi-quoting-dsls/)
+
+[Typed Template Haskell is still not quite sound](http://okmij.org/ftp/meta-programming/index.html#TExp-problem)
+
+> Typed Template Haskell is quite similar to the lambda-circle calculus or MetaOCaml, but restricted to two levels.
+
+[Implementing Algebraic Effects in C](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/06/algeff-in-c-tr-v2.pdf)
+
+[Control.Monad.Cont fun](https://mail.haskell.org/pipermail/haskell-cafe/2005-July/010623.html) [SO](https://stackoverflow.com/questions/5193876/goto-in-haskell-can-anyone-explain-this-seemingly-insane-effect-of-continuation)
+
+[Notes on design of webscrapers in Haskell](https://pay.reddit.com/r/haskell/comments/6nazqm/notes_on_design_of_webscrapers_in_haskell/)
+
+[A-Normalization: Why and How](http://matt.might.net/articles/a-normalization/)
+
+> In the second half of compilation, linguistic complexity falls.
+
+> Typically, the first drop is a desugaring phase which removes complex language features by transforming them into core language features.
+
+[OverlappingInstance workarounds](https://gist.github.com/phadej/cae76444548b9cffa10d9675e013847b) [Avoid overlapping instances with closed type families](https://kseo.github.io/posts/2017-02-05-avoid-overlapping-instances-with-closed-type-families.html)
+
+[GoL with comonads](http://chrispenner.ca/posts/conways-game-of-life)
+
+[Writing Performant Haskell (1 of 6): Intro](https://www.reddit.com/r/haskell/comments/6sqehr/writing_performant_haskell_1_of_6_intro/)
+
+[Abstract structure for substraction?](https://pay.reddit.com/r/haskell/comments/6ujj7c/abstract_structure_for_substraction/) [torsors](https://ro-che.info/articles/2013-01-08-torsors)
+
+[An unified array interface](https://pay.reddit.com/r/haskell/comments/6v9rmg/an_unified_array_interface/)
+
+[Rendering graphs in Haskell](https://www.reddit.com/r/haskell/comments/6xkowd/visualizing_graphs_in_haskell/)
+
+[Combining Brick and Haskeline](https://www.reddit.com/r/haskell/comments/6x9rk7/combining_brick_and_haskeline/)
+
+[15-251 Great Theoretical Ideas in Computer Science](http://www.cs.cmu.edu/~aada/courses/15251f15/www/schedule.html)
+
+[Lessons I Wish I Had Learned Before Teaching Differential Equations](https://news.ycombinator.com/item?id=15163979) [Earlier thread](https://news.ycombinator.com/item?id=11207183) [Great explanation of integrating factors](https://news.ycombinator.com/item?id=11211027)
+
+[Moshe Vardi on P versus NP](http://www.se-radio.net/2017/07/se-radio-episode-298-moshe-vardi-on-p-versus-np/) [SAT Solvers: Is SAT Hard or Easy?](https://rjlipton.wordpress.com/2009/07/13/sat-solvers-is-sat-hard-or-easy/) [Theoretical explanations for practical success of SAT solvers?](https://cstheory.stackexchange.com/questions/37886/theoretical-explanations-for-practical-success-of-sat-solvers)
+
+> It could also be that the use of SAT solvers is entirely spurious, driven by the availability of technology, rather than by an intrinsic need. Maybe the problems that need to be solved for verification purposes _can_ be reduced to SAT, but it does not mean that they _have to be_ reduced to SAT. The solvers may “work” exactly because they’re asked to solve problems that admit polynomial-time solutions, given a bit more ingenuity and effort. In fact, the claim that “practical instances” are easily solvable can be taken as evidence that the problems to be solved are not really SAT problems after all (ie, they don’t cover the space of SAT problems).
+
+[Controlling Fusion In Haskell](https://pay.reddit.com/r/haskell/comments/6yo9ew/controlling_fusion_in_haskell/)
+
+[A type checker plugin for row types](https://www.reddit.com/r/haskell/comments/6zdc73/ghcdevs_a_type_checker_plugin_for_row_types/)
+
+[Order theory for computer scientists](http://matt.might.net/articles/partial-orders/)
+
+[Free monad considered harmful](https://www.reddit.com/r/haskell/comments/72th9v/free_monad_considered_harmful/)
+
+[IMMUTABILITY AND UNBOXING IN ARRAY PROGRAMMING](https://www.tweag.io/posts/2017-09-27-array-package.html)
+
+[Debugging C with Haskell's Divisible](http://www.michaelburge.us/2017/09/27/delta-debugging-in-haskell.html)
+
+- Contravariant generalizes Modus Tollens.
+- Divisible generalizes Conjunction Introduction.
+- Decidable generalizes Disjunction Elimination.
+
+[A Comparison of Four Algorithms Textbooks](https://lobste.rs/s/wgunwe/comparison_four_algorithms_textbooks)
+
+[Monoidal Parsing](https://www.reddit.com/r/haskell/comments/75as61/monoidal_parsing_edward_kmett_scala_world/) [another video](https://www.youtube.com/watch?v=090hIEiUoE0) [reddit](https://www.reddit.com/r/haskell/comments/77dno4/monoidal_parsing_in_build_language_servers_by/)
+
+[Computational Geometry: Set Operations on Polytopes](https://maxow.github.io/posts/computational-geometry-set-operations-on-polytopes.html) [reddit](https://www.reddit.com/r/haskell/comments/766bd6/computational_geometry_set_operations_on_polytopes/)
+
+[Hotswapping Haskell](http://simonmar.github.io/posts/2017-10-17-hotswapping-haskell.html)
+
+[Thoughts on "explicit passing" style as an alternative to MTL for managing effects?](https://www.reddit.com/r/haskell/comments/79enaa/thoughts_on_explicit_passing_style_as_an/dp1gk21/)
+
+[Dynamic Programming: First Principles](http://www.flawlessrhetoric.com/Dynamic-Programming-First-Principles) [Dynamic Programming and the Calculus of Variations](https://www.rand.org/content/dam/rand/pubs/reports/2006/R441.pdf) [HN](https://news.ycombinator.com/item?id=15545686) [HN](https://news.ycombinator.com/item?id=1290397) [HN](https://news.ycombinator.com/item?id=15101373) [HN](http://www.techiedelight.com/top-10-dynamic-programming-problems/)
+
+> One important takeaway is that dynamic programming in the Bellman formulation is a discrete analogue of Hamilton-Jacobi theory in how it writes down an equation for the optimal value as a function of a given endpoint rather than writing down an equation for the path as with the Euler-Lagrange equations. (You can reconstruct the path from the value function after the fact by gradient descent.) The relationship between Hamilton-Jacobi and Euler-Lagrange is the classical version of wave-particle duality. A concrete example in geometrical optics is the eikonal equation, a Hamilton-Jacobi type PDE, versus the geodesic equation, an Euler-Lagrange type ODE. Not coincidentally, one common numerical method for the eikonal equation called the fast marching method is a dynamic programming algorithm, very similar to Dijkstra's algorithm for shortest paths.
+
+> It should be mentioned that any "local" equation like a PDE or ODE cannot describe a globally optimal solution without strong assumptions such as convexity. In fact, satisfying the Euler-Lagrange equation isn't even sufficient for local optimality without further qualifications (Weierstrass conditions). But the Bellman dynamic programming equation, being recursive, can describe globally optimal solutions.
+
+[AlphaGo Zero - How and Why it Works](http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/) [HN](https://news.ycombinator.com/item?id=15627340)
+
+[Calculus of Constructions in about 60 lines of code + A Tutorial Implementation of a Dependently Typed Lambda Calculus + Henk](https://pay.reddit.com/r/haskell/comments/7d86a5/calculus_of_constructions_in_about_60_lines_of/dpw6qr0/)
+
+[ASM monad](http://wall.org/~lewis/2013/10/15/asm-monad.html) [german](https://www.youtube.com/watch?time_continue=75&v=BQzJqdNASyg) [slides](http://www.joachim-breitner.de/publications/MonadFix_BobKonf2016_2016-02-19.pdf)
+
+[Everything you didn’t want to know about monad transformer state](https://www.youtube.com/watch?v=KZIN9f9rI34) [reddit](https://www.reddit.com/r/haskell/comments/7e9xc6/everything_you_didnt_want_to_know_about_monad/dq7qys6/)
+
+> MonadTransTunnel, which allows transfer of transformer from one monad to another
+
+[Functional pearl: Nested Datacubes](http://www.timphilipwilliams.com/posts/2017-04-12-nested-datacubes.html) [reddit](https://www.reddit.com/r/haskell/comments/7f50q9/functional_pearl_nested_datacubes_tim_philip/)
+
+[Session types in Cloud Haskell](https://pay.reddit.com/r/haskell/comments/7g3ckg/session_types_in_cloud_haskell/dqggsq9/) [Session Types with Linearity in Haskell](http://www.riverpublishers.com/pdf/ebook/chapter/RP_9788793519817C10.pdf)
+
+[LSEQ: an Adaptive Structure for Sequences in Distributed Collaborative Editing](https://hal.archives-ouvertes.fr/hal-00921633/document)
+
+[Functor Optics](http://oleg.fi/gists/posts/2017-12-23-functor-optics.html) [reddit](https://pay.reddit.com/r/haskell/comments/7lpcqe/functor_optics/drpyh0k/)
+
+[deep learning & fp](https://twitter.com/headinthebox/status/946234868542742530) [Deep Learning with Dynamic Computation Graphs](https://arxiv.org/abs/1702.02181) [Backprop as Functor: A compositional
+perspective on supervised learning
+](https://arxiv.org/pdf/1711.10455.pdf)
+
+[Hacking GHC's Stack for Fun and Profit](https://github.com/blitzcode/ghc-stack/blob/master/README.md)
+
+[Why (and how) I wrote my own Entity Component System](http://reasonablypolymorphic.com/blog/why-take-ecstasy)
+
+> Entities, now instead of being explicitly modeled by a GameObject are implicitly defined by an Int corresponding to their index in all of the arrays.
+
+[GADT serialization](https://www.reddit.com/r/haskell/comments/7uhhz0/help_with_gadts_and_type_families/)
+
+[Good APL style](https://sway.com/b1pRwmzuGjqB30On) [on HN](https://news.ycombinator.com/item?id=16513393)
+
+[Modern Compiler Implementation in ML (Tiger Book) - Typechecker Question](https://www.reddit.com/r/haskell/comments/82q4dw/modern_compiler_implementation_in_ml_tiger_book/) [HaskTiger](https://www.reddit.com/r/haskell/comments/82q4dw/modern_compiler_implementation_in_ml_tiger_book/dvdlsdp/)
+
+[The Handle Pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html) / [Object Oriented Programming in Haskell](http://www.well-typed.com/blog/2018/03/oop-in-haskell/) / [Modularization of Algorithms on
+Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
+
+> About using existentials instead: "Hiding the state in the manner that you describe also hides it from "subclasses"; try to define the mkCounter/ticktock constructors and you'll see what I mean."
+
+[C++ core guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) [HN](https://news.ycombinator.com/item?id=16548866) [best way to learn c++](https://news.ycombinator.com/item?id=16535886)
+
+> I strongly disagree with you. I think too few people use exceptions. They're great for making code more expressive, and it's only through exceptions that you can avoid two-phase initialization of classes and make constructors actually useful. It's only through exceptions that you can have meaningful copy-constructable resource-holding value types. Avoiding these constructs severely restricts the language. And for what? The arguments against exceptions appear to mostly arise from misunderstanding or some kind of weird aesthetic sense that I don't have.
+
+> Error codes also generally discard context and encourage a "just abort" mentality, especially with respect to memory exhaustion. That, or they become so general, mechanized, and macro-ized that they might as well be exceptions, but worse in almost every way.
+
+[Memoization Using Nexuses](https://www.reddit.com/r/haskell/comments/83eu7d/library_for_memoization_using_nexuses/)
+
+[The Task abstraction](https://blogs.ncl.ac.uk/andreymokhov/the-task-abstraction/) [reddit](https://www.reddit.com/r/haskell/comments/87ijm4/the_task_abstraction/)
+
+[Vector creation safety](https://stackoverflow.com/questions/49805854/vector-creation-safety)
+
+[GC-less Haskell: a trivial SDL2 demo](https://www.reddit.com/r/haskell/comments/8fdh8q/gcless_haskell_a_trivial_sdl2_demo/)
+
+[Lessons from Building Static Analysis Tools at Google](https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext) [HN](https://news.ycombinator.com/item?id=16954877)
+
+[Authenticated data structures, generically](https://github.com/adjoint-io/auth-adt) [paper](https://www.cs.umd.edu/~mwh/papers/gpads.pdf) [HN](https://news.ycombinator.com/item?id=17038974)
+
+[Evolutionary Generative Adversarial Networks](https://arxiv.org/abs/1803.00657) [GANs](https://deeplearning4j.org/generative-adversarial-network) [actor-critic](https://arxiv.org/abs/1610.01945) [Generative Adversarial Text to Image Synthesis](https://arxiv.org/abs/1605.05396)
+
+[Breadth-First Traversals in Far Too Much Detail](https://doisinkidney.com/posts/2018-06-03-breadth-first-traversals-in-too-much-detail.html)
+
+[What is the "correct" Haskell nix workflow?](https://www.reddit.com/r/haskell/comments/8rpvua/what_is_the_correct_haskell_nix_workflow/) [deploying Haskell to the cloud](https://www.youtube.com/watch?v=DQ44q2aIP48&list=PLcAu_kKy-krz3t2teYyCM0Lt4015DF-Zp&index=22&t=0s)
+
+[Contributing to GHC 2: Basic Hacking and Organization](https://mmhaskell.com/blog/2018/6/18/contributing-to-ghc-2-basic-hacking-and-organization)
+
+[An Old Conjecture on Stream Transducers](https://www.pvk.ca/Blog/2018/06/24/an-old-conjecture-on-stream-transducers/) [hn](https://news.ycombinator.com/item?id=17479825)
+
+[Loading a Cabal module in the GHC API](https://alternativebit.fr/posts/haskell/cabal-ghc-api/)
+
+[Bit-manipulation operations for high-performance succinct data-structures and CSV parsing](https://haskell-works.github.io/posts/2018-08-22-pdep-and-pext-bit-manipulation-functions.html) [reddit](https://www.reddit.com/r/haskell/comments/99nat2/bitmanipulation_operations_for_highperformance/)
+
+[Forking and ContT](https://hexagoxel.de/postsforpublish/posts/2018-09-09-cont-part-one.html) [ContT, withLifted and resetContIO](https://hexagoxel.de/postsforpublish/posts/2018-09-12-cont-part-two.html)
+
+[Programming Z3](http://theory.stanford.edu/~nikolaj/programmingz3.html) nice tutorial.
+
+[debugging designs with TLA](http://muratbuffalo.blogspot.com/2018/10/debugging-designs-with-tla.html)
+
+[higher-order effects](https://github.com/robrix/higher-order-effects). [tweet](https://mobile.twitter.com/importantshock/status/1050831380945543170).
+
+[Scrap Your Boilerplate with Object Algebras](https://www.reddit.com/r/programming/comments/9rvo63/scrap_your_boilerplate_with_object_algebras/). [original](https://blog.acolyer.org/2015/11/13/scrap-your-boilerplate-with-object-algebras/). [Who's Afraid of Object Algebras?](https://www.infoq.com/presentations/object-algebras).
+
+[timeline of parsing](https://jeffreykegler.github.io/personal/timeline_v3)
+
+[the bits between the bits](https://lobste.rs/s/otvlfc/best_cs_paper_s_you_read_2018)
+
+[Permutations By Sorting](https://doisinkidney.com/posts/2019-03-24-permutations-by-sorting.html)
+
+> A naive—and wrong—way to shuffle a list is to assign each element in the list a random number, and then sort it. It might not be immediately obvious why
+
+[Applicative Regular Expressions using the Free Alternative](https://blog.jle.im/entry/free-alternative-regexp.html). [Parsing context-sensitive languages with Applicative](https://byorgey.wordpress.com/2012/01/05/parsing-context-sensitive-languages-with-applicative/). [Free Monad and Free Applicative using single Free type](http://oleg.fi/gists/posts/2018-02-21-single-free.html). [slides](http://talks.jle.im/composeconf-2019/)
+
+[Syntax-Guided Rewrite Rule Enumeration for SMT Solvers](http://homepage.divms.uiowa.edu/~hbarbosa/papers/rewrites-enum.pdf). 
+
+[Generating Good Generators for Inductive Relations](https://lemonidas.github.io/pdf/GeneratingGoodGenerators.pdf). [What is the best practice to generate data which satisfy specific property in QuickCheck?](https://stackoverflow.com/questions/54122466/what-is-the-best-practice-to-generate-data-which-satisfy-specific-property-in-qu)
+
+[LoCal: A Language for Programs Operating on Serialized Data](https://pldi19.sigplan.org/details/pldi-2019-papers/28/LoCal-A-Language-for-Programs-Operating-on-Serialized-Data). [reddit](https://www.reddit.com/r/haskell/comments/c61686/pldi19_paper_on_accelerate_subset_of_haskell/). [hn](https://news.ycombinator.com/item?id=20261712).
+
+[The Best Refactoring You’ve Never Heard Of](https://www.youtube.com/watch?v=vNwukfhsOME)
+
+[Practical deforestation for fixed-point structures -- introducing tungsten](https://www.reddit.com/r/haskell/comments/cigb7b/practical_deforestation_for_fixedpoint_structures/)
+
+[Faster Coroutine Pipelines](https://dl.acm.org/doi/pdf/10.1145/3110249) [Faster Coroutine Pipelines - a reconstruction](https://gertjan423.github.io/FPLPclub/slides/Faster_Coroutine_Pipelines_A_Reconstruction.pdf). [so question](https://stackoverflow.com/questions/66193235/how-to-implementing-a-fork-function-that-combines-two-consumer-into-one).
+
+[backpropagation as an optic](https://twitter.com/bgavran3/status/1364644340665118722)
+
+[the decidability of EPR (a fragment of first-order logic)](https://twitter.com/wilcoxjay/status/1367698694988992513)
+
+[avorite SAT application (considering SAT-solving techniques in the broader sense, which includes MaxSAT, SMT, QBF, ... recent stuff of high impact)](https://twitter.com/StefanSzeider/status/1367874644909449216)
+
+[a new metalanguage for theorem provers](https://twitter.com/andrasKovacs6/status/1374389716280217606)
+
+[async exception trouble](https://www.reddit.com/r/haskell/comments/mfnti0/async_exceptions_haskell_weekly_podcast/gt9roa6/)
+
+[Does this newtype exist in some library?](https://www.reddit.com/r/haskell/comments/omt3hg/does_this_newtype_exist_in_some_library/)
+
+[A Gentle Run-through of Continuation Passing Style and Its Use Cases /  A Monadic Framework for Delimited Continuations](https://www.reddit.com/r/haskell/comments/ocz5s5/monthly_hask_anything_july_2021/h5ux2nx/).
+
+[Ever wondered how fusion works?](https://www.reddit.com/r/haskell/comments/oshj2c/ever_wondered_how_fusion_works_i_have_some_links/).
+
+## Slides
+
+[Computational semantics course](http://homepages.cwi.nl/~jve/courses/02/pdfs/LOLA.pdf)
+
+> In the second lecture, we look at the extension of dynamic predicate logic to type theory. This gives rise to a system that is very much like modern compositional versions of discourse representation theory. We present an implementation and comment on its failings.
+
+[A Purely Functional Typed Approach to Trainable Models (Part 1)](https://blog.jle.im/entry/purely-functional-typed-models-1.html) [reddit](https://www.reddit.com/r/haskell/comments/8jf1d9/a_purely_functional_typed_approach_to_trainable/)
+
+> It is essentially the same as the wengert mode implementation, except it works heterogeneously. the ad library only works if your input, intermediate and output values all have the same type.
+
+[Contributing to GHC 4: Real Issues](https://mmhaskell.com/blog/2018/7/2/contributing-to-ghc-4-real-issues)
+
+[A Monadic Framework for Delimited Continuations](https://pay.reddit.com/r/haskell/comments/9burp4/what_does_it_take_to_read_a_monadic_framework_for/e561x5k/).
+
+[term rewriting combinators in Haskell](http://dev.stephendiehl.com/rewrite.pdf)
+
+[Entity Component Systems & Data Oriented Design slides](http://aras-p.info/texts/files/2018Academy%20-%20ECS-DoD.pdf). [hn](https://news.ycombinator.com/item?id=18202308)
+
+[What’s the Difference? video and slides](https://byorgey.wordpress.com/2018/10/20/whats-the-difference-video-and-slides/).
+
+[the trouble with typed errors](https://www.reddit.com/r/haskell/comments/9ty6nw/the_trouble_with_typed_errors/)
+
+[balancing scans](https://doisinkidney.com/posts/2018-12-21-balancing-scans.html)
+
+[What is AABB - Collision detection?](https://stackoverflow.com/questions/22512319/what-is-aabb-collision-detection)
+
+[implicit corecursive queues](https://doisinkidney.com/posts/2019-05-14-corecursive-implicit-queues.html). [Difference Lists, Applicatives, And Codensity](https://www.reddit.com/r/haskell/comments/bpdry3/difference_lists_applicatives_and_codensity/). [From monoids to near-semirings: the essence of MonadPlus and Alternative](https://usuarios.fceia.unr.edu.ar/~mauro/pubs/FromMonoidstoNearsemirings.pdf)
+
+[Proof of negation and proof by contradiction](http://math.andrej.com/2010/03/29/proof-of-negation-and-proof-by-contradiction/) [se](https://philosophy.stackexchange.com/questions/561/what-is-the-difference-between-reductio-ad-absurdum-and-proof-by-contradictio). [tweet](https://twitter.com/andrejbauer/status/1189944670706688001).
+
+[Recovering Purity with Comonads and Capabilities](https://arxiv.org/abs/1907.07283) [tweet](https://twitter.com/BartoszMilewski/status/1298655669822791680)
+
+[why ML-like module systems are powerful](https://twitter.com/acid2/status/1343953098201567236). [lists of papers about modules systems](https://github.com/ak3n/modules-papers)
+
+[programming analysis gist](https://twitter.com/trupill/status/1376849739640111110)
+
+## Books
+
+[mathematics for computer science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) on [hn](https://news.ycombinator.com/item?id=13800320)
+
+[algorithms lecture notes and assignments](https://byorgey.wordpress.com/2017/05/15/algorithms-lecture-notes-and-assignments/) [CSCI-280](http://ozark.hendrix.edu/~yorgey/280/static/CSCI-280-lecture-notes.pdf)
+
+[data oriented design 2018](http://www.dataorienteddesign.com/dodbook/)
+
+[Programmin in Z3](https://theory.stanford.edu/~nikolaj/programmingz3.html). [SMT by example](https://news.ycombinator.com/item?id=19075599).
+
+[Syntactic metaprogramming I in meta-cedille](https://whatisrt.github.io/meta-cedille/2019/06/25/syntactic-metaprogramming-i.html). [reddit](https://www.reddit.com/r/haskell/comments/c5ader/syntactic_metaprogramming_in_metacedille/).
+
+[automatic differentiation for dummies](https://tube.switch.ch/cast/videos/c56685cb-9eca-4db8-b071-eb9a97ecbc3d)
+
+[A Functional Reboot for Deep Learning](https://github.com/conal/talk-2018-deep-learning-rebooted)
+
+[coroutining folds with hyperfunctions](https://stackoverflow.com/questions/62199669/why-cant-hyperfunctions-be-coerced-in-ghc)
+
+[Harper’s Regular-Expression Matcher in Cedille](http://homepage.divms.uiowa.edu/~astump/papers/stump-icfp20.pdf)
+
+[Seeking Stability by being Lazy and Shallow](https://richarde.dev/papers/2020/stability/stability.pdf)
+
+## Videos
+
+[MIT 6.046J Design and Analysis of Algorithms, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+
+[Advanced Algorithms (COMPSCI 224), Lecture 1](https://www.youtube.com/watch?v=0JUN9aDxVmI)
+
+[Analyzing Programs with Z3](https://www.youtube.com/watch?v=ruNFcH-KibY)
+
+[APLicative Programming with Naperian Functors](https://www.youtube.com/watch?v=D1sT0xNrHIQ)
+
+[CS50 2017 - Lecture 7 - Dynamic Programming](https://www.youtube.com/watch?v=0y5UkZc-C8Y)
+
+[Differential Topology | Lecture 1 by John W. Milnor](https://www.youtube.com/watch?v=1LwkljjLBns)
+
+[MIT Calculus Revisited: Single Variable Calculus](https://www.youtube.com/watch?v=MFRWDuduuSw&list=PL3B08AE665AB9002A)
+
+[MIT Calculus Revisited: Multivariable Calculus](https://www.youtube.com/watch?v=wsOoClvZmic&list=PL1C22D4DED943EF7B)
+
+[MIT Calculus Revisited: Complex Variable Calculus](https://www.youtube.com/watch?v=BOx8LRyr8mU&list=PLD971E94905A70448)
+
+[MIT 18.01 Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/)
+
+[Fast and Parallel State Machines](https://www.youtube.com/watch?v=b4bb8EP_pIE&index=2&list=PLOvRW_utVPVlMaey1LnM1FWGnJwztEz5O) [Data-Parallel Finite-State Machines paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos302-mytkowicz.pdf)
+
+[Efficiently coding for modern CPUs](https://www.youtube.com/watch?v=KzqNQMpRbac)
+
+[MuniHac 2018 Keynote: Beautiful Template Haskell](https://www.youtube.com/watch?v=AzJVFkm42zM)
+
+[Generative Art](https://www.youtube.com/watch?v=mgLouh5nJO8). Day!
+
+[labelled algebraic graphs](https://skillsmatter.com/skillscasts/12361-labelled-algebraic-graphs)
+
+[Responsive compilers](https://www.youtube.com/watch?v=N6b44kMS6OM)
+
+[C++ algorithms in Haskell](https://twitter.com/BarryRevzin/status/1143672357053243392)
+
+[Haskell SDL2 on Windows](https://www.reddit.com/r/haskell/comments/cjv2hh/help_setting_up_sdl2_on_windows/evgeezf). [more](https://www.reddit.com/r/haskellgamedev/comments/cjux6d/help_setting_up_sdl2_on_windows/).
+
+[automatic differentiation for dummies](https://2019.ecoop.org/details/ecoop-2019-papers/11/Automatic-Differentiation-for-Dummies)
+
+[MuniHac 2019: The many faces of isOrderedTree](https://www.youtube.com/watch?v=xcm_H36v_18)
+
+[a functional reboot for deep learning](https://www.youtube.com/watch?v=Ns3DxUeCvRg)
+
+[Parser Parser Combinators for Program Transformation](https://www.youtube.com/watch?v=JMZLBB_BFNg)
+
+[Good design and type safety in Yahtzee](https://www.reddit.com/r/haskell/comments/ddlo07/good_design_and_type_safety_in_yahtzee/)
+
+[propagators talk](https://twitter.com/GeorgeTalksCode/status/1196255755063574528)
+
+[Stacked Borrows - An Aliasing Model for Rust](https://www.youtube.com/watch?v=OpkcafHPOFM&feature=emb_logo)
+
+[Technical Talk: Michele Pagani on automatic differentiation](https://blogs.ed.ac.uk/he-lab/2020/09/09/tt-ad/)
+
+[10-part series on breadth-first traversals](https://doisinkidney.com/series/Breadth-First%20Traversals.html)
+
+[The Dawn of Computational Complexity Theory](https://www.youtube.com/watch?v=0QqQRneORgk)
+
+[Environment-Passing Style](https://twitter.com/rob_rix/status/1413171439444897799)
+
+> Functions of type A → B can be translated into corresponding functions of type ¬B → ¬A in continuation-passng style (CPS), where ¬A is logically negation but computationally a continuation from A.
+
+> This widens the view of functions as value transformers, taking values of type A to values of type B, to include an alternative perspective of them as continuation transformers
+
+[monadic compiler calculation](https://twitter.com/haskellhutt/status/1413185337095036936)
+
+[using graded coeffects to work with multiple versions of a package within a single program](https://twitter.com/brendanzab/status/1418760823405563910)

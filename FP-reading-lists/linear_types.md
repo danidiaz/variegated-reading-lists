@@ -1,0 +1,47 @@
+[UnrestrictedMonadTransformer](https://twitter.com/sjoerd_visscher/status/1359854099651588100)
+
+[linear-base makes writing Linear Haskell easy and fun](https://www.reddit.com/r/haskell/comments/lhheg8/tweag_linearbase_makes_writing_linear_haskell/)
+
+[relative monads](https://www.reddit.com/r/haskell/comments/lhheg8/tweag_linearbase_makes_writing_linear_haskell/gmxvxkl/)
+
+[linear optics](https://www.reddit.com/r/haskell/comments/lhheg8/tweag_linearbase_makes_writing_linear_haskell/gmxwfht/)
+
+[@rae: Avoid losing money via -XLinearTypes](https://www.youtube.com/watch?v=l-h-vH8JxDE)
+
+[@rae: Connecting linearity and relevance in Dependent Haskell](https://www.youtube.com/watch?v=zglkdlK2zR8)
+
+[Data.Array.Polarized](http://hackage.haskell.org/package/linear-base-0.1.0/docs/Data-Array-Polarized.html)
+
+Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the paper)
+
+[controlling fusion in haskell](http://jyp.github.io/posts/controlled-fusion.html). [Composable Efficient Array Computations Using Linear Types](https://lopezjuan.com/project/limestone/vectorcomp.pdf). [Deforestation: transforming programs to eliminate trees](https://www.sciencedirect.com/science/article/pii/030439759090147A).
+
+[linear cats](https://twitter.com/sjoerd_visscher/status/1360639785023377410)
+
+[ATS](https://lobste.rs/s/eu70sb/ats_why_linear_types_are_future_systems)
+
+[linear one-liner](https://twitter.com/sjoerd_visscher/status/1364263840150650881)
+
+[linear types for circuit desing in clash](https://www.reddit.com/r/haskell/comments/lt3gtx/linear_types_for_circuit_design_in_haskellclash/)
+
+[linear constraints](https://twitter.com/tweagio/status/1369985074284929025)
+
+[uniqueness types vs. linearity](https://www.reddit.com/r/haskell/comments/m3epde/linear_constraints/gqu389i/)
+
+[Evaluating Linear Functions to Symmetric Monoidal Categories](https://arxiv.org/abs/2103.06195). [programming without function](https://www.youtube.com/watch?v=xZmPuz9m2t0) (related video, but no linear types).
+
+[With linear types and the right notion of an arrow, we can build full intuitionistic linear logic](https://twitter.com/kmett/status/1376235979481116672)
+
+[Deadlock-Free Session Types in Linear Haskell](https://arxiv.org/abs/2103.14481)
+
+[linear logic](https://www.reddit.com/r/haskell/comments/mgve3s/linear_logic_in_ghc_9/gsxbysh/) 
+
+> A Brouwerian viewpoint on proof is that it is about transforming proofs into proofs, and then only later did folks start thinking about how to transform disproof.
+
+[A Fresh Look at Linear Temporal Logic](https://www.youtube.com/watch?v=iZI4wLxemeY)
+
+[Extending Homotopy Type Theory with Linear Type Formers](https://www.youtube.com/watch?v=sPxtdCtjSDc)
+
+[EXPLORING LINEAR TRAVERSABLE USING GENERICS](https://www.tweag.io/blog/2021-07-08-linear-traversable/)
+
+[working on a linear set theory](https://twitter.com/aspiwack/status/1420395091009617934)

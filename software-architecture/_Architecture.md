@@ -953,3 +953,11 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
  
 [DDD repositories in application or domain service](https://softwareengineering.stackexchange.com/questions/330428/ddd-repositories-in-application-or-domain-service)
   
+[DDD: is it correct for a root aggregate to hold a reference to another root aggregate?](https://softwareengineering.stackexchange.com/questions/328571/ddd-is-it-correct-for-a-root-aggregate-to-hold-a-reference-to-another-root-aggr)
+
+> A commonly accepted good practice is to refer to an AR by storing its ID, not a full reference.
+
+> Nothing outside the AGGREGATE boundary can hold a reference to anything inside, except to the root ENTITY. The root ENTITY can hand references to the internal ENTITIES to other objects, but those objects can use them only transiently, and they may not hold on to the reference. The root may hand a copy of a VALUE OBJECT to another object, and it doesn't matter what happens to it, because it's just a VALUE and no longer will have any association with the AGGREGATE.
+
+> Root ENTITIES have global identity. ENTITIES inside the boundary have local identity, unique only within the AGGREGATE.
+

@@ -37,3 +37,6 @@
 [CI/CD for Databases talk](https://twitter.com/jbogard/status/1223262501544087552)
 
 [haskell ci cd](https://www.reddit.com/r/haskell/comments/eykyzf/what_is_your_haskell_cicd_like_in_2020/)
+
+[Automating a Software Company with GitHub Actions](https://news.ycombinator.com/item?id=28234057)
+

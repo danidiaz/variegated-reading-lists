@@ -1,0 +1,252 @@
+[Java 9 on Java EE 8 Using Eclipse and Open Liberty](https://dzone.com/articles/java-9-on-java-ee-8-using-eclipse-and-open-liberty)
+
+[JAVA EE 8 ON JAVA 9 - FROM INSTALL TO DEPLOYMENT WITH OPENLIBERTY SERVER](http://adambien.blog/roller/abien/entry/java_ee_8_on_java)
+
+[Build your own open source Eclipse MicroProfile](https://jaxenter.com/open-source-microprofile-145749.html)
+
+[Graceful Shutdown Spring Boot Applications](https://dzone.com/articles/graceful-shutdown-spring-boot-applications)
+
+[How to bootstrap JPA programmatically without the persistence.xml configuration file](https://vladmihalcea.com/how-to-bootstrap-jpa-programmatically-without-the-persistence-xml-configuration-file/)
+
+[Difference Between BeanFactory and ApplicationContext in Spring](https://dzone.com/articles/difference-between-beanfactory-and-applicationcont)
+
+[Build your own open source Eclipse MicroProfile](https://jaxenter.com/open-source-microprofile-145749.html)
+
+[The magic of Spring Data](https://dzone.com/articles/magic-of-spring-data)
+
+[Understanding Jakarta EE: “Modularity is key to faster release cycles”](https://jaxenter.com/understanding-jakarta-ee-series-rahman-147683.html)
+
+[Spring Boot – Best Practices](https://www.e4developer.com/2018/08/06/spring-boot-best-practices/)
+
+[10 Spring Boot Security Best Practices](https://snyk.io/blog/spring-boot-security-best-practices/)
+
+[Deep Dive into JUnit 5 Extension Model](https://www.infoq.com/articles/deep-dive-junit5-extensions)
+
+[Ten Things You Can Do With GraalVM](https://www.youtube.com/watch?v=tEaEAq0L9Pk)
+
+[Java Performance Puzzlers](https://www.youtube.com/watch?v=wgQBz2Ldhvk)
+
+[Exploring Java 9: The Key Parts](https://www.youtube.com/watch?v=Yacu1yUktjY)
+
+[Build a MySQL Spring Boot App Running on WildFly on an Azure VM](https://www.infoq.com/articles/azure-wildfly-spring-boot-app)
+
+[BORING ENTERPRISE JAVA](http://eldermoraes.com/2018/08/31/boring-enterprise-java-airhacks-fm-podcast/)
+
+[JWT and Scalability, JSON-B Configuration, Bulk Data and JAX-RS, EclipseLink, Hibernate and Schema Validation, designing distributed storage applications, Payara Dockerfile explanation](http://adambien.blog/roller/abien/entry/from_tokens_over_storage_systems) [twitter](https://twitter.com/AdamBien/status/1037721019606294529)
+
+[Consumer Driven Contract with Spring Boot](https://medium.com/@caysever/consumer-driven-contract-with-spring-boot-65ab504b529e)
+
+[JDBC in Java, Hibernate, and ORMs: The Ultimate Resource](https://www.databasestar.com/jdbc-in-java/)
+
+[Helidon](https://jaxenter.com/helidon-microservices-interview-kornilov-149734.html)
+
+[Building an offline app from scratch and with web standards only.](https://twitter.com/AdamBien/status/1043783135488606208).
+
+[sts 4](https://spring.io/blog/2018/09/25/spring-tools-4-ga-released)
+
+[kubernetes para desarrolladores java](workshop-04-Kubernetes-para-desarrolladores-Java)
+
+[airhacks](https://twitter.com/AdamBien/status/1046625240359620608)
+
+[A NOTE ON DATA TRANSFER OBJECTS (DTO)S](http://adambien.blog/roller/abien/entry/a_note_on_dtos).
+
+[frameworks for Java application development.
+
+[Mastering Spring framework 5, Part 2: Spring WebFlux](https://www.javaworld.com/article/3288219/spring-framework/mastering-spring-framework-5-part-2-spring-webflux.html).
+
+[Oracle Code One 2018](https://developer.oracle.com/codeone).
+
+[Live-Coding Web Apps (PWAs)—Without Frameworks](https://www.youtube.com/watch?v=SUpnzspMFkI).
+
+[Guide to "Reactive" for Spring MVC Developers](https://www.infoq.com/presentations/spring-reactive-webflux).
+
+[HOW TO STRUCTURE JAKARTA EE APPLICATIONS FOR PRODUCTIVITY WITHOUT BLOAT](http://adambien.blog/roller/abien/entry/how_to_structure_jakarta_ee).
+
+[Designing the infrastructure persistence layer](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design).
+
+[Can you have multiple transactions within one Hibernate Session?](https://stackoverflow.com/questions/25893476/can-you-have-multiple-transactions-within-one-hibernate-session).
+
+> A hibernate session is more or less a database connection and a cache for database objects. 
+
+> A Session is an inexpensive, non-threadsafe object that should be used once and then discarded for: a single request, a conversation or a single unit of work. 
+
+[How do I get the connection inside of a Spring transaction?](https://stackoverflow.com/questions/11779469/how-do-i-get-the-connection-inside-of-a-spring-transaction).
+
+> The transaction manager is completely orthogonal to data sources. Some transaction managers interact directly with data sources, some interact through an intermediate layer (eg, Hibernate), and some interact through services provided by the container (eg, JTA).
+
+[Class HibernateTransactionManager](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/orm/hibernate5/HibernateTransactionManager.html#setSessionFactory-org.hibernate.SessionFactory-).
+
+> PlatformTransactionManager implementation for a single Hibernate SessionFactory. Binds a Hibernate Session from the specified factory to the thread, potentially allowing for one thread-bound Session per factory. SessionFactory.getCurrentSession() is required for Hibernate access code that needs to support this transaction handling mechanism, with the SessionFactory being configured with SpringSessionContext.
+
+> Note: To be able to register a DataSource's Connection for plain JDBC code, this instance needs to be aware of the DataSource (setDataSource(javax.sql.DataSource)). The given DataSource should obviously match the one used by the given SessionFactory.
+
+> This transaction manager is appropriate for applications that use a single Hibernate SessionFactory for transactional data access, but it also supports direct DataSource access within a transaction (i.e. plain JDBC code working with the same DataSource). This allows for mixing services which access Hibernate and services which use plain JDBC (without being aware of Hibernate)! Application code needs to stick to the same simple Connection lookup pattern as with DataSourceTransactionManager (i.e. DataSourceUtils.getConnection(javax.sql.DataSource) or going through a TransactionAwareDataSourceProxy).
+
+
+[Interface Session](http://docs.jboss.org/jbossas/javadoc/7.1.2.Final/org/hibernate/Session.html).
+
+> The main runtime interface between a Java application and Hibernate. This is the central API class abstracting the notion of a persistence service.
+
+> The lifecycle of a Session is bounded by the beginning and end of a logical transaction. (Long transactions might span several database transactions.)
+
+> It is not intended that implementors be threadsafe. Instead each thread/transaction should obtain its own instance from a SessionFactory.
+
+[Class DataSourceUtils](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/jdbc/datasource/DataSourceUtils.html#doGetConnection-javax.sql.DataSource-).
+
+> Is aware of a corresponding Connection bound to the current thread, for example when using DataSourceTransactionManager. Will bind a Connection to the thread if transaction synchronization is active (e.g. if in a JTA transaction).
+
+[Hibernate commit() and flush()](https://stackoverflow.com/questions/14581865/hibernate-commit-and-flush).
+
+> flush() will synchronize your database with the current state of object/objects held in the memory but it does not commit the transaction. So, if you get any exception after flush() is called, then the transaction will be rolled back. You can synchronize your database with small chunks of data using flush() instead of committing a large data at once using commit() and face the risk of getting an Out Of Memory Exception.
+
+> commit() will make data stored in the database permanent. There is no way you can rollback your transaction once the commit() succeeds.
+
+> One common case for explicitly flushing is when you create a new persistent entity and you want it to have an artificial primary key generated and assigned to it, so that you can use it later on in the same transaction. In that case calling flush would result in your entity being given an id.
+
+> Commit(); Commit will make the database commit.When you have a persisted object and you change a value on it, it becomes dirty and hibernate needs to flush these changes to your persistence layer.So You should commit but it also ends the unit of work.transaction.commit()
+
+> It is usually not recommended to call flush explicitly unless it is necessary. Hibernate usually auto calls Flush at the end of the transaction and we should let it do it's work. Now, there are some cases where you might need to explicitly call flush where a second task depends upon the result of the first Persistence task, both being inside the same transaction.
+
+[Hibernate sessions and transaction management guidelines](https://developer.atlassian.com/server/confluence/hibernate-sessions-and-transaction-management-guidelines/).
+
+> Hibernate sessions are not thread-safe. Not only does this mean you shouldn’t pass a Hibernate session into a new thread, it also means that because objects you load from a session can be called from (and call back to) their owning session, you must not share Hibernate-managed objects between threads. Once again, try to only pass object IDs, and load the object freshly from the new thread’s own session.
+
+> Spring’s transaction management places the Hibernate session in a ThreadLocal variable, accessed via the sessionFactory. All Confluence DAOs use that ThreadLocal. This means that when you create a new thread you no longer have access to the Hibernate session for that thread (a good thing, as above), and you are no longer part of your current transaction.
+
+[MicroProfile, the microservice programming model made for Istio](https://www.eclipse.org/community/eclipse_newsletter/2018/september/MicroProfile_istio.php).
+
+[Spring Boot in a Container](https://spring.io/blog/2018/11/08/spring-boot-in-a-container).
+
+[From Jakarta EE over MicroProfile to Serverless: Interactive Onstage Hacking](https://www.youtube.com/watch?v=eBcpvmLjpZM).
+
+[Full Stack Reactive Java con @ProjectReactor!](https://speakerdeck.com/mkheck/full-stack-reactive-java-con-project-reactor-y-spring-boot-2). [tweet](https://twitter.com/mkheck/status/1068811689666232320).
+
+[2019 predictions](http://adambien.blog/roller/abien/entry/2019_predictions).
+
+[Jakarta EE MicroProfile WebStandards, On Stage Hacking noslides by Adam Bien](https://www.youtube.com/watch?v=_a8FVESHjlQ)
+
+[JSON-P: REMOVING A SLOT FROM A JSONOBJECT WITH JSONPATCH](http://adambien.blog/roller/abien/entry/json_p_removing_a_slot).
+
+[Pagination and Sorting With Spring Data JPA](https://dzone.com/articles/pagination-and-sorting-with-spring-data-jpa)
+
+[tweet](https://twitter.com/lukaseder/status/1100323374960701440)
+
+> So. The correct way to fix someone else's Spring Boot setup is to just try random annotations until it works, right?
+
+[EXCEPTION HTTP STATUS MAPPING WITHOUT MAPPERS](http://adambien.blog/roller/abien/entry/exception_http_status_mapping_without)
+
+[i18n in Java 11, Spring Boot, and JavaScript](https://developer.okta.com/blog/2019/02/25/java-i18n-internationalization-localization)
+
+[searching in a distributed world](https://www.infoq.com/presentations/redis-enterprise-spring)
+
+[OPTIMIZING FOR HUMANS, NOT MACHINES](http://adambien.blog/roller/abien/entry/optimizing_for_humans_not_machines)
+
+[jee](https://piotrminkowski.wordpress.com/2019/03/11/a-magic-around-spring-boot-externalized-configuration/)
+
+[ the Spring Framework Early Days, Languages Post-Java, & Rethinking CI/CD](https://www.infoq.com/podcasts/johnson-spring-framework)
+
+[how fast is spring?](https://www.infoq.com/presentations/spring-framework-slow)
+
+[java in the 21 century](https://jaxenter.com/java-in-the-21st-century-156544.html)
+
+[webmvc.fn](https://twitter.com/SpringTipsLive/status/1113351225104314368)
+
+[Spring tips - dinamic views](https://twitter.com/SpringTipsLive/status/1126184279099228160)
+
+[MULTIPLE CACHE CONFIGURATIONS WITH CAFFEINE AND SPRING BOOT](https://techblog.bozho.net/multiple-cache-configurations-with-caffeine-and-spring-boot/)
+
+> Caching is key for performance of nearly every application. Distributed caching is sometimes needed, but not always. In many cases a local cache would work just fine and there’s no need for the overhead and complexity of the distributed cache.
+
+[Using ConfigMaps to configure MicroProfile / Java EE 8 applications](https://twitter.com/AdamBien/status/1128161192629944320)
+
+[A Quick Guide to Spring Boot Login Options](https://developer.okta.com/blog/2019/05/15/spring-boot-login-options)
+
+[Reactive Transactions with Spring](https://spring.io/blog/2019/05/16/reactive-transactions-with-spring)
+
+[@ComponentScan on a @Service class in #Spring actually works and contributes to the application context](https://twitter.com/rotnroll666/status/1129042374989160449)
+
+[Basic Concepts: @Bean and @Configuration](https://docs-stage.spring.io/spring/docs/current/spring-framework-reference/core.html#beans-java-basic-concepts)
+
+[Build a Spring Boot App With Flyway and Postgres](https://dzone.com/articles/build-a-spring-boot-app-with-flyway-and-postgres)
+
+[Spring boot tips](https://twitter.com/spring_io/status/1135474016368701440). [video](https://www.youtube.com/watch?v=azTAKKCtNXE).
+
+[Event Driven Microservices with Axon and Spring Boot](https://twitter.com/spring_io/status/1135502736890454017)
+
+[the proxy fairy and the magic of Spring](https://www.youtube.com/watch?v=HbbvyZh3IZo)
+
+[spring boot internals](https://twitter.com/madhurabhave23/status/1149003060657582081)
+
+[I DON'T YOUR DEPENDENCY INJECTION](http://adambien.blog/roller/abien/entry/i_don_t_your_dependency)
+
+[correspondences](https://twitter.com/_JamesWard/status/1151250878218850305)
+
+[bootiful podcast hateoas](https://twitter.com/BootifulPodcast/status/1154649344361893889)
+
+[Installing Jenkins, creating S2I build, setting up a CD pipeline, building, deploying and testing a Java EE / Jakarta EE / MicroProfile service (twice) and configuring the readiness probe ...in 7 minutes](http://adambien.blog/roller/abien/entry/building_microservices_on_openshift_with)
+
+[Spring Cloud Data Flow](https://www.youtube.com/watch?v=ecNfohOuzMI)
+
+[Things that should not appear in Java code in 2019](https://twitter.com/_JamesWard/status/1158419711153098753)
+
+> (about no getters) Most libraries (Jackson, Spring, etc) have supported direct field access for a while.
+
+[What's new in Spring Framework 5.x](https://github.com/spring-projects/spring-framework/wiki/What's-New-in-Spring-Framework-5.x#testing)
+
+[CODE SHRINKING TECHNIQUES WITH JAKARTA EE AND MICROPROFILE--DEVOXX](http://adambien.blog/roller/abien/entry/code_shrinking_techniques_with_jakarta)
+
+[live refactoring session](https://www.youtube.com/watch?v=Zfgc7qJEZZ0)
+
+[polyglot microservice example using #helidon and #graalVM](https://twitter.com/langer_tomas/status/1160899987561226241)
+
+[web frameworks](https://twitter.com/danieldietrich/status/1171424384679985155)
+
+[From Spring Boot apps to functional Kotlin](https://www.reddit.com/r/programming/comments/d3mmo9/from_spring_boot_apps_to_functional_kotlin/)
+
+[From Spring Boot apps to functional Kotlin](https://www.youtube.com/watch?v=f6a78mCrSeE)
+
+[Modernize and optimize Spring Boot applications](https://developer.ibm.com/articles/modernize-and-optimize-spring-boot-applications/)
+
+[dynamic CDS archives](https://twitter.com/nipafx/status/1173481641404243968)
+
+[Understanding Low Latency JVM GCs - Jean-Philippe BEMPEL](https://www.reddit.com/r/java/comments/d28wtw/understanding_low_latency_jvm_gcs_jeanphilippe/)
+
+[The Lean, Mean... OpenJDK?](https://www.reddit.com/r/java/comments/d3ept6/the_lean_mean_openjdk/)
+
+[JAKARTA EE 8: LINKS AND RESOURCES](http://adambien.blog/roller/abien/entry/jakarta_ee_8_useful_links)
+
+[JAVA EE IS DEAD](http://adambien.blog/roller/abien/entry/java_ee_is_dead_completely)
+
+[The definite guide to Java agents](https://vimeo.com/362325091)
+
+[Writing controllers](https://dzone.com/articles/14-tips-for-writing-spring-mvc-controller)
+
+[CODE SHRINKING WITH QUARKUS AND PANACHE ORM](http://adambien.blog/roller/abien/entry/code_shrinking_with_quarkus_and)
+
+[Live-Coding Web Apps (PWAs)—Without Frameworks](https://www.youtube.com/watch?v=SUpnzspMFkI)
+
+[henandoah – ultra-low Pause Time Garbage Collector](https://www.youtube.com/watch?v=nEs_i_Vc24Y)
+
+[How Quarkus brings imperative and reactive programming together](https://developers.redhat.com/blog/2019/11/18/how-quarkus-brings-imperative-and-reactive-programming-together/)
+
+[How to Get Productive with Spring Boot](https://www.infoq.com/presentations/spring-boot-di-devtools-autocompletion/)
+
+[Quarkus and CORS](https://www.youtube.com/watch?v=MD-GdTDVKJM&feature=youtu.be)
+
+[My view is that a vast majority of applications are fine as monoliths](https://twitter.com/reza_rahman/status/1235923816116817920)
+
+[Well secured and documented REST API with Eclipse Microprofile and Quarkus](https://kostenko.org/blog/2020/02/jwt-openapi-microprofile-quarkus.html)
+
+[Configuring a Main Class in Spring Boot](https://dzone.com/articles/configuring-a-main-class-in-spring-boot)
+
+[Back to Shared Deployments](https://twitter.com/AdamBien/status/1239220326195699718)
+
+[Autoconfigurations In-Depth](https://twitter.com/nicolas_frankel/status/1242728634030448640)
+
+[Part III: Read Entities - Jakarta EE CRUD API Tutorial](https://www.youtube.com/watch?v=iT7G7yvE1Zw)
+
+[Full-Duplex Scalable Client-Server Communication with WebSockets and Spring Boot (Part I)](https://twitter.com/DZoneInc/status/1256259750502727680)
+
+[Best Performance Practices for Hibernate 5 and Spring Boot 2](https://dzone.com/articles/50-best-performance-practices-for-hibernate-5-amp)
+
+[create a simple  @SpringData #JPA application using  @intellijidea](https://twitter.com/JPABuddy/status/1414550810571198466)

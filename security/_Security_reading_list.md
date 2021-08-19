@@ -1,0 +1,342 @@
+http://security.stackexchange.com/questions/33585/what-do-i-need-to-do-to-secure-log-in-and-registration-for-my-website
+http://security.stackexchange.com/questions/55789/secure-custom-registration-links
+http://security.stackexchange.com/questions/tagged/web-application?sort=votes&pageSize=15
+http://security.stackexchange.com/questions/tagged/authentication?sort=votes&pageSize=15
+http://security.stackexchange.com/questions/988/is-basic-auth-secure-if-done-over-https
+http://security.stackexchange.com/questions/32003/passwords-being-sent-in-clear-text-due-to-users-mistake-in-typing-it-in-the-use
+http://security.stackexchange.com/questions/137418/how-does-google-know-where-i-am
+http://security.stackexchange.com/questions/8596/https-security-should-password-be-hashed-server-side-or-client-side
+http://security.stackexchange.com/questions/23006/client-side-password-hashing
+http://security.stackexchange.com/questions/2985/web-security-cheatsheet-todo-list
+http://security.stackexchange.com/questions/76779/is-sql-injection-possible-in-this-php-registration-script
+http://security.stackexchange.com/questions/33585/what-do-i-need-to-do-to-secure-log-in-and-registration-for-my-website
+http://security.stackexchange.com/questions/33793/handling-passwords-in-a-web-application?noredirect=1&lq=1
+http://security.stackexchange.com/questions/29742/does-overlaying-the-mouse-on-a-virtual-numeric-keyboard-really-protect-against-k/29744#29744
+http://security.stackexchange.com/questions/128412/sql-injection-is-17-years-old-why-is-it-still-around
+http://security.stackexchange.com/questions/988/is-basic-auth-secure-if-done-over-https
+http://security.stackexchange.com/questions/110676/how-should-i-securely-type-a-password-in-front-of-a-lot-of-people
+http://security.stackexchange.com/questions/68009/four-factor-authentication
+http://security.stackexchange.com/questions/13026/forgotten-password-or-reset-link-which-is-more-secure-to-email?rq=1
+http://security.stackexchange.com/questions/13026/forgotten-password-or-reset-link-which-is-more-secure-to-email?rq=1
+http://security.stackexchange.com/questions/117730/why-would-a-website-that-resets-your-password-to-one-of-their-choice-be-consider?noredirect=1&lq=1
+http://security.stackexchange.com/questions/105927/password-reset-url-forwarding
+http://security.stackexchange.com/questions/6050/real-salt-and-fake-salt
+http://security.stackexchange.com/questions/17421/how-to-store-salt
+http://security.stackexchange.com/questions/211/how-to-securely-hash-passwords/31846#31846
+http://security.stackexchange.com/questions/4781/do-any-security-experts-recommend-bcrypt-for-password-storage
+http://security.stackexchange.com/questions/40482/need-references-about-why-public-access-to-a-password-hash-and-salt-is-poor-prac
+http://security.stackexchange.com/questions/122999/maximum-reasonable-password-length
+http://security.stackexchange.com/questions/33470/what-technical-reasons-are-there-to-have-low-maximum-password-lengths
+http://security.stackexchange.com/questions/33470/what-technical-reasons-are-there-to-have-low-maximum-password-lengths
+http://security.stackexchange.com/questions/33196/is-there-a-length-beyond-which-increasing-password-length-provides-no-additional
+http://security.stackexchange.com/questions/113059/where-to-save-keepass-file
+http://security.stackexchange.com/questions/112688/how-can-using-multiple-laptops-improve-security/112737#112737
+http://security.stackexchange.com/questions/42788/practical-and-secure-use-of-keepass
+http://security.stackexchange.com/questions/3272/password-hashing-add-salt-pepper-or-is-salt-enough
+http://security.stackexchange.com/questions/99910/password-hashing-using-2-salts?noredirect=1&lq=1
+http://security.stackexchange.com/questions/29745/ive-heard-that-salt-is-not-meant-to-be-secret-but-what-if-i-made-it-secret?noredirect=1&lq=1
+http://security.stackexchange.com/questions/29414/when-hashing-passwords-is-it-okay-to-store-the-algorithm-used-right-there-in-th
+http://security.stackexchange.com/questions/24449/how-valuable-is-secrecy-of-an-algorithm
+http://security.stackexchange.com/questions/17421/how-to-store-salt
+http://security.stackexchange.com/questions/51959/why-are-salted-hashes-more-secure-for-password-storage
+http://security.stackexchange.com/questions/17421/how-to-store-salt
+http://security.stackexchange.com/questions/17421/how-to-store-salt
+http://security.stackexchange.com/questions/17421/how-to-store-salt
+http://security.stackexchange.com/questions/379/what-are-rainbow-tables-and-how-are-they-used
+http://security.stackexchange.com/questions/379/what-are-rainbow-tables-and-how-are-they-used
+http://security.stackexchange.com/questions/60691/length-of-passwords-that-are-rainbow-table-safe
+http://stackoverflow.com/questions/39123563/what-is-the-difference-between-physical-and-logical-backup
+http://stackoverflow.com/questions/290951/best-practices-for-web-login-authentication
+http://stackoverflow.com/questions/3715920/is-it-worth-hashing-passwords-on-the-client-side
+http://stackoverflow.com/questions/290951/best-practices-for-web-login-authentication
+http://stackoverflow.com/questions/1131332/sql-injection-attack-on-asp-registration-form-pages
+http://stackoverflow.com/questions/1774876/password-hashing-at-client-browser BAD IDEA
+http://stackoverflow.com/questions/16425345/how-to-pass-const-pointer-to-const-object-using-unique-ptr
+http://stackoverflow.com/questions/18389537/does-postgresql-serial-work-differently
+http://stackoverflow.com/questions/98768/should-i-impose-a-maximum-length-on-passwords
+http://stackoverflow.com/questions/6832445/how-can-bcrypt-have-built-in-salts
+http://stackoverflow.com/questions/2999197/do-i-need-a-random-salt-once-per-password-or-only-once-per-database
+http://stackoverflow.com/questions/16891729/best-practices-salting-peppering-passwords
+http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication
+http://security.blogoverflow.com/2011/09/qotw-9-what-are-rainbow-tables-and-how-are-they-used
+http://stackoverflow.com/questions/12461484/is-it-secure-to-store-passwords-as-environment-variables-rather-than-as-plain-t
+http://security.stackexchange.com/questions/83180/secure-database-password-stored-in-an-env-variable
+http://security.stackexchange.com/questions/14000/environment-variable-accessibility-in-linux/14009#14009
+https://news.ycombinator.com/item?id=8826024
+http://rabexc.org/posts/pitfalls-of-ssh-agents
+http://unix.stackexchange.com/questions/70709/ssh-agent-dont-forward-authentication-for-the-whole-keyring
+https://security.stackexchange.com/questions/9251/what-is-the-security-implications-of-enabling-ssh-onward-connections
+http://security.stackexchange.com/questions/78828/how-can-i-prevent-keys-loaded-into-ssh-agent-from-being-sent-to-a-particular-in
+https://news.ycombinator.com/item?id=9425805
+https://security.stackexchange.com/questions/183083/is-it-safe-wise-to-store-a-salt-in-the-same-field-as-the-hashed-password
+
+[CORS explained](https://news.ycombinator.com/item?id=17224772)
+
+https://wiki.mozilla.org/Security/Origin
+https://seclab.stanford.edu/websec/csrf/csrf.pdf
+https://mixmax.com/blog/cors
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet#Checking_the_Origin_Header
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+
+https://stackoverflow.com/questions/15988323/cors-and-origin-header
+
+https://www.reddit.com/r/programmingcirclejerk/comments/8t3cu8/ive_always_liked_the_concept_of_a_localhostd_web/e14zp9h/
+
+It's a very, very hard solution to secure properly. My team built and ran one for 4-5 years with millions of installs. Although we never did anything as dumb as the eDellRoot issue from 2015, we ran into a lot of little issues that were easy to miss but could allow attackers to bypass at least some of your defenses. Are you checking CORS properly, or can an attacker forcing you to visit http://google.com.malware.io bypass your checks? Are your domains free from open redirects that would allow an attacker to fake a Referer header from your site? Are you checking that the Host header is localhost to thwart DNS rebinding attacks?
+
+Not to mention, no one issues HTTPS certs for localhost, so you're stuck on HTTP unless your installer forces the PC to trust an unsigned cert (but don't pull a Superfish by issuing identical certs to every install!).
+
+The localhost server allowed us to get rid of all of our browser plugins (which luckily coincided with Mozilla shuttering NPAPI and Chrome neutering its webstore plugins to introduce Native Messaging), which was awesome because we could deliver a single application that more or less "just worked" in all major browsers, but I promise you, the way is fraught with danger.
+
+Eventually we shuttered the server, replacing it with a WPF UI (it was Windows-only already) because there were too many risks (e.g. you can never turn off the web server, even when the user isn't interacting with the application, because there is no reliable way to turn it back on). RIP but it was fun while it lasted.
+
+https://tomforb.es/dell-system-detect-rce-vulnerability
+https://tomforb.es/hp-support-solutions-framework-security-issue
+https://bugs.chromium.org/p/project-zero/issues/detail?id=693
+https://bugs.chromium.org/p/project-zero/issues/detail?id=1447
+
+[There's more to HTML escaping than &, <, >, and "](https://wonko.com/post/html-escaping)
+
+[You don’t need that Bastion host](https://medium.com/@henriksylvesterpedersen/you-dont-need-that-bastion-host-cd1b1717a9e7) [lobsters](https://lobste.rs/s/yi6aeq/you_don_t_need_bastion_host)
+
+>  you can (and IMO should) use ProxyJump/ProxyCommand instead of agent forwarding
+
+> Any non trivial tool will be able to quickly port scan the local subnets and jump along, so they don’t slow attackers: Maybe you should have talked to an attacker before writing this. I almost never port scan unless it’s my last resort. ARP tables, routes, configuration files, and connected ssh-agents are the name of the game. A proper bastion shouldn’t be giving these access parameters, seriously prevent shell access, chroot, and like vbernat said use the ProxyJump command and an ssh_config.
+
+[My arsenal of AWS security tools](https://blyx.com/2018/07/18/my-arsenal-of-aws-security-tools/)
+
+[Chaff Bugs: Deterring Attackers by Making Software Buggier](https://arxiv.org/abs/1808.00659)
+
+[Software Security is a Programming Languages Issue](http://www.pl-enthusiast.net/2018/08/13/security-programming-languages-issue/)
+
+[The secure developer podcast](https://www.heavybit.com/library/podcasts/the-secure-developer/)
+
+https://www.slideshare.net/radcortez/deconstructing-and-evolving-rest-security-117402065
+https://tools.ietf.org/html/draft-cavage-http-signatures-10
+
+insecure transit https://www.youtube.com/watch?v=Knk8rUTGkKU
+
+First, a definition from Chrome:
+
+Same-site cookies (née "First-Party-Only" (née "First-Party")) allow servers to mitigate the risk of CSRF and information leakage attacks by asserting that a particular cookie should only be sent with requests initiated from the same registrable domain.
+
+So what does this protect against?
+
+CSRF?
+
+Same-site cookies can effectively prevent CSRF attacks. Why?
+
+If you set the session cookie as same site, it will only be sent if a request emanates from your site. So a standard CSRF attack where the attacker lures the victim to the site http://malicious.comthat posts a request to http://bank.com/transfer.php?amount=10000&receiver=evil_hacker will not work. Since malicious.com is not the same origin as bank.com, the browser will not send the session cookie, and transfer.php will execute as if the victim was not logged in.
+
+This is very similar to how setting a X-Csrf-Token HTTP header protects you from CSRF - again there is something that is only sent if the request emanates from your domain. The same-site property turns your session cookie into a CSRF-token.
+
+So problem solved? Well, sort of. There are some caveats:
+
+·        This will only work for browsers that implement this feature. So far, very few do. Unless you want to throw everybody who uses a slightly older browser under the bus, you will still need to implement an old fashioned CSRF-token.
+
+·        If you need more fine-grained control, this will not be enough. If you run a system that displays untrusted user content, like a forum, you don't want requests originating from user posts to be treated as valid. If someone posts a link to http://myforum.com/?action=delete_everythingyou don't want that to delete anything just because a user clicks it. With a traditional CSRF-token, you can control exactly when it is used. With a same-site cookie, you can not.
+
+·        The same old caveats as for old fashioned CSRF protections still apply. If you have an XSS vulnerability, no CSRF protection in this world will safe you.
+
+With that said, the same-site cookie is still a good thing that should be used together with traditional defences as defence in depth.
+
+XSS and XSSI?
+
+The same-site cookie does nothing to protect you from ordinary XSS attacks. If a hacker manages to fool your site to echo out script from the URL on your site, it will be executed as coming from your origin (after all, it is), and thus session cookies will still be sent with all requests the injected script makes to your domain.
+
+If you read the quote in your post carefully, you will see it says XSSI with an I at the end, and not XSS. The I stands for inclusion, and XSSI is related to, but different from, XSS. Here is a good explanation of XSSI and how it differes from XSS:
+
+XSSI is a form of XSS that takes advantage of the fact that browsers don't prevent webpages from including resources like images and scripts, which are hosted on other domains and servers. [...] For example, if Bank ABC's site has a script that reads a user's private account information, a hacker could include that script in their own malicious site (www.fraudulentbank.com) to pull information from Bank ABC's servers whenever a client of Bank ABC visits the hacker's site.
+
+Same-site cookies protects you from XSSI, since a session cookie would not be sent with the request for the script and it would thus not return any sensitive information. However, for ordinary XSS it makes no difference.
+
+https://news.ycombinator.com/item?id=18134114 CORS
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Origin
+
+Limiting the possible Access-Control-Allow-Origin values to a set of allowed origins requires code on the server side to check the value of the Origin request header, compare that to a list of allowed origins, and then if the Origin value is in the list, to set the Access-Control-Allow-Origin value to the same value as the Origin value.
+
+Remember that the “Origin” header can’t be set by the application!
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Origin
+
+The Origin request header indicates where a fetch originates from. It doesn't include any path information, but only the server name. It is sent with CORSrequests, as well as with POST requests. It is similar to the Referer header, but, unlike this header, it doesn't disclose the whole path.
+
+https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy
+
+https://stackoverflow.com/questions/42239643/when-does-firefox-set-the-origin-header-to-null-in-post-requests
+
+https://stackoverflow.com/a/42242802
+
+The CORS protocol consists of a set of headers that indicates whether a response can be shared cross-origin.
+
+Red herring: cors n’ xss
+
+https://security.stackexchange.com/questions/108835/how-does-cors-prevent-xss
+
+https://security.stackexchange.com/questions/97825/is-cors-helping-in-anyway-against-cross-site-forgery
+
+https://security.stackexchange.com/questions/44394/how-to-stop-other-websites-from-sending-cross-domain-ajax-requests
+
+https://security.stackexchange.com/questions/8264/why-is-the-same-origin-policy-so-important
+
+https://developer.mozilla.org/es/docs/Web/HTTP/Access_control_CORS
+
+https://stackoverflow.com/questions/28527790/does-cors-and-xss-have-any-connection
+
+https://www.thepolyglotdeveloper.com/2014/08/bypass-cors-errors-testing-apis-locally/
+
+https://mixmax.com/blog/modern-csrf
+
+https://stackoverflow.com/questions/24680302/csrf-protection-with-cors-origin-header-vs-csrf-token
+
+https://security.stackexchange.com/questions/97825/is-cors-helping-in-anyway-against-cross-site-forgery
+
+https://security.stackexchange.com/questions/188315/is-every-site-without-a-csrf-token-vulnerable-to-csrf-attack
+
+https://security.stackexchange.com/questions/185766/is-cors-and-csrf-tokens-only-for-post-and-get-requests
+
+https://www.quora.com/What-are-the-differences-between-CSRF-and-CORS
+
+https://www.django-rest-framework.org/topics/ajax-csrf-cors/
+
+https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/september/common-csrf-prevention-misconceptions/
+
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)
+
+https://es.wikipedia.org/wiki/Cross-site_request_forgery
+
+https://www.quora.com/Does-my-web-browser-share-credentials-or-cookies-with-all-the-different-sites-I-have-open-in-my-tabs
+
+https://stackoverflow.com/questions/27137562/tab-specific-cookies-without-using-sessionstorage-or-any-html5-features
+
+From docs: Data stored using sessionStorage do not persist across browser tabs, even if two tabs both contain webpages from the same domain origin. In other words, data inside sessionStorage is confined to not just the domain and directory of the invoking page, but the browser tab in which the page is contained in. Contrast that to session cookies, which do persist data from tab to tab.
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Work_with_the_Cookies_API
+
+https://stackoverflow.com/questions/49663003/cookies-and-multiple-tabs
+
+CSRF cookie vs session based tokens
+
+https://stackoverflow.com/questions/5124030/access-all-stored-cookies
+
+https://stackoverflow.com/questions/12370495/share-a-cookie-between-two-websites
+
+https://security.stackexchange.com/questions/121971/will-same-site-cookies-be-sufficent-protection-against-csrf-and-xss
+
+Same-site cookies (née "First-Party-Only" (née "First-Party")) allow servers to mitigate the risk of CSRF and information leakage attacks by asserting that a particular cookie should only be sent with requests initiated from the same registrable domain.
+
+https://www.tarlogic.com/blog/same-site-cookies-ataques-csrf/
+
+https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet
+
+https://stackoverflow.com/questions/29357330/are-domain-specific-cookies-vulnerable-to-csrf
+
+https://stackoverflow.com/questions/33261244/why-same-origin-policy-isnt-enough-to-prevent-csrf-attacks
+
+https://stackoverflow.com/questions/27793424/how-to-implement-csrf-protection-for-cross-domain-requests
+
+https://stackoverflow.com/questions/20504846/why-is-it-common-to-put-csrf-prevention-tokens-in-cookies
+
+An overview of the top web hacking techniques of 2017 https://news.ycombinator.com/item?id=18194611
+
+[On Cross-Site Scripting and Content Security Policy](https://www.telerik.com/blogs/on-cross-site-scripting-and-content-security-policy).
+
+[What is an "opaque response"?](https://www.reddit.com/r/programming/comments/9ucgo4/what_is_an_opaque_response/).
+
+Vault https://news.ycombinator.com/item?id=18602067 
+https://latacora.singles/2018/06/12/a-childs-garden.html
+https://noncombatant.org/2019/01/06/state-of-security-2019/
+https://twitter.com/b0rk/status/1087924449658236929 ssh tips [more](https://twitter.com/b0rk/status/1087936439470444544)
+safe client behaviour https://www.usenix.org/conference/srecon18asia/presentation/goh https://www.youtube.com/watch?v=NHNZab_AzZo
+https://www.kenforthewin.com/two-factor-auth-with-public-key-cryptography/
+https://www.infoq.com/presentations/microservices-security-spring-pcf Microservices Security Patterns & Protocols with Spring & PCF
+https://research.swtch.com/tlog
+https://people.centos.org/arrfab/Events/Loadays-2019/loadays-2019-ssh-tips.html
+
+[zanzibar](https://news.ycombinator.com/item?id=20132520)
+
+https://www.youtube.com/watch?v=ai0MLsoN0Gk Adding business logic to your tokens. What could possibly go wrong
+
+https://spin.atomicobject.com/2019/06/29/do-i-need-a-vpn/
+
+[How Do You Explain the Unreasonable Effectiveness of Cloud Security?](https://lobste.rs/s/sqs0vq/how_do_you_explain_unreasonable)
+
+https://www.reddit.com/r/programming/comments/dh6xka/the_owasp_top_10_vulnerabilities_list_is_probably/
+
+[crypto-shredding](https://twitter.com/DiazCarrete/status/1187810883113762816)
+
+https://engineering.fb.com/security/delegated-credentials/
+
+https://gravitational.com/blog/ssh-handshake-explained/
+
+https://news.ycombinator.com/item?id=21423130 MITM
+https://lobste.rs/s/bejsfb/public_ssh_keys_can_leak_your_private
+
+Can an intermediate CA be trusted like a self-signed root CA? https://security.stackexchange.com/questions/17391/can-an-intermediate-ca-be-trusted-like-a-self-signed-root-ca
+
+> A root CA is actually an illusion. In X.509, there are trust anchors. A trust anchor is, mostly, a name and a public key, which you know a priori and that you trust. Representation of that name and that public key as a "certificate file" (traditionally self-signed) is just a convenient way to keep the trust anchor as a bunch of bytes.
+
+> The selection of one or more trusted CAs is a local decision.
+
+> Update: I've fond an OpenSSL commit that implements adding non-self-signed CA certificates as trust anchors. Unfortunately, this is not yet included in any release version, so all the proposed workarounds in the comments still apply.
+
+> Update 2: OpenSSL now contains this option in the release version, starting from 1.0.2. The corresponding flag for the command line client is partial_chain, and the programmatic flag seems to be X509_V_FLAG_PARTIAL_CHAIN.
+
+> Additionally, I recently had to verify server certificates in Java: At least in the JDK 1.8 version of the Sun JSSE provider's SSL implementation, adding a leaf certificate to the default TrustManager works without any special configurations, and verification succeeds as if the root CA had been provided.
+
+[ssl bumping - fixing clients](https://dev.to/suntong/a-short-guide-on-squid-transparent-proxy-ssl-bumping-k5c)
+
+[TLS increasingly exists in three different worlds](https://utcc.utoronto.ca/~cks/space/blog/tech/TLSThreeWorlds)
+
+[HTTP Desync Attacks with Python and AWS](https://twitter.com/lobsters/status/1239765972782690304)
+
+https://web.stanford.edu/class/cs253/ https://news.ycombinator.com/item?id=22676126
+
+[it is important to realize that CORS is a relaxing of the Same Origin Policy](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/september/common-csrf-prevention-misconceptions/)
+
+[CORS & CSRF](https://medium.com/@theflyingmantis/cors-csrf-91ba8487c5fd)
+
+[Using CORS policies to implement CSRF protection](https://engineering.mixmax.com/blog/modern-csrf/)
+
+[JAMStack](https://twitter.com/kentcdodds/status/1245762953363615750)
+
+[microservices security patterns](https://developer.okta.com/blog/2020/03/23/microservice-security-patterns)
+
+https://robservatory.com/how-i-lost-control-of-our-bank-accounts-to-a-phone-scammer/
+
+https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation
+
+https://blog.hboeck.de/archives/900-Generating-CRIME-safe-CSRF-tokens.html
+
+Haskell and InfoSec https://www.youtube.com/watch?v=RknM0j138PE
+
+Can we talk about client-side certificates? https://www.reddit.com/r/programming/comments/h8rk8d/can_we_talk_about_clientside_certificates/
+ 
+https://news.ycombinator.com/item?id=23552680 Postbank to replace 12M bank cards after employees steal 'master key'
+
+turn on MFA https://krebsonsecurity.com/2020/06/turn-on-mfa-before-crooks-do-it-for-you/
+
+Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote Connections https://tom.vg/papers/timeless-timing-attack_usenix2020.pdf
+
+Does anyone use advanced database access control anymore? https://lobste.rs/s/x4luho/does_anyone_use_advanced_database_access
+
+https://news.ycombinator.com/item?id=24599837 How to properly manage SSH keys for server access 
+
+https://krebsonsecurity.com/2020/10/amid-an-embarrassment-of-riches-ransom-gangs-increasingly-outsource-their-work/ https://news.ycombinator.com/item?id=24723125
+
+[what happens when you publish secrets in Git](https://news.ycombinator.com/item?id=25013756)
+
+[How to Set Up an SSH Jump Server](https://gravitational.com/blog/ssh-jump-server/)
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9186656
+
+https://serverfault.com/questions/1047254/security-should-containers-run-tls-or-can-they-rely-on-its-sidecar
+https://crypto.stackexchange.com/questions/87978/why-do-some-people-believe-that-humans-are-bad-at-generating-random-numbers-ch
+
+[Crackpot Cryptography and Security Theater](https://lobste.rs/s/eext9b/crackpot_cryptography_security_theater)
+
+https://www.goldfiglabs.com/guide/saas-cto-security-checklist/
+
+https://twitter.com/IanColdwater/status/1411131037753696256  container breakout

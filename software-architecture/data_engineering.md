@@ -20,4 +20,6 @@
 
 > [24:50] parsing your query log and understanding what are the common ways the data gets joined or filtered 
 
+[Data Mesh and Domain Ownership](https://www.youtube.com/watch?v=GCNOOB9cFdU)
+
 

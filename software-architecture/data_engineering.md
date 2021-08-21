@@ -14,6 +14,6 @@
 
 > [12:46] somebody deprecated a column. If you're lucky, someone told you they have deprecated a column in the upstream store
 
-
+> [24:50] parsing your query log and understanding what are the common ways the data gets joined or filtered 
 
 

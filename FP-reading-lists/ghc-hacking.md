@@ -139,3 +139,17 @@ have the same meta-information
 [Dependency Analysis of Haskell Declarations](https://www.youtube.com/watch?v=jNbb5JVuq-o)
 
 [how to contribute to ghc?](https://www.reddit.com/r/haskell/comments/oe4j3a/ghc_how_it_works_how_can_i_try_to_contribute_to_it/h4476z9)
+
+[avoiding quadratic ghc core code size for modules containing large records](https://www.reddit.com/r/haskell/comments/p81t7v/new_blog_post_and_library_avoiding_quadratic_ghc/)
+
+> Perhaps aiming for linear cost however is not necessary. We saw in the section on GHC generics that if we are careful how we set things up, we can generate code that is O(n log n) in size. Similar techniques can be applied in libraries such as generics-sop as well, provided that we are careful at every step; for example, the use of type-level lists should be avoided and we should be using type-level (balanced) trees instead.
+
+[How does GHC implement functions under the hood?](https://www.reddit.com/r/haskell/comments/p7xq7e/how_does_ghc_implement_functions_under_the_hood/)
+
+> The spineless tagless g machine paper linked above is amazing and if you want to understand how Haskell is evaluated it is probably the best thing to read. It is the missing link between lazy thunk and push function pointer plus arguments onto heap.
+
+> There are also some interesting details which have changed since, like partial applications. How to make a fast curry: push/enter vs eval/apply is a great introduction on this - but after skimming over it contains less details on thunks than I remembered. 
+
+
+
+

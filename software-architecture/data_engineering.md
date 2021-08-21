@@ -2,6 +2,10 @@
 
 [Data Engineering Podcast](https://www.dataengineeringpodcast.com/).
 
+[Data-Mesh-Learning Slack Channel](https://launchpass.com/data-mesh-learning)
+
+[97 Things Every Data Engineer Should Know](https://www.goodreads.com/book/show/56916802-97-things-every-data-engineer-should-know)
+
 [Data Lineage at Slack](https://slack.engineering/data-lineage-at-slack/)
 
 > backfill a table after a bug is fixed in its source data. [...] all downstream tables might need to be rerun, depending on if the columns impacted by the bug fix were consumed by that table [...] dashboard lineage [...] SQL parsing

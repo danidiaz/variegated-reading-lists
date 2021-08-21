@@ -32,7 +32,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [With linear types and the right notion of an arrow, we can build full intuitionistic linear logic](https://twitter.com/kmett/status/1376235979481116672)
 
-[Deadlock-Free Session Types in Linear Haskell](https://arxiv.org/abs/2103.14481)
+[Deadlock-Free Session Types in Linear Haskell](https://arxiv.org/abs/2103.14481). [Separating Sessions Smoothly](https://arxiv.org/abs/2105.08996). [Taking Linear Logic Apart](https://arxiv.org/abs/1904.06848). 
 
 [linear logic](https://www.reddit.com/r/haskell/comments/mgve3s/linear_logic_in_ghc_9/gsxbysh/) 
 
@@ -45,3 +45,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 [EXPLORING LINEAR TRAVERSABLE USING GENERICS](https://www.tweag.io/blog/2021-07-08-linear-traversable/)
 
 [working on a linear set theory](https://twitter.com/aspiwack/status/1420395091009617934)
+
+[Client-Server Sessions in Linear Logic](https://www.youtube.com/watch?v=om3QlFls3cs&list=PLyrlk8Xaylp5ed_Yhg2oTdVhrtVohVaoa&index=2). 
+
+

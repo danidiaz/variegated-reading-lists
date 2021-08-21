@@ -480,6 +480,8 @@
 
 [The Bug Under Your Tongue](https://www.goodreads.com/author_blog_posts/21524915-the-bug-under-your-tongue)
 
+[An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)
@@ -685,3 +687,5 @@ Bernini, his life and his Rome
 [AGQA: A Benchmark for Compositional, Spatio-Temporal Reasoning](https://news.ycombinator.com/item?id=27588350)
 
 [MINGW covered the Windows build, clang/osxcross for the MacOS build, and plain old gcc for Linux. It's all oldschool autotools+pkg-config dances for the cross-compilation. Plain C and SDL2+OpenGL under the hood, no engine.](https://news.ycombinator.com/item?id=27621733)
+
+

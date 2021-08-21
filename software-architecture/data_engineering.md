@@ -37,3 +37,6 @@
 > Organize data to anticipate common questions.
 > Ask efficient questions.
 
+[Design a data mesh architecture using AWS Lake Formation and AWS Glue](https://aws.amazon.com/blogs/big-data/design-a-data-mesh-architecture-using-aws-lake-formation-and-aws-glue/)
+
+

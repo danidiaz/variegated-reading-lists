@@ -965,3 +965,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > Should I pass here the references to these objects (book and user) instead of ids?
 
+
+[How is a delete of an aggregate root handled in DDD?](https://stackoverflow.com/questions/8578943/how-is-a-delete-of-an-aggregate-root-handled-in-ddd). [DDD: Aggregates and Deletes](https://stackoverflow.com/questions/54301335/ddd-aggregates-and-deletes). [Don’t Delete – Just Don’t](https://udidahan.com/2009/09/01/dont-delete-just-dont/). [DDD to remove an order item](https://github.com/dotnet-architecture/eShopOnContainers/issues/835). [DDD: Is an aggregate root responsible for deleting its child entities from their repository?](https://softwareengineering.stackexchange.com/questions/370185/ddd-is-an-aggregate-root-responsible-for-deleting-its-child-entities-from-their)
+
+> I doubt there is such a thing as "Delete" in your ubiquitous language. Most likely people will call it "archive", "taking out of order", "remove", "out of stock"
+
+> Of course, since then GDPR has become a thing. So you may want to include Forget Me as a domain concept.

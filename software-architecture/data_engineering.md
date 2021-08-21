@@ -10,4 +10,10 @@
 
 [In theory, UDFs should make deploying cloud analytics easy.](https://twitter.com/pbailis/status/1428458584040374280).
 
+[Build Trust In Your Data By Understanding Where It Comes From And How It Is Used With Stemma](https://www.dataengineeringpodcast.com/stemma-data-discovery-episode-211/)
+
+> [12:46] somebody deprecated a column. If you're lucky, someone told you they have deprecated a column in the upstream store
+
+
+
 

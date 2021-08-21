@@ -276,7 +276,7 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [Namespaced De Bruijn indices](https://www.haskellforall.com/2021/08/namespaced-de-bruijn-indices.html).
 
-[Skipping the binder bureaucracy with mixed embeddings in a semantics course (Functional Pearl)](https://twitter.com/Jose_A_Alonso/status/1425745900836737024?s=03)
+[Skipping the binder bureaucracy with mixed embeddings in a semantics course (Functional Pearl)](https://twitter.com/Jose_A_Alonso/status/1425745900836737024?s=03). [video](https://www.youtube.com/watch?v=C2HFRlj7qT8&list=PLyrlk8Xaylp5ed_Yhg2oTdVhrtVohVaoa&index=26).
 
 ## software
 

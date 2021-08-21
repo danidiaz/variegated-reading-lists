@@ -6,6 +6,8 @@
 
 [97 Things Every Data Engineer Should Know](https://www.goodreads.com/book/show/56916802-97-things-every-data-engineer-should-know)
 
+[DataOps: PART 1: THE CHALLENGES OF REPEATABLE AND IDEMPOTENT SCHEMA MANAGEMENT: INTRODUCTION](https://www.dataops.live/blog/the-challenges-of-repeatable-and-idempotent-schema-management-introduction).
+
 [Data Lineage at Slack](https://slack.engineering/data-lineage-at-slack/)
 
 > backfill a table after a bug is fixed in its source data. [...] all downstream tables might need to be rerun, depending on if the columns impacted by the bug fix were consumed by that table [...] dashboard lineage [...] SQL parsing
@@ -23,4 +25,15 @@
 [Data Mesh and Domain Ownership](https://www.youtube.com/watch?v=GCNOOB9cFdU). 
 
 [Data Driven with Data Mesh – Pragmatism in Practice](https://www.youtube.com/watch?v=e6lqj5PpxOs).
+
+[Data Mesh Principles and Logical Architecture](https://martinfowler.com/articles/data-mesh-principles.html)
+
+[Just One More Stratification!](https://greatexpectations.io/blog/one-more-stratification/).
+
+[Making dashboards faster](https://www.metabase.com/learn/administration/making-dashboards-faster).
+
+> Ask for less data.
+> Cache answers to questions.
+> Organize data to anticipate common questions.
+> Ask efficient questions.
 

@@ -22,5 +22,5 @@
 
 [Data Mesh and Domain Ownership](https://www.youtube.com/watch?v=GCNOOB9cFdU). 
 
-
+[Data Driven with Data Mesh – Pragmatism in Practice](https://www.youtube.com/watch?v=e6lqj5PpxOs).
 

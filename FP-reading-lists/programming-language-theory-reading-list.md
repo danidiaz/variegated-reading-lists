@@ -176,7 +176,7 @@ https://popl19.sigplan.org/track/POPL-2019-Research-Papers#event-overview
 
 ## ICFP 2021
 
-[the list of accepted papers for ICFP '21](https://icfp21.sigplan.org/track/icfp-2021-papers#event-overview).
+[the list of accepted papers for ICFP '21](https://icfp21.sigplan.org/track/icfp-2021-papers#event-overview). [presentations](https://www.youtube.com/playlist?list=PLyrlk8Xaylp5ed_Yhg2oTdVhrtVohVaoa). 
 
 ## OPLS 2021
 

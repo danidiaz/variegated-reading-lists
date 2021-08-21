@@ -20,6 +20,8 @@
 
 > [24:50] parsing your query log and understanding what are the common ways the data gets joined or filtered 
 
-[Data Mesh and Domain Ownership](https://www.youtube.com/watch?v=GCNOOB9cFdU)
+[Data Mesh and Domain Ownership](https://www.youtube.com/watch?v=GCNOOB9cFdU). [DDD: Aggregates and Deletes](https://stackoverflow.com/questions/54301335/ddd-aggregates-and-deletes). [Don’t Delete – Just Don’t](https://udidahan.com/2009/09/01/dont-delete-just-dont/).
+
+>  I doubt there is such a thing as "Delete" in your ubiquitous language. Most likely people will call it "archive", "taking out of order", "remove", "out of stock"
 
 

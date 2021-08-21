@@ -971,3 +971,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 > I doubt there is such a thing as "Delete" in your ubiquitous language. Most likely people will call it "archive", "taking out of order", "remove", "out of stock"
 
 > Of course, since then GDPR has become a thing. So you may want to include Forget Me as a domain concept.
+
+[Data Mesh Principles and Logical Architecture](https://martinfowler.com/articles/data-mesh-principles.html)
+
+

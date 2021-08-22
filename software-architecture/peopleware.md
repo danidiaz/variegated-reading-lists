@@ -48,3 +48,7 @@
 
 > the key point is that the stakeholders just want something, anything and as soon as possible at that.
 
+[Patterns in Confusing Explanations ](https://news.ycombinator.com/item?id=28254630)
+
+
+

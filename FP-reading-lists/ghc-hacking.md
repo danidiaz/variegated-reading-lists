@@ -150,6 +150,6 @@ have the same meta-information
 
 > There are also some interesting details which have changed since, like partial applications. How to make a fast curry: push/enter vs eval/apply is a great introduction on this - but after skimming over it contains less details on thunks than I remembered. 
 
-
+[Persistent Software Transactional Memory in Haskell](https://twitter.com/Iceland_jack/status/1429253494314307588)
 
 

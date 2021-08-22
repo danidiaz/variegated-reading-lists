@@ -39,4 +39,6 @@
 
 [Design a data mesh architecture using AWS Lake Formation and AWS Glue](https://aws.amazon.com/blogs/big-data/design-a-data-mesh-architecture-using-aws-lake-formation-and-aws-glue/)
 
+[schema-on-write, or not?](https://news.ycombinator.com/item?id=28260328)
+
 

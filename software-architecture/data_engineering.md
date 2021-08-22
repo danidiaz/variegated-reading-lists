@@ -43,5 +43,9 @@
 
 [What the Heck is a Data Mesh?!](https://cnr.sh/essays/what-the-heck-data-mesh)
 
+[Taking what I understand about data mesh and applying portions to the modern stack](https://twitter.com/sethrosen/status/1425594775986659328)
+
+[Is data mesh simply an organization having a separate dbt projects per unit all producing their own marts?](https://twitter.com/sethrosen/status/1425595435301883907)
+
 
 

@@ -972,6 +972,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > Of course, since then GDPR has become a thing. So you may want to include Forget Me as a domain concept.
 
+> Custom repositories are useful for the reasons cited earlier, and that is the approach for the ordering microservice in eShopOnContainers. However, it isn't an essential pattern to implement in a DDD design or even in general .NET development.
 
+>  I'm really not a fan of repositories, mainly because they hide the important details of the underlying persistence mechanism. It's why I go for MediatR for commands, too. I can use the full power of the persistence layer, and push all that domain behavior into my aggregate roots. I don't usually want to mock my repositories – I still need to have that integration test with the real thing. Going CQRS meant that we didn't really have a need for repositories any more. 
 
+[Specification pattern: C# implementation](https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/). [tweet](https://twitter.com/ploeh/status/1429533996652933122).
 

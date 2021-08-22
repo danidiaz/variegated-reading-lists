@@ -41,4 +41,7 @@
 
 [schema-on-write, or not?](https://news.ycombinator.com/item?id=28260328)
 
+[What the Heck is a Data Mesh?!](https://cnr.sh/essays/what-the-heck-data-mesh)
+
+
 

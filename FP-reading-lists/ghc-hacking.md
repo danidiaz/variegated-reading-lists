@@ -152,4 +152,7 @@ have the same meta-information
 
 [Persistent Software Transactional Memory in Haskell](https://twitter.com/Iceland_jack/status/1429253494314307588)
 
+[UnliftedDatatypes in GHC 9.2.1](https://www.reddit.com/r/haskell/comments/p9m2kz/announce_ghc_921rc1_is_now_available/ha0l4jp)
+
+> Modern branch prediction gets rid of most of the overhead of dead code from superfluous forcing
 

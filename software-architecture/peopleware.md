@@ -50,5 +50,5 @@
 
 [Patterns in Confusing Explanations ](https://news.ycombinator.com/item?id=28254630)
 
-
+[How to Give New Developers Meaningful Work](https://spin.atomicobject.com/2021/08/22/onboarding-new-developer/?)
 

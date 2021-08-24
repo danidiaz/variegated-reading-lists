@@ -978,10 +978,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Specification pattern: C# implementation](https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/). [tweet](https://twitter.com/ploeh/status/1429533996652933122).
 
-[Is domain driven design an anti-SQL pattern?](https://softwareengineering.stackexchange.com/questions/389981/is-domain-driven-design-an-anti-sql-pattern)
+[Is domain driven design an anti-SQL pattern?](https://softwareengineering.stackexchange.com/questions/389981/is-domain-driven-design-an-anti-sql-pattern). [Read Models vs Write Models](https://cascadefaliure.vocumsineratio.com/2019/04/read-models-vs-write-models.html).
 
 > These days, you are likely to see reads (queries) handled differently than writes (commands). In a system with a complicated query, the query itself is unlikely to pass through the domain model (which is primarily responsible for maintaining the consistency of writes).
 
 > we'll design a data model optimized around the reads, and a query of that data model will usually take a code path that does not include the domain model
-
 

@@ -986,6 +986,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [What is the CQRS pattern?](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs). [HN](https://news.ycombinator.com/item?id=13339972).
 
+[Event Sourcing: Lessons on failure](https://cascadefaliure.vocumsineratio.com/2018/10/event-sourcing-lessons-on-failure-part.html)
+
 
 
 

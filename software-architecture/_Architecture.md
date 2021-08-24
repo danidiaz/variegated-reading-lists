@@ -982,3 +982,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > These days, you are likely to see reads (queries) handled differently than writes (commands). In a system with a complicated query, the query itself is unlikely to pass through the domain model (which is primarily responsible for maintaining the consistency of writes).
 
+> we'll design a data model optimized around the reads, and a query of that data model will usually take a code path that does not include the domain model
+
+

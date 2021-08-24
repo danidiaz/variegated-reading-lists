@@ -984,3 +984,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > we'll design a data model optimized around the reads, and a query of that data model will usually take a code path that does not include the domain model
 
+[What is the CQRS pattern?](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+
+

@@ -978,3 +978,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Specification pattern: C# implementation](https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/). [tweet](https://twitter.com/ploeh/status/1429533996652933122).
 
+[Is domain driven design an anti-SQL pattern?](https://softwareengineering.stackexchange.com/questions/389981/is-domain-driven-design-an-anti-sql-pattern)
+

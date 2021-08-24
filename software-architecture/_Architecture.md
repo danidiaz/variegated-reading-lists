@@ -980,3 +980,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Is domain driven design an anti-SQL pattern?](https://softwareengineering.stackexchange.com/questions/389981/is-domain-driven-design-an-anti-sql-pattern)
 
+> These days, you are likely to see reads (queries) handled differently than writes (commands). In a system with a complicated query, the query itself is unlikely to pass through the domain model (which is primarily responsible for maintaining the consistency of writes).
+

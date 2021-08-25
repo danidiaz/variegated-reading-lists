@@ -340,3 +340,6 @@ https://crypto.stackexchange.com/questions/87978/why-do-some-people-believe-that
 https://www.goldfiglabs.com/guide/saas-cto-security-checklist/
 
 https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
+
+[Programmers Don’t Understand Hash Functions](https://lobste.rs/s/l3tyc2/programmers_don_t_understand_hash)
+

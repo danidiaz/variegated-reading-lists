@@ -105,3 +105,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 [Testing Microservices, the sane way](https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16)
 
 [Conventional wisdom says you need a comprehensive set of regression tests to go green before you release code](https://twitter.com/sarahmei/status/868928631157870592)
+
+[Time zone integration testing life hack](https://twitter.com/gunnarmorling/status/1430445009350823939)
+

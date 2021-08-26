@@ -988,6 +988,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Event Sourcing: Lessons on failure](https://cascadefaliure.vocumsineratio.com/2018/10/event-sourcing-lessons-on-failure-part.html)
 
+[Designing the Ledgers API with Optimistic Locking](https://www.moderntreasury.com/journal/designing-ledgers-with-optimistic-locking)
 
 
 

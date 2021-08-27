@@ -40,6 +40,8 @@
 
 [scaling replicated state machines](https://twitter.com/heidiann360/status/1347961797882621953)
 
+[why caches may be bad in distributed systems](https://twitter.com/MarcJBrooker/status/1431292083046862856)
+
 # Posts
 
 [Strong consistency models](https://aphyr.com/posts/313-strong-consistency-models)

@@ -40,7 +40,7 @@
 
 [scaling replicated state machines](https://twitter.com/heidiann360/status/1347961797882621953)
 
-[why caches may be bad in distributed systems](https://twitter.com/MarcJBrooker/status/1431292083046862856)
+[why caches may be bad in distributed systems](https://twitter.com/MarcJBrooker/status/1431292083046862856). [hn](https://news.ycombinator.com/item?id=28344561).
 
 # Posts
 

@@ -131,7 +131,7 @@ Computer Programming)[https://pure.uva.nl/ws/files/2419813/154677_Alberts_Nofre_
 
 [seeking stability by being lazy and shallow](https://twitter.com/tweagio/status/1375097389002919947)
 
-[Algebras for Weighted Search](https://twitter.com/oisdk/status/1406249847569715203)
+[Algebras for Weighted Search](https://twitter.com/oisdk/status/1406249847569715203). [Hackage package](https://hackage.haskell.org/package/monus-weighted-search)
 
 [Ever wondered how fusion works? ](https://www.reddit.com/r/haskell/comments/oshj2c/ever_wondered_how_fusion_works_i_have_some_links/)
 

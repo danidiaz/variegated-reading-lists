@@ -212,6 +212,8 @@
 
 [repository of recursion schemes applied to practical algorithms](https://twitter.com/tangled_zans/status/1426149649635807236).
 
+[what’s your favourite way to represent syntax trees annotated with source ranges](https://twitter.com/rob_rix/status/1431947253611208706)
+
 ## videos
 
 [Unifying Structured Recursion Schemes](https://www.youtube.com/watch?v=9EGYSb9vov8)

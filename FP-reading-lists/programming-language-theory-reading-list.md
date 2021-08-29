@@ -295,6 +295,8 @@ programming libraries but also a notable producer.
 
 [elaborate Reddit comment about evaluation strategies induction laziness and other stuff](https://www.reddit.com/r/haskell/comments/otwo0a/principles_of_programming_languages_robert_harper/)
 
+[Introduction to Univalent Foundations of Mathematics with Agda](https://twitter.com/EscardoMartin/status/1431692062429261827)
+
 # papers
 
 [Linear types can change the world](http://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)

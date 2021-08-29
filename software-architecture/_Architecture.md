@@ -990,5 +990,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Designing the Ledgers API with Optimistic Locking](https://www.moderntreasury.com/journal/designing-ledgers-with-optimistic-locking)
 
+[Patterns of Legacy Displacement](https://martinfowler.com/articles/patterns-legacy-displacement/)
 
 

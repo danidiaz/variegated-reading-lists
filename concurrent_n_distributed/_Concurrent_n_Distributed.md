@@ -297,6 +297,8 @@ only run it when something bad happens to prevent any one thing to be a single p
 
 [PACELC theorem](https://en.wikipedia.org/wiki/PACELC_theorem)
 
+[Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+
 # Slides
 
 [Distributed systems course](https://roxanageambasu.github.io/ds-class//assets/lectures/lecture17.pdf)

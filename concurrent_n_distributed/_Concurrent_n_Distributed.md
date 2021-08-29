@@ -42,6 +42,8 @@
 
 [why caches may be bad in distributed systems](https://twitter.com/MarcJBrooker/status/1431292083046862856). [hn](https://news.ycombinator.com/item?id=28344561).
 
+>  real systems have metastable states, which surprises people. "Metastable" means that the system runs fine for a while, then something bad happens, the system goes into a bad state, and stays in the bad state after the bad stimulus is removed. Historically one of the first examples is the infamous Internet congestion collapse of 1986, which prompted the implementation of TCP congestion control.
+
 # Posts
 
 [Strong consistency models](https://aphyr.com/posts/313-strong-consistency-models)

@@ -343,3 +343,5 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Programmers Don’t Understand Hash Functions](https://lobste.rs/s/l3tyc2/programmers_don_t_understand_hash)
 
+[Hacking Out of a Network - Computerphile](https://www.youtube.com/watch?v=h7IeCPhTBxs)
+

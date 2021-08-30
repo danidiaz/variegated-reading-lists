@@ -38,3 +38,6 @@ perform “deep” instrumentation of the interpreter
 > An arity-generic decorator needs to solve two problems: intercept recursive calls and handle functions of any arity uniformly
 
 > a well-typed call-tracing decorator
+
+[loop-unrolling pass using futumorphisms ](https://twitter.com/luctielen/status/1432217874781855747)
+

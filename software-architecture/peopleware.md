@@ -52,3 +52,5 @@
 
 [How to Give New Developers Meaningful Work](https://spin.atomicobject.com/2021/08/22/onboarding-new-developer/?)
 
+[Software management waste](https://neverworkintheory.org/2021/08/29/software-development-waste.html)
+

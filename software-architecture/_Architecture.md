@@ -992,4 +992,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Patterns of Legacy Displacement](https://martinfowler.com/articles/patterns-legacy-displacement/)
 
+[Hexagonal architecture in Rust #1](https://lobste.rs/s/5xfrel/hexagonal_architecture_rust_1)
+
+[Enterprise Software Projects killed the Software Developer](https://news.ycombinator.com/item?id=28355502)
+
 

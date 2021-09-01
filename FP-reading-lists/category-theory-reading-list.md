@@ -683,6 +683,10 @@ F at the object of interest, X.
 
 [Data.Functor.Contravariant.Rep.Representable](https://twitter.com/rob_rix/status/1411471262266843136)
 
+[Catabase: a database of categories](https://nforum.ncatlab.org/discussion/13419/catabase-a-database-of-categories/)
+
+[monad transformers as monoid transformers](https://person.dibris.unige.it/moggi-eugenio/ftp/tcs10.pdf). [reddit](https://www.reddit.com/r/haskell/comments/p2r52v/monthly_hask_anything_august_2021/hb0pmhx)
+
 # courses
 
 [Applied Category Theory](http://www.azimuthproject.org/azimuth/show/Applied+Category+Theory) [course intro](https://forum.azimuthproject.org/discussion/1717) [Seven Sketches in Compositionality An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/) [course book](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf). [new](https://www.reddit.com/r/haskell/comments/b8l4an/applied_category_theory_course/)

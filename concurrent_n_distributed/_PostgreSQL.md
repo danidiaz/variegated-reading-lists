@@ -157,4 +157,5 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [	Working with Postgres Types ](https://news.ycombinator.com/item?id=28095264)
 
+[PostgreSQL Subtransactions Considered Harmful](https://news.ycombinator.com/item?id=28374333)
 

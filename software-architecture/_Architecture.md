@@ -996,4 +996,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Enterprise Software Projects killed the Software Developer](https://news.ycombinator.com/item?id=28355502)
 
+[Design Patterns, Empathy, and Reading Complex Code](https://understandlegacycode.com/blog/legacy-of-socrates-6th-edition/)
 

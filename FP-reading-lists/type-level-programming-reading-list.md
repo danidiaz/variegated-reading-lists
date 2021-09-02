@@ -371,3 +371,5 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [CBPV doesn't distinguish data/code using kinds [...] the kind-based approach is a good one](https://www.reddit.com/r/haskell/comments/ox5j50/zero_cost_io_take_two/h7lox6b/). [Unboxed types in GHC](https://www.reddit.com/r/haskell/comments/oxqwju/richard_eisenberg_unboxed_types_in_ghc/).
 
+[Dependent Types are a Runtime Maybe](https://www.reddit.com/r/haskell/comments/pgm9sf/dependent_types_are_a_runtime_maybe/)
+

@@ -339,3 +339,6 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 > hnix is essentially a catamorphic lambda calculus interpreter. Using a functor fixed point to encode expression trees yields some very useful flexibility.
 
 [duet](https://github.com/duet-lang/duet) [reddit](https://pay.reddit.com/r/haskell/comments/8lt6au/github_duetlangduet_duet_language_main/)
+
+[Embedded Pattern Matching](https://www.reddit.com/r/haskell/comments/phx4me/embedded_pattern_matching/)
+

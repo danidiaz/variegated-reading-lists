@@ -342,3 +342,4 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [Embedded Pattern Matching](https://www.reddit.com/r/haskell/comments/phx4me/embedded_pattern_matching/)
 
+> we are essentially hiding from the user that they are working on syntax trees representing the computation of values, rather than computing on values directly

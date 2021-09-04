@@ -54,6 +54,8 @@
 
 [Software management waste](https://neverworkintheory.org/2021/08/29/software-development-waste.html)
 
+[about trunk-driven development](https://twitter.com/SusanPotter/status/1433379039817895938)
+
 [silos, yay or nay](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/). [hn](https://news.ycombinator.com/item?id=28411712).
 
 

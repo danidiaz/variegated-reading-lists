@@ -47,5 +47,23 @@
 
 [Is data mesh simply an organization having a separate dbt projects per unit all producing their own marts?](https://twitter.com/sethrosen/status/1425595435301883907)
 
+[What Is an OLAP Cube? An Exhaustive Explainer](https://www.holistics.io/blog/what-is-an-olap-cube-an-exhaustive-explainer/). [hn](https://news.ycombinator.com/item?id=28401230).
+
+> Depends if you want to go the vendor route, where "cube" is very specific to the implementation of the tool you're implementing. Dealing with semi-additive measures and drill-down/drill-through will differ between SSAS, Pentaho, or Cognos.
+
+> I think the real value in the process comes from all the data modeling decisions, which involves a lot of interactions with the business users that are asking for data/reports. Something as simple as an e-commerce order can look very different between CEO KPI reports, marketing, purchasing, and accounting. For example, accounting cares only when the product ships while marketing cares when it's sold. Multiply this by a hundred, and you end up with nuanced data pipelines that encapsulate all this domain-specific logic.
+
+> Multidimensional modeling is very useful even if you're not adopting cubes specifically, and just using dbt on a read-only replica of your database to create aggregate table for a few dozen reports.
+
+> people can really get hung up on jargon like this. the real concept is dimensional modeling which is a whole strategy and toolkit of ideas for doing online analytical processing. you can do it with anything, the data warehouse toolkit was calling it "rowlap" when you did in a regular database. you would be dead lost trying to use a proper "olap" tool with special sparse matrix data structures and MDX queries without understanding concepts like the various types of dimension tables and how they can be nested etc.
+
+[semi-additive measure](https://www.oraylis.de/blog/2012/semi-additive-measures-in-sql-server-standard-edition)
+
+> Semi additive measures are measures that have a different way of aggregation over time (or other specific dimensions). For example, thinking of stock values you want to sum them up by product, location, country etc. but not by time (here you may want to see the last value, the average, the minimum/maximum or whatever).
+
+[what the heck is a data mesh?](https://news.ycombinator.com/item?id=27999348). [another HN link](https://news.ycombinator.com/item?id=26581271).
+
+
+
 
 

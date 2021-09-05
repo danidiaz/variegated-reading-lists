@@ -114,3 +114,6 @@
 [How to add eBPF observability to your product ](https://news.ycombinator.com/item?id=27722947)
 
 [Computing Performance on the Horizon](https://news.ycombinator.com/item?id=27738312)
+
+[Linux block devices: hints for debugging and new developments](https://news.ycombinator.com/item?id=28400579)
+

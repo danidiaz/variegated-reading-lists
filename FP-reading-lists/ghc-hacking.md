@@ -160,6 +160,9 @@ have the same meta-information
 
 ## Compiling in Ubuntu
 
+> $ cabal install --installdir /home/someguy/.local/bin --install-method=copy happy
+> $ cabal install --installdir /home/someguy/.local/bin --install-method=copy alex
 > $ sudo apt-get install autoconf autotools-dev automake happy
+> # then follow the instructions in ghc.dev
 
 

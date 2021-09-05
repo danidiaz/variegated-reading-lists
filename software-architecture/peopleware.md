@@ -58,4 +58,5 @@
 
 [silos, yay or nay](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/). [hn](https://news.ycombinator.com/item?id=28411712).
 
+[avoid coordination whenever possible](https://blog.starburst.io/data-mesh-the-answer-to-the-data-warehouse-hypocrisy)
 

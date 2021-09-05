@@ -63,7 +63,7 @@
 
 [what the heck is a data mesh?](https://news.ycombinator.com/item?id=27999348). [another HN link](https://news.ycombinator.com/item?id=26581271).
 
-
+[How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html).
 
 
 

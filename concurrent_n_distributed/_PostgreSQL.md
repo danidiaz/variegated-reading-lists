@@ -159,3 +159,5 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [PostgreSQL Subtransactions Considered Harmful](https://news.ycombinator.com/item?id=28374333)
 
+[Using PostgreSQL’s JSONB for NoSQL (2019) [video]](https://news.ycombinator.com/item?id=28406334)
+

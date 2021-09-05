@@ -689,6 +689,8 @@ F at the object of interest, X.
 
 [the optical (and profunctor) hierarchy for Fresnel](https://twitter.com/rob_rix/status/1433761276992409601?s=03)
 
+[dependent optics!](https://twitter.com/_julesh_/status/1434216521702727682). [original post](https://bartoszmilewski.com/2021/09/04/dependent-optics/).
+
 # courses
 
 [Applied Category Theory](http://www.azimuthproject.org/azimuth/show/Applied+Category+Theory) [course intro](https://forum.azimuthproject.org/discussion/1717) [Seven Sketches in Compositionality An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/) [course book](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf). [new](https://www.reddit.com/r/haskell/comments/b8l4an/applied_category_theory_course/)

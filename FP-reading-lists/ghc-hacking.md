@@ -158,4 +158,8 @@ have the same meta-information
 
 [Masking Asynchronous Exceptions](https://coot.me/posts/mask.html). [Interruptible or uninterruptible cleanup, issue in safe-exceptions package.](https://github.com/fpco/safe-exceptions/issues/3). [Uninterruptible closeFdWith merge request #4942](https://gitlab.haskell.org/ghc/ghc/-/merge_requests/4942). [Dealing with Asynchronous Exceptions during Resource Acquisition](https://www.well-typed.com/blog/2014/08/asynchronous-exceptions/). very tricky case.
 
+## Compiling in Ubuntu
+
+> $ sudo apt-get install autoconf autotools-dev automake happy
+
 

@@ -482,6 +482,8 @@
 
 [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/)
 
+[world models and parsers](https://twitter.com/emshort/status/1435641582611431427).
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

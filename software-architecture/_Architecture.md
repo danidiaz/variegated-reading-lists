@@ -737,6 +737,8 @@ sooo subsetting and type conversions are an important part of mapping frameworks
 
 [DTO : Hipster Ou Dépassé ?](https://www.infoq.com/fr/articles/dto-hipster-ou-depasse/)
 
+[One of the most common uses of the #DTO pattern is decoupling the presentation layer from #JPA entities.](https://twitter.com/JPABuddy/status/1435187332177661955). [New Post: The DTO Pattern (Data Transfer Object)](https://twitter.com/baeldung/status/1434214807817932810).
+
 [The magic behind the Dependency Injection of Quarkus](https://twitter.com/AdamBien/status/1253339691270586372)
 
 [Java & SQL - stronger together](https://twitter.com/MarkusWinand/status/1255574331083685889) overview of the lasagna 

@@ -373,3 +373,13 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Dependent Types are a Runtime Maybe](https://www.reddit.com/r/haskell/comments/pgm9sf/dependent_types_are_a_runtime_maybe/)
 
+[How Dependent Haskell Can Improve Industry Projects](https://www.reddit.com/r/haskell/comments/pl06th/parallel_applications_become_singlethreaded_when/)
+
+[Leibniz equality in Haskell](https://ryanglscott.github.io/2021/09/06/leibniz-equality-in-haskell-part-2-heterogeneous-equality/). [Leibniz coercion](https://oleg.fi/gists/posts/2021-09-09-leibniz-coercion.html).
+
+
+
+
+
+
+

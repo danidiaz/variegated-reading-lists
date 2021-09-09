@@ -73,3 +73,6 @@
 
 [what is a Data Lakehouse](https://www.snowflake.com/guides/what-data-lakehouse)
 
+[the rise of the analytics engineer](https://twitter.com/pbailis/status/1436021624927494154)
+
+

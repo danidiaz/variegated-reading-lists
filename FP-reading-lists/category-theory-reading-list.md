@@ -42,7 +42,7 @@
 
 > a sort of 'type-indexed' generalisation of Monoid, where the monoid structure is reflected at the level of types by the unit and product types (which themselves form a typelevel monoid structure up to isomorphism)
 
-[Notions of computation as monoids](https://arxiv.org/abs/1406.4823) [ext](http://www.fceia.unr.edu.ar/~mauro/pubs/Notions_of_Computation_as_Monoids_ext.pdf)
+[Notions of computation as monoids](https://arxiv.org/abs/1406.4823) [ext](http://www.fceia.unr.edu.ar/~mauro/pubs/Notions_of_Computation_as_Monoids_ext.pdf). [more](https://www.reddit.com/r/haskell/comments/pkywqj/cayley_representation_of_monads/).
 
 [From monoids to near-semirings: the essence of MonadPlus and Alternative](https://lirias.kuleuven.be/bitstream/123456789/499951/1/main.pdf)
 

@@ -48,4 +48,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Client-Server Sessions in Linear Logic](https://www.youtube.com/watch?v=om3QlFls3cs&list=PLyrlk8Xaylp5ed_Yhg2oTdVhrtVohVaoa&index=2). 
 
+[Why Functional Programming with Linear Types Matters](https://www.youtube.com/watch?v=WZ_0FSGeq2s)
+
 

@@ -300,3 +300,6 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [Type theory elaboration implementation](https://www.youtube.com/playlist?list=PL2ZpyLROj5FOt99f_KCxARvd1hDqKns5b). Playlist related to [elaboration-zoo](https://github.com/AndrasKovacs/elaboration-zoo)
 
+[lambda calculus cooked n-ways](https://github.com/sweirich/lambda-n-ways)
+
+

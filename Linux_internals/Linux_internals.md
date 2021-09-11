@@ -117,3 +117,6 @@
 
 [Linux block devices: hints for debugging and new developments](https://news.ycombinator.com/item?id=28400579)
 
+[How PCI-Express works (2020)](https://news.ycombinator.com/item?id=28490021)
+
+

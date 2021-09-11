@@ -149,6 +149,8 @@ http://www.coli.uni-saarland.de/courses/underspecification-06/slides/01-mg.pdf
 
 > In Stockholm, when I first discussed the project with Per Martin-Löf, he said that he had designed type theory for mathematics, and than natural language is something else. I said that similar work had been done within predicate calculus, which is just a part of type theory, to which he replied that he found it equally problematic. But his general attitude was far from discouraging: it was more that he was so serious about natural language and saw the problems of my enterprise more clearly than I, who had already assumed the point of view of logical semantics. His criticism was penetrating but patient, and he was generous in telling me about his own ideas. So we gradually developed a view that satisfied both of us, that formal grammar begins with what is well understood formally, and then tries to see how this formal structure is manifested in natural language, instead of starting with natural language in all it unlimitedness and trying to force it into some given formalism.
 
+[typeological grammars](https://twitter.com/DiazCarrete/status/1436589453351477248)
+
 ## Libraries
 
 [species](http://hackage.haskell.org/package/species)

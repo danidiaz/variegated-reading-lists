@@ -280,6 +280,10 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [You Could Have Invented De Bruijn Indices](https://golem.ph.utexas.edu/category/2021/08/you_could_have_invented_de_bru.html)
 
+[lambda calculus cooked n-ways](https://github.com/sweirich/lambda-n-ways)
+
+[Implementing Hindley-Milner with the unification-fd library](https://twitter.com/Jose_A_Alonso/status/1436449406522302468)
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)
@@ -299,7 +303,5 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 [Binding Types à la carte](https://skillsmatter.com/skillscasts/12385-binding-types-a-la-carte).
 
 [Type theory elaboration implementation](https://www.youtube.com/playlist?list=PL2ZpyLROj5FOt99f_KCxARvd1hDqKns5b). Playlist related to [elaboration-zoo](https://github.com/AndrasKovacs/elaboration-zoo)
-
-[lambda calculus cooked n-ways](https://github.com/sweirich/lambda-n-ways)
 
 

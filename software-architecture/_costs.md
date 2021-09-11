@@ -107,3 +107,5 @@
 [a black hole of unpredictable spend, according to new report](https://news.ycombinator.com/item?id=27678324)
 
 [ Is the unit of compute a "machine" or is it a millisecond of CPU and a GB of memory?](https://twitter.com/MarcJBrooker/status/1415307021553860609)
+
+[Mistakes I've Made in AWS](https://laravel-news.com/aws-mistakes). [hn](https://news.ycombinator.com/item?id=28490278).

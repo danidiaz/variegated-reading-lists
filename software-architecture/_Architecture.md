@@ -1000,3 +1000,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Design Patterns, Empathy, and Reading Complex Code](https://understandlegacycode.com/blog/legacy-of-socrates-6th-edition/)
 
+[all data relationships become many-to-many over time](https://news.ycombinator.com/item?id=28491331)
+

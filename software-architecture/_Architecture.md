@@ -1002,3 +1002,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [all data relationships become many-to-many over time](https://news.ycombinator.com/item?id=28491331)
 
+[Indirection adds cognitive load. Abstraction reduces it.](https://twitter.com/jbrains/status/1437036779295674373)
+

@@ -50,3 +50,5 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Why Functional Programming with Linear Types Matters](https://www.youtube.com/watch?v=WZ_0FSGeq2s)
 
+[Haskell 2021 - Linear Haskell, Today and Tomorrow](https://www.youtube.com/watch?v=v7k4XkzwWao)
+

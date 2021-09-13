@@ -52,3 +52,4 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Haskell 2021 - Linear Haskell, Today and Tomorrow](https://www.youtube.com/watch?v=v7k4XkzwWao)
 
+[Haskell 2021 - Evaluating Linear Functions to Symmetric Monoidal Categories](https://www.youtube.com/watch?v=90OJz0QE4qE)

@@ -28,7 +28,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [uniqueness types vs. linearity](https://www.reddit.com/r/haskell/comments/m3epde/linear_constraints/gqu389i/)
 
-[Evaluating Linear Functions to Symmetric Monoidal Categories](https://arxiv.org/abs/2103.06195). [programming without function](https://www.youtube.com/watch?v=xZmPuz9m2t0) (related video, but no linear types).
+[Evaluating Linear Functions to Symmetric Monoidal Categories](https://arxiv.org/abs/2103.06195). [programming without function](https://www.youtube.com/watch?v=xZmPuz9m2t0) (related video, but no linear types). [actual video](https://twitter.com/aspiwack/status/1437342308165357571)
 
 [With linear types and the right notion of an arrow, we can build full intuitionistic linear logic](https://twitter.com/kmett/status/1376235979481116672)
 
@@ -49,5 +49,4 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 [Client-Server Sessions in Linear Logic](https://www.youtube.com/watch?v=om3QlFls3cs&list=PLyrlk8Xaylp5ed_Yhg2oTdVhrtVohVaoa&index=2). 
 
 [Why Functional Programming with Linear Types Matters](https://www.youtube.com/watch?v=WZ_0FSGeq2s)
-
 

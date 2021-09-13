@@ -1004,3 +1004,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Indirection adds cognitive load. Abstraction reduces it.](https://twitter.com/jbrains/status/1437036779295674373)
 
+[annotation-free Spring](https://blog.frankel.ch/annotation-free-spring/)
+

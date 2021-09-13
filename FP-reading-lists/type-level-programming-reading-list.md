@@ -377,7 +377,7 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Leibniz equality in Haskell](https://ryanglscott.github.io/2021/09/06/leibniz-equality-in-haskell-part-2-heterogeneous-equality/). [Leibniz coercion](https://oleg.fi/gists/posts/2021-09-09-leibniz-coercion.html).
 
-
+[Haskell 2021 - Graded Monads and Type-Level Programming for Dependence Analysis](https://www.youtube.com/watch?v=Emtk0ipeBBo)
 
 
 

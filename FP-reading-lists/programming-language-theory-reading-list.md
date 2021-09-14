@@ -559,6 +559,9 @@ handlers as additional arguments to methods.
 
 [Cheap interpreter, part 7: register machines](https://cuddly-octo-palm-tree.com/posts/2021-08-01-cwafi-7-register-machine/)
 
+[Computational duality and the sequent calculus](https://ix.cs.uoregon.edu/~pdownen/publications/cdsc.pdf). [tweet](https://twitter.com/rob_rix/status/1437740717686722560).
+
+
 # slides
 
 [Functional programming languages Part I: interpreters and operational semantics](https://xavierleroy.org/mpri/2-4/semantics.pdf) [whole](https://xavierleroy.org/mpri/2-4/)

@@ -691,6 +691,10 @@ F at the object of interest, X.
 
 [dependent optics!](https://twitter.com/_julesh_/status/1434216521702727682). [original post](https://bartoszmilewski.com/2021/09/04/dependent-optics/).
 
+[more about optics](https://www.reddit.com/r/haskell/comments/pfxgd4/monthly_hask_anything_september_2021/hcydax9/)
+
+[Infinity Category Theory Offers a Bird’s-Eye View of Mathematics](https://www.scientificamerican.com/article/infinity-category-theory-offers-a-birds-eye-view-of-mathematics1/)
+
 # courses
 
 [Applied Category Theory](http://www.azimuthproject.org/azimuth/show/Applied+Category+Theory) [course intro](https://forum.azimuthproject.org/discussion/1717) [Seven Sketches in Compositionality An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/) [course book](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf). [new](https://www.reddit.com/r/haskell/comments/b8l4an/applied_category_theory_course/)

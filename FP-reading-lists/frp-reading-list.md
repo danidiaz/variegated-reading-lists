@@ -214,3 +214,8 @@ They're all capable of expressing one another in their own terms though, so they
 [Towards Principled Reactive UI](https://news.ycombinator.com/item?id=24599560)
 
 [Reflex.Host.Headless](https://funprog.zulipchat.com/#narrow/stream/201385-Haskell/topic/FRP.20build.20system/near/245209079)
+
+[reactive-banana 1.2.2.0](https://discourse.haskell.org/t/reactive-banana-1-2-2-0/3249/4)
+
+> anything loosely involving a possibly-dynamic collection of locally-stateful “entities” that relate to one another, whose implementation might otherwise involve spooky callbacks or other non-compositional abstractions 
+

@@ -346,3 +346,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 [Hacking Out of a Network - Computerphile](https://www.youtube.com/watch?v=h7IeCPhTBxs)
 
 [Is it insecure to display the number of characters when users enter a new passphrase?](https://security.stackexchange.com/questions/254788/is-it-insecure-to-display-the-number-of-characters-when-users-enter-a-new-passph)
+
+[The pitfalls of using SSH-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents) [hn](https://news.ycombinator.com/item?id=28576617)
+

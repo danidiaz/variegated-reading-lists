@@ -1006,3 +1006,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [annotation-free Spring](https://blog.frankel.ch/annotation-free-spring/)
 
+[usually there are many error cases and 1 happy case so the bulk of time and code is dedicated to the errors](https://news.ycombinator.com/item?id=28555806)
+
+

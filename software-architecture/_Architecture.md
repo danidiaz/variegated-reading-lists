@@ -1008,4 +1008,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [usually there are many error cases and 1 happy case so the bulk of time and code is dedicated to the errors](https://news.ycombinator.com/item?id=28555806)
 
+[Keep IDs internal with REST](https://twitter.com/ploeh/status/1439838561734365185?s=03)
+
+[Practical Frontend Architecture](https://news.ycombinator.com/item?id=28590879)
 

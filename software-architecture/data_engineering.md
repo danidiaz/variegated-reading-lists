@@ -75,5 +75,6 @@
 
 [the rise of the analytics engineer](https://twitter.com/pbailis/status/1436021624927494154)
 
-[Is BI dead? – On dismantling data's ship of Theseus](https://news.ycombinator.com/item?id=28580298)
+[Is BI dead? – On dismantling data's ship of Theseus](https://news.ycombinator.com/item?id=28580298). [HN](https://news.ycombinator.com/item?id=28580298) <- some interesting quotes.
+
 

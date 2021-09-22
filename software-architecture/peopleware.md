@@ -60,3 +60,6 @@
 
 [avoid coordination whenever possible](https://blog.starburst.io/data-mesh-the-answer-to-the-data-warehouse-hypocrisy)
 
+[wishful thinking](https://twitter.com/imightbemary/status/1440380210445049863?s=03)
+
+

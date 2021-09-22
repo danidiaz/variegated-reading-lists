@@ -77,4 +77,5 @@
 
 [Is BI dead? – On dismantling data's ship of Theseus](https://news.ycombinator.com/item?id=28580298). [HN](https://news.ycombinator.com/item?id=28580298) <- some interesting quotes.
 
+[Data Collection, Standardization and Usage at Scale in the Uber Rider App](https://twitter.com/InfoQ/status/1440672815749873673)
 

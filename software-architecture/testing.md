@@ -108,3 +108,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Time zone integration testing life hack](https://twitter.com/gunnarmorling/status/1430445009350823939)
 
+[Why We Killed Our End-to-End Test Suite](https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/). [hn](https://news.ycombinator.com/item?id=28643848)
+
+

@@ -81,3 +81,6 @@
 
 [what the hell is a "data lake"](https://twitter.com/lenazun/status/1441468812025491465?s=03). [curse of the data lake monster](https://www.thoughtworks.com/insights/blog/curse-data-lake-monster).
 
+[link tables in data vaults](https://www.linkedin.com/pulse/data-vault-test-automation-patrick-cuba/)
+
+

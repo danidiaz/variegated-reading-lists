@@ -1012,3 +1012,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Practical Frontend Architecture](https://news.ycombinator.com/item?id=28590879)
 
+[Git Flow is a bad idea](https://www.youtube.com/watch?v=_w6TwnLCFwA)
+

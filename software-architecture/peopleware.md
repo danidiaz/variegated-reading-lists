@@ -62,4 +62,6 @@
 
 [wishful thinking](https://twitter.com/imightbemary/status/1440380210445049863?s=03)
 
+[video calls](https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/). [hn](https://news.ycombinator.com/item?id=28636536).
+
 

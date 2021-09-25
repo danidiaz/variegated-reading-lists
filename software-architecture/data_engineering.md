@@ -79,3 +79,5 @@
 
 [Data Collection, Standardization and Usage at Scale in the Uber Rider App](https://twitter.com/InfoQ/status/1440672815749873673)
 
+[what the hell is a "data lake"](https://twitter.com/lenazun/status/1441468812025491465?s=03). [curse of the data lake monster](https://www.thoughtworks.com/insights/blog/curse-data-lake-monster).
+

@@ -695,6 +695,8 @@ F at the object of interest, X.
 
 [Infinity Category Theory Offers a Bird’s-Eye View of Mathematics](https://www.scientificamerican.com/article/infinity-category-theory-offers-a-birds-eye-view-of-mathematics1/)
 
+[Comonads are useful for structuring computations in spatially or temporally extended data structures.](https://twitter.com/BartoszMilewski/status/1441136829009305601)
+
 # courses
 
 [Applied Category Theory](http://www.azimuthproject.org/azimuth/show/Applied+Category+Theory) [course intro](https://forum.azimuthproject.org/discussion/1717) [Seven Sketches in Compositionality An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/) [course book](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf). [new](https://www.reddit.com/r/haskell/comments/b8l4an/applied_category_theory_course/)

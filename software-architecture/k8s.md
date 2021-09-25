@@ -222,3 +222,7 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 [Using strongly-typed entity IDs to avoid primitive obsession](https://andrewlock.net/series/using-strongly-typed-entity-ids-to-avoid-primitive-obsession/). [so answer](https://softwareengineering.stackexchange.com/a/392887/76774). But how to implement this in JPA? Perhaps with a fake "composite" id class that only has one component? [IdClass](https://jakarta.ee/specifications/persistence/2.2/apidocs/javax/persistence/idclass). [How to create and handle composite primary key in JPA](https://newbedev.com/how-to-create-and-handle-composite-primary-key-in-jpa).
 
 [It's tough being an Azure fan ](https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan/). [hn](https://news.ycombinator.com/item?id=28617663)
+
+[Data scientists shouldn’t need to know Kubernetes](https://news.ycombinator.com/item?id=28649508)
+
+

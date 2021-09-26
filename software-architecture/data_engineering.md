@@ -83,4 +83,8 @@
 
 [link tables in data vaults](https://www.linkedin.com/pulse/data-vault-test-automation-patrick-cuba/)
 
+[categorical columns](https://docs.snowflake.com/en/user-guide/ui-snowsight-worksheets.html#automatic-contextual-statistics). [in ml](https://towardsdatascience.com/a-checklist-for-data-pre-processing-before-you-build-your-machine-learning-model-91d2d04dc53f). [what is one hot encoding](https://www.educative.io/blog/one-hot-encoding). [feature engineering in Snowflake](https://community.snowflake.com/s/article/Feature-Engineering-in-Snowflake).
+
+
+
 

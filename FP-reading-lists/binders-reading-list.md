@@ -284,6 +284,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [Implementing Hindley-Milner with the unification-fd library](https://twitter.com/Jose_A_Alonso/status/1436449406522302468)
 
+[Bottom-up rewriting with smart constructors, hereditary substitution & normalization by evaluation](https://twitter.com/JulesJacobs5/status/1442217029432451075)
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

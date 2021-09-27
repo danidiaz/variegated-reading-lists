@@ -517,3 +517,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 [monadic compiler calculation](https://twitter.com/haskellhutt/status/1413185337095036936)
 
 [using graded coeffects to work with multiple versions of a package within a single program](https://twitter.com/brendanzab/status/1418760823405563910)
+
+[levity polymorphism](https://www.reddit.com/r/haskell/comments/pwhot9/comment/hehv39o/)
+

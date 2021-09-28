@@ -119,4 +119,5 @@
 
 [How PCI-Express works (2020)](https://news.ycombinator.com/item?id=28490021)
 
+[The speed of time](https://www.brendangregg.com/blog/2021-09-26/the-speed-of-time.html)
 

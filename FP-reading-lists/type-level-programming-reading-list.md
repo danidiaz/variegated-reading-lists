@@ -60,7 +60,7 @@
 
 [Multi-stage Programs in Context](https://mpickering.github.io/papers/multi-stage-programs-in-context.pdf)
 
-[Staged Sums of Products](https://www.andres-loeh.de/StagedSOP/staged-sop-paper.pdf). [video](https://vimeo.com/449627298)
+[Staged Sums of Products](https://www.andres-loeh.de/StagedSOP/staged-sop-paper.pdf). [video](https://vimeo.com/449627298). [reddit](https://www.reddit.com/r/haskell/comments/pxai78/comment/heoranl/). [tweet](https://twitter.com/xnningxie/status/1442834801338241026).
 
 [Staged Selective Parser Combinators](https://icfp20.sigplan.org/details/icfp-2020-papers/20/Staged-Selective-Parser-Combinators). [video at 28:00](https://www.youtube.com/watch?v=i9wgeX7e-nc&list=PLyrlk8Xaylp4fOgwO5RUTrpgSA_HRjDMW&index=3)
 

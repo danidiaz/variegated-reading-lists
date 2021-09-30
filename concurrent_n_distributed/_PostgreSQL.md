@@ -161,3 +161,5 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Using PostgreSQL’s JSONB for NoSQL (2019) [video]](https://news.ycombinator.com/item?id=28406334)
 
+[Why we spent the last month eliminating PostgreSQL subtransactions](https://lobste.rs/s/zyyoma/why_we_spent_last_month_eliminating)
+

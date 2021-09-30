@@ -299,6 +299,8 @@ only run it when something bad happens to prevent any one thing to be a single p
 
 [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 
+[Distributed consensus made simple (for real this time!)](https://twitter.com/heidiann360/status/1443491633752850434)
+
 # Slides
 
 [Distributed systems course](https://roxanageambasu.github.io/ds-class//assets/lectures/lecture17.pdf)

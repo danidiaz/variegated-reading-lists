@@ -64,4 +64,5 @@
 
 [video calls](https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/). [hn](https://news.ycombinator.com/item?id=28636536).
 
+[big orgs](https://news.ycombinator.com/item?id=28706724)
 

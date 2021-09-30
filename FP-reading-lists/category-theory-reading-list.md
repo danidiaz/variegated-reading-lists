@@ -827,4 +827,8 @@ F at the object of interest, X.
 
 [derived functor](https://ncatlab.org/nlab/show/derived+functor). [just that you can make so many noncanonical choices and have it all piece together in the end](https://twitter.com/fppf_gf/status/1414222369867108352).
 
+[Structures algébriques fondamentales (Définitions, constructions et propriétés universelles)](https://twitter.com/DiazCarrete/status/1443566606592851971)
+
+> Dans tout ce programme de construction, il est crucial de veiller à respecter l’encapsulation : on ne retourne pas voir les détails d’une construction terminée. La porte d’entrée (et ses éventuelles propriétés) et la propriété universelle doivent rester les seuls accès. 
+
 

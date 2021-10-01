@@ -1014,3 +1014,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Git Flow is a bad idea](https://www.youtube.com/watch?v=_w6TwnLCFwA)
 
+[Data, objects, and how we're railroaded into poor design](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html)
+

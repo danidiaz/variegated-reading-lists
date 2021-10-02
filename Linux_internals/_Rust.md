@@ -98,4 +98,6 @@
 
 [Why not let the OS take care of this?](https://news.ycombinator.com/item?id=28722139)
 
+> On the other hand the OS does know about memory pressure from IO and from heap memory for the whole system. This crate will only know about cache pressure within a single process.
+
 

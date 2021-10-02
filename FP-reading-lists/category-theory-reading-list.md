@@ -729,6 +729,8 @@ F at the object of interest, X.
 
 [what's this monad?](https://twitter.com/rob_rix/status/1412617895251693569?s=03)
 
+[Can skeleta simplify category theory?](https://mathoverflow.net/questions/11674/can-skeleta-simplify-category-theory/11687)
+
 # tools
 
 [High-assurance data integration with mathematical rigor](http://catinf.com/)

@@ -731,6 +731,10 @@ F at the object of interest, X.
 
 [Can skeleta simplify category theory?](https://mathoverflow.net/questions/11674/can-skeleta-simplify-category-theory/11687)
 
+> one should not fight the fact that there are choices by actually making choices, but instead that one should deal with them all at the same time, for the presence of choices is itself an important piece of information 
+
+[What structure do natural isomorphisms preserve?](https://mathoverflow.net/questions/334966/what-structure-do-natural-isomorphisms-preserve?noredirect=1&lq=1)
+
 # tools
 
 [High-assurance data integration with mathematical rigor](http://catinf.com/)

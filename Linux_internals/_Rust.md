@@ -95,3 +95,7 @@
 [a tcp proxy](https://lobste.rs/s/swud1f/tcp_proxy_30_lines_rust)
 
 [Rust n Lisp](https://news.ycombinator.com/item?id=27810193)
+
+[Why not let the OS take care of this?](https://news.ycombinator.com/item?id=28722139)
+
+

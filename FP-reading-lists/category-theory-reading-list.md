@@ -735,6 +735,8 @@ F at the object of interest, X.
 
 [What structure do natural isomorphisms preserve?](https://mathoverflow.net/questions/334966/what-structure-do-natural-isomorphisms-preserve?noredirect=1&lq=1)
 
+[Another Look Through Optics](https://medium.com/@wigahluk/another-look-through-optics-ffd253336e9c)
+
 # tools
 
 [High-assurance data integration with mathematical rigor](http://catinf.com/)

@@ -737,6 +737,8 @@ F at the object of interest, X.
 
 [Another Look Through Optics](https://medium.com/@wigahluk/another-look-through-optics-ffd253336e9c)
 
+[Algebras of the environment monad](https://math.stackexchange.com/questions/868262/algebras-of-the-environment-monad)
+
 # tools
 
 [High-assurance data integration with mathematical rigor](http://catinf.com/)

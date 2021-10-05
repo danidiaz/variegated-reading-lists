@@ -739,6 +739,13 @@ F at the object of interest, X.
 
 [Algebras of the environment monad](https://math.stackexchange.com/questions/868262/algebras-of-the-environment-monad)
 
+[nice explanation of fields from an universal algebra angle](https://math.stackexchange.com/a/23477/55263)
+
+> We know that fields cannot be defined as algebras with operations, because if
+> they could then the category of fields (or even of fields of a given
+> characteristic) with field morphisms would necessarily have categorical
+> products, and they do not.
+
 # tools
 
 [High-assurance data integration with mathematical rigor](http://catinf.com/)

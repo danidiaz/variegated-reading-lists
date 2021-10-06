@@ -163,3 +163,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Why we spent the last month eliminating PostgreSQL subtransactions](https://lobste.rs/s/zyyoma/why_we_spent_last_month_eliminating)
 
+[Lessons learned from sharding Postgres at Notion](https://news.ycombinator.com/item?id=28776786)
+
+

@@ -107,6 +107,10 @@ attempt to make equality reasonable again.”
 
 # set theory
 
+[Bourbaki on sets](https://twitter.com/EscardoMartin/status/1445680214420320257)
+
+> nowadays it is known to be possible, logically speaking, to derive practically the whole of known mathematics from a single source, the Theory of Sets
+
 ## large cardinals
 
 [How should a “working mathematician” think about sets?](https://mathoverflow.net/questions/255820/how-should-a-working-mathematician-think-about-sets-zfc-category-theory-ur). [In what respect are univalent foundations “better” than set theory?](https://mathoverflow.net/questions/286874/in-what-respect-are-univalent-foundations-better-than-set-theory). [ZFC Set Theory and the Category of Sets](https://www.cs.auckland.ac.nz/~nies/Students/BroomeSetTheory2008.pdf). [Axiom of infinity](https://math.stackexchange.com/questions/1472339/proving-infinity-vs-axiom-of-infinity/2014493). [Is there any set theory without something like the Axiom Schema of Separation?](https://math.stackexchange.com/questions/1193067/is-there-any-set-theory-without-something-like-the-axiom-schema-of-separation?rq=1). [Why is the powerset axiom more acceptable than the axiom of choice?](https://math.stackexchange.com/questions/904522/why-is-the-powerset-axiom-more-acceptable-than-the-axiom-of-choice?rq=1). [Is the axiom of universes 'harmless'?](https://math.stackexchange.com/questions/79343/is-the-axiom-of-universes-harmless?rq=1). [WHAT IS THE THEORY ZFC WITHOUT POWER SET?](https://arxiv.org/pdf/1110.2430v1.pdf). [Reasons to believe Vopenka's principle](https://mathoverflow.net/questions/29302/reasons-to-believe-vopenkas-principle-huge-cardinals-are-consistent/29310#29310) interesting answer. [Are there any large cardinals that are inconsistent with ZF?](https://philosophy.stackexchange.com/questions/10664/are-there-any-large-cardinals-that-are-inconsistent-with-zf). [Ultrafilters VII: Large Cardinals](https://pointatinfinityblog.wordpress.com/2016/07/14/ultrafilters-vii-large-cardinals/).

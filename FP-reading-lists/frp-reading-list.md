@@ -219,3 +219,6 @@ They're all capable of expressing one another in their own terms though, so they
 
 > anything loosely involving a possibly-dynamic collection of locally-stateful “entities” that relate to one another, whose implementation might otherwise involve spooky callbacks or other non-compositional abstractions 
 
+[An Overview of Functional Reactive Programming](https://es.cs.uni-kl.de/publications/datarsg/Kock21.pdf)
+
+

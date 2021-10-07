@@ -105,6 +105,8 @@ attempt to make equality reasonable again.”
 
 [the hardest problem in type theory (video)](https://www.youtube.com/watch?v=m_PecfbEWik)
 
+[HITs syntactically &semantically](https://twitter.com/jonmsterling/status/1446191028277547013)
+
 # set theory
 
 [Bourbaki on sets](https://twitter.com/EscardoMartin/status/1445680214420320257)

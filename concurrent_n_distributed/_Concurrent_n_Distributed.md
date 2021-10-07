@@ -74,6 +74,8 @@
 
 [Serializability](https://en.wikipedia.org/wiki/Serializability)
 
+[Linearizability](http://muratbuffalo.blogspot.com/2021/10/linearizability.html). [tweet](https://twitter.com/muratdemirbas/status/1445935260018126850?t=ABFs3XCPYJkNbwc2I5KUhA&s=03).
+
 [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 
 > Moreover, databases with snapshot isolation/MVCC are intentionally non-linearizable, because enforcing linearizability would reduce the level of concurrency that the database can offer. For example, **PostgreSQL’s SSI provides serializability but not linearizability**, and Oracle provides neither. Just because a database is branded “ACID” doesn’t mean it meets the CAP theorem’s definition of consistency. *Is this quote really correct?*

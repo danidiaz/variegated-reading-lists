@@ -520,3 +520,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [levity polymorphism](https://www.reddit.com/r/haskell/comments/pwhot9/comment/hehv39o/)
 
+[Latent Effects for Reusable Language Components](https://www.reddit.com/r/haskell/comments/q362yz/latent_effects_for_reusable_language_components/)
+
+

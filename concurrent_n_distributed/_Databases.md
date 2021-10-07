@@ -775,6 +775,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [The Database Ruins All Good Ideas](https://lobste.rs/s/nsrhor/database_ruins_all_good_ideas)
 
+[the relationship between DISTINCT and ORDER BY in SQL](https://twitter.com/lukaseder/status/1445406542166114319?s=03)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

@@ -1016,3 +1016,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Data, objects, and how we're railroaded into poor design](https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html)
 
+[Database-driven realtime architectures](https://ably.com/blog/database-driven-realtime-architectures-serverless-editable-chat-app-part-2)
+

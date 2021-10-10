@@ -314,3 +314,6 @@ https://github.com/microsoft/PowerBI-client-react#powerbi-client-react
 
 https://react-query.tanstack.com/
 
+[How I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021)
+
+

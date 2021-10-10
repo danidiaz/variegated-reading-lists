@@ -746,6 +746,10 @@ F at the object of interest, X.
 > characteristic) with field morphisms would necessarily have categorical
 > products, and they do not.
 
+[Haskell & category theory](https://www.reddit.com/r/haskell/comments/pzy3py/comment/hg3rxtk/)
+
+> But once you start manipulating quantifiers, the magic goes away. Consider, for instance, forall x . f x. This should be the limit of f
+
 # tools
 
 [High-assurance data integration with mathematical rigor](http://catinf.com/)

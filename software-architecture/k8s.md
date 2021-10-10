@@ -225,4 +225,6 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 
 [Data scientists shouldn’t need to know Kubernetes](https://news.ycombinator.com/item?id=28649508)
 
+[Using load shedding to avoid overload](https://news.ycombinator.com/item?id=28818622). [Rolling blackout](https://en.wikipedia.org/wiki/Rolling_blackout).
+
 

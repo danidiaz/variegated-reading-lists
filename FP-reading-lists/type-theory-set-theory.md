@@ -107,6 +107,8 @@ attempt to make equality reasonable again.”
 
 [HITs syntactically &semantically](https://twitter.com/jonmsterling/status/1446191028277547013)
 
+[First Steps in Synthetic Tait Computability: The Objective Metatheory of Cubical Type Theory](https://www.youtube.com/watch?v=_4D97I8qYJw)
+
 # set theory
 
 [Bourbaki on sets](https://twitter.com/EscardoMartin/status/1445680214420320257)

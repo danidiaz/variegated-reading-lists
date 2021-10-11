@@ -110,4 +110,5 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Why We Killed Our End-to-End Test Suite](https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/). [hn](https://news.ycombinator.com/item?id=28643848)
 
+[The fundamentals of testing with persistence layers](https://twitter.com/InfoQ/status/1447534118523318274)
 

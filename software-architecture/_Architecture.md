@@ -1018,3 +1018,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Database-driven realtime architectures](https://ably.com/blog/database-driven-realtime-architectures-serverless-editable-chat-app-part-2)
 
+[API Design Principles and Process at Slack](https://twitter.com/InfoQ/status/1447549246509568001)
+

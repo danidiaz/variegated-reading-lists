@@ -61,6 +61,8 @@ Predicative and Classical Systems of Analysis](https://math.stanford.edu/~feferm
 
 [Classical (Co)Recursion: Programming](https://arxiv.org/abs/2103.06913v1)
 
+[Universal coalgebra: a theory of systems](https://www.sciencedirect.com/science/article/pii/S0304397500000566)
+
 # posts
 
 [Proof by Coinduction](https://golem.ph.utexas.edu/category/2009/09/proof_by_coinduction.html)  coinduction is going to rely on the fact that epimorphisms from terminal coalgebras are isomorphisms, i.e., there’s no quotient coalgebra of a terminal coalgebra. 

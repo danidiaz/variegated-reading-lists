@@ -66,6 +66,8 @@
 
 [Eliminating Bugs with Dependent Haskell (Experience Report)](https://research.fb.com/wp-content/uploads/2020/08/Eliminating-Bugs-with-Dependent-Haskell-Experience-Report.pdf)
 
+[Implementing Generic1 using Generic](https://www.reddit.com/r/haskell/comments/q8g4j6/implementing_generic1_using_generic/).
+
 ## Books
 
 [Dependent Types at Work](http://www.cse.chalmers.se/~peterd/papers/DependentTypesAtWork.pdf) looks like a good introduction to Agda for people with Haskell experience.

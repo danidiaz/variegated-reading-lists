@@ -750,6 +750,8 @@ F at the object of interest, X.
 
 > But once you start manipulating quantifiers, the magic goes away. Consider, for instance, forall x . f x. This should be the limit of f
 
+[When are homs not sets?](https://twitter.com/StephDoesMath/status/1448789263642923013?t=87Cv4YW8722Zn7vn-28FvQ&s=03)
+
 # tools
 
 [High-assurance data integration with mathematical rigor](http://catinf.com/)

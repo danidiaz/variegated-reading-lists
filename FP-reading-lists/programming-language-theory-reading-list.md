@@ -640,6 +640,8 @@ handlers as additional arguments to methods.
 
 [J.N. OLIVEIRA PROGRAM DESIGN BY CALCULATION](http://www4.di.uminho.pt/~jno/ps/pdbc.pdf). [post](http://www.philipzucker.com/a-short-skinny-on-relations-towards-the-algebra-of-programming/?preview=true)
 
+[Functional Algorithms, Verified](https://news.ycombinator.com/item?id=28884229)
+
 ## videos
 
 [Curry On Talk: The Practice and Theory of TLA+](https://pron.github.io/posts/tlaplus-curryon-talk)

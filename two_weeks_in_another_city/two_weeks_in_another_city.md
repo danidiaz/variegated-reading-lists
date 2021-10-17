@@ -660,6 +660,8 @@ Bernini, his life and his Rome
 
 [the more real it feels, the closer to the reality of the action it gets, eventually drains away this magic](https://twitter.com/ChevyRay/status/1405290423833165827)
 
+[Roguelike Celebration 2021](https://news.ycombinator.com/item?id=28890164)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

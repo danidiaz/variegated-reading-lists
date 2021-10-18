@@ -169,6 +169,8 @@ max(v), min(t), and max(t) – hence the name M4
 
 [	MetricsDB: TimeSeries Database for storing metrics at Twitter ](https://news.ycombinator.com/item?id=23547327)
 
+[How Time Series Databases Work, and Where They Don’t](https://news.ycombinator.com/item?id=28901063)
+
 ## clickhouse
 
 [ClickHouse: New Open Source Columnar Database](https://www.percona.com/blog/2017/02/13/clickhouse-new-opensource-columnar-database/)

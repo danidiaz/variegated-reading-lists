@@ -602,7 +602,7 @@ handlers as additional arguments to methods.
 
 >  we show how to implement a refinement type checker via a progression of languages that incrementally add features to the language or type system.
 
-[elaboration-zoo](https://github.com/AndrasKovacs/elaboration-zoo). [tweet](https://twitter.com/rob_rix/status/1244394684132229128). [tweet](https://twitter.com/acid2/status/1329360234616381442).
+[elaboration-zoo](https://github.com/AndrasKovacs/elaboration-zoo). [tweet](https://twitter.com/rob_rix/status/1244394684132229128). [tweet](https://twitter.com/acid2/status/1329360234616381442). [tweet](https://twitter.com/andrasKovacs6/status/1450114071236317187).
 
 [What makes dependent type theory more suitable than set theory for proof assistants?](https://twitter.com/andrejbauer/status/1329766186813435906)
 

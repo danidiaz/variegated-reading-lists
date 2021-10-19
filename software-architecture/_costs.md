@@ -112,3 +112,5 @@
 
 [things to do in Day One](https://twitter.com/QuinnyPig/status/1445816772829929473)
 
+[Deleting an S3 Bucket Costs Money](https://news.ycombinator.com/item?id=28917152)
+

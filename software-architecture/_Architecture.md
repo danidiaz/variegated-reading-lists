@@ -1020,3 +1020,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [API Design Principles and Process at Slack](https://twitter.com/InfoQ/status/1447549246509568001)
 
+[frameworks yay or nay](https://news.ycombinator.com/item?id=28920095)
+

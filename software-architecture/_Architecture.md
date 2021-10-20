@@ -1022,3 +1022,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [frameworks yay or nay](https://news.ycombinator.com/item?id=28920095)
 
+[The "return a command" trick](https://www.haskellforall.com/2021/10/the-return-command-trick.html)
+

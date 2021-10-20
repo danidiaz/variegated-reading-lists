@@ -1024,3 +1024,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [The "return a command" trick](https://www.haskellforall.com/2021/10/the-return-command-trick.html). [always be composing](https://www.youtube.com/watch?v=3oQTSP4FngY).
 
+[Spring for Architects](https://www.youtube.com/watch?v=e3kgfcO0af4)
+
+

@@ -165,4 +165,8 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Lessons learned from sharding Postgres at Notion](https://news.ycombinator.com/item?id=28776786)
 
+[Projecting Monthly Revenue Run Rate in Postgres](https://blog.crunchydata.com/blog/postgres-queries-for-projecting-monthly-revenue-run-rate)
+
+> What I have found through the years is that it's best to work through SQL queries inside-out. 
+
 

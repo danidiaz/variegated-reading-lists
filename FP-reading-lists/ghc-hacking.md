@@ -165,4 +165,6 @@ have the same meta-information
 > $ sudo apt-get install autoconf autotools-dev automake happy
 > # then follow the instructions in ghc.dev
 
+[Induction without core-size blow-up a.k.a. Large records: anonymous edition](https://well-typed.com/blog/2021/10/large-records-part-2/)
+
 

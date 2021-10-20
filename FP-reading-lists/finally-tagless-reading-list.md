@@ -46,6 +46,8 @@ Typing dynamic typing [1](http://www.haskell.org/pipermail/haskell-cafe/2006-Oct
 
 [Final tagless encodings have little to do with typeclasses](https://www.reddit.com/r/haskell/comments/nmj8hz/final_tagless_encodings_have_little_to_do_with/). [more](https://twitter.com/trupill/status/1398167586056118274).
 
+[Initial and final encodings of free monads](https://blog.poisson.chat/posts/2021-10-20-initial-final-free-monad.html)
+
 ## slides
 
 [Haskell for EDSLs](http://www.andres-loeh.de/HaskellForDSLs.pdf)

@@ -1026,4 +1026,4 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Spring for Architects](https://www.youtube.com/watch?v=e3kgfcO0af4)
 
-
+[exploratory refactoring](https://victorrentea.ro/blog/exploratory-refactoring/) 

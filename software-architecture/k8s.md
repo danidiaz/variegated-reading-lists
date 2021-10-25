@@ -227,4 +227,5 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 
 [Using load shedding to avoid overload](https://news.ycombinator.com/item?id=28818622). [Rolling blackout](https://en.wikipedia.org/wiki/Rolling_blackout).
 
+[Tuning haskell for Kubernetes Part 1](https://blog.noredink.com/post/666020751977168896/tuning-haskell-rts-for-kubernetes-part-1)
 

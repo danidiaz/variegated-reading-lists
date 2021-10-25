@@ -316,4 +316,4 @@ https://react-query.tanstack.com/
 
 [How I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021)
 
-
+[We memo all the things (2020)](https://news.ycombinator.com/item?id=28987421)

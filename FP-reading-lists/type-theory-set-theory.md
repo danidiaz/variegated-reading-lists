@@ -109,6 +109,8 @@ attempt to make equality reasonable again.”
 
 [First Steps in Synthetic Tait Computability: The Objective Metatheory of Cubical Type Theory](https://www.youtube.com/watch?v=_4D97I8qYJw)
 
+[Kripke-Joyal forcing for type theory and uniform fibrations](https://twitter.com/mathLOb/status/1453544463758872577)
+
 # set theory
 
 [Bourbaki on sets](https://twitter.com/EscardoMartin/status/1445680214420320257)

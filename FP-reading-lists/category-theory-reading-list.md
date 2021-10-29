@@ -752,6 +752,8 @@ F at the object of interest, X.
 
 [When are homs not sets?](https://twitter.com/StephDoesMath/status/1448789263642923013?t=87Cv4YW8722Zn7vn-28FvQ&s=03)
 
+[Constructions unique up to non-unique isomorphism](https://mathoverflow.net/questions/53767/constructions-unique-up-to-non-unique-isomorphism)
+
 # tools
 
 [High-assurance data integration with mathematical rigor](http://catinf.com/)

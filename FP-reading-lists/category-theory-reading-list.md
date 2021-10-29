@@ -754,6 +754,10 @@ F at the object of interest, X.
 
 [Constructions unique up to non-unique isomorphism](https://mathoverflow.net/questions/53767/constructions-unique-up-to-non-unique-isomorphism)
 
+[generalized the](https://ncatlab.org/nlab/show/generalized+the)
+
+> In mathematics, and especially in category theory, homotopy theory/homotopy type theory and generally in higher category theory, it is common to use “the” more generally for objects/types which are characterized only up to coherent isomorphism/equivalence: Such need not actually be unique, but any two of them are isomorphic or more generally coherently equivalent in an essentially unique way (meaning that the ∞-groupoid of all such objects is contractible).
+
 # tools
 
 [High-assurance data integration with mathematical rigor](http://catinf.com/)

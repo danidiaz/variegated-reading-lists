@@ -169,4 +169,4 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 > What I have found through the years is that it's best to work through SQL queries inside-out. 
 
-
+[Encrypting Postgres Data at Rest in Kubernetes](https://news.ycombinator.com/item?id=29057505)

@@ -56,3 +56,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [linear-generics](https://www.reddit.com/r/haskell/comments/q6fl5x/lineargenerics/)
 
+["meaning explanation" for classical linear logic](https://twitter.com/evanewashington/status/1454581185976455174)
+
+

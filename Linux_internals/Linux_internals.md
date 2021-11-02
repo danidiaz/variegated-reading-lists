@@ -121,3 +121,5 @@
 
 [The speed of time](https://www.brendangregg.com/blog/2021-09-26/the-speed-of-time.html)
 
+[Debugging a hang: Chasing the wait chain inside a process](https://devblogs.microsoft.com/oldnewthing/20141024-00/?p=43773)
+

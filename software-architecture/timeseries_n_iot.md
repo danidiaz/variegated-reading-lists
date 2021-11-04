@@ -191,6 +191,8 @@ max(v), min(t), and max(t) – hence the name M4
 
 [	ClickHouse as an alternative to Elasticsearch for log storage and analysis](https://news.ycombinator.com/item?id=26316401)
 
+[clickhouse vs postgresql](https://blog.timescale.com/blog/what-is-clickhouse-how-does-it-compare-to-postgresql-and-timescaledb-and-how-does-it-perform-for-time-series-data/). [timescaledb vs. clickhouse](https://news.ycombinator.com/item?id=29096541).
+
 ## grafana datasources
 
 [grafana datasources](https://grafana.com/docs/features/datasources/)

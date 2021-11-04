@@ -303,6 +303,14 @@ only run it when something bad happens to prevent any one thing to be a single p
 
 [Distributed consensus made simple (for real this time!)](https://twitter.com/heidiann360/status/1443491633752850434)
 
+[Consistency levels in Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels)
+
+- Strong
+- Bounded staleness
+- Session
+- Consistent prefix
+- Eventual
+
 # Slides
 
 [Distributed systems course](https://roxanageambasu.github.io/ds-class//assets/lectures/lecture17.pdf)

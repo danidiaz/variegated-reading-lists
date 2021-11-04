@@ -1030,3 +1030,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Why and how to use service injection in Node.js](https://news.ycombinator.com/item?id=29047685)
 
+[Reducing complexity by integrating through the database](https://news.ycombinator.com/item?id=29093896)
+
+[Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/). [CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs). [Geode](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs). 
+
+
+

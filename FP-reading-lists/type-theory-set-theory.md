@@ -111,6 +111,8 @@ attempt to make equality reasonable again.”
 
 [Kripke-Joyal forcing for type theory and uniform fibrations](https://twitter.com/mathLOb/status/1453544463758872577)
 
+[Constructive mathematics for the 21st century](https://twitter.com/EscardoMartin/status/1455998129367568386). [ when the mathematics is formalized, if it is constructive, then it is automatically a computer program that computes](https://twitter.com/EscardoMartin/status/1455998167602839556)
+
 # set theory
 
 [Bourbaki on sets](https://twitter.com/EscardoMartin/status/1445680214420320257)

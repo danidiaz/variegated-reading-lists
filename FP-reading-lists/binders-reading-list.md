@@ -286,6 +286,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [Bottom-up rewriting with smart constructors, hereditary substitution & normalization by evaluation](https://twitter.com/JulesJacobs5/status/1442217029432451075)
 
+[Do you want to define syntax with binders in Agda but have no idea whether to use de Bruijn indices, nominal sets, HOAS, or yet something else?](https://jesper.sikanda.be/posts/1001-syntax-representations.html) [tweet](https://twitter.com/agdakx/status/1456666363821531142)
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

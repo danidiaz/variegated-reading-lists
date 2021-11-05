@@ -1034,5 +1034,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/). [CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs). [Geode](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs). 
 
-
+[Anti-Patterns to Avoid in Lambda Based Apps](https://blog.basimhennawi.com/5-anti-patterns-to-avoid-in-lambda-based-apps). [hn](https://news.ycombinator.com/item?id=29092390)
 

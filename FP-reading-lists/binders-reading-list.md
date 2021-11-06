@@ -288,6 +288,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [Do you want to define syntax with binders in Agda but have no idea whether to use de Bruijn indices, nominal sets, HOAS, or yet something else?](https://jesper.sikanda.be/posts/1001-syntax-representations.html) [tweet](https://twitter.com/agdakx/status/1456666363821531142)
 
+[A type- and scope-safe universe of syntaxes with binding](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/abs/type-and-scopesafe-universe-of-syntaxes-with-binding-their-semantics-and-proofs/8A0865F34313BA65F4FE46D4522B4568)
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

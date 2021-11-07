@@ -68,3 +68,5 @@
 
 [rewriter of all things](https://twitter.com/SusanPotter/status/1454207258808791040)
 
+[don't be spooky](https://news.ycombinator.com/item?id=29130590)
+

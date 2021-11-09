@@ -68,6 +68,14 @@
 
 [Implementing Generic1 using Generic](https://www.reddit.com/r/haskell/comments/q8g4j6/implementing_generic1_using_generic/).
 
+[tangle: Heterogenous memoisation monad](https://www.reddit.com/r/haskell/comments/qpebqx/tangle_heterogenous_memoisation_monad/)
+
+[data-interval](https://www.reddit.com/r/haskell/comments/qlevvj/datainterval211_advanced_interval_manipulations/)
+
+> Allen's interval algebra.
+
+[Transitive `Subset` class for type-level-sets](https://www.reddit.com/r/haskell/comments/qlvs5i/transitive_subset_class_for_typelevelsets/)
+
 ## Books
 
 [Dependent Types at Work](http://www.cse.chalmers.se/~peterd/papers/DependentTypesAtWork.pdf) looks like a good introduction to Agda for people with Haskell experience.

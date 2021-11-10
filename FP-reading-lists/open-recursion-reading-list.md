@@ -41,3 +41,8 @@ perform “deep” instrumentation of the interpreter
 
 [loop-unrolling pass using futumorphisms ](https://twitter.com/luctielen/status/1432217874781855747)
 
+[tangle: Heterogenous memoisation monad](https://www.reddit.com/r/haskell/comments/qpebqx/tangle_heterogenous_memoisation_monad/). [Löb and möb: strange loops in Haskell](https://www.reddit.com/r/haskell/comments/qq7tki/l%C3%B6b_and_m%C3%B6b_strange_loops_in_haskell/).
+
+> loeb relies on recursion and laziness, which is neat but doesn't work well with effects and strict data structures. Hence I decided to implement memoisation explicitly using lenses.
+
+

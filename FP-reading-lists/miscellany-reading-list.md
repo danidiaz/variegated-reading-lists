@@ -522,4 +522,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Latent Effects for Reusable Language Components](https://www.reddit.com/r/haskell/comments/q362yz/latent_effects_for_reusable_language_components/)
 
+[data-interval](https://www.reddit.com/r/haskell/comments/qlevvj/datainterval211_advanced_interval_manipulations/)
+
+> Allen's interval algebra.
 

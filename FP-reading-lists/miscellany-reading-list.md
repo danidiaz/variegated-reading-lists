@@ -526,3 +526,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > Allen's interval algebra.
 
+[Program Adverbs Structures for Embedding Effectful Programs](https://lastland.github.io/media/papers/adverbs-preprint.pdf)
+

@@ -100,4 +100,10 @@
 
 > On the other hand the OS does know about memory pressure from IO and from heap memory for the whole system. This crate will only know about cache pressure within a single process.
 
+[Rust Iterator Items](https://estebank.github.io/rust-iterator-item-syntax.html)
+
+[What does &mut &[T] mean?](https://lobste.rs/s/w0buyv/what_does_mut_t_mean)
+
+> I’ve also found &mut &[T] helpful for parsers when I want to store the changing “remainder” of what’s left to be parsed, and I want some inner function to mutate that remainder in its own scope.o
+
 

@@ -45,4 +45,6 @@ perform “deep” instrumentation of the interpreter
 
 > loeb relies on recursion and laziness, which is neat but doesn't work well with effects and strict data structures. Hence I decided to implement memoisation explicitly using lenses.
 
+[Applying File Changes with `fix` and GADTs](https://www.reddit.com/r/haskell/comments/qsexqr/applying_file_changes_with_fix_and_gadts/)
+
 

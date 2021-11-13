@@ -351,4 +351,5 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [SSH Tunneling Explained](https://news.ycombinator.com/item?id=28802493)
 
+[It's Now Possible To Sign Arbitrary Data With Your SSH Keys](https://lobste.rs/s/a0byrl/it_s_now_possible_sign_arbitrary_data_with)
 

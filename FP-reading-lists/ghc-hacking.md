@@ -167,4 +167,6 @@ have the same meta-information
 
 [Induction without core-size blow-up a.k.a. Large records: anonymous edition](https://well-typed.com/blog/2021/10/large-records-part-2/)
 
+[Bidirectional Type Checking](https://www.youtube.com/watch?v=utyBNDj7s2w)
+
 

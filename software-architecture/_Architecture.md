@@ -1036,3 +1036,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Anti-Patterns to Avoid in Lambda Based Apps](https://blog.basimhennawi.com/5-anti-patterns-to-avoid-in-lambda-based-apps). [hn](https://news.ycombinator.com/item?id=29092390)
 
+[The strong and weak forces of architecture](https://martinfowler.com/articles/strong-weak-arch.html) . [hn](https://news.ycombinator.com/item?id=29180428)
+
+> In our context the lines separating what should be domain-specific boundaries are blurry. 
+
+

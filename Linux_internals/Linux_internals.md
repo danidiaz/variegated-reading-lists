@@ -123,3 +123,5 @@
 
 [Debugging a hang: Chasing the wait chain inside a process](https://devblogs.microsoft.com/oldnewthing/20141024-00/?p=43773)
 
+[Debugging memory corruption: who the hell writes “2” into my stack? (2016)](https://news.ycombinator.com/item?id=29215725)
+

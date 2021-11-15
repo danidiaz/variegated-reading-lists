@@ -172,3 +172,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 [Encrypting Postgres Data at Rest in Kubernetes](https://news.ycombinator.com/item?id=29057505)
 
 [A read query can write to disk: a Postgres story](https://news.ycombinator.com/item?id=29056405)
+
+[How partial, covering, and multicolumn indexes may slow down UPDATEs in PostgreSQL](https://postgres.ai/blog/20211029-how-partial-and-covering-indexes-affect-update-performance-in-postgresql)
+
+

@@ -70,6 +70,8 @@
 
 [Transitive `Subset` class for type-level-sets](https://www.reddit.com/r/haskell/comments/qlvs5i/transitive_subset_class_for_typelevelsets/)
 
+[When newtype won't cut it; a polyvariadic instance](https://www.reddit.com/r/haskell/comments/qu0wmp/when_newtype_wont_cut_it_a_polyvariadic_instance/)
+
 ## Books
 
 [Dependent Types at Work](http://www.cse.chalmers.se/~peterd/papers/DependentTypesAtWork.pdf) looks like a good introduction to Agda for people with Haskell experience.

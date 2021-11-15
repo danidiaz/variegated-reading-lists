@@ -758,6 +758,10 @@ F at the object of interest, X.
 
 > In mathematics, and especially in category theory, homotopy theory/homotopy type theory and generally in higher category theory, it is common to use “the” more generally for objects/types which are characterized only up to coherent isomorphism/equivalence: Such need not actually be unique, but any two of them are isomorphic or more generally coherently equivalent in an essentially unique way (meaning that the ∞-groupoid of all such objects is contractible).
 
+[Divisible and the Monoidal Quartet](https://discourse.haskell.org/t/blog-divisible-and-the-monoidal-quartet/3666)
+
+[Logistic is to setters as Distributive is to getters](https://www.reddit.com/r/haskell/comments/qugwed/logistic_is_to_setters_as_distributive_is_to/)
+
 # tools
 
 [High-assurance data integration with mathematical rigor](http://catinf.com/)

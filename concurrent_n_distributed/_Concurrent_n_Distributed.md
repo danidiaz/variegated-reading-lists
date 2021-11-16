@@ -311,6 +311,8 @@ only run it when something bad happens to prevent any one thing to be a single p
 - Consistent prefix
 - Eventual
 
+[the new temporal logic features in Alloy 6](https://twitter.com/trupill/status/1460620765473263617)
+
 # Slides
 
 [Distributed systems course](https://roxanageambasu.github.io/ds-class//assets/lectures/lecture17.pdf)

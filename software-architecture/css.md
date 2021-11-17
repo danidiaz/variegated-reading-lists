@@ -213,3 +213,6 @@ https://twitter.com/tailwindcss
 [render-blocking JavaScript and CSS](https://dzone.com/articles/critical-css-and-webpack-automatically-minimize-re?fromrel=true)
 
 [display: 'flex', justifyContent: 'center'](https://twitter.com/dan_abramov/status/1301934307838251010)
+
+[Layout patterns – Collection of layout patterns built using CSS](https://news.ycombinator.com/item?id=29254391)
+

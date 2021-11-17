@@ -313,6 +313,10 @@ only run it when something bad happens to prevent any one thing to be a single p
 
 [the new temporal logic features in Alloy 6](https://twitter.com/trupill/status/1460620765473263617)
 
+[Paxos made abstract](https://maheshba.bitbucket.io/blog/2021/11/15/Paxos.html). [tweet](https://twitter.com/maheshb/status/1460292887199977478?t=ap8_maEVG9pQmLfwXWmsHw&s=03)
+
+[on the bug/ambiguity in Paxos Made Simple](https://brooker.co.za/blog/2021/11/16/paxos.html). [tweet](https://twitter.com/MarcJBrooker/status/1460665713836761098?t=nLR1miXkUwCn9PcGaT5MEg&s=03).
+
 # Slides
 
 [Distributed systems course](https://roxanageambasu.github.io/ds-class//assets/lectures/lecture17.pdf)

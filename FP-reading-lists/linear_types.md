@@ -58,4 +58,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 ["meaning explanation" for classical linear logic](https://twitter.com/evanewashington/status/1454581185976455174)
 
+[a resource-safe Haskell interface to Apache Spark using linear types](https://twitter.com/tweagio/status/1460951649233649667)
+
+
 

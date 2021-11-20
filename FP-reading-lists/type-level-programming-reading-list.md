@@ -72,6 +72,8 @@
 
 [When newtype won't cut it; a polyvariadic instance](https://www.reddit.com/r/haskell/comments/qu0wmp/when_newtype_wont_cut_it_a_polyvariadic_instance/)
 
+[Make invalid laziness unrepresentable](https://www.reddit.com/r/haskell/comments/qxfs2d/make_invalid_laziness_unrepresentable/)
+
 ## Books
 
 [Dependent Types at Work](http://www.cse.chalmers.se/~peterd/papers/DependentTypesAtWork.pdf) looks like a good introduction to Agda for people with Haskell experience.

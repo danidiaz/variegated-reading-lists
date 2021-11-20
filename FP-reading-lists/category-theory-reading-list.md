@@ -617,8 +617,6 @@ to be aware of the coherent witness-manipulation problem
 
 [The future is comonadic](https://speakerdeck.com/paf31/the-future-is-comonadic)
 
-[Squash & Ran](http://oleg.fi/gists/posts/2018-05-28-squash.html)
-
 [scheduling effects. Part 4 of 4 of breadth-first traversals](https://doisinkidney.com/posts/2018-06-23-scheduling-effects.html)
 
 [Selective applicative functors](https://blogs.ncl.ac.uk/andreymokhov/selective/) [reddit](https://www.reddit.com/r/haskell/comments/8u81bg/selective_applicative_functors/)
@@ -758,9 +756,19 @@ F at the object of interest, X.
 
 > In mathematics, and especially in category theory, homotopy theory/homotopy type theory and generally in higher category theory, it is common to use “the” more generally for objects/types which are characterized only up to coherent isomorphism/equivalence: Such need not actually be unique, but any two of them are isomorphic or more generally coherently equivalent in an essentially unique way (meaning that the ∞-groupoid of all such objects is contractible).
 
+# In Haskell
+
+[Functional Pearl: F for Functor](https://twitter.com/Iceland_jack/status/1461741325498388488)
+
 [Divisible and the Monoidal Quartet](https://discourse.haskell.org/t/blog-divisible-and-the-monoidal-quartet/3666)
 
 [Logistic is to setters as Distributive is to getters](https://www.reddit.com/r/haskell/comments/qugwed/logistic_is_to_setters_as_distributive_is_to/)
+
+[Squash & Ran](http://oleg.fi/gists/posts/2018-05-28-squash.html)
+
+[squares](https://twitter.com/sjoerd_visscher/status/1457809484399710214)
+
+> With the squares package you can actually write code that matches one-to-one to the string diagrams for the double category of Hask functors and profunctors. Here’s the code for separate
 
 # tools
 

@@ -530,4 +530,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [ANN: dovetail - a PureScript interpreter with a Haskell FFI](https://www.reddit.com/r/haskell/comments/qtbf7q/ann_dovetail_a_purescript_interpreter_with_a/)
 
+[Programming with Tactics](https://www.youtube.com/watch?v=BiH_A36zKwI)
+
 

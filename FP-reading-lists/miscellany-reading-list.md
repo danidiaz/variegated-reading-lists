@@ -532,4 +532,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Programming with Tactics](https://www.youtube.com/watch?v=BiH_A36zKwI)
 
+[Haskell⁻¹: Automatic Function Inversion in Haskell](https://doi.org/10.1145/3471874.3472982). [GitHub](https://github.com/cau-placc/inversion-plugin).
+
 

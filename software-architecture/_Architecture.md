@@ -1040,4 +1040,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > In our context the lines separating what should be domain-specific boundaries are blurry. 
 
+[micro-commits](https://twitter.com/ploeh/status/1461969368703717378)
 

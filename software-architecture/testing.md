@@ -112,3 +112,5 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [The fundamentals of testing with persistence layers](https://twitter.com/InfoQ/status/1447534118523318274)
 
+[One should be careful about these mega-interfaces that define an entire subsystem of your application (DB in this case)](https://news.ycombinator.com/item?id=29314941). [rant](https://github.com/golang/go/wiki/CodeReviewComments#interfaces).
+

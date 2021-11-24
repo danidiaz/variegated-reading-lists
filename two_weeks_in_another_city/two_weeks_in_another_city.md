@@ -662,6 +662,8 @@ Bernini, his life and his Rome
 
 [Roguelike Celebration 2021](https://news.ycombinator.com/item?id=28890164)
 
+[The Further Text Adventures of Scott Adams](https://news.ycombinator.com/item?id=29330015)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

@@ -110,3 +110,10 @@ Constant-Time Range Minimum Query?](http://www.cs.umanitoba.ca/~durocher/researc
 [Hedgehog for state machine testing](https://twitter.com/jacobstanley/status/1224314473885790210)
 
 The builder pattern https://blog.ploeh.dk/2017/08/21/generalised-test-data-builder/ Test Data Builders in C# https://blog.ploeh.dk/2017/08/15/test-data-builders-in-c/ https://blog.ploeh.dk/2020/02/10/builder-isomorphisms/
+
+[A Practical Guide to Applying Data-Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design/)
+
+[Java best practices](http://java.jonathangiles.net/)
+
+
+

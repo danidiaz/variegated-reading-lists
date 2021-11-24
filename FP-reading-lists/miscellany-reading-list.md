@@ -534,4 +534,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Haskell⁻¹: Automatic Function Inversion in Haskell](https://doi.org/10.1145/3471874.3472982). [GitHub](https://github.com/cau-placc/inversion-plugin).
 
+[Tree Sitter and the Complications of Parsing Languages](https://news.ycombinator.com/item?id=29327424)
+
 

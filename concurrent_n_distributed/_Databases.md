@@ -777,6 +777,10 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [the relationship between DISTINCT and ORDER BY in SQL](https://twitter.com/lukaseder/status/1445406542166114319?s=03)
 
+[Things I learned from building a production database](https://news.ycombinator.com/item?id=29322515)
+
+[ERD rediscovered](https://twitter.com/FranckPachot/status/1463397158716071936)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

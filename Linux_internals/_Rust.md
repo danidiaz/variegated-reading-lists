@@ -106,4 +106,6 @@
 
 > I’ve also found &mut &[T] helpful for parsers when I want to store the changing “remainder” of what’s left to be parsed, and I want some inner function to mutate that remainder in its own scope.o
 
+[branch forward only](https://news.ycombinator.com/item?id=29350875)
+
 

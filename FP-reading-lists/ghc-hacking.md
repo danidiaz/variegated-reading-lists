@@ -169,4 +169,6 @@ have the same meta-information
 
 [Bidirectional Type Checking](https://www.youtube.com/watch?v=utyBNDj7s2w)
 
+[Ghc pipeline: type checking/elaboration and translation to Core](https://discourse.haskell.org/t/ghc-pipeline-type-checking-elaboration-and-translation-to-core/3749)
+
 

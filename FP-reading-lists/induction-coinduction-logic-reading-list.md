@@ -112,6 +112,8 @@ Predicative and Classical Systems of Analysis](https://math.stanford.edu/~feferm
 
 [Coinduction for all?](https://twitter.com/sigfpe/status/1460068019011424262). [let's see how things unfold](https://personal.cis.strath.ac.uk/conor.mcbride/pub/JUnfold/junfold.pdf)
 
+[Are codatatypes really terminal algebras?](https://stackoverflow.com/questions/70128628/are-codatatypes-really-terminal-algebras)
+
 # Videos
 
 [2017 04 28 - Andreas Lochbihler - Functional Programming and Proving in Isabelle/HOL](https://www.youtube.com/watch?v=cIX3WVO48RY)

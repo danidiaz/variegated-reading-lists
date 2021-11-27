@@ -1042,3 +1042,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [micro-commits](https://twitter.com/ploeh/status/1461969368703717378)
 
+[the outbox pattern to the next level & use it for implementing Sagas](https://twitter.com/InfoQ/status/1464677410155241474)
+
+[Engineering Fundamentals Checklist](https://microsoft.github.io/code-with-engineering-playbook/ENG-FUNDAMENTALS-CHECKLIST/)
+

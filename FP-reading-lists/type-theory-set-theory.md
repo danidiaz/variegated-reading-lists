@@ -113,6 +113,11 @@ attempt to make equality reasonable again.”
 
 [Constructive mathematics for the 21st century](https://twitter.com/EscardoMartin/status/1455998129367568386). [ when the mathematics is formalized, if it is constructive, then it is automatically a computer program that computes](https://twitter.com/EscardoMartin/status/1455998167602839556)
 
+
+## Proof assistants
+
+[Proof Automation class](https://twitter.com/TaliaRinger/status/1464752844179918850). [QED at Large: A Survey of Engineering of Formally Verified Software](https://dependenttyp.es/pdf/QEDatLarge.pdf).
+
 # set theory
 
 [Bourbaki on sets](https://twitter.com/EscardoMartin/status/1445680214420320257)

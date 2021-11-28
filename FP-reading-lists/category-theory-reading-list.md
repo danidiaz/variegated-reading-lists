@@ -770,6 +770,8 @@ F at the object of interest, X.
 
 > With the squares package you can actually write code that matches one-to-one to the string diagrams for the double category of Hask functors and profunctors. Here’s the code for separate
 
+[a coend over all matrices c m n](https://twitter.com/BartoszMilewski/status/1465030657923371010)
+
 # tools
 
 [High-assurance data integration with mathematical rigor](http://catinf.com/)

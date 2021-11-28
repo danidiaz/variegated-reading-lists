@@ -120,6 +120,12 @@ attempt to make equality reasonable again.”
 
 # set theory
 
+- [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)
+- [Extensionality](https://www.youtube.com/watch?v=MJx6noH3l-E)
+- [Foundation](https://www.youtube.com/watch?v=oWN13ktp8gg)
+- [Pairing and union](https://www.youtube.com/watch?v=9Mci3n4wzjo)
+- [Infinity](https://www.youtube.com/watch?v=0fzh_1EWSqc)
+
 [Bourbaki on sets](https://twitter.com/EscardoMartin/status/1445680214420320257)
 
 > nowadays it is known to be possible, logically speaking, to derive practically the whole of known mathematics from a single source, the Theory of Sets

@@ -1046,3 +1046,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Engineering Fundamentals Checklist](https://microsoft.github.io/code-with-engineering-playbook/ENG-FUNDAMENTALS-CHECKLIST/). [style guides](https://news.ycombinator.com/item?id=29361004).
 
+[Thinking Architecturally](https://www.youtube.com/watch?v=0qIS92vs33w)
+
+

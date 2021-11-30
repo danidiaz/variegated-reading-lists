@@ -171,4 +171,9 @@ have the same meta-information
 
 [Ghc pipeline: type checking/elaboration and translation to Core](https://discourse.haskell.org/t/ghc-pipeline-type-checking-elaboration-and-translation-to-core/3749)
 
+Stuff about the heap:
+
+> There are actually a bunch of different kinds of heap objects in GHC; a lot of them are special primitive values like a few kinds of primitive arrays, mutable variables, concurrency primitives, but at the top there are several for closures, thunks, partial applications, indirections, and a couple I don’t know what exactly they mean.
+> 
+> However, AFAIU every object has entry code, which in the case of an evaluated constructor does almost nothing.
 

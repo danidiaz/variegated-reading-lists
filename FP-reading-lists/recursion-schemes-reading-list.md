@@ -235,3 +235,6 @@
 > transverse is a version of hoist with side-effects. This time we cannot specialize hoist, we really do need a dedicated function
 
 [Hnix](https://www.reddit.com/r/haskell/comments/nstig5/hnix_nix_in_haskell_about_the_project_meeting/)
+
+[jet cli - structural json editor](https://www.reddit.com/r/haskell/comments/r4ec10/jet_cli_structural_editor_for_json/)
+

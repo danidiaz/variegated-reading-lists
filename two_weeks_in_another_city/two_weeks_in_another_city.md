@@ -664,6 +664,8 @@ Bernini, his life and his Rome
 
 [The Further Text Adventures of Scott Adams](https://news.ycombinator.com/item?id=29330015)
 
+[Clockwork Games and Time Loops](https://www.youtube.com/watch?v=CI-4cumMC-Y)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

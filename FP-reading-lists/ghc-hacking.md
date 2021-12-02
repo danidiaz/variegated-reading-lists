@@ -177,3 +177,5 @@ Stuff about the heap:
 > 
 > However, AFAIU every object has entry code, which in the case of an evaluated constructor does almost nothing.
 
+[Stock, Stock1 modifiers](https://gitlab.haskell.org/ghc/ghc/-/issues/20770). [meta-patterns](https://www.reddit.com/r/haskell/comments/r7bte7/metapatterns_abstracting_over_the_class_instance/). [proposal](https://github.com/ghc-proposals/ghc-proposals/pull/461)
+

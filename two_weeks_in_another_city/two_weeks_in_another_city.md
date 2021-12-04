@@ -612,6 +612,22 @@ Bernini, his life and his Rome
 
 - [End-to-End Procedural Generation in Caves of Qud](https://www.youtube.com/watch?v=jV-DZqdKlnE)
 
+- [Combat in Dark Souls - How realistic is it really?](https://www.youtube.com/watch?v=HXGns-R8KkM). [DS rolling](https://www.youtube.com/watch?v=HhsYWPV1FbQ). [can you dodge without rolling?](https://steamcommunity.com/app/374320/discussions/0/3596571824771415654/). [Roll speeds and i-frames demonstration](https://www.youtube.com/watch?v=ShMcApDn8sg). [ELI5: iFrames](https://www.reddit.com/r/darksouls/comments/3o4c48/eli5_iframes/). [Do you think iFrames are a problem?](https://gamefaqs.gamespot.com/boards/693331-dark-souls-ii/70458177). [Rolling is a bad mechanic and here's my opinion as to why.](https://steamcommunity.com/app/374320/discussions/0/3288067088093058478/). [Rolling as a way of evading attacks is pretty dumb](https://www.neogaf.com/threads/rolling-as-a-way-of-evading-attacks-is-pretty-dumb.1394316/). [Dark Souls' Dodge Roll Would Get You Killed In Real Life](https://kotaku.com/dark-souls-dodge-roll-would-get-you-killed-in-real-life-1641298311).
+
+> You can roll, backstep, walk or sprint out of hitboxes or you can roll through attacks, utilizing a roll's iframes.
+
+> Iframes are invincibility frames [...] times in which you are invincible. The most obvious examples are when you are riposting or backstabbing an enemy and another enemy is attacking you, but you receive no damage. This also applies to pulling levers.
+
+> With regards to rolling, you receive iframes while rolling, which is why you see players rolling THROUGH the attacks of enemies, as they are invincible during that time, they will not take damage from the attack. The number of iframes you receive while rolling, or to put it another way, the amount of time you are invincible while rolling, is dependent on your equip load.
+
+> Being able to take advantage of these iframes is a key mechanic of Dark Souls and is viewed, tactically, as more advantageous than using a shield to simply block an attack rather than rolling through it. 
+
+> For one, it's not just an avoidance technique in games. It also covers distance, allowing players to re-position themselves in a big way or even briefly disengage from combat entirely. This makes for a greater range of possible tactical maneuvers and—on top of that—players can move out of striking range and readjust, rethink their attack plan, if need be. Combat can be overwhelming. The dodge roll is a remedy to that.
+
+> It's also satisfying. All that motion, all that power, smooshed into a tiny man-ball shaped explosion of movement. It feels good—arguably better than a quick side or back-step
+
+> i get what you're saying, making dodging more realistic, but in this type of game you just can't capture the subtle nuances of a real fight. you need a standardised way of dodging that has a fairly obvious (lol, i know...) linear adjustment.
+
 ## Podcasts
 
 - [Wie der Raum unser Verhalten bestimmt](http://www.deutschlandfunkkultur.de/colin-ellard-psychogeografie-wie-der-raum-unser-verhalten.1270.de.html?dram:article_id=385482)

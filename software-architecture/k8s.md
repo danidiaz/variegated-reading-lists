@@ -229,3 +229,6 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 
 [Tuning haskell for Kubernetes Part 1](https://blog.noredink.com/post/666020751977168896/tuning-haskell-rts-for-kubernetes-part-1)
 
+[common infrastructure errors](https://news.ycombinator.com/item?id=29434740)
+
+

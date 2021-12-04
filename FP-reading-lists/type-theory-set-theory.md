@@ -113,6 +113,9 @@ attempt to make equality reasonable again.”
 
 [Constructive mathematics for the 21st century](https://twitter.com/EscardoMartin/status/1455998129367568386). [ when the mathematics is formalized, if it is constructive, then it is automatically a computer program that computes](https://twitter.com/EscardoMartin/status/1455998167602839556)
 
+[ a minimalist approach for generic proofs in intensional type theory of various results](https://twitter.com/CUP_JFP/status/1467031611753517057)
+
+[From operational to denotational semantics: full abstraction and game semantics](https://twitter.com/lysxia/status/1466851539650187268)
 
 ## Proof assistants
 

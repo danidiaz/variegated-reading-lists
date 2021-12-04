@@ -1048,4 +1048,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Thinking Architecturally](https://www.youtube.com/watch?v=0qIS92vs33w)
 
+[keep changelog](https://news.ycombinator.com/item?id=29438221)
+
 

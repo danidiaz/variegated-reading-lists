@@ -317,6 +317,8 @@ only run it when something bad happens to prevent any one thing to be a single p
 
 [on the bug/ambiguity in Paxos Made Simple](https://brooker.co.za/blog/2021/11/16/paxos.html). [tweet](https://twitter.com/MarcJBrooker/status/1460665713836761098?t=nLR1miXkUwCn9PcGaT5MEg&s=03).
 
+[the deadlock empire](https://news.ycombinator.com/item?id=29431308)
+
 # Slides
 
 [Distributed systems course](https://roxanageambasu.github.io/ds-class//assets/lectures/lecture17.pdf)

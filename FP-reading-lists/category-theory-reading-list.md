@@ -695,7 +695,7 @@ F at the object of interest, X.
 
 [Comonads are useful for structuring computations in spatially or temporally extended data structures.](https://twitter.com/BartoszMilewski/status/1441136829009305601)
 
-[taking the opposite of a category [...] usually destroys any intuition you had for that category](https://twitter.com/_julesh_/status/1467862151046090756)
+[taking the opposite of a category [...] usually destroys any intuition you had for that category](https://twitter.com/_julesh_/status/1467862151046090756). [a purely formal operation](https://twitter.com/_julesh_/status/1468186925483888644).
 
 # courses
 

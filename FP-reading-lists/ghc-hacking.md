@@ -179,3 +179,5 @@ Stuff about the heap:
 
 [Stock, Stock1 modifiers](https://gitlab.haskell.org/ghc/ghc/-/issues/20770). [meta-patterns](https://www.reddit.com/r/haskell/comments/r7bte7/metapatterns_abstracting_over_the_class_instance/). [proposal](https://github.com/ghc-proposals/ghc-proposals/pull/461)
 
+[OS memory usage](https://twitter.com/ghc_commits/status/1468185116132397060)
+

@@ -319,6 +319,8 @@ only run it when something bad happens to prevent any one thing to be a single p
 
 [the deadlock empire](https://news.ycombinator.com/item?id=29431308)
 
+[Guaranteeing Consensus in Distributed Systems with CRDTs [PWL NYC]](https://twitter.com/papers_we_love/status/1468524523666526216)
+
 # Slides
 
 [Distributed systems course](https://roxanageambasu.github.io/ds-class//assets/lectures/lecture17.pdf)

@@ -1050,4 +1050,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [keep changelog](https://news.ycombinator.com/item?id=29438221)
 
+[You Can't Buy Integration](https://martinfowler.com/articles/cant-buy-integration.html). [hn](https://news.ycombinator.com/item?id=29478375).
+
 

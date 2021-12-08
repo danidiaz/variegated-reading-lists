@@ -250,3 +250,7 @@
 [Best Performance Practices for Hibernate 5 and Spring Boot 2](https://dzone.com/articles/50-best-performance-practices-for-hibernate-5-amp)
 
 [create a simple  @SpringData #JPA application using  @intellijidea](https://twitter.com/JPABuddy/status/1414550810571198466)
+
+[Java REST API Framework Comparison - PWX 2021](https://speakerdeck.com/mraible/java-rest-api-framework-comparison-pwx-2021)
+
+

@@ -175,4 +175,5 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [How partial, covering, and multicolumn indexes may slow down UPDATEs in PostgreSQL](https://postgres.ai/blog/20211029-how-partial-and-covering-indexes-affect-update-performance-in-postgresql)
 
+[Postgres, Kafka, and a mysterious 100 GB](https://news.ycombinator.com/item?id=29462140)
 

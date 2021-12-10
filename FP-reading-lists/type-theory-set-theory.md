@@ -117,6 +117,8 @@ attempt to make equality reasonable again.”
 
 [From operational to denotational semantics: full abstraction and game semantics](https://twitter.com/lysxia/status/1466851539650187268)
 
+[Truth and provability, a thread. Let us compare Tarski's theorem on the nondefinability of truth with Gödel's incompleteness theorem.](https://twitter.com/JDHamkins/status/1468677783505313795)
+
 ## Proof assistants
 
 [Proof Automation class](https://twitter.com/TaliaRinger/status/1464752844179918850). [QED at Large: A Survey of Engineering of Formally Verified Software](https://dependenttyp.es/pdf/QEDatLarge.pdf).

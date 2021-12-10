@@ -74,6 +74,8 @@
 
 [Make invalid laziness unrepresentable](https://www.reddit.com/r/haskell/comments/qxfs2d/make_invalid_laziness_unrepresentable/)
 
+[Staged compilation of tensor expressions](https://twitter.com/ocramz_yo/status/1469273823690338313).
+
 ## Books
 
 [Dependent Types at Work](http://www.cse.chalmers.se/~peterd/papers/DependentTypesAtWork.pdf) looks like a good introduction to Agda for people with Haskell experience.

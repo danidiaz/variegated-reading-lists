@@ -536,4 +536,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Tree Sitter and the Complications of Parsing Languages](https://news.ycombinator.com/item?id=29327424)
 
+[abstraction which combines MonadFix and Traversable, but which is lazier](https://twitter.com/paf31/status/1469389460206809093)
 

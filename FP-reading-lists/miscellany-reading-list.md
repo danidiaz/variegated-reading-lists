@@ -538,3 +538,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [abstraction which combines MonadFix and Traversable, but which is lazier](https://twitter.com/paf31/status/1469389460206809093)
 
+[everything is a monoid if you squint hard enough](https://twitter.com/jaspervdj/status/1469321159195955201)
+

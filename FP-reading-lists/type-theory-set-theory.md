@@ -119,6 +119,8 @@ attempt to make equality reasonable again.”
 
 [Truth and provability, a thread. Let us compare Tarski's theorem on the nondefinability of truth with Gödel's incompleteness theorem.](https://twitter.com/JDHamkins/status/1468677783505313795)
 
+[The HoTT Game](https://news.ycombinator.com/item?id=29496675).
+
 ## Proof assistants
 
 [Proof Automation class](https://twitter.com/TaliaRinger/status/1464752844179918850). [QED at Large: A Survey of Engineering of Formally Verified Software](https://dependenttyp.es/pdf/QEDatLarge.pdf).

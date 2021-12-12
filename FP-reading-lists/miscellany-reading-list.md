@@ -540,3 +540,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [everything is a monoid if you squint hard enough](https://twitter.com/jaspervdj/status/1469321159195955201)
 
+[taged compilation of tensor expressions](https://twitter.com/ocramz_yo/status/1469273823690338313)
+

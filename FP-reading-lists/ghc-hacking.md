@@ -181,3 +181,6 @@ Stuff about the heap:
 
 [OS memory usage](https://twitter.com/ghc_commits/status/1468185116132397060)
 
+[A specification for typed template Haskell](https://arxiv.org/abs/2112.03653v1)
+
+

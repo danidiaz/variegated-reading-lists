@@ -183,4 +183,5 @@ Stuff about the heap:
 
 [A specification for typed template Haskell](https://arxiv.org/abs/2112.03653v1)
 
+[type-level sharing](https://twitter.com/welltyped/status/1471782671768555522)
 

@@ -484,6 +484,8 @@
 
 [world models and parsers](https://twitter.com/emshort/status/1435641582611431427).
 
+[MicroAdventurer Magazine Issue 05, page 1](https://twitter.com/yorecomputer/status/1468472466481762307)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

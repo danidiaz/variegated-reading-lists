@@ -330,6 +330,8 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [Choosing is Losing: How to combine the benefits of shallow and deep embeddings through reflection](https://arxiv.org/abs/2105.10819). [tweet](https://twitter.com/jjcarett2/status/1399480878619897857).
 
+[Your program is a language](https://twitter.com/LiquidSloshalot/status/1471522697507217419?t=iwGRJEwV7mIg232qUAKDyA&s=03)
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

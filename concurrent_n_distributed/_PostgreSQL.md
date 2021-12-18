@@ -177,3 +177,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Postgres, Kafka, and a mysterious 100 GB](https://news.ycombinator.com/item?id=29462140)
 
+[Postgres is a great pub/sub and job server (2019)](https://news.ycombinator.com/item?id=29599132)
+
+

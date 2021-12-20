@@ -486,6 +486,8 @@
 
 [MicroAdventurer Magazine Issue 05, page 1](https://twitter.com/yorecomputer/status/1468472466481762307)
 
+[deduction mechanics in games](https://news.ycombinator.com/item?id=29621778)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

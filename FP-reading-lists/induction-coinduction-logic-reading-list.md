@@ -114,6 +114,8 @@ Predicative and Classical Systems of Analysis](https://math.stanford.edu/~feferm
 
 [Are codatatypes really terminal algebras?](https://stackoverflow.com/questions/70128628/are-codatatypes-really-terminal-algebras)
 
+[Van Laarhoven lenses [...] are what you need to turn F-coalgebras on B into F-coalgebras on A, for arbitrary F.](https://twitter.com/typeswitch/status/1473474124165042177) [More about OO](https://twitter.com/typeswitch/status/1473469660251271172).
+
 # Videos
 
 [2017 04 28 - Andreas Lochbihler - Functional Programming and Proving in Isabelle/HOL](https://www.youtube.com/watch?v=cIX3WVO48RY)

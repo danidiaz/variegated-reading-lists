@@ -697,6 +697,10 @@ F at the object of interest, X.
 
 [taking the opposite of a category [...] usually destroys any intuition you had for that category](https://twitter.com/_julesh_/status/1467862151046090756). [a purely formal operation](https://twitter.com/_julesh_/status/1468186925483888644).
 
+[So what is the point of being reflective? It means that you can cut down any object to the best possible approximation of it that “believes” some maps are all isos.](https://twitter.com/jonmsterling/status/1473396069664964611)
+
+[the cosmic cube](https://twitter.com/mattecapu/status/1473592908209131523). [lenses and REST?](https://twitter.com/mattecapu/status/1473582596395315201).
+
 # courses
 
 [Applied Category Theory](http://www.azimuthproject.org/azimuth/show/Applied+Category+Theory) [course intro](https://forum.azimuthproject.org/discussion/1717) [Seven Sketches in Compositionality An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/) [course book](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf). [new](https://www.reddit.com/r/haskell/comments/b8l4an/applied_category_theory_course/)

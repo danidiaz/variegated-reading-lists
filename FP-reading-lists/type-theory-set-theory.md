@@ -121,6 +121,8 @@ attempt to make equality reasonable again.”
 
 [The HoTT Game](https://news.ycombinator.com/item?id=29496675).
 
+[“equi-recursive” and “iso-recursive” types](https://twitter.com/jonmsterling/status/1474076826968416264)
+
 ## Proof assistants
 
 [Proof Automation class](https://twitter.com/TaliaRinger/status/1464752844179918850). [QED at Large: A Survey of Engineering of Formally Verified Software](https://dependenttyp.es/pdf/QEDatLarge.pdf).

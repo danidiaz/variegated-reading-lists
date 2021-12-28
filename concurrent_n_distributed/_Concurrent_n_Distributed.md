@@ -321,6 +321,10 @@ only run it when something bad happens to prevent any one thing to be a single p
 
 [Guaranteeing Consensus in Distributed Systems with CRDTs [PWL NYC]](https://twitter.com/papers_we_love/status/1468524523666526216)
 
+[swarm consensus](https://news.ycombinator.com/item?id=29711381)
+
+> This algorithm requires a lot of messages.
+
 # Slides
 
 [Distributed systems course](https://roxanageambasu.github.io/ds-class//assets/lectures/lecture17.pdf)

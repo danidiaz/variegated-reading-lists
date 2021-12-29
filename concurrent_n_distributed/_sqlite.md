@@ -2,3 +2,5 @@
 
 [Atomic Commit In SQLite ](https://lobste.rs/s/ysri9z/atomic_commit_sqlite)
 
+[Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
+

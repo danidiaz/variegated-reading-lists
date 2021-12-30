@@ -544,4 +544,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Implementing a Functional Language with Graph Reduction](https://www.reddit.com/r/haskell/comments/rpvxln/implementing_a_functional_language_with_graph/)
 
+[Handbook of Graph Drawing and Visualization](https://news.ycombinator.com/item?id=29734063)
 

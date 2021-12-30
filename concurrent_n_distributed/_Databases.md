@@ -781,6 +781,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [ERD rediscovered](https://twitter.com/FranckPachot/status/1463397158716071936)
 
+[Databases in 2021: A Year in Review](https://news.ycombinator.com/item?id=29731885).
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

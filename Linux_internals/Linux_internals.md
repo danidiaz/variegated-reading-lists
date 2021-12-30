@@ -125,3 +125,7 @@
 
 [Debugging memory corruption: who the hell writes “2” into my stack? (2016)](https://news.ycombinator.com/item?id=29215725)
 
+[You can't copy code with memcpy](https://news.ycombinator.com/item?id=29729931)
+
+
+

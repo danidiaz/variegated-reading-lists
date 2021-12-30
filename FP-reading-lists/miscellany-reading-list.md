@@ -542,3 +542,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [taged compilation of tensor expressions](https://twitter.com/ocramz_yo/status/1469273823690338313)
 
+[Implementing a Functional Language with Graph Reduction](https://www.reddit.com/r/haskell/comments/rpvxln/implementing_a_functional_language_with_graph/)
+
+

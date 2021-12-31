@@ -3,3 +3,6 @@
 [is this a branch](https://news.ycombinator.com/item?id=26141047)
 
 [	Measuring memory usage: virtual versus real memory](https://news.ycombinator.com/item?id=28007554)
+
+[How a Single Line of Code Made a 24-core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/)
+

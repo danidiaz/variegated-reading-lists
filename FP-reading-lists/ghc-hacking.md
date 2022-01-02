@@ -185,3 +185,5 @@ Stuff about the heap:
 
 [type-level sharing](https://twitter.com/welltyped/status/1471782671768555522)
 
+[Christmas story](https://github.com/zw3rk/mobile-core-log/blob/master/LOG.md)
+

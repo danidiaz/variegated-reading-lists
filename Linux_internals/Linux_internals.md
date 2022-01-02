@@ -127,5 +127,6 @@
 
 [You can't copy code with memcpy](https://news.ycombinator.com/item?id=29729931)
 
+[Executable and Linkable Format 101 Part 3: Relocations](https://www.intezer.com/blog/malware-analysis/executable-and-linkable-format-101-part-3-relocations/)
 
 

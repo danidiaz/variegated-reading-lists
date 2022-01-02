@@ -114,3 +114,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [One should be careful about these mega-interfaces that define an entire subsystem of your application (DB in this case)](https://news.ycombinator.com/item?id=29314941). [rant](https://github.com/golang/go/wiki/CodeReviewComments#interfaces).
 
+[cleaning the database or not](https://news.ycombinator.com/item?id=29764792)
+
+

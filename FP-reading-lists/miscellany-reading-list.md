@@ -546,3 +546,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Handbook of Graph Drawing and Visualization](https://news.ycombinator.com/item?id=29734063)
 
+[Automated Code Optimization with E-Graphs](https://news.ycombinator.com/item?id=29775477)
+

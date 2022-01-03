@@ -60,5 +60,5 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [a resource-safe Haskell interface to Apache Spark using linear types](https://twitter.com/tweagio/status/1460951649233649667)
 
-
+[Linearity and Uniqueness: An Entente Cordiale](https://starsandspira.ls/docs/esop22-draft.pdf)
 

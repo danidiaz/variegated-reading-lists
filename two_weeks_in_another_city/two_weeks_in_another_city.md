@@ -488,6 +488,8 @@
 
 [deduction mechanics in games](https://news.ycombinator.com/item?id=29621778)
 
+[storylets](https://twitter.com/plushapo/status/1478133950643986432)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

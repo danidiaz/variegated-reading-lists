@@ -490,6 +490,8 @@
 
 [storylets](https://twitter.com/plushapo/status/1478133950643986432)
 
+[fidelity vs. complexity](https://twitter.com/TafferKing451/status/1478535960748957697)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

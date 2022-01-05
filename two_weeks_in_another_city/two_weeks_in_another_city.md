@@ -492,6 +492,8 @@
 
 [fidelity vs. complexity](https://twitter.com/TafferKing451/status/1478535960748957697)
 
+[The Door Problem](https://lizengland.com/blog/2014/04/the-door-problem/)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

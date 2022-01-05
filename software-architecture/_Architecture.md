@@ -1054,3 +1054,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Don't start with microservices – monoliths are your friend](https://news.ycombinator.com/item?id=29576352)
 
+[Scaling productivity on microservices at Lyft](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-1-a2f5d9a77813). [tweet](https://twitter.com/copyconstruct/status/1478552675293696000).
+
+> “fullstack in a box” doesn’t scale
+>  fast, local, native dev environments are indispensable (h/t Tilt)
+> staging overrides with Envoy
+

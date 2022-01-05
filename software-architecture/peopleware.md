@@ -70,3 +70,5 @@
 
 [don't be spooky](https://news.ycombinator.com/item?id=29130590)
 
+[know how your org works](https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d)
+

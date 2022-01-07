@@ -548,3 +548,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Automated Code Optimization with E-Graphs](https://news.ycombinator.com/item?id=29775477)
 
+[Continuation-passing style, defunctionalization, accumulations, and associativity.](https://twitter.com/Jose_A_Alonso/status/1479420129687580677)
+

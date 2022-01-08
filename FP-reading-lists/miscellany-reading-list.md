@@ -550,5 +550,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Continuation-passing style, defunctionalization, accumulations, and associativity.](https://twitter.com/Jose_A_Alonso/status/1479420129687580677)
 
-[a monadic framework for delimited continuations](https://twitter.com/krismicinski/status/1479528988167090176)
+[a monadic framework for delimited continuations](https://twitter.com/krismicinski/status/1479528988167090176). [thermometer continuations](https://twitter.com/bravenewprince/status/1479529987174801411).
+
 

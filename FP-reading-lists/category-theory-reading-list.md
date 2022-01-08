@@ -703,6 +703,8 @@ F at the object of interest, X.
 
 [in CT, you can test morphisms for equality, but not objects](https://twitter.com/jonmsterling/status/1479792866159439874)
 
+[Lenses to the left of me, Prisms to the right](https://twitter.com/bgavran3/status/1479751677402042368)
+
 # courses
 
 [Applied Category Theory](http://www.azimuthproject.org/azimuth/show/Applied+Category+Theory) [course intro](https://forum.azimuthproject.org/discussion/1717) [Seven Sketches in Compositionality An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/) [course book](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf). [new](https://www.reddit.com/r/haskell/comments/b8l4an/applied_category_theory_course/)

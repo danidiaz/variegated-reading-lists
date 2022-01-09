@@ -76,6 +76,8 @@
 
 [Staged compilation of tensor expressions](https://twitter.com/ocramz_yo/status/1469273823690338313).
 
+[Partially static data as free extension of algebras](https://www.cl.cam.ac.uk/~jdy22/papers/partially-static-data-as-free-extension-of-algebras-draft.pdf) (2018)
+
 ## Books
 
 [Dependent Types at Work](http://www.cse.chalmers.se/~peterd/papers/DependentTypesAtWork.pdf) looks like a good introduction to Agda for people with Haskell experience.

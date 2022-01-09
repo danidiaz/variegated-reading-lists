@@ -353,4 +353,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [It's Now Possible To Sign Arbitrary Data With Your SSH Keys](https://lobste.rs/s/a0byrl/it_s_now_possible_sign_arbitrary_data_with). [hn](https://news.ycombinator.com/item?id=29208518)
 
+[ssh agent restriction](https://news.ycombinator.com/item?id=29865876). [restricting ssh agent keys](https://news.ycombinator.com/item?id=29816508).
+
 

@@ -312,3 +312,5 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [Practical Normalization by Evaluation for EDSLs](https://www.youtube.com/watch?v=7sQ22-kMCqc). [reddit](https://www.reddit.com/r/haskell/comments/pnec00/haskell_symposium_2021_practical_normalization_by/).
 
+[How to implement the lambda calculus, quickly](https://twitter.com/DiazCarrete/status/1480178086658383874)
+

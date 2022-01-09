@@ -179,4 +179,5 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Postgres is a great pub/sub and job server (2019)](https://news.ycombinator.com/item?id=29599132)
 
+[Tips for a Healthier Postgres Database](https://news.ycombinator.com/item?id=29858083)
 

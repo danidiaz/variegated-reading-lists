@@ -5,6 +5,8 @@
 
 [FAQs about Lloyd’s of London](https://www.lewiswalsh.net/blog/faqs-about-lloyds-of-london)
 
+[Insurance Claims at Lloyd's – How Does it Work?](https://www.amwins.com/resources-insights/article/insurance-claims-at-lloyd's-how-does-it-work)
+
 [MGA / MGU / COVERHOLDER](https://www.linkedin.com/pulse/mga-mgu-coverholder-michel-ruggaber/)
 
 ## Books

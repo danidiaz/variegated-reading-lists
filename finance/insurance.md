@@ -1,8 +1,74 @@
 
+## Blog posts
+
+[Lloyd's of London - how does it work?](https://www.lewiswalsh.net/blog/lloyds-of-london)
+
+[FAQs about Lloyd’s of London](https://www.lewiswalsh.net/blog/faqs-about-lloyds-of-london)
+
+[MGA / MGU / COVERHOLDER](https://www.linkedin.com/pulse/mga-mgu-coverholder-michel-ruggaber/)
 
 ## Books
+
+[Pricing in General Insurance](https://www.goodreads.com/book/show/20311174-pricing-in-general-insurance)
 
 [Mathematical Methods in Reinsurance](https://www.actuaries.ch/fr/downloads/aid!b4ae4834-66cd-464b-bd27-1497194efc96/id!96/Reinsurance_Script2009_v2.pdf)
 
 > By establishing professional reinsurance companies, the disadvantages of coinsurance - whereby a company could gain an insight into the business of another company and misuse this information to gain an unfair advantage - were eliminated.
+
+[Data Profiling and Insurance Law](https://www.goodreads.com/book/show/41586200-data-profiling-and-insurance-law)
+
+[Underwriters of the United States: How Insurance Shaped the American Founding](https://www.goodreads.com/book/show/57574976-underwriters-of-the-united-states)
+
+## Sites
+
+[Lloyd's](https://www.lloyds.com/)
+
+[Fintech España](https://www.asociacionfintech.es/en/).
+
+[Association Suisse des Actuaires](https://www.actuaries.ch).
+
+[Insurance Business Magazine uk](https://www.insurancebusinessmag.com/uk/). [Twitter](https://twitter.com/InsuranceBizUK).
+
+[International Risk Management Institute, Inc](https://www.irmi.com/).
+
+## Insurtech
+
+## Definitions
+
+- [short rate table](https://www.insuranceopedia.com/definition/4182/short-rate-table)
+
+- [rate class](https://www.insuranceopedia.com/definition/5530/rate-class)
+
+- [surplus to policyholders](https://www.insuranceopedia.com/definition/4456/surplus-to-policyholders)
+
+- [premium](https://www.insuranceopedia.com/definition/164/premium)
+
+- [insurance quote](https://www.insuranceopedia.com/definition/476/insurance-quote)
+ 
+- [glossary by the insurance group of America](https://www.rgare.com/media/glossary)
+
+## Questions
+
+- [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)
+
+- [insurance question at Personal Finance & Money Stack Exchange](https://money.stackexchange.com/questions/tagged/insurance?tab=Votes)
+
+- [difference wroker and underwriter](https://www.quora.com/What-is-the-difference-between-a-broker-and-an-underwriter)
+
+- [What is the Secondary Life Insurance Market?](https://viatical.org/blog/what-is-the-secondary-life-insurance-market/)
+
+- [How Does Life Insurance Work?](https://www.forbes.com/advisor/life-insurance/how-it-works/)
+
+## Videos
+
+## Lloyd's
+
+[Inside Lloyd's: Writing risks at Lloyd's of London with Barbican](https://www.youtube.com/watch?v=Cf3c9e7BSRM&t=86s).
+
+> [1:26] Initially have a conversation with the broker, where the broker will come and present the risk [...] 
+
+[An Explanation of Lloyd's Slips](https://ezinearticles.com/?An-Explanation-of-Lloyds-Slips&id=4833139)
+
+
+
 

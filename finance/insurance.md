@@ -67,6 +67,8 @@
  
 - [glossary by the insurance group of America](https://www.rgare.com/media/glossary)
 
+- [Probable Maximum Loss (PML)](https://www.investopedia.com/terms/p/probable-maximum-loss-pml.asp)
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

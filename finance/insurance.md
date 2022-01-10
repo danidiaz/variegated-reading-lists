@@ -69,6 +69,8 @@
 
 - [Probable Maximum Loss (PML)](https://www.investopedia.com/terms/p/probable-maximum-loss-pml.asp)
 
+- [List of insurance topics](https://en.wikipedia.org/wiki/Outline_of_finance#Insurance)
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

@@ -9,6 +9,12 @@
 
 ## Books
 
+[Fundamentals of Risk and Insurance](https://www.goodreads.com/book/show/17628260-fundamentals-of-risk-and-insurance)
+
+[Principles of Risk Management and Insurance](https://www.goodreads.com/book/show/2052026.Principles_of_Risk_Management_and_Insurance).
+
+[Introduction to Actuarial and Financial Mathematical Methods](https://www.goodreads.com/book/show/26709947-introduction-to-actuarial-and-financial-mathematical-methods).
+
 [Pricing in General Insurance](https://www.goodreads.com/book/show/20311174-pricing-in-general-insurance)
 
 [Mathematical Methods in Reinsurance](https://www.actuaries.ch/fr/downloads/aid!b4ae4834-66cd-464b-bd27-1497194efc96/id!96/Reinsurance_Script2009_v2.pdf)

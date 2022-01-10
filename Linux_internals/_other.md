@@ -6,3 +6,5 @@
 
 [How a Single Line of Code Made a 24-core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/)
 
+[Saving a Third of Our Memory by Re-ordering Go Struct Fields](https://lobste.rs/s/oxtpfw/saving_third_our_memory_by_re_ordering_go)
+

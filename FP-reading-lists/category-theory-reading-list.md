@@ -350,6 +350,7 @@ to be aware of the coherent witness-manipulation problem
 
 [the nucleus of a profunctor](https://twitter.com/sjoerd_visscher/status/1251196854819328000) [At the Interface of Algebra and Statistics](https://t.co/itvUe3hOuQ?amp=1) [The nucleus: Mining concepts from adjunctions](https://t.co/dd4JDGdRiz?amp=1)
 
+[Polynomial Functors: A General Theory of Interaction ](https://twitter.com/lysxia/status/1480287972360609796)
 
 
 ## videos

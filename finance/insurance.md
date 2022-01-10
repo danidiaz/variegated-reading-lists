@@ -7,6 +7,18 @@
 
 [Insurance Claims at Lloyd's – How Does it Work?](https://www.amwins.com/resources-insights/article/insurance-claims-at-lloyd's-how-does-it-work)
 
+> When placing a risk through Lloyd’s, the broker can use one or multiple
+> syndicates, depending on the requirements of the business. The first
+> syndicate to agree to write a risk is referred to as the “lead” syndicate.
+> When there is more than one syndicate participating on a risk, it is called a
+> “subscription market,” as the syndicates together subscribe to the contract
+> document, or “slip.” This slip historically contained all the coverage and
+> contract conditions relating to the risk, as well as deductibles, premiums,
+> and other related information about the policy.  
+
+> The policy wording is also included within the slip, which is the first
+> document the claims department reaches for when advised of a new loss. 
+
 [MGA / MGU / COVERHOLDER](https://www.linkedin.com/pulse/mga-mgu-coverholder-michel-ruggaber/)
 
 ## Books
@@ -77,6 +89,6 @@
 
 [An Explanation of Lloyd's Slips](https://ezinearticles.com/?An-Explanation-of-Lloyds-Slips&id=4833139)
 
-
+[pwc - The London Insurance Market](https://www.pwc.com/gx/en/insurance/pdf/090902lloyds.pdf). [Future at Lloyd's](https://www.lloyds.com/about-lloyds/future-at-lloyds). [Blueprint 2](https://assets.lloyds.com/media/472b74ba-fe3b-47d6-aa7b-d37c2ba2e179/lloyds-blueprint-two.pdf).
 
 

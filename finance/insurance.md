@@ -93,6 +93,8 @@
 
 [An Explanation of Lloyd's Slips](https://ezinearticles.com/?An-Explanation-of-Lloyds-Slips&id=4833139)
 
+> In the event of a claim the slip will be very carefully scrutinized.
+
 [pwc - The London Insurance Market](https://www.pwc.com/gx/en/insurance/pdf/090902lloyds.pdf). [Future at Lloyd's](https://www.lloyds.com/about-lloyds/future-at-lloyds). [Blueprint 2](https://assets.lloyds.com/media/472b74ba-fe3b-47d6-aa7b-d37c2ba2e179/lloyds-blueprint-two.pdf).
 
 > Such controls are often backed up by increasingly sophisticated realistic disaster scenario (‘RDS’) and probable maximum loss (‘PML’) modelling,

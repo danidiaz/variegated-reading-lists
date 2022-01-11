@@ -21,6 +21,8 @@
 
 [MGA / MGU / COVERHOLDER](https://www.linkedin.com/pulse/mga-mgu-coverholder-michel-ruggaber/)
 
+[Insurance 101: Insurance Agents vs. Insurance Brokers vs. Insurance Producers](https://agentsync.io/articles/insurance-101-insurance-agents-vs-insurance-brokers-vs-insurance-producers)
+
 ## Books
 
 [Fundamentals of Risk and Insurance](https://www.goodreads.com/book/show/17628260-fundamentals-of-risk-and-insurance)

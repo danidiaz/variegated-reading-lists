@@ -85,6 +85,14 @@
 
 ## Videos
 
+- [What is the future for underwriting? Insurance experts discuss (2019)](https://www.youtube.com/watch?v=AMY9eBu2rAQ&t=2035s)
+
+  > change [...] will happen in the realm of data and data management [...] insurance [...] has always been about understanding data, quantitative data [...] and make sound, meaningful predictions about the future, and then decide to take a risk for a certain price  
+
+  [2096s](https://youtu.be/AMY9eBu2rAQ?t=2096)
+
+  > the change in productivity is more pedestrian in a sense [...] it's easier to image, wereas the change of the risk and size of the risk pools [...]"
+
 ## Lloyd's
 
 [Inside Lloyd's: Writing risks at Lloyd's of London with Barbican](https://www.youtube.com/watch?v=Cf3c9e7BSRM&t=86s).

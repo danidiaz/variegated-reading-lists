@@ -95,6 +95,8 @@
 
   > the change in productivity is more pedestrian in a sense [...] it's easier to image, wereas the change of the risk and size of the risk pools [...]"
 
+- [Virtual Insurance School: Underwriting and Claims Basics (2016)](https://www.youtube.com/watch?v=2_QEkuzM6fQ)
+
 ## Lloyd's
 
 [Inside Lloyd's: Writing risks at Lloyd's of London with Barbican](https://www.youtube.com/watch?v=Cf3c9e7BSRM&t=86s).

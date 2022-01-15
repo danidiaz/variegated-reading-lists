@@ -127,6 +127,8 @@ attempt to make equality reasonable again.”
 
 [Terms, graphs, and string diagrams: A syntactic trinity.](https://twitter.com/danghica/status/1480911546670891020)
 
+[define a telescope](https://twitter.com/ltchen_tw/status/1482259866181795846)
+
 ## Proof assistants
 
 [Proof Automation class](https://twitter.com/TaliaRinger/status/1464752844179918850). [QED at Large: A Survey of Engineering of Formally Verified Software](https://dependenttyp.es/pdf/QEDatLarge.pdf).

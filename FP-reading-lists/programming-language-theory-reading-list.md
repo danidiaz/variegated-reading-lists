@@ -561,6 +561,19 @@ handlers as additional arguments to methods.
 
 [Computational duality and the sequent calculus](https://ix.cs.uoregon.edu/~pdownen/publications/cdsc.pdf). [tweet](https://twitter.com/rob_rix/status/1437740717686722560).
 
+[Resources on Algorithm W](https://www.reddit.com/r/haskell/comments/s5cnld/hindleymilner_type_interference/). [OutsideIn](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/jfp-outsidein.pdf).  [the french approach to type inference](http://gallium.inria.fr/~fpottier/publis/emlti-final.pdf).
+
+> "Typing Haskell in Haskell" by Mark P. Jones is substitution-based, but quite detailed and also deals with inference for haskell-style type classes.
+
+> "Hindley-Milner style type systems in constraint form" by Sulzmann, Müller, and Zenger may be what you're looking for, as its typing rules accumulate a set of constraints as they go.
+
+> "Proofs about a Folklore Let-Polymorphic Type Inference Algorithm" by Oukseh Lee and Kwangkeun Yi might also be interesting. It's about both Algorithm W, which builds a substitution in a bottom-up manner, as well as its "opposite": Algorithm M, which pushes constraints through the term in a top-down manner.
+
+> You might find "Type Inference by Solving Constraints" by Caleb Helbling useful. The blog itself vanished in 2019, but the Internet Archive still had a copy here with working code snippets.
+
+> Lecture 19: Type Inference of "Programming and Programming Languages" (link) details what constraints to generate and how to solve them, though the programming language used is unfamiliar to me.
+
+[the untyped lambda calculus yay or nay](https://twitter.com/ezyang/status/1481831674811985924?s=03)
 
 # slides
 

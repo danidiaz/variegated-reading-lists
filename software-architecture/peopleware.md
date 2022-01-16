@@ -72,3 +72,6 @@
 
 [know how your org works](https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d)
 
+[chat etiquette](https://twitter.com/mitchellh/status/1481697909749862402). [more](https://twitter.com/patio11/status/1481702199335940098)
+
+

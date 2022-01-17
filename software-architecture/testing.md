@@ -116,4 +116,9 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [cleaning the database or not](https://news.ycombinator.com/item?id=29764792)
 
+[Backtracking Generators for Random Testing](https://www.youtube.com/watch?v=dfZ94N0hS4I). [Generating Good Generators for Inductive Relations](https://zoep.github.io/GeneratingGoodGenerators.pdf). [Random Testing For Language Design](https://repository.upenn.edu/cgi/viewcontent.cgi?article=4665&context=edissertations). 
+
+[SmallCheck and Lazy SmallCheck](https://www.cs.york.ac.uk/fp/smallcheck/smallcheck.pdf).
+
+[The Design and Use of QuickCheck](https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html). 
 

@@ -122,3 +122,7 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [The Design and Use of QuickCheck](https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html). 
 
+[Shrinking and showing functions (pearl)](https://dl.acm.org/doi/10.1145/2430532.2364516). [video](https://www.youtube.com/watch?v=CH8UQJiv9Q4).
+
+
+

@@ -158,6 +158,8 @@ have the same meta-information
 
 [Masking Asynchronous Exceptions](https://coot.me/posts/mask.html). [Interruptible or uninterruptible cleanup, issue in safe-exceptions package.](https://github.com/fpco/safe-exceptions/issues/3). [Uninterruptible closeFdWith merge request #4942](https://gitlab.haskell.org/ghc/ghc/-/merge_requests/4942). [Dealing with Asynchronous Exceptions during Resource Acquisition](https://www.well-typed.com/blog/2014/08/asynchronous-exceptions/). very tricky case.
 
+[the STG machine and unboxed values](https://stackoverflow.com/questions/70740815/stg-machine-unboxed-values-handling)
+
 ## Compiling in Ubuntu
 
 > $ cabal install --installdir /home/someguy/.local/bin --install-method=copy happy

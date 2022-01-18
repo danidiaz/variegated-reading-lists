@@ -494,6 +494,8 @@
 
 [The Door Problem](https://lizengland.com/blog/2014/04/the-door-problem/)
 
+[The Power of Invisible Choices](https://www.youtube.com/watch?v=6HZuSzlN2eI)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

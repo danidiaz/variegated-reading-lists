@@ -1060,3 +1060,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 >  fast, local, native dev environments are indispensable (h/t Tilt)
 > staging overrides with Envoy
 
+[Spring drama](https://news.ycombinator.com/item?id=29971182)
+

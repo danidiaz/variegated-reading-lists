@@ -129,6 +129,10 @@ attempt to make equality reasonable again.”
 
 [define a telescope](https://twitter.com/ltchen_tw/status/1482259866181795846)
 
+[GADTS Lambda Calculus Type Variables](https://www.reddit.com/r/haskell/comments/s6ukhx/gadts_lambda_calculus_type_variables/ht6wlip/). [Hindley-Milner Type Interference](https://www.reddit.com/r/haskell/comments/s5cnld/hindleymilner_type_interference/).
+
+[Effective metatheory for type theory](https://twitter.com/Jose_A_Alonso/status/1483506627227619331). 
+
 ## Proof assistants
 
 [Proof Automation class](https://twitter.com/TaliaRinger/status/1464752844179918850). [QED at Large: A Survey of Engineering of Formally Verified Software](https://dependenttyp.es/pdf/QEDatLarge.pdf).

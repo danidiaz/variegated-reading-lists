@@ -160,6 +160,8 @@ have the same meta-information
 
 [the STG machine and unboxed values](https://stackoverflow.com/questions/70740815/stg-machine-unboxed-values-handling)
 
+[Haskell's secret sauce for a fast FFI](https://www.reddit.com/r/haskell/comments/s5ughh/what_is_haskells_secret_sauce_for_a_fast_ffi/)
+
 ## Compiling in Ubuntu
 
 > $ cabal install --installdir /home/someguy/.local/bin --install-method=copy happy

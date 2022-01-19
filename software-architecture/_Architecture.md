@@ -1062,3 +1062,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Spring drama](https://news.ycombinator.com/item?id=29971182)
 
+[Examining the covidtests.gov architecture](https://adhoc.team/2022/01/18/covidtests-usps-aws-managed-services/).
+
+[getting your data models wrong leads to awful user outcomes](https://twitter.com/JorgeO/status/1483213537254117384)
+
+

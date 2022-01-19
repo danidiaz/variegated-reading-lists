@@ -686,3 +686,6 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 [Replacing functions with data (defunctionalization)](https://www.youtube.com/watch?v=wppzFzzD4b8)
 
 [Dependent Types - salvation or plague ](https://www.youtube.com/watch?v=x3y22-cMBMQ)
+
+[Correcting A Widespread Error in Unification Algorithms](https://twitter.com/papers_we_love/status/1483775016604950528)
+

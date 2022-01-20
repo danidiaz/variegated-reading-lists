@@ -391,7 +391,7 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Haskell 2021 - Graded Monads and Type-Level Programming for Dependence Analysis](https://www.youtube.com/watch?v=Emtk0ipeBBo)
 
-
+[why liquid haskell matters](https://www.tweag.io/blog/2022-01-19-why-liquid-haskell/)
 
 
 

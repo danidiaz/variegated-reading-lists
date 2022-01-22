@@ -74,4 +74,5 @@
 
 [chat etiquette](https://twitter.com/mitchellh/status/1481697909749862402). [more](https://twitter.com/patio11/status/1481702199335940098)
 
+[against division of labor?](https://news.ycombinator.com/item?id=30019146)
 

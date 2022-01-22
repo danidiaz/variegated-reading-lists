@@ -120,6 +120,8 @@
 
 > you describe sequential circuits as functions operating over infinite streams, where memory/state is 'inferred' when you prepend an element in front of a stream: by doing that you move the present to the future, thus requiring memory.
 
+[Any book recommended for reactive functional programming in haskell?](https://www.reddit.com/r/haskell/comments/s9uylb/any_book_recommended_for_reactive_functional/)
+
 ## slides
 
 [basic propositional linear logic](http://www.pst.informatik.uni-muenchen.de/lehre/WS0304/tl/Vorlesung/46-1.pdf)

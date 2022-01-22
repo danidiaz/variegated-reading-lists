@@ -655,6 +655,8 @@ handlers as additional arguments to methods.
 
 [Functional Algorithms, Verified](https://news.ycombinator.com/item?id=28884229)
 
+["the best explantion of unification"](https://twitter.com/haskellhutt/status/1484905439435403267)
+
 ## videos
 
 [Curry On Talk: The Practice and Theory of TLA+](https://pron.github.io/posts/tlaplus-curryon-talk)

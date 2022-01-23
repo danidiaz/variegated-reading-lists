@@ -1066,4 +1066,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [getting your data models wrong leads to awful user outcomes](https://twitter.com/JorgeO/status/1483213537254117384)
 
+[UK COVID-19 dashboard built using Postgres and Citus for millions of users](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/uk-covid-19-dashboard-built-using-postgres-and-citus-for/ba-p/3036276)
+
 

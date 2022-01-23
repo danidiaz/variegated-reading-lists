@@ -137,6 +137,10 @@ attempt to make equality reasonable again.”
 
 [Proof Automation class](https://twitter.com/TaliaRinger/status/1464752844179918850). [QED at Large: A Survey of Engineering of Formally Verified Software](https://dependenttyp.es/pdf/QEDatLarge.pdf).
 
+[Frontiers in Homotopical Proof Assistants](https://twitter.com/jonmsterling/status/1484952812828176385)
+
+[Records, Singleton Types, and Bundled +  Unbundled structures](https://twitter.com/totbwf/status/1485015209806757891)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

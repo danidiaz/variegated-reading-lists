@@ -91,6 +91,8 @@
 
 - [Cash Flow Underwriting](https://www.irmi.com/term/insurance-definitions/cash-flow-underwriting). [another def](https://www.investopedia.com/terms/c/cash-flow-underwriting.asp). 
 
+- [catastrophe modeling](https://www.rms.com/catastrophe-modeling). 
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

@@ -97,6 +97,8 @@
 
 - [soft and hard markets](https://www.psafinancial.com/2013/01/hard-market-vs-soft-market-the-insurance-industrys-cycle-and-why-were-currently-in-a-hard-market/)
 
+- [coverholder](https://www.insuranceopedia.com/definition/5387/coverholder). [In Lloyd's](https://www.lloyds.com/conducting-business/delegated-authorities/compliance-and-operations/about-coverholders).
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

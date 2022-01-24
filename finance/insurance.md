@@ -93,6 +93,8 @@
 
 - [catastrophe modeling](https://www.rms.com/catastrophe-modeling). 
 
+- [claims adjuster](https://www.investopedia.com/terms/c/claims-adjuster.asp)
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

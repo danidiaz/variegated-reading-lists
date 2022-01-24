@@ -95,6 +95,8 @@
 
 - [claims adjuster](https://www.investopedia.com/terms/c/claims-adjuster.asp)
 
+- [soft and hard markets](https://www.psafinancial.com/2013/01/hard-market-vs-soft-market-the-insurance-industrys-cycle-and-why-were-currently-in-a-hard-market/)
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

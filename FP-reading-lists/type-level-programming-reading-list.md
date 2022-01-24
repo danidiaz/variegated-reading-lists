@@ -393,5 +393,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [why liquid haskell matters](https://www.tweag.io/blog/2022-01-19-why-liquid-haskell/)
 
+[appending lists at the type and value level](https://bor0.wordpress.com/2022/01/24/the-computation-of-appending-lists-at-the-type-and-value-level/)
 
 

@@ -23,6 +23,16 @@
 
 [Insurance 101: Insurance Agents vs. Insurance Brokers vs. Insurance Producers](https://agentsync.io/articles/insurance-101-insurance-agents-vs-insurance-brokers-vs-insurance-producers)
 
+## History 
+
+[The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)
+ 
+[How the Names lost their shirts](https://www.theguardian.com/money/2000/nov/04/business.personalfinancenews1)
+
+[The crisis at Lloyd's in the 1980s](https://www.rpc.co.uk/perspectives/insurance-and-reinsurance/the-crisis-at-lloyds-in-the-1980s-a-podcast-with-reg-brown/)
+
+[the near-death of Lloyd’s of London 1980-2002](https://ehsthelongrun.net/2019/05/14/delusions-of-competence-the-near-death-of-lloyds-of-london-1980-2002/)
+
 ## Books
 
 [Fundamentals of Risk and Insurance](https://www.goodreads.com/book/show/17628260-fundamentals-of-risk-and-insurance)
@@ -40,6 +50,8 @@
 [Data Profiling and Insurance Law](https://www.goodreads.com/book/show/41586200-data-profiling-and-insurance-law)
 
 [Underwriters of the United States: How Insurance Shaped the American Founding](https://www.goodreads.com/book/show/57574976-underwriters-of-the-united-states)
+
+[On the Brink: How a Crisis Transformed Lloyd's of London](https://www.goodreads.com/book/show/21469019-on-the-brink)
 
 ## Sites
 

@@ -33,6 +33,10 @@
 
 [the near-death of Lloyd’s of London 1980-2002](https://ehsthelongrun.net/2019/05/14/delusions-of-competence-the-near-death-of-lloyds-of-london-1980-2002/)
 
+[Panic of 1857](https://en.wikipedia.org/wiki/Panic_of_1857)
+
+> On the morning of August 24, 1857, the president of Ohio Life Insurance and Trust Company announced that its New York branch had suspended payments.
+
 ## Books
 
 [Fundamentals of Risk and Insurance](https://www.goodreads.com/book/show/17628260-fundamentals-of-risk-and-insurance)

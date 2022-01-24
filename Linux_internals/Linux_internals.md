@@ -129,3 +129,5 @@
 
 [Executable and Linkable Format 101 Part 3: Relocations](https://www.intezer.com/blog/malware-analysis/executable-and-linkable-format-101-part-3-relocations/). [Haskell](https://github.com/zw3rk/mobile-core-log/blob/master/LOG.md). [CS 140: Operating Systems (Winter 2013)](https://web.stanford.edu/~ouster/cgi-bin/cs140-winter13/lecture.php?topic=vm). [CS 537 Notes, Section #15: Base and Bounds, Segmentation](http://pages.cs.wisc.edu/~bart/537/lecturenotes/s15.html).
 
+[Bootloader basics](https://lobste.rs/s/vfxz9s/bootloader_basics)
+

@@ -114,3 +114,5 @@
 
 [Deleting an S3 Bucket Costs Money](https://news.ycombinator.com/item?id=28917152)
 
+[pwned by cloud costs](https://news.ycombinator.com/item?id=30054739)
+

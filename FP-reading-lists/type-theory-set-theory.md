@@ -133,6 +133,8 @@ attempt to make equality reasonable again.”
 
 [Effective metatheory for type theory](https://twitter.com/Jose_A_Alonso/status/1483506627227619331). 
 
+[Induction-recursion in models other than Set](https://cstheory.stackexchange.com/questions/51021/induction-recursion-in-models-other-than-mathbfset)
+
 ## Proof assistants
 
 [Proof Automation class](https://twitter.com/TaliaRinger/status/1464752844179918850). [QED at Large: A Survey of Engineering of Formally Verified Software](https://dependenttyp.es/pdf/QEDatLarge.pdf).

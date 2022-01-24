@@ -121,3 +121,9 @@ Predicative and Classical Systems of Analysis](https://math.stanford.edu/~feferm
 # Videos
 
 [2017 04 28 - Andreas Lochbihler - Functional Programming and Proving in Isabelle/HOL](https://www.youtube.com/watch?v=cIX3WVO48RY)
+
+[keynote on coalgebras popl conf 2022](https://twitter.com/hannelita/status/1484539866788605956)
+
+[Coálgebras, coinducción y computación, una charla introductoria](https://www.youtube.com/watch?v=FfwD7iPeEv8&t=1280s)
+
+

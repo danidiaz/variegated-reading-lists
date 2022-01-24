@@ -85,6 +85,8 @@
 
 - [List of insurance topics](https://en.wikipedia.org/wiki/Outline_of_finance#Insurance)
 
+- [Cash Flow Underwriting](https://www.irmi.com/term/insurance-definitions/cash-flow-underwriting). [another def](https://www.investopedia.com/terms/c/cash-flow-underwriting.asp). 
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

@@ -575,6 +575,27 @@ handlers as additional arguments to methods.
 
 [the untyped lambda calculus yay or nay](https://twitter.com/ezyang/status/1481831674811985924?s=03)
 
+["the best explantion of unification"](https://twitter.com/haskellhutt/status/1484905439435403267)
+
+[Implementing Hindley-Milner with the unification-fd library](https://twitter.com/Jose_A_Alonso/status/1436449406522302468)
+
+[the hardest part of implementing a type system is unification](https://twitter.com/GabriellaG439/status/1484764412976123904)
+
+> I think unification by itself is OK, it's the lumping it all together that
+> bugs me. I split mine up into elaboration, solving, generalization (insert
+> polytypes)... with trees that grow for the stages.
+
+> If you stick to Hindley-Milner unification is very simple. But once you
+> include higher-ranked types you have to keep track of the type variable
+> scoping which is trickier. And then if you also want some subtyping between
+> the foralls...difficult.
+
+> this is why i just implement bidirectional typechecking and call it a day
+
+[Generic unification](https://ro-che.info/articles/2017-06-17-generic-unification)
+
+> The unification-fd package by wren gayle romano is the de-facto standard way to do unification in Haskell. You’d use it if you need to implement type inference for your DSL, for example.
+
 # slides
 
 [Functional programming languages Part I: interpreters and operational semantics](https://xavierleroy.org/mpri/2-4/semantics.pdf) [whole](https://xavierleroy.org/mpri/2-4/)
@@ -654,8 +675,6 @@ handlers as additional arguments to methods.
 [J.N. OLIVEIRA PROGRAM DESIGN BY CALCULATION](http://www4.di.uminho.pt/~jno/ps/pdbc.pdf). [post](http://www.philipzucker.com/a-short-skinny-on-relations-towards-the-algebra-of-programming/?preview=true)
 
 [Functional Algorithms, Verified](https://news.ycombinator.com/item?id=28884229)
-
-["the best explantion of unification"](https://twitter.com/haskellhutt/status/1484905439435403267)
 
 ## videos
 

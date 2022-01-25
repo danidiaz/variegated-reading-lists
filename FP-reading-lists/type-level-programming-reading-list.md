@@ -199,10 +199,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 - Propositional equality is implemented through the constraint (~), the type (:~:), and the class SDecide. See modules Data.Type.Equality and Data.Singletons.Decide for more information.
 
-[Generic unification](https://ro-che.info/articles/2017-06-17-generic-unification)
-
-> The unification-fd package by wren gayle romano is the de-facto standard way to do unification in Haskell. You’d use it if you need to implement type inference for your DSL, for example.
-
 [music composition meets dependent types](https://www.reddit.com/r/haskell/comments/6holdz/mezzo_music_composition_meets_dependent_types/)
 
 [generic-lens - Generically derive lenses for accessing fields of data types (with no Template Haskell)](https://www.reddit.com/r/haskell/comments/6glkpq/genericlens_generically_derive_lenses_for/) does records-sop allow something like this as well?

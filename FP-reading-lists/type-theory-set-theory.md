@@ -141,6 +141,14 @@ attempt to make equality reasonable again.”
 
 [Frontiers in Homotopical Proof Assistants](https://twitter.com/jonmsterling/status/1484952812828176385)
 
+> The McBride Doctrine is already challenged by the heavy use of unification in
+> Agda;
+> cubical type theory challenges it further via equational side conditions
+
+[proving in plain CIC](https://twitter.com/ionathanch/status/1485775043074297857)
+
+> Agda proof [...] but unification is basically a magic tactic, so. 
+
 [Records, Singleton Types, and Bundled +  Unbundled structures](https://twitter.com/totbwf/status/1485015209806757891)
 
 # set theory

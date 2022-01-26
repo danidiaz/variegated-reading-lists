@@ -99,6 +99,8 @@
 
 - [coverholder](https://www.insuranceopedia.com/definition/5387/coverholder). [In Lloyd's](https://www.lloyds.com/conducting-business/delegated-authorities/compliance-and-operations/about-coverholders).
 
+- [Needs Approach](https://www.investopedia.com/terms/n/needsapproach.asp)
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

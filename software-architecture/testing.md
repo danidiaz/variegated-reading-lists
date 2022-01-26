@@ -124,5 +124,5 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Shrinking and showing functions (pearl)](https://dl.acm.org/doi/10.1145/2430532.2364516). [video](https://www.youtube.com/watch?v=CH8UQJiv9Q4).
 
-
+[a case study on correctness and safety testing of stateful systems](https://www.tweag.io/blog/2022-01-26-property-based-testing-of-monadic-code/)
 

@@ -355,4 +355,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [ssh agent restriction](https://news.ycombinator.com/item?id=29865876). [restricting ssh agent keys](https://news.ycombinator.com/item?id=29816508).
 
+[WebAuthn server library for public key-based authentication](https://discourse.haskell.org/t/webauthn-server-library-for-public-key-based-authentication/3976)
+
 

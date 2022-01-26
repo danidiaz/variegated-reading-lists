@@ -101,6 +101,8 @@
 
 - [Needs Approach](https://www.investopedia.com/terms/n/needsapproach.asp)
 
+- [blackout period](https://www.insuranceopedia.com/definition/969/blackout-period)
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

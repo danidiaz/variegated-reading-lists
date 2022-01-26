@@ -357,4 +357,5 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [WebAuthn server library for public key-based authentication](https://discourse.haskell.org/t/webauthn-server-library-for-public-key-based-authentication/3976)
 
+[Guide to Using YubiKey for GPG and SSH](https://news.ycombinator.com/item?id=30081348)
 

@@ -118,6 +118,8 @@ Predicative and Classical Systems of Analysis](https://math.stanford.edu/~feferm
 
 [Proof Automation](https://twitter.com/TaliaRinger/status/1475574071253516295)
 
+[Full abstraction for digital circuits](https://twitter.com/thegeorgejkaye/status/1486268865407598604)
+
 # Videos
 
 [2017 04 28 - Andreas Lochbihler - Functional Programming and Proving in Isabelle/HOL](https://www.youtube.com/watch?v=cIX3WVO48RY)

@@ -503,7 +503,7 @@ to be aware of the coherent witness-manipulation problem
 
 [Ideal monads](https://www.reddit.com/r/haskell/comments/6ac1x2/idealised_monads_or_monad_instance_for_lift_f/)
 
-[Profunctor Optics: The Categorical View](https://bartoszmilewski.com/2017/07/07/profunctor-optics-the-categorical-view/)
+[Profunctor Optics: The Categorical View](https://bartoszmilewski.com/2017/07/07/profunctor-optics-the-categorical-view/). [Traversing](https://www.reddit.com/r/haskell/comments/rtbzbl/comment/hufqbfj/).
 
 [CPS vs codensity vs reflection without remorse](https://stackoverflow.com/questions/45334985/when-to-use-cps-vs-codensity-vs-reflection-without-remorse-in-haskell)
 

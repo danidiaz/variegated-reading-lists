@@ -231,4 +231,6 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 
 [common infrastructure errors](https://news.ycombinator.com/item?id=29434740)
 
+[why kubernetes is complex](https://news.ycombinator.com/item?id=30096674)
+
 

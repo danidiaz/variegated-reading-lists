@@ -103,6 +103,8 @@
 
 - [blackout period](https://www.insuranceopedia.com/definition/969/blackout-period)
 
+- [Parametric insurance](https://en.wikipedia.org/wiki/Parametric_insurance)
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

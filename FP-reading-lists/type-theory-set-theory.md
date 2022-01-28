@@ -137,6 +137,8 @@ attempt to make equality reasonable again.”
 
 [universe hierarchy stuff](https://twitter.com/dannygratzer/status/1486380643772776453)
 
+[OTT + setoids + proof-irrelevant casts = a normalizable type theory with defn eq and quotients](https://twitter.com/cbarrett/status/1487092573621600258). [Observational equality: now for good](https://twitter.com/ACMDL/status/1487085826119020545). [paper](https://dl.acm.org/doi/10.1145/3498693).
+
 ## Proof assistants
 
 [Proof Automation class](https://twitter.com/TaliaRinger/status/1464752844179918850). [QED at Large: A Survey of Engineering of Formally Verified Software](https://dependenttyp.es/pdf/QEDatLarge.pdf).

@@ -62,3 +62,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Linearity and Uniqueness: An Entente Cordiale](https://starsandspira.ls/docs/esop22-draft.pdf)
 
+[Why doesn't GHC recognize the function as linear?](https://stackoverflow.com/a/70897280/1364288)
+
+

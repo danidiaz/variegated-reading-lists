@@ -23,6 +23,8 @@
 
 [Insurance 101: Insurance Agents vs. Insurance Brokers vs. Insurance Producers](https://agentsync.io/articles/insurance-101-insurance-agents-vs-insurance-brokers-vs-insurance-producers)
 
+[Disrupting insurance](https://foreignpolicy.com/2022/01/28/russia-ukraine-insurance-black-sea-economy-war/).
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

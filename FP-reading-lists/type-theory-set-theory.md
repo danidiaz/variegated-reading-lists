@@ -137,6 +137,8 @@ attempt to make equality reasonable again.”
 
 [universe hierarchy stuff](https://twitter.com/dannygratzer/status/1486380643772776453)
 
+[Proving nat recursion from nat induction with dependent pairs is essentially the same as writing the predecessor function in untyped lambda calculus using pairs.](https://twitter.com/boarders__/status/1486901941020069888)
+
 [OTT + setoids + proof-irrelevant casts = a normalizable type theory with defn eq and quotients](https://twitter.com/cbarrett/status/1487092573621600258). [Observational equality: now for good](https://twitter.com/ACMDL/status/1487085826119020545). [paper](https://dl.acm.org/doi/10.1145/3498693).
 
 ## Proof assistants
@@ -154,6 +156,8 @@ attempt to make equality reasonable again.”
 > Agda proof [...] but unification is basically a magic tactic, so. 
 
 [Records, Singleton Types, and Bundled +  Unbundled structures](https://twitter.com/totbwf/status/1485015209806757891)
+
+[deliberately isolated [...] from the general morass of stuff you just hope pattern unification will clobber](https://twitter.com/PTOOP/status/1486859776751452166)
 
 # set theory
 

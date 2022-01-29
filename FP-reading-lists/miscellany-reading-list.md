@@ -554,4 +554,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [folding the unfoldable](https://www.reddit.com/r/haskell/comments/sd6gel/folding_the_unfoldable/)
 
+[stack-graphs](https://www.reddit.com/r/haskell/comments/sfgsev/comment/huptmac/). [repo](https://github.com/github/stack-graphs)
 

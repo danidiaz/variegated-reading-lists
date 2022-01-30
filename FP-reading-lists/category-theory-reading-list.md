@@ -433,6 +433,8 @@ to be aware of the coherent witness-manipulation problem
 
 [Michael Shulman: Two-dimensional semantics of homotopy type theory](https://www.youtube.com/watch?v=0uzk-hIuwXA)
 
+[Hasochistic Containers ](https://twitter.com/sf_haskell/status/1487848535554859010)
+
 ## posts
 
 [Catsters guide](https://byorgey.wordpress.com/catsters-guide-2/)

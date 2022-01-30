@@ -49,4 +49,5 @@ perform “deep” instrumentation of the interpreter
 
 [Memoization](https://wiki.haskell.org/Memoization). [SO](https://stackoverflow.com/questions/141650/how-do-you-make-a-generic-memoize-function-in-haskell).
 
+[Monadic Memoization Mixins](https://www.cs.utexas.edu/~wcook/Drafts/2006/MemoMixins.pdf). [monad-memo: Memoization monad transformer](https://hackage.haskell.org/package/monad-memo).
 

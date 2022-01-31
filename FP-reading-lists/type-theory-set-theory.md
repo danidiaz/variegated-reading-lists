@@ -143,6 +143,8 @@ attempt to make equality reasonable again.”
 
 [path induction implies based path induction without using universes](https://twitter.com/boarders__/status/1487986059984183297)
 
+[intro to cubical type theory](https://twitter.com/plt_amy/status/1483299560059543562)
+
 ## Proof assistants
 
 [Proof Automation class](https://twitter.com/TaliaRinger/status/1464752844179918850). [QED at Large: A Survey of Engineering of Formally Verified Software](https://dependenttyp.es/pdf/QEDatLarge.pdf).
@@ -163,7 +165,7 @@ attempt to make equality reasonable again.”
 
 [summary of languages for automation in proof assistants](https://twitter.com/TaliaRinger/status/1487887028075307018). [slides](https://twitter.com/TaliaRinger/status/1487887028075307018).
 
-[pattern matching / inducting over equality proofs](https://twitter.com/agdakx/status/1487475588462002182)
+[pattern matching / inducting over equality proofs](https://twitter.com/agdakx/status/1487475588462002182). [Types in GADT constructors are unified to translate "this is the same type" into explicit equality assumptions](https://twitter.com/plt_amy/status/1487478865832337418).
 
 # set theory
 

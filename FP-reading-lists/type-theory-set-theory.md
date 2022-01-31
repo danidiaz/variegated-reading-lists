@@ -147,6 +147,8 @@ attempt to make equality reasonable again.”
 
 [stuff your setoids](https://mazzo.li/epilogue/index.html%3Fp=319.html). [tweet](https://twitter.com/OwoTizusa/status/1488258701794361346)
 
+[a type checker for ott](https://twitter.com/bentnib/status/1488268744904556545)
+
 ## Proof assistants
 
 [Proof Automation class](https://twitter.com/TaliaRinger/status/1464752844179918850). [QED at Large: A Survey of Engineering of Formally Verified Software](https://dependenttyp.es/pdf/QEDatLarge.pdf).

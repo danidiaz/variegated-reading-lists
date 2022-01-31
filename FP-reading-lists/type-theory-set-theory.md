@@ -141,7 +141,7 @@ attempt to make equality reasonable again.”
 
 [OTT + setoids + proof-irrelevant casts = a normalizable type theory with defn eq and quotients](https://twitter.com/cbarrett/status/1487092573621600258). [Observational equality: now for good](https://twitter.com/ACMDL/status/1487085826119020545). [paper](https://dl.acm.org/doi/10.1145/3498693). [tweet](https://twitter.com/kmett/status/1487505591107043333).
 
-
+[path induction implies based path induction without using universes](https://twitter.com/boarders__/status/1487986059984183297)
 
 ## Proof assistants
 
@@ -160,6 +160,10 @@ attempt to make equality reasonable again.”
 [Records, Singleton Types, and Bundled +  Unbundled structures](https://twitter.com/totbwf/status/1485015209806757891)
 
 [deliberately isolated [...] from the general morass of stuff you just hope pattern unification will clobber](https://twitter.com/PTOOP/status/1486859776751452166)
+
+[summary of languages for automation in proof assistants](https://twitter.com/TaliaRinger/status/1487887028075307018). [slides](https://twitter.com/TaliaRinger/status/1487887028075307018).
+
+[pattern matching / inducting over equality proofs](https://twitter.com/agdakx/status/1487475588462002182)
 
 # set theory
 

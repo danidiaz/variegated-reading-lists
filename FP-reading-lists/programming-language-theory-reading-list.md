@@ -596,6 +596,8 @@ handlers as additional arguments to methods.
 
 > The unification-fd package by wren gayle romano is the de-facto standard way to do unification in Haskell. You’d use it if you need to implement type inference for your DSL, for example.
 
+[proof-relevant unification (thesis)](https://twitter.com/agdakx/status/1487475588462002182)
+
 # slides
 
 [Functional programming languages Part I: interpreters and operational semantics](https://xavierleroy.org/mpri/2-4/semantics.pdf) [whole](https://xavierleroy.org/mpri/2-4/)

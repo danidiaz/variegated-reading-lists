@@ -435,6 +435,8 @@ to be aware of the coherent witness-manipulation problem
 
 [Hasochistic Containers ](https://twitter.com/sf_haskell/status/1487848535554859010)
 
+[optics and FulList](https://discourse.haskell.org/t/how-do-i-explain-optics/3986/4)
+
 ## posts
 
 [Catsters guide](https://byorgey.wordpress.com/catsters-guide-2/)

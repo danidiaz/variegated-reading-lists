@@ -108,4 +108,7 @@
 
 [branch forward only](https://news.ycombinator.com/item?id=29350875)
 
+[Async Rust: Panics vs. Cancellation](https://news.ycombinator.com/item?id=30114822)
+
+[Uninitialized Memory: Unsafe Rust is Too Hard](https://lobste.rs/s/bkjsde/uninitialized_memory_unsafe_rust_is_too)
 

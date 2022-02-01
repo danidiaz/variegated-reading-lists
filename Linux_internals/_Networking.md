@@ -69,3 +69,6 @@
 [ the case of the 50ms request](https://twitter.com/b0rk/status/1390012478386577411)
 
 [	Netcat – All you need to know ](https://news.ycombinator.com/item?id=27973020)
+
+[Writing a toy traceroute from scratch](https://news.ycombinator.com/item?id=30140380)
+

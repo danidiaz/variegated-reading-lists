@@ -80,4 +80,6 @@
 
 [attention](https://spin.atomicobject.com/2022/01/29/attention-managerial-generosity/). [tweet](https://twitter.com/Carnage4Life/status/1488589748876636163).
 
+[not the same person](https://news.ycombinator.com/item?id=30150343)
+
 

@@ -120,6 +120,8 @@ Predicative and Classical Systems of Analysis](https://math.stanford.edu/~feferm
 
 [Full abstraction for digital circuits](https://twitter.com/thegeorgejkaye/status/1486268865407598604)
 
+[not about infinity](https://twitter.com/typeswitch/status/1488552266642698246)
+
 # Videos
 
 [2017 04 28 - Andreas Lochbihler - Functional Programming and Proving in Isabelle/HOL](https://www.youtube.com/watch?v=cIX3WVO48RY)

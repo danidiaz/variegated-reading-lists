@@ -78,5 +78,6 @@
 
 [Doing too much work on one's own before looping in others](https://news.ycombinator.com/item?id=30074949)
 
-[attention](https://spin.atomicobject.com/2022/01/29/attention-managerial-generosity/)
+[attention](https://spin.atomicobject.com/2022/01/29/attention-managerial-generosity/). [tweet](https://twitter.com/Carnage4Life/status/1488589748876636163).
+
 

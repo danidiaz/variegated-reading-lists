@@ -128,3 +128,8 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [QuickCheck, Hedgehog, Validity](https://www.fpcomplete.com/blog/quickcheck-hedgehog-validity/) 
 
+[compiler test framework](https://twitter.com/wilbowma/status/1488733730495631364)
+
+
+
+

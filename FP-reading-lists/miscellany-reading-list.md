@@ -556,3 +556,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [stack-graphs](https://www.reddit.com/r/haskell/comments/sfgsev/comment/huptmac/). [repo](https://github.com/github/stack-graphs)
 
+[you can simulate OOP with FP by encoding objects as tuples of functions](https://twitter.com/shwestrick/status/1488588840835162113)
+
+
+

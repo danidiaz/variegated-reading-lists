@@ -47,7 +47,7 @@ perform “deep” instrumentation of the interpreter
 
 [Applying File Changes with `fix` and GADTs](https://www.reddit.com/r/haskell/comments/qsexqr/applying_file_changes_with_fix_and_gadts/)
 
-[Memoization](https://wiki.haskell.org/Memoization). [SO](https://stackoverflow.com/questions/141650/how-do-you-make-a-generic-memoize-function-in-haskell).
+[Memoization](https://wiki.haskell.org/Memoization). [SO](https://stackoverflow.com/questions/141650/how-do-you-make-a-generic-memoize-function-in-haskell). [Representable-tries vs. Memo-trie](https://www.reddit.com/r/haskell/comments/si8tv7/representabletries_vs_memotrie/).
 
 [Monadic Memoization Mixins](https://www.cs.utexas.edu/~wcook/Drafts/2006/MemoMixins.pdf). [monad-memo: Memoization monad transformer](https://hackage.haskell.org/package/monad-memo).
 

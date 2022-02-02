@@ -290,6 +290,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [A type- and scope-safe universe of syntaxes with binding](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/abs/type-and-scopesafe-universe-of-syntaxes-with-binding-their-semantics-and-proofs/8A0865F34313BA65F4FE46D4522B4568)
 
+[Why capture-avoiding substitution is typically first introduced in untyped lambda-calculus with applicative order reduction, where no capture can actually happen if the top-level term is closed?](https://twitter.com/ilyasergey/status/1488765108201222145) Twitter thread.
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

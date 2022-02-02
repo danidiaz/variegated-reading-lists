@@ -292,6 +292,10 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [Why capture-avoiding substitution is typically first introduced in untyped lambda-calculus with applicative order reduction, where no capture can actually happen if the top-level term is closed?](https://twitter.com/ilyasergey/status/1488765108201222145) Twitter thread. [applicative order reduction](https://opendsa-server.cs.vt.edu/OpenDSA/Books/PL/html/ReductionStrategies.html).
 
+> refactorings, call-by-name, and full reduction are good examples why [CAS] matters
+
+> But call-by-name also doesn't need C.A.S. if terms are closed and reduction order is outermost-first, right?
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

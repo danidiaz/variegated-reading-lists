@@ -391,4 +391,5 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [appending lists at the type and value level](https://bor0.wordpress.com/2022/01/24/the-computation-of-appending-lists-at-the-type-and-value-level/)
 
+[An introduction to type programming in TypeScript](https://news.ycombinator.com/item?id=30173375)
 

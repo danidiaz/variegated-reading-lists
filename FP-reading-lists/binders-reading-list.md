@@ -296,6 +296,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 > But call-by-name also doesn't need C.A.S. if terms are closed and reduction order is outermost-first, right?
 
+> I introduce naïve substitution first, then explain CAsubst later when making out-of-order reductions ("refactorings", contextual equivalence, etc).
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

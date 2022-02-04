@@ -1069,4 +1069,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [DTOs yet again](https://victorrentea.ro/blog/control-your-data-structures/)
 
+[Azure Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview).
+
 

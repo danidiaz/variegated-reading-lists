@@ -1071,4 +1071,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Azure Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview).
 
+[Composition over configuration](https://johno.com/composition-over-configuration)
 

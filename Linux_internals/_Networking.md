@@ -72,3 +72,5 @@
 
 [Writing a toy traceroute from scratch](https://news.ycombinator.com/item?id=30140380)
 
+[ephemeral ports](https://news.ycombinator.com/item?id=30181710)
+

@@ -712,7 +712,6 @@ GOTO 19 [ "Good Enough" Architecture ](https://www.youtube.com/watch?v=PzEox3sze
 >           .collect(Collectors.toList());
 >     }
 
-
 [service layer (old)](https://martinfowler.com/eaaCatalog/serviceLayer.html)
 
 > Enterprise applications typically require different kinds of interfaces to the data they store and the logic they implement: data loaders, user interfaces, integration gateways, and others. Despite their different purposes, these interfaces often need common interactions with the application to access and manipulate its data and invoke its business logic. The interactions may be complex, involv-ing transactions across multiple resources and the coordination of several responses to an action. Encoding the logic of the interactions separately in each interface causes a lot of duplication.
@@ -1067,5 +1066,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 [getting your data models wrong leads to awful user outcomes](https://twitter.com/JorgeO/status/1483213537254117384)
 
 [UK COVID-19 dashboard built using Postgres and Citus for millions of users](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/uk-covid-19-dashboard-built-using-postgres-and-citus-for/ba-p/3036276)
+
+[DTOs yet again](https://victorrentea.ro/blog/control-your-data-structures/)
 
 

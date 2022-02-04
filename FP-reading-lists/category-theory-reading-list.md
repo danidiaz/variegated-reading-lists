@@ -217,6 +217,8 @@ can be technically very difficult.
 
 [Andrzej Filinksi’s master’s thesis, Declarative Continuations and Categorical Duality](https://twitter.com/rob_rix/status/1413126381857353729). [pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.43.8729&rep=rep1&type=pdf)
 
+[A summary of categorical structures in Poly](https://twitter.com/_julesh_/status/1488834515124506626). 
+
 ## slides
 
 [Codensity and the ultrafilter monad](http://www.maths.ed.ac.uk/~tl/sydney/sydney_talk.pdf)

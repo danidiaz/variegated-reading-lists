@@ -325,6 +325,8 @@ only run it when something bad happens to prevent any one thing to be a single p
 
 > This algorithm requires a lot of messages.
 
+[retries are bad](https://twitter.com/MarcJBrooker/status/1489651911640825858)
+
 # Slides
 
 [Distributed systems course](https://roxanageambasu.github.io/ds-class//assets/lectures/lecture17.pdf)

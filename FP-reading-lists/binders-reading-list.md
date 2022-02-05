@@ -298,6 +298,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 > I introduce naïve substitution first, then explain CAsubst later when making out-of-order reductions ("refactorings", contextual equivalence, etc).
 
+[Categorical semantics of functional type theory with explicit substitutions, formalized in Agda](https://twitter.com/elpin1al/status/1489886363826946055)
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

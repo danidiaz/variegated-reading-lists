@@ -149,6 +149,8 @@ attempt to make equality reasonable again.”
 
 [a type checker for ott](https://twitter.com/bentnib/status/1488268744904556545)
 
+[languages without definitional equality](https://twitter.com/asajeffrey/status/1489614574240387084)
+
 ## Proof assistants
 
 [Proof Automation class](https://twitter.com/TaliaRinger/status/1464752844179918850). [QED at Large: A Survey of Engineering of Formally Verified Software](https://dependenttyp.es/pdf/QEDatLarge.pdf).

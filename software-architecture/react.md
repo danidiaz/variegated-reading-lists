@@ -320,3 +320,5 @@ https://react-query.tanstack.com/
 
 [Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://news.ycombinator.com/item?id=29319034)
 
+[Hypermedia-Driven Application (HDA) architecture](https://twitter.com/htmx_org/status/1490333129000697856)
+

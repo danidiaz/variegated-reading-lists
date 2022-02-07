@@ -197,4 +197,10 @@ Stuff about the heap:
 
 > unlifted objects cannot be evaluated, and therefore have no entry code.
 
+[generated code](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/compiler/generated-code)
+
+> The closure will store a pointer to x's closure (as it is a free variable of the lambda), along with a pointer to an info table.  That info table will contain information relevant to a function value, recording information such as the fact that it has an arity of 1 (i.e. the binding for y), and the pointer to the entry code for the function \y -> y + x itself. This entry code will implement the addition by combining the closure for the free variable x (taken from the closure) with the stack-passed y variable's closure.
+
+[code gen](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/compiler/code-gen)
+
 

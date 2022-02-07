@@ -203,4 +203,5 @@ Stuff about the heap:
 
 [code gen](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/compiler/code-gen)
 
+[A Haskell Compiler](https://www.scs.stanford.edu/16wi-cs240h/slides/ghc-compiler.html)
 

@@ -82,4 +82,6 @@
 
 [not the same person](https://news.ycombinator.com/item?id=30150343)
 
+[managing people](https://news.ycombinator.com/item?id=30240428)
+
 

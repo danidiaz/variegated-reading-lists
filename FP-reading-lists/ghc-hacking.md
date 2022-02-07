@@ -191,3 +191,10 @@ Stuff about the heap:
 
 [Christmas story](https://github.com/zw3rk/mobile-core-log/blob/master/LOG.md)
 
+[CAFs](https://wiki.haskell.org/Constant_applicative_form) and [PAPs](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/rts/storage/heap-objects). [internal error: PAP object entered!](https://gitlab.haskell.org/ghc/ghc/-/issues/16066)
+
+> for a Partial Application (PAP), there's no entry code. These can only be applied to more arguments using the generic apply functions, as for functions.
+
+> unlifted objects cannot be evaluated, and therefore have no entry code.
+
+

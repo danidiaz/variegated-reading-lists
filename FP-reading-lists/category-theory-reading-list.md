@@ -802,6 +802,8 @@ F at the object of interest, X.
 
 [a coend over all matrices c m n](https://twitter.com/BartoszMilewski/status/1465030657923371010)
 
+[Every Distributive is Representable](https://discourse.haskell.org/t/blog-every-distributive-is-representable/4043).
+
 # tools
 
 [High-assurance data integration with mathematical rigor](http://catinf.com/)

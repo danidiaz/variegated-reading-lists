@@ -219,6 +219,8 @@ can be technically very difficult.
 
 [A summary of categorical structures in Poly](https://twitter.com/_julesh_/status/1488834515124506626). 
 
+[Monoidal streams for dataflow programming](https://twitter.com/_julesh_/status/1490653849807470595)
+
 ## slides
 
 [Codensity and the ultrafilter monad](http://www.maths.ed.ac.uk/~tl/sydney/sydney_talk.pdf)
@@ -356,7 +358,7 @@ to be aware of the coherent witness-manipulation problem
 
 [Polynomial Functors: A General Theory of Interaction ](https://twitter.com/lysxia/status/1480287972360609796)
 
-
+[Elements of ∞-Category Theory](https://twitter.com/HigherGeometer/status/1491216356792217603)
 
 ## videos
 
@@ -387,6 +389,8 @@ to be aware of the coherent witness-manipulation problem
 [selective applicative functors](https://www.youtube.com/watch?v=7vruj4gj38Q)
 
 [Polynomial functors II: Seven wonders of the composition product](https://www.youtube.com/watch?v=3AOGDTr1zrY)
+
+
 
 ## videos
 
@@ -437,7 +441,9 @@ to be aware of the coherent witness-manipulation problem
 
 [Hasochistic Containers ](https://twitter.com/sf_haskell/status/1487848535554859010)
 
-[optics and FulList](https://discourse.haskell.org/t/how-do-i-explain-optics/3986/4)
+[optics and FunList](https://discourse.haskell.org/t/how-do-i-explain-optics/3986/4)
+
+[Introduction to Profunctor Optics](https://www.youtube.com/watch?v=3HIJCibf8Qc)
 
 ## posts
 
@@ -716,6 +722,8 @@ F at the object of interest, X.
 [Lenses to the left of me, Prisms to the right](https://twitter.com/bgavran3/status/1479751677402042368)
 
 [Displayed categories from functors](https://www.jonmsterling.com/math/lectures/categorical-foundations-2.html#displayed-cats-from-functors)
+
+[fields are badly behaved](https://twitter.com/_julesh_/status/1489245292725637124). [There's no monad whose algebras are fields, since the category of fields sucks](https://twitter.com/johncarlosbaez/status/1488975005438279680). [R-modules and slice cateogries](https://twitter.com/ProfKinyon/status/1491237606906294273).
 
 # courses
 

@@ -151,7 +151,11 @@ attempt to make equality reasonable again.”
 
 [languages without definitional equality](https://twitter.com/asajeffrey/status/1489614574240387084)
 
+[What exactly is the semantic difference between set and type?](https://cs.stackexchange.com/questions/91330/what-exactly-is-the-semantic-difference-between-set-and-type/91345#91345). [tweet](https://twitter.com/andrejbauer/status/1490802526467375111).
+
 ## Proof assistants
+
+[Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)
 
 [Proof Automation class](https://twitter.com/TaliaRinger/status/1464752844179918850). [QED at Large: A Survey of Engineering of Formally Verified Software](https://dependenttyp.es/pdf/QEDatLarge.pdf).
 

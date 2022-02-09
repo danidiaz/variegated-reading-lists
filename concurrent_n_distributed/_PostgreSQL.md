@@ -181,3 +181,5 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Tips for a Healthier Postgres Database](https://news.ycombinator.com/item?id=29858083)
 
+[The world of PostgreSQL wire compatibility](https://datastation.multiprocess.io/blog/2022-02-08-the-world-of-postgresql-wire-compatibility.html) 
+

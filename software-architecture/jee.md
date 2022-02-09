@@ -253,4 +253,10 @@
 
 [Java REST API Framework Comparison - PWX 2021](https://speakerdeck.com/mraible/java-rest-api-framework-comparison-pwx-2021)
 
+[using DTOs for #JPA entities with @GetMapStruct requires synchronizing default values and #validation settings for all fields.](https://twitter.com/JPABuddy/status/1491339638715592705)
+
+[java Swagger custom validation](https://www.baeldung.com/java-swagger-custom-validation). [generated validation annotations](https://guntherrotsch.github.io/blog_2020/openapi-bean-validation.html).
+
+
+
 

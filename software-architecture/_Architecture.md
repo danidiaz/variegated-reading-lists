@@ -1073,3 +1073,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Composition over configuration](https://johno.com/composition-over-configuration)
 
+[There's No Reason to Write OpenAPI By Hand](https://apisyouwonthate.com/blog/theres-no-reason-to-write-openapi-by-hand)
+
+

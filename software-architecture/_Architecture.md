@@ -1075,4 +1075,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [There's No Reason to Write OpenAPI By Hand](https://apisyouwonthate.com/blog/theres-no-reason-to-write-openapi-by-hand)
 
+[API Design: Don’t expose your JPA entities in your REST API](https://www.youtube.com/watch?v=1O3FyRxDvLY). [post](https://thorben-janssen.com/dont-expose-entities-in-api/). [another post](https://thorben-janssen.com/dont-expose-entities-in-api/).
+
 

@@ -133,4 +133,5 @@
 
 [MIT 6.S081 – Operating System Engineering](https://news.ycombinator.com/item?id=30094376)
 
+[Landing a new syscall, part 1: What is futex?](https://news.ycombinator.com/item?id=30271902)
 

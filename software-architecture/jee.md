@@ -257,6 +257,10 @@
 
 [java Swagger custom validation](https://www.baeldung.com/java-swagger-custom-validation). [generated validation annotations](https://guntherrotsch.github.io/blog_2020/openapi-bean-validation.html).
 
+[custom validation with Swagger codegen](https://www.baeldung.com/java-swagger-custom-validation)
+
+[OpenAPI generator to spring-boot with custom java validations](https://bartko-mat.medium.com/openapi-generator-to-spring-boot-with-custom-java-validations-623381df9215)
+
 
 
 

@@ -496,6 +496,8 @@
 
 [The Power of Invisible Choices](https://www.youtube.com/watch?v=6HZuSzlN2eI)
 
+[Simutrans](https://news.ycombinator.com/item?id=30278595)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

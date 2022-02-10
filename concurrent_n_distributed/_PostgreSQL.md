@@ -183,3 +183,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [The world of PostgreSQL wire compatibility](https://datastation.multiprocess.io/blog/2022-02-08-the-world-of-postgresql-wire-compatibility.html) 
 
+[How PostgreSQL stores rows](https://news.ycombinator.com/item?id=30279986)
+
+

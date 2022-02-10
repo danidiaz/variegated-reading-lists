@@ -233,4 +233,4 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 
 [why kubernetes is complex](https://news.ycombinator.com/item?id=30096674)
 
-
+[Lock-In and Multi-Cloud](https://news.ycombinator.com/item?id=30282270)

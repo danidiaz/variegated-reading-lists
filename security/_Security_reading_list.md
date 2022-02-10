@@ -361,3 +361,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [SSH into private machines from anywhere using Cloudflare Tunnel](https://news.ycombinator.com/item?id=30283987)
 
+[Top 10 web hacking techniques of 2021](https://portswigger.net/research/top-10-web-hacking-techniques-of-2021)
+
+

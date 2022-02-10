@@ -153,6 +153,8 @@ attempt to make equality reasonable again.”
 
 [What exactly is the semantic difference between set and type?](https://cs.stackexchange.com/questions/91330/what-exactly-is-the-semantic-difference-between-set-and-type/91345#91345). [tweet](https://twitter.com/andrejbauer/status/1490802526467375111).
 
+[a gentler introduction to the categorical semantics of dependent sum and product types](https://twitter.com/_julesh_/status/1491729306288070660). [on the nose vs up to isomorphism](https://twitter.com/Anarchia45/status/1491732060951785473).
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

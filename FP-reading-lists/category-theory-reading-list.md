@@ -788,6 +788,8 @@ F at the object of interest, X.
 
 [Optics vs Lenses, Operationally](https://www.reddit.com/r/haskell/comments/spjxv4/blog_post_optics_vs_lenses_operationally/)
 
+> Optics reify the notion of the internal state of a bidirectional process
+
 # In Haskell
 
 [Functional Pearl: F for Functor](https://twitter.com/Iceland_jack/status/1461741325498388488)

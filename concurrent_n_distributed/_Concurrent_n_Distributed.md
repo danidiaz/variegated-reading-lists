@@ -327,6 +327,8 @@ only run it when something bad happens to prevent any one thing to be a single p
 
 [retries are bad](https://twitter.com/MarcJBrooker/status/1489651911640825858)
 
+[Testing Distributed Systems](https://news.ycombinator.com/item?id=30296770)
+
 # Slides
 
 [Distributed systems course](https://roxanageambasu.github.io/ds-class//assets/lectures/lecture17.pdf)

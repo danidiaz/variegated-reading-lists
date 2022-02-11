@@ -130,6 +130,8 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [compiler test framework](https://twitter.com/wilbowma/status/1488733730495631364)
 
+[When Behaviour Driven Development Goes WRONG!](https://www.youtube.com/watch?v=YAZr3LsCzn0)
 
+> Confusing UI interactions with behavior.
 
 

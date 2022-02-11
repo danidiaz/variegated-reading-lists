@@ -786,6 +786,8 @@ F at the object of interest, X.
 
 > In mathematics, and especially in category theory, homotopy theory/homotopy type theory and generally in higher category theory, it is common to use “the” more generally for objects/types which are characterized only up to coherent isomorphism/equivalence: Such need not actually be unique, but any two of them are isomorphic or more generally coherently equivalent in an essentially unique way (meaning that the ∞-groupoid of all such objects is contractible).
 
+[Optics vs Lenses, Operationally](https://www.reddit.com/r/haskell/comments/spjxv4/blog_post_optics_vs_lenses_operationally/)
+
 # In Haskell
 
 [Functional Pearl: F for Functor](https://twitter.com/Iceland_jack/status/1461741325498388488)

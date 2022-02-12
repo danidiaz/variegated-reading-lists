@@ -243,6 +243,8 @@ attempt to make equality reasonable again.”
 
 > The English mathematician-philosopher Bertrand Russell gave the following succinct example of this distinction: “To choose one sock from each of infinitely many pairs of socks requires the Axiom of Choice, but for shoes the Axiom is not needed.”
 
+> Bertrand Russell summed it up neatly: "To choose one sock from each of infinitely many pairs of socks requires the Axiom of Choice, but for shoes the Axiom is not needed. His point is that the two socks in a pair are identical in appearance, so, to pick one of them, we have to make an arbitrary choice. For shoes, we can use an explicit rule, such as "always choose the left shoe." Russell specifically mentions infinitely many pairs, because if the number is finite then AC is superfluous: we can pick one member of each pair using the definition of "nonempty" and then repeat the operation finitely many times using the rules of formal logic.
+
 [Does the axiom of choice have any use for finite sets?](https://math.stackexchange.com/questions/1657972/does-the-axiom-of-choice-have-any-use-for-finite-sets)
 
 > Even for (infinite setts of) pairs the axiom of choice is does not follow from ZF if one looks at an infinite collection.

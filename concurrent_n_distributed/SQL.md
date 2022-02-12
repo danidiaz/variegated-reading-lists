@@ -3,3 +3,6 @@
 
 > this video is the start of a series on extended use cases on how to use recursion in SQL
 
+[Generate Unique Group ID's](https://ask.sqlservercentral.com/questions/23637/generate-unique-group-ids.html)
+
+

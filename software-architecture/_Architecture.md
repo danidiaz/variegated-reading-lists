@@ -1077,4 +1077,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [API Design: Don’t expose your JPA entities in your REST API](https://www.youtube.com/watch?v=1O3FyRxDvLY). [post](https://thorben-janssen.com/dont-expose-entities-in-api/). [another post](https://thorben-janssen.com/dont-expose-entities-in-api/).
 
+[I noticed that almost identical UI elements often evolve in completely opposite directions](https://twitter.com/shumovichy/status/1492452330486353923)
+
 

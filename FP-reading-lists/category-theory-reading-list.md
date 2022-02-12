@@ -790,6 +790,8 @@ F at the object of interest, X.
 
 > Optics reify the notion of the internal state of a bidirectional process
 
+[infinity categories are black magic](https://twitter.com/patrickCDEmath/status/1492484059158642692)
+
 # In Haskell
 
 [Functional Pearl: F for Functor](https://twitter.com/Iceland_jack/status/1461741325498388488)

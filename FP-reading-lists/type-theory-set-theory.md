@@ -209,53 +209,6 @@ attempt to make equality reasonable again.”
 
 [What Numbers Could Not Be](https://twitter.com/JDHamkins/status/1483937076148068353)
 
-[Finite axiom of choice: how do you prove it from just ZF?](https://mathoverflow.net/questions/32538/finite-axiom-of-choice-how-do-you-prove-it-from-just-zf)
-
-> when dealing with a finite number of sets you can explicitly write the function in the form of a formula. However, in the infinite case you cannot write this sort of formula (it would require infinitely many quantifiers to mention which element is chosen) and therefore you're in need of a stronger tool that would guarantee the existence of such function
-
-> If we can't explicitly define any particular y, then we won't be able to define any particular choice function either, but the problem doesn't require us to explicitly define a choice function
-
-[Do We Need the Axiom of Choice for Finite Sets?](https://math.stackexchange.com/questions/132717/do-we-need-the-axiom-of-choice-for-finite-sets)
-
-> The matter of the axiom of choice is not to choose among an infinite set, but make an infinity of choice.
-
-> The ability to give a name to some arbitrary element of a nonempty set is known as "existential instantiation". This is an inference rule of the underlying logic, not part of the theory, and so it is included not only in ZFC, but also in ZF, and in appropriate forms it is also included in PA and every other first-order theory. 
-
-> The intuition is that giving a name to an object does not really require "choosing" an object; if we know that there is an element in a set A, and we begin arguing about some "given" element c∈A, we do not have to actually make a choice, we can just reason hypothetically ("what if we knew an element c of A?")
-
-> This reasoning will be sound because A really is nonempty. However, because we don't know which element is chosen, the only properties we know it has are the ones we can prove every element of A has. In particular, we cannot assume that the element we are given is equal to any other object we already have, unless we can prove they are equal. So we need to give a new name that we are not already using for any other object.
-
-> You might be thinking that "choosing" a single element from a set would be an algorithmic operation, but this is just not the case. The nonconstructivity of existential instantiation is a direct consequence of the nonconstructive meaning of ∃ in classical logic. To get a system where you can effectively choose a witness to any true existential statement, you have to move to constructive mathematics, but then the meaning of ∃ changes as well.
-
-> Saying S is not empty, therefore there is an x∈S, does not suffice.
-
-> Ah, but it does suffice! 
-
-> The axiom of choice, as said, allows us to choose from infinitely many sets at once (sometimes even when these sets are finite!). If, however, one only wishes to choose from finitely many sets then this can be done without it. It does not even matter if the sets themselves are finite or not.
-
-[Why is the axiom of choice required for infinite, but not finite, sets?](https://www.quora.com/Why-is-the-axiom-of-choice-required-for-infinite-but-not-finite-sets)
-
-> The axiom of choice is still required to prove that a choice function exists for an infinite family of finite sets. That a choice function exists for a finite family of sets (of whatever size) can be proven in ZF without the axiom of choice.
-
-> For a finite family  R , the axiom of choice is not required, because we can prove by induction that a choice function exists. 
-
-[Why is the Axiom of Choice not needed when the collection of sets is finite?](https://math.stackexchange.com/questions/2167783/why-is-the-axiom-of-choice-not-needed-when-the-collection-of-sets-is-finite)
-
-> The English mathematician-philosopher Bertrand Russell gave the following succinct example of this distinction: “To choose one sock from each of infinitely many pairs of socks requires the Axiom of Choice, but for shoes the Axiom is not needed.”
-
-> Bertrand Russell summed it up neatly: "To choose one sock from each of infinitely many pairs of socks requires the Axiom of Choice, but for shoes the Axiom is not needed. His point is that the two socks in a pair are identical in appearance, so, to pick one of them, we have to make an arbitrary choice. For shoes, we can use an explicit rule, such as "always choose the left shoe." Russell specifically mentions infinitely many pairs, because if the number is finite then AC is superfluous: we can pick one member of each pair using the definition of "nonempty" and then repeat the operation finitely many times using the rules of formal logic.
-
-[Does the axiom of choice have any use for finite sets?](https://math.stackexchange.com/questions/1657972/does-the-axiom-of-choice-have-any-use-for-finite-sets)
-
-> Even for (infinite setts of) pairs the axiom of choice is does not follow from ZF if one looks at an infinite collection.
-
->  If you mean that the family of sets itself is finite, then AC can be proved in ZF by induction, i.e., it is automatic, but this is only true if your background logic is classical. For intuitionistic logic, the axiom of choice can be very powerful even for finite sets. For example, there is a theorem that the axiom of choice implies the law of excluded middle; in this sense the introduction of AC "defeats" the intuitionistic logic and turns the situation into a classical one.
-
-[How do I choose an element from a non-empty set?](https://math.stackexchange.com/questions/85153/how-do-i-choose-an-element-from-a-non-empty-set)
-
-> Inductively we can choose from finitely many sets
-
-> If however you want to choose from infinitely many nonempty sets at once, then you need the axiom of choice
 
 ## large cardinals
 
@@ -347,6 +300,28 @@ attempt to make equality reasonable again.”
 
 > A common misconception is that countable choice has an inductive nature and is therefore provable as a theorem (in ZF, or similar, or even weaker systems) by induction. However, this is not the case; this misconception is the result of confusing countable choice with finite choice for a finite set of size n (for arbitrary n), and it is this latter result (which is an elementary theorem in combinatorics) that is provable by induction. 
 
+> The axiom of choice is a generalization of finiteness. It's related (by, for instance, the compactness theorem in logic, and Tychonoff's theorem in topology) to topological compactness, which is another generalization of finiteness.
+
+> Without the axiom of choice, you can sometimes specify a choice: "Pick the left shoe from each pair." If you can make (read: define) such a specification, you don't need the axiom of choice, because you can point to that specification as your choice.
+
+> In an informal sense, the axiom of choice says you can always take an infinite number of (certain kinds of) steps in finite time. (?)
+
+> But the first ellipsis doesn't actually make sense in logic. No mathematical logic rules allow an infinite number of quantifiers. The axiom of choice sort of says, "That's okay, it still works." 
+
+> On the other hand, you can define the "left shoe" choice with only a finite number of quantifiers.
+
+> we can see the pairing axiom (which asserts that (x,y,z) is a set) doing the work of compressing n existence quantifiers into one.
+
+> I want to make it clear that there is no actual choosing going on here. It is
+> not required that there be any rule to find a particular element of A - they
+> might be "indistinguishable socks" for all we care. It doesn't matter,
+> because *the ambiguity of the original choices has been off-loaded to
+> ambiguity in the output element of A×B×C.*
+
+> The problem with this method is that pairing only works for n=2, or by
+> induction, for finite n. Beyond this we must postulate an axiom or use
+> additional structure in the Ai sets in order to produce choice functions.
+
 [Why is the axiom of choice required for infinite, but not finite, sets?](https://www.quora.com/Why-is-the-axiom-of-choice-required-for-infinite-but-not-finite-sets).
 
 [The axioms of set theory pdf](https://www.dpmms.cam.ac.uk/~tf/axiomsofsettheory.pdf).
@@ -361,18 +336,59 @@ attempt to make equality reasonable again.”
 
 > If all the sets you choose from are the same, then constant choices are choices that you can always make. If all the sets you choose from have a particular structure on all of them (e.g. they are all finite sets of real numbers), then you can choose from them all (e.g. they are all finite sets of real numbers, take the minimal element).
 
-[small infinitary epistemic logics](https://www.waseda.jp/fpse/winpec/assets/uploads/2014/05/No.E1705.pdf).
+[Finite axiom of choice: how do you prove it from just ZF?](https://mathoverflow.net/questions/32538/finite-axiom-of-choice-how-do-you-prove-it-from-just-zf)
 
-> We develop a series of small infinitary epistemic logics to study deductive inference involving
-intra/inter-personal beliefs/knowledge in social situations. In these situations, people’s beliefs
-may include infinitary components such as common knowledge, common beliefs, and infinite
-regress of beliefs.
+> when dealing with a finite number of sets you can explicitly write the function in the form of a formula. However, in the infinite case you cannot write this sort of formula (it would require infinitely many quantifiers to mention which element is chosen) and therefore you're in need of a stronger tool that would guarantee the existence of such function
 
-[IN PRAISE OF REPLACEMENT AKIHIRO KANAMORI](http://math.bu.edu/people/aki/20.pdf).
+> If we can't explicitly define any particular y, then we won't be able to define any particular choice function either, but the problem doesn't require us to explicitly define a choice function
 
-[Set Theory vs. Type Theory](https://twitter.com/Jose_A_Alonso/status/1221158098380955648)
+[Do We Need the Axiom of Choice for Finite Sets?](https://math.stackexchange.com/questions/132717/do-we-need-the-axiom-of-choice-for-finite-sets)
 
-[red prl papers](https://github.com/RedPRL/sml-redprl/blob/bd73932409ddc3479c8ded5ac32ae0d93d31874a/doc/src/index.rst#papers--talks)
+> The matter of the axiom of choice is not to choose among an infinite set, but make an infinity of choice.
+
+> The ability to give a name to some arbitrary element of a nonempty set is known as "existential instantiation". This is an inference rule of the underlying logic, not part of the theory, and so it is included not only in ZFC, but also in ZF, and in appropriate forms it is also included in PA and every other first-order theory. 
+
+> The intuition is that giving a name to an object does not really require "choosing" an object; if we know that there is an element in a set A, and we begin arguing about some "given" element c∈A, we do not have to actually make a choice, we can just reason hypothetically ("what if we knew an element c of A?")
+
+> This reasoning will be sound because A really is nonempty. However, because we don't know which element is chosen, the only properties we know it has are the ones we can prove every element of A has. In particular, we cannot assume that the element we are given is equal to any other object we already have, unless we can prove they are equal. So we need to give a new name that we are not already using for any other object.
+
+> You might be thinking that "choosing" a single element from a set would be an algorithmic operation, but this is just not the case. The nonconstructivity of existential instantiation is a direct consequence of the nonconstructive meaning of ∃ in classical logic. To get a system where you can effectively choose a witness to any true existential statement, you have to move to constructive mathematics, but then the meaning of ∃ changes as well.
+
+> Saying S is not empty, therefore there is an x∈S, does not suffice.
+
+> Ah, but it does suffice! 
+
+> The axiom of choice, as said, allows us to choose from infinitely many sets at once (sometimes even when these sets are finite!). If, however, one only wishes to choose from finitely many sets then this can be done without it. It does not even matter if the sets themselves are finite or not.
+
+[Why is the axiom of choice required for infinite, but not finite, sets?](https://www.quora.com/Why-is-the-axiom-of-choice-required-for-infinite-but-not-finite-sets)
+
+> The axiom of choice is still required to prove that a choice function exists for an infinite family of finite sets. That a choice function exists for a finite family of sets (of whatever size) can be proven in ZF without the axiom of choice.
+
+> For a finite family  R , the axiom of choice is not required, because we can prove by induction that a choice function exists. 
+
+[Why is the Axiom of Choice not needed when the collection of sets is finite?](https://math.stackexchange.com/questions/2167783/why-is-the-axiom-of-choice-not-needed-when-the-collection-of-sets-is-finite)
+
+> The English mathematician-philosopher Bertrand Russell gave the following succinct example of this distinction: “To choose one sock from each of infinitely many pairs of socks requires the Axiom of Choice, but for shoes the Axiom is not needed.”
+
+> Bertrand Russell summed it up neatly: "To choose one sock from each of infinitely many pairs of socks requires the Axiom of Choice, but for shoes the Axiom is not needed. His point is that the two socks in a pair are identical in appearance, so, to pick one of them, we have to make an arbitrary choice. For shoes, we can use an explicit rule, such as "always choose the left shoe." Russell specifically mentions infinitely many pairs, because if the number is finite then AC is superfluous: we can pick one member of each pair using the definition of "nonempty" and then repeat the operation finitely many times using the rules of formal logic.
+
+[Does the axiom of choice have any use for finite sets?](https://math.stackexchange.com/questions/1657972/does-the-axiom-of-choice-have-any-use-for-finite-sets)
+
+> Even for (infinite setts of) pairs the axiom of choice is does not follow from ZF if one looks at an infinite collection.
+
+>  If you mean that the family of sets itself is finite, then AC can be proved in ZF by induction, i.e., it is automatic, but this is only true if your background logic is classical. For intuitionistic logic, the axiom of choice can be very powerful even for finite sets. For example, there is a theorem that the axiom of choice implies the law of excluded middle; in this sense the introduction of AC "defeats" the intuitionistic logic and turns the situation into a classical one.
+
+[How do I choose an element from a non-empty set?](https://math.stackexchange.com/questions/85153/how-do-i-choose-an-element-from-a-non-empty-set)
+
+> Inductively we can choose from finitely many sets
+
+> If however you want to choose from infinitely many nonempty sets at once, then you need the axiom of choice
+
+[An Introduction to the Axiom of Choice](https://people.stfx.ca/ttaylor/M454/2015/ac.pdf)
+
+> The second stage began when mathematicians made an infinite number of choices by stating a rule.
+
+> The third stage is the infinity of choices with the rule left unstated. This most likely began with Cauchy.
 
 ## other
 
@@ -401,6 +417,20 @@ regress of beliefs.
 [A practical type theory for symmetric monoidal categories](https://arxiv.org/pdf/1911.00818.pdf)
 
 [large sets](https://golem.ph.utexas.edu/category/2021/07/large_sets_125.html)
+
+[small infinitary epistemic logics](https://www.waseda.jp/fpse/winpec/assets/uploads/2014/05/No.E1705.pdf).
+
+> We develop a series of small infinitary epistemic logics to study deductive inference involving
+intra/inter-personal beliefs/knowledge in social situations. In these situations, people’s beliefs
+may include infinitary components such as common knowledge, common beliefs, and infinite
+regress of beliefs.
+
+[IN PRAISE OF REPLACEMENT AKIHIRO KANAMORI](http://math.bu.edu/people/aki/20.pdf).
+
+[Set Theory vs. Type Theory](https://twitter.com/Jose_A_Alonso/status/1221158098380955648)
+
+[red prl papers](https://github.com/RedPRL/sml-redprl/blob/bd73932409ddc3479c8ded5ac32ae0d93d31874a/doc/src/index.rst#papers--talks)
+
 
 
 

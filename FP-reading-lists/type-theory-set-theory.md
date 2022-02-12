@@ -209,6 +209,34 @@ attempt to make equality reasonable again.”
 
 [What Numbers Could Not Be](https://twitter.com/JDHamkins/status/1483937076148068353)
 
+[Finite axiom of choice: how do you prove it from just ZF?](https://mathoverflow.net/questions/32538/finite-axiom-of-choice-how-do-you-prove-it-from-just-zf)
+
+> when dealing with a finite number of sets you can explicitly write the function in the form of a formula. However, in the infinite case you cannot write this sort of formula (it would require infinitely many quantifiers to mention which element is chosen) and therefore you're in need of a stronger tool that would guarantee the existence of such function
+
+> If we can't explicitly define any particular y, then we won't be able to define any particular choice function either, but the problem doesn't require us to explicitly define a choice function
+
+[Do We Need the Axiom of Choice for Finite Sets?](https://math.stackexchange.com/questions/132717/do-we-need-the-axiom-of-choice-for-finite-sets)
+
+> The ability to give a name to some arbitrary element of a nonempty set is known as "existential instantiation". This is an inference rule of the underlying logic, not part of the theory, and so it is included not only in ZFC, but also in ZF, and in appropriate forms it is also included in PA and every other first-order theory. 
+
+> The intuition is that giving a name to an object does not really require "choosing" an object; if we know that there is an element in a set A, and we begin arguing about some "given" element c∈A, we do not have to actually make a choice, we can just reason hypothetically ("what if we knew an element c of A?")
+
+> This reasoning will be sound because A really is nonempty. However, because we don't know which element is chosen, the only properties we know it has are the ones we can prove every element of A has. In particular, we cannot assume that the element we are given is equal to any other object we already have, unless we can prove they are equal. So we need to give a new name that we are not already using for any other object.
+
+> You might be thinking that "choosing" a single element from a set would be an algorithmic operation, but this is just not the case. The nonconstructivity of existential instantiation is a direct consequence of the nonconstructive meaning of ∃ in classical logic. To get a system where you can effectively choose a witness to any true existential statement, you have to move to constructive mathematics, but then the meaning of ∃ changes as well.
+
+> Saying S is not empty, therefore there is an x∈S, does not suffice.
+
+> Ah, but it does suffice! 
+
+> The axiom of choice, as said, allows us to choose from infinitely many sets at once (sometimes even when these sets are finite!). If, however, one only wishes to choose from finitely many sets then this can be done without it. It does not even matter if the sets themselves are finite or not.
+
+[Why is the axiom of choice required for infinite, but not finite, sets?](https://www.quora.com/Why-is-the-axiom-of-choice-required-for-infinite-but-not-finite-sets)
+
+> The axiom of choice is still required to prove that a choice function exists for an infinite family of finite sets. That a choice function exists for a finite family of sets (of whatever size) can be proven in ZF without the axiom of choice.
+
+> For a finite family  R , the axiom of choice is not required, because we can prove by induction that a choice function exists. 
+
 ## large cardinals
 
 [How should a “working mathematician” think about sets?](https://mathoverflow.net/questions/255820/how-should-a-working-mathematician-think-about-sets-zfc-category-theory-ur). [In what respect are univalent foundations “better” than set theory?](https://mathoverflow.net/questions/286874/in-what-respect-are-univalent-foundations-better-than-set-theory). [ZFC Set Theory and the Category of Sets](https://www.cs.auckland.ac.nz/~nies/Students/BroomeSetTheory2008.pdf). [Axiom of infinity](https://math.stackexchange.com/questions/1472339/proving-infinity-vs-axiom-of-infinity/2014493). [Is there any set theory without something like the Axiom Schema of Separation?](https://math.stackexchange.com/questions/1193067/is-there-any-set-theory-without-something-like-the-axiom-schema-of-separation?rq=1). [Why is the powerset axiom more acceptable than the axiom of choice?](https://math.stackexchange.com/questions/904522/why-is-the-powerset-axiom-more-acceptable-than-the-axiom-of-choice?rq=1). [Is the axiom of universes 'harmless'?](https://math.stackexchange.com/questions/79343/is-the-axiom-of-universes-harmless?rq=1). [WHAT IS THE THEORY ZFC WITHOUT POWER SET?](https://arxiv.org/pdf/1110.2430v1.pdf). [Reasons to believe Vopenka's principle](https://mathoverflow.net/questions/29302/reasons-to-believe-vopenkas-principle-huge-cardinals-are-consistent/29310#29310) interesting answer. [Are there any large cardinals that are inconsistent with ZF?](https://philosophy.stackexchange.com/questions/10664/are-there-any-large-cardinals-that-are-inconsistent-with-zf). [Ultrafilters VII: Large Cardinals](https://pointatinfinityblog.wordpress.com/2016/07/14/ultrafilters-vii-large-cardinals/).

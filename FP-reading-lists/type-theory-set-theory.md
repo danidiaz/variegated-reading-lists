@@ -239,6 +239,10 @@ attempt to make equality reasonable again.”
 
 > For a finite family  R , the axiom of choice is not required, because we can prove by induction that a choice function exists. 
 
+[Why is the Axiom of Choice not needed when the collection of sets is finite?](https://math.stackexchange.com/questions/2167783/why-is-the-axiom-of-choice-not-needed-when-the-collection-of-sets-is-finite)
+
+> The English mathematician-philosopher Bertrand Russell gave the following succinct example of this distinction: “To choose one sock from each of infinitely many pairs of socks requires the Axiom of Choice, but for shoes the Axiom is not needed.”
+
 [Does the axiom of choice have any use for finite sets?](https://math.stackexchange.com/questions/1657972/does-the-axiom-of-choice-have-any-use-for-finite-sets)
 
 > Even for (infinite setts of) pairs the axiom of choice is does not follow from ZF if one looks at an infinite collection.

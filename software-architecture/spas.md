@@ -12,3 +12,5 @@
 
 [reinventing the browser](https://twitter.com/garybernhardt/status/1240024841895305216)
 
+[Server-Sent Events: the alternative to WebSockets you should be using](https://news.ycombinator.com/item?id=30312897)
+

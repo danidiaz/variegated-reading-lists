@@ -217,6 +217,8 @@ attempt to make equality reasonable again.”
 
 [Do We Need the Axiom of Choice for Finite Sets?](https://math.stackexchange.com/questions/132717/do-we-need-the-axiom-of-choice-for-finite-sets)
 
+> The matter of the axiom of choice is not to choose among an infinite set, but make an infinity of choice.
+
 > The ability to give a name to some arbitrary element of a nonempty set is known as "existential instantiation". This is an inference rule of the underlying logic, not part of the theory, and so it is included not only in ZFC, but also in ZF, and in appropriate forms it is also included in PA and every other first-order theory. 
 
 > The intuition is that giving a name to an object does not really require "choosing" an object; if we know that there is an element in a set A, and we begin arguing about some "given" element c∈A, we do not have to actually make a choice, we can just reason hypothetically ("what if we knew an element c of A?")
@@ -242,6 +244,12 @@ attempt to make equality reasonable again.”
 > Even for (infinite setts of) pairs the axiom of choice is does not follow from ZF if one looks at an infinite collection.
 
 >  If you mean that the family of sets itself is finite, then AC can be proved in ZF by induction, i.e., it is automatic, but this is only true if your background logic is classical. For intuitionistic logic, the axiom of choice can be very powerful even for finite sets. For example, there is a theorem that the axiom of choice implies the law of excluded middle; in this sense the introduction of AC "defeats" the intuitionistic logic and turns the situation into a classical one.
+
+[How do I choose an element from a non-empty set?](https://math.stackexchange.com/questions/85153/how-do-i-choose-an-element-from-a-non-empty-set)
+
+> Inductively we can choose from finitely many sets
+
+> If however you want to choose from infinitely many nonempty sets at once, then you need the axiom of choice
 
 ## large cardinals
 

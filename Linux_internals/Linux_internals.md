@@ -135,3 +135,6 @@
 
 [Landing a new syscall, part 1: What is futex?](https://news.ycombinator.com/item?id=30271902)
 
+[Restartable Sequences in Glibc 2.35](https://news.ycombinator.com/item?id=30285032)
+
+

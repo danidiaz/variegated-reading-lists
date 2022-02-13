@@ -5,4 +5,6 @@
 
 [Generate Unique Group ID's](https://ask.sqlservercentral.com/questions/23637/generate-unique-group-ids.html)
 
+[Map EER to relational (weak entities, relationships, inheritance)](https://www.youtube.com/watch?v=Mvsy6LmKPtg)
+
 

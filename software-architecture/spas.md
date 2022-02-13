@@ -39,3 +39,5 @@
 
 [How modern browsers work](https://twitter.com/addyosmani/status/1492398000500404227)
 
+[Easiest way to build a CRUD app?](https://news.ycombinator.com/item?id=30320837)
+

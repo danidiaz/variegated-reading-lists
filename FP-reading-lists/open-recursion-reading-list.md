@@ -51,3 +51,6 @@ perform “deep” instrumentation of the interpreter
 
 [Monadic Memoization Mixins](https://www.cs.utexas.edu/~wcook/Drafts/2006/MemoMixins.pdf). [monad-memo: Memoization monad transformer](https://hackage.haskell.org/package/monad-memo).
 
+[simulate mutual recursion with Higher-Order Functions + fix combinator](https://twitter.com/ChShersh/status/1492812492757778435)
+
+

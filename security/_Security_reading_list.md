@@ -363,4 +363,16 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Top 10 web hacking techniques of 2021](https://portswigger.net/research/top-10-web-hacking-techniques-of-2021)
 
+[OAuth Code Flow](https://curity.io/resources/learn/oauth-code-flow/). Seems like there's lots of good info here.
+
+[The Token Handler Pattern for Single Page Applications](https://curity.io/resources/learn/the-token-handler-pattern/)
+
+[COMPARING THE BACKEND FOR FRONTEND (BFF) SECURITY ARCHITECTURE WITH AN SPA UI USING A PUBLIC API](https://damienbod.com/2022/01/10/comparing-the-backend-for-frontend-bff-security-architecture-with-an-spa-ui-using-a-public-api/)
+
+[Web App Security, Understanding the Meaning of the BFF Pattern](https://dev.to/damikun/web-app-security-understanding-the-meaning-of-the-bff-pattern-i85)
+
+[Backend For Frontend Authentication Pattern with Auth0 and ASP.NET Core](https://auth0.com/blog/backend-for-frontend-pattern-with-auth0-and-dotnet/)
+
+[JWT Architecture for Modern Apps](https://levelup.gitconnected.com/secure-jwts-with-backend-for-frontend-9b7611ad2afb)
+
 

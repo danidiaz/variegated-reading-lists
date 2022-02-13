@@ -179,6 +179,8 @@ attempt to make equality reasonable again.”
 
 [pattern matching / inducting over equality proofs](https://twitter.com/agdakx/status/1487475588462002182). [Types in GADT constructors are unified to translate "this is the same type" into explicit equality assumptions](https://twitter.com/plt_amy/status/1487478865832337418).
 
+[WITS 2022](https://www.youtube.com/playlist?list=PLyrlk8Xaylp7R6HqlECu2RGbZUZQofo8e)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

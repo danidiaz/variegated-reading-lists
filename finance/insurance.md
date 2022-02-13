@@ -23,7 +23,7 @@
 
 [Insurance 101: Insurance Agents vs. Insurance Brokers vs. Insurance Producers](https://agentsync.io/articles/insurance-101-insurance-agents-vs-insurance-brokers-vs-insurance-producers)
 
-[Disrupting insurance](https://foreignpolicy.com/2022/01/28/russia-ukraine-insurance-black-sea-economy-war/).
+[Disrupting insurance](https://foreignpolicy.com/2022/01/28/russia-ukraine-insurance-black-sea-economy-war/). [disrupting flight insurance](https://twitter.com/carlbildt/status/1492914701877104645).
 
 ## History 
 

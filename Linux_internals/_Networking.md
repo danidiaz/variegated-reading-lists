@@ -74,3 +74,6 @@
 
 [ephemeral ports](https://news.ycombinator.com/item?id=30181710)
 
+[What does it mean to listen on a port?](https://news.ycombinator.com/item?id=30323865)
+
+

@@ -261,6 +261,8 @@
 
 [OpenAPI generator to spring-boot with custom java validations](https://bartko-mat.medium.com/openapi-generator-to-spring-boot-with-custom-java-validations-623381df9215)
 
+[comparing dates with times](https://news.ycombinator.com/item?id=30315984)
+
 
 
 

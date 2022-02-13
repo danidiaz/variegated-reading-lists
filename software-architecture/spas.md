@@ -14,3 +14,7 @@
 
 [Server-Sent Events: the alternative to WebSockets you should be using](https://news.ycombinator.com/item?id=30312897)
 
+[CORS is not meant to secure an API endpoint](https://news.ycombinator.com/item?id=30320113)
+
+[How modern browsers work](https://twitter.com/addyosmani/status/1492398000500404227)
+

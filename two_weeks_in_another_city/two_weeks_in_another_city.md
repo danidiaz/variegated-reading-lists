@@ -496,7 +496,7 @@
 
 [The Power of Invisible Choices](https://www.youtube.com/watch?v=6HZuSzlN2eI)
 
-[Simutrans](https://news.ycombinator.com/item?id=30278595)
+[Simutrans](https://news.ycombinator.com/item?id=30278595). [traffic simulator](https://news.ycombinator.com/item?id=30318025).
 
 ## Quotes
 

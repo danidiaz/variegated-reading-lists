@@ -390,6 +390,10 @@ attempt to make equality reasonable again.”
 
 > The third stage is the infinity of choices with the rule left unstated. This most likely began with Cauchy.
 
+[Transfinite Induction and the Axiom of Choice](https://math.stackexchange.com/questions/7065/transfinite-induction-and-the-axiom-of-choice)
+
+> just because something holds for all natural numbers n doesn't mean that it holds for the set N of natural numbers itself 
+
 ## other
 
 [nonstandard models of arithmetic](https://golem.ph.utexas.edu/category/2019/06/nonstandard_models_of_arithmet_1.html)

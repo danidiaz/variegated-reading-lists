@@ -375,4 +375,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [JWT Architecture for Modern Apps](https://levelup.gitconnected.com/secure-jwts-with-backend-for-frontend-9b7611ad2afb)
 
+[avoid exposing OAuth 2.0 tokens to the browser, where security is significantly harder than on the server-side... State between the SPA and the BFF can be handled with a cookie.](https://twitter.com/philippederyck/status/1271327829288837121?lang=en)
+
 

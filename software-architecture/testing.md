@@ -134,4 +134,5 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 > Confusing UI interactions with behavior.
 
+[file-driven testing in Go](https://lobste.rs/s/sgk1nn/file_driven_testing_go)
 

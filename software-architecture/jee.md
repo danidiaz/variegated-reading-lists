@@ -263,6 +263,6 @@
 
 [comparing dates with times](https://news.ycombinator.com/item?id=30315984)
 
-
+[Serialize Debezium events with Apache Avro and OpenShift Service Registry](https://twitter.com/CertDepot/status/1493211745279692804)
 
 

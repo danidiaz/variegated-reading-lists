@@ -812,6 +812,8 @@ F at the object of interest, X.
 
 [chatbots as arrows](https://www.reddit.com/r/haskell/comments/ssfln3/how_to_design_a_chat_bot/). [analyses as arrows](https://www.reddit.com/r/haskell/comments/ssl5ty/analyses_are_arrows/).
 
+>  In fact, this is the "terminal" OldBot
+
 # tools
 
 [High-assurance data integration with mathematical rigor](http://catinf.com/)

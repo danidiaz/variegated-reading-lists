@@ -7,4 +7,5 @@
 
 [Map EER to relational (weak entities, relationships, inheritance)](https://www.youtube.com/watch?v=Mvsy6LmKPtg)
 
+[N + 1 problem](https://twitter.com/lukaseder/status/1493504945810817024)
 

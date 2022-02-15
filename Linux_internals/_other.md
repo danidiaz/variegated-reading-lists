@@ -8,3 +8,5 @@
 
 [Saving a Third of Our Memory by Re-ordering Go Struct Fields](https://lobste.rs/s/oxtpfw/saving_third_our_memory_by_re_ordering_go)
 
+[Using Device Tree Overlays, Example on BeagleBone Boards](https://news.ycombinator.com/item?id=30342948)
+

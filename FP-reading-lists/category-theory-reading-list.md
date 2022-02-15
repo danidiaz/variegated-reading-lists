@@ -810,6 +810,8 @@ F at the object of interest, X.
 
 [Every Distributive is Representable](https://discourse.haskell.org/t/blog-every-distributive-is-representable/4043).
 
+[chatbots as arrows](https://www.reddit.com/r/haskell/comments/ssfln3/how_to_design_a_chat_bot/). [analyses as arrows](https://www.reddit.com/r/haskell/comments/ssl5ty/analyses_are_arrows/).
+
 # tools
 
 [High-assurance data integration with mathematical rigor](http://catinf.com/)

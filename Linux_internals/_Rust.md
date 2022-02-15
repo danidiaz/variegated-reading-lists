@@ -116,4 +116,7 @@
 
 [prefix sum with SIMD](https://news.ycombinator.com/item?id=30311112)
 
+[JITted, statically-typed AWK written in Rust](https://news.ycombinator.com/item?id=30343373)
+
+
 

@@ -1079,4 +1079,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [I noticed that almost identical UI elements often evolve in completely opposite directions](https://twitter.com/shumovichy/status/1492452330486353923)
 
+[Architecture Advice Process](https://twitter.com/ThomasBetts/status/1493588507394142216)
+
 

@@ -300,6 +300,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [Categorical semantics of functional type theory with explicit substitutions, formalized in Agda](https://twitter.com/elpin1al/status/1489886363826946055)
 
+[Using Circular Programs for Higher-Order Syntax](https://twitter.com/Iceland_jack/status/1493995166302146560)
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

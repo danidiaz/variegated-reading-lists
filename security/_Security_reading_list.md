@@ -377,4 +377,10 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [avoid exposing OAuth 2.0 tokens to the browser, where security is significantly harder than on the server-side... State between the SPA and the BFF can be handled with a cookie.](https://twitter.com/philippederyck/status/1271327829288837121?lang=en)
 
+[Using www-authenticate for user authentication](https://news.ycombinator.com/item?id=30385666)
+
+> Funny that old things like basic HTTP auth are regularly rediscovered by developers.
+
+[One-time password](https://en.wikipedia.org/wiki/One-time_password). [What is a One-Time Password (OTP)?](https://www.okta.com/blog/2020/06/what-is-a-one-time-password-otp/). [YubiKey](https://en.wikipedia.org/wiki/YubiKey).
+
 

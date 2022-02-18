@@ -381,7 +381,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > Funny that old things like basic HTTP auth are regularly rediscovered by developers.
 
-[One-time password](https://en.wikipedia.org/wiki/One-time_password). [What is a One-Time Password (OTP)?](https://www.okta.com/blog/2020/06/what-is-a-one-time-password-otp/). [YubiKey](https://en.wikipedia.org/wiki/YubiKey).
+[One-time password](https://en.wikipedia.org/wiki/One-time_password). [What is a One-Time Password (OTP)?](https://www.okta.com/blog/2020/06/what-is-a-one-time-password-otp/). [OTP, HOTP and TOTP](https://doubleoctopus.com/security-wiki/authentication/otp-totp-hotp/). [YubiKey](https://en.wikipedia.org/wiki/YubiKey).
 
 [Is there a way to create time based OTP with public/private key](https://security.stackexchange.com/questions/160273/is-there-a-way-to-create-time-based-otp-with-public-private-key)
 
@@ -395,4 +395,11 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 [HMAC-based one-time password](https://en.wikipedia.org/wiki/HMAC-based_one-time_password).
 
 > HOTP stands for “HMAC-Based One-Time Password”. This algorithm was published as RFC4226 by the Internet Engineering Task Force (IETF). HOTP defines an algorithm to create a one time password from a secret key and a counter.
+
+[One-Time Passwords (OTP) - Example](https://cryptobook.nakov.com/more-cryptographic-concepts/one-time-passwords-otp-example)
+
+> We need to create a base32 secret which has to be shared between the authentication server and the client. 
+
+> You can install Google Authenticator from  or  and scan the QR code below
+
 

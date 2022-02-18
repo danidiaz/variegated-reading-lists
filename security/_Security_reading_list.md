@@ -402,4 +402,14 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > You can install Google Authenticator from  or  and scan the QR code below
 
+[one-time passwords do not provide non-repudiation](https://techblog.bozho.net/one-time-passwords-do-not-provide-non-repudiation/)
+
+> OTP, or one-time password, used to be mainstream with online banking. You get a dedicated device that generates a 6-digit code which you enter into your online banking in order to login or confirm a transaction. The device (token) is airgapped (with no internet connection), and has a preinstalled secret key that cannot be leaked. This key is symmetric and is used to (depending on the algorithm used) encrypt the current time, strip most of the ciphertext and turn the rest into 6 digits. The server owns the same secret key, does the same operation and compares the resulting 6 digits with the ones provided. If you want a more precise description of (T)OTP – check wikipedia. Of course, there are the SMS OTPs, but they are discouraged and insecure, so I won’t discuss them.
+
+> Hardware tokens are going out of fashion and are being replaced by mobile apps that are much easier to use and still represent a hardware device. There is one major difference, though – the phone is connected to the internet, which introduces additional security risks. But if we try to ignore them, then it’s fine to have the secret key on a smartphone, especially if it supports secure per-app storage, not accessible by 3rd party apps, or even hardware security module with encryption support, which the latest ones do.
+
+> Software “tokens” (mobile apps) often rely on OTPs as well, even though they don’t display the code to the user. This makes little sense, as OTPs are short precisely because people need to enter them. If you send an OTP via a RESTful API, why not just send the whole ciphertext? Or better – do a digital signature on a server-provided challenge.
+
+> But why bother with all of that if you have a mobile app with internet connection? You can just create a digital signature on a unique per-transaction challenge and you get proper non-repudiation. The phone can generate a private key on enrollment and send its public key to the server, which can later be used to verify the signature. You don’t have the bandwidth limitation of the human brain that lead to the requirement of 6 digits, so the signature length can be arbitrarily long (even GPRS can handle digital signatures).
+
 

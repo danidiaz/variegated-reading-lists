@@ -424,4 +424,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > nextAuth has the same advantages and none of shortcomings of OTPs over passwords. nextAuth uses public key cryptography, where the server has public keys and the mobile the corresponding private keys. 
 
+[What is the risk and mitigation of accidentally typing a YubiKey password in an open forum?](https://security.stackexchange.com/questions/30891/what-is-the-risk-and-mitigation-of-accidentally-typing-a-yubikey-password-in-an)
+
 

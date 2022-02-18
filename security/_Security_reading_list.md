@@ -432,4 +432,16 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > I am at my friend's place and I get an alert on my phone that someone wired some money out of my bank account! I need to login to my bank's site to check whats up. But, my public key/cert is in my computer and I have not registered to the bank using my friend's machine. Or I forgot to carry my Yubikeys with me. Now what do I do to quickly login?
 
+[WebAuthn](https://webauthn.guide/)
 
+> The Web Authentication API (also known as WebAuthn) is a specification written by the W3C and FIDO, with the participation of Google, Mozilla, Microsoft, Yubico, and others. The API allows servers to register and authenticate users using *public key cryptography* instead of a password.
+
+> It allows servers to integrate with the strong authenticators now built into devices, like Windows Hello or Apple’s Touch ID. Instead of a password, a private-public keypair (known as a credential) is created for a website. The private key is stored securely on the user’s device; a public key and randomly generated credential ID is sent to the server for storage. The server can then use that public key to prove the user’s identity.
+
+> The public key is not secret, because it is effectively useless without the corresponding private key. The fact that the server receives no secret has far-reaching implications for the security of users and organizations. Databases are no longer as attractive to hackers, because the public keys aren’t useful to them.
+
+[Web Authentication: An API for accessing Public Key Credentials Level 2](https://www.w3.org/TR/webauthn-2/)
+
+[How to use FIDO2 USB authenticators with SSH](https://www.stavros.io/posts/u2f-fido2-with-ssh/). [FIDO vs SSH](https://news.ycombinator.com/item?id=19520672). [On ubuntu](https://ubuntu.com/blog/enhanced-ssh-and-fido-authentication-in-ubuntu-20-04-lts).
+
+> One of the most exciting security enhancements in Ubuntu 20.04 LTS (Focal Fossa) is the ability to use the Fast Identity Online (FIDO) or Universal 2nd Factor (U2F) devices with SSH.

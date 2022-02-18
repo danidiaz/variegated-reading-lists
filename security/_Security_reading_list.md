@@ -383,4 +383,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [One-time password](https://en.wikipedia.org/wiki/One-time_password). [What is a One-Time Password (OTP)?](https://www.okta.com/blog/2020/06/what-is-a-one-time-password-otp/). [YubiKey](https://en.wikipedia.org/wiki/YubiKey).
 
+[Is there a way to create time based OTP with public/private key](https://security.stackexchange.com/questions/160273/is-there-a-way-to-create-time-based-otp-with-public-private-key)
+
+> In case you are talking about a One Time Password there is a simple reason, why TOTP-Algorithms are using a symmetric key on the client/device and the server side.
+
 

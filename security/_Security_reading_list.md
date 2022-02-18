@@ -426,4 +426,10 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [What is the risk and mitigation of accidentally typing a YubiKey password in an open forum?](https://security.stackexchange.com/questions/30891/what-is-the-risk-and-mitigation-of-accidentally-typing-a-yubikey-password-in-an)
 
+[Why is Webauthn not used as primary authentication method?](https://security.stackexchange.com/questions/245419/why-is-webauthn-not-used-as-primary-authentication-method)
+
+> In theory, authenticating with a public key should be much simpler than with a password. There is nothing to remember for the end-user, and registration can be done just by clicking a button. For all intents and purposes, this should be much more user-friendly than a traditional password-based authentication.
+
+> I am at my friend's place and I get an alert on my phone that someone wired some money out of my bank account! I need to login to my bank's site to check whats up. But, my public key/cert is in my computer and I have not registered to the bank using my friend's machine. Or I forgot to carry my Yubikeys with me. Now what do I do to quickly login?
+
 

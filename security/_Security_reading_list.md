@@ -412,4 +412,16 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > But why bother with all of that if you have a mobile app with internet connection? You can just create a digital signature on a unique per-transaction challenge and you get proper non-repudiation. The phone can generate a private key on enrollment and send its public key to the server, which can later be used to verify the signature. You don’t have the bandwidth limitation of the human brain that lead to the requirement of 6 digits, so the signature length can be arbitrarily long (even GPRS can handle digital signatures).
 
+[“banking grade” authentication often means a weak otp](https://www.nextauth.com/banking-grade-login-often-means-weak-otp/)
+
+> The probability of getting a 6 digit OTP correct is one in a million. 
+
+> So, even if an OTP is only valid for 30 seconds and your server blocks users that try too many OTPs in a short amount of time, a hacker can simply try the same OTP for all your users.
+
+> OTP uses a cryptographic Message Authentication Code (MAC) function, where both the server and the mobile share a key. This key needs to available* at the server, because the server needs this key to compute the OTP on its side for comparing it with the received OTP. 
+
+> This makes the server a very interesting target, since the attacker getting hold of these keys, can impersonate all these users. In banks this is solved by installing very costly Hardware Security Modules (HSM). These HSMs ensure that the keys will never leak from the server. However, this is typically not done by providers of “banking grade” authentication since this would drive up the total cost of ownership to unacceptable levels.
+
+> nextAuth has the same advantages and none of shortcomings of OTPs over passwords. nextAuth uses public key cryptography, where the server has public keys and the mobile the corresponding private keys. 
+
 

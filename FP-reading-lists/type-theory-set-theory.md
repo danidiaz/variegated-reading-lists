@@ -181,6 +181,10 @@ attempt to make equality reasonable again.”
 
 [WITS 2022](https://www.youtube.com/playlist?list=PLyrlk8Xaylp7R6HqlECu2RGbZUZQofo8e)
 
+[A stratified approach to Lob induction](https://twitter.com/dannygratzer/status/1494644517487710232)
+
+[A CUBICAL LANGUAGE FOR BISHOP SETS](https://twitter.com/jonmsterling/status/1494603308992020483)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

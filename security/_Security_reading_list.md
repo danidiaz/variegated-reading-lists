@@ -387,4 +387,12 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > In case you are talking about a One Time Password there is a simple reason, why TOTP-Algorithms are using a symmetric key on the client/device and the server side.
 
+[How to secure SSH login with one-time passwords on Linux](https://www.xmodulo.com/secure-ssh-login-one-time-passwords-linux.html)
+
+> As far as SSH authentication is concerned, public key authentication is in general considered more secure than password authentication. However, key authentication is actually not desirable or even less secure if you are logging in from a public or shared computer, where things like stealth keylogger or memory scraper can always a possibility. If you cannot trust the local computer, it is better to use something else. This is when one-time passwords come in handy. As the name implies, each one-time password is for single-use only. Such disposable passwords can be safely used in untrusted environments as they cannot be re-used even when they are stolen.
+
+[How Time-based One-Time Passwords work and why you should use them in your app](https://www.freecodecamp.org/news/how-time-based-one-time-passwords-work-and-why-you-should-use-them-in-your-app-fdd2b9ed43c3/). 
+[HMAC-based one-time password](https://en.wikipedia.org/wiki/HMAC-based_one-time_password).
+
+> HOTP stands for “HMAC-Based One-Time Password”. This algorithm was published as RFC4226 by the Internet Engineering Task Force (IETF). HOTP defines an algorithm to create a one time password from a secret key and a counter.
 

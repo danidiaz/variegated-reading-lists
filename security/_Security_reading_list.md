@@ -494,5 +494,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > Suffice to say that the browser plays a pivotal role in deciding whether a FIDO credential may be exercised in WebAuthn calls originating from a particular website, and the browser can reliably determine the site it is connected to via established https server authentication. 
 
+> In a typical FIDO authentication scheme the responsibility of the human is to ensure they are using trusted FIDO Client software. In the case of WebAuthn this means using a browser they trust installed with a set of trusted root certificate authorities. Trust in the browser is an established universal pre-requisite for humans using web applications. Commonly the browser and its trust roots are pre-installed as part of the operating system, which the user is implicitly trusting anyway.
+
 [WebAuthn Is Great and It Sucks](https://sec.okta.com/articles/2020/04/webauthn-great-and-it-sucks)
 

@@ -469,3 +469,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 > public key authentication is great in principle but in practice has been hard to integrate into the Web environment. However, we’re now seeing deployment of a new technology called WebAuthn (short for Web Authentication) that hopefully changes that.
 
 > Previous approaches to public key authentication required the browser to provide the user interface. For a variety of reasons (the interfaces were bad, the sites wanted to control the experience) this didn’t work well for sites, and public key authentication didn’t get much adoption. 
+
+[Stanford course on Web Security](https://twitter.com/addyosmani/status/1244172441146068992)
+

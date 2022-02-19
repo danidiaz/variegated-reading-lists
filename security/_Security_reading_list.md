@@ -445,3 +445,26 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 [How to use FIDO2 USB authenticators with SSH](https://www.stavros.io/posts/u2f-fido2-with-ssh/). [FIDO vs SSH](https://news.ycombinator.com/item?id=19520672). [On ubuntu](https://ubuntu.com/blog/enhanced-ssh-and-fido-authentication-in-ubuntu-20-04-lts).
 
 > One of the most exciting security enhancements in Ubuntu 20.04 LTS (Focal Fossa) is the ability to use the Fast Identity Online (FIDO) or Universal 2nd Factor (U2F) devices with SSH.
+
+[GitHub - Security keys are now supported for SSH Git operations](https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/)
+
+>  We were an early adopter of Universal 2nd Factor (“U2F”) and were also one of the first sites to transition to Webauthn. We’re always on the lookout for new standards that both increase security and usability. Today we’re taking the next step by shipping support for security keys when using Git over SSH.
+
+> Security keys, such as the YubiKey, are portable and transferable between machines in a convenient form factor. Most security keys connect via USB, NFC, or Bluetooth. When used in a web browser with two-factor authentication enabled, security keys provide a strong, convenient, and phishing-proof alternative to one-time passwords provided by applications or SMS. Much of the data on the key is protected from external access and modification, ensuring the secrets cannot be taken from the security key. Security keys should be protected as a credential, so keep track of them and you can be confident that you have usable, strong authentication. As long as you retain access to the security key, you can be confident that it can’t be used by anyone else for any other purpose.
+
+[Yubico - What is webauthn](https://www.yubico.com/authentication-standards/webauthn/)
+
+> WebAuthn is an API that makes it very easy for a relying party, such as a web service, to integrate strong authentication into applications using support built in to all leading browsers and platforms. This means that web services can now easily offer their users strong authentication with a choice of authenticators such as security keys or built-in platform authenticators such as biometric readers.
+
+> The recommended approach is for the user to first register using an external authenticator that is phishing resistant, *and then transfer that trust (bootstrap)* to a built-in platform authenticator for subsequent authentication. The benefit of this approach is that if the device is compromised in any way (lost or stolen), then the user still has an external authenticator as a portable root of trust that can be used to quickly onboard a new device and re-authenticate to the web service.
+
+[A YubiKey with OpenPGP can be used for logging in to remote SSH servers.](https://developers.yubico.com/PGP/SSH_authentication/) 
+
+> In this setup, the Authentication subkey of an OpenPGP key is used as an SSH key to authenticate against a server. 
+
+[Establishing a Secure Portable Root of Trust with WebAuthn (pdf)](https://dtasiagroup.com/wp-content/uploads/2021/02/Establishing_a_Secure_Portable_Root_of_Trust_with_WebAuthn.pdf)
+
+[A look at password security, Part IV: WebAuthn](https://blog.mozilla.org/en/mozilla/password-security-part-iv-webauthn/)
+
+> public key authentication is great in principle but in practice has been hard to integrate into the Web environment. However, we’re now seeing deployment of a new technology called WebAuthn (short for Web Authentication) that hopefully changes that.
+

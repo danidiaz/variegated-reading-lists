@@ -436,3 +436,5 @@ https://haskell4nix.readthedocs.io/
 
 [overlays based on recursive knots](https://discourse.haskell.org/t/whats-all-the-hype-with-nix/2593/13) 
  
+[Nix: An idea whose time has come](https://news.ycombinator.com/item?id=30384121)
+

@@ -438,3 +438,10 @@ https://haskell4nix.readthedocs.io/
  
 [Nix: An idea whose time has come](https://news.ycombinator.com/item?id=30384121)
 
+[haskell.nix depends heavily on what is commonly called "import from derivation" or IFD.](https://stackoverflow.com/a/71034842/1364288). [materialization](https://input-output-hk.github.io/haskell.nix/tutorials/materialization.html). 
+
+> These can not be evaluated without building bar and somePackage.
+
+> haskell.nix does have a feature that lets you avoid such expressions altogether. They've called it materialization.
+
+

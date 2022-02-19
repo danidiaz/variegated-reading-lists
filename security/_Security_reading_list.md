@@ -500,3 +500,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [WebAuthn Is Great and It Sucks](https://sec.okta.com/articles/2020/04/webauthn-great-and-it-sucks)
 
+[‘Zero-click’ hacks are growing in popularity ](https://news.ycombinator.com/item?id=30395786)
+
+

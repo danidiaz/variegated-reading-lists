@@ -470,5 +470,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > Previous approaches to public key authentication required the browser to provide the user interface. For a variety of reasons (the interfaces were bad, the sites wanted to control the experience) this didn’t work well for sites, and public key authentication didn’t get much adoption. 
 
+> The key difference here is that previous systems tended to operate at a lower layer (typically HTTP or TLS), which made it hard for the site to control how and when authentication happened.2 By contrast, a JS API puts the site in control so it can ask for authentication when it wants to (e.g., after showing the home page and prompting for the username)
+
 [Stanford course on Web Security](https://twitter.com/addyosmani/status/1244172441146068992)
 

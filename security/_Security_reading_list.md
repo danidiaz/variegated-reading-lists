@@ -488,5 +488,9 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [What makes FIDO and WebAuthn phishing resistant?](https://community.ibm.com/community/user/security/blogs/shane-weeden1/2021/12/08/what-makes-fido-and-webauthn-phishing-resistent?CommunityKey=96f617c5-4f90-4eb0-baec-2d0c4c22ab50)
 
+> Authenticity of the target site is the responsibility of the FIDO Client
+
+> The FIDO Client, a computer program, is responsible for ensuring that the site to which it is connected and sending signed FIDO authentication payloads is authoritative for the rpId being used.
+
 [WebAuthn Is Great and It Sucks](https://sec.okta.com/articles/2020/04/webauthn-great-and-it-sucks)
 

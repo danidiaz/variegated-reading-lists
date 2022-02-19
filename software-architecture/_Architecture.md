@@ -1081,4 +1081,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Architecture Advice Process](https://twitter.com/ThomasBetts/status/1493588507394142216)
 
+[Logging at Twitter](https://news.ycombinator.com/item?id=30393683)
+
+
+
 

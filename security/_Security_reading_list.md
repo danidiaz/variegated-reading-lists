@@ -478,4 +478,10 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [yubi key generation](https://developers.yubico.com/U2F/Protocol_details/Key_generation.html). [Discoverable Credentials / Resident Keys in Webauthn](https://developers.yubico.com/WebAuthn/WebAuthn_Developer_Guide/Resident_Keys.html).
 
+[Does WebAuthn Replace OAuth?](https://oauth.net/webauthn/). [tweet](https://twitter.com/alexellisuk/status/1444614759677104131).
+
+> No! In fact, WebAuthn and OAuth work great together! While WebAuthn can often take the place of using a specific third-party OAuth API for authentication, WebAuthn isn't trying to solve the same problems OAuth solves.
+
+> WebAuthn may end up replacing the step in OAuth where the user enters their password, since WebAuthn is a replacement for password authentication. 
+
 

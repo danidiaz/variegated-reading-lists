@@ -1083,6 +1083,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Logging at Twitter](https://news.ycombinator.com/item?id=30393683)
 
-
+[The different types of events in event-driven systems](https://news.ycombinator.com/item?id=30396873)
 
 

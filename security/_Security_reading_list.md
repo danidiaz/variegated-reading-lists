@@ -476,3 +476,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Emulate authenticators and debug WebAuthn](https://developer.chrome.com/docs/devtools/webauthn/). [Enabling Strong Authentication with WebAuthn](https://developers.google.com/web/updates/2018/05/webauthn).
 
+[yubi key generation](https://developers.yubico.com/U2F/Protocol_details/Key_generation.html). [Discoverable Credentials / Resident Keys in Webauthn](https://developers.yubico.com/WebAuthn/WebAuthn_Developer_Guide/Resident_Keys.html).
+
+

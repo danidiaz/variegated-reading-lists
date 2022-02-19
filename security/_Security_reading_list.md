@@ -496,5 +496,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > In a typical FIDO authentication scheme the responsibility of the human is to ensure they are using trusted FIDO Client software. In the case of WebAuthn this means using a browser they trust installed with a set of trusted root certificate authorities. Trust in the browser is an established universal pre-requisite for humans using web applications. Commonly the browser and its trust roots are pre-installed as part of the operating system, which the user is implicitly trusting anyway.
 
+> FIDO authentication is considered phishing resistant because the decision about whether a particular scoped credential may be used and the results shared with a server endpoint is delegated to security mechanisms within a trusted computer program such as the browser rather than the human having to visually recognise a phishing attempt themselves. 
+
 [WebAuthn Is Great and It Sucks](https://sec.okta.com/articles/2020/04/webauthn-great-and-it-sucks)
 

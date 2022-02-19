@@ -492,5 +492,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > The FIDO Client, a computer program, is responsible for ensuring that the site to which it is connected and sending signed FIDO authentication payloads is authoritative for the rpId being used.
 
+> Suffice to say that the browser plays a pivotal role in deciding whether a FIDO credential may be exercised in WebAuthn calls originating from a particular website, and the browser can reliably determine the site it is connected to via established https server authentication. 
+
 [WebAuthn Is Great and It Sucks](https://sec.okta.com/articles/2020/04/webauthn-great-and-it-sucks)
 

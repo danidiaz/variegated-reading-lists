@@ -474,3 +474,5 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Stanford course on Web Security](https://twitter.com/addyosmani/status/1244172441146068992)
 
+[Emulate authenticators and debug WebAuthn](https://developer.chrome.com/docs/devtools/webauthn/). [Enabling Strong Authentication with WebAuthn](https://developers.google.com/web/updates/2018/05/webauthn).
+

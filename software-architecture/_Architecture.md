@@ -1089,4 +1089,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [What does Snowflake offer you that you can’t get from Postgres or even an analytics engine like Elasticsearch?](https://news.ycombinator.com/item?id=30394218)
 
+> Pages, Numbers, Keynote and iCloud for collab. 0€ No maintenance.
 

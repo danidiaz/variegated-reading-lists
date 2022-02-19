@@ -1085,4 +1085,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [The different types of events in event-driven systems](https://news.ycombinator.com/item?id=30396873)
 
+[Startup tooling: our product management, sales, and marketing stack](https://news.ycombinator.com/item?id=30394218)
+
+[What does Snowflake offer you that you can’t get from Postgres or even an analytics engine like Elasticsearch?](https://news.ycombinator.com/item?id=30394218)
+
 

@@ -508,4 +508,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Oauth 2](https://oauth.net/2/). [Oauth2 simplified](https://aaronparecki.com/oauth-2-simplified/).
 
+> Single-page apps (or browser-based apps) run entirely in the browser after loading the source code from a web page. Since the entire source code is available to the browser, they cannot maintain the confidentiality of a client secret, so the secret is not used in this case. The flow is based on the authorization code flow above, but with the addition of a dynamically generated secret used on each request. This is known as the PKCE extension.
+
+> Note: Previously, it was recommended that browser-based apps use the "Implicit" flow, which returns an access token immediately in the redirect and does not have a token exchange step. In the time since the spec was originally written, the industry best practice has changed to recommend that the authorization code flow be used without the client secret. This provides more opportunities to create a secure flow, such as using the PKCE extension.
+
 

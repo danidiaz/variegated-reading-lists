@@ -235,6 +235,8 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 
 [Lock-In and Multi-Cloud](https://news.ycombinator.com/item?id=30282270)
 
+[Azure Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview). [video](https://www.youtube.com/watch?v=A0jAeGf2zUQ).
+
 [Terraform #AWS Provider 4.0](https://twitter.com/InfoQ/status/1493653848627556354)
 
 [AWS Builder's Library](https://aws.amazon.com/builders-library/)

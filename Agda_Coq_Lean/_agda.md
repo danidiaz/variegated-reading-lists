@@ -308,3 +308,6 @@ Identity, Parametrically](https://jesper.sikanda.be/files/leibniz-equality.pdf)
 
 [The Agda Universal Algebra Library, Part 1: Foundation](https://arxiv.org/abs/2103.05581)
 
+[ISRM-LOGRAC-2022-02-17 First steps with Agda](https://www.youtube.com/watch?v=0hsYR4bgDE8)
+
+

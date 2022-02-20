@@ -506,4 +506,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [The New OAuth 2.0 Stack in Spring Security 5](https://twitter.com/javinpaul/status/1495254708478435335).
 
+[Oauth 2](https://oauth.net/2/). [Oauth2 simplified](https://aaronparecki.com/oauth-2-simplified/).
+
 

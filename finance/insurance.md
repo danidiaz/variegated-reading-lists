@@ -133,6 +133,8 @@
 
 - [Virtual Insurance School: Underwriting and Claims Basics (2016)](https://www.youtube.com/watch?v=2_QEkuzM6fQ)
 
+- [What does the process of creating an insurtech look like?](https://www.insurancebusinessmag.com/us/tv/what-does-the-process-of-creating-an-insurtech-look-like-320471.aspx)
+
 ## Lloyd's
 
 [Inside Lloyd's: Writing risks at Lloyd's of London with Barbican](https://www.youtube.com/watch?v=Cf3c9e7BSRM&t=86s).

@@ -503,3 +503,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 [‘Zero-click’ hacks are growing in popularity ](https://news.ycombinator.com/item?id=30395786)
 
 [Mitre](https://attack.mitre.org/)
+
+[The New OAuth 2.0 Stack in Spring Security 5](https://twitter.com/javinpaul/status/1495254708478435335).
+
+

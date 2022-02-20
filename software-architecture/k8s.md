@@ -237,3 +237,10 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 
 [Terraform #AWS Provider 4.0](https://twitter.com/InfoQ/status/1493653848627556354)
 
+[AWS Builder's Library](https://aws.amazon.com/builders-library/)
+
+[AWS Solution's Library](https://aws.amazon.com/solutions/)
+
+[AWS Cloud Products](https://aws.amazon.com/products/)
+
+

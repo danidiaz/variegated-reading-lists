@@ -41,3 +41,7 @@
 
 [Easiest way to build a CRUD app?](https://news.ycombinator.com/item?id=30320837)
 
+[Server-Sent Events, WebSockets, and HTTP](https://news.ycombinator.com/item?id=30403438)
+
+
+

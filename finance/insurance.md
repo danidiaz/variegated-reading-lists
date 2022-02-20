@@ -25,6 +25,8 @@
 
 [Disrupting insurance](https://foreignpolicy.com/2022/01/28/russia-ukraine-insurance-black-sea-economy-war/). [disrupting flight insurance](https://twitter.com/carlbildt/status/1492914701877104645).
 
+[WTW director on bridging the gap between underwriting and data analytics](https://www.insurancebusinessmag.com/uk/news/technology/wtw-director-on-bridging-the-gap-between-underwriting-and-data-analytics-325989.aspx)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

@@ -532,4 +532,5 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [OAuth 2.0 vs Session Management](https://supertokens.com/blog/oauth-2-vs-session-management)
 
+[All you need to know about user session security](https://supertokens.com/blog/all-you-need-to-know-about-user-session-security)
 

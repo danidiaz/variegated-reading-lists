@@ -518,8 +518,12 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > If the service does not have a native application, you can launch a mobile browser to the standard web authorization URL. Note that you should never use an embedded web view in your own application, as this provides the user no guarantee that they are actually are entering their password in the service's website rather than a phishing site.
 
+[Using OAuth 2.0 to Access Google APIs](https://developers.google.com/identity/protocols/oauth2)
+
 [Doesn't OAuth 2.0 PKCE Flow open the door to masquerading/phishing attacks?](https://stackoverflow.com/questions/64436989/doesnt-oauth-2-0-pkce-flow-open-the-door-to-masquerading-phishing-attacks)
 
 [consent phishing & Oauth 2](https://resources.infosecinstitute.com/topic/consent-phishing-how-attackers-abuse-oauth-2-0-permissions-to-dupe-users/). [more](https://www.microsoft.com/security/blog/2021/07/14/microsoft-delivers-comprehensive-solution-to-battle-rise-in-consent-phishing-emails/).
+
+[Attacking and Defending OAuth 2.0](https://www.praetorian.com/blog/attacking-and-defending-oauth-2-0-part-1/)
 
 

@@ -534,3 +534,10 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [All you need to know about user session security](https://supertokens.com/blog/all-you-need-to-know-about-user-session-security)
 
+[csrf](https://owasp.org/www-community/attacks/csrf)
+
+> This attack is not used to steal auth tokens — instead, it allows an attacker to piggyback on an existing active session (read more here).
+
+> Prevention of CSRF attacks typically requires the use of an anti-CSRF token or SameSite cookies. 
+
+

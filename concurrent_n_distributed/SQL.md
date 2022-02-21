@@ -9,3 +9,6 @@
 
 [N + 1 problem](https://twitter.com/lukaseder/status/1493504945810817024)
 
+[TSQL Table-Valued Functions And Dynamic M Parameters In Power BI DirectQuery](https://blog.crossjoin.co.uk/2022/02/20/tsql-table-valued-functions-and-dynamic-m-parameters-in-power-bi-directquery/)
+
+

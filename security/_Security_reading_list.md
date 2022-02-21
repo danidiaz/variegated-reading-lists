@@ -530,3 +530,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Attacking and Defending OAuth 2.0](https://www.praetorian.com/blog/attacking-and-defending-oauth-2-0-part-1/)
 
+[OAuth 2.0 vs Session Management](https://supertokens.com/blog/oauth-2-vs-session-management)
+
+

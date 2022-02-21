@@ -522,8 +522,9 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Doesn't OAuth 2.0 PKCE Flow open the door to masquerading/phishing attacks?](https://stackoverflow.com/questions/64436989/doesnt-oauth-2-0-pkce-flow-open-the-door-to-masquerading-phishing-attacks)
 
+> Without PKCE, it's hard to fake an app and obtain a refresh token because that would require an attacker to obtain client_secret.
+
 [consent phishing & Oauth 2](https://resources.infosecinstitute.com/topic/consent-phishing-how-attackers-abuse-oauth-2-0-permissions-to-dupe-users/). [more](https://www.microsoft.com/security/blog/2021/07/14/microsoft-delivers-comprehensive-solution-to-battle-rise-in-consent-phishing-emails/).
 
 [Attacking and Defending OAuth 2.0](https://www.praetorian.com/blog/attacking-and-defending-oauth-2-0-part-1/)
-
 

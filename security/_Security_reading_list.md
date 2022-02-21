@@ -534,10 +534,16 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [All you need to know about user session security](https://supertokens.com/blog/all-you-need-to-know-about-user-session-security)
 
-[csrf](https://owasp.org/www-community/attacks/csrf)
+[csrf](https://owasp.org/www-community/attacks/csrf). [SameSite cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite). [](). 
 
 > This attack is not used to steal auth tokens — instead, it allows an attacker to piggyback on an existing active session (read more here).
 
 > Prevention of CSRF attacks typically requires the use of an anti-CSRF token or SameSite cookies. 
+
+[Defending against CSRF with SameSite cookies](https://portswigger.net/web-security/csrf/samesite-cookies)
+
+> If the SameSite attribute is set to Strict, then the browser will not include the cookie in any requests that originate from another site. This is the most defensive option, but it can impair the user experience, because if a logged-in user follows a third-party link to a site, then they will appear not to be logged in, and will need to log in again before interacting with the site in the normal way.
+
+[Do I still need CSRF protection when SameSite is set to Lax?](https://security.stackexchange.com/questions/234386/do-i-still-need-csrf-protection-when-samesite-is-set-to-lax)
 
 

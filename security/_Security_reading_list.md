@@ -524,6 +524,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > Without PKCE, it's hard to fake an app and obtain a refresh token because that would require an attacker to obtain client_secret.
 
+> When you set up the application on the oauth2 server, you have to set up a number of redirect_uris, allowed places to return to after authorization is complete. This means that someone who creates a phishing attack like the one you described cannot return to their own app after login, and will never receive the code.
+
 [consent phishing & Oauth 2](https://resources.infosecinstitute.com/topic/consent-phishing-how-attackers-abuse-oauth-2-0-permissions-to-dupe-users/). [more](https://www.microsoft.com/security/blog/2021/07/14/microsoft-delivers-comprehensive-solution-to-battle-rise-in-consent-phishing-emails/).
 
 [Attacking and Defending OAuth 2.0](https://www.praetorian.com/blog/attacking-and-defending-oauth-2-0-part-1/)

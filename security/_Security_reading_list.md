@@ -552,5 +552,5 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Implementing "Log in with GitHub"](https://getlotus.app/6-implementing-log-in-with-github). [Sign In with Github Tutorial](https://www.back4app.com/docs/platform/sign-in-with-github). [Log In With GitHub](https://laracasts.com/series/learn-socialite/episodes/1).
 
-
+[How I use AWS Security Hub](https://www.youtube.com/watch?v=BNH7b3YBmWM)
 

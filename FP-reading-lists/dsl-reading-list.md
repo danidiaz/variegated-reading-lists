@@ -336,6 +336,12 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [Practical Normalization by Evaluation for EDSLs](https://twitter.com/Iceland_jack/status/1496855129844330498). [pdf](http://www.cse.chalmers.se/~russo/publications_files/haskell21.pdf)
 
+> Often, eDSL designers face a choice between either adding complex features to an eDSL or keeping the core eDSL simple and exploiting the host language to construct programs.
+
+> Should the eDSL support pairs in expressions (Exp (a, b)), or should it use pairs of expressions ((Exp a, Exp b))? 
+
+> Should the eDSL support functions (Exp (Int → Int)) directly or should it instead rely on Haskell functions (Exp Int → Exp Int) to build programs?
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

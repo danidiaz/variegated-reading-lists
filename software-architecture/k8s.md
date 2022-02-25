@@ -259,5 +259,6 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 
 [GitHub Actions and AWS](https://twitter.com/freeCodeCamp/status/1496515477241311238)
 
+[Cloud native architecture with Kubernetes and ArgoCD](https://twitter.com/CloudIslamabad/status/1497260523603345409)
 
 

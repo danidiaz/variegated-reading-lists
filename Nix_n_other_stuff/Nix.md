@@ -448,4 +448,20 @@ https://haskell4nix.readthedocs.io/
 
 [All New Repls are Powered By Nix](https://blog.replit.com/powered-by-nix)
 
+[lib.attrsets.attrVals](https://nixos.org/manual/nixpkgs/stable/)
+
+[Chapter 13. Callpackage Design Pattern](https://nixos.org/guides/nix-pills/callpackage-design-pattern.html)
+
+> note from the example above that the intersectAttrs returns a set whose names are the intersection, and the attribute values are taken from the second set.
+
+[How to Learn Nix, Part 26: An infinite list of functions](https://ianthehenry.com/posts/how-to-learn-nix/an-infinite-list-of-functions/)
+
+[NixOs manual](https://nixos.org/manual/nix/stable/introduction.html)
+
+[What does a question mark mean in the head of a Nix function definition?](https://stackoverflow.com/questions/56406588/what-does-a-question-mark-mean-in-the-head-of-a-nix-function-definition)
+
+[Nix (builtins) & Nixpkgs (lib) Functions](https://teu5us.github.io/nix-lib.html)
+
+[operators](https://nixos.org/manual/nix/stable/expressions/language-operators.html)
+
 

@@ -156,4 +156,10 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Difference between @Mock, @MockBean and Mockito.mock()](https://stackoverflow.com/questions/44200720/difference-between-mock-mockbean-and-mockito-mock)
 
+[Spring Boot testing](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.testing)
+
+> JUnit 5, AssertJ, Hamcrest, Mockito, JSONassert, JsonPath
+
+[Spring Boot Wiremock](https://wiremock.org/docs/spring-boot/)
+
 

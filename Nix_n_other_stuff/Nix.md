@@ -446,7 +446,7 @@ https://haskell4nix.readthedocs.io/
 
 [It’s the hardest learning curve of probably in tech I’ve ever learned](https://about.sourcegraph.com/blog/dev-tool-time-mitchell-hashimoto/)
 
-[All New Repls are Powered By Nix](https://blog.replit.com/powered-by-nix)
+[All New Repls are Powered By Nix](https://blog.replit.com/powered-by-nix). [lobsters](https://lobste.rs/s/jzpd65/all_new_repls_are_powered_by_nix)
 
 [lib.attrsets.attrVals](https://nixos.org/manual/nixpkgs/stable/)
 

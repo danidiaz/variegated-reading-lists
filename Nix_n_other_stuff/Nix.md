@@ -464,4 +464,6 @@ https://haskell4nix.readthedocs.io/
 
 [operators](https://nixos.org/manual/nix/stable/expressions/language-operators.html)
 
+[Nix Expression Language](https://nixos.wiki/wiki/Nix_Expression_Language)
+
 

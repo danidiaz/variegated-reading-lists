@@ -550,4 +550,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Phishing with an in-browser remote desktop](https://news.ycombinator.com/item?id=30435326)
 
+[Implementing "Log in with GitHub"](https://getlotus.app/6-implementing-log-in-with-github). [Sign In with Github Tutorial](https://www.back4app.com/docs/platform/sign-in-with-github). [Log In With GitHub](https://laracasts.com/series/learn-socialite/episodes/1).
+
+
 

@@ -546,4 +546,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Do I still need CSRF protection when SameSite is set to Lax?](https://security.stackexchange.com/questions/234386/do-i-still-need-csrf-protection-when-samesite-is-set-to-lax)
 
+[Is multifactor authentication less effective than it used to be?](https://slate.com/technology/2022/02/google-multifactor-authentication-effective-research.html) 
+
+[Phishing with an in-browser remote desktop](https://news.ycombinator.com/item?id=30435326)
+
 

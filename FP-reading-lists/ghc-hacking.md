@@ -207,4 +207,6 @@ Stuff about the heap:
 
 [type-checking plugins, part iii: writing a type-checking plugin](https://www.tweag.io/blog/2022-02-17-tcplugins-3/)
 
+[conditional coding](https://blockscope.com/posts/2022-02-23-iffy-diffy.html)
+
 

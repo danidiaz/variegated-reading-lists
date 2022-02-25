@@ -265,4 +265,6 @@
 
 [Serialize Debezium events with Apache Avro and OpenShift Service Registry](https://twitter.com/CertDepot/status/1493211745279692804)
 
+[multiple datasources in Spring Boot](https://twitter.com/baeldung/status/1496832283621404676?t=eX65BSEZGvCKIqlE-bISAw&s=03)
+
 

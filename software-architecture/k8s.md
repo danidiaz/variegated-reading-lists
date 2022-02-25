@@ -245,4 +245,19 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 
 [AWS Cloud Products](https://aws.amazon.com/products/)
 
+[How not to get charged as AWS Free Tier user](https://www.staszewski.me/how-not-to-get-charged-as-aws-free-tier-user/)
+
+[Automating Safe and “Hands-Off” Deployments at AWS](https://www.infoq.com/podcasts/clare-liguori-aws-deployments/)
+
+[saving on AWS Lambda Amazon CloudWatch costs with this one "simple" trick ](https://dev.to/aws-builders/saving-on-aws-lambda-amazon-cloudwatch-logs-costs-51od)
+
+[Everything you need to know about AWS SNS](https://dashbird.io/blog/aws-sns/)
+
+[reduced data freshness latency from one day to under 15 minutes? Find out the lessons learnt from using Debezium, Apache Hudi & AWS S3](https://robinhood.engineering/author-balaji-varadarajan-e3f496815ebf)
+
+> a fresher data lake
+
+[GitHub Actions and AWS](https://twitter.com/freeCodeCamp/status/1496515477241311238)
+
+
 

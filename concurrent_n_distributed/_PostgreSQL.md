@@ -187,5 +187,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [When PostgreSQL locks](https://news.ycombinator.com/item?id=30316653)
 
+[PostgreSQL Schema Change Guide](https://www.reddit.com/r/PostgreSQL/comments/t10cew/postgresql_schema_change_guide/)
+
 
 

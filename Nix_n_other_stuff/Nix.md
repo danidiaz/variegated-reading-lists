@@ -444,4 +444,8 @@ https://haskell4nix.readthedocs.io/
 
 > haskell.nix does have a feature that lets you avoid such expressions altogether. They've called it materialization.
 
+[It’s the hardest learning curve of probably in tech I’ve ever learned](https://about.sourcegraph.com/blog/dev-tool-time-mitchell-hashimoto/)
+
+[All New Repls are Powered By Nix](https://blog.replit.com/powered-by-nix)
+
 

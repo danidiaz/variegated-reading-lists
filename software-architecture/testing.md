@@ -136,3 +136,24 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [file-driven testing in Go](https://lobste.rs/s/sgk1nn/file_driven_testing_go)
 
+[How do you supply a ClockProvider to Spring v5 (Spring Boot v2)?](https://stackoverflow.com/questions/48335736/how-do-you-supply-a-clockprovider-to-spring-v5-spring-boot-v2)
+
+[Testing with Spring Boot's @TestConfiguration Annotation](https://reflectoring.io/spring-boot-testconfiguration/)
+
+[Spring Boot: @TestConfiguration Not Overriding Bean During Integration Test](https://stackoverflow.com/questions/50607285/spring-boot-testconfiguration-not-overriding-bean-during-integration-test)
+
+[ArgumentMatchers (Mockito 2.2.7 API)](https://site.mockito.org/javadoc/current/org/mockito/ArgumentMatchers.html)
+
+[Mockito Argument Matchers - any(), eq()](https://www.journaldev.com/21876/mockito-argument-matchers-any-eq)
+
+[Injecting Mockito Mocks in to Spring Beans](https://www.baeldung.com/injecting-mocks-in-spring)
+
+[Overriding beans in Integration tests](https://stackoverflow.com/questions/35742920/overriding-beans-in-integration-tests)
+
+[Mockito.mock() vs @Mock vs @MockBean](https://www.baeldung.com/java-spring-mockito-mock-mockbean)
+
+[Getting Started with Mockito @Mock, @Spy, @Captor and @InjectMocks](https://www.baeldung.com/mockito-annotations)
+
+[Difference between @Mock, @MockBean and Mockito.mock()](https://stackoverflow.com/questions/44200720/difference-between-mock-mockbean-and-mockito-mock)
+
+

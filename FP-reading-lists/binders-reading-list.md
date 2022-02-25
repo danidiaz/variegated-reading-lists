@@ -302,6 +302,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [Using Circular Programs for Higher-Order Syntax](https://twitter.com/Iceland_jack/status/1493995166302146560)
 
+[informal type theory](https://twitter.com/jonmsterling/status/1497122894429646849)
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

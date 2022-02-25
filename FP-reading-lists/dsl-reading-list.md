@@ -334,6 +334,8 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [A DSL for finite types and enumeration in Agda](https://www.youtube.com/watch?v=sFyy9sssK50)
 
+[Practical Normalization by Evaluation for EDSLs](https://twitter.com/Iceland_jack/status/1496855129844330498). [pdf](http://www.cse.chalmers.se/~russo/publications_files/haskell21.pdf)
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

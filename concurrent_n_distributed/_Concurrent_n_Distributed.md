@@ -329,6 +329,8 @@ only run it when something bad happens to prevent any one thing to be a single p
 
 [Testing Distributed Systems](https://news.ycombinator.com/item?id=30296770)
 
+[common goroutine leaks](https://twitter.com/GolangTrends/status/1497548500220981252). [waiting groups in Golang](https://twitter.com/GolangTrends/status/1497367306502123527).
+
 # Slides
 
 [Distributed systems course](https://roxanageambasu.github.io/ds-class//assets/lectures/lecture17.pdf)

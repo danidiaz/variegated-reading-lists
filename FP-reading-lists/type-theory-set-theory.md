@@ -185,6 +185,8 @@ attempt to make equality reasonable again.”
 
 [A CUBICAL LANGUAGE FOR BISHOP SETS](https://twitter.com/jonmsterling/status/1494603308992020483)
 
+[there is no "inside"](https://twitter.com/EscardoMartin/status/1497288699754606596). [the "interface" to a set](https://twitter.com/jjcarett2/status/1496487592270995458)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

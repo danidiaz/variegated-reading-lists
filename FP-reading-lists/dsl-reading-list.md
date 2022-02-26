@@ -370,6 +370,8 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 > normalisation as a reductions in a term rewrite system where β-reductions are
 > allowed deep inside λ-terms.
 
+>  NbE’s ability to aggressively reduce arithmetic expressions even in the presence of unknown values
+
 [Introduction to Normalization by Evaluation (Favonia video)](https://www.youtube.com/watch?v=atKqqiXslyo).  
 
 > Good example of sorting as a form of "normalization".

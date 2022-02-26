@@ -466,4 +466,16 @@ https://haskell4nix.readthedocs.io/
 
 [Nix Expression Language](https://nixos.wiki/wiki/Nix_Expression_Language)
 
+[When and how should default.nix, shell.nix and release.nix be used?](https://stackoverflow.com/questions/44088192/when-and-how-should-default-nix-shell-nix-and-release-nix-be-used)
+
+> default.nix is used as a default file when running nix-build, and shell.nix is used as a default file when running nix-shell
+
+> Next, default.nix isn't used only for nix-build. For example, <nixpkgs/lib/default.nix> is used as aggregator for functions, and doesn't contain derivations. So not every default.nix is supposed to be "built" (but if default.nix is an attribute set of derivations, it will be buildable, and nix-build will build all of them).
+
+> Next, nix-shell will use default.nix if no shell.nix is found.
+
+> Next, default.nix is used as default file when importing directory. So if you write x = import ./some/directory;, then ./some/directory/default.nix will be imported.
+
+> And finally, there are two common formats for derivations in default.nix: derivation, and callPackage derivation. You can't nix-build the latter. 
+
 

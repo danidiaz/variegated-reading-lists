@@ -498,4 +498,9 @@ Small victory: make ed available to nix-shell inside repl.it. [Development envir
 
 > override overrides arguments of a function (i.e. the dependencies of a package), and overrideAttrs overrides the package definition itself. 
 
+[overrideAttrs vs. overrideDerivation](https://nixos.org/manual/nixpkgs/stable/#sec-pkg-override)
+
+> Note that separateDebugInfo is processed only by the stdenv.mkDerivation function, not the generated, raw Nix derivation. Thus, using overrideDerivation will not work in this case, as it overrides only the attributes of the final derivation. It is for this reason that overrideAttrs should be preferred in (almost) all cases to overrideDerivation, i.e. to allow using stdenv.mkDerivation to process input arguments, as well as the fact that it is easier to use (you can use the same attribute names you see in your Nix code, instead of the ones generated (e.g. buildInputs vs nativeBuildInputs), and it involves less typing).
+
+> You should prefer overrideAttrs in almost all cases
 

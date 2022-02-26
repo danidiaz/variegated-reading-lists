@@ -137,4 +137,5 @@
 
 [Restartable Sequences in Glibc 2.35](https://news.ycombinator.com/item?id=30285032)
 
+[Anatomy of a Terminal Emulator](https://poor.dev/blog/terminal-anatomy/)
 

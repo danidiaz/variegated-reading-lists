@@ -506,3 +506,6 @@ Small victory: make ed available to nix-shell inside repl.it. [Development envir
 
 > You should prefer overrideAttrs in almost all cases
 
+[Inputs Design Pattern](https://nixos.org/guides/nix-pills/inputs-design-pattern.html#inputs-design-pattern)
+
+

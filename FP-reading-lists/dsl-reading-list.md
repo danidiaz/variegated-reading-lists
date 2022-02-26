@@ -251,6 +251,16 @@ synonyms [Pickering et al. 2016].
 
 [kotlin DSLs](https://fr.slideshare.net/nfrankel/devfest-santo-domingo-kotlin-dsl)
 
+[More about NbE](http://www.cse.chalmers.se/~abela/talkEAFIT2017.pdf)
+
+> normalization: Bring an expression with unkowns into a canonical form.
+> Unknowns = free variables.
+> Checking equality by comparing canonical forms. 
+
+> Evaluation
+> Compute the value of an expression relative to an environment.
+> Environment assigns values to free variables of expressions
+
 ## videos
 
 [Type-Safe Observable Sharing in Haskell](https://vimeo.com/6679785)
@@ -352,6 +362,8 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 > semantic approach differs from the more traditional syntactic description of
 > normalisation as a reductions in a term rewrite system where β-reductions are
 > allowed deep inside λ-terms.
+
+
 
 ## Software
 

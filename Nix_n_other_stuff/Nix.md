@@ -488,4 +488,9 @@ Small victory: make ed available to nix-shell inside repl.it. [Development envir
         nativeBuildInputs = [ pkgs.buildPackages.ed ];
     }
 
+[overrides](https://ryantm.github.io/nixpkgs/using/overrides/)
+
+> The function override is usually available for all the derivations in the nixpkgs expression (pkgs).
+
+> It is used to override the arguments passed to a function.
 

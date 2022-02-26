@@ -342,6 +342,8 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 > Should the eDSL support functions (Exp (Int → Int)) directly or should it instead rely on Haskell functions (Exp Int → Exp Int) to build programs?
 
+> Normalization by Evaluation (NbE) [9], is a program specialization technique that offers a solution to this problem by making specialization automatic, without the need for manual stage separation.
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

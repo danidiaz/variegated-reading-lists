@@ -374,6 +374,8 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 > Good example of sorting as a form of "normalization".
 
+> The evaluation and reification phases become intertwined because the expansion during reification could trigger delayed evaluation.
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

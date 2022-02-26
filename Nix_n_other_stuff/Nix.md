@@ -494,3 +494,8 @@ Small victory: make ed available to nix-shell inside repl.it. [Development envir
 
 > It is used to override the arguments passed to a function.
 
+[How is overrideAttrs different from override?](https://www.reddit.com/r/NixOS/comments/cn6nt4/how_is_overrideattrs_different_from_override/)
+
+> override overrides arguments of a function (i.e. the dependencies of a package), and overrideAttrs overrides the package definition itself. 
+
+

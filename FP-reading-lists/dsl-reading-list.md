@@ -264,6 +264,10 @@ synonyms [Pickering et al. 2016].
 > Normalization by Evaluation (NbE)
 > Adapt an interpreter to simplify expressions with unknowns.
 
+> Interpreters can be turned into normalizers in a systematic way.
+
+> Normalization-by-evaluation has helped to understand η-equality
+
 ## videos
 
 [Type-Safe Observable Sharing in Haskell](https://vimeo.com/6679785)

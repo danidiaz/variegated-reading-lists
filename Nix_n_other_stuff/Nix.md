@@ -478,7 +478,9 @@ https://haskell4nix.readthedocs.io/
 
 > And finally, there are two common formats for derivations in default.nix: derivation, and callPackage derivation. You can't nix-build the latter. 
 
-Small victory: make ed available to nix-shell inside repl.it
+Small victory: make ed available to nix-shell inside repl.it. [Development environment with nix-shell](https://nixos.wiki/wiki/Development_environment_with_nix-shell). 
+
+>  if you don't (or you don't want to) have a package definition you can still use a nix-shell to provide a reproducible development environment
 
     { pkgs ? import <nixpkgs> {} }:
       pkgs.mkShell {

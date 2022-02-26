@@ -478,4 +478,12 @@ https://haskell4nix.readthedocs.io/
 
 > And finally, there are two common formats for derivations in default.nix: derivation, and callPackage derivation. You can't nix-build the latter. 
 
+Small victory: make ed available to nix-shell inside repl.it
+
+    { pkgs ? import <nixpkgs> {} }:
+      pkgs.mkShell {
+        # nativeBuildInputs is usually what you want -- tools you need to run
+        nativeBuildInputs = [ pkgs.buildPackages.ed ];
+    }
+
 

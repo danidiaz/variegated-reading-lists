@@ -488,6 +488,8 @@ Small victory: make ed available to nix-shell inside repl.it. [Development envir
         nativeBuildInputs = [ pkgs.buildPackages.ed ];
     }
 
+> For Flakes-based projects (flake.nix file in project root), we replace nix-shell with nix develop
+
 [overrides](https://ryantm.github.io/nixpkgs/using/overrides/)
 
 > The function override is usually available for all the derivations in the nixpkgs expression (pkgs).

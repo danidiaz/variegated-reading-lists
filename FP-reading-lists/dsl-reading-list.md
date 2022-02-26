@@ -344,6 +344,15 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 > Normalization by Evaluation (NbE) [9], is a program specialization technique that offers a solution to this problem by making specialization automatic, without the need for manual stage separation.
 
+> In programming language semantics, normalisation by evaluation (NBE) is a
+> style of obtaining the normal form of terms in the λ-calculus by appealing to
+> their denotational semantics. A term is first interpreted into a denotational
+> model of the λ-term structure, and then a canonical (β-normal and η-long)
+> representative is extracted by reifying the denotation. Such an essentially
+> semantic approach differs from the more traditional syntactic description of
+> normalisation as a reductions in a term rewrite system where β-reductions are
+> allowed deep inside λ-terms.
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

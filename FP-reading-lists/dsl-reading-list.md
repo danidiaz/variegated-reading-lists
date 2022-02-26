@@ -261,6 +261,9 @@ synonyms [Pickering et al. 2016].
 > Compute the value of an expression relative to an environment.
 > Environment assigns values to free variables of expressions
 
+> Normalization by Evaluation (NbE)
+> Adapt an interpreter to simplify expressions with unknowns.
+
 ## videos
 
 [Type-Safe Observable Sharing in Haskell](https://vimeo.com/6679785)

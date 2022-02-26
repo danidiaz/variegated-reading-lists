@@ -187,7 +187,7 @@ attempt to make equality reasonable again.”
 
 [there is no "inside"](https://twitter.com/EscardoMartin/status/1497288699754606596). [the "interface" to a set](https://twitter.com/jjcarett2/status/1496487592270995458)
 
-[CSCI 8980 Higher-Dimensional Type Theory](https://favonia.org/courses/hdtt2020/)
+[CSCI 8980 Higher-Dimensional Type Theory](https://favonia.org/courses/hdtt2020/). [see also videos](https://www.youtube.com/watch?v=atKqqiXslyo).
 
 # set theory
 

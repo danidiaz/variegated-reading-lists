@@ -392,6 +392,8 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 > it is much easier to implement an evaluator with environments than it is to correctly implement substitution, which is surprisingly subtle.
 
+> When reducing under λ, there will also be variables that do not have a value in the environment. To handle these cases, we need values that represent neutral expressions. 
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

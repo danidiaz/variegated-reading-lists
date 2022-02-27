@@ -564,4 +564,5 @@ Here's a variant without buildPackages:
 
 > The buildInputs covers direct dependencies, but what about indirect dependencies where one package needs a second package which needs a third? Nix itself handles this just fine, understanding various dependency closures as covered in previous builds. But what about the conveniences that buildInputs provides, namely accumulating in pkgs environment variable and inclusion of pkg/bin directories on the PATH? For this, stdenv provides the propagatedBuildInputs
 
+[Nix Flakes: Packages and How to Use Them](https://christine.website/blog/nix-flakes-2-2022-02-27)
 

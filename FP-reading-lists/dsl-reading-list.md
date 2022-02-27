@@ -378,6 +378,14 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 > The evaluation and reification phases become intertwined because the expansion during reification could trigger delayed evaluation.
 
+[Supercompilation and Normalisation by Evaluation](https://www.researchgate.net/publication/48991563_Supercompilation_and_Normalisation_by_Evaluation)
+
+> It has been long recognised that partial evaluation is related to proof normalisation. Normalisation by evaluation, which has been presented for theories with simple types, has made this correspondance formal.
+
+> Supercompilation is a program transformation technique which performs a superset of the simplications performed by partial evaluation 
+
+[Partial evaluation, normalization by evaluation, multi-stage programming, supercompilation](http://lists.seas.upenn.edu/pipermail/types-announce/2021/009633.html)
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

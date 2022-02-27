@@ -498,6 +498,8 @@
 
 [Simutrans](https://news.ycombinator.com/item?id=30278595). [traffic simulator](https://news.ycombinator.com/item?id=30318025).
 
+[Metaphysics of Mapping Buildings](https://snufk.in/blog/mapping-buildings.html)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

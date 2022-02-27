@@ -1091,3 +1091,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > Pages, Numbers, Keynote and iCloud for collab. 0€ No maintenance.
 
+[System design #architecture for hotel booking apps (Like Airbnb, OYO)](https://twitter.com/VKazulkin/status/1497825991774855168)
+

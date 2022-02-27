@@ -247,6 +247,10 @@ winterkoninkje's [columbicubiculomania](http://winterkoninkje.dreamwidth.org/tag
 
 > Greatest fixpoints (Nu) are computations that can generate the structure, on demand. That is, they can respond to requests to produce the next level of the structure. 
 
+> This rule is a generalization of the ‘good consumer/good producer’ rules of thumb explained in the GHC manual
+
+[If a “good consumer” consumes an intermediate list constructed by a “good producer”, the intermediate list should be eliminated entirely.](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/exts/rewrite_rules.html)
+
 [A type checker plugin for row types](https://www.reddit.com/r/haskell/comments/6zdc73/ghcdevs_a_type_checker_plugin_for_row_types/)
 
 [Order theory for computer scientists](http://matt.might.net/articles/partial-orders/)

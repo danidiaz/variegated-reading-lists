@@ -454,6 +454,15 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 > computational structure that has extra base values which are unknowns or
 > computations blocked by unknowns.
 
+[going functional on exotic trades](https://arbitrary.name/papers/fpf.pdf)
+
+> The Functional Payout Framework, fpf, is a Haskell application that uses an
+> embedded domain specific functional language to represent and process exotic
+> financial derivatives.  Whereas scripting languages for pricing exotic
+> derivatives are common in banking, fpf uses multiple interpretations to not
+> only price such trades, but also to analyse the scripts to provide lifecycle
+> support and more.
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

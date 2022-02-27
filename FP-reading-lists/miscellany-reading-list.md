@@ -243,6 +243,10 @@ winterkoninkje's [columbicubiculomania](http://winterkoninkje.dreamwidth.org/tag
 
 [Controlling Fusion In Haskell](https://pay.reddit.com/r/haskell/comments/6yo9ew/controlling_fusion_in_haskell/)
 
+> Least fixpoints (Mu) are computations that can consume the structure, in one go. That is, they want to control when to consume each level of the structure.
+
+> Greatest fixpoints (Nu) are computations that can generate the structure, on demand. That is, they can respond to requests to produce the next level of the structure. 
+
 [A type checker plugin for row types](https://www.reddit.com/r/haskell/comments/6zdc73/ghcdevs_a_type_checker_plugin_for_row_types/)
 
 [Order theory for computer scientists](http://matt.might.net/articles/partial-orders/)

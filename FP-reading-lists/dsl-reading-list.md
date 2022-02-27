@@ -394,6 +394,14 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 > When reducing under λ, there will also be variables that do not have a value in the environment. To handle these cases, we need values that represent neutral expressions. 
 
+> Apply a function, potentially attaching more arguments to a neutral expression.
+
+> We can now work with values that are neutral, but every neutral value begins with a neutral variable, and those are not introduced anywhere. Additionally, our values are clearly not the normal forms of expressions. The second step in implementing a normalizer is to write a procedure to convert the values back into their representations as syntax—a process referred to as reading back or quoting value into syntax.
+
+> There are a number of ways in which type systems might not be syntax-directed. One way is that there might be insufficient information in the program to determine the type. For example, languages like ML in which all types can be inferred typically require a type checking algorithm that looks very little like the rules. Another alternative is to require that programs be annotated with types in enough locations to allow the type rules to follow the annotations. Another way in which type systems frequently fail to be syntax-directed is by having a complicated notion of type equality or subsumption, which makes it so that the type checker at each step could either transform a type or follow the program’s syntax. These are not the only ways in which types might fail to be syntax-directed, but they occur frequently.
+
+> Bidirectional type checking is a technique for making type systems syntax-directed that adds only a minimal annotation burden. Typically, only the top level of an expression or any explicit redexes need to be annotated. Additionally, bidirectional type checking provides guidance for the appropriate places to insert checks of type equality or subsumption.
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

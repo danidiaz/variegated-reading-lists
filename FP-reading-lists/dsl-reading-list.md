@@ -378,6 +378,11 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 > applying the 𝛽 laws by orienting them from left to right, and has a canonical
 > shape as dictated by the 𝜂 law.
 
+> addition and multiplication must be performed when both the operands are
+> available as lifted integer values. In the absence of either, such as in Add
+> (Lift 2) (Var "x"), the expression cannot be reduced further, and must be
+> considered to be in normal form
+
 [Introduction to Normalization by Evaluation (Favonia video)](https://www.youtube.com/watch?v=atKqqiXslyo). [reification seems related to eta rules](https://youtu.be/atKqqiXslyo?t=312) 
 
 > Good example of sorting as a form of "normalization".

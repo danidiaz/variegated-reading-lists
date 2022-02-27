@@ -554,3 +554,11 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [How I use AWS Security Hub](https://www.youtube.com/watch?v=BNH7b3YBmWM)
 
+[OAuth 2.0 and OpenID Connect protocols on the Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-protocols)
+
+[Login with a Public Ed25519 Key (broken)](https://news.ycombinator.com/item?id=30483727)
+
+[GitHub’s database of security advisories is now open source](https://news.ycombinator.com/item?id=30480862)
+
+
+

@@ -488,7 +488,23 @@ Small victory: make ed available to nix-shell inside repl.it. [Development envir
         nativeBuildInputs = [ pkgs.buildPackages.ed ];
     }
 
+Here's a variant without buildPackages:
+
+    { pkgs ? import <nixpkgs> {} }:
+      pkgs.mkShell {
+        # nativeBuildInputs is usually what you want -- tools you need to run
+        nativeBuildInputs = [ pkgs.ed pkgs.sqlite ];
+    }
+
 > For Flakes-based projects (flake.nix file in project root), we replace nix-shell with nix develop
+
+[what are the arguments of mkShell?](https://discourse.nixos.org/t/mkshell-vs-buildenv/681)
+
+[Use `buildInputs` or nativeBuildInputs` for `nix-shell`?](https://discourse.nixos.org/t/use-buildinputs-or-nativebuildinputs-for-nix-shell/8464)
+
+> for nix-shell, most people use a shell.nix + mkShell. In which case it doesn’t really matter as nix-shell doesn’t really make distinctions between them
+
+> In general though, nativeBuildInputs is useful for cross-compilation as commands from those derivations will be available on the hostPlatform and execute at build time. Whereas buildInputs will likely be the architecture of the targetPlatform, so the derivation can link against those inputs (and be used at run-time). 
 
 [overrides](https://ryantm.github.io/nixpkgs/using/overrides/)
 
@@ -507,5 +523,45 @@ Small victory: make ed available to nix-shell inside repl.it. [Development envir
 > You should prefer overrideAttrs in almost all cases
 
 [Inputs Design Pattern](https://nixos.org/guides/nix-pills/inputs-design-pattern.html#inputs-design-pattern)
+
+[Scrive Nix Workshop](https://scrive.github.io/nix-workshop/index.html)
+
+[Experiment Packaging: Don’t Repeat Yourself](https://nix-tutorial.gitlabpages.inria.fr/nix-tutorial/experiment-packaging.html). 
+
+[how Nix can help in the making of repeatable experiments](https://nix-tutorial.gitlabpages.inria.fr/nix-tutorial/index.html)
+
+[FAQ/Pinning Nixpkgs](https://nixos.wiki/wiki/FAQ/Pinning_Nixpkgs). [more pinning](https://scrive.github.io/nix-workshop/03-nix-basics/04-import.html#pinning-nixpkgs). 
+
+> Nix 2.0 introduces new builtins, fetchTarball and fetchGit, which make it possible to fetch a specific version of nixpkgs without depending on an existing one
+
+> Pinning nixpkgs is highly encouraged when developing Nix modules. Without pinning, your users may run your modules on a version of nixpkgs that is several months old.
+
+> We will go through in a later chapter on how to use niv to automate the management of pinned remote Nix packages.
+
+[Quick and Easy Nixpkgs Pinning (2018)](https://vaibhavsagar.com/blog/2018/05/27/quick-easy-nixpkgs-pinning/)
+
+> I love Nix because it makes packaging and using software so easy. For example, here’s a first stab at an expression that makes a recent version of Pandoc available in a nix-shell (be warned, this will take a while the first time!)
+
+> Barring an event like the garbage collection of the Nix store or a change in the expression above, we would like to never rebuild this package again.
+
+>  If we later update this by running $ nix-channel --update and any of the transitive dependencies of our expression are updated, this will cause a rebuild because Nix will rightly detect that the inputs have changed.
+
+> What happens if we want to update the pinned version? One workflow I’ve seen suggested is to update the rev, change one character in the sha256, and let the Nix error message tell you the correct hash to use. I think we can do better than this.
+
+[What is buildPackages in Nix?](https://stackoverflow.com/questions/67540620/what-is-buildpackages-in-nix)
+
+> After googling this expression I get very random results about people using this for compiling many languages
+
+> This looks like a package set to explicitly reference all packages built on the host during cross-compilation 
+
+[After a year of using NixOS, stdenv.mkDerivation is still something of a mystery to me. I only know how to use it by copying examples from other packages](https://github.com/NixOS/nixpkgs/issues/18678)
+
+[The complexity of the dependencies and hooks infrastructure has increased, over time, to support cross compilation.](https://nixos.org/guides/nix-pills/basic-dependencies-and-hooks.html)
+
+> Once you learn the core concepts, you will be able to understand the extra complexity. 
+
+[The propagatedBuildInputs Attribute](https://nixos.org/guides/nix-pills/basic-dependencies-and-hooks.html#idm140737319457488)
+
+> The buildInputs covers direct dependencies, but what about indirect dependencies where one package needs a second package which needs a third? Nix itself handles this just fine, understanding various dependency closures as covered in previous builds. But what about the conveniences that buildInputs provides, namely accumulating in pkgs environment variable and inclusion of pkg/bin directories on the PATH? For this, stdenv provides the propagatedBuildInputs
 
 

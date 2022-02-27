@@ -422,6 +422,16 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 > shadowing just means putting an extra binding at the front of the
 > environment.
 
+> normal forms are more than just expressions that do not contain redexes. To
+> be a normal form is to be the canonical representative of the equivalence
+> class induced by the equality judgment, such that comparing normal forms for
+> α-equivalence is sufficient to decide whether two expressions are equal.
+
+> One technique for solving this is extending normalization by evaluation to
+> take types into account. Reductions still occur in the evaluator, as before,
+> but the typed version of the read-back procedure takes the types into account
+> to perform η-expansion.
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

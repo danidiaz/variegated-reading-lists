@@ -372,6 +372,12 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 >  NbE’s ability to aggressively reduce arithmetic expressions even in the presence of unknown values
 
+> A normal form in NbE only needs to be some canonical element in the
+> equivalence class of expressions identified by the equations, but it is often
+> helpful to think of it as an expression that cannot be reduced further by
+> applying the 𝛽 laws by orienting them from left to right, and has a canonical
+> shape as dictated by the 𝜂 law.
+
 [Introduction to Normalization by Evaluation (Favonia video)](https://www.youtube.com/watch?v=atKqqiXslyo). [reification seems related to eta rules](https://youtu.be/atKqqiXslyo?t=312) 
 
 > Good example of sorting as a form of "normalization".

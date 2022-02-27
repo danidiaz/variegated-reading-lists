@@ -390,6 +390,8 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 > When we have a collection of equations over syntax, the syntax can be seen as divided into various “buckets,” where each expression in a bucket is αβ-equivalent to all the others in its bucket. One way to check whether two expressions are in the same bucket is to assign each bucket a representative expression and provide a way to find the bucket representative for any given expression. 
 
+> it is much easier to implement an evaluator with environments than it is to correctly implement substitution, which is surprisingly subtle.
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

@@ -474,6 +474,16 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 > only price such trades, but also to analyse the scripts to provide lifecycle
 > support and more.
 
+> The lifecycle of exotic trades involves many different people in different
+> rˆoles, including structurers, salespeople, quantitative analysts (“quants”),
+> risk management teams and traders. Structurers create new ideas for trades
+> and variations on existing ones. Their aim is to find novel and effective
+> ways to meet the client’s requirements. The structurers then develop and test
+> a prototype implementation.  Salespeople support interaction with the
+> customer, and write a term sheet that describes the option using a
+> combination of prose and mathematical notation. The quants provide
+> mathematical modelling expertise.
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

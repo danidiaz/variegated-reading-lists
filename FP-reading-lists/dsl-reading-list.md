@@ -402,6 +402,26 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 > Bidirectional type checking is a technique for making type systems syntax-directed that adds only a minimal annotation burden. Typically, only the top level of an expression or any explicit redexes need to be annotated. Additionally, bidirectional type checking provides guidance for the appropriate places to insert checks of type equality or subsumption.
 
+> Hi. Newbie question. While reading "Checking Dependent Types with
+> Normalization by Evaluation" I encountered the passage: it is much easier to
+> implement an evaluator with environments than it is to correctly implement
+> substitution, which is surprisingly subtle.  In what way does an "evaluator
+> with environments" avoids the need for substitution? Where can I find a
+> comparison of the "evaluator" approach and the one based in substitutions,
+> which I guess means doing beta reductions? 
+
+> An evaluator with environments can just look up the value of a variable in
+> the environment when it hits the variable case.  Substitution, on the other
+> hand, has to deal with capture avoidance issues.  Another part of the trick,
+> though, is that before putting a var:value pair in to the environment you
+> either a) force value to be fully evaluated already, as in an eager eval
+> style b) also associate value with (a copy of) the already-current
+> environment, the one it was intended to be evaluated in Doing either of those
+> means you never have to think about capture-avoidance or name collisions-
+> values are always evaluated in the context they were supposed to be,
+> shadowing just means putting an extra binding at the front of the
+> environment.
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

@@ -432,6 +432,28 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 > but the typed version of the read-back procedure takes the types into account
 > to perform η-expansion.
 
+> Typed normalization by evaluation is far from the only way to implement
+> conversion checking for dependent types. Indeed, normalization by evaluation
+> has a number of characteristics that make it only suitable for certain
+> theories: it η-expands expressions as many times as possible, but η-expansion
+> is not valid for some theories (including Coq’s Calculus of Constructions)
+> and which furthermore can consume a lot of memory if retained; also, it fully
+> normalizes terms when it may have been possible to determine they were
+> identical by an immediate α-equivalence check. Because NbE with higher-order
+> closures re-uses the implementation language’s functions, achieving laziness
+> in a strict implementation language requires additional work.
+
+[Normalization by Evaluation Dependent Types and Impredicativity—Abel (PDF)](https://www.cse.chalmers.se/~abela/habil.pdf)
+
+> Normalization by evaluation (NbE) is a technique to compute the normal form
+> of a lambda-term, i. e., an expression of a pure functional programming
+> language. While evaluation is only concerned with computing closed
+> expressions, normalization also applies to function bodies, thus, needs to
+> compute with open expressions containing free variables. NbE reduces
+> normalization to evaluation of expressions in a residualizing model, i. e., a
+> computational structure that has extra base values which are unknowns or
+> computations blocked by unknowns.
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

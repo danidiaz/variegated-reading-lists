@@ -386,6 +386,8 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [Partial evaluation, normalization by evaluation, multi-stage programming, supercompilation](http://lists.seas.upenn.edu/pipermail/types-announce/2021/009633.html)
 
+[These notes are a collection of literate programs that demonstrate how to derive a normalization procedure from an evaluator or interpreter](https://davidchristiansen.dk/tutorials/nbe/)
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

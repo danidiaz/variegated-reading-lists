@@ -64,4 +64,8 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Why doesn't GHC recognize the function as linear?](https://stackoverflow.com/a/70897280/1364288)
 
+[polarized arrays](https://hackage.haskell.org/package/linear-base-0.1.0/docs/Data-Array-Polarized.html).  [Controlled Array Fusion using Linear Types (slides)](http://www.cse.chalmers.se/~josefs/talks/LinArrays.pdf). [Controlling Fusion In Haskell](http://jyp.github.io/posts/controlled-fusion.html).
+
+
+
 

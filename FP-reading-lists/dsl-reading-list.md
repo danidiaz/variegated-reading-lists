@@ -209,6 +209,15 @@ http://www.iro.umontreal.ca/~monnier/tcm.pdf
 
 > There may be some who peer beyond symbols, who view them as shadows of real things, who look for intuitions behind the seemingly arbitrary rules and seek to grasp the meaning of the game.
 
+[Normalization and Partial Evaluation](http://hjemmesider.diku.dk/~andrzej/papers/NaPE.pdf)
+
+> We first present normalization by evaluation for a combinatory version of
+> G¨odel System T. Then we show normalization by evaluation for typed lambda
+> calculus with β and η conversion. Finally, we introduce the notion of binding
+> time, and explain the method of type-directed partial evaluation for a small
+> PCF-style functional programming language. We give algorithms for both
+> call-by-name and call-by-value versions of this language
+
 ## papers
 
 [Using Circular Programs for Higher-Order Syntax](http://www.cse.chalmers.se/~emax/documents/axelsson2013using.pdf)

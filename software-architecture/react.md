@@ -322,3 +322,10 @@ https://react-query.tanstack.com/
 
 [Hypermedia-Driven Application (HDA) architecture](https://twitter.com/htmx_org/status/1490333129000697856)
 
+[Hooks: React’s Do-Notation](https://news.ycombinator.com/item?id=30495034)
+
+[Story of a Failed React Project](https://javascript.plainenglish.io/story-of-a-failed-react-project-f32177479bdf)
+
+
+
+

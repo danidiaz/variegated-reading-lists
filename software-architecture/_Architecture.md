@@ -1093,3 +1093,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [System design #architecture for hotel booking apps (Like Airbnb, OYO)](https://twitter.com/VKazulkin/status/1497825991774855168)
 
+[breaking problems into concepts, not into steps](https://twitter.com/dabeaz/status/1498034981825925127). [video](https://www.youtube.com/watch?v=t-IUY6QrJyU).
+

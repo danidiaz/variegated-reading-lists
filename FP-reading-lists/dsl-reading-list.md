@@ -487,6 +487,8 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [Elementary Tutorial on Normalization-by-Evaluation](https://okmij.org/ftp/tagless-final/NBE.html)
 
+> There may be some who peer beyond symbols, who view them as shadows of real things, who look for intuitions behind the seemingly arbitrary rules and seek to grasp the meaning of the game.
+
 [going functional on exotic trades](https://arbitrary.name/papers/fpf.pdf)
 
 > The Functional Payout Framework, fpf, is a Haskell application that uses an

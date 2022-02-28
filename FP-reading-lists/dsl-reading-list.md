@@ -476,6 +476,15 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [What are the advantages of normalization by evaluation over traditional reduction-based normalization?](https://proofassistants.stackexchange.com/questions/196/what-are-the-advantages-of-normalization-by-evaluation-over-traditional-reductio)
 
+> Eta-equivalences such as M≡(λx.Mx) are quite difficult to implement with a
+> reduction-only algorithm. There are various reasons for this, such as the
+> fact that if you want to reduce λx.Mx to M you need to check that x doesn't
+> occur in M, and if you want to expand M to λx.Mx you need to have type
+> information present to know that M has a function-type. I won't say it's
+> impossible, but normalization-by-evaluation is a clean, generalizable, and
+> easy-to-reason-about family of algorithms that perform both β-reduction and
+> η-expansion in a type-directed way.
+
 [going functional on exotic trades](https://arbitrary.name/papers/fpf.pdf)
 
 > The Functional Payout Framework, fpf, is a Haskell application that uses an

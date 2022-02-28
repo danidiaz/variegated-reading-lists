@@ -474,6 +474,8 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 > proceeding purely structurally, except where we want syntax-directed
 > η-checking in the manner specified in ATAPL.
 
+[What are the advantages of normalization by evaluation over traditional reduction-based normalization?](https://proofassistants.stackexchange.com/questions/196/what-are-the-advantages-of-normalization-by-evaluation-over-traditional-reductio)
+
 [going functional on exotic trades](https://arbitrary.name/papers/fpf.pdf)
 
 > The Functional Payout Framework, fpf, is a Haskell application that uses an

@@ -393,3 +393,5 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [An introduction to type programming in TypeScript](https://news.ycombinator.com/item?id=30173375)
 
+[Named routes in servant](https://www.tweag.io/blog/2022-02-24-named-routes/). Neat application of quantified constraints.
+

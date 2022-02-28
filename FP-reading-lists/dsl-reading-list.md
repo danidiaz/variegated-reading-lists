@@ -465,6 +465,15 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 > computational structure that has extra base values which are unknowns or
 > computations blocked by unknowns.
 
+[The essential part of NbE is the separation of syntax and values](https://cstheory.stackexchange.com/questions/48952/what-technique-is-used-to-implement-type-checking-for-coc)
+
+> The specification of values is obtained from the specification of syntax by
+> replacing binders with metalanguage functions or closures. Evaluation goes
+> from syntax to values and performs β-reduction (but not necessarily
+> η-conversions). Then, conversion checking can be implemented on values,
+> proceeding purely structurally, except where we want syntax-directed
+> η-checking in the manner specified in ATAPL.
+
 [going functional on exotic trades](https://arbitrary.name/papers/fpf.pdf)
 
 > The Functional Payout Framework, fpf, is a Haskell application that uses an

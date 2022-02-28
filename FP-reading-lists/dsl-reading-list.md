@@ -485,6 +485,8 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 > easy-to-reason-about family of algorithms that perform both β-reduction and
 > η-expansion in a type-directed way.
 
+[Elementary Tutorial on Normalization-by-Evaluation](https://okmij.org/ftp/tagless-final/NBE.html)
+
 [going functional on exotic trades](https://arbitrary.name/papers/fpf.pdf)
 
 > The Functional Payout Framework, fpf, is a Haskell application that uses an

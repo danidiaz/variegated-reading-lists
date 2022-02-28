@@ -218,6 +218,9 @@ http://www.iro.umontreal.ca/~monnier/tcm.pdf
 > PCF-style functional programming language. We give algorithms for both
 > call-by-name and call-by-value versions of this language
 
+> In lambda calculus “evaluation” means normalization of a closed term, usually
+of base type.
+
 > It is important here to contrast (a) normalization and partial evaluation and
 > (b) the evaluation of a complete program. In (a) there are still unknown
 > (dynamic) inputs, whereas in (b) all the inputs are known.

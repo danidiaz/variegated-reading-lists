@@ -218,6 +218,10 @@ http://www.iro.umontreal.ca/~monnier/tcm.pdf
 > PCF-style functional programming language. We give algorithms for both
 > call-by-name and call-by-value versions of this language
 
+> It is important here to contrast (a) normalization and partial evaluation and
+> (b) the evaluation of a complete program. In (a) there are still unknown
+> (dynamic) inputs, whereas in (b) all the inputs are known.
+
 ## papers
 
 [Using Circular Programs for Higher-Order Syntax](http://www.cse.chalmers.se/~emax/documents/axelsson2013using.pdf)

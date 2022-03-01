@@ -606,5 +606,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > OpenID didn’t see much adoption; however, OpenID Connect is has seen significant success working alongside OAuth, replacing older protocols such as WS-Federation and SAML as the go-to for SSO.
 
+> OAuth is not authentication. It’s an authorization protocol, or, better yet, a delegation protocol
+
 [OpenSSH 8.9](https://news.ycombinator.com/item?id=30513246)
 

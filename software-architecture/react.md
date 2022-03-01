@@ -328,4 +328,6 @@ https://react-query.tanstack.com/
 
 [Announcing TypeScript 4.6](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/)
 
+[Things you don't need JavaScript for](https://news.ycombinator.com/item?id=30512512)
+
 

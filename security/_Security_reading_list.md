@@ -562,4 +562,46 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Anatomy of a JWT](https://news.ycombinator.com/item?id=30499618)
 
+[Why you probably don't need OAuth2 / OpenID Connect](https://www.ory.dev/oauth2-openid-connect-do-you-need-use-cases-examples/). [OAuth 2.0 flows explained in GIFs](https://dev.to/hem/oauth-2-0-flows-explained-in-gifs-2o7a). [OAuth is Not Authentication](https://www.scottbrady91.com/oauth/oauth-is-not-authentication). [Clients shouldn’t peek inside access tokens](https://www.cloudidentity.com/blog/2018/04/20/clients-shouldnt-peek-inside-access-tokens/). [The problem with OAuth for Authentication](http://www.thread-safe.com/2012/01/problem-with-oauth-for-authentication.html). [What is OpenID Connect?](https://www.scottbrady91.com/openid-connect/openid-connect-overview). [Understanding identity tokens](https://www.scottbrady91.com/openid-connect/identity-tokens). [OpenID Connect Endpoints](https://www.scottbrady91.com/openid-connect/openid-connect-endpoints). [OpenID Connect Flows](https://www.scottbrady91.com/openid-connect/openid-connect-flows).
+
+> Allow third parties to authenticate you via your e.g. Facebook account (OpenID Connect).
+
+> If you are new to OAuth2, it might be confusing why you need OpenID Connect. The two are interlinked yet different. The main distinguishing factor is the audience of the resulting tokens:
+> OAuth2's tokens (OAuth2 Access Token) have the first party server as their target audience.
+> OpenID Connect's tokens (ID Token) have the third party client as their target audience.
+
+> TL;DR: OAuth != authentication. If you need to know the users identity then use OpenID Connect, don’t hack it yourself.
+
+> When an authorization server issues an access token, the intended audience is
+> the protected resource. After all, this is what the token is providing access
+> to. It’s down to the protected resource to understand and validate the token.
+> One of the benefits of OAuth is that the protected resource doesn’t even need
+> to know who the requesting client application is, just what permissions it
+> has been delegated.
+
+> There is no standard structure for an access token. So even though the past
+> two points sound like they could be worked around, there’s no guarantee that
+> your client application would be able to understand it.  If you are relying
+> on an access token being a structured piece of data, there’s also no reason
+> it can’t change its structure at any time. Only the authorization server and
+> relying parties get a say in the access token structure; client applications
+> don’t get a say.
+
+> OpenID Connect (OIDC) provides a simple identity layer on top of the OAuth
+> 2.0 protocol, enabling Single Sign-On (SSO) and API access in one round trip.
+> It brings the missing user authentication story and identity layer to OAuth.
+
+> OpenID Connect achieves this using identity tokens, and a new API called the
+> user info endpoint. It turns your OAuth authorization server into an identity
+> provider (or OpenID provider).
+
+> An identity token describes the authentication event that took place at the
+> identity provider. It contains information such as when the user last
+> authenticated and how they authenticated. An identity token is always a
+> signed JSON Web Token (JWT).
+
+> Single LogOut (SLO) and session management.
+
+[OpenSSH 8.9](https://news.ycombinator.com/item?id=30513246)
+
 

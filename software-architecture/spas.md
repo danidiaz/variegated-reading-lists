@@ -45,3 +45,6 @@
 
 [Evolving your RESTful APIs](https://twitter.com/nicolas_frankel/status/1497982480367988736)
 
+[req, an HTTP scripting language](https://andrewpillar.com/programming/2022/02/26/req-an-http-scripting-language/)
+
+

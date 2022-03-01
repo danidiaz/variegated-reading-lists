@@ -141,4 +141,7 @@
 
 [Analysis and introspection options in linkers](https://maskray.me/blog/2022-02-27-analysis-and-introspection-options-in-linkers)
 
+[Debugging with GDB](https://felix-knorr.net/blog/using_gdb_directly.html)
+
+
 

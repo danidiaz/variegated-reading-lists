@@ -166,4 +166,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 > Often, you need to move beyond unit testing and start integration testing (with a Spring ApplicationContext). It is useful to be able to perform integration testing without requiring deployment of your application or needing to connect to other infrastructure.
 
+[os-fuzz](https://twitter.com/argoproj/status/1498407699867860994)
+
 

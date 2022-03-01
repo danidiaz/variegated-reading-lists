@@ -326,6 +326,6 @@ https://react-query.tanstack.com/
 
 [Story of a Failed React Project](https://javascript.plainenglish.io/story-of-a-failed-react-project-f32177479bdf)
 
-
+[Announcing TypeScript 4.6](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/)
 
 

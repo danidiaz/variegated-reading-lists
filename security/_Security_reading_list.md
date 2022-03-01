@@ -602,6 +602,9 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > Single LogOut (SLO) and session management.
 
-[OpenSSH 8.9](https://news.ycombinator.com/item?id=30513246)
+> OpenID 1.0 and 2.0 are obsolete specifications that pre-date OpenID Connect by almost 10 years. OpenID was a separate, custom authentication protocol, not related to OAuth or OpenID Connect.
 
+> OpenID didn’t see much adoption; however, OpenID Connect is has seen significant success working alongside OAuth, replacing older protocols such as WS-Federation and SAML as the go-to for SSO.
+
+[OpenSSH 8.9](https://news.ycombinator.com/item?id=30513246)
 

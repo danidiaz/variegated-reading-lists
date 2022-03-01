@@ -560,5 +560,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [GitHub’s database of security advisories is now open source](https://news.ycombinator.com/item?id=30480862)
 
+[Anatomy of a JWT](https://news.ycombinator.com/item?id=30499618)
 
 

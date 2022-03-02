@@ -566,5 +566,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [you can simulate OOP with FP by encoding objects as tuples of functions](https://twitter.com/shwestrick/status/1488588840835162113)
 
+[semantics for LLVM IR](https://twitter.com/wicko3/status/1498692563146100738)
+
 
 

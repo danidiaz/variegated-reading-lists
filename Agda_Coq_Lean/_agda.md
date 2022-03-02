@@ -310,4 +310,6 @@ Identity, Parametrically](https://jesper.sikanda.be/files/leibniz-equality.pdf)
 
 [ISRM-LOGRAC-2022-02-17 First steps with Agda](https://www.youtube.com/watch?v=0hsYR4bgDE8)
 
+["1 + (–1) = 0 in π₁(S¹)" but in cubical Agda](https://twitter.com/kisonecat/status/1499061783171985412)
+
 

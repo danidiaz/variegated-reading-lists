@@ -189,6 +189,8 @@ attempt to make equality reasonable again.”
 
 [CSCI 8980 Higher-Dimensional Type Theory](https://favonia.org/courses/hdtt2020/). [see also videos](https://www.youtube.com/watch?v=atKqqiXslyo).
 
+[Σ-types & “dependent products”](https://twitter.com/andrejbauer/status/1499080337615429635)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

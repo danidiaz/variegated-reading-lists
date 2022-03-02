@@ -191,6 +191,8 @@ attempt to make equality reasonable again.”
 
 [Σ-types & “dependent products”](https://twitter.com/andrejbauer/status/1499080337615429635)
 
+[staged compilation with dependent types](https://twitter.com/andrasKovacs6/status/1499075896883429377)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

@@ -47,4 +47,7 @@
 
 [req, an HTTP scripting language](https://andrewpillar.com/programming/2022/02/26/req-an-http-scripting-language/)
 
+[SPAs were a mistake](https://gomakethings.com/spas-were-a-mistake/). [hn](https://news.ycombinator.com/item?id=30528473).
+
+
 

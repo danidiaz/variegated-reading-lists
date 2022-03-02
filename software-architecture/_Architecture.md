@@ -1095,3 +1095,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [breaking problems into concepts, not into steps](https://twitter.com/dabeaz/status/1498034981825925127). [video](https://www.youtube.com/watch?v=t-IUY6QrJyU).
 
+[What does a 1972 paper have to do with the Single Responsibility Principle?](https://news.ycombinator.com/item?id=30529854)
+
+> it is almost always incorrect to begin the decomposition of a system into modules on the basis of a flowchart
+
+

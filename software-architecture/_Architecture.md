@@ -1099,4 +1099,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > it is almost always incorrect to begin the decomposition of a system into modules on the basis of a flowchart
 
+[Why “API-first” might not be a good idea](https://www.youtube.com/watch?v=fNLQiurGQhE). [slides](https://www.innoq.com/de/talks/2022/03/why-api-first-might-not-be-a-good-idea/).
+
 

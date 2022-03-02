@@ -783,6 +783,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Databases in 2021: A Year in Review](https://news.ycombinator.com/item?id=29731885).
 
+[have you tried rubbing a database on it?](https://www.hytradboi.com/)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

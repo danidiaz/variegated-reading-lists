@@ -193,6 +193,10 @@ attempt to make equality reasonable again.”
 
 [staged compilation with dependent types](https://twitter.com/andrasKovacs6/status/1499075896883429377)
 
+> our algorithm is "staging-by-evaluation", analogously to the technique of
+> normalization-by-evaluation, in that staging is given by the evaluation of
+> 2LTT syntax in a semantic domain. 
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

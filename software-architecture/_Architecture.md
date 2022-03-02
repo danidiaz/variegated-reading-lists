@@ -1101,4 +1101,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Why “API-first” might not be a good idea](https://www.youtube.com/watch?v=fNLQiurGQhE). [slides](https://www.innoq.com/de/talks/2022/03/why-api-first-might-not-be-a-good-idea/).
 
+[Typische Architekturfehler](https://www.youtube.com/watch?v=Sr4cfp8KYCU)
+
 

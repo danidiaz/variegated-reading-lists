@@ -372,3 +372,7 @@ Maybe that's why `intro` works for both?
 [Programming with dependent types in Coq: inductive families and dependent patter-matching.](https://twitter.com/Jose_A_Alonso/status/1221155592808599554)
 
 [the nature of tactics](https://twitter.com/jjcarett2/status/1351367688711532544)
+
+[Software foundations (HN)](https://news.ycombinator.com/item?id=30553612)
+
+

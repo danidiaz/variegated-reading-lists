@@ -45,7 +45,9 @@
 > 1. Reset Linux Distro on WSL
 > The first step is to create a baseline of your Linux distro/version.
 
-[How to install multiple instances of Ubuntu in WSL2](https://cloudbytes.dev/snippets/how-to-install-multiple-instances-of-ubuntu-in-wsl2). [How to add second WSL2 Ubuntu distro (fresh install)](https://superuser.com/questions/1515246/how-to-add-second-wsl2-ubuntu-distro-fresh-install). [How do you install multiple, separate instances of Ubuntu in WSL?](https://stackoverflow.com/questions/51584765/how-do-you-install-multiple-separate-instances-of-ubuntu-in-wsl). [Setting up multiple WSL distribution instances](https://endjin.com/blog/2021/11/setting-up-multiple-wsl-distribution-instances)
+[How to install multiple instances of Ubuntu in WSL2](https://cloudbytes.dev/snippets/how-to-install-multiple-instances-of-ubuntu-in-wsl2). [How to add second WSL2 Ubuntu distro (fresh install)](https://superuser.com/questions/1515246/how-to-add-second-wsl2-ubuntu-distro-fresh-install). [How do you install multiple, separate instances of Ubuntu in WSL?](https://stackoverflow.com/questions/51584765/how-do-you-install-multiple-separate-instances-of-ubuntu-in-wsl). 
+
+[Setting up multiple WSL distribution instances](https://endjin.com/blog/2021/11/setting-up-multiple-wsl-distribution-instances)
 
 > You may notice when you open the environment that it has logged in as the
 > root user instead of a custom user that you set up as part of the "base"
@@ -55,6 +57,11 @@
 > wsl -d <new distribution name> -u <username>
 >
 > or you can create/update a wsl.conf file in the /etc directory inside the environment,
+
+When doing the import, remember that you have to provide the directory in which
+the new image file will be created.
+
+Editing the wsl.conf file seems to work, before that, you enter the copied image as root.
 
 [Windows Terminal Tips & Tricks](https://docs.microsoft.com/en-us/windows/terminal/tips-and-tricks)
 

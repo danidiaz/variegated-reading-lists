@@ -26,6 +26,18 @@
 > command without parameters. Also, it opens from the "Open Linux here" context
 > menu command. 
 
+[Working across Windows and Linux file systems](https://docs.microsoft.com/en-us/windows/wsl/filesystems)
+
+>  We recommend against working across operating systems with your files,
+>  unless you have a specific reason for doing so. For the fastest performance
+>  speed, store your files in the WSL file system if you are working in a Linux
+>  command line (Ubuntu, OpenSUSE, etc). If you're working in a Windows command
+>  line (PowerShell, Command Prompt), store your files in the Windows file
+>  system.
+
+> When you see /mnt/ in the file path of a WSL command line, it means that you
+> are working from a mounted drive.  
+
 [Run Multiple Instances of Same Linux Distro on WSL (Windows 10/11)](https://sungkim11.medium.com/why-you-should-use-multiple-instances-of-same-linux-distro-on-wsl-windows-10-f6f140f8ed88)
 
 > 1. Reset Linux Distro on WSL

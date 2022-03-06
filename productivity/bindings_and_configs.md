@@ -73,5 +73,7 @@ Editing the wsl.conf file seems to work, before that, you enter the copied image
 
 [Boost Your Coding Fu With Visual Studio Code and Vim](https://www.barbarianmeetscoding.com/blog/boost-your-coding-fu-with-vscode-and-vim)
 
+[How to Change / Set up bash custom prompt (PS1) in Linux](https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html). [How-to: Setup Prompt Statement variables](https://ss64.com/bash/syntax-prompt.html)
+
 
 

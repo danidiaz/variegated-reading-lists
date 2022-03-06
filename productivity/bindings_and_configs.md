@@ -18,6 +18,8 @@
 > wsl.conf to configure settings per-distribution for Linux distros running on WSL 1 or WSL 2
 > Stored in the /etc directory of the distribution as a unix file.
 
+[Basic commands for WSL](https://docs.microsoft.com/en-us/windows/wsl/basic-commands)
+
 [Run Multiple Instances of Same Linux Distro on WSL (Windows 10/11)](https://sungkim11.medium.com/why-you-should-use-multiple-instances-of-same-linux-distro-on-wsl-windows-10-f6f140f8ed88)
 
 > 1. Reset Linux Distro on WSL

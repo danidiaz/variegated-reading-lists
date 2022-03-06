@@ -92,4 +92,8 @@ Editing the wsl.conf file seems to work, before that, you enter the copied image
 
 > If you follow those instructions for using WSL2 [...] you can install Nix normally as described in Single-user install. 
 
+What's added to .profile:
+
+> if [ -e /home/danidiaz/.nix-profile/etc/profile.d/nix.sh ]; then . /home/danidiaz/.nix-profile/etc/profile.d/nix.sh; fi # added by Nix installer
+
 

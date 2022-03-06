@@ -265,5 +265,5 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 
 [Próximamente en AWS Certification](https://aws.amazon.com/es/certification/coming-soon/)
 
-
+[How did you learn AWS?](https://lobste.rs/s/lzxl0w/how_did_you_learn_aws)
 

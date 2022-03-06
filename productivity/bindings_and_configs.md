@@ -38,6 +38,8 @@
 > When you see /mnt/ in the file path of a WSL command line, it means that you
 > are working from a mounted drive.  
 
+[How do I uninstall a WSL Distribution?](https://docs.microsoft.com/en-us/windows/wsl/faq#how-do-i-uninstall-a-wsl-distribution-)
+
 [Run Multiple Instances of Same Linux Distro on WSL (Windows 10/11)](https://sungkim11.medium.com/why-you-should-use-multiple-instances-of-same-linux-distro-on-wsl-windows-10-f6f140f8ed88)
 
 > 1. Reset Linux Distro on WSL

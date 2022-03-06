@@ -296,4 +296,7 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 > what you need. On the other hand, if you’re looking to securely isolate
 > resources within a public cloud, a VPC is the answer.
 
+> VPCs are essentially configurable private networks that can be made securely
+> accessible to other networks or individuals through the use of VPNs.
+
 

@@ -285,5 +285,6 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 
 [Terraform AWS 4.4.0](https://registry.terraform.io/providers/hashicorp/aws/4.4.0)
 
+[Terraform AWS get started](https://learn.hashicorp.com/collections/terraform/aws-get-started)
 
 

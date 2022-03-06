@@ -275,4 +275,7 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 > multiple volumes called blocks, which act as separate hard drives, and this
 > storage is not accessible via the internet.
 
+[Amazon EBS, Amazon EFS, o Amazon S3](https://www.nubersia.com/es/blog/amazon-ebs-amazon-efs-o-amazon-s3-cual-es-la-mejor-opcion-de-almacenamiento/)
+
+
 

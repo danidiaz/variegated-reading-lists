@@ -75,5 +75,21 @@ Editing the wsl.conf file seems to work, before that, you enter the copied image
 
 [How to Change / Set up bash custom prompt (PS1) in Linux](https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html). [How-to: Setup Prompt Statement variables](https://ss64.com/bash/syntax-prompt.html)
 
+> if [ "$color_prompt" = yes ]; then
+>     # PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+>     PS1='\[\033[01;34m\]\W\[\033[00m\]\$ '
+> else
+>     # PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
+>     PS1='\W\$ '
+> fi
+
+[Nix installation on WSL2](https://nixos.wiki/wiki/Nix_Installation_Guide)
+
+> Installation finished!  To ensure that the necessary environment
+> variables are set, either log in again, or type
+> 
+>   . /home/danidiaz/.nix-profile/etc/profile.d/nix.sh
+
+> If you follow those instructions for using WSL2 [...] you can install Nix normally as described in Single-user install. 
 
 

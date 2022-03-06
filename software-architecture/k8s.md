@@ -299,4 +299,7 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 > VPCs are essentially configurable private networks that can be made securely
 > accessible to other networks or individuals through the use of VPNs.
 
+[elastic load balancing is NOT elastic beanstalk](https://aws.amazon.com/es/elasticloadbalancing/)
+
+
 

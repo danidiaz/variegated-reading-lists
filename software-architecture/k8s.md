@@ -277,5 +277,13 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 
 [Amazon EBS, Amazon EFS, o Amazon S3](https://www.nubersia.com/es/blog/amazon-ebs-amazon-efs-o-amazon-s3-cual-es-la-mejor-opcion-de-almacenamiento/)
 
+[CloudFormation vs  Elastic Beanstalk – AWS’ PaaS and IaC services](https://www.justaftermidnight247.com/insights/cloudformation-vs-elastic-beanstalk-aws-paas-and-iac-services/)
+
+> Beanstalk vs CloudFormation In a nutshell. The essential difference between
+> these services is that Beanstalk handles deployment/provisioning for you
+> while CloudFormation requires a lot of input.
+
+[Terraform AWS 4.4.0](https://registry.terraform.io/providers/hashicorp/aws/4.4.0)
+
 
 

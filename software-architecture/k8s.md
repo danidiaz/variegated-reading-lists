@@ -263,3 +263,7 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 
 [AWS Community Builders](https://dev.to/aws-builders)
 
+[Próximamente en AWS Certification](https://aws.amazon.com/es/certification/coming-soon/)
+
+
+

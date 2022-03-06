@@ -267,3 +267,12 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 
 [How did you learn AWS?](https://lobste.rs/s/lzxl0w/how_did_you_learn_aws)
 
+[S3 vs EBS](https://www.geeksforgeeks.org/difference-between-aws-s3-and-aws-ebs/)
+
+> S3 is an object-level data storage 
+
+> Amazon EBS is a block-level data storage. Block storage stores files in
+> multiple volumes called blocks, which act as separate hard drives, and this
+> storage is not accessible via the internet.
+
+

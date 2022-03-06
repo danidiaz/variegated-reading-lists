@@ -168,4 +168,5 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [os-fuzz](https://twitter.com/argoproj/status/1498407699867860994)
 
+[Unit testing - 9 design hints](https://www.slideshare.net/VictorRentea/unit-testing-9-design-hints)
 

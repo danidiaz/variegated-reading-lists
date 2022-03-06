@@ -86,4 +86,5 @@
 
 [get along](https://twitter.com/NIDeveloper/status/1493522896161067017). [you have two jobs](https://jacobian.org/2017/nov/1/you-have-two-jobs/).
 
+[Pair Programming Antipatterns](https://news.ycombinator.com/item?id=30576109)
 

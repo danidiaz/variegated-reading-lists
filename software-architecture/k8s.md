@@ -287,4 +287,13 @@ https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5 https://jaxen
 
 [Terraform AWS get started](https://learn.hashicorp.com/collections/terraform/aws-get-started)
 
+AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc/).
+
+[ VPN OR VPC: WHICH ONE DO YOU NEED?  ](https://compliance.dev/2021/05/13/vpn-or-vpc/)
+
+> If you need to establish a connection between your company’s corporate
+> network and isolated resources in the cloud (or behind a firewall), a VPN is
+> what you need. On the other hand, if you’re looking to securely isolate
+> resources within a public cloud, a VPC is the answer.
+
 

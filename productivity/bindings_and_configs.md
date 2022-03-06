@@ -20,6 +20,12 @@
 
 [Basic commands for WSL](https://docs.microsoft.com/en-us/windows/wsl/basic-commands)
 
+[Set Default WSL Linux Distro in Windows 10](https://winaero.com/set-default-wsl-linux-distro-windows-10/)
+
+> A default WSL Linux distro is a distro that runs when you issue the "wsl"
+> command without parameters. Also, it opens from the "Open Linux here" context
+> menu command. 
+
 [Run Multiple Instances of Same Linux Distro on WSL (Windows 10/11)](https://sungkim11.medium.com/why-you-should-use-multiple-instances-of-same-linux-distro-on-wsl-windows-10-f6f140f8ed88)
 
 > 1. Reset Linux Distro on WSL

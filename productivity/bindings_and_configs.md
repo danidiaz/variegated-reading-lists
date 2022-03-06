@@ -8,6 +8,8 @@
 
 [Install WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
 
+[Set up a WSL development environment](https://docs.microsoft.com/en-us/windows/wsl/setup/environment#set-up-your-linux-username-and-password)
+
 [Windows Terminal Tips & Tricks](https://docs.microsoft.com/en-us/windows/terminal/tips-and-tricks)
 
 [General profile settings in Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/customize-settings/profile-general)

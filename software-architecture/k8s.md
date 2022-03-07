@@ -338,4 +338,8 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 > The AWS Cloud spans 84 Availability Zones within 26 geographic regions around
 > the world
 
+[AWS autoscaling](https://aws.amazon.com/autoscaling/)
+
+[Azure Application Insights on AWS with Elastic Beanstalk?](https://stackoverflow.com/questions/58694892/azure-application-insights-on-aws-with-elastic-beanstalk). [What is Amazon CloudWatch Application Insights?](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/appinsights-what-is.html). Does AWS Application Insights have the same function as the similarly named Azure service?   
+
 

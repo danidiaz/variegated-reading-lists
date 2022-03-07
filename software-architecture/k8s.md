@@ -328,4 +328,14 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 > However, in reality, you have an instance and an EBS [Elastic block store]
 > volume attached to it.
 
+> To achieve reliability on this architecture, you need to enable the Multi-AZ
+> feature on your RDS instance and replicate it synchronously to a standby
+> replica in another Availability Zone. So you gain two copies of your database
+> in two availability zones.
+
+[AWS global infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/?nc1=h_ls)
+
+> The AWS Cloud spans 84 Availability Zones within 26 geographic regions around
+> the world
+
 

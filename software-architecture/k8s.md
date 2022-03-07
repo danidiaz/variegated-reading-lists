@@ -305,4 +305,27 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 
 [AWS re:Inforce 2019: The Fundamentals of AWS Cloud Security](https://www.youtube.com/watch?v=-ObImxw1PmI). [AWS Networking Fundamentals - AWS video](https://www.youtube.com/watch?v=hiKPPy584Mg).
 
+[Aurora vs. RDS: Why Should You Choose Aurora Over Regular RDS?](https://blog.shikisoft.com/why-choose-aurora-over-regular-rds/)
+
+> Amazon RDS is the managed relational database solution of AWS. You leave the
+> setup and maintenance of your database to AWS and focus on building
+> applications using it. You can launch and maintain community edition MySQL,
+> PostgreSQL databases as well as commercial Oracle and SQL Server databases on
+> Amazon RDS. However, a few years ago, AWS developed its own cloud-native,
+> enterprise-level database engine called Amazon Aurora, which provides MySQL
+> and PostgreSQL compatibility.  
+
+> First of all, Amazon Aurora is neither MySQL nor PostgreSQL. It is a
+> different, cloud-native database engine developed by AWS providing versions
+> compatible with these two databases. You also launch and manage your Aurora
+> database clusters with the help of Amazon RDS. This is why you see it on
+> Amazon RDS Console. Besides, Aurora provides all the advantages of RDS.
+> Hence, we can consider it as an enhanced version of Amazon RDS. 
+
+> When you use regular Amazon RDS, the architecture is similar to installing it
+> on Amazon EC2 manually but leaving the provisioning and maintenance to AWS.
+> Of course, RDS provides many features like automatic failovers, backups, etc.
+> However, in reality, you have an instance and an EBS [Elastic block store]
+> volume attached to it.
+
 

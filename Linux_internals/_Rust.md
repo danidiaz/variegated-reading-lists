@@ -118,5 +118,5 @@
 
 [JITted, statically-typed AWK written in Rust](https://news.ycombinator.com/item?id=30343373)
 
-
+[Request Coalescing in Async Rust](https://news.ycombinator.com/item?id=30580797). Includes description of OpenTelemetry.
 

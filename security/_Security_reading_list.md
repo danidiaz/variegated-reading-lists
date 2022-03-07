@@ -610,7 +610,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [OpenSSH 8.9](https://news.ycombinator.com/item?id=30513246)
 
-[1password working from home](https://1password.com/working-from-home/). [1password business](https://1password.com/business/). [How to get started with 1Password](https://www.youtube.com/watch?v=8UQnkKUgdHk). [10 best features of 1Password](https://www.youtube.com/watch?v=_gkLElDiFnw). Provide secret key on each new device?
+[1password working from home](https://1password.com/working-from-home/). [1password business](https://1password.com/business/). [How to get started with 1Password](https://www.youtube.com/watch?v=8UQnkKUgdHk). [10 best features of 1Password](https://www.youtube.com/watch?v=_gkLElDiFnw). Provide secret key on each new device? [Get to know 1Password in your browser](https://www.youtube.com/watch?v=YaUE11OOrME)
 
 
 

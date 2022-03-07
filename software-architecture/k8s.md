@@ -301,5 +301,6 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 
 [elastic load balancing is NOT elastic beanstalk](https://aws.amazon.com/es/elasticloadbalancing/)
 
+[AWS re:Inforce 2019: The Fundamentals of AWS Cloud Security](https://www.youtube.com/watch?v=-ObImxw1PmI). [AWS Networking Fundamentals - AWS video](https://www.youtube.com/watch?v=hiKPPy584Mg).
 
 

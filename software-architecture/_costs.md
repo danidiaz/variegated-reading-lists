@@ -118,3 +118,8 @@
 
 [AWS Backup](https://twitter.com/andreaswittig/status/1497281084098334723)
 
+[Billing and cost management in AWS (video)](https://youtu.be/x7jGAdxYVVQ?t=4235)
+
+> Alerts for Spending Limits in the free tier
+
+

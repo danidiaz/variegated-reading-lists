@@ -96,4 +96,8 @@ What's added to .profile:
 
 > if [ -e /home/danidiaz/.nix-profile/etc/profile.d/nix.sh ]; then . /home/danidiaz/.nix-profile/etc/profile.d/nix.sh; fi # added by Nix installer
 
+[WSL2 port forwarding (video)](https://www.youtube.com/watch?v=ACjlvzw4bVE). [WSL-2: Which ports are automatically forwarded?](https://stackoverflow.com/questions/64513964/wsl-2-which-ports-are-automatically-forwarded). [Connecting to WSL2 server via local network](https://stackoverflow.com/questions/61002681/connecting-to-wsl2-server-via-local-network). [Access a localhost running in Windows from inside WSL2?](https://stackoverflow.com/questions/64763147/access-a-localhost-running-in-windows-from-inside-wsl2). [Sharing network between Windows and WSL apps](https://stackoverflow.com/questions/66328807/sharing-network-between-windows-and-wsl-apps). 
+
+
+
 

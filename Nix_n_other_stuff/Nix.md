@@ -566,3 +566,7 @@ Here's a variant without buildPackages:
 
 [Nix Flakes: Packages and How to Use Them](https://christine.website/blog/nix-flakes-2-2022-02-27)
 
+[Nix + Docker, a match made in heaven (video)](https://youtu.be/WP_oAmV6C2U?t=2616)
+
+
+

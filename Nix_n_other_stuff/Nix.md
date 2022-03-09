@@ -566,7 +566,8 @@ Here's a variant without buildPackages:
 
 [Nix Flakes: Packages and How to Use Them](https://christine.website/blog/nix-flakes-2-2022-02-27)
 
-[Nix + Docker, a match made in heaven (video)](https://youtu.be/WP_oAmV6C2U?t=2616)
+[Nix + Docker, a match made in heaven (video)](https://youtu.be/WP_oAmV6C2U?t=2616). [Functional programming and Nix for reproducible, immutable infrastructure (video)](https://www.youtube.com/watch?v=mKXLAbrKrno).
 
+[Chapter 16. Nixpkgs Parameters](https://nixos.org/guides/nix-pills/nixpkgs-parameters.html#nixpkgs-parameters)
 
 

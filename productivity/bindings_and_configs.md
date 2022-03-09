@@ -104,10 +104,6 @@ What's added to .profile:
 
 > WSL-2 ports can be made available through netstat interface portproxy or other portforward tools using the ip address of the WSL instance. 
 
-
-
-
-
-
+> In WSL2, the instance is running in a Hyper-V VM with a virtual NIC that is NAT'd behind the Windows host. However, the Windows host itself should have direct access to services running in the instance through localhost. WSL appears to do some automatic port-forwarding, but only from the local Windows host to the WSL instance.
 
 

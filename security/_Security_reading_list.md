@@ -612,5 +612,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [1password working from home](https://1password.com/working-from-home/). [1password business](https://1password.com/business/). [How to get started with 1Password](https://www.youtube.com/watch?v=8UQnkKUgdHk). [10 best features of 1Password](https://www.youtube.com/watch?v=_gkLElDiFnw). Provide secret key on each new device? [Get to know 1Password in your browser](https://www.youtube.com/watch?v=YaUE11OOrME)
 
+[Understand Amazon Cognito user pools and identity pools](https://aws.amazon.com/premiumsupport/knowledge-center/cognito-user-pools-identity-pools/)
+
+[Where’s My Secret Access Key? (aws)](https://aws.amazon.com/blogs/security/wheres-my-secret-access-key/)
 
 

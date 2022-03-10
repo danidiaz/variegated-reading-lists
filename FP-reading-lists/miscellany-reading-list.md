@@ -568,5 +568,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [semantics for LLVM IR](https://twitter.com/wicko3/status/1498692563146100738)
 
+[On the design of text editors (pdf)](https://lobste.rs/s/nhjguu/on_design_text_editors)
+
 
 

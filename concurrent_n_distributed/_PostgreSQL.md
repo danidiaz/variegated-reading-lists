@@ -189,5 +189,9 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [PostgreSQL Schema Change Guide](https://www.reddit.com/r/PostgreSQL/comments/t10cew/postgresql_schema_change_guide/)
 
+[Postgres Auditing in 150 lines of SQL](https://news.ycombinator.com/item?id=30615470)
+
+[How we optimized PostgreSQL queries 100x](https://towardsdatascience.com/how-we-optimized-postgresql-queries-100x-ff52555eabe)
+
 
 

@@ -170,3 +170,7 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Unit testing - 9 design hints](https://www.slideshare.net/VictorRentea/unit-testing-9-design-hints)
 
+[Still No Consensus On Testing Private Methods](https://lobste.rs/s/llx1s6/still_no_consensus_on_testing_private)
+
+
+

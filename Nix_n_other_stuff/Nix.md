@@ -570,4 +570,6 @@ Here's a variant without buildPackages:
 
 [Chapter 16. Nixpkgs Parameters](https://nixos.org/guides/nix-pills/nixpkgs-parameters.html#nixpkgs-parameters)
 
+[direnv – unclutter your .profile](https://direnv.net/)
+
 

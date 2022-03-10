@@ -109,6 +109,10 @@
 
 - [Parametric insurance](https://en.wikipedia.org/wiki/Parametric_insurance)
 
+- [Layering](https://dwbi1.wordpress.com/2010/08/11/layering-in-insurance/)
+
+- [endorsement](https://www.allstate.com/tr/insurance-basics/insurance-endorsement.aspx)
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

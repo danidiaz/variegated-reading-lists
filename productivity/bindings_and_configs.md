@@ -106,4 +106,25 @@ What's added to .profile:
 
 > In WSL2, the instance is running in a Hyper-V VM with a virtual NIC that is NAT'd behind the Windows host. However, the Windows host itself should have direct access to services running in the instance through localhost. WSL appears to do some automatic port-forwarding, but only from the local Windows host to the WSL instance.
 
+[advanced tmux features](https://twitter.com/DiazCarrete/status/1341032047402512384) [How I navigate tmux in 2021](https://waylonwalker.com/tmux-nav-2021/). [playlist](https://www.youtube.com/playlist?list=PLTRNG6WIHETB4reAxbWza3CZeP9KL6Bkr). [interactive window selector fullscreen while in split](https://unix.stackexchange.com/questions/417853/tmux-interactive-window-selector-fullscreen-while-in-split). [The 10 Most Important Commands](https://danielmiessler.com/study/tmux/). [scripting tmux](https://www.arp242.net/tmux.html). [useful subcommands or shortcuts](https://mudongliang.github.io/2017/09/01/tmux-useful-subcommands-or-shortcuts.html). [Super Guide to the split-window tmux Subcommand (and Beyond)](https://steve.dondley.com/super-guide-to-the-split-window-tmux-subcommand-and-beyond/)
+
+>  more advanced features such as hooks, targets and IDs, monitoring and
+>  alerts, formats and #(), command sequences, if-shell and run-shell,
+>  new/neww/splitw -P and shell scripting with tmux, buffers, capture-pane and
+>  pipe-pane, find-window and filters etc in the choose modes, pane titles,
+>  terminal-overrides, linking windows and session groups, detach -P,
+>  remain-on-exit and exit-unattached and detach-on-destroy, the mouse and
+>  advanced key bindings, the new status-format stuff in 2.9, and even menus
+>  coming in 3.0.
+
+> The default function for <prefix>w is choose-tree -w
+
+> If you try to find information about starting tmux workspaces you typically
+> get advised to use wrapper programs such as tmuxinator, tmux-resurrect, or
+> tmux-continuum. These programs may be great, but I like a simple approach. 
+
+[X server on windows + WSL2](https://www.reddit.com/r/bashonubuntuonwindows/comments/hl8lsf/comment/fwxw2t1/). 
+
+> make sure "Disable access control" checkbox is ticked. [:(]
+
 

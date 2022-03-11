@@ -574,4 +574,9 @@ Here's a variant without buildPackages:
 
 [Intro to Flakes](https://www.youtube.com/watch?v=K54KKAx2wNc)
 
+[Nix - A One Pager](https://github.com/tazjin/nix-1p)
+
+> Nix has three major things that could be considered its standard library and while there's a lot of debate to be had about this point, you still need to know all three.
+
+
 

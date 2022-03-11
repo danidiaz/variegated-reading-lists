@@ -572,4 +572,6 @@ Here's a variant without buildPackages:
 
 [direnv – unclutter your .profile](https://direnv.net/)
 
+[Intro to Flakes](https://www.youtube.com/watch?v=K54KKAx2wNc)
+
 

@@ -1103,4 +1103,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Typische Architekturfehler](https://www.youtube.com/watch?v=Sr4cfp8KYCU)
 
+[migrations](https://twitter.com/GergelyOrosz/status/1502216949425651712)
+
 

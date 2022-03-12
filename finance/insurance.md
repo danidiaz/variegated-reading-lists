@@ -113,7 +113,7 @@
 
 - [endorsement](https://www.allstate.com/tr/insurance-basics/insurance-endorsement.aspx)
 
-- [Level-Premium Insurance](https://www.investopedia.com/terms/l/levelpremiumlife.asp) [Term Life Insurance](https://www.investopedia.com/terms/t/termlife.asp).
+- [Level-Premium Insurance](https://www.investopedia.com/terms/l/levelpremiumlife.asp) [Term Life Insurance](https://www.investopedia.com/terms/t/termlife.asp). [What To Know About Cash Value Life Insurance](https://www.forbes.com/advisor/life-insurance/cash-value-life-insurance/).
 
 ## Questions
 

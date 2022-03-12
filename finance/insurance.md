@@ -113,6 +113,8 @@
 
 - [endorsement](https://www.allstate.com/tr/insurance-basics/insurance-endorsement.aspx)
 
+- [Level-Premium Insurance](https://www.investopedia.com/terms/l/levelpremiumlife.asp) [Term Life Insurance](https://www.investopedia.com/terms/t/termlife.asp).
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

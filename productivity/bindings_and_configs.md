@@ -127,4 +127,6 @@ What's added to .profile:
 
 > make sure "Disable access control" checkbox is ticked. [:(]
 
+[Inspecting Web Views in macOS](https://news.ycombinator.com/item?id=30648424)
+
 

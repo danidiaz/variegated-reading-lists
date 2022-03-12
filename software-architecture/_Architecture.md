@@ -1105,4 +1105,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [migrations](https://twitter.com/GergelyOrosz/status/1502216949425651712)
 
+[FWA](https://news.ycombinator.com/item?id=30634496)
+
+> After working for the past ~3 years with a microservice oriented architecture, I can only imagine the horrors of having to work on a project built with lambdas
+
 

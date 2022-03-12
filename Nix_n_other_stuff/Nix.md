@@ -580,5 +580,13 @@ Here's a variant without buildPackages:
 
 [Nixery - inherit](https://nixery.dev/nix-1p.html#inherit-keyword)
 
+[with](https://discourse.nixos.org/t/what-is-the-added-benefit-of-let-in-compared-to-plain-with-with-rec/14248/5)
+
+> with foo is considered a bad design error of the language by some of us, and we consider the excessive use of with pkgs throughout tutorials and examples not only unidiomatic but also misleading.
+
+> Also, remember that let and function arguments win over with.
+
+> foo: let foo = 1; in foo always returns 1, while foo: with { foo = 1; }; foo is equivalent to x: x.
+
 
 

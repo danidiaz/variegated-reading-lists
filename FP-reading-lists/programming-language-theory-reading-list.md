@@ -598,6 +598,59 @@ handlers as additional arguments to methods.
 
 [proof-relevant unification (thesis)](https://twitter.com/agdakx/status/1487475588462002182)
 
+[Lambda calculus interpreter](https://cs.pomona.edu/~michael/courses/csci131f15/hw/hw04.html)
+
+> The semantics for the lambda calculus we’ve used in class uses substitution, not environments. Let’s write an interpreter that uses substitution!
+
+> What are the pros and cons of the two styles of evaluator we’ve written?
+
+[Architectures for interpreters: Substitutional, denotational, big-step and small-step](https://matt.might.net/articles/writing-an-interpreter-substitution-denotational-big-step-small-step/). This was hugely helpful!!!!!
+
+> Substitution-based interpreters model an executing program's state as a program, and they make progress by repeatedly transforming one program into another.
+
+[From Substitution to Environments](https://papl.cs.brown.edu/2016/Interpreting_Functions.html#%28part._subst-to-env%29). Very lucid explanation!
+
+> Though we have a working definition of functions, you may feel a slight
+> unease about it. When the interpreter sees an identifier, you might have had
+> a sense that it needs to “look it up”. 
+
+> There’s another difficulty with using substitution, which is the number of
+> times we traverse the source program. It would be nice to have to traverse
+> only those parts of the program that are actually evaluated, and then, only
+> when necessary. But substitution traverses everything—unvisited branches of
+> conditionals, for instance—and forces the program to be traversed once for
+> substitution and once again for interpretation.
+
+> The intuition that addresses the first concern is to have the interpreter
+> “look up” an identifier in some sort of directory. The intuition that
+> addresses the second concern is to defer the substitution. Fortunately, these
+> converge nicely in a way that also addresses the third. The directory records
+> the intent to substitute, without actually rewriting the program source; by
+> recording the intent, rather than substituting immediately, we can defer
+> substitution; and the resulting data structure, which is called an
+> environment, avoids the need for source-to-source rewriting and maps nicely
+> to low-level machine representations. Each name association in the
+> environment is called a binding.
+
+> The intuition that addresses the first concern is to have the interpreter “look
+> up” an identifier in some sort of directory. The intuition that addresses the
+> second concern is to defer the substitution. Fortunately, these converge nicely
+> in a way that also addresses the third. The directory records the intent to
+> substitute, without actually rewriting the program source; by recording the
+> intent, rather than substituting immediately, we can defer substitution; and
+> the resulting data structure, which is called an environment, avoids the need
+> for source-to-source rewriting and maps nicely to low-level machine
+> representations. Each name association in the environment is called a binding.
+
+> This does not mean our study of substitution was useless; to the contrary, many
+> tools that work over programs—such as compilers and analyzers—use substitution.
+> Just not for the purpose of evaluating it at run-time.
+> 
+> Observe carefully that what we are changing is the implementation strategy
+> for the programming language, not the language itself.
+
+[papl](https://papl.cs.brown.edu/). [A Data-Centric Introduction to Computing](https://dcic-world.org/). [Programming Languages: Application and Interpretation (PLAI)](https://www.plai.org/). Look like great resources!
+
 # slides
 
 [Functional programming languages Part I: interpreters and operational semantics](https://xavierleroy.org/mpri/2-4/semantics.pdf) [whole](https://xavierleroy.org/mpri/2-4/)
@@ -657,6 +710,16 @@ handlers as additional arguments to methods.
 [Counterexamples in Type Systems](http://counterexamples.org/intro.html)
 
 [how undefined values arise In programming languages.](https://twitter.com/andrejbauer/status/1268928013472870402)
+
+[Efficient Lambda Interpreters](https://homes.cs.washington.edu/~djg/teachingMaterials/gpl/lectures/lec14_6up.pdf)
+
+> replace substitution with environment/closures
+
+> Making evaluation contexts explicit data structures was key
+
+[A Lambda Interpreter](http://lampwww.epfl.ch/teaching/archive/foundations_of_programming/2001/slides/interp.pdf)
+
+
 
 # books
 

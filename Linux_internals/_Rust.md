@@ -120,3 +120,6 @@
 
 [Request Coalescing in Async Rust](https://news.ycombinator.com/item?id=30580797). Includes description of OpenTelemetry.
 
+[Things I hate about Rust, redux](https://lobste.rs/s/bcfxjw/things_i_hate_about_rust_redux)
+
+

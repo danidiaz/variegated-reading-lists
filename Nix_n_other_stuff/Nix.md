@@ -588,5 +588,5 @@ Here's a variant without buildPackages:
 
 > foo: let foo = 1; in foo always returns 1, while foo: with { foo = 1; }; foo is equivalent to x: x.
 
-
+[Nix (builtins) & Nixpkgs (lib) Functions](https://teu5us.github.io/nix-lib.html)
 

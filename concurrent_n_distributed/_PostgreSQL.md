@@ -193,5 +193,5 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [How we optimized PostgreSQL queries 100x](https://towardsdatascience.com/how-we-optimized-postgresql-queries-100x-ff52555eabe)
 
-
+[hooks in Postgres](https://ctodive.com/hooks-the-secret-feature-powering-the-postgres-ecosystem-f05b3b82e0ba)
 

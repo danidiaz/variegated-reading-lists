@@ -88,3 +88,6 @@
 
 [Pair Programming Antipatterns](https://news.ycombinator.com/item?id=30576109)
 
+[Don't ask to ask, just ask](https://dontasktoask.com/)
+
+

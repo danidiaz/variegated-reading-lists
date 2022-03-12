@@ -578,5 +578,7 @@ Here's a variant without buildPackages:
 
 > Nix has three major things that could be considered its standard library and while there's a lot of debate to be had about this point, you still need to know all three.
 
+[Nixery - inherit](https://nixery.dev/nix-1p.html#inherit-keyword)
+
 
 

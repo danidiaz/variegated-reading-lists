@@ -129,4 +129,16 @@ What's added to .profile:
 
 [Inspecting Web Views in macOS](https://news.ycombinator.com/item?id=30648424)
 
+[Developing in WSL](https://code.visualstudio.com/docs/remote/wsl). [WSL 2 with Visual Studio Code](https://code.visualstudio.com/blogs/2019/09/03/wsl2). [Visual Studio Code Remote - WSL](https://www.youtube.com/watch?v=mIHprjsSO9o). 
+
+> Install Visual Studio Code on the Windows side (not in WSL). 
+
+> Opening a terminal in WSL from VS Code is simple. Once folder is opened in
+> WSL, any terminal window you open in VS Code (Terminal > New Terminal) will
+> automatically run in WSL rather than locally.
+
+> You can also use the code command line from this same terminal window to
+> perform a number of operations such as opening a new file or folder in WSL. 
+
+> a console and a shell are different things
 

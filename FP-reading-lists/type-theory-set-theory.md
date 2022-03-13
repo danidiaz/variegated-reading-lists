@@ -199,6 +199,8 @@ attempt to make equality reasonable again.”
 
 [context awareness](https://twitter.com/PTOOP/status/1498811523153735684?t=HHvLd4O3tkH24iy31gTuxQ&s=03)
 
+[domain theory for dummies](https://twitter.com/ProfMaxNew/status/1502736521992019970)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

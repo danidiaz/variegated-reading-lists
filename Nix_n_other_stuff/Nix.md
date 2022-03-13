@@ -590,3 +590,8 @@ Here's a variant without buildPackages:
 
 [Nix (builtins) & Nixpkgs (lib) Functions](https://teu5us.github.io/nix-lib.html)
 
+[nmattia/niv: Easy dependency management for Nix projects](https://github.com/nmattia/niv)
+
+
+
+

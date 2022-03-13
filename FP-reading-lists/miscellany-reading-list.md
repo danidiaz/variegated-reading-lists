@@ -570,5 +570,15 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [On the design of text editors (pdf)](https://lobste.rs/s/nhjguu/on_design_text_editors)
 
+[A remark on Lazy ST monad and MonadFix](https://coot.me/posts/lazy-st.html)
+
+[Review: Generic Parallel Functional Programming](https://reasonablypolymorphic.com/blog/generic-parallel-fp/index.html)
+
+> the duality between “easy to reason about” and “fast to run.”
+
+> Computation time doesn’t respect isos
+
+> Math is deeply about extentionality; two mathematical objects are equivalent if their abstract interfaces are indistinguishable. Computation… doesn’t have this property. 
+
 
 

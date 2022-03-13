@@ -209,4 +209,7 @@ Stuff about the heap:
 
 [conditional coding](https://blockscope.com/posts/2022-02-23-iffy-diffy.html)
 
+[What does the GHC source mean by "zonk"?](https://stackoverflow.com/questions/31889048/what-does-the-ghc-source-mean-by-zonk)
+
+
 

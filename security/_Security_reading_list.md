@@ -616,4 +616,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Where’s My Secret Access Key? (aws)](https://aws.amazon.com/blogs/security/wheres-my-secret-access-key/)
 
+[Why Single Sign on Sucks](https://news.ycombinator.com/item?id=30646081)
+
 

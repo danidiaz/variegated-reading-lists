@@ -592,6 +592,6 @@ Here's a variant without buildPackages:
 
 [nmattia/niv: Easy dependency management for Nix projects](https://github.com/nmattia/niv)
 
-
+[The hard part of type-checking Nix](https://www.haskellforall.com/2022/03/the-hard-part-of-type-checking-nix.html)
 
 

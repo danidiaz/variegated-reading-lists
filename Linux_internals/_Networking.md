@@ -78,4 +78,6 @@
 
 [Basic Network Troubleshooting](https://news.ycombinator.com/item?id=30317540)
 
+[Simuladores para virtualizar redes y aprender routing y switching](https://www.redeszone.net/tutoriales/redes-cable/programas-simular-red/)
+
 

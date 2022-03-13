@@ -1110,3 +1110,16 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 > After working for the past ~3 years with a microservice oriented architecture, I can only imagine the horrors of having to work on a project built with lambdas
 
 [How to Design Better APIs](https://news.ycombinator.com/item?id=30647784)
+
+[Storing UTC is not a silver bullet (2019)](https://news.ycombinator.com/item?id=30659164)
+
+> If you've worked on a distributed team that had members in the UK/EU and the
+> USA then you've run into this before when scheduling meetings.  A 10am PDT
+> America/Los_Angeles meeting is different from a 6pm BST Europe/London meeting
+> which is different from a 5pm GMT meeting and those will jump around by an
+> hour depending on time changes. If the bulk of your team is in Seattle then
+> you probably want to pick the US timezone for the meeting and not GMT or
+> London. If you have a manager in London, though, who sets up the meeting time
+> in their local timezone then Seattle employees will notice tomorrow that the
+> meeting is a hour later in Seattle than it normally is.
+

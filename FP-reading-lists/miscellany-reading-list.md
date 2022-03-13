@@ -580,5 +580,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > Math is deeply about extentionality; two mathematical objects are equivalent if their abstract interfaces are indistinguishable. Computation… doesn’t have this property. 
 
-
+[Storing UTC is not a silver bullet](https://news.ycombinator.com/item?id=30659164)
 

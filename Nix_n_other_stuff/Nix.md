@@ -594,4 +594,6 @@ Here's a variant without buildPackages:
 
 [The hard part of type-checking Nix](https://www.haskellforall.com/2022/03/the-hard-part-of-type-checking-nix.html)
 
+[a tour of Nix—further reading](https://nixcloud.io/tour/?id=34)
+
 

@@ -1111,6 +1111,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [How to Design Better APIs](https://news.ycombinator.com/item?id=30647784)
 
+> Microsoft's REST API design guidelines are both thorough and there's very little I'd object to.
+
 [Storing UTC is not a silver bullet (2019)](https://news.ycombinator.com/item?id=30659164)
 
 > If you've worked on a distributed team that had members in the UK/EU and the

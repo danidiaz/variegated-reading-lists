@@ -596,4 +596,28 @@ Here's a variant without buildPackages:
 
 [a tour of Nix—further reading](https://nixcloud.io/tour/?id=34)
 
+[Nix: Under the hood](https://www.youtube.com/watch?v=GMQPzv3Sx58)
+
+[How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/). [An introduction to nix-shell](http://ghedam.at/15978/an-introduction-to-nix-shell). [A minimal nix-shell](https://fzakaria.com/2021/08/02/a-minimal-nix-shell.html). []()
+
+[Writing a split derivation](https://nixos.org/manual/nixpkgs/stable/#sec-multiple-outputs-)
+
+> a derivation that produces multiple outputs
+
+> the whole machinery is triggered by defining the outputs attribute to contain the list of desired output names (strings). 
+
+[Rpath, or why lld doesn’t work on NixOS](https://news.ycombinator.com/item?id=30688815)
+
+[Haskell.nix—alternative Haskell infrastructure](https://input-output-hk.github.io/haskell.nix/reference/library.html)
+
+[From nix-env to home-manager](https://www.youtube.com/watch?v=PmD8Qe8z2sY)
+
+[Almost Perfect Dotfiles Management w/ nix, home-manager and flakes](https://www.youtube.com/watch?v=CDzgNxoAlnA)
+
+[Hacking Your First Package](https://nix-tutorial.gitlabpages.inria.fr/nix-tutorial/first-package.html)
+
+[Nix parallelism & Import From Derivation](https://fzakaria.com/2020/10/20/nix-parallelism-import-from-derivation.html). [Import From Derivation](https://nixos.wiki/wiki/Import_From_Derivation)
+
+
+
 

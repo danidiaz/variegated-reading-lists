@@ -582,3 +582,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Storing UTC is not a silver bullet](https://news.ycombinator.com/item?id=30659164)
 
+[How to write a tree-sitter grammar in an afternoon](https://siraben.dev/2022/03/01/tree-sitter.html)
+
+

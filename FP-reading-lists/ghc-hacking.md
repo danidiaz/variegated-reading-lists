@@ -211,5 +211,10 @@ Stuff about the heap:
 
 [What does the GHC source mean by "zonk"?](https://stackoverflow.com/questions/31889048/what-does-the-ghc-source-mean-by-zonk)
 
+[Hacking on GHC Has Never Been Easier! (2019)](https://vaibhavsagar.com/blog/2019/06/22/easy-ghc-hacking/)
+
+[Incremental GHC builds with Recursive Nix (2019) (video)](https://www.youtube.com/watch?v=BFZwLbdWw8w) [ghc-nix](https://github.com/ocharles/ghc-nix)
+
+
 
 

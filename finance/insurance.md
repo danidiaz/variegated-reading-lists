@@ -27,6 +27,8 @@
 
 [WTW director on bridging the gap between underwriting and data analytics](https://www.insurancebusinessmag.com/uk/news/technology/wtw-director-on-bridging-the-gap-between-underwriting-and-data-analytics-325989.aspx)
 
+[Is Borrowing Against Life Insurance a Smart Move?](https://sproutt.com/blog/borrowing-against-life-insurance)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

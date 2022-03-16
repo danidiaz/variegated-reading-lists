@@ -1125,3 +1125,10 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 > in their local timezone then Seattle employees will notice tomorrow that the
 > meeting is a hour later in Seattle than it normally is.
 
+[The hardest thing about engineering is requirements](https://news.ycombinator.com/item?id=30631571)
+
+
+
+
+
+

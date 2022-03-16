@@ -122,4 +122,7 @@
 
 > Alerts for Spending Limits in the free tier
 
+[Tricks for Cloud Cost Optimization](https://thenewstack.io/tricks-for-cloud-cost-optimization/)
+
+
 

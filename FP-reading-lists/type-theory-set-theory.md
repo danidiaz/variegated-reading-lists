@@ -201,6 +201,8 @@ attempt to make equality reasonable again.”
 
 [domain theory for dummies](https://twitter.com/ProfMaxNew/status/1502736521992019970)
 
+[is program extraction a blind alley?](https://twitter.com/jonmsterling/status/1501112122918514691)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

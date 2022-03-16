@@ -142,3 +142,10 @@ What's added to .profile:
 
 > a console and a shell are different things
 
+[I switched my primary dev environment to a graphical NixOS VM on a macOS host.](https://twitter.com/mitchellh/status/1346136404682625024)
+
+[To flake or not to flake](https://discourse.nixos.org/t/to-flake-or-not-to-flake/10047)
+
+
+
+

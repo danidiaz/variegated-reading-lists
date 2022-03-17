@@ -155,6 +155,32 @@ attempt to make equality reasonable again.”
 
 [a gentler introduction to the categorical semantics of dependent sum and product types](https://twitter.com/_julesh_/status/1491729306288070660). [on the nose vs up to isomorphism](https://twitter.com/Anarchia45/status/1491732060951785473).
 
+[A stratified approach to Lob induction](https://twitter.com/dannygratzer/status/1494644517487710232)
+
+[A CUBICAL LANGUAGE FOR BISHOP SETS](https://twitter.com/jonmsterling/status/1494603308992020483)
+
+[there is no "inside"](https://twitter.com/EscardoMartin/status/1497288699754606596). [the "interface" to a set](https://twitter.com/jjcarett2/status/1496487592270995458)
+
+[CSCI 8980 Higher-Dimensional Type Theory](https://favonia.org/courses/hdtt2020/). [see also videos](https://www.youtube.com/watch?v=atKqqiXslyo).
+
+[Σ-types & “dependent products”](https://twitter.com/andrejbauer/status/1499080337615429635)
+
+[staged compilation with dependent types](https://twitter.com/andrasKovacs6/status/1499075896883429377)
+
+> our algorithm is "staging-by-evaluation", analogously to the technique of
+> normalization-by-evaluation, in that staging is given by the evaluation of
+> 2LTT syntax in a semantic domain. 
+
+[context awareness](https://twitter.com/PTOOP/status/1498811523153735684?t=HHvLd4O3tkH24iy31gTuxQ&s=03)
+
+[domain theory for dummies](https://twitter.com/ProfMaxNew/status/1502736521992019970)
+
+[is program extraction a blind alley?](https://twitter.com/jonmsterling/status/1501112122918514691)
+
+[Types versus sets (and what about categories?) ](https://news.ycombinator.com/item?id=30697421)
+
+> I knew him well enough to understand that he regarded axiomatic set theory with loathing. 
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)
@@ -180,28 +206,6 @@ attempt to make equality reasonable again.”
 [pattern matching / inducting over equality proofs](https://twitter.com/agdakx/status/1487475588462002182). [Types in GADT constructors are unified to translate "this is the same type" into explicit equality assumptions](https://twitter.com/plt_amy/status/1487478865832337418).
 
 [WITS 2022](https://www.youtube.com/playlist?list=PLyrlk8Xaylp7R6HqlECu2RGbZUZQofo8e)
-
-[A stratified approach to Lob induction](https://twitter.com/dannygratzer/status/1494644517487710232)
-
-[A CUBICAL LANGUAGE FOR BISHOP SETS](https://twitter.com/jonmsterling/status/1494603308992020483)
-
-[there is no "inside"](https://twitter.com/EscardoMartin/status/1497288699754606596). [the "interface" to a set](https://twitter.com/jjcarett2/status/1496487592270995458)
-
-[CSCI 8980 Higher-Dimensional Type Theory](https://favonia.org/courses/hdtt2020/). [see also videos](https://www.youtube.com/watch?v=atKqqiXslyo).
-
-[Σ-types & “dependent products”](https://twitter.com/andrejbauer/status/1499080337615429635)
-
-[staged compilation with dependent types](https://twitter.com/andrasKovacs6/status/1499075896883429377)
-
-> our algorithm is "staging-by-evaluation", analogously to the technique of
-> normalization-by-evaluation, in that staging is given by the evaluation of
-> 2LTT syntax in a semantic domain. 
-
-[context awareness](https://twitter.com/PTOOP/status/1498811523153735684?t=HHvLd4O3tkH24iy31gTuxQ&s=03)
-
-[domain theory for dummies](https://twitter.com/ProfMaxNew/status/1502736521992019970)
-
-[is program extraction a blind alley?](https://twitter.com/jonmsterling/status/1501112122918514691)
 
 # set theory
 

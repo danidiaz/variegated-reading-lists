@@ -66,6 +66,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [polarized arrays](https://hackage.haskell.org/package/linear-base-0.1.0/docs/Data-Array-Polarized.html).  [Controlled Array Fusion using Linear Types (slides)](http://www.cse.chalmers.se/~josefs/talks/LinArrays.pdf). [Controlling Fusion In Haskell](http://jyp.github.io/posts/controlled-fusion.html).
 
-
+[Replicate, reuse, repeat: Capturing non-linear communication via session types and graded modal types](https://twitter.com/Jose_A_Alonso/status/1503651140214435846)
 
 

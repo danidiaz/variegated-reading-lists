@@ -618,6 +618,7 @@ Here's a variant without buildPackages:
 
 [Nix parallelism & Import From Derivation](https://fzakaria.com/2020/10/20/nix-parallelism-import-from-derivation.html). [Import From Derivation](https://nixos.wiki/wiki/Import_From_Derivation)
 
+[IMPLEMENTING A CONTENT-ADDRESSED NIX](https://www.tweag.io/blog/2021-12-02-nix-cas-4/)    
 
 
 

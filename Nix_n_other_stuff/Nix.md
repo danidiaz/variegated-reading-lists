@@ -644,4 +644,8 @@ Here's a variant without buildPackages:
 
 > haskellPackages.callCabal2nix internally uses IFD 1, with all its advantages and disadvantages.
 
+[why have intermediate representation (derivations)?](https://blog.hercules-ci.com/2019/08/30/native-support-for-import-for-derivation/)
+
+> All in all, derivation files save us computation compared to evaluating more than once.
+
 

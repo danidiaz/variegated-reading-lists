@@ -80,4 +80,4 @@
 
 [Simuladores para virtualizar redes y aprender routing y switching](https://www.redeszone.net/tutoriales/redes-cable/programas-simular-red/)
 
-
+[   How NAT traversal works (2020) ](https://news.ycombinator.com/item?id=30707711)

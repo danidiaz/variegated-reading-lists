@@ -630,3 +630,18 @@ Here's a variant without buildPackages:
 > By contrast, in a content-addressed path, the hash part is computed from the contents of the path.
 
 [Contributing to Nix documentation](https://nixos.wiki/wiki/Contributing_to_Nix_documentation)
+
+
+[Here’s a short overview of the different ways to produce a derivation with the Haskell stuff in Nixpkgs](https://discourse.nixos.org/t/why-are-these-derivations-so-different/18257/3)
+
+> Just like stdenv, haskellPackages provides a mkDerivation function. haskellPackages also provides a callPackage function that works similarly to the top-level callPackage. If you dig through the above files, you’ll find that they are defined here:
+
+> This generic Haskell builder is effectively a wrapper around stdenv.mkDerivation for specifically building Haskell packages.
+
+> If you pass this function (or file) to haskellPackages.callPackage, it knows how to automatically find the arguments for Haskell packages like aeson, lens, etc. It also knows to fall back to looking for packages in the top-level Nixpkgs for things that aren’t Haskell libraries. So things like fetchgit, lib, etc will be pulled from the top-level Nixpkgs.
+
+> It is admittedly somewhat confusing that haskellPackages.mkDerivation and stdenv.mkDerivation are named the same, but (completely) different functions (as well as callPackage).
+
+> haskellPackages.callCabal2nix internally uses IFD 1, with all its advantages and disadvantages.
+
+

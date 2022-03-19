@@ -618,4 +618,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Why Single Sign on Sucks](https://news.ycombinator.com/item?id=30646081)
 
+[A Summary of OAuth 2.0 Attack Methods](https://news.ycombinator.com/item?id=30717470)
+
 

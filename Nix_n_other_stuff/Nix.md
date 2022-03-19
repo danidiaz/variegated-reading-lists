@@ -620,5 +620,13 @@ Here's a variant without buildPackages:
 
 [IMPLEMENTING A CONTENT-ADDRESSED NIX](https://www.tweag.io/blog/2021-12-02-nix-cas-4/)    
 
+[nix store make-content-addressable](https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-store-make-content-addressable.html)
+
+> This command converts the closure of the store paths specified by
+> installables to content-addressed form. Nix store paths are usually
+> input-addressed, meaning that the hash part of the store path is computed
+> from the contents of the derivation (i.e., the build-time dependency graph). 
+
+> By contrast, in a content-addressed path, the hash part is computed from the contents of the path.
 
 

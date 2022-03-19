@@ -207,6 +207,8 @@ attempt to make equality reasonable again.”
 
 [WITS 2022](https://www.youtube.com/playlist?list=PLyrlk8Xaylp7R6HqlECu2RGbZUZQofo8e)
 
+[[Agda] we need types in order to check whether a variable occurs or not?!](https://twitter.com/agdakx/status/1505210165959798788)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

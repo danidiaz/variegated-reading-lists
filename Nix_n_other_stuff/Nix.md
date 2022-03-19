@@ -648,4 +648,5 @@ Here's a variant without buildPackages:
 
 > All in all, derivation files save us computation compared to evaluating more than once.
 
+> Acceptable uses of IFD include importing a pinned nixpkgs and automation around lock files. Such uses vastly improve your development workflow, outweighing the slight disadvantages of IFD.
 

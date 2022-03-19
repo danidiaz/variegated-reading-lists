@@ -215,6 +215,8 @@ Stuff about the heap:
 
 [Incremental GHC builds with Recursive Nix (2019) (video)](https://www.youtube.com/watch?v=BFZwLbdWw8w) [ghc-nix](https://github.com/ocharles/ghc-nix)
 
+[Word64/Int64 use Word64#/Int64#](https://gitlab.haskell.org/ghc/ghc/-/wikis/migration/9.4#word64int64-use-word64int64)
 
+> Before 9.4, Int64/Word64 were wrappers for Int#/Word# on 64-bit architectures and for Int64#/Word64# on 32-bit architectures. Now the latter are always used (Int64#/Word64#). Users of the unboxed values must use Int64#/Word64# primops on every architecture. 
 
 

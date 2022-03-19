@@ -629,4 +629,4 @@ Here's a variant without buildPackages:
 
 > By contrast, in a content-addressed path, the hash part is computed from the contents of the path.
 
-
+[Contributing to Nix documentation](https://nixos.wiki/wiki/Contributing_to_Nix_documentation)

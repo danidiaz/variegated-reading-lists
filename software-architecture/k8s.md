@@ -342,5 +342,7 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 
 [Azure Application Insights on AWS with Elastic Beanstalk?](https://stackoverflow.com/questions/58694892/azure-application-insights-on-aws-with-elastic-beanstalk). [What is Amazon CloudWatch Application Insights?](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/appinsights-what-is.html). Does AWS Application Insights have the same function as the similarly named Azure service? [AWS Application Insights metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/working_with_metrics.html).  
 
+[Minimal AWS SSO setup for personal AWS development](https://dev.to/aws-builders/minimal-aws-sso-setup-for-personal-aws-development-220k)
+
 
 

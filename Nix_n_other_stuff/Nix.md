@@ -650,3 +650,37 @@ Here's a variant without buildPackages:
 
 > Acceptable uses of IFD include importing a pinned nixpkgs and automation around lock files. Such uses vastly improve your development workflow, outweighing the slight disadvantages of IFD.
 
+[Status of lang2nix approaches](https://discourse.nixos.org/t/status-of-lang2nix-approaches/14477)
+
+> the approaches to package applications which during their normal build process interact with online repos (Maven, NPM, Cargo, …) to compute the list of dependencies.
+
+> [recursive Nix] replaces IFD with a more distributed build-friendly approach
+
+> would be more pure if we maintain (or convince upstream to do) immutable snapshots of online packages repositories and allow network access only to particular immutable snapshots from within non-fixed-output derivations.
+
+
+[What is the best dev workflow around nix-shell?](https://discourse.nixos.org/t/what-is-the-best-dev-workflow-around-nix-shell/418)
+
+> a tension between the style nixpkgs expects and the style conducive to development
+
+[Pro-IFD and Anti-IFD](https://discourse.nixos.org/t/another-simple-flake-for-haskell-development/18164/8)
+
+> Pro-IFD: These are people that generally think IFD should be used for packaging things. Most Haskellers fall into this camp (given tools like haskell.nix and callCabal2nix), as well as users of the other FOO2nix tools.
+
+> One unfortunate part of callCabal2nix is that cabal2nix is written in Haskell, so IFD must be used to build the resulting derivation. IFD can often be slower than just doing things with native Nix, and it is not allowed in Nixpkgs.
+
+> This repo provides a callCabal2nixWithoutIFD function that is written in Nix, so it doesn't have either of the above downsides. Cabal files are parsed in Nix directly, so IFD is not needed.
+
+[Eelco Dolstra - the Nix roadmap (NixCon 2018)—content-addressable store](https://www.youtube.com/watch?v=8M6yvJC00J4&t=782s). [needs binary reproducibility](https://youtu.be/8M6yvJC00J4?t=981)
+
+Benefits: deduplication, prevent rebuilds from irrelevant changes.
+
+Without ca, irrelevant changes not only require rebuilds, they take space in the Nix store as well!
+
+> to make this work properly, it really needs perfect binary reproducibility
+
+[Why are there so many ways to reference lib and do they matter?](https://discourse.nixos.org/t/why-are-there-so-many-ways-to-reference-lib-and-do-they-matter/2920)
+
+> The lib in the NixOS module arguments comes from the module system itself and is the preferred way to reference it in NixOS. It’s the only one that doesn’t depend on pkgs and therefore doesn’t lead to infinite recursion when you use it to define modules themselves (which might define overlays, which can influence pkgs). 
+
+

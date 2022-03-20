@@ -685,4 +685,6 @@ Without ca, irrelevant changes not only require rebuilds, they take space in the
 
 [An overview of language support in Nix (NixCon 2019)](https://www.youtube.com/watch?v=nXDumHZI2zg)
 
+[Nix flakes (NixCon 2019)](https://www.youtube.com/watch?v=UeBX7Ide5a0)
+
 

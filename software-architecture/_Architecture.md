@@ -1127,7 +1127,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [The hardest thing about engineering is requirements](https://news.ycombinator.com/item?id=30631571)
 
-
+[Seven Ways to Fail at Microservices](https://www.infoq.com/articles/microservices-seven-fail/)
 
 
 

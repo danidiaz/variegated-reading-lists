@@ -683,10 +683,16 @@ Without ca, irrelevant changes not only require rebuilds, they take space in the
 
 > The lib in the NixOS module arguments comes from the module system itself and is the preferred way to reference it in NixOS. It’s the only one that doesn’t depend on pkgs and therefore doesn’t lead to infinite recursion when you use it to define modules themselves (which might define overlays, which can influence pkgs). 
 
+[Nix flakes (NixCon 2019)](https://www.youtube.com/watch?v=UeBX7Ide5a0)
+
 [An overview of language support in Nix (NixCon 2019)](https://www.youtube.com/watch?v=nXDumHZI2zg). [comparison of approaches](https://youtu.be/nXDumHZI2zg?t=1071). [snack](https://github.com/nmattia/snack)
 
 > SNACK IS UNMAINTAINED!! It was a fun proof of concept but I don't have the time to take it further.
 
-[Nix flakes (NixCon 2019)](https://www.youtube.com/watch?v=UeBX7Ide5a0)
+[Motivation for haskell.nix](https://input-output-hk.github.io/haskell.nix/motivation.html)
+
+The Haskell builder in nixpkgs builds a package sequentially, first the library then the executables and finally the tests. It then executes the tests before the package is considered done. The upshot of this is that packages are only considered done if the test-suites passed. The downside is that if you have to compile multiple packages the likelihood of them failing is low, you have unnecessarily serialized your build. In a more aggressive setting libraries could start building as early as their dependent libraries are built. 
+
+[Practical Nix Flakes](https://serokell.io/blog/practical-nix-flakes)
 
 

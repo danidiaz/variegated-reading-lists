@@ -683,4 +683,6 @@ Without ca, irrelevant changes not only require rebuilds, they take space in the
 
 > The lib in the NixOS module arguments comes from the module system itself and is the preferred way to reference it in NixOS. It’s the only one that doesn’t depend on pkgs and therefore doesn’t lead to infinite recursion when you use it to define modules themselves (which might define overlays, which can influence pkgs). 
 
+[An overview of language support in Nix (NixCon 2019)](https://www.youtube.com/watch?v=nXDumHZI2zg)
+
 

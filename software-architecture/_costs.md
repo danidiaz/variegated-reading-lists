@@ -124,5 +124,5 @@
 
 [Tricks for Cloud Cost Optimization](https://thenewstack.io/tricks-for-cloud-cost-optimization/)
 
-
+[automating the stop/start of #AWS services in non-production environments](https://twitter.com/PieroQuaroni/status/1506004354935013388)   
 

@@ -793,6 +793,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Optimistic Locks and Interleaving](https://stackoverflow.com/questions/31639539/optimistic-locks-and-interleaving?rq=1)
 
+[good answers on DBA SE](https://dba.stackexchange.com/users/3684/erwin-brandstetter?tab=answers).
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

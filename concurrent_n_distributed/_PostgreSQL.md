@@ -199,4 +199,5 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Simple Anomaly Detection Using Plain SQL](https://hakibenita.com/sql-anomaly-detection)
 
+[Amazon Aurora: Design Considerations](https://twitter.com/muratdemirbas/status/1505718394334687236)
 

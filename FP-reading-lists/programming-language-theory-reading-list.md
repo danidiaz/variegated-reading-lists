@@ -775,3 +775,5 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [Correcting A Widespread Error in Unification Algorithms](https://twitter.com/papers_we_love/status/1483775016604950528)
 
+[Predictable Macros for Hindley-Milner](https://davidchristiansen.dk/pubs/tyde2020-predictable-macros-abstract.pdf). 
+

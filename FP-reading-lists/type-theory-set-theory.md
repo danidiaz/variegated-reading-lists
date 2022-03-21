@@ -209,6 +209,10 @@ attempt to make equality reasonable again.”
 
 [[Agda] we need types in order to check whether a variable occurs or not?!](https://twitter.com/agdakx/status/1505210165959798788)
 
+[e-graphs](https://twitter.com/TaliaRinger/status/1505621020698460168)
+
+> data structures for managing equivalences in all sorts of automation (congruence closure, rewrite systems without or with proofs, program and proof optimizations, and even machine learning tools)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

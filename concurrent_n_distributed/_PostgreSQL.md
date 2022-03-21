@@ -195,3 +195,8 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [hooks in Postgres](https://ctodive.com/hooks-the-secret-feature-powering-the-postgres-ecosystem-f05b3b82e0ba)
 
+[The Surprising Impact of Medium-Size Texts on PostgreSQL Performance](https://hakibenita.com/sql-medium-text-performance)
+
+[Simple Anomaly Detection Using Plain SQL](https://hakibenita.com/sql-anomaly-detection)
+
+

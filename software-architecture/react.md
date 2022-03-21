@@ -330,4 +330,14 @@ https://react-query.tanstack.com/
 
 [Things you don't need JavaScript for](https://news.ycombinator.com/item?id=30512512)
 
+[Hooks Considered Harmful](https://news.ycombinator.com/item?id=30753127)
+
+[Preventing XSS in React (Part 1): Data binding and URLs](https://pragmaticwebsecurity.com/articles/spasecurity/react-xss-part1.html). [(Part 2): dangerouslySetInnerHTML](https://pragmaticwebsecurity.com/articles/spasecurity/react-xss-part2.html). [React XSS Guide: Examples and Prevention](https://www.stackhawk.com/blog/react-xss-guide-examples-and-prevention/).
+
+> React applies auto-escaping
+
+> The React APIs are aware of common XSS vulnerabilities and apply the necessary protection. That same protection is applied when the components are generated from JSX code, instead of through the React APIs. 
+
+> When this component is rendered, the data in the review will be placed inside the HTML p tag. Thanks to the auto-escaping applied by React, malicious content in the review will not be seen as code.  
+
 

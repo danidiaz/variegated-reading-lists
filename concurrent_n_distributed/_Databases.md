@@ -785,6 +785,14 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [have you tried rubbing a database on it?](https://www.hytradboi.com/)
 
+[Which locking scheme and isolation level should one use for sequence number generation?](https://stackoverflow.com/questions/3325458/which-locking-scheme-and-isolation-level-should-one-use-for-sequence-number-gene). [avoiding concurrent insert multiple same id in mysql](https://stackoverflow.com/questions/18598535/avoiding-concurrent-insert-multiple-same-id-in-mysql)
+
+> Anything you do within transaction scope is subject to race conditions.
+
+> If an INSERT is aborted, a number from the sequence is consumed still
+
+[Optimistic Locks and Interleaving](https://stackoverflow.com/questions/31639539/optimistic-locks-and-interleaving?rq=1)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

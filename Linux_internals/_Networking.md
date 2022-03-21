@@ -82,4 +82,6 @@
 
 [   How NAT traversal works (2020) ](https://news.ycombinator.com/item?id=30707711)
 
+[a primer on proxies](https://news.ycombinator.com/item?id=30736610)
+
 

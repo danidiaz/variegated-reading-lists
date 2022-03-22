@@ -620,4 +620,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [A Summary of OAuth 2.0 Attack Methods](https://news.ycombinator.com/item?id=30717470)
 
+[Understanding The Web Security Model, Part III: Basic Principles and the Origin Concept](https://educatedguesswork.org/posts/web-security-model-origin/)
+
+
 

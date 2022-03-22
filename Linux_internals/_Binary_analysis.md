@@ -4,3 +4,5 @@
 
 [cppcast episode about binary exploitation](https://twitter.com/maritio_o/status/1484568377767170056)
 
+[Mac transition to Apple silicon](https://en.wikipedia.org/wiki/Mac_transition_to_Apple_silicon)
+

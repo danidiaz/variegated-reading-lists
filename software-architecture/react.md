@@ -340,4 +340,15 @@ https://react-query.tanstack.com/
 
 > When this component is rendered, the data in the review will be placed inside the HTML p tag. Thanks to the auto-escaping applied by React, malicious content in the review will not be seen as code.  
 
+[With the new transform, you can use JSX without importing React.](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
+
+[suspense](https://blog.logrocket.com/async-rendering-react-suspense/). [React Suspense & Concurrent Mode: Async Rendering](https://apiumhub.com/tech-blog-barcelona/react-suspense-concurrent-mode-async-rendering/). [Building Great User Experiences with Concurrent Mode and Suspense](https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.html)
+
+> You’ll probably have some Loading flag saved with Redux. Suspense will allow you to replace it.
+
+[Preemptive Memoization In React Is Probably Not Evil (Yet)](https://www.zhenghao.io/posts/memo-or-not)
+
+
+
+
 

@@ -29,6 +29,12 @@
 
 [Is Borrowing Against Life Insurance a Smart Move?](https://sproutt.com/blog/borrowing-against-life-insurance)
 
+[Life insurance: Treat cash value with care](https://blog.massmutual.com/post/life-insurance-treat-cash-value-with-care)
+
+> Eventually, the interest could also exceed the size of your cash value, which
+> would cause your life insurance policy to lapse, triggering a possible
+> taxable event on the earnings and denying your heirs a death benefit. 
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

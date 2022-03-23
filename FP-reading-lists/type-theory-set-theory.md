@@ -213,6 +213,8 @@ attempt to make equality reasonable again.”
 
 > data structures for managing equivalences in all sorts of automation (congruence closure, rewrite systems without or with proofs, program and proof optimizations, and even machine learning tools)
 
+[Type classes versus locales](https://lawrencecpaulson.github.io/2022/03/23/Locales.html)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

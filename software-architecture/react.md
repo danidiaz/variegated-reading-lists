@@ -348,7 +348,8 @@ https://react-query.tanstack.com/
 
 [Preemptive Memoization In React Is Probably Not Evil (Yet)](https://www.zhenghao.io/posts/memo-or-not)
 
+[How to Manage State in a React App – With Hooks, Redux, and More](https://www.freecodecamp.org/news/how-to-manage-state-in-a-react-app/)
 
-
+[Conquering JavaScript Hydration](https://dev.to/this-is-learning/conquering-javascript-hydration-a9f)
 
 

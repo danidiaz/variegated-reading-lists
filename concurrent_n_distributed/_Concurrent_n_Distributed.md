@@ -331,6 +331,10 @@ only run it when something bad happens to prevent any one thing to be a single p
 
 [common goroutine leaks](https://twitter.com/GolangTrends/status/1497548500220981252). [waiting groups in Golang](https://twitter.com/GolangTrends/status/1497367306502123527).
 
+[Structured (Synchronous) Concurrency](https://fsantanna.github.io/structured-concurrency.html)
+
+[Debugging Race Conditions in Production](https://lightrun.com/tutorials/debug-race-condition-production/)
+
 # Slides
 
 [Distributed systems course](https://roxanageambasu.github.io/ds-class//assets/lectures/lecture17.pdf)

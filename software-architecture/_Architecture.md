@@ -1129,6 +1129,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Seven Ways to Fail at Microservices](https://www.infoq.com/articles/microservices-seven-fail/)
 
-
+[Microservices: Why Are We Doing This?](https://news.ycombinator.com/item?id=30758723)
 
 

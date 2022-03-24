@@ -622,5 +622,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Understanding The Web Security Model, Part III: Basic Principles and the Origin Concept](https://educatedguesswork.org/posts/web-security-model-origin/)
 
+[If you’re not using SSH certificates you’re doing SSH wrong (2019)](https://news.ycombinator.com/item?id=30788544)
 
 

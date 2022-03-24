@@ -344,5 +344,5 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 
 [Minimal AWS SSO setup for personal AWS development](https://dev.to/aws-builders/minimal-aws-sso-setup-for-personal-aws-development-220k)
 
-
+[I don't need a VPS anymore](https://greenash.net.au/thoughts/2022/03/i-dont-need-a-vps-anymore/)
 

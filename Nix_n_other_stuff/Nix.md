@@ -695,4 +695,22 @@ The Haskell builder in nixpkgs builds a package sequentially, first the library 
 
 [Practical Nix Flakes](https://serokell.io/blog/practical-nix-flakes)
 
+[Super-Simple Haskell Development with Nix](https://discourse.nixos.org/t/super-simple-haskell-development-with-nix/14287/3)
+
+> Use Nix to get GHC, cabal, and system deps. Then use cabal to download and build all Haskell dependencies:
+> The big disadvantage here is that you’re not building any of your Haskell dependencies with Nix, so you don’t get reproducbility, caching, etc.
+
+
+## From discourse
+
+> Is there a way to somehow use allow-newer with haskell packages in nix? I have quite a few dependencies that haven't bumped their version constraints in cabal, so they're all broken.
+> For the Haskell stuff in Nixpkgs, there is a doJailbreak function that can be applied to individual packages to allow them to try to build with newer dependencies. You can see some examples of it being used if you grep for doJailbreak in Nixpkgs  pkgs/development/haskell-modules/configuration-common.nix.
+
+
+I don't think there is a single resource that is recommended above all others, but the [following might be some good reading](https://discord.com/channels/568306982717751326/747637197548552193/948048649290670080):
+
+- Nixpkgs Haskell manual: https://haskell4nix.readthedocs.io/
+- A high-level intro to using Nix for Haskellers: https://github.com/cdepillabout/post-about-nix-and-haskell/blob/master/2019-08-03-q-and-as-about-nix-for-haskellers.md
+- a quick summary of the main approaches of using Nix to build Haskell stuff: https://discourse.nixos.org/t/super-simple-haskell-development-with-nix/14287/3
+
 

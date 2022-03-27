@@ -181,6 +181,8 @@ attempt to make equality reasonable again.”
 
 > I knew him well enough to understand that he regarded axiomatic set theory with loathing. 
 
+[subtyping sux](https://twitter.com/jjcarett2/status/1507341479232131087)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

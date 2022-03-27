@@ -795,6 +795,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [good answers on DBA SE](https://dba.stackexchange.com/users/3684/erwin-brandstetter?tab=answers).
 
+[Understanding Bitemporal Data](https://www.abhinavomprakash.com/posts/understanding-bitemporal-data/)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

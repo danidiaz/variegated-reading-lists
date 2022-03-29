@@ -352,4 +352,6 @@ https://react-query.tanstack.com/
 
 [Conquering JavaScript Hydration](https://dev.to/this-is-learning/conquering-javascript-hydration-a9f)
 
+[React v18.0](https://news.ycombinator.com/item?id=30844414)
+
 

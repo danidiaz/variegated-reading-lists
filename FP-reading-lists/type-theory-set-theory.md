@@ -183,6 +183,8 @@ attempt to make equality reasonable again.”
 
 [subtyping sux](https://twitter.com/jjcarett2/status/1507341479232131087)
 
+[Equivalence classes and quotienting](https://lawrencecpaulson.github.io/2022/03/30/Quotienting.html)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

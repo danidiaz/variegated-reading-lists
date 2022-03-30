@@ -68,4 +68,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Replicate, reuse, repeat: Capturing non-linear communication via session types and graded modal types](https://twitter.com/Jose_A_Alonso/status/1503651140214435846)
 
+[linear-base 2.0](https://github.com/tweag/linear-base/blob/master/README.md)
+
 

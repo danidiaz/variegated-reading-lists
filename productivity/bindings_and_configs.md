@@ -146,6 +146,8 @@ What's added to .profile:
 
 [To flake or not to flake](https://discourse.nixos.org/t/to-flake-or-not-to-flake/10047)
 
+[most useful aliases in your bashrc or zshrc](https://lobste.rs/s/qgqssl/what_are_most_useful_aliases_your_bashrc)
 
+[git rebase -i --exec "cargo fmt" origin/master](https://twitter.com/steveklabnik/status/1508857688108806144). [docs](https://git-scm.com/docs/git-rebase#Documentation/git-rebase.txt---execltcmdgt)
 
 

@@ -624,4 +624,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [If you’re not using SSH certificates you’re doing SSH wrong (2019)](https://news.ycombinator.com/item?id=30788544)
 
+[Authorization in a Microservices World](https://news.ycombinator.com/item?id=30878926)
+
 

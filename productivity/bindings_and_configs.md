@@ -150,4 +150,24 @@ What's added to .profile:
 
 [git rebase -i --exec "cargo fmt" origin/master](https://twitter.com/steveklabnik/status/1508857688108806144). [docs](https://git-scm.com/docs/git-rebase#Documentation/git-rebase.txt---execltcmdgt)
 
+[Mac - How to switch or close the new split Terminal pane?](https://apple.stackexchange.com/questions/87202/how-to-switch-or-close-the-new-split-terminal-pane)
+
+> in general OS-X shortcuts that are done with ⌘ Command-char are undone (or
+> the opposite/complement command is executed) with ⌘ Command ⌘ Shift-char.
+
+> You're misinterpreting the feature. It's not meant for two separate
+> terminals. It's intended to allow a user to see two different view points in
+> the same terminal. For instance, if you have 3000 files in a directory, and
+> you perform an ls command, that output is going to be very long.
+
+[VSCode tips and tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+
+[Go to symbol in file](https://code.visualstudio.com/docs/editor/editingevolved#_go-to-symbol). [Open symbol by name](https://code.visualstudio.com/docs/editor/editingevolved#_open-symbol-by-name). [Peek](https://code.visualstudio.com/docs/editor/editingevolved#_peek). [Code Navigation](https://code.visualstudio.com/docs/editor/editingevolved).
+
+[List of all available commands in VSCode](https://stackoverflow.com/questions/58367207/list-of-all-available-commands-in-vscode)
+
+> I believe that content of "Preferences: Default Keyboard Shortcuts (JSON)" (command ID workbench.action.openDefaultKeybindingsFile) really shows comprehensive list of all native and extensions-contributed commands VSC knows about at moment when invoked.
+
+> { "key": "ctrl+shift+o",          "command": "workbench.action.gotoSymbol" },
+
 

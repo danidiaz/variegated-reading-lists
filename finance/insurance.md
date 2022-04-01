@@ -69,6 +69,8 @@
 
 [On the Brink: How a Crisis Transformed Lloyd's of London](https://www.goodreads.com/book/show/21469019-on-the-brink)
 
+[Chapter 10 Insurance Portfolio Management including Reinsurance](https://openacttexts.github.io/Loss-Data-Analytics/C-PortMgt.html)
+
 ## Sites
 
 [Lloyd's](https://www.lloyds.com/)

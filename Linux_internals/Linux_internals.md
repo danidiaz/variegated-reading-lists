@@ -143,5 +143,9 @@
 
 [Debugging with GDB](https://felix-knorr.net/blog/using_gdb_directly.html)
 
+[Pointer Tagging for x86 Systems](https://news.ycombinator.com/item?id=30865423)
+
+[Indirect branch tracking in Linux for Intel CPUs ](https://news.ycombinator.com/item?id=30868032)
+
 
 

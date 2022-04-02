@@ -19,3 +19,6 @@
 On HN: https://news.ycombinator.com/item?id=18163470 https://news.ycombinator.com/item?id=19661329 https://news.ycombinator.com/item?id=14373359 https://news.ycombinator.com/item?id=13918648 https://news.ycombinator.com/item?id=22496287 https://news.ycombinator.com/item?id=21662484 https://news.ycombinator.com/item?id=18357550 https://news.ycombinator.com/item?id=18937214 https://news.ycombinator.com/item?id=14221848 https://news.ycombinator.com/item?id=19821272 https://news.ycombinator.com/item?id=18814350 https://news.ycombinator.com/item?id=14563219 https://news.ycombinator.com/item?id=21003470 https://news.ycombinator.com/item?id=16569653 https://news.ycombinator.com/item?id=14528072 https://news.ycombinator.com/item?id=19839388 https://news.ycombinator.com/item?id=14432754 https://news.ycombinator.com/item?id=24591131 https://news.ycombinator.com/item?id=14475791 https://news.ycombinator.com/item?id=10313386
 
 [formal methods at amazon](https://lamport.azurewebsites.net/tla/formal-methods-amazon.pdf)
+
+[Modeling PlusCal in Haskell using Cartesian products of NFAs](https://www.haskellforall.com/2022/03/modeling-pluscal-in-haskell-using.html)
+

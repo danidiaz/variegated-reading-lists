@@ -700,6 +700,15 @@ The Haskell builder in nixpkgs builds a package sequentially, first the library 
 > Use Nix to get GHC, cabal, and system deps. Then use cabal to download and build all Haskell dependencies:
 > The big disadvantage here is that you’re not building any of your Haskell dependencies with Nix, so you don’t get reproducbility, caching, etc.
 
+[How to Setup a Haskell Programming Environment with Nix](https://lambdablob.com/posts/nix-haskell-programming-environment/)
+
+[haskell-packges.nix from Nixpkgs](https://github.com/NixOS/nixpkgs/blob/master/pkgs/top-level/haskell-packages.nix)
+
+[Nixpkgs User’s Guide How to install Haskell packages](https://haskell4nix.readthedocs.io/nixpkgs-users-guide.html)
+
+> The name haskellPackages is really just a synonym for haskell.packages.ghcXYZ (where XYZ is current default GHC version in Nixpkgs),
+
+[Advanced dependency management](https://github.com/Gabriel439/haskell-nix/blob/main/project4/README.md)
 
 ## From discourse
 

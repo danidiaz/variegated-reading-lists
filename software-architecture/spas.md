@@ -49,5 +49,5 @@
 
 [SPAs were a mistake](https://gomakethings.com/spas-were-a-mistake/). [hn](https://news.ycombinator.com/item?id=30528473).
 
-
+[Are SPAs better than MPAs?](https://www.youtube.com/watch?v=ivLhf3hq7eM)
 

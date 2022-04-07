@@ -797,6 +797,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Understanding Bitemporal Data](https://www.abhinavomprakash.com/posts/understanding-bitemporal-data/)
 
+[zero-downtime migrations](https://news.ycombinator.com/item?id=30945448)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

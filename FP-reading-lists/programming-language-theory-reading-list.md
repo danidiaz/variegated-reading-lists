@@ -777,3 +777,6 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [Predictable Macros for Hindley-Milner](https://davidchristiansen.dk/pubs/tyde2020-predictable-macros-abstract.pdf). 
 
+[ESOP 2022. "A Dependent Dependency Calculus"](https://twitter.com/fancytypes/status/1512005249946501125?t=j2hECKSyRKVHP9KQnwUokw&s=03)
+
+

@@ -1131,4 +1131,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Microservices: Why Are We Doing This?](https://news.ycombinator.com/item?id=30758723)
 
+[In defense of simple architectures](http://danluu.com/simple-architectures/). [tweet](https://twitter.com/garybernhardt/status/1512113012781555712).
+
 

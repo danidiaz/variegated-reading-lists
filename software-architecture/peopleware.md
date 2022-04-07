@@ -90,4 +90,6 @@
 
 [Don't ask to ask, just ask](https://dontasktoask.com/)
 
+[about pull requests](https://twitter.com/georgberky/status/1511682649009659911?t=Sc1C6a7qfZSQfZcFYS5-hg&s=03)
+
 

@@ -335,6 +335,8 @@ only run it when something bad happens to prevent any one thing to be a single p
 
 [Debugging Race Conditions in Production](https://lightrun.com/tutorials/debug-race-condition-production/)
 
+[The Tower of Weakenings: Memory Models For Everyone](https://gankra.github.io/blah/tower-of-weakenings/). [rust](https://twitter.com/jonmsterling/status/1509485751909629969?t=VvmBvChOCzK5pdUkrW15yA&s=03)
+
 # Slides
 
 [Distributed systems course](https://roxanageambasu.github.io/ds-class//assets/lectures/lecture17.pdf)

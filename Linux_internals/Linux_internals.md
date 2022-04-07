@@ -147,5 +147,3 @@
 
 [Indirect branch tracking in Linux for Intel CPUs ](https://news.ycombinator.com/item?id=30868032)
 
-
-

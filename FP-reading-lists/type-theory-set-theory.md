@@ -185,6 +185,8 @@ attempt to make equality reasonable again.”
 
 [Equivalence classes and quotienting](https://lawrencecpaulson.github.io/2022/03/30/Quotienting.html)
 
+[accessible and non-technical introductions to homotopy type theory](https://twitter.com/jonmsterling/status/1513559355035209728). [From Set Theory to Type Theory](https://golem.ph.utexas.edu/category/2013/01/from_set_theory_to_type_theory.html). [Homotopy type theory: the logic of space](https://arxiv.org/abs/1703.03007). [an introductory course](https://twitter.com/andrejbauer/status/1513592194283753474).
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

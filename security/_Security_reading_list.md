@@ -626,4 +626,5 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Authorization in a Microservices World](https://news.ycombinator.com/item?id=30878926). [Patterns for Authorization in Microservices](https://www.osohq.com/post/microservices-authorization-patterns)
 
+[The complete guide to protecting your APIs with OAuth2](https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/)
 

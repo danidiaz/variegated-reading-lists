@@ -214,6 +214,8 @@
 
 [what’s your favourite way to represent syntax trees annotated with source ranges](https://twitter.com/rob_rix/status/1431947253611208706)
 
+[Recursion Schemes for Higher Algebras](https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/)
+
 ## videos
 
 [Unifying Structured Recursion Schemes](https://www.youtube.com/watch?v=9EGYSb9vov8)

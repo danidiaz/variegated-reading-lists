@@ -151,6 +151,8 @@ http://www.coli.uni-saarland.de/courses/underspecification-06/slides/01-mg.pdf
 
 [typeological grammars](https://twitter.com/DiazCarrete/status/1436589453351477248)
 
+[Automated Translation of Natural Language Requirements to Runtime Monitors](https://link.springer.com/chapter/10.1007/978-3-030-99524-9_21). [Reddit](https://www.reddit.com/r/haskell/comments/u2fkkg/ann_copilot_38_ogma_102_new_papers/).
+
 ## Libraries
 
 [species](http://hackage.haskell.org/package/species)

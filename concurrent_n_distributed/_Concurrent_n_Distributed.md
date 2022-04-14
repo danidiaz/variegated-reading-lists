@@ -337,6 +337,10 @@ only run it when something bad happens to prevent any one thing to be a single p
 
 [The Tower of Weakenings: Memory Models For Everyone](https://gankra.github.io/blah/tower-of-weakenings/). [rust](https://twitter.com/jonmsterling/status/1509485751909629969?t=VvmBvChOCzK5pdUkrW15yA&s=03)
 
+[Distributed transaction patterns for microservices compared](https://twitter.com/gunnarmorling/status/1514163151905898500). [the dual write problem](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared).
+
+> The single indicator that you may have a dual write problem is the need to write to more than one system of record predictably. 
+
 # Slides
 
 [Distributed systems course](https://roxanageambasu.github.io/ds-class//assets/lectures/lecture17.pdf)

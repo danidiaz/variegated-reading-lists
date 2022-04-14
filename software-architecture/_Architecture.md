@@ -1133,4 +1133,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [In defense of simple architectures](http://danluu.com/simple-architectures/). [tweet](https://twitter.com/garybernhardt/status/1512113012781555712).
 
+[If you expose your class names as configuration, it’s easy for refactoring to create breaking changes. ](https://twitter.com/richardstartin/status/1514359414517551113)
+
 

@@ -176,4 +176,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [It Doesn't Have to Be Arbitrary](https://tech.freckle.com/2022/04/07/it-doesnt-have-to-be-arbitrary/)
 
+[The class on Argentian Tango was full](https://twitter.com/Bennett_AWOL/status/1514995060089176074)
+
 

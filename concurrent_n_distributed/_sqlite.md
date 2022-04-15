@@ -10,4 +10,5 @@
 
 [JSON improvements in SQLite 3.38.0](https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html)
 
+[Database Migration: SQLite to PostgreSQL](https://bytebase.com/blog/database-migration-sqlite-to-postgresql)
 

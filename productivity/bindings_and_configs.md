@@ -172,4 +172,3 @@ What's added to .profile:
 
 [per-project postgres](https://jamey.thesharps.us/2019/05/29/per-project-postgres/). [direnv](https://lobste.rs/s/uevjtl/direnv_unclutter_your_profile).
 
-

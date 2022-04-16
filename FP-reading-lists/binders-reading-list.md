@@ -304,6 +304,9 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [informal type theory](https://twitter.com/jonmsterling/status/1497122894429646849)
 
+
+["Namespaced De Bruijn indices" trick](https://twitter.com/GabriellaG439/status/1515359882894999554)
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

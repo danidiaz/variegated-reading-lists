@@ -178,4 +178,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [The class on Argentian Tango was full](https://twitter.com/Bennett_AWOL/status/1514995060089176074)
 
+[Acceptance Testing | Webinar](https://www.youtube.com/watch?v=SuDIYk9GBpE). [Acceptance Testing with Executable Specifications](https://www.youtube.com/watch?v=knB4jBafR_M).
+
 

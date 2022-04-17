@@ -22,3 +22,7 @@ On HN: https://news.ycombinator.com/item?id=18163470 https://news.ycombinator.co
 
 [Modeling PlusCal in Haskell using Cartesian products of NFAs](https://www.haskellforall.com/2022/03/modeling-pluscal-in-haskell-using.html)
 
+[HasCal — A promising embedding of pluscal in haskell.](https://twitter.com/MenschOhneMusil/status/1515736571328495617). [tweet](https://twitter.com/GabriellaG439/status/1510715275385061377).
+
+
+

@@ -710,6 +710,8 @@ The Haskell builder in nixpkgs builds a package sequentially, first the library 
 
 [Advanced dependency management](https://github.com/Gabriel439/haskell-nix/blob/main/project4/README.md)
 
+[Nixery – Docker images on the fly with Nix](https://news.ycombinator.com/item?id=31079144)
+
 ## From discourse
 
 > Is there a way to somehow use allow-newer with haskell packages in nix? I have quite a few dependencies that haven't bumped their version constraints in cabal, so they're all broken.

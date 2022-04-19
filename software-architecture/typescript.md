@@ -28,6 +28,8 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Understanding infer in TypeScript](https://blog.logrocket.com/understanding-infer-typescript/)
 
+[typescript - What does 'declare' do in 'export declare class Actions'?](https://stackoverflow.com/questions/35019987/what-does-declare-do-in-export-declare-class-actions)
 
+[Module Federation for Enterprise (Part 2)](https://dev.to/waldronmatt/module-federation-for-enterprise-part-2-men)
 
 

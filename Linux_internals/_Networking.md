@@ -84,4 +84,6 @@
 
 [a primer on proxies](https://news.ycombinator.com/item?id=30736610)
 
+[Online IP Address Class Finder](https://ipaddress.standingtech.com/online-ip-address-class-finder-detector)
+
 

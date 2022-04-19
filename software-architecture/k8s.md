@@ -346,3 +346,15 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 
 [I don't need a VPS anymore](https://greenash.net.au/thoughts/2022/03/i-dont-need-a-vps-anymore/)
 
+[What is AWS Systems Manager?](https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html). [get-parameter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-parameter.html).
+
+
+
+
+
+
+
+
+
+
+

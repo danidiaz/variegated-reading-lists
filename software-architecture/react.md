@@ -354,4 +354,54 @@ https://react-query.tanstack.com/
 
 [React v18.0](https://news.ycombinator.com/item?id=30844414)
 
+[A Guide to React Hooks Stale-while-revalidate Data Fetching](https://www.toptal.com/react-hooks/stale-while-revalidate)
+
+[wretch VS react-query](https://www.libhunt.com/compare-wretch-vs-react-query)
+
+[react-query](https://react-query.tanstack.com/) 
+
+> Fetch, cache and update data in your React and React Native applications all without touching any "global state".
+
+[Does React Query replace Redux, MobX or other global state managers?](https://react-query.tanstack.com/guides/does-this-replace-client-state)
+
+> let's start with a few important items:
+
+> React Query is a server-state library, responsible for managing asynchronous operations between your server and client
+
+> Redux, MobX, Zustand, etc. are client-state libraries that can be used to store asynchronous data, albeit inefficiently when compared to a tool like React Query
+
+> With those points in mind, the short answer is that React Query replaces the boilerplate code and related wiring used to manage cache data in your client-state and replaces it with just a few lines of code.
+
+> For a vast majority of applications, the truly globally accessible client state that is left over after migrating all of your async code to React Query is usually very tiny.
+
+[Query Invalidation](https://react-query.tanstack.com/guides/query-invalidation). [React Query Tutorial - 22 - Query Invalidation](https://www.youtube.com/watch?v=ldg3QIT53pI). [Query Invalidation in React Query](https://backbencher.dev/articles/query-invalidation-in-react-query).
+
+> Waiting for queries to become stale before they are fetched again doesn't always work, especially when you know for a fact that a query's data is out of date because of something the user has done. 
+
+[Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely/) 
+
+> Every time a parent component defines a callback for its child, it creates new function instances. Let's see how this breaks memoization
+
+> Let's apply useCallback() to preserve the callback instance between renderings
+
+[Optimizing React performance by preventing unnecessary re-renders](https://www.debugbear.com/blog/react-rerenders)
+
+> When a component re-renders, React will also re-render child components by default.
+
+[React Virtual DOM Explained in Simple English](https://programmingwithmosh.com/react/react-virtual-dom-explained/)
+
+> Each element is a node on this tree. If the state of any of these elements changes, a new virtual DOM tree is created. This tree is then compared or “diffed” with the previous virtual DOM tree.
+
+> Once this is done, the virtual DOM calculates the best possible method to make these changes to the real DOM. 
+
+[Understanding Reconciliation: React Rendering Phases](https://dev.to/thee_divide/reconciliation-react-rendering-phases-56g2)
+
+> There are two phases to the React rendering cycle.
+
+> The render phase and the commit phase.
+
+> Here's the quick overview. The Render phase takes your JSX and turns it into a javascript representation of what the HTML structure should look like. This is called the VirtualDOM. While the commit phase is actually taking that representation and applying it to the real DOM. The whole process is called reconciliation.
+
+[Trigger child re-rendering in React.js](https://stackoverflow.com/questions/30034265/trigger-child-re-rendering-in-react-js)
+
 

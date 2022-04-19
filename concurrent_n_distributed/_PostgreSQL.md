@@ -203,5 +203,10 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [How PostgreSQL stores rows](https://news.ycombinator.com/item?id=30279986)
 
+[Postgres Connection Strings and psql](https://tapoueh.org/blog/2019/09/postgres-connection-strings-and-psql/). [official docs](https://www.postgresql.org/docs/current/libpq-connect.html#LIBPQ-CONNSTRING).
+
+
+
+
 
 

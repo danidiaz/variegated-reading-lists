@@ -12,3 +12,6 @@
 
 [Database Migration: SQLite to PostgreSQL](https://bytebase.com/blog/database-migration-sqlite-to-postgresql)
 
+[Getting Started with SQLite on macOS / Mac OS X](https://razorsql.com/articles/sqlite_mac.htm)
+
+

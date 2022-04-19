@@ -51,3 +51,7 @@
 
 [Are SPAs better than MPAs?](https://www.youtube.com/watch?v=ivLhf3hq7eM)
 
+[UX Patterns: Stale-While-Revalidate](https://www.infoq.com/news/2020/11/ux-stale-while-revalidate/). [http-stale-while-revalidate](https://datatracker.ietf.org/doc/html/draft-nottingham-http-stale-while-revalidate-01). [Keeping things fresh with stale-while-revalidate](https://web.dev/i18n/en/stale-while-revalidate/). 
+
+
+

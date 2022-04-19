@@ -374,7 +374,7 @@ https://react-query.tanstack.com/
 
 > For a vast majority of applications, the truly globally accessible client state that is left over after migrating all of your async code to React Query is usually very tiny.
 
-[Query Invalidation](https://react-query.tanstack.com/guides/query-invalidation). [React Query Tutorial - 22 - Query Invalidation](https://www.youtube.com/watch?v=ldg3QIT53pI). [Query Invalidation in React Query](https://backbencher.dev/articles/query-invalidation-in-react-query).
+[Query Invalidation](https://react-query.tanstack.com/guides/query-invalidation). [React Query Tutorial - 22 - Query Invalidation](https://www.youtube.com/watch?v=ldg3QIT53pI). [Query Invalidation in React Query](https://backbencher.dev/articles/query-invalidation-in-react-query). [query keys](https://react-query.tanstack.com/guides/query-keys)
 
 > Waiting for queries to become stale before they are fetched again doesn't always work, especially when you know for a fact that a query's data is out of date because of something the user has done. 
 

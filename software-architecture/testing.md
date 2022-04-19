@@ -180,4 +180,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Acceptance Testing | Webinar](https://www.youtube.com/watch?v=SuDIYk9GBpE). [Acceptance Testing with Executable Specifications](https://www.youtube.com/watch?v=knB4jBafR_M).
 
+[Introduction to Doctests in Haskell](https://www.reddit.com/r/haskell/comments/u70c4c/introduction_to_doctests_in_haskell/)
+
 

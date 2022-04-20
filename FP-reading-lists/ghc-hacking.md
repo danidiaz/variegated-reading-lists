@@ -219,4 +219,6 @@ Stuff about the heap:
 
 > Before 9.4, Int64/Word64 were wrappers for Int#/Word# on 64-bit architectures and for Int64#/Word64# on 32-bit architectures. Now the latter are always used (Int64#/Word64#). Users of the unboxed values must use Int64#/Word64# primops on every architecture. 
 
+[ffi](https://www.reddit.com/r/haskell/comments/tthrq0/monthly_hask_anything_april_2022/i5dpir1/)
+
 

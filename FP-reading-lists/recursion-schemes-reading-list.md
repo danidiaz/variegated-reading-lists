@@ -216,6 +216,8 @@
 
 [Recursion Schemes for Higher Algebras](https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/)
 
+[Create recursion schemes using comonads](https://www.reddit.com/r/haskell/comments/u7t2j9/create_recursion_schemes_using_comonads/)
+
 ## videos
 
 [Unifying Structured Recursion Schemes](https://www.youtube.com/watch?v=9EGYSb9vov8)

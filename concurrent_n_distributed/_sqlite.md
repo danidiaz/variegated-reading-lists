@@ -14,4 +14,5 @@
 
 [Getting Started with SQLite on macOS / Mac OS X](https://razorsql.com/articles/sqlite_mac.htm)
 
+[SQLite and Go](https://twitter.com/kelseyhightower/status/1516293351384834048)
 

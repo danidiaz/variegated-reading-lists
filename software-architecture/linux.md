@@ -27,3 +27,7 @@ http://www.i3s.unice.fr/~urvoy/docs/VICC/3_vicc.pdf
 [Self-Service Linux: Mastering the Art of Problem Determination](https://www.goodreads.com/book/show/369854.Self_Service_Linux).
 
 [use mmap with care](https://news.ycombinator.com/item?id=19805675)
+
+[In defense of swap](https://news.ycombinator.com/item?id=31104126)
+
+

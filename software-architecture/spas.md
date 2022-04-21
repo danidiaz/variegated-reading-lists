@@ -55,5 +55,7 @@
 
 [hydration is overhead](https://twitter.com/mhevery/status/1516844814792224770)
 
+[Comparing Native Java REST API Frameworks](https://twitter.com/mraible/status/1517073408479137793). [ZalandoTech REST API guidelines](https://twitter.com/bmarwell/status/1516842447804014593)
+
 
 

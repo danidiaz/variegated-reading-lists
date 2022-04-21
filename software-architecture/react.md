@@ -404,4 +404,5 @@ https://react-query.tanstack.com/
 
 [Trigger child re-rendering in React.js](https://stackoverflow.com/questions/30034265/trigger-child-re-rendering-in-react-js)
 
+[Using forwardRef in React to clean up the DOM](https://blog.logrocket.com/cleaning-up-the-dom-with-forwardref-in-react/)
 

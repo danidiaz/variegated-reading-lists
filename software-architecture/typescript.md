@@ -32,4 +32,5 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Module Federation for Enterprise (Part 2)](https://dev.to/waldronmatt/module-federation-for-enterprise-part-2-men)
 
+[assigning local variables to default generic slots](https://twitter.com/mpocock1/status/1516752789564764160)
 

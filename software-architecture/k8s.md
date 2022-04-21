@@ -348,13 +348,7 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 
 [What is AWS Systems Manager?](https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html). [get-parameter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-parameter.html).
 
-
-
-
-
-
-
-
+[Terraform for DevOps Beginners](https://www.youtube.com/watch?v=YcJ9IeukJL8). [Complete Terraform Course - From BEGINNER to PRO!](https://www.youtube.com/watch?v=7xngnjfIlK4). [Terraform tips’n’tricks: debugging data sources and testing interpolations](https://martincarstenbach.wordpress.com/2021/02/09/terraform-tipsntricks-debugging-data-sources-and-testing-interpolations/). [Using the terraform console to debug interpolation syntax](https://prefetch.net/blog/2020/04/27/using-the-terraform-console-to-debug-interpolation-syntax/). [Develop Configuration with the Console](https://learn.hashicorp.com/tutorials/terraform/console)
 
 
 

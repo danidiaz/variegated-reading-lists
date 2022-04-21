@@ -665,6 +665,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [The Fundamental Mechanism of Scaling](https://news.ycombinator.com/item?id=27865038)
 
-
+[State Machine Replication, and Why You Should Care](https://signalsandthreads.com/state-machine-replication-and-why-you-should-care/)
 
 

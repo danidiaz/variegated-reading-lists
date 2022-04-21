@@ -331,3 +331,6 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [How to implement the lambda calculus, quickly](https://twitter.com/DiazCarrete/status/1480178086658383874)
 
+[Namespaced DeBruijn Indices](https://twitter.com/sf_haskell/status/1517169113172365312)
+
+

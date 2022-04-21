@@ -53,5 +53,7 @@
 
 [UX Patterns: Stale-While-Revalidate](https://www.infoq.com/news/2020/11/ux-stale-while-revalidate/). [http-stale-while-revalidate](https://datatracker.ietf.org/doc/html/draft-nottingham-http-stale-while-revalidate-01). [Keeping things fresh with stale-while-revalidate](https://web.dev/i18n/en/stale-while-revalidate/). 
 
+[hydration is overhead](https://twitter.com/mhevery/status/1516844814792224770)
+
 
 

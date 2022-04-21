@@ -205,7 +205,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Postgres Connection Strings and psql](https://tapoueh.org/blog/2019/09/postgres-connection-strings-and-psql/). [official docs](https://www.postgresql.org/docs/current/libpq-connect.html#LIBPQ-CONNSTRING).
 
-
+[Amazon Aurora Serverless v2 is Generally Available: Instant Scaling for Demanding Workloads](https://aws.amazon.com/blogs/aws/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/)
 
 
 

@@ -92,4 +92,6 @@
 
 [about pull requests](https://twitter.com/georgberky/status/1511682649009659911?t=Sc1C6a7qfZSQfZcFYS5-hg&s=03)
 
+[How are pull requests integrated in a repo with high commit frequency?](https://news.ycombinator.com/item?id=31108828)
+
 

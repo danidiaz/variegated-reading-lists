@@ -741,6 +741,14 @@ handlers as additional arguments to methods.
 
 [Functional Algorithms, Verified](https://news.ycombinator.com/item?id=28884229)
 
+[a semantics for your PL](https://twitter.com/ProfMaxNew/status/1517113693624020993)
+
+    Algebras of a Monad
+    Coalgebras of a Comonad
+    Sheaves
+    Comma categories
+    Internal categories
+
 ## videos
 
 [Curry On Talk: The Practice and Theory of TLA+](https://pron.github.io/posts/tlaplus-curryon-talk)

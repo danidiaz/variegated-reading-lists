@@ -147,3 +147,5 @@
 
 [Indirect branch tracking in Linux for Intel CPUs ](https://news.ycombinator.com/item?id=30868032)
 
+[Magic-trace – High-resolution traces of what a process is doing](https://news.ycombinator.com/item?id=31121319)
+

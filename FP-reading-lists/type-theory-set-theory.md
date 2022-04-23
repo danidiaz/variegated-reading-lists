@@ -189,7 +189,7 @@ attempt to make equality reasonable again.”
 
 [bibliography of Synthetic Tait Computability](https://twitter.com/jonmsterling/status/1517398757721186304)
 
-[displayed algebras](). [Type-theoretic signatures for algebraic theories and inductive types (thesis)](https://twitter.com/Jose_A_Alonso/status/1517024624030232576)
+[displayed algebras](https://twitter.com/jjcarett2/status/1517850948802347008). [Type-theoretic signatures for algebraic theories and inductive types (thesis)](https://twitter.com/Jose_A_Alonso/status/1517024624030232576)
 
 ## Proof assistants
 

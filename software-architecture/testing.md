@@ -182,4 +182,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Introduction to Doctests in Haskell](https://www.reddit.com/r/haskell/comments/u70c4c/introduction_to_doctests_in_haskell/)
 
+[testing microservices is hard](https://twitter.com/danielbryantuk/status/1517444565908611074)
+
 

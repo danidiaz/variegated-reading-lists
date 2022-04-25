@@ -16,3 +16,5 @@
 
 [SQLite and Go](https://twitter.com/kelseyhightower/status/1516293351384834048)
 
+[Have you used SQLite as a primary database?](https://news.ycombinator.com/item?id=31152490)
+

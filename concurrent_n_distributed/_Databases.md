@@ -799,6 +799,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [zero-downtime migrations](https://news.ycombinator.com/item?id=30945448)
 
+[Creating read-optimized views](https://twitter.com/gunnarmorling/status/1518546545687379968)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

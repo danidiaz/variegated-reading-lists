@@ -360,6 +360,7 @@ to be aware of the coherent witness-manipulation problem
 
 [Elements of ∞-Category Theory](https://twitter.com/HigherGeometer/status/1491216356792217603)
 
+
 ## videos
 
 [TheCatsters](https://www.youtube.com/user/TheCatsters)
@@ -592,6 +593,8 @@ to be aware of the coherent witness-manipulation problem
 > The first, and perhaps most important, point is that hardly any categories that occur in nature are skeletal. The axiom of choice implies that every category is equivalent to a skeletal one, but such a skeleton is usually artifical and non-canonical. Thus, even if using skeletal categories simplified category theory, it would not mean that the subtleties were artifical, but rather that the naturally occurring subtleties could be removed by an artificial construction (the skeleton).
 
 [rom comonads to calculus](https://www.youtube.com/watch?v=HK6RDBg9IhU)
+
+
 
 ## posts
 
@@ -915,5 +918,7 @@ F at the object of interest, X.
 [Structures algébriques fondamentales (Définitions, constructions et propriétés universelles)](https://twitter.com/DiazCarrete/status/1443566606592851971)
 
 > Dans tout ce programme de construction, il est crucial de veiller à respecter l’encapsulation : on ne retourne pas voir les détails d’une construction terminée. La porte d’entrée (et ses éventuelles propriétés) et la propriété universelle doivent rester les seuls accès. 
+
+[Seeing double through dependent optics](https://twitter.com/mathCTbot/status/1518407678652940289)
 
 

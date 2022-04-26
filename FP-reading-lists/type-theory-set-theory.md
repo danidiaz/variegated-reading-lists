@@ -304,6 +304,8 @@ attempt to make equality reasonable again.”
 
 [term models](https://twitter.com/KamerynJW/status/1437496264082411521)
 
+[abundant urelements](https://twitter.com/JDHamkins/status/1519002984587403264)
+
 # models of ZFC
 
 [Models of ZFC Set Theory](https://mathoverflow.net/questions/13609/models-of-zfc-set-theory-getting-started). [blog post](https://usamo.wordpress.com/2015/12/02/models-of-zfc/).

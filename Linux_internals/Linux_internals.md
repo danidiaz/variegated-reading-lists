@@ -149,3 +149,15 @@
 
 [Magic-trace – High-resolution traces of what a process is doing](https://news.ycombinator.com/item?id=31121319)
 
+[Alignment](https://en.wikipedia.org/wiki/Data_structure_alignment)
+
+> Padding is only inserted when a structure member is followed by a member with a larger alignment requirement or at the end of the structure. 
+
+[Alignment and endianness](https://developer.arm.com/documentation/102376/0100/Alignment-and-endianness)
+
+> An access is described as aligned if the address is a multiple of the element size.
+
+[What Programmers Should Know About Memory Allocation](https://www.youtube.com/watch?v=gYfd25Bdmws)
+
+
+

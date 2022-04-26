@@ -1135,4 +1135,12 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [If you expose your class names as configuration, it’s easy for refactoring to create breaking changes. ](https://twitter.com/richardstartin/status/1514359414517551113)
 
+[DDD](https://news.ycombinator.com/item?id=31162623)
+
+> the worst I ran into is the DB layer and the unit-of-work pattern. That is, loading an entity from the database, then implementing the domain logic at a high level (in-memory), and then you have to figure out how to translate this into DB updates AND make the whole thing concurrency-safe.
+
+> My own solution was to keep no entity state in memory and translate everything into DB updates immediately. Use DB transactions where needed. You'll need another layer of code to abstract those higher-level DB operations so your domain code isn't littered with DB accesses, but apart from the extra lines-of-code the whole thing becomes very clean IMHO. Problem is, you won't find this solution described anywhere, and you are completely on your own.
+
+> There's a relevant term called "DDD Trilemma" (I like it because it's easy to find back articles on it). It states that you can't have both a pure, complete and performant domain.
+
 

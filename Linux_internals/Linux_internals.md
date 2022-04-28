@@ -149,6 +149,8 @@
 
 [Magic-trace – High-resolution traces of what a process is doing](https://news.ycombinator.com/item?id=31121319)
 
+[The Lost Art of C Structure Packing](https://news.ycombinator.com/item?id=31182449)
+
 [Alignment](https://en.wikipedia.org/wiki/Data_structure_alignment)
 
 > Padding is only inserted when a structure member is followed by a member with a larger alignment requirement or at the end of the structure. 

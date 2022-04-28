@@ -307,6 +307,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 ["Namespaced De Bruijn indices" trick](https://twitter.com/GabriellaG439/status/1515359882894999554)
 
+[Zonking via Monads and Traversals](https://www.reddit.com/r/haskell/comments/udiiwm/zonking_via_monads_and_traversals/)
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

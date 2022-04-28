@@ -801,6 +801,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Creating read-optimized views](https://twitter.com/gunnarmorling/status/1518546545687379968)
 
+[Why is Propagation.REQUIRED the default in Spring?](https://twitter.com/lukaseder/status/1519624738137686016)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

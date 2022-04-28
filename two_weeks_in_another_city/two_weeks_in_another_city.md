@@ -500,6 +500,8 @@
 
 [Metaphysics of Mapping Buildings](https://snufk.in/blog/mapping-buildings.html). [that ridiculous [Ikea] store layout](https://thehustle.co/how-ikea-tricks-you-into-buying-more-stuff/).
 
+[les ponts habités](https://twitter.com/GallicaBnF/status/1519683439053709312)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

@@ -502,6 +502,10 @@
 
 [les ponts habités](https://twitter.com/GallicaBnF/status/1519683439053709312)
 
+[Inform 7 open source](https://news.ycombinator.com/item?id=31197121)
+
+>  the interactive fiction community is from a technological perspective a fascinating microcosm, including from a CS perspective. You have not just one toolchain, but an entire ecosystem of competing virtual machine specifications (Z-Machine, Glulx, TADS, Hugo), compilers, and source languages, all intending to deliver architecture-independence and the ability to preserve IF for the ages, yet apart from all general-purpose technologies typically used for the task.
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

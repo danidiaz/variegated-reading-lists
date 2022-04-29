@@ -803,7 +803,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Why is Propagation.REQUIRED the default in Spring?](https://twitter.com/lukaseder/status/1519624738137686016)
 
-[DOMAIN types](https://twitter.com/lukaseder/status/1520045361301184513)
+[DOMAIN types](https://twitter.com/lukaseder/status/1520045361301184513). [The Public Interface of a Database](https://twitter.com/chrisoldwood/status/1520111550186631171)
+
 
 # Podcasts
 

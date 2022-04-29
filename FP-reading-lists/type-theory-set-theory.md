@@ -191,6 +191,8 @@ attempt to make equality reasonable again.”
 
 [displayed algebras](https://twitter.com/jjcarett2/status/1517850948802347008). [Type-theoretic signatures for algebraic theories and inductive types (thesis)](https://twitter.com/Jose_A_Alonso/status/1517024624030232576)
 
+[Setoid Hell](https://twitter.com/jjcarett2/status/1519739301986197504)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)
@@ -305,6 +307,7 @@ attempt to make equality reasonable again.”
 [term models](https://twitter.com/KamerynJW/status/1437496264082411521)
 
 [abundant urelements](https://twitter.com/JDHamkins/status/1519002984587403264)
+
 
 # models of ZFC
 

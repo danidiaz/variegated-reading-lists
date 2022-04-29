@@ -406,4 +406,5 @@ https://react-query.tanstack.com/
 
 [Using forwardRef in React to clean up the DOM](https://blog.logrocket.com/cleaning-up-the-dom-with-forwardref-in-react/)
 
+[10 React Antipatterns to Avoid](https://www.youtube.com/watch?v=b0IZo2Aho9Y)
 

@@ -34,3 +34,5 @@ const conforms: OnlyBoolsAndHorses = {
 
 [assigning local variables to default generic slots](https://twitter.com/mpocock1/status/1516752789564764160)
 
+[TypeScript tips and Tricks with Matt](https://www.youtube.com/watch?v=hBk4nV7q6-w)
+

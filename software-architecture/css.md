@@ -216,3 +216,5 @@ https://twitter.com/tailwindcss
 
 [Layout patterns – Collection of layout patterns built using CSS](https://news.ycombinator.com/item?id=29254391)
 
+[Beginner-friendly guide to use Tailwind CSS with Jekyll](https://news.ycombinator.com/item?id=31214161)
+

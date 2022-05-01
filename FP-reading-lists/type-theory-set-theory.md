@@ -193,6 +193,8 @@ attempt to make equality reasonable again.”
 
 [Setoid Hell](https://twitter.com/jjcarett2/status/1519739301986197504)
 
+[type theory resources geared towards implementers](https://twitter.com/GabriellaG439/status/1520793063467102208)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

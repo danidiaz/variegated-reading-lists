@@ -667,4 +667,10 @@ https://news.ycombinator.com/item?id=25061901
 
 [State Machine Replication, and Why You Should Care](https://signalsandthreads.com/state-machine-replication-and-why-you-should-care/)
 
+[Distributed Systems Shibboleths](https://lobste.rs/s/p3uayt/distributed_systems_shibboleths)
+
+> Your system might implement at-least-once delivery with idempotent processing, but it does not implement exactly-once which is demonstrated to be impossible in the Two Generals problem. These words matter because building idempotency has to be something you thread through your whole distributed system, all the way down to the system that is mutating the source of truth state and all the way up to your clients. It takes effort to build in idempotency, and can be difficult to add as an afterthought.
+
+> Distributed leases are possible because the participating nodes agree ahead of time how much time they are allowed to assume they hold a lease without coordinating. This introduces unavailability under partitions (preserving CP by choosing to fail under a partition).
+
 

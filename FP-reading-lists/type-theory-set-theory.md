@@ -193,7 +193,9 @@ attempt to make equality reasonable again.”
 
 [Setoid Hell](https://twitter.com/jjcarett2/status/1519739301986197504)
 
-[type theory resources geared towards implementers](https://twitter.com/GabriellaG439/status/1520793063467102208)
+[type theory resources geared towards implementers](https://twitter.com/GabriellaG439/status/1520793063467102208). [more resources](https://twitter.com/defnotbeka/status/1521158171888209920). [talk on bidirectional type checking](https://twitter.com/acid2/status/1521025671400673282)
+
+> Frank Pfenning's OPLSS videos and lecture notes
 
 ## Proof assistants
 

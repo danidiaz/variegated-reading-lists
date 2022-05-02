@@ -506,6 +506,8 @@
 
 >  the interactive fiction community is from a technological perspective a fascinating microcosm, including from a CS perspective. You have not just one toolchain, but an entire ecosystem of competing virtual machine specifications (Z-Machine, Glulx, TADS, Hugo), compilers, and source languages, all intending to deliver architecture-independence and the ability to preserve IF for the ages, yet apart from all general-purpose technologies typically used for the task.
 
+[Intro to procedural text generation](https://twitter.com/martinpi/status/1521069567359041536)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

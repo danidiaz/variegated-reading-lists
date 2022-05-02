@@ -805,6 +805,7 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [DOMAIN types](https://twitter.com/lukaseder/status/1520045361301184513). [The Public Interface of a Database](https://twitter.com/chrisoldwood/status/1520111550186631171)
 
+[There's always an events table](https://lobste.rs/s/njzpec/there_s_always_events_table)
 
 # Podcasts
 

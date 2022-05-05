@@ -1143,4 +1143,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > There's a relevant term called "DDD Trilemma" (I like it because it's easy to find back articles on it). It states that you can't have both a pure, complete and performant domain.
 
+[Thoughts about Layered Architecture - Mapping efficiently with SQL](https://twitter.com/javahippie/status/1522176560165527553)
+
+
 

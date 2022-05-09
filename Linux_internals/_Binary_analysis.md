@@ -6,3 +6,5 @@
 
 [Mac transition to Apple silicon](https://en.wikipedia.org/wiki/Mac_transition_to_Apple_silicon)
 
+[Adding code to an existing ELF file](https://news.ycombinator.com/item?id=31313628)
+

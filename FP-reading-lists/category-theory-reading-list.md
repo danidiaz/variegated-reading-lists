@@ -921,6 +921,6 @@ F at the object of interest, X.
 
 [Seeing double through dependent optics](https://twitter.com/mathCTbot/status/1518407678652940289)
 
-[poly book](https://twitter.com/Iceland_jack/status/1522953075723546625)
+[poly book](https://twitter.com/Iceland_jack/status/1522953075723546625). [Polynomial Functors: A General Theory of Interaction](https://topos.site/poly-book.pdf).
 
 

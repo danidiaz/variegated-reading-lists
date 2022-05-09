@@ -36,3 +36,5 @@ const conforms: OnlyBoolsAndHorses = {
 
 [TypeScript tips and Tricks with Matt](https://www.youtube.com/watch?v=hBk4nV7q6-w)
 
+[Typed useState with TypeScript](https://www.carlrippon.com/typed-usestate-with-typescript/)
+

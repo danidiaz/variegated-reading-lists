@@ -408,3 +408,5 @@ https://react-query.tanstack.com/
 
 [10 React Antipatterns to Avoid](https://www.youtube.com/watch?v=b0IZo2Aho9Y)
 
+[Thinking on ways to solve DIALOG](https://www.youtube.com/watch?v=GDzzIlRhEzM)
+

@@ -410,3 +410,5 @@ https://react-query.tanstack.com/
 
 [Thinking on ways to solve DIALOG](https://www.youtube.com/watch?v=GDzzIlRhEzM)
 
+[React 18 Strict Mode](https://twitter.com/DavidKPiano/status/1523396823914008577)
+

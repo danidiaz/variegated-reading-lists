@@ -807,6 +807,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [There's always an events table](https://lobste.rs/s/njzpec/there_s_always_events_table)
 
+[Identity Crisis: Sequence v. UUID as Primary Key](https://brandur.org/nanoglyphs/026-ids)    
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

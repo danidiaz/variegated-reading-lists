@@ -57,5 +57,9 @@
 
 [Comparing Native Java REST API Frameworks](https://twitter.com/mraible/status/1517073408479137793). [ZalandoTech REST API guidelines](https://twitter.com/bmarwell/status/1516842447804014593)
 
+[Web Development for Beginners](https://news.ycombinator.com/item?id=31299716)
+
+[graphql = trap?](https://news.ycombinator.com/item?id=31284846)
+
 
 

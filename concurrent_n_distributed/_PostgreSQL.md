@@ -207,6 +207,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Amazon Aurora Serverless v2 is Generally Available: Instant Scaling for Demanding Workloads](https://aws.amazon.com/blogs/aws/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/)
 
+[Parquet and Postgres in the Data Lake](https://www.crunchydata.com/blog/parquet-and-postgres-in-the-data-lake)
 
 
 

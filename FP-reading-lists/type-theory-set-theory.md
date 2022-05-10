@@ -197,6 +197,10 @@ attempt to make equality reasonable again.”
 
 > Frank Pfenning's OPLSS videos and lecture notes
 
+[type drama](https://twitter.com/taooftypes/status/1521939381279416327?t=8bWjgZoiY5vS8vrcSCic3w&s=03)
+
+[staged computation is *not* staged compilation](https://twitter.com/andrasKovacs6/status/1523630108719783937?t=H9Vt5zZU4yefl1D6vZu9Kw&s=03)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

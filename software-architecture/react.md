@@ -412,3 +412,6 @@ https://react-query.tanstack.com/
 
 [React 18 Strict Mode](https://twitter.com/DavidKPiano/status/1523396823914008577)
 
+[Intro to Storybook for React with Figma](https://www.youtube.com/watch?v=p2sZKAPOQXs)
+
+

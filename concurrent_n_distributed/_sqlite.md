@@ -18,3 +18,5 @@
 
 [Have you used SQLite as a primary database?](https://news.ycombinator.com/item?id=31152490)
 
+[I'm all-in on server-side SQLite](https://news.ycombinator.com/item?id=31318708)
+

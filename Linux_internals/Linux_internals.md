@@ -161,5 +161,5 @@
 
 [What Programmers Should Know About Memory Allocation](https://www.youtube.com/watch?v=gYfd25Bdmws)
 
-
+[debugging a JVM crash](https://twitter.com/BrianJStafford/status/1523789921764356096)
 

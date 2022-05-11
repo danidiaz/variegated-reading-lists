@@ -222,4 +222,6 @@ https://twitter.com/tailwindcss
 
 [A few of my favorite well-supported modern CSS features](https://twitter.com/5t3ph/status/1523835100722565121). [SmolCSS](https://smolcss.dev/)
 
+[The 62.5% Font Size Trick](https://twitter.com/kylegach/status/1523815918698074112)
+
 

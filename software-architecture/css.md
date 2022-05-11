@@ -220,4 +220,6 @@ https://twitter.com/tailwindcss
 
 [CSS Gap Space with Flexbox](https://coryrylan.com/blog/css-gap-space-with-flexbox)
 
+[A few of my favorite well-supported modern CSS features](https://twitter.com/5t3ph/status/1523835100722565121). [SmolCSS](https://smolcss.dev/)
+
 

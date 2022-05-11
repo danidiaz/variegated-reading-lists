@@ -224,4 +224,8 @@ https://twitter.com/tailwindcss
 
 [The 62.5% Font Size Trick](https://twitter.com/kylegach/status/1523815918698074112)
 
+[mind the flex-gap (2019)](https://medium.com/@schofeld/mind-the-flex-gap-c9cd1b4b35d8)
+
+> Some thoughts on bridging the CSS generation gap between the world of Flexbox we have now, with margins on child elements, and Flex layout with gaps defined on the parent container. 
+
 

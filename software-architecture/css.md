@@ -228,4 +228,6 @@ https://twitter.com/tailwindcss
 
 > Some thoughts on bridging the CSS generation gap between the world of Flexbox we have now, with margins on child elements, and Flex layout with gaps defined on the parent container. 
 
+[A great tip for building custom select components: don't do it](https://twitter.com/type__error/status/1524306971263967234)
+
 

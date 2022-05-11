@@ -508,6 +508,8 @@
 
 [Intro to procedural text generation](https://twitter.com/martinpi/status/1521069567359041536)
 
+[How to manage time pressure?](https://rpg.stackexchange.com/questions/198300/how-to-manage-time-pressure)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

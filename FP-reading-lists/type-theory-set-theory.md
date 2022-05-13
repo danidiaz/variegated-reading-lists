@@ -201,6 +201,8 @@ attempt to make equality reasonable again.”
 
 [staged computation is *not* staged compilation](https://twitter.com/andrasKovacs6/status/1523630108719783937?t=H9Vt5zZU4yefl1D6vZu9Kw&s=03)
 
+[explaining hott](https://twitter.com/EscardoMartin/status/1525201887703736322)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

@@ -209,5 +209,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Parquet and Postgres in the Data Lake](https://www.crunchydata.com/blog/parquet-and-postgres-in-the-data-lake)
 
+[The FILTER clause in Postgres 9.4](https://medium.com/little-programming-joys/the-filter-clause-in-postgres-9-4-3dd327d3c852)
 
 

@@ -193,6 +193,8 @@ max(v), min(t), and max(t) – hence the name M4
 
 [clickhouse vs postgresql](https://blog.timescale.com/blog/what-is-clickhouse-how-does-it-compare-to-postgresql-and-timescaledb-and-how-does-it-perform-for-time-series-data/). [timescaledb vs. clickhouse](https://news.ycombinator.com/item?id=29096541).
 
+[Monarch: Google’s Planet-Scale In-Memory Time Series Database](https://news.ycombinator.com/item?id=31379383)
+
 ## grafana datasources
 
 [grafana datasources](https://grafana.com/docs/features/datasources/)
@@ -242,6 +244,8 @@ max(v), min(t), and max(t) – hence the name M4
 [ListenBrainz moves to TimescaleDB](https://news.ycombinator.com/item?id=23915509)
 
 [	TimescaleDB vs. Amazon Timestream ](https://news.ycombinator.com/item?id=25287793)
+
+[   Time-Series Compression Algorithms](https://news.ycombinator.com/item?id=31379344)
 
 ## graphite
 

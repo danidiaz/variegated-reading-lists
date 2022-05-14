@@ -184,4 +184,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [testing microservices is hard](https://twitter.com/danielbryantuk/status/1517444565908611074)
 
+[teaching debugging](https://twitter.com/wilcoxjay/status/1525176943523508224)
+
 

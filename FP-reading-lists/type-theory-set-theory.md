@@ -203,6 +203,8 @@ attempt to make equality reasonable again.”
 
 [explaining hott](https://twitter.com/EscardoMartin/status/1525201887703736322)
 
+[it's a fundamentally flawed, unrescuable concept](https://twitter.com/danghica/status/1525491857953898501)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

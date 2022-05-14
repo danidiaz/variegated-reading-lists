@@ -414,4 +414,6 @@ https://react-query.tanstack.com/
 
 [Intro to Storybook for React with Figma](https://www.youtube.com/watch?v=p2sZKAPOQXs)
 
+[Complex State Management in React](https://www.telerik.com/blogs/complex-state-management-react)
+
 

@@ -809,6 +809,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Identity Crisis: Sequence v. UUID as Primary Key](https://brandur.org/nanoglyphs/026-ids)    
 
+[the only scalable (and largely language agnostic (1)) solution is to break these down and deploy incremental versions of the app.](https://news.ycombinator.com/item?id=31331849)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

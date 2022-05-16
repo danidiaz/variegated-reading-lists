@@ -211,4 +211,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [The FILTER clause in Postgres 9.4](https://medium.com/little-programming-joys/the-filter-clause-in-postgres-9-4-3dd327d3c852)
 
+[OpenTelemetry Traces and PostgreSQL](https://news.ycombinator.com/item?id=31397145)
+
 

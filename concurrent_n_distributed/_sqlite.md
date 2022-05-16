@@ -20,3 +20,5 @@
 
 [I'm all-in on server-side SQLite](https://news.ycombinator.com/item?id=31318708)
 
+[JSON and Virtual Columns in SQLite](https://news.ycombinator.com/item?id=31396578)
+

@@ -1145,5 +1145,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Thoughts about Layered Architecture - Mapping efficiently with SQL](https://twitter.com/javahippie/status/1522176560165527553)
 
+[Why billing systems are a nightmare for engineers](https://news.ycombinator.com/item?id=31424450)
 
 

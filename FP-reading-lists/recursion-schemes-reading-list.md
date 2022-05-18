@@ -216,7 +216,7 @@
 
 [Recursion Schemes for Higher Algebras](https://bartoszmilewski.com/2018/08/20/recursion-schemes-for-higher-algebras/)
 
-[Create recursion schemes using comonads](https://www.reddit.com/r/haskell/comments/u7t2j9/create_recursion_schemes_using_comonads/)
+[Create recursion schemes using comonads](https://www.reddit.com/r/haskell/comments/u7t2j9/create_recursion_schemes_using_comonads/). [How to lower an IR](https://www.reddit.com/r/haskell/comments/urutbu/how_to_lower_an_ir/)
 
 ## videos
 

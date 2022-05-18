@@ -165,6 +165,10 @@
 
 > Such controls are often backed up by increasingly sophisticated realistic disaster scenario (‘RDS’) and probable maximum loss (‘PML’) modelling,
 
+[Lloyd’s 101 part 5: Lloyd’s in Australia and New Zealand](https://www.youtube.com/watch?v=HhVISAtW0xU)
+
+[Lloyd's Byelaws](https://www.lloyds.com/conducting-business/market-oversight/acts-and-byelaws/lloyds-byelaws)
+
 # Software
 
 [Actuarial mathematics (in Isabelle/HOL)](https://twitter.com/Jose_A_Alonso/status/1486021055126794240)

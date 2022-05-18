@@ -230,4 +230,13 @@ https://twitter.com/tailwindcss
 
 [A great tip for building custom select components: don't do it](https://twitter.com/type__error/status/1524306971263967234)
 
+[How to use Tailwind CSS and Material-UI together](https://medium.com/@damien_monni/how-to-use-tailwind-css-and-material-ui-together-43b839dc73b8)
+
+[How to style Material UI component with Tailwindcss in React project](https://www.youtube.com/watch?v=QQIfuMlA6TI). [CSS Breakpoints Battle (Tailwind vs Material UI vs CSS)](https://www.youtube.com/watch?v=jKez1D2nMwo). [How replacing Material-UI with Tailwind.css improved my web app](https://flaming.codes/posts/replace-material-ui-with-tailwind-css). [Material Tailwind Kit React: Free Tailwind CSS & Material Design UI Kit](https://www.creative-tim.com/product/material-tailwind-kit-react). [Is it a good practice to use Material Ui and tailwind in a same project ](https://stackoverflow.com/questions/68218403/is-it-a-good-practice-to-use-material-ui-and-tailwind-in-a-same-project). [Material Tailwind - Easy-to-use Tailwind CSS components library with Material Design](https://www.material-tailwind.com/). []().
+
+[Everything you need to know about Tailwind CSS JIT Compiler](https://daily.dev/blog/everything-you-need-to-know-about-tailwind-css-jit-compiler). [Exploring JIT mode in Tailwind CSS ](https://blog.logrocket.com/exploring-jit-mode-tailwind-css/). [Tailwind Just in Time Tutorial #1 - Introduction](https://www.youtube.com/watch?v=aQS7kaje-24). [Is there any way to disable JIT in tailwind 3.0](https://github.com/tailwindlabs/tailwindcss/discussions/6347). 
+
+[How to dynamically create CSS class in JavaScript and apply?](https://stackoverflow.com/questions/1720320/how-to-dynamically-create-css-class-in-javascript-and-apply).
+
+
 

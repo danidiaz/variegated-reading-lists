@@ -22,3 +22,9 @@
 
 [JSON and Virtual Columns in SQLite](https://news.ycombinator.com/item?id=31396578)
 
+[Temporary tables in SQLite](https://antonz.org/temp-tables/)
+
+[SQLite Data Starter Packs | Public Affairs Data Journalism at Stanford | Fall 2016](http://2016.padjo.org/tutorials/sqlite-data-starterpacks/). [Public Affairs Data Journalism, Fall 2017 — Padjo 2017 0.1 documentation
+](http://2017.padjo.org/)
+
+

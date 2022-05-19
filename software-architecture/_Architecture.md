@@ -1147,4 +1147,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Why billing systems are a nightmare for engineers](https://news.ycombinator.com/item?id=31424450)
 
+[Nginx Modern Reference Architectures](https://news.ycombinator.com/item?id=31436726)
 

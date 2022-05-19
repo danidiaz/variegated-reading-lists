@@ -205,6 +205,10 @@ attempt to make equality reasonable again.”
 
 [it's a fundamentally flawed, unrescuable concept](https://twitter.com/danghica/status/1525491857953898501)
 
+[equality](https://twitter.com/bgavran3/status/1527238868482801668)
+
+> The internal method attaches an equality to each object (i.e. HITs). The external method attaches it post-factor (i.e. Setoids).
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

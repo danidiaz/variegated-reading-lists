@@ -811,6 +811,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [the only scalable (and largely language agnostic (1)) solution is to break these down and deploy incremental versions of the app.](https://news.ycombinator.com/item?id=31331849)
 
+[persistence programming](https://queue.acm.org/detail.cfm?id=3526210&doi=10.1145/3526210)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

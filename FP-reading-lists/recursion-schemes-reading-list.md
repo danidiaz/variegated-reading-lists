@@ -218,6 +218,8 @@
 
 [Create recursion schemes using comonads](https://www.reddit.com/r/haskell/comments/u7t2j9/create_recursion_schemes_using_comonads/). [How to lower an IR](https://www.reddit.com/r/haskell/comments/urutbu/how_to_lower_an_ir/)
 
+[recursion schemes chart](https://twitter.com/bgavran3/status/1527420799950503971)
+
 ## videos
 
 [Unifying Structured Recursion Schemes](https://www.youtube.com/watch?v=9EGYSb9vov8)

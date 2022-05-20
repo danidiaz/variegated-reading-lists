@@ -209,6 +209,8 @@ attempt to make equality reasonable again.”
 
 > The internal method attaches an equality to each object (i.e. HITs). The external method attaches it post-factor (i.e. Setoids).
 
+[some lecture notes on how to use synthetic Tait computability](https://twitter.com/jonmsterling/status/1526934419197550594)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

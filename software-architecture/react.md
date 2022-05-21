@@ -426,5 +426,7 @@ https://react-query.tanstack.com/
 
 [try XState](https://twitter.com/AdamRackis/status/1527794654594445313). https://xstate.js.org/. [with React](https://xstate.js.org/docs/recipes/react.html).
 
+[Practical React Query](https://tkdodo.eu/blog/practical-react-query). [tweet](https://twitter.com/abdadeel_/status/1527747604712415233).
+
 
 

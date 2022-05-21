@@ -42,3 +42,11 @@
 
 [Automating Fourmolu releases with GitHub Actions](https://brandonchinn178.github.io/blog/2022/05/19/automating-fourmolu-releases-with-github-actions.html)
 
+[About [GitHub] workflows](https://docs.github.com/en/actions/using-workflows/about-workflows). [example](https://github.com/github/darrrr/actions/runs/39771470/workflow).
+
+> The run keyword tells the job to execute a command on the runner.
+
+    run: |
+      sudo apt-get install libsqlite3-dev
+
+

@@ -46,4 +46,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [homomorphic mapped types](https://github.com/Microsoft/TypeScript/pull/12563)
 
+[More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html)
+
 

@@ -247,6 +247,8 @@ max(v), min(t), and max(t) – hence the name M4
 
 [   Time-Series Compression Algorithms](https://news.ycombinator.com/item?id=31379344)
 
+[Apache Druid](https://thenewstack.io/apache-druid-a-real-time-database-for-modern-analytics/)
+
 ## graphite
 
 [whisper](https://graphite.readthedocs.io/en/latest/whisper.html)

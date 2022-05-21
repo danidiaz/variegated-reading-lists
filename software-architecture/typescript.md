@@ -39,3 +39,8 @@ const conforms: OnlyBoolsAndHorses = {
 [Typed useState with TypeScript](https://www.carlrippon.com/typed-usestate-with-typescript/)
 
 [React Children with TypeScript](https://www.carlrippon.com/react-children-with-typescript/). [TypeScript and React: Components](https://fettblog.eu/typescript-react/components/). [Using the React children prop with TypeScript](https://blog.logrocket.com/using-react-children-prop-typescript/). [How to write a React Component in TypeScript](https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript). [Why You Should Probably Think Twice About Using React.FC](https://spin.atomicobject.com/2022/01/04/think-twice-react-fc/). [Usage of `React.FC` from my experience](https://dev.to/xenoxdev/usage-of-reactfc-from-my-experience-22n7). [Should you use React.FC for typing React Components](https://medium.com/@harrymt/should-you-use-react-fc-for-typing-react-components-62cde9ba67c). [TypeScript + React: Why I don't use React.FC](https://fettblog.eu/typescript-react-why-i-dont-use-react-fc/). [Remove React.FC from Typescript template](https://github.com/facebook/create-react-app/pull/8177). [Why you probably shouldn’t use React.FC to type your React components](https://blog.raccoons.be/react-fc-opinion).
+
+[Use JSDoc: Block and inline tags](https://jsdoc.app/about-block-inline-tags.html). [markdown plugin](https://jsdoc.app/plugins-markdown.html). [Render Markdown of JSDoc (2016)](https://github.com/microsoft/vscode/issues/17414)
+
+
+

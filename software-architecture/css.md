@@ -238,5 +238,10 @@ https://twitter.com/tailwindcss
 
 [How to dynamically create CSS class in JavaScript and apply?](https://stackoverflow.com/questions/1720320/how-to-dynamically-create-css-class-in-javascript-and-apply).
 
+[Advanced Animations Using CSS](https://www.smashingmagazine.com/2022/05/advanced-animations-using-css/)
+
+[Top utility-first CSS frameworks](https://blog.logrocket.com/top-utility-first-css-frameworks/)
+
+[How to Use calc(), max(), min(), and clamp()](https://www.freecodecamp.org/news/css-functions-for-beginners/)
 
 

@@ -211,6 +211,10 @@ attempt to make equality reasonable again.”
 
 [some lecture notes on how to use synthetic Tait computability](https://twitter.com/jonmsterling/status/1526934419197550594)
 
+[higher-rank syntax](https://twitter.com/andrejbauer/status/1527650289028825093). [One syntax to rule them all](http://math.andrej.com/2022/05/20/one-syntax-to-rule-them-all/).
+
+> Abstract: The raw syntax of a type theory, or more generally of a formal system with binding constructs, involves not only free and bound variables, but also meta-variables, which feature in inference rules. Each notion of variable has an associated notion of substitution. A syntactic translation from one type theory to another brings in one more level of substitutions, this time mapping type-theoretic constructors to terms. Working with three levels of substitution, each depending on the previous one, is cumbersome and repetitive. One gets the feeling that there should be a better way to deal with syntax.
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

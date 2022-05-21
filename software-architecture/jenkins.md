@@ -40,3 +40,5 @@
 
 [Automating a Software Company with GitHub Actions](https://news.ycombinator.com/item?id=28234057)
 
+[Automating Fourmolu releases with GitHub Actions](https://brandonchinn178.github.io/blog/2022/05/19/automating-fourmolu-releases-with-github-actions.html)
+

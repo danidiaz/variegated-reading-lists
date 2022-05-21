@@ -813,6 +813,10 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [persistence programming](https://queue.acm.org/detail.cfm?id=3526210&doi=10.1145/3526210)
 
+[How Airbnb Built “Wall” to prevent data bugs](https://news.ycombinator.com/item?id=31426206)
+
+[Power BI DAX: Previous Month-to-Date, Quarter-to-Date, and Year-to-Date Calculations](https://radacad.com/power-bi-dax-previous-month-to-date-quarter-to-date-and-year-to-date-calculations)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

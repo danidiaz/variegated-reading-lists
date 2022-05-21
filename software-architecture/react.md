@@ -416,4 +416,15 @@ https://react-query.tanstack.com/
 
 [Complex State Management in React](https://www.telerik.com/blogs/complex-state-management-react)
 
+[React Hooks Best Practices in 2022](https://dev.to/kuldeeptarapara/react-hooks-best-practices-in-2022-4bh0)
+
+[Building a rich text editor with Lexical and React](https://blog.logrocket.com/build-rich-text-editor-lexical-react/)
+
+[UseTransition() Vs UseDeferredValue() In React 18](https://blog.openreplay.com/usetransition-vs-usedeferredvalue-in-react-18)
+
+[Understanding TypeScript 4.7 and ECMAScript module support](https://blog.logrocket.com/typescript-4-7-ecmascript-module-support/)
+
+[try XState](https://twitter.com/AdamRackis/status/1527794654594445313). https://xstate.js.org/. [with React](https://xstate.js.org/docs/recipes/react.html).
+
+
 

@@ -163,3 +163,9 @@
 
 [debugging a JVM crash](https://twitter.com/BrianJStafford/status/1523789921764356096)
 
+[gcc profiler internals](https://trofi.github.io/posts/243-gcc-profiler-internals.html)
+
+[Logging C Functions](https://news.ycombinator.com/item?id=31443198)
+
+
+

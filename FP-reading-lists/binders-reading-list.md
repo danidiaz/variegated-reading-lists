@@ -309,6 +309,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [Zonking via Monads and Traversals](https://www.reddit.com/r/haskell/comments/udiiwm/zonking_via_monads_and_traversals/)
 
+[Which proof assistants use de Bruijn indices internally to implement variable binding?](https://twitter.com/LawrPaulson/status/1527965993007456258)
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

@@ -1149,3 +1149,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Nginx Modern Reference Architectures](https://news.ycombinator.com/item?id=31436726)
 
+[Flags Are a Code Smell (2014)](https://news.ycombinator.com/item?id=31462229). [The Clean Code Talks -- Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc).
+
+[Locality of Behaviour (LoB) in the context of htmx](https://htmx.org/essays/locality-of-behaviour/)
+
+

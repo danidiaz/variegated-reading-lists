@@ -61,5 +61,7 @@
 
 [graphql = trap?](https://news.ycombinator.com/item?id=31284846)
 
+[The balance has shifted away from SPAs](https://news.ycombinator.com/item?id=31459316)
+
 
 

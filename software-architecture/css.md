@@ -244,4 +244,7 @@ https://twitter.com/tailwindcss
 
 [How to Use calc(), max(), min(), and clamp()](https://www.freecodecamp.org/news/css-functions-for-beginners/)
 
+[First Look At The CSS object-view-box Property](https://ishadeed.com/article/css-object-view-box/). [replaced element](https://developer.mozilla.org/en-US/docs/Web/CSS/Replaced_element).
+
+
 

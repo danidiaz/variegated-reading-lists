@@ -1153,4 +1153,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Locality of Behaviour (LoB) in the context of htmx](https://htmx.org/essays/locality-of-behaviour/)
 
+[don't look for things](https://www.youtube.com/watch?v=RlfLCWKxHJ0).
+
 

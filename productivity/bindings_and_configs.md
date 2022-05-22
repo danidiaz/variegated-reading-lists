@@ -174,4 +174,6 @@ What's added to .profile:
 
 [Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 
+[VS Code Has Dev Tools & Console!! No Need For Chrome Anymore](https://www.youtube.com/watch?v=vHZPeohPHqo)
+
 

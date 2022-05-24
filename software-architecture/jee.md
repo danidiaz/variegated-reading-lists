@@ -267,4 +267,7 @@
 
 [multiple datasources in Spring Boot](https://twitter.com/baeldung/status/1496832283621404676?t=eX65BSEZGvCKIqlE-bISAw&s=03)
 
+[With @springboot 3, we'll be able to rewrite queries in @SpringData repositories!](https://twitter.com/JPABuddy/status/1528685565423628288?t=OrvenTpTHB_gfwk0Va6sRA&s=03)
+
+
 

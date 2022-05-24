@@ -924,3 +924,6 @@ F at the object of interest, X.
 [poly book](https://twitter.com/Iceland_jack/status/1522953075723546625). [Polynomial Functors: A General Theory of Interaction](https://topos.site/poly-book.pdf).
 
 
+[The Dao of FP book](https://twitter.com/HaskellDiscu/status/1529106674614734849). [repo](https://github.com/BartoszMilewski/Publications/tree/master/TheDaoOfFP). 
+
+

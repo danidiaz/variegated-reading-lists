@@ -48,4 +48,12 @@ const conforms: OnlyBoolsAndHorses = {
 
 [More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html)
 
+[Type-safely parsing JSON to a TypeScript Interface](https://dev.to/codeprototype/safely-parsing-json-to-a-typescript-interface-3lkj)
+
+[const assertions are the killer new TypeScript feature](https://blog.logrocket.com/const-assertions-are-the-killer-new-typescript-feature-b73451f35802/)
+
+[Object literal may only specify known properties](https://stackoverflow.com/questions/31816061/why-am-i-getting-an-error-object-literal-may-only-specify-known-properties)
+
+[Type Compatibility](https://www.typescriptlang.org/docs/handbook/type-compatibility.html)
+
 

@@ -428,5 +428,6 @@ https://react-query.tanstack.com/
 
 [Practical React Query](https://tkdodo.eu/blog/practical-react-query). [tweet](https://twitter.com/abdadeel_/status/1527747604712415233).
 
+[React Interview Questions ( v17.0.x )](https://learning-zone.github.io/react-interview-questions/)
 
 

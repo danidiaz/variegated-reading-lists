@@ -510,6 +510,10 @@
 
 [How to manage time pressure?](https://rpg.stackexchange.com/questions/198300/how-to-manage-time-pressure)
 
+[Guide to implementing 2D platformers (2012)](https://news.ycombinator.com/item?id=31450218)
+
+[Business Wargames: Early Complex Text Games](https://news.ycombinator.com/item?id=31476479)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

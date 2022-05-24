@@ -673,4 +673,6 @@ https://news.ycombinator.com/item?id=25061901
 
 > Distributed leases are possible because the participating nodes agree ahead of time how much time they are allowed to assume they hold a lease without coordinating. This introduces unavailability under partitions (preserving CP by choosing to fail under a partition).
 
+[Databases = Frameworks for Distributed Systems](https://news.ycombinator.com/item?id=31459745)
+
 

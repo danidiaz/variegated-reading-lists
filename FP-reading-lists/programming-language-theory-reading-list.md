@@ -719,7 +719,7 @@ handlers as additional arguments to methods.
 
 [A Lambda Interpreter](http://lampwww.epfl.ch/teaching/archive/foundations_of_programming/2001/slides/interp.pdf)
 
-
+[Row Polymorphism Isn't Subtyping](https://brianmckenna.org/blog/row_polymorphism_isnt_subtyping)
 
 # books
 

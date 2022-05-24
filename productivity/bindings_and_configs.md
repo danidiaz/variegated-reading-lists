@@ -176,4 +176,7 @@ What's added to .profile:
 
 [VS Code Has Dev Tools & Console!! No Need For Chrome Anymore](https://www.youtube.com/watch?v=vHZPeohPHqo)
 
+[Escaping a git merge hell](https://threkk.medium.com/escaping-a-git-merge-hell-e08f37511f37). [proper use of Git tags](https://news.ycombinator.com/item?id=31480306)
+
+
 

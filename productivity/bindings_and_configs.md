@@ -178,5 +178,6 @@ What's added to .profile:
 
 [Escaping a git merge hell](https://threkk.medium.com/escaping-a-git-merge-hell-e08f37511f37). [proper use of Git tags](https://news.ycombinator.com/item?id=31480306)
 
+[How to represent bindings in lambda calculus terms where one of the binders binds two names?](https://www.reddit.com/r/haskell/comments/uxidyw/how_to_represent_bindings_in_lambda_calculus/)
 
 

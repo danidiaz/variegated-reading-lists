@@ -217,6 +217,8 @@ attempt to make equality reasonable again.”
 
 [what’s a telescope in dependently-typed programming, anyway?](https://twitter.com/cyberglot/status/1528016881684254721). [tuples](https://twitter.com/PTOOP/status/1528074380508528642).
 
+[type theory and "formality"](https://twitter.com/EscardoMartin/status/1529181804988620807)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

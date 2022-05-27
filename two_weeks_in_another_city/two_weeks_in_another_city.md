@@ -514,6 +514,8 @@
 
 [Business Wargames: Early Complex Text Games](https://news.ycombinator.com/item?id=31476479)
 
+[Elden Ring - Teaching through repetition](https://www.youtube.com/watch?v=ndUOh7VUx84)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

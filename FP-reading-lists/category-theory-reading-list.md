@@ -926,4 +926,6 @@ F at the object of interest, X.
 
 [The Dao of FP book](https://twitter.com/HaskellDiscu/status/1529106674614734849). [repo](https://github.com/BartoszMilewski/Publications/tree/master/TheDaoOfFP). 
 
+[cats and types—best friends?](https://twitter.com/DylanBraith/status/1530201591525130241)
+
 

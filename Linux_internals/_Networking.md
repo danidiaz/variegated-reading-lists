@@ -86,4 +86,7 @@
 
 [Online IP Address Class Finder](https://ipaddress.standingtech.com/online-ip-address-class-finder-detector)
 
+["Connections", in computer networking, are completely fake and make-believe](https://twitter.com/crdudeyoutube/status/1530330152550293505)
+
+
 

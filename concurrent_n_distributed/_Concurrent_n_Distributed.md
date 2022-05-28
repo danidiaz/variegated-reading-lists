@@ -675,4 +675,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [Databases = Frameworks for Distributed Systems](https://news.ycombinator.com/item?id=31459745)
 
+[distributed stuff](https://twitter.com/nodirt_/status/1530297313473617920)
+
 

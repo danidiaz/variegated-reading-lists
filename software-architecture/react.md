@@ -430,6 +430,6 @@ https://react-query.tanstack.com/
 
 [React Interview Questions ( v17.0.x )](https://learning-zone.github.io/react-interview-questions/)
 
-[Goodbye, useEffect](https://www.youtube.com/watch?v=HPoC-k7Rxwo). [Everything you need to know about React 18](https://www.youtube.com/watch?v=Z-NCLePa2x8).
+[Goodbye, useEffect](https://www.youtube.com/watch?v=HPoC-k7Rxwo). [Everything you need to know about React 18](https://www.youtube.com/watch?v=Z-NCLePa2x8). [React 18: useEffect Double Call; Mistake or Awesome?](https://www.youtube.com/watch?v=j8s01ThR7bQ). [useEvent](https://twitter.com/dan_abramov/status/1522218410695794694). [Suppressing the linter is wrong and causes bugs.](https://twitter.com/dan_abramov/status/1522226438631473152).
 
 

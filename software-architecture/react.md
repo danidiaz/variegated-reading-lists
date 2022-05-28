@@ -430,4 +430,6 @@ https://react-query.tanstack.com/
 
 [React Interview Questions ( v17.0.x )](https://learning-zone.github.io/react-interview-questions/)
 
+[Goodbye, useEffect](https://www.youtube.com/watch?v=HPoC-k7Rxwo). [Everything you need to know about React 18](https://www.youtube.com/watch?v=Z-NCLePa2x8).
+
 

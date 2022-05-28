@@ -88,5 +88,6 @@
 
 ["Connections", in computer networking, are completely fake and make-believe](https://twitter.com/crdudeyoutube/status/1530330152550293505)
 
+[how do videogames stay in sync?](https://news.ycombinator.com/item?id=31512257)
 
 

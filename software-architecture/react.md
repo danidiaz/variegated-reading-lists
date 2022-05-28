@@ -436,3 +436,8 @@ https://react-query.tanstack.com/
 > What does this mean, exactly? All external values referenced inside of the useEffect callback function, such as props, state variables, or context variables, are dependencies of the effect. Ref containers (i.e., what you directly get from useRef() and not the current property) are also valid dependencies. Even local variables, which are derived from the aforementioned values, have to be listed in the dependency array.
 > It is essential to understand the conceptual thinking of effects; the React team wants you to treat every value used inside of the effect as dynamic. So even if you use a non-function value inside the effect, and you are pretty sure this value is unlikely to change, you should include the value in the dependency array.
 > That’s because — however unlikely it may be — there is still a chance the value will change. Who knows whether the component will get refactored? Suddenly, the value is no longer constant in every case, and you might have introduced a potential stale prop/state/context bug.
+
+> Whether a component gets hidden or unmounted, refs that are attached to host components (like HTML elements) will be cleaned up and re-initialized the same as they are today during unmount/remount.
+
+> Refs that store use-managed values won't be reset when a component is hidden though. They allow things to be persisted for the case where a component is hidden and later shown again.
+

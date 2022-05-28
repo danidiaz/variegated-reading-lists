@@ -63,5 +63,6 @@
 
 [The balance has shifted away from SPAs](https://news.ycombinator.com/item?id=31459316)
 
+[Are all popular APIs moving to Cursor based pagination?](https://news.ycombinator.com/item?id=31541070)
 
 

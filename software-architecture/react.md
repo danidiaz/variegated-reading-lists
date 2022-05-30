@@ -441,3 +441,5 @@ https://react-query.tanstack.com/
 
 > Refs that store use-managed values won't be reset when a component is hidden though. They allow things to be persisted for the case where a component is hidden and later shown again.
 
+[stale closure bugs](https://dmitripavlutin.com/react-hooks-stale-closures/). [useEffect and stale closures](https://medium.com/edonec/useeffect-and-stale-closures-ea74df7ac452). [Hooks, Dependencies and Stale Closures](https://tkdodo.eu/blog/hooks-dependencies-and-stale-closures). [5 Mistakes to Avoid When Using React Hooks](https://dmitripavlutin.com/react-hooks-mistakes-to-avoid/). [video](https://www.youtube.com/watch?v=QdByGrUzmY8). [video](https://www.youtube.com/watch?v=eVRDqtTCd74).
+

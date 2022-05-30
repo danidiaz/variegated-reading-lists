@@ -58,4 +58,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [complex types](https://twitter.com/tesseralis/status/1530346544137789443)
 
+[Advanced TypeScript: How we made our router typesafe](https://twitter.com/zoontek/status/1531190031372673024?t=sAEYxNDdseHXVgChM_1UpQ&s=03).
+
+
 

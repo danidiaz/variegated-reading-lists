@@ -445,10 +445,20 @@ https://react-query.tanstack.com/
 
 [Fetch as you render](https://twitter.com/housecor/status/1531642615283625984). [Stack the bars, move them to the left](https://twitter.com/ryanflorence/status/1531643540677070849).
 
-[AbortController](https://developer.mozilla.org/en-US/docs/Web/API/AbortController). [Cancelling fetch in React and TypeScript](https://www.carlrippon.com/cancelling-fetch-in-React-and-typescript/). [Using AbortController (with React Hooks and TypeScript) to cancel window.fetch requests](https://dev.to/bil/using-abortcontroller-with-react-hooks-and-typescript-to-cancel-window-fetch-requests-1md4). [Cancel Properly HTTP Requests in React Hooks and avoid Memory Leaks](https://dev.to/viclafouch/cancel-properly-http-requests-in-react-hooks-and-avoid-memory-leaks-pd7). [Handling API request race conditions in React](https://sebastienlorber.com/handling-api-request-race-conditions-in-react). [Abort controller and race conditions in React](https://wanago.io/2022/04/11/abort-controller-race-conditions-react/). [Using React to understand Abort Controllers](https://medium.com/@icjoseph/using-react-to-understand-abort-controllers-eb10654485df). [isMounted is an Antipattern](https://es.reactjs.org/blog/2015/12/16/ismounted-antipattern.html). [Is there a way to check if the react component is unmounted?](https://stackoverflow.com/questions/39767482/is-there-a-way-to-check-if-the-react-component-is-unmounted). [React - How to Check if a Component is Mounted or Unmounted](https://jasonwatmore.com/post/2021/08/27/react-how-to-check-if-a-component-is-mounted-or-unmounted).  
+[AbortController](https://developer.mozilla.org/en-US/docs/Web/API/AbortController). [Cancelling fetch in React and TypeScript](https://www.carlrippon.com/cancelling-fetch-in-React-and-typescript/). [Using AbortController (with React Hooks and TypeScript) to cancel window.fetch requests](https://dev.to/bil/using-abortcontroller-with-react-hooks-and-typescript-to-cancel-window-fetch-requests-1md4). [Cancel Properly HTTP Requests in React Hooks and avoid Memory Leaks](https://dev.to/viclafouch/cancel-properly-http-requests-in-react-hooks-and-avoid-memory-leaks-pd7). [Handling API request race conditions in React](https://sebastienlorber.com/handling-api-request-race-conditions-in-react). [Abort controller and race conditions in React](https://wanago.io/2022/04/11/abort-controller-race-conditions-react/). [Using React to understand Abort Controllers](https://medium.com/@icjoseph/using-react-to-understand-abort-controllers-eb10654485df). [isMounted is an Antipattern](https://es.reactjs.org/blog/2015/12/16/ismounted-antipattern.html). [Is there a way to check if the react component is unmounted?](https://stackoverflow.com/questions/39767482/is-there-a-way-to-check-if-the-react-component-is-unmounted). [React - How to Check if a Component is Mounted or Unmounted](https://jasonwatmore.com/post/2021/08/27/react-how-to-check-if-a-component-is-mounted-or-unmounted). [How to use Abort Controller to abort APIs initiated from inside useEffect but triggered by user action?](https://stackoverflow.com/questions/67469457/how-to-use-abort-controller-to-abort-apis-initiated-from-inside-useeffect-but-tr). 
+
+[abort controller and hooks <- best solution?](https://twitter.com/kentcdodds/status/1246219272562421760).
+
+> Check out Wretch. Its pretty nice fetch wrapper with abort controller support
 
 [dynamic and recursive forms with Formik](https://wanago.io/2022/05/09/dynamic-recursive-forms-formik-typescript-react/)
 
 [React Spectrum and React Aria now support React 18!](https://react-spectrum.adobe.com/releases/2022-05-27.html).
+
+[Avoid putting volatile function instances into useEffect dependencies](https://twitter.com/sompylasar/status/1246305338875195392).
+
+> Avoid putting volatile function instances into useEffect dependencies: useCallback name gives misleading confidence. It can and will return new functions so the effect will rerun! And old effect cleanup will get called! Store the functions in Refs, from them close over Refs only.
+
+> useCallback only makes sense for extra targeted performance optimization, and in the context of passing callbacks into subscription effects (e.g. onSomething props) to avoid re-subscribing to events. These effects must not do anything else side-effectful, or that will get rerun.
 
 

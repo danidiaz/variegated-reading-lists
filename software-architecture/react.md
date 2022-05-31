@@ -443,3 +443,12 @@ https://react-query.tanstack.com/
 
 [stale closure bugs](https://dmitripavlutin.com/react-hooks-stale-closures/). [useEffect and stale closures](https://medium.com/edonec/useeffect-and-stale-closures-ea74df7ac452). [Hooks, Dependencies and Stale Closures](https://tkdodo.eu/blog/hooks-dependencies-and-stale-closures). [5 Mistakes to Avoid When Using React Hooks](https://dmitripavlutin.com/react-hooks-mistakes-to-avoid/). [video](https://www.youtube.com/watch?v=QdByGrUzmY8). [video](https://www.youtube.com/watch?v=eVRDqtTCd74).
 
+[Fetch as you render](https://twitter.com/housecor/status/1531642615283625984). [Stack the bars, move them to the left](https://twitter.com/ryanflorence/status/1531643540677070849).
+
+[AbortController](https://developer.mozilla.org/en-US/docs/Web/API/AbortController). [Cancelling fetch in React and TypeScript](https://www.carlrippon.com/cancelling-fetch-in-React-and-typescript/). [Using AbortController (with React Hooks and TypeScript) to cancel window.fetch requests](https://dev.to/bil/using-abortcontroller-with-react-hooks-and-typescript-to-cancel-window-fetch-requests-1md4). [Cancel Properly HTTP Requests in React Hooks and avoid Memory Leaks](https://dev.to/viclafouch/cancel-properly-http-requests-in-react-hooks-and-avoid-memory-leaks-pd7). [Handling API request race conditions in React](https://sebastienlorber.com/handling-api-request-race-conditions-in-react). [Abort controller and race conditions in React](https://wanago.io/2022/04/11/abort-controller-race-conditions-react/). [Using React to understand Abort Controllers](https://medium.com/@icjoseph/using-react-to-understand-abort-controllers-eb10654485df). [isMounted is an Antipattern](https://es.reactjs.org/blog/2015/12/16/ismounted-antipattern.html). [Is there a way to check if the react component is unmounted?](https://stackoverflow.com/questions/39767482/is-there-a-way-to-check-if-the-react-component-is-unmounted). [React - How to Check if a Component is Mounted or Unmounted](https://jasonwatmore.com/post/2021/08/27/react-how-to-check-if-a-component-is-mounted-or-unmounted).  
+
+[dynamic and recursive forms with Formik](https://wanago.io/2022/05/09/dynamic-recursive-forms-formik-typescript-react/)
+
+[React Spectrum and React Aria now support React 18!](https://react-spectrum.adobe.com/releases/2022-05-27.html).
+
+

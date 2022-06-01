@@ -219,6 +219,8 @@ attempt to make equality reasonable again.”
 
 [type theory and "formality"](https://twitter.com/EscardoMartin/status/1529181804988620807)
 
+[free and bound variables—the Barendregt convention](https://twitter.com/JDHamkins/status/1532019763865653249)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

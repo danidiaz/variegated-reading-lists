@@ -60,5 +60,9 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Advanced TypeScript: How we made our router typesafe](https://twitter.com/zoontek/status/1531190031372673024?t=sAEYxNDdseHXVgChM_1UpQ&s=03).
 
+[Advanced TypeScript course](https://www.youtube.com/playlist?list=PLIvujZeVDLMx040-j1W4WFs1BxuTGdI_b).
+
+
+
 
 

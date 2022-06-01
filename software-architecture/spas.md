@@ -65,4 +65,6 @@
 
 [Are all popular APIs moving to Cursor based pagination?](https://news.ycombinator.com/item?id=31541070)
 
+[Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API). [Intersection Observer](https://www.w3.org/TR/intersection-observer/). [Javascript. Intersection Observer](https://latteandcode.medium.com/javascript-intersection-observer-1410b743c991).
+
 

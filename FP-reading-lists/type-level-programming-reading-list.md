@@ -395,3 +395,5 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Named routes in servant](https://www.tweag.io/blog/2022-02-24-named-routes/). Neat application of quantified constraints.
 
+[application of quantified constraints](https://twitter.com/sjoerd_visscher/status/1532641429809516547?t=kgXTftIbCB9Lcoeyl2mR7w&s=03)
+

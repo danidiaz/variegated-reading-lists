@@ -463,5 +463,13 @@ https://react-query.tanstack.com/
 
 [React v18.0](https://es.reactjs.org/blog/2022/03/29/react-v18.html). [How to Upgrade to React 18](https://reactjs.org/blog/2022/03/08/react-18-upgrade-guide.html). [Sneak peek into React 18 useDeferredValue hook](https://blog.saeloun.com/2022/01/13/react-18-useDefferedValue-hook.html). ["useTransition() vs useDeferredValue](https://www.youtube.com/watch?v=lDukIAymutM).
 
+[Mastering React Context: Do you NEED a state manager?](https://www.youtube.com/watch?v=MpdFj8MEuJA). [Top 5 React State Management Libraries in 2022](https://www.youtube.com/watch?v=DaqzO22LTdk). [Picking From 20 React State Managers](https://www.youtube.com/watch?v=P95DuIBwnqw).
+
+[mastering useEffect](https://youtu.be/dH6i3GurZW8)
+
+[Setting up a dev environment with React, Vite, and Tailwind](https://blog.logrocket.com/setting-up-dev-environment-react-vite-tailwind/)
+
+[Some misunderstandings with React.memo, useMemo, and useCallback](https://albertyuebaixu.medium.com/some-misunderstandings-with-react-memo-usememo-and-usecallback-27449b670d60)
+
 
 

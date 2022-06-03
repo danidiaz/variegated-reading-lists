@@ -221,6 +221,10 @@ attempt to make equality reasonable again.”
 
 [free and bound variables—the Barendregt convention](https://twitter.com/JDHamkins/status/1532019763865653249)
 
+[ Set theory is in essence a synthetic theory of trees](https://twitter.com/jonmsterling/status/1532588605079707648?t=cEvbLzliVtvrqNTn2QsMGg&s=03)
+
+[ equivalent denotationally, but different operationally.](https://twitter.com/jjcarett2/status/1532747234508525569?t=oNPkGEQvavkJIcUczKXtRw&s=03)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

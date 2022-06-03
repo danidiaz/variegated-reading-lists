@@ -30,4 +30,7 @@ http://www.i3s.unice.fr/~urvoy/docs/VICC/3_vicc.pdf
 
 [In defense of swap](https://news.ycombinator.com/item?id=31104126)
 
+[How fast are Linux pipes anyway?](https://news.ycombinator.com/item?id=31592934)
+
+
 

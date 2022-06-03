@@ -122,4 +122,8 @@
 
 [Things I hate about Rust, redux](https://lobste.rs/s/bcfxjw/things_i_hate_about_rust_redux)
 
+[Rust is hard](https://news.ycombinator.com/item?id=31601040)
+
+[Async destructors, async genericity and completion futures](https://news.ycombinator.com/item?id=31580627)
+
 

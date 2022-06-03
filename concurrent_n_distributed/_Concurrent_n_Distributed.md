@@ -677,4 +677,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [distributed stuff](https://twitter.com/nodirt_/status/1530297313473617920)
 
+["Formal Methods Only Solve Half My Problems"](https://twitter.com/MarcJBrooker/status/1532376318456655872?t=-uqj83fgJkznW9s9pKhT2Q&s=03)
+
 

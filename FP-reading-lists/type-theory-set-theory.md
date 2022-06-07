@@ -225,6 +225,8 @@ attempt to make equality reasonable again.”
 
 [ equivalent denotationally, but different operationally.](https://twitter.com/jjcarett2/status/1532747234508525569?t=oNPkGEQvavkJIcUczKXtRw&s=03)
 
+[the direction of derivations](https://twitter.com/jjcarett2/status/1534204679349059587)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

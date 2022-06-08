@@ -220,6 +220,8 @@
 
 [recursion schemes chart](https://twitter.com/bgavran3/status/1527420799950503971)
 
+[Alpha Beta Pruning with Recursion Schemes](https://stackoverflow.com/questions/72517172/alpha-beta-pruning-with-recursion-schemes)
+
 ## videos
 
 [Unifying Structured Recursion Schemes](https://www.youtube.com/watch?v=9EGYSb9vov8)

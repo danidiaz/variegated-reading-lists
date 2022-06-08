@@ -471,5 +471,7 @@ https://react-query.tanstack.com/
 
 [Some misunderstandings with React.memo, useMemo, and useCallback](https://albertyuebaixu.medium.com/some-misunderstandings-with-react-memo-usememo-and-usecallback-27449b670d60)
 
+[Are you in multi-step-form hell with useState/useEffect?](https://twitter.com/statelyai/status/1534493188630532096)
+
 
 

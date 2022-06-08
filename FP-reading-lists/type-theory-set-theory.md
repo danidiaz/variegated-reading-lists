@@ -291,6 +291,7 @@ attempt to make equality reasonable again.”
 
 [What Numbers Could Not Be](https://twitter.com/JDHamkins/status/1483937076148068353)
 
+[The isomorphism philosophy](https://twitter.com/JDHamkins/status/1533585804517326850)
 
 ## large cardinals
 

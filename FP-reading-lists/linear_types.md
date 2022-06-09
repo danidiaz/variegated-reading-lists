@@ -70,4 +70,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [linear-base 2.0](https://github.com/tweag/linear-base/blob/master/README.md)
 
+[A Self-Dual Distillation of Session Types (Pearl)](https://julesjacobs.com/pdf/lambdabar.pdf)
+
 

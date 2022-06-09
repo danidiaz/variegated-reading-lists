@@ -125,6 +125,8 @@
 
 - [Level-Premium Insurance](https://www.investopedia.com/terms/l/levelpremiumlife.asp) [Term Life Insurance](https://www.investopedia.com/terms/t/termlife.asp). [What To Know About Cash Value Life Insurance](https://www.forbes.com/advisor/life-insurance/cash-value-life-insurance/).
 
+- [Schedule of values](https://en.wikipedia.org/wiki/Schedule_of_value)
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

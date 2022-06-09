@@ -20,4 +20,8 @@
 
 [mathematics in lean book](https://leanprover-community.github.io/mathematics_in_lean/)
 
+[Functional programming in Lean](https://www.reddit.com/r/programming/comments/v8lkl0/functional_programming_in_lean_an_inprogress_book/). [tweet](https://twitter.com/d_christiansen/status/1534944263129251840).
+
+
+
 

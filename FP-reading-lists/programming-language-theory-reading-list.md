@@ -721,6 +721,10 @@ handlers as additional arguments to methods.
 
 [Row Polymorphism Isn't Subtyping](https://brianmckenna.org/blog/row_polymorphism_isnt_subtyping)
 
+[Abstract machines and the compilers that love/hate them](https://lobste.rs/s/xngt2a/abstract_machines_compilers_love_hate)
+
+[On the Expressive Power of Programming Languages](https://www.youtube.com/watch?v=43XaZEn2aLc)
+
 # books
 
 [Making uniqueness types less unique](http://edsko.net/pubs/thesis.pdf) [post](http://edsko.net/2017/01/08/linearity-in-haskell/)

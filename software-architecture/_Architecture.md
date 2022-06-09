@@ -1155,4 +1155,12 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [don't look for things](https://www.youtube.com/watch?v=RlfLCWKxHJ0).
 
+[Jackson structured programming](https://twitter.com/GabriellaG439/status/1534703908781584384)
+
+> "There are certain close analogies between the methods used for structuring data and the methods for structuring a program which processes that data." (Tony Hoare, Notes on Data Structuring, 1972)
+
+> "if your recursion isn't structural you want a different structure"
+
+
+
 

@@ -473,5 +473,9 @@ https://react-query.tanstack.com/
 
 [Are you in multi-step-form hell with useState/useEffect?](https://twitter.com/statelyai/status/1534493188630532096)
 
+[Using Functions as Children and Render Props in React Components](https://www.codedaily.io/tutorials/Using-Functions-as-Children-and-Render-Props-in-React-Components)
+
+> This only works because our LoadContent understands how to deal with children when it's a function.
+
 
 

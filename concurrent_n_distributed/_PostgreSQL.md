@@ -213,4 +213,5 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [OpenTelemetry Traces and PostgreSQL](https://news.ycombinator.com/item?id=31397145)
 
+[materializing query results as JSON right away within #Postgres (based on typed tables, no JSON(B) columns)](https://twitter.com/gunnarmorling/status/1535305484697231360)
 

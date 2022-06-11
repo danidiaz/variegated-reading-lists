@@ -295,7 +295,7 @@ attempt to make equality reasonable again.”
 
 [animated derivations showing the flow of information during the type checking/synthesis process](https://twitter.com/anormalform/status/1533820221508706305). [We can see here that we emit one result eagerly, only solving the corresponding meta by a later unification.](https://twitter.com/anormalform/status/1535564364320849922).  
 
-[local type inference](https://www.cis.upenn.edu/~bcpierce/papers/lti-toplas.pdf). [blog comment](https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html)
+[local type inference](https://www.cis.upenn.edu/~bcpierce/papers/lti-toplas.pdf). [blog comment](https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html). 
 
 > Benjamin Pierce often emphasizes the distinction between the two different ideas used in that paper: (1) local type inference and (2) bidirectional type inference. Local type inference refers to avoiding the use of 'global' constraint solving techniques like unification. Bidirectional typing, to him, is a particular way of dividing a type inference procedure up into a synthesizing part and a checking part. It works with both local and global approaches. I could be wrong about this, but I have heard GHC actually structures type inference in a bidirectional way while also using global HM-style equality constraints. Anyway, I think it has become fairly common to conflate (1) and (2) in casual conversation these days, so maybe the difference is seen by some as a technicality.
 
@@ -304,6 +304,10 @@ have been used, for example, in ML compilers and typecheckers based on attribute
 grammars. However, this technique has usually been combined with ML-style type
 inference (see, for example, Aditya and Nikhil [1991]); it is surprisingly powerful
 when used by itself as a local type inference method.
+
+[What is bidirectional type checking?](https://proofassistants.stackexchange.com/questions/1090/what-is-bidirectional-type-checking). [Bidirectional Typing](https://arxiv.org/abs/1908.05839).
+
+> Bidirectional typing combines two modes of typing: type checking, which checks that a program satisfies a known type, and type synthesis, which determines a type from the program. Using checking enables bidirectional typing to support features for which inference is undecidable; using synthesis enables bidirectional typing to avoid the large annotation burden of explicitly typed languages. In addition, bidirectional typing improves error locality. We highlight the design principles that underlie bidirectional type systems, survey the development of bidirectional typing from the prehistoric period before Pierce and Turner's local type inference to the present day, and provide guidance for future investigations.
 
 ## large cardinals
 

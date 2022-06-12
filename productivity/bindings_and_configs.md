@@ -180,4 +180,3 @@ What's added to .profile:
 
 [How to represent bindings in lambda calculus terms where one of the binders binds two names?](https://www.reddit.com/r/haskell/comments/uxidyw/how_to_represent_bindings_in_lambda_calculus/)
 
-

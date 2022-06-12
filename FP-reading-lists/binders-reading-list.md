@@ -311,6 +311,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [Which proof assistants use de Bruijn indices internally to implement variable binding?](https://twitter.com/LawrPaulson/status/1527965993007456258)
 
+[variable capture explained with integrals](https://cs.stackexchange.com/questions/66070/what-is-variable-capture-in-nominal-logic)
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

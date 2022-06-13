@@ -545,6 +545,7 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [A DSL for finite types and enumeration in Agda](https://www.youtube.com/watch?v=sFyy9sssK50)
 
+[ZuricHac 2022 DSL Workshop slides](https://twitter.com/trupill/status/1536385902209015811)
 
 ## Software
 

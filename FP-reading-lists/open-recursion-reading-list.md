@@ -53,4 +53,5 @@ perform “deep” instrumentation of the interpreter
 
 [simulate mutual recursion with Higher-Order Functions + fix combinator](https://twitter.com/ChShersh/status/1492812492757778435)
 
+[Lenses for Tree Traversals Redux](https://www.reddit.com/r/haskell/comments/vaurfc/lenses_for_tree_traversals_redux/)
 

@@ -135,6 +135,8 @@ Computer Programming)[https://pure.uva.nl/ws/files/2419813/154677_Alberts_Nofre_
 
 [Ever wondered how fusion works? ](https://www.reddit.com/r/haskell/comments/oshj2c/ever_wondered_how_fusion_works_i_have_some_links/)
 
+[Breadth−First Traversal Via Staging](https://twitter.com/oisdk/status/1537490412562169859)
+
 ## Posts
 
 [Nested monadic loops may cause space leaks](https://www.reddit.com/r/haskell/comments/5n7sfw/nested_monadic_loops_may_cause_space_leaks/)

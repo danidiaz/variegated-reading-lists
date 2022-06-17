@@ -227,6 +227,10 @@ attempt to make equality reasonable again.”
 
 [the direction of derivations](https://twitter.com/jjcarett2/status/1534204679349059587). [more](https://twitter.com/PTOOP/status/1534220199007748099)
 
+[type inference algs without unification variables?](https://twitter.com/GabriellaG439/status/1537664837819375616)
+
+[Intro to Type Systems and Operational Semantics (video)](https://www.youtube.com/watch?v=-nxO4pKMUb8&list=PLOvRW_utVPVnqp24VsF0wiIRa-m9oWrox&index=6)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

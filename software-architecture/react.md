@@ -477,5 +477,8 @@ https://react-query.tanstack.com/
 
 > This only works because our LoadContent understands how to deal with children when it's a function.
 
+[XState with TypeScript](https://twitter.com/statelyai/status/1537760720900657158). [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans). [tweet](https://twitter.com/DavidKPiano/status/1537126730011398144). [XState for handling forms](https://twitter.com/statelyai/status/1536673052045373441). [useEffect talk hit a nerve](https://twitter.com/mattpocockuk/status/1537022877131849729)
+
+[guidance on effects](https://twitter.com/dan_abramov/status/1537419089605545986). [effects in event handlers communicate intent better](https://twitter.com/DavidKPiano/status/1537136365212770304).
 
 

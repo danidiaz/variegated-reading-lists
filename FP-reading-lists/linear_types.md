@@ -72,4 +72,5 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [A Self-Dual Distillation of Session Types (Pearl)](https://julesjacobs.com/pdf/lambdabar.pdf)
 
+[some forms of quicksort](https://twitter.com/DiazCarrete/status/1537899021620064256)
 

@@ -62,7 +62,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Advanced TypeScript course](https://www.youtube.com/playlist?list=PLIvujZeVDLMx040-j1W4WFs1BxuTGdI_b).
 
-
+[Build an NPM Package in TypeScript from the Ground Up](https://spin.atomicobject.com/2022/06/21/npm-package-typescript/)
 
 
 

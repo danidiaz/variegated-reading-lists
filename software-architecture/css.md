@@ -258,4 +258,5 @@ https://twitter.com/tailwindcss
 
 [CSS gotcha: How to fill page with a div?](https://dev.to/lennythedev/css-gotcha-how-to-fill-page-with-a-div-270j)
 
+> The containing block created by the root element (html) is called the initial containing block . The rectangle of the initial containing block fills the dimensions of the viewport. The initial containing block is used if there is no other containing block present. Note that some browsers base the initial containing block on the body element; the net result is the same in that it fills the browser window.
 

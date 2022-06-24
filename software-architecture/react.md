@@ -484,3 +484,7 @@ https://react-query.tanstack.com/
 [guidance on effects](https://twitter.com/dan_abramov/status/1537419089605545986). [effects in event handlers communicate intent better](https://twitter.com/DavidKPiano/status/1537136365212770304).
 
 [the first draft of You Might Not Need an Effect](https://beta-reactjs-org-git-you-might-not-fbopensource.vercel.app/learn/you-might-not-need-an-effect)
+
+[React UI Library Structure, Storybook and Tests](https://www.youtube.com/watch?v=NgkYH97Z3nk)
+
+

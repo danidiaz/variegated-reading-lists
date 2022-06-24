@@ -186,4 +186,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [teaching debugging](https://twitter.com/wilcoxjay/status/1525176943523508224)
 
+[Don’t mock what you don’t own](https://news.ycombinator.com/item?id=31822683)
+
 

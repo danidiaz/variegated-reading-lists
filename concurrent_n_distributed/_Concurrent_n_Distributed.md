@@ -679,4 +679,9 @@ https://news.ycombinator.com/item?id=25061901
 
 ["Formal Methods Only Solve Half My Problems"](https://twitter.com/MarcJBrooker/status/1532376318456655872?t=-uqj83fgJkznW9s9pKhT2Q&s=03)
 
+[High Watermark — Distributed Design Patterns](https://distributedsystemsmadeeasy.medium.com/high-watermark-distributed-design-patterns-c1f3330d8129)
+
+
+
+
 

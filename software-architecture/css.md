@@ -266,6 +266,7 @@ https://twitter.com/tailwindcss
 
 [width: max-content won't have any breaks](https://youtu.be/fm3dSg4cxRI?t=236)
 
-[the margin-left trick in flexbox](https://youtu.be/q08BbYNG8h0?t=222).
+[intrinsic sizing: min-content, max-content, fit-content](https://www.youtube.com/watch?v=DM244V9KvNs).
 
+[the margin-left trick in flexbox](https://youtu.be/q08BbYNG8h0?t=222).
 

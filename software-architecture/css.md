@@ -264,3 +264,6 @@ https://twitter.com/tailwindcss
 
 [Two flexbox & grid behaviors most people don't know about](https://www.youtube.com/watch?v=s3wHkfMz8oE). [Flexbox design patterns you can use in your projects](https://www.youtube.com/watch?v=vQAvjof1oe4). [min(), max(), and clamp() are CSS magic!](https://www.youtube.com/watch?v=U9VF-4euyRo). [Container queries are possible!](https://www.youtube.com/watch?v=fuiEYR6Hoe0). [display: block, inline, inline-block](https://www.youtube.com/watch?v=zVbPzI-BB8Q). [Get started with grid WITHOUT being overwhelmed](https://www.youtube.com/watch?v=8QSqwbSztnA). [max-content](https://developer.mozilla.org/en-US/docs/Web/CSS/max-content). [list-style](https://developer.mozilla.org/es/docs/Web/CSS/list-style). 
 
+[width: max-content won't have any breaks](https://youtu.be/fm3dSg4cxRI?t=236)
+
+

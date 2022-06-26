@@ -270,4 +270,8 @@ https://twitter.com/tailwindcss
 
 [the margin-left trick in flexbox](https://youtu.be/q08BbYNG8h0?t=222).
 
-[CSS width auto vs 100% | What's the difference?](https://www.youtube.com/watch?v=-st14lUQD3U). [What's the deal with height: auto?](https://www.youtube.com/watch?v=SjYYfd7obug).
+[CSS width auto vs 100% | What's the difference?](https://www.youtube.com/watch?v=-st14lUQD3U). [What's the deal with height: auto?](https://youtu.be/SjYYfd7obug?t=237).
+
+> try not to set a height if you don't need to set a height. [...] heights are very very dangerous
+
+

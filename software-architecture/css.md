@@ -262,8 +262,5 @@ https://twitter.com/tailwindcss
 
 [What is the difference between margin-block-start and margin-top?](https://stackoverflow.com/questions/59909792/what-is-the-difference-between-margin-block-start-and-margin-top)
 
-[Flexbox design patterns you can use in your projects](https://www.youtube.com/watch?v=vQAvjof1oe4). [min(), max(), and clamp() are CSS magic!](https://www.youtube.com/watch?v=U9VF-4euyRo). [Container queries are possible!](https://www.youtube.com/watch?v=fuiEYR6Hoe0). [display: block, inline, inline-block](https://www.youtube.com/watch?v=zVbPzI-BB8Q). [Get started with grid WITHOUT being overwhelmed](https://www.youtube.com/watch?v=8QSqwbSztnA). [max-content](https://developer.mozilla.org/en-US/docs/Web/CSS/max-content). [list-style](https://developer.mozilla.org/es/docs/Web/CSS/list-style). 
-
-
-
+[Two flexbox & grid behaviors most people don't know about](https://www.youtube.com/watch?v=s3wHkfMz8oE). [Flexbox design patterns you can use in your projects](https://www.youtube.com/watch?v=vQAvjof1oe4). [min(), max(), and clamp() are CSS magic!](https://www.youtube.com/watch?v=U9VF-4euyRo). [Container queries are possible!](https://www.youtube.com/watch?v=fuiEYR6Hoe0). [display: block, inline, inline-block](https://www.youtube.com/watch?v=zVbPzI-BB8Q). [Get started with grid WITHOUT being overwhelmed](https://www.youtube.com/watch?v=8QSqwbSztnA). [max-content](https://developer.mozilla.org/en-US/docs/Web/CSS/max-content). [list-style](https://developer.mozilla.org/es/docs/Web/CSS/list-style). 
 

@@ -586,5 +586,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [How to write a tree-sitter grammar in an afternoon](https://siraben.dev/2022/03/01/tree-sitter.html)
 
-[LazyPPL: Monads and laziness for Bayesian modelling](https://www.cs.ox.ac.uk/people/hugo.paquet/lazyppl.pdf)
+[LazyPPL: Monads and laziness for Bayesian modelling](https://www.cs.ox.ac.uk/people/hugo.paquet/lazyppl.pdf). [A synthetic approach to Markov kernels, conditional independence and theorems on sufficient statistics](https://arxiv.org/abs/1908.07021).
+
+>  
 

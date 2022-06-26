@@ -274,4 +274,5 @@ https://twitter.com/tailwindcss
 
 > try not to set a height if you don't need to set a height. [...] heights are very very dangerous
 
+[Min & Max Content Sizing in CSS Grid — 1/3 Flexibility](https://www.youtube.com/watch?v=lZ2JX_6SGNI)
 

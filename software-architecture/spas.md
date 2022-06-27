@@ -67,4 +67,7 @@
 
 [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API). [Intersection Observer](https://www.w3.org/TR/intersection-observer/). [Javascript. Intersection Observer](https://latteandcode.medium.com/javascript-intersection-observer-1410b743c991).
 
+[SPAs: theory versus practice](https://nolanlawson.com/2022/06/27/spas-theory-versus-practice/).
+
+
 

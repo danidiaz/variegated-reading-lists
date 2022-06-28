@@ -265,6 +265,12 @@ attempt to make equality reasonable again.”
 
 [Type classes versus locales](https://lawrencecpaulson.github.io/2022/03/23/Locales.html)
 
+[Why not have `Prop : Set` in Coq?](https://proofassistants.stackexchange.com/questions/1551/why-not-have-prop-set-in-coq)
+
+> When dealing with several impredicative universes, one has to be extremely careful because proofs of False lurk around the corner. In particular, Prop : Set when both are impredicative is enough be a variant of Girard's system U⁻ and thus inconsistent. The Coq developers of yore were well aware of this issue and relied on an alternative hierarchy, so that Prop : Type and Set : Type.
+
+> Now, at some point it was decided to make Set predicative by default, for other somewhat related reasons. Indeed, impredicative proof-relevant universes are very much inconsistent with many slightly classical principles like excluded middle in Type or some forms of choice.
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

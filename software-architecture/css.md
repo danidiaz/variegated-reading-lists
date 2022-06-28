@@ -276,3 +276,8 @@ https://twitter.com/tailwindcss
 
 [Min & Max Content Sizing in CSS Grid — 1/3 Flexibility](https://www.youtube.com/watch?v=lZ2JX_6SGNI)
 
+[height and width in images](https://twitter.com/jensimmons/status/1541784277389639687).
+
+[modern CSS challenges](https://twitter.com/JoshWComeau/status/1541800821221990400)
+
+

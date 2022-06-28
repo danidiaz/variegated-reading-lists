@@ -27,4 +27,6 @@
 [SQLite Data Starter Packs | Public Affairs Data Journalism at Stanford | Fall 2016](http://2016.padjo.org/tutorials/sqlite-data-starterpacks/). [Public Affairs Data Journalism, Fall 2017 — Padjo 2017 0.1 documentation
 ](http://2017.padjo.org/)
 
+[SQLite or PostgreSQL? It's Complicated](https://news.ycombinator.com/item?id=31908186)
+
 

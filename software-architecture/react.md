@@ -487,4 +487,12 @@ https://react-query.tanstack.com/
 
 [React UI Library Structure, Storybook and Tests](https://www.youtube.com/watch?v=NgkYH97Z3nk)
 
+[React Aria's date/time pickers](https://react-spectrum.adobe.com/blog/date-and-time-pickers-for-all.html)
+
+>  As with all of React Aria, our hooks give you full control over the
+>  rendering and styling of your components, while letting us handle the
+>  internationalization and accessibility challenges for you. We have examples
+>  using many different styling libraries, such as Tailwind CSS, Styled
+>  Components, CSS modules, and Chakra UI.
+
 

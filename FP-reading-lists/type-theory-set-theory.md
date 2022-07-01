@@ -231,6 +231,14 @@ attempt to make equality reasonable again.”
 
 [Intro to Type Systems and Operational Semantics (video)](https://www.youtube.com/watch?v=-nxO4pKMUb8&list=PLOvRW_utVPVnqp24VsF0wiIRa-m9oWrox&index=6)
 
+[Higher Inductive Types via Impredicative Polymorphism](https://homotopytypetheory.org/2011/04/25/higher-inductive-types-via-impredicative-polymorphism/)
+
+> Instead, we can think about them as follows. The original CoC with impredicative Set allows the definition of inductive types, but was insufficient to prove all of their desired properties; hence first-class inductive types were introduced (and can also be added to a predicative theory). With HITs, we notice a somewhat more general class of definitions that we can make in CiC with impredicative Set (after adding first-class inductive types to CoC), but which again have desired properties that are not provable there (and are also predicative); hence we again need to make them first-class objects.
+
+[ Is it possible to prove induction over a setoid quotient? ](https://math.stackexchange.com/questions/4122878/is-it-possible-to-prove-induction-over-a-setoid-quotient).
+
+[Why, or better how, ℕ = ℤ in HoTT/UF?](https://twitter.com/EscardoMartin/status/1542626597139890181)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)
@@ -271,6 +279,24 @@ attempt to make equality reasonable again.”
 
 > Now, at some point it was decided to make Set predicative by default, for other somewhat related reasons. Indeed, impredicative proof-relevant universes are very much inconsistent with many slightly classical principles like excluded middle in Type or some forms of choice.
 
+[what is a formal proof?](https://golem.ph.utexas.edu/category/2016/08/what_is_a_formal_proof.html)
+
+[animated derivations showing the flow of information during the type checking/synthesis process](https://twitter.com/anormalform/status/1533820221508706305). [We can see here that we emit one result eagerly, only solving the corresponding meta by a later unification.](https://twitter.com/anormalform/status/1535564364320849922).  
+
+[local type inference](https://www.cis.upenn.edu/~bcpierce/papers/lti-toplas.pdf). [blog comment](https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html). 
+
+> Benjamin Pierce often emphasizes the distinction between the two different ideas used in that paper: (1) local type inference and (2) bidirectional type inference. Local type inference refers to avoiding the use of 'global' constraint solving techniques like unification. Bidirectional typing, to him, is a particular way of dividing a type inference procedure up into a synthesizing part and a checking part. It works with both local and global approaches. I could be wrong about this, but I have heard GHC actually structures type inference in a bidirectional way while also using global HM-style equality constraints. Anyway, I think it has become fairly common to conflate (1) and (2) in casual conversation these days, so maybe the difference is seen by some as a technicality.
+
+> The basic idea of bidirectional checking is well known as folklore. Similar ideas
+have been used, for example, in ML compilers and typecheckers based on attribute
+grammars. However, this technique has usually been combined with ML-style type
+inference (see, for example, Aditya and Nikhil [1991]); it is surprisingly powerful
+when used by itself as a local type inference method.
+
+[What is bidirectional type checking?](https://proofassistants.stackexchange.com/questions/1090/what-is-bidirectional-type-checking). [Bidirectional Typing](https://arxiv.org/abs/1908.05839).
+
+> Bidirectional typing combines two modes of typing: type checking, which checks that a program satisfies a known type, and type synthesis, which determines a type from the program. Using checking enables bidirectional typing to support features for which inference is undecidable; using synthesis enables bidirectional typing to avoid the large annotation burden of explicitly typed languages. In addition, bidirectional typing improves error locality. We highlight the design principles that underlie bidirectional type systems, survey the development of bidirectional typing from the prehistoric period before Pierce and Turner's local type inference to the present day, and provide guidance for future investigations.
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)
@@ -303,21 +329,7 @@ attempt to make equality reasonable again.”
 
 [The isomorphism philosophy](https://twitter.com/JDHamkins/status/1533585804517326850)
 
-[animated derivations showing the flow of information during the type checking/synthesis process](https://twitter.com/anormalform/status/1533820221508706305). [We can see here that we emit one result eagerly, only solving the corresponding meta by a later unification.](https://twitter.com/anormalform/status/1535564364320849922).  
-
-[local type inference](https://www.cis.upenn.edu/~bcpierce/papers/lti-toplas.pdf). [blog comment](https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html). 
-
-> Benjamin Pierce often emphasizes the distinction between the two different ideas used in that paper: (1) local type inference and (2) bidirectional type inference. Local type inference refers to avoiding the use of 'global' constraint solving techniques like unification. Bidirectional typing, to him, is a particular way of dividing a type inference procedure up into a synthesizing part and a checking part. It works with both local and global approaches. I could be wrong about this, but I have heard GHC actually structures type inference in a bidirectional way while also using global HM-style equality constraints. Anyway, I think it has become fairly common to conflate (1) and (2) in casual conversation these days, so maybe the difference is seen by some as a technicality.
-
-> The basic idea of bidirectional checking is well known as folklore. Similar ideas
-have been used, for example, in ML compilers and typecheckers based on attribute
-grammars. However, this technique has usually been combined with ML-style type
-inference (see, for example, Aditya and Nikhil [1991]); it is surprisingly powerful
-when used by itself as a local type inference method.
-
-[What is bidirectional type checking?](https://proofassistants.stackexchange.com/questions/1090/what-is-bidirectional-type-checking). [Bidirectional Typing](https://arxiv.org/abs/1908.05839).
-
-> Bidirectional typing combines two modes of typing: type checking, which checks that a program satisfies a known type, and type synthesis, which determines a type from the program. Using checking enables bidirectional typing to support features for which inference is undecidable; using synthesis enables bidirectional typing to avoid the large annotation burden of explicitly typed languages. In addition, bidirectional typing improves error locality. We highlight the design principles that underlie bidirectional type systems, survey the development of bidirectional typing from the prehistoric period before Pierce and Turner's local type inference to the present day, and provide guidance for future investigations.
+[Set-theoretic definition of natural numbers ](https://en.wikipedia.org/wiki/Set-theoretic_definition_of_natural_numbers). [Existence of Natural Numbers as an Axiom](https://math.stackexchange.com/questions/2905135/existence-of-natural-numbers-as-an-axiom). [A proof of the principle of mathematical induction](https://math.stackexchange.com/questions/2371760/a-proof-of-the-principle-of-mathematical-induction). [Construction of natural numbers in ZF/ZFC without class predicates.](https://math.stackexchange.com/questions/998855/construction-of-natural-numbers-in-zf-zfc-without-class-predicates). [Are the natural numbers of ZFC the same as the ones described by the Peano axioms?](https://www.quora.com/Are-the-natural-numbers-of-ZFC-the-same-as-the-ones-described-by-the-Peano-axioms).
 
 ## large cardinals
 

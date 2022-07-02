@@ -313,6 +313,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [variable capture explained with integrals](https://cs.stackexchange.com/questions/66070/what-is-variable-capture-in-nominal-logic)
 
+[different representations of binding](https://twitter.com/wilbowma/status/1543061875084054529)
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

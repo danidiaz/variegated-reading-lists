@@ -375,4 +375,53 @@ Maybe that's why `intro` works for both?
 
 [Software foundations (HN)](https://news.ycombinator.com/item?id=30553612)
 
+[Why not have Prop : Set in Coq?](https://proofassistants.stackexchange.com/questions/1551/why-not-have-prop-set-in-coq)
+
+> When dealing with several impredicative universes, one has to be extremely careful because proofs of False lurk around the corner. In particular, Prop : Set when both are impredicative is enough be a variant of Girard's system U⁻ and thus inconsistent. The Coq developers of yore were well aware of this issue and relied on an alternative hierarchy, so that Prop : Type and Set : Type.
+
+> Now, at some point it was decided to make Set predicative by default, for other somewhat related reasons. Indeed, impredicative proof-relevant universes are very much inconsistent with many slightly classical principles like excluded middle in Type or some forms of choice. In particular and ironically, with an impredicative Set, Coq has no set-theoretical model (as in Polymorphism is not set-theoretic). Nowadays, Set is thus predicative except if the user opts in impredicativity with a specific flag.
+
+> Impredicative set is essentially not used as of today, and really not tested so it has fallen to bitrot. 
+
+[Universes in Coq](http://adam.chlipala.net/cpdt/html/Universes.html)
+
+> The behind-the-scenes manipulation of universe variables gives us predicativity. Consider this simple definition of a polymorphic identity function [...] As we apply id to different T values, the inferred index for T's Type occurrence automatically moves higher up the type hierarchy.
+
+> Check id id.  Error: Universe inconsistency (cannot enforce Top.16 < Top.16).
+
+> To apply id to itself, that variable would need to be less than itself in the type hierarchy. Universe inconsistency error messages announce cases like this one where a term could only type-check by violating an implied constraint over universe variables. Such errors demonstrate that Type is predicative, where this word has a CIC meaning closely related to its usual mathematical meaning. A predicative system enforces the constraint that, when an object is defined using some sort of quantifier, none of the quantifiers may ever be instantiated with the object itself.
+
+> Error: Large non-propositional inductive types must be in Type.
+
+> Coq maintains a tortuous set of universe variable inequalities behind the scenes. It may look like some functions are polymorphic in the universe levels of their arguments, but what is really happening is imperative updating of a system of constraints, such that all uses of a function are consistent with a global set of universe levels. When the constraint system may not be evolved soundly, we get a universe inconsistency error.
+
+> The convention was that programs live in Set, and proofs live in Prop. We gave little explanation for why it is useful to maintain this distinction. There is certainly documentation value from separating programs from proofs; in practice, different concerns apply to building the two types of objects. It turns out, however, that these concerns motivate formal differences between the two universes in Coq.
+
+> In formal Coq parlance, "elimination" means "pattern-matching." The typing rules of Gallina forbid us from pattern-matching on a discriminee whose type belongs to Prop, whenever the result type of the match has a type besides Prop. This is a sort of "information flow" policy, where the type system ensures that the details of proofs can never have any effect on parts of a development that are not also marked as proofs.
+
+> This restriction matches informal practice. We think of programs and proofs as clearly separated, and, outside of constructive logic, the idea of computing with proofs is ill-formed. The distinction also has practical importance in Coq, where it affects the behavior of extraction.
+
+> Extraction is very helpful as an optimization over programs that contain proofs. In languages like Haskell, advanced features make it possible to program with proofs, as a way of convincing the type checker to accept particular definitions. Unfortunately, when proofs are encoded as values in GADTs, these proofs exist at runtime and consume resources. In contrast, with Coq, as long as all proofs are kept within Prop, extraction is guaranteed to erase them.
+
+> Many fans of the Curry-Howard correspondence support the idea of extracting programs from proofs. In reality, few users of Coq and related tools do any such thing. Instead, extraction is better thought of as an optimization that reduces the runtime costs of expressive typing.
+
+> We have seen two of the differences between proofs and programs: proofs are subject to an elimination restriction and are elided by extraction. The remaining difference is that Prop is impredicative, as this example shows.
+
+> We see that it is possible to define a Prop that quantifies over other Props. This is fortunate, as we start wanting that ability even for such basic purposes as stating propositional tautologies. In the next section of this chapter, we will see some reasons why unrestricted impredicativity is undesirable. The impredicativity of Prop interacts crucially with the elimination restriction to avoid those pitfalls.
+
+> In this case, our victory is really a shallow one. As we have marked expP as a family of proofs, we cannot deconstruct our expressions in the usual programmatic ways, which makes them almost useless for the usual purposes. Impredicative quantification is much more useful in defining inductive families that we really think of as judgments. For instance, this code defines a notion of equality that is strictly more permissive than the base equality =.
+
+> In general, there is a significant burden associated with any use of axioms. It is easy to assert a set of axioms that together is inconsistent. That is, a set of axioms may imply False, which allows any theorem to be proved, which defeats the purpose of a proof assistant.
+
+> Recall that Coq implements constructive logic by default, where the law of the excluded middle is not provable. Proofs in constructive logic can be thought of as programs. A forall quantifier denotes a dependent function type, and a disjunction denotes a variant type. In such a setting, excluded middle could be interpreted as a decision procedure for arbitrary propositions, which computability theory tells us cannot exist. Thus, constructive logic with excluded middle can no longer be associated with our usual notion of programming.
+
+> Given all this, why is it all right to assert excluded middle as an axiom? The intuitive justification is that the elimination restriction for Prop prevents us from treating proofs as programs. An excluded middle axiom that quantified over Set instead of Prop would be problematic. If a development used that axiom, we would not be able to extract the code to OCaml (soundly) without implementing a genuine universal decision procedure. In contrast, values whose types belong to Prop are always erased by extraction, so we sidestep the axiom's algorithmic consequences.
+
+> Because the proper use of axioms is so precarious, there are helpful commands for determining which axioms a theorem relies on.
+
+> One additional axiom-related wrinkle arises from an aspect of Gallina that is very different from set theory: a notion of computational equivalence is central to the definition of the formal system. Axioms tend not to play well with computation.
+
+> The last section demonstrated one reason to avoid axioms: they interfere with computational behavior of terms. A further reason is to reduce the philosophical commitment of a theorem. The more axioms one assumes, the harder it becomes to convince oneself that the formal system corresponds appropriately to one's intuitions. 
+
+
 

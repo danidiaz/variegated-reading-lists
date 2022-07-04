@@ -182,4 +182,8 @@ What's added to .profile:
 
 [OBS – Open Broadcaster Software ](https://news.ycombinator.com/item?id=31830046)
 
+[In Bash, brace expansion is performed before variable expansion.](https://stackoverflow.com/questions/4956584/sequences-expansion-and-variable-in-bash)
+
+[Bash pitfalls](http://mywiki.wooledge.org/BashPitfalls)
+
 

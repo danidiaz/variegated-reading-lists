@@ -190,4 +190,6 @@ What's added to .profile:
 
 > POSIX shells such as Bash have the globbing feature specifically for this purpose — to allow the shell to expand patterns into a list of matching filenames. There is no need to interpret the results of an external utility. Because globbing is the very last expansion step, each match of the ./*.mp3 pattern correctly expands to a separate word, and isn't subject to the effects of an unquoted expansion.
 
+> Question: What happens if there are no *.mp3-files in the current directory? Then the for loop is executed once, with file="./*.mp3", which is not the expected behavior! The workaround is to test whether there is a matching file:
+
 

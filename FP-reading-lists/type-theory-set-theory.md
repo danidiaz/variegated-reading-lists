@@ -243,6 +243,8 @@ attempt to make equality reasonable again.”
 
 > The way this is generally dealt with is to introduce a category-theoretic structure which does have a “substitution” operation which is strictly associative, hence does correspond directly to type theory, and then show that any category can be “strictified” into such a stricter structure. Unfortunately, there are many different such structures which have been used, differing only slightly.
 
+> The trouble on this side is that working with higher-order logical structure in contextual categories quickly becomes unreadable. The reader preferring to take contextual categories as primary may regard the syntax as essentially a notation for working within them: a powerful, flexible, and intuitive notation, but one whose validity requires non-trivial work to establish. (The situation is comparable to that of string diagrams, as used in monoidal and more elaborately structured categories.)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

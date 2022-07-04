@@ -32,5 +32,5 @@ http://www.i3s.unice.fr/~urvoy/docs/VICC/3_vicc.pdf
 
 [How fast are Linux pipes anyway?](https://news.ycombinator.com/item?id=31592934)
 
-
+[   A Journey into the Linux Scheduler](https://news.ycombinator.com/item?id=31975901)
 

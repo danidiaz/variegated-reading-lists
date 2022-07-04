@@ -239,6 +239,10 @@ attempt to make equality reasonable again.”
 
 [Why, or better how, ℕ = ℤ in HoTT/UF?](https://twitter.com/EscardoMartin/status/1542626597139890181)
 
+[categorical model of dependent types](https://ncatlab.org/nlab/show/categorical+model+of+dependent+types#categories_with_families)
+
+> The way this is generally dealt with is to introduce a category-theoretic structure which does have a “substitution” operation which is strictly associative, hence does correspond directly to type theory, and then show that any category can be “strictified” into such a stricter structure. Unfortunately, there are many different such structures which have been used, differing only slightly.
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

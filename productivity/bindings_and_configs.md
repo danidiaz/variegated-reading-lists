@@ -184,6 +184,6 @@ What's added to .profile:
 
 [In Bash, brace expansion is performed before variable expansion.](https://stackoverflow.com/questions/4956584/sequences-expansion-and-variable-in-bash)
 
-[Bash pitfalls](http://mywiki.wooledge.org/BashPitfalls)
+[Bash pitfalls](http://mywiki.wooledge.org/BashPitfalls). [don't use the result of ls as a list](http://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29). [why not parse ls?](https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead).
 
-
+> If you don't need recursion, you can use a simple glob. Instead of ls

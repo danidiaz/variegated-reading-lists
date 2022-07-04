@@ -187,3 +187,7 @@ What's added to .profile:
 [Bash pitfalls](http://mywiki.wooledge.org/BashPitfalls). [don't use the result of ls as a list](http://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29). [why not parse ls?](https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead).
 
 > If you don't need recursion, you can use a simple glob. Instead of ls
+
+> POSIX shells such as Bash have the globbing feature specifically for this purpose — to allow the shell to expand patterns into a list of matching filenames. There is no need to interpret the results of an external utility. Because globbing is the very last expansion step, each match of the ./*.mp3 pattern correctly expands to a separate word, and isn't subject to the effects of an unquoted expansion.
+
+

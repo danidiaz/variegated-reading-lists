@@ -245,6 +245,10 @@ attempt to make equality reasonable again.”
 
 > The trouble on this side is that working with higher-order logical structure in contextual categories quickly becomes unreadable. The reader preferring to take contextual categories as primary may regard the syntax as essentially a notation for working within them: a powerful, flexible, and intuitive notation, but one whose validity requires non-trivial work to establish. (The situation is comparable to that of string diagrams, as used in monoidal and more elaborately structured categories.)
 
+[ without inductive types, you cannot hope to recover a natural number object with proper induction principles](https://proofassistants.stackexchange.com/questions/1360/calculus-of-inductive-constructions-do-inductive-definitions-increase-proof-s)
+
+> while you can use impredicative encodings to construct types equipped with recursors corresponding to the usual ones for inductive types, you cannot construct a type in λP2 (second order logic) that satisfies the induction principle of natural numbers
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

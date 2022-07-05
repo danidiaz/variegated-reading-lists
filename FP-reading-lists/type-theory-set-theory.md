@@ -249,6 +249,8 @@ attempt to make equality reasonable again.”
 
 > while you can use impredicative encodings to construct types equipped with recursors corresponding to the usual ones for inductive types, you cannot construct a type in λP2 (second order logic) that satisfies the induction principle of natural numbers
 
+[How much of trouble is Lean's failure of normalization, given that logical consistency is not obviously broken?](https://proofassistants.stackexchange.com/questions/1183/how-much-of-trouble-is-leans-failure-of-normalization-given-that-logical-consi/1194#1194)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

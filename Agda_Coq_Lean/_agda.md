@@ -314,5 +314,6 @@ Identity, Parametrically](https://jesper.sikanda.be/files/leibniz-equality.pdf)
 
 [Using Agda's Induction (Recursion) Library](https://twitter.com/jeremysiek/status/1512083784455254017?t=nEu64THloev4-rnxDaTVjg&s=03)
 
+[HoTTEST-Summer-School](https://github.com/martinescardo/HoTTEST-Summer-School/tree/main/Agda/Lecture-Notes)
 
 

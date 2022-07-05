@@ -292,4 +292,6 @@ https://twitter.com/tailwindcss
 
 [Defensive CSS](https://twitter.com/DefensiveCSS)
 
+[don't micromanage the browser](https://twitter.com/hankchizljaw/status/1544310058497998850)
+
 

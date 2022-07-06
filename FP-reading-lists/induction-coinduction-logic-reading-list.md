@@ -63,6 +63,7 @@ Predicative and Classical Systems of Analysis](https://math.stanford.edu/~feferm
 
 [Universal coalgebra: a theory of systems](https://www.sciencedirect.com/science/article/pii/S0304397500000566)
 
+[Coinduction Inductively](https://nikivazou.github.io/static/Haskell22/coinduction.pdf)
 
 # posts
 

@@ -185,6 +185,13 @@ https://popl19.sigplan.org/track/POPL-2019-Research-Papers#event-overview
 ### Applied Category Theory 2021
 [link](https://twitter.com/_julesh_/status/1421574078788407298)
 
+
+### Others
+
+[ICFP'22 Accepted Papers](https://twitter.com/icfp_conference/status/1545340265267081216)
+
+[Recording of @Huawei Software Summit](https://twitter.com/danghica/status/1545395721477804033). [Huaweii, String Diagrams, Game Semantics](https://www.typetheoryforall.com/2022/06/27/20-Dan-Ghica.html#db051c43)
+
 ##
 
 [SAT/SMT Solving](http://cl-informatik.uibk.ac.at/teaching/ss18/satsmt/content.php)

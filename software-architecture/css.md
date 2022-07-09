@@ -294,4 +294,9 @@ https://twitter.com/tailwindcss
 
 [don't micromanage the browser](https://twitter.com/hankchizljaw/status/1544310058497998850)
 
+[Body Margin 8px](https://news.ycombinator.com/item?id=32012171)
+
+
+
+
 

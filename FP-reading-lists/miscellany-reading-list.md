@@ -588,5 +588,9 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [LazyPPL: Monads and laziness for Bayesian modelling](https://www.cs.ox.ac.uk/people/hugo.paquet/lazyppl.pdf). [A synthetic approach to Markov kernels, conditional independence and theorems on sufficient statistics](https://arxiv.org/abs/1908.07021).
 
->  
+[Closing the B-tree vs. LSM-tree Write Amplification Gap on Modern Storage Hardware with Built-in Transparent Compression](https://lobste.rs/s/xl4efa/closing_b_tree_vs_lsm_tree_write)  
+
+
+
+
 

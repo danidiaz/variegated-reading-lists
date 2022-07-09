@@ -1161,6 +1161,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > "if your recursion isn't structural you want a different structure"
 
+[Improving Distributed Caching Performance and Efficiency at Pinterest](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b).
+
 
 
 

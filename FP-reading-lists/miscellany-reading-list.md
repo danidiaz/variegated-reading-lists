@@ -590,7 +590,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Closing the B-tree vs. LSM-tree Write Amplification Gap on Modern Storage Hardware with Built-in Transparent Compression](https://lobste.rs/s/xl4efa/closing_b_tree_vs_lsm_tree_write)  
 
-
+[practical data-oriented design (in Zig)](https://twitter.com/rui314/status/1546407173617758210).
 
 
 

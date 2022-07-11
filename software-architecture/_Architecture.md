@@ -1163,6 +1163,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Improving Distributed Caching Performance and Efficiency at Pinterest](https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b).
 
-
+[#CQRS is not a general purpose style of architecture.](https://twitter.com/tpierrain/status/1546039271676678144)
 
 

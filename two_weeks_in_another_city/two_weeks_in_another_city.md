@@ -516,6 +516,8 @@
 
 [Elden Ring - Teaching through repetition](https://www.youtube.com/watch?v=ndUOh7VUx84)
 
+[time limits](https://twitter.com/BretDevereaux/status/1546182392125210624)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

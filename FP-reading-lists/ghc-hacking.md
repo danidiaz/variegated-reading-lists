@@ -221,4 +221,6 @@ Stuff about the heap:
 
 [ffi](https://www.reddit.com/r/haskell/comments/tthrq0/monthly_hask_anything_april_2022/i5dpir1/)
 
+[Writing a GHC Plugin + Preprocessor for the first time](https://brandonchinn178.github.io/blog/2022/07/11/writing-a-ghc-plugin-and-preprocessor-for-the-first-time.html)
+
 

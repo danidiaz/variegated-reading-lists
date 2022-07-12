@@ -928,4 +928,5 @@ F at the object of interest, X.
 
 [cats and types—best friends?](https://twitter.com/DylanBraith/status/1530201591525130241)
 
+[On Structuring Functional Programs with Monoidal Profunctors](https://arxiv.org/abs/2207.00852)
 

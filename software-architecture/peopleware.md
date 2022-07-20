@@ -94,4 +94,6 @@
 
 [How are pull requests integrated in a repo with high commit frequency?](https://news.ycombinator.com/item?id=31108828)
 
+[In Praise of Stacked PRs](https://lobste.rs/s/4zjln3/praise_stacked_prs)
+
 

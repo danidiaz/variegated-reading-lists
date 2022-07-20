@@ -817,6 +817,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Power BI DAX: Previous Month-to-Date, Quarter-to-Date, and Year-to-Date Calculations](https://radacad.com/power-bi-dax-previous-month-to-date-quarter-to-date-and-year-to-date-calculations)
 
+[soft deletion](https://lobste.rs/s/xryce5/soft_deletion_probably_isn_t_worth_it)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

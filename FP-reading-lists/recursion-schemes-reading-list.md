@@ -222,6 +222,8 @@
 
 [Alpha Beta Pruning with Recursion Schemes](https://stackoverflow.com/questions/72517172/alpha-beta-pruning-with-recursion-schemes)
 
+[Elegant and performant recursion in Rust](https://lobste.rs/s/xfmbxf/elegant_performant_recursion_rust)
+
 ## videos
 
 [Unifying Structured Recursion Schemes](https://www.youtube.com/watch?v=9EGYSb9vov8)

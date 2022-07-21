@@ -1165,4 +1165,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [#CQRS is not a general purpose style of architecture.](https://twitter.com/tpierrain/status/1546039271676678144)
 
+[How to design better APIs -- 15 language-agnostic, actionable tips on #REST API design](https://twitter.com/gunnarmorling/status/1550014399884283909)
+
+
 

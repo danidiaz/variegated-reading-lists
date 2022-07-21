@@ -69,5 +69,7 @@
 
 [SPAs: theory versus practice](https://nolanlawson.com/2022/06/27/spas-theory-versus-practice/).
 
+[Firing up a screen reader to test your pages should become just as natural and habitual as resizing the browser to test your pages.](https://twitter.com/SaraSoueidan/status/1550040197630496768)
+
 
 

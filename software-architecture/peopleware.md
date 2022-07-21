@@ -96,4 +96,8 @@
 
 [In Praise of Stacked PRs](https://lobste.rs/s/4zjln3/praise_stacked_prs)
 
+[The reason that confidence is a red flag for me is because it signals that the team is not automating enough of their work](https://twitter.com/GabriellaG439/status/1550100638150713345). [more](https://twitter.com/GabriellaG439/status/1550134845304496129)
+
+
+
 

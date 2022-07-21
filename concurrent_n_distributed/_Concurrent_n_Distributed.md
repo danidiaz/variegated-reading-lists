@@ -681,6 +681,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [High Watermark — Distributed Design Patterns](https://distributedsystemsmadeeasy.medium.com/high-watermark-distributed-design-patterns-c1f3330d8129)
 
+[Adventures in Building Reliable Distributed Systems with Liquid Haskell](https://www.reddit.com/r/haskell/comments/w4bjjn/adventures_in_building_reliable_distributed/)
 
 
 

@@ -547,6 +547,8 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [ZuricHac 2022 DSL Workshop slides](https://twitter.com/trupill/status/1536385902209015811)
 
+[Investigating the performance of the implementations of embedded languages in Haskell](https://twitter.com/Jose_A_Alonso/status/1550017816778121217)
+
 ## Software
 
 [Data-reify for observable sharing](http://hackage.haskell.org/package/data-reify)

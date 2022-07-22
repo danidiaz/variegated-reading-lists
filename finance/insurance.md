@@ -176,7 +176,7 @@
 
 [Actuarial mathematics (in Isabelle/HOL)](https://twitter.com/Jose_A_Alonso/status/1486021055126794240)
 
-[Scaling our Spreadsheet Engine from Thousands to Billions of Cells](https://lobste.rs/s/pcmrfr/scaling_our_spreadsheet_engine_from)
+[Scaling our Spreadsheet Engine from Thousands to Billions of Cells](https://lobste.rs/s/pcmrfr/scaling_our_spreadsheet_engine_from). [another spreadsheet engine](https://twitter.com/GergelyOrosz/status/1550120127806353409).
 
 [Digital Submissions Management Demo](https://www.youtube.com/watch?v=3QfEhX3aafM)
 

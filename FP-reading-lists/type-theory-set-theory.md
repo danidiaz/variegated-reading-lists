@@ -588,4 +588,6 @@ regress of beliefs.
 
 > In this video, we introduce the notion of a ring action, where a ring acts on an abelian group, and introduce the notion of an R-module. We mention how vector spaces from linear algebra are just modules over a field. Many parallels are made between linear algebra and module theory.
 
+["Vector spaces are exactly those R-modules for which your scalar ring R is a field"](https://youtu.be/YctA_wZ9Vas?t=122)
+
 

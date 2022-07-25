@@ -583,9 +583,9 @@ regress of beliefs.
 
 [A vector space is “an additive abelian group with a field action.” ](https://jasonmorton.github.io/LinearAlgebra/groupsfieldsvectorspaces/#). [Vector spaces can be thought of as a sort of canonical field action on an Abelian group](https://math.stackexchange.com/questions/1912690/can-group-actions-be-generalized-to-encompass-a-large-class-of-algebraic-objects). ["A module is a ring action on an abelian group".](https://math.stackexchange.com/questions/3007123/ring-group-actions-on-the-definition-of-r-modules-and-r-algebras). [ an A-module is an abelian group V together with an action of A on it.](https://math.stackexchange.com/questions/1923895/not-really-sure-what-a-kx-module-is). [video](https://www.youtube.com/watch?v=SuTFTRP6N6I). [action](https://ncatlab.org/nlab/show/action). [Definition:Linear Ring Action](https://proofwiki.org/wiki/Definition:Linear_Ring_Action).
 
+[R-Modules](https://www.youtube.com/watch?v=YctA_wZ9Vas)
 
-
-
+> In this video, we introduce the notion of a ring action, where a ring acts on an abelian group, and introduce the notion of an R-module. We mention how vector spaces from linear algebra are just modules over a field. Many parallels are made between linear algebra and module theory.
 
 
 

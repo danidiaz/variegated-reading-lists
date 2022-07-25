@@ -579,6 +579,12 @@ regress of beliefs.
 
 [red prl papers](https://github.com/RedPRL/sml-redprl/blob/bd73932409ddc3479c8ded5ac32ae0d93d31874a/doc/src/index.rst#papers--talks)
 
+[fields are non-algebraic](https://twitter.com/jonmsterling/status/1551345191038197762). [algebraic theory](https://en.wikipedia.org/wiki/Algebraic_theor). [slides](https://blog.thjread.com/pdfs/algebraictheories.pdf). [more slides](https://people.math.rochester.edu/grads/caten2/documents/algebraic_theories.pdf). [nlab](https://ncatlab.org/nlab/show/algebraic+theory).
+
+
+
+
+
 
 
 

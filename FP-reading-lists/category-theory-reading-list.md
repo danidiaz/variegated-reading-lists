@@ -930,3 +930,7 @@ F at the object of interest, X.
 
 [On Structuring Functional Programs with Monoidal Profunctors](https://arxiv.org/abs/2207.00852)
 
+[Invisible Strength: From Monads to Alpha-Conversion](https://damast93.github.io/blog/jekyll/update/2021/01/31/invisible-strength.html)
+
+
+

@@ -581,7 +581,7 @@ regress of beliefs.
 
 [fields are non-algebraic](https://twitter.com/jonmsterling/status/1551345191038197762). [algebraic theory](https://en.wikipedia.org/wiki/Algebraic_theor). [slides](https://blog.thjread.com/pdfs/algebraictheories.pdf). [more slides](https://people.math.rochester.edu/grads/caten2/documents/algebraic_theories.pdf). [nlab](https://ncatlab.org/nlab/show/algebraic+theory).
 
-
+[A vector space is “an additive abelian group with a field action.” ](https://jasonmorton.github.io/LinearAlgebra/groupsfieldsvectorspaces/#). [Vector spaces can be thought of as a sort of canonical field action on an Abelian group](https://math.stackexchange.com/questions/1912690/can-group-actions-be-generalized-to-encompass-a-large-class-of-algebraic-objects). [ an A-module is an abelian group V together with an action of A on it.](https://math.stackexchange.com/questions/1923895/not-really-sure-what-a-kx-module-is). [video](https://www.youtube.com/watch?v=SuTFTRP6N6I)
 
 
 

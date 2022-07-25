@@ -590,4 +590,8 @@ regress of beliefs.
 
 ["Vector spaces are exactly those R-modules for which your scalar ring R is a field"](https://youtu.be/YctA_wZ9Vas?t=122)
 
+[outer product](https://twitter.com/jonmsterling/status/1551348058109116417)
+
+[Roughly speaking, an algebra over a field F is just a ring R with F contained in the center of R](https://sites.math.washington.edu/~mitchell/Algf/alg.pdf). [Is a field (ring) an algebra over itself?](https://math.stackexchange.com/questions/4270/is-a-field-ring-an-algebra-over-itself).
+
 

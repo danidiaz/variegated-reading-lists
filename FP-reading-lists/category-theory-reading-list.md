@@ -932,5 +932,8 @@ F at the object of interest, X.
 
 [Invisible Strength: From Monads to Alpha-Conversion](https://damast93.github.io/blog/jekyll/update/2021/01/31/invisible-strength.html)
 
+[realizability](https://twitter.com/jonmsterling/status/1551966464189530114). [pdf](http://www.andrej.com/zapiski/MGS-2022/notes-on-realizability.pdf). [wikipedia](https://en.wikipedia.org/wiki/Realizability)
 
+> Realizability theory weaves together computability theory, category theory, logic, topology and programming
+languages
 

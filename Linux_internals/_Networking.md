@@ -90,4 +90,6 @@
 
 [how do videogames stay in sync?](https://news.ycombinator.com/item?id=31512257)
 
+[what they don't teach you about sockets](https://news.ycombinator.com/item?id=32225532)
+
 

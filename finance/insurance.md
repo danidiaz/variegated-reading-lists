@@ -180,4 +180,6 @@
 
 [Digital Submissions Management Demo](https://www.youtube.com/watch?v=3QfEhX3aafM)
 
+[crazy #Excel features](https://twitter.com/hillelogram/status/1552342344661336067)
+
 

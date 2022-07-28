@@ -223,4 +223,6 @@ Stuff about the heap:
 
 [Writing a GHC Plugin + Preprocessor for the first time](https://brandonchinn178.github.io/blog/2022/07/11/writing-a-ghc-plugin-and-preprocessor-for-the-first-time.html)
 
+[PROFILING NON-CPU TIME IN HASKELL](https://www.tweag.io/blog/2022-07-28-timestats/)
+
 

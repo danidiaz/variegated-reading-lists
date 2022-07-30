@@ -662,6 +662,8 @@ Bernini, his life and his Rome
 
 > i get what you're saying, making dodging more realistic, but in this type of game you just can't capture the subtle nuances of a real fight. you need a standardised way of dodging that has a fairly obvious (lol, i know...) linear adjustment.
 
+[Stop Getting Lost: Make Cognitive Maps, Not Levels](https://www.youtube.com/watch?v=Q1Tczf8vxCM)
+
 ## Podcasts
 
 - [Wie der Raum unser Verhalten bestimmt](http://www.deutschlandfunkkultur.de/colin-ellard-psychogeografie-wie-der-raum-unser-verhalten.1270.de.html?dram:article_id=385482)
@@ -747,5 +749,4 @@ Bernini, his life and his Rome
 [MINGW covered the Windows build, clang/osxcross for the MacOS build, and plain old gcc for Linux. It's all oldschool autotools+pkg-config dances for the cross-compilation. Plain C and SDL2+OpenGL under the hood, no engine.](https://news.ycombinator.com/item?id=27621733)
 
 [Swarm: preview and call for collaboration](https://byorgey.wordpress.com/2021/09/23/swarm-preview-and-call-for-collaboration/)
-
 

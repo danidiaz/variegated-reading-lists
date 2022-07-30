@@ -664,6 +664,8 @@ Bernini, his life and his Rome
 
 [Stop Getting Lost: Make Cognitive Maps, Not Levels](https://www.youtube.com/watch?v=Q1Tczf8vxCM)
 
+> paths, landmarks, districts, edges, nodes 
+
 ## Podcasts
 
 - [Wie der Raum unser Verhalten bestimmt](http://www.deutschlandfunkkultur.de/colin-ellard-psychogeografie-wie-der-raum-unser-verhalten.1270.de.html?dram:article_id=385482)

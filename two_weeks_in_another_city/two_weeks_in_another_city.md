@@ -18,8 +18,6 @@
 
 - [Seeking Sunlight In a Skyscraper City](https://www.citylab.com/design/2017/05/seeking-sunlight-in-a-skyscraper-city/524670/)
 
-
-
 - [Defining Environment Language for Video Games](https://80.lv/articles/defining-environment-language-for-video-games/) [HN](https://news.ycombinator.com/item?id=14660748)
 
 - [Andrew Plotkin's Shade](http://www.electronicbookreview.com/thread/firstperson/glassdark)
@@ -340,6 +338,8 @@
 - [Overboard!’s “visual novel” style is really actually an Infocom parser game in a trouser suit. It’s a huge number of verbs and also no execution problems. Veronica’s plans will often go wrong but her individual actions don’t](https://twitter.com/joningold/status/1416790769755738113)
 
 - [plot](https://twitter.com/logodaedalus/status/1425173862916845569)
+
+- [narrative instruments](https://twitter.com/maxkreminski/status/1553469872905932801). [narrative tools](https://twitter.com/Rachel_Helps/status/1553472912174157824). [Inform Evolution](https://twitter.com/aaronareed/status/1553483265238974464). [support for character dialogue in Inform](https://twitter.com/emshort/status/1553477240045830145).
 
 ## Books
 

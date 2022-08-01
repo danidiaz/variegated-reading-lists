@@ -819,6 +819,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [soft deletion](https://lobste.rs/s/xryce5/soft_deletion_probably_isn_t_worth_it)
 
+[the slotted counter pattern](https://planetscale.com/blog/the-slotted-counter-pattern) [HN](https://news.ycombinator.com/item?id=32307947)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

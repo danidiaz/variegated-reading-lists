@@ -937,3 +937,6 @@ F at the object of interest, X.
 > Realizability theory weaves together computability theory, category theory, logic, topology and programming
 languages
 
+[the topos of trees](https://twitter.com/antiselfdual/status/1554081053534732288) <- great exposition!
+
+

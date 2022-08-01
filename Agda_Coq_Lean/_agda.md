@@ -316,4 +316,5 @@ Identity, Parametrically](https://jesper.sikanda.be/files/leibniz-equality.pdf)
 
 [HoTTEST-Summer-School](https://github.com/martinescardo/HoTTEST-Summer-School/tree/main/Agda/Lecture-Notes)
 
+[reasonable Agda is correct Haskell](https://twitter.com/agdakx/status/1554044242846257153)
 

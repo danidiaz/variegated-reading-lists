@@ -518,6 +518,8 @@
 
 [time limits](https://twitter.com/BretDevereaux/status/1546182392125210624)
 
+[Narrascope 2022 talk](https://ganelson.github.io/inform-website/talks/2022/07/31/narrascope-iii.html)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)

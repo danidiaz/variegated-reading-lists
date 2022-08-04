@@ -683,6 +683,5 @@ https://news.ycombinator.com/item?id=25061901
 
 [Adventures in Building Reliable Distributed Systems with Liquid Haskell](https://www.reddit.com/r/haskell/comments/w4bjjn/adventures_in_building_reliable_distributed/)
 
-
-
+[Strict-serializability, but at what cost, for what purpose?](https://muratbuffalo.blogspot.com/2022/08/strict-serializability-but-at-what-cost.html)
 

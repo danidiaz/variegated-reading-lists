@@ -732,4 +732,25 @@ I don't think there is a single resource that is recommended above all others, b
 - A high-level intro to using Nix for Haskellers: https://github.com/cdepillabout/post-about-nix-and-haskell/blob/master/2019-08-03-q-and-as-about-nix-for-haskellers.md
 - a quick summary of the main approaches of using Nix to build Haskell stuff: https://discourse.nixos.org/t/super-simple-haskell-development-with-nix/14287/3
 
+[__functor](https://nixos.org/manual/nix/stable/expressions/language-values.html). [how do functors work?](https://github.com/NixOS/nixpkgs/issues/11233). [How to undestand functors in the Nix expression language?](https://stackoverflow.com/questions/50994791/how-to-undestand-functors-in-the-nix-expression-language)
 
+> A set that has a __functor attribute whose value is callable (i.e. is itself a function or a set with a __functor attribute whose value is callable) can be applied as if it were a function, with the set itself passed in first 
+
+[Use `buildInputs` or nativeBuildInputs` for `nix-shell`?](https://discourse.nixos.org/t/use-buildinputs-or-nativebuildinputs-for-nix-shell/8464)
+
+[mkShell needs documentation](https://discourse.nixos.org/t/use-buildinputs-or-nativebuildinputs-for-nix-shell/8464). [impl](https://github.com/NixOS/nixpkgs/blob/master/pkgs/build-support/mkshell/default.nix#L35)
+
+    stdenv.mkDerivation ({
+      inherit name;
+
+      buildInputs = mergeInputs "buildInputs";
+      nativeBuildInputs = packages ++ (mergeInputs "nativeBuildInputs");
+      propagatedBuildInputs = mergeInputs "propagatedBuildInputs";
+      propagatedNativeBuildInputs = mergeInputs "propagatedNativeBuildInputs";
+
+      shellHook = lib.concatStringsSep "\n" (lib.catAttrs "shellHook"
+        (lib.reverseList inputsFrom ++ [ attrs ]));
+
+[Inspecting Nix lambda function named arguments](https://ops.functionalalgebra.com/2018/04/18/inspecting-nix-lambda-named-arguments/)
+
+[evaluating functions](https://twitter.com/DiazCarrete/status/1556199663132459008)

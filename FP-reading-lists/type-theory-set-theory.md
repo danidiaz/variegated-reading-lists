@@ -255,6 +255,8 @@ attempt to make equality reasonable again.”
 
 > In most set theories, W-types can be proven to exist, but in predicative mathematics or type theory, where this is not the case, they are often assumed explicitly to exist. In particular, W-types can be used to provide a constructive counterpart of the classical notion of a well-ordering and to uniformly define a variety of inductive types. More complex inductive types, with multiple constructors that are assumed only to be strictly positive, can be reduced to W-types, at least in the presence of other structure such as sum types and function extensionality; see for instance AAG. This can even be extended to inductive families.
 
+[W-types are often called types of well-founded trees](https://twitter.com/jonmsterling/status/1556208267352735745)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

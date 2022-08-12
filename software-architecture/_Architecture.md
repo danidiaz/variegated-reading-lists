@@ -1167,5 +1167,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [How to design better APIs -- 15 language-agnostic, actionable tips on #REST API design](https://twitter.com/gunnarmorling/status/1550014399884283909)
 
+[Dependency validation of a Haskell application](https://thma.github.io/posts/2022-08-07-dependency-validation-of-haskell-applications.html)
 
+> Automating CleanArchitecture dependency validation
 

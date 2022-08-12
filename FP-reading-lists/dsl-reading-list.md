@@ -565,4 +565,12 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [smalltt: Demo for high-performance type theory elaboration](https://www.reddit.com/r/haskell/comments/rheykz/github_andraskovacssmalltt_demo_for/)
 
+[There are good reasons for building domain-specific programming languages by *deep* embedding](https://twitter.com/PTOOP/status/1557787709875228672?t=aiHKYiQCqALZbxCXbeI-NA&s=03)
+
+> In my experience, in the end it always turns out that you need to go deep. 
+
+> I *instinctively* go deep. It’s the lesson my father taught me. Getting away with shallow is transient. If you go deep, you can look around the corner at what *else* is possible.
+
+
+
 

@@ -939,4 +939,6 @@ languages
 
 [the topos of trees](https://twitter.com/antiselfdual/status/1554081053534732288) <- great exposition!
 
+[ compositionality “versus” universal properties](https://twitter.com/jonmsterling/status/1557782007786119172?t=n5hiG6f9Y7iUmZWFB2OjDA&s=03)
+
 

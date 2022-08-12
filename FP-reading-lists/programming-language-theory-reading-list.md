@@ -278,7 +278,7 @@ programming libraries but also a notable producer.
 
 [Survey on Bidirectional Typechecking](https://semantic-domain.blogspot.com/2019/08/new-draft-paper-survey-on-bidirectional.html)
 
-[musing on bidirectional typechecking](https://twitter.com/GabriellaG439/status/1557532060796891136)
+[musing on bidirectional typechecking](https://twitter.com/GabriellaG439/status/1557532060796891136). [more musings](https://twitter.com/GabriellaG439/status/1558104139317387264)
 
 [What constitutes denotational semantics?](https://cstheory.stackexchange.com/questions/3577/what-constitutes-denotational-semantics) [Denotational semantics](https://en.wikipedia.org/wiki/Denotational_semantics). [tweet](https://twitter.com/_julesh_/status/1239198385019682822).
 

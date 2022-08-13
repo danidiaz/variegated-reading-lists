@@ -298,5 +298,5 @@ https://twitter.com/tailwindcss
 
 [a thread of CSS tricks](https://twitter.com/Steve8708/status/1546657470604382208)
 
-
+[modern CSS layout talk](https://twitter.com/CSSDayConf/status/1557817427106430977)
 

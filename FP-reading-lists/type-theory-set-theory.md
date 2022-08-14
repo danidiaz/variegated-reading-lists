@@ -257,6 +257,8 @@ attempt to make equality reasonable again.”
 
 [W-types are often called types of well-founded trees](https://twitter.com/jonmsterling/status/1556208267352735745)
 
+[topos semantics and Kripke semantics](https://www.typetheoryforall.com/2022/08/12/22-Cody-Roux-2.html#765236b5)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

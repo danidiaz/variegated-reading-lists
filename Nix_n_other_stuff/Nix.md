@@ -754,3 +754,14 @@ I don't think there is a single resource that is recommended above all others, b
 [Inspecting Nix lambda function named arguments](https://ops.functionalalgebra.com/2018/04/18/inspecting-nix-lambda-named-arguments/)
 
 [evaluating functions](https://twitter.com/DiazCarrete/status/1556199663132459008)
+
+[nix docs](https://nixos.org/manual/nix/stable/expressions/derivations.html) vs. [nixpg docs](https://nixos.org/manual/nixpkgs/stable/#sec-using-stdenv)
+
+> To build a package with the standard environment, you use the function stdenv.mkDerivation, instead of the primitive built-in function derivation, e.g.
+
+
+
+
+
+
+

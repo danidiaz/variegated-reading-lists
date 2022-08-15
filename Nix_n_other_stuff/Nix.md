@@ -759,7 +759,14 @@ I don't think there is a single resource that is recommended above all others, b
 
 > To build a package with the standard environment, you use the function stdenv.mkDerivation, instead of the primitive built-in function derivation, e.g.
 
+[types of derivations](https://book.divnix.com/ch04-00-derivations.html#types-of-derivations)
 
+> Fixed Output Derivations (FODs)
+These are the "leaves" of any build closure, in that, they do not refer to other derivations. These derivations are defined by their content. These derivations are easily differientiated because they will contain a sha256 (or other hash) which is used to enforce that an artifact is reproducible.
+
+> One critical difference from evaluated derivations is that Fixed-Output derivations are able to have access to the network while fetching contents. This "impurity" is offset by enforcing that the hash matches, and reproducibility is delegated to the process which fetchs the assets.
+
+> Many of the fetch* utilities in nixpkgs and nix's builtins will create FODs.
 
 
 

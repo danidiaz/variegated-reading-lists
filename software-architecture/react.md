@@ -495,4 +495,6 @@ https://react-query.tanstack.com/
 >  using many different styling libraries, such as Tailwind CSS, Styled
 >  Components, CSS modules, and Chakra UI.
 
+[why React re-renders](https://news.ycombinator.com/item?id=32485460)
+
 

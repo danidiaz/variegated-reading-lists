@@ -768,7 +768,7 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 > Many of the fetch* utilities in nixpkgs and nix's builtins will create FODs.
 
-
+[Nix parallelism & Import From Derivation](https://fzakaria.com/2020/10/20/nix-parallelism-import-from-derivation.html)
 
 
 

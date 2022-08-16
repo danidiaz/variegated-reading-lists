@@ -497,4 +497,5 @@ https://react-query.tanstack.com/
 
 [why React re-renders](https://news.ycombinator.com/item?id=32485460)
 
+[How Nix Derivation Instantiation Works](https://comono.id/posts/2020-03-20-how-nix-instantiation-works/). [Nix Derivation Basics](https://scrive.github.io/nix-workshop/04-derivations/01-derivation-basics.html)
 

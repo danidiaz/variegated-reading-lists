@@ -339,6 +339,13 @@ Math´ematiques et la Logique [Poi06]. He proposed the vicious circle principle:
 “The definitions which ought to be regarded as non-predicative are those which
 contain a vicious circle.”
 
+> In general, the type theory community has confined its interest in predicativity
+to the question of whether a universe is predicative.
+Roughly, a universe U is a type of types. We say U is impredicative if some
+of the types in U are constructed using U itself; for example, if Πx : U.x has
+type U. Otherwise, U is predicative. A type theory is called predicative if it
+contains no impredicative universes
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

@@ -317,6 +317,28 @@ when used by itself as a local type inference method.
 
 > Bidirectional typing combines two modes of typing: type checking, which checks that a program satisfies a known type, and type synthesis, which determines a type from the program. Using checking enables bidirectional typing to support features for which inference is undecidable; using synthesis enables bidirectional typing to avoid the large annotation burden of explicitly typed languages. In addition, bidirectional typing improves error locality. We highlight the design principles that underlie bidirectional type systems, survey the development of bidirectional typing from the prehistoric period before Pierce and Turner's local type inference to the present day, and provide guidance for future investigations.
 
+
+[impredicativity twitter thread](https://twitter.com/DiazCarrete/status/1559889543251255297). [ramified hierarchy](https://mathoverflow.net/a/376731/44603)
+
+> As far as I know, the word "ramified", in reference to type theory, means that one pays attention not only to the ranks of sets (where sets of rank n have members of rank n−1) but also to the complexity of their definitions. So for example, a set of fairly low rank, like a set of natural numbers, might be defined by a formula that quantifies over sets of high ranks and would be considered to have high "level". The comprehension axioms of such a type theory would impose limitations on both the ranks and the levels of the sets involved.
+
+[impredicative encodings 3](https://homotopytypetheory.org/2018/11/26/impredicative-encodings-part-3/). [Exploring Predicativity](https://philarchive.org/archive/CROPAC-14). [Predicativity](https://math.stanford.edu/~feferman/papers/predicativity.pdf). 
+
+> What is predicativity? While the term suggests that there is a single idea
+involved, what the history will show is that there are a number of ideas of
+predicativity which may lead to different logical analyses, and I shall uncover
+these only gradually. A central question will then be what, if anything, unifies
+them. Though early discussions are often muddy on the concepts and their
+employment, in a number of important respects they set the stage for the further
+developments,
+
+[A Survey of Predicativity](https://www.cs.ru.nl/R.Adams/predicativity3.pdf)
+
+> A first such criterion was offered by Poincar´e in the third part of his paper Les
+Math´ematiques et la Logique [Poi06]. He proposed the vicious circle principle:
+“The definitions which ought to be regarded as non-predicative are those which
+contain a vicious circle.”
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

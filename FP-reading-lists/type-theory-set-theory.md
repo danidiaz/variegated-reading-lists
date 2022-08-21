@@ -350,6 +350,8 @@ contains no impredicative universes
 types of well-ordered trees, and an infinite series of predicative universes V0, V1,
 V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · · 
 
+> The definition of W-types is not a simple inductive definition, but a generalised inductive definition. Including W-types increases the strength of a type theory dramatically. Setzer [Set93] has shown that even ML1W has a prooftheoretic ordinal that is much larger than Γ0. If we agree with Parsons that there are two senses of the word ’predicative’, then type theories with W-types are predicative in Lorenzen and Myhill’s sense, but not in Feferman and Sch¨utte’s sense
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

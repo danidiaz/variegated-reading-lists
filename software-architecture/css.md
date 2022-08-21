@@ -300,3 +300,6 @@ https://twitter.com/tailwindcss
 
 [modern CSS layout talk](https://twitter.com/CSSDayConf/status/1557817427106430977)
 
+[CSS :has( ) A Parent Selector Now](https://matthiasott.com/notes/css-has-a-parent-selector-now). [Using :has() as a CSS Parent Selector and much more](https://webkit.org/blog/13096/css-has-pseudo-class/). [CSS will never be the same](https://www.youtube.com/shorts/_1uS0_rgj14).
+
+

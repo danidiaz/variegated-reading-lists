@@ -223,4 +223,5 @@ They're all capable of expressing one another in their own terms though, so they
 
 [An Overview of Functional Reactive Programming](https://es.cs.uni-kl.de/publications/datarsg/Kock21.pdf)
 
+[Seven GUIs in reflex-vty, Part 1: The Counter](https://twitter.com/HaskellDiscu/status/1561360146793922560)
 

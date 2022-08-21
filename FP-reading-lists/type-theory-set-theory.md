@@ -352,6 +352,12 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 > The definition of W-types is not a simple inductive definition, but a generalised inductive definition. Including W-types increases the strength of a type theory dramatically. Setzer [Set93] has shown that even ML1W has a prooftheoretic ordinal that is much larger than Γ0. If we agree with Parsons that there are two senses of the word ’predicative’, then type theories with W-types are predicative in Lorenzen and Myhill’s sense, but not in Feferman and Sch¨utte’s sense
 
+[The seven virtues of simple type theory](https://www.sciencedirect.com/science/article/pii/S157086830700081X). [Church’s Type Theory](https://plato.stanford.edu/entries/type-theory-church/)
+
+> Simple type theory, also known as higher-order logic, is a natural extension of first-order logic which is simple, elegant, highly expressive, and practical.
+
+> Type theories are also called higher-order logics, since they allow quantification not only over individual variables (as in first-order logic), but also over function, predicate, and even higher order variables.
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

@@ -346,6 +346,10 @@ of the types in U are constructed using U itself; for example, if Πx : U.x has
 type U. Otherwise, U is predicative. A type theory is called predicative if it
 contains no impredicative universes
 
+> Later [ML82] Martin-L¨of extended the system again to include W-types,
+types of well-ordered trees, and an infinite series of predicative universes V0, V1,
+V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · · 
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

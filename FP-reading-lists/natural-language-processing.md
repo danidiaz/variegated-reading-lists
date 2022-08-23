@@ -26,6 +26,8 @@
 
 [Genie: A Generator of Natural Language Semantic Parsers for Virtual Assistant Commands](https://www.youtube.com/watch?v=B4bUBh16Kdg)
 
+[Introduction to the Grammatical Framework and subtyping](https://www.youtube.com/watch?v=uYRqslCdfqw)
+
 ## Slides
 
 [GF](https://t.co/exnVH2rabH)

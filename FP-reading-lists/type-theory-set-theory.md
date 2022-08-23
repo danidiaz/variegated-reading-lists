@@ -259,6 +259,14 @@ attempt to make equality reasonable again.”
 
 [topos semantics and Kripke semantics](https://www.typetheoryforall.com/2022/08/12/22-Cody-Roux-2.html#765236b5)
 
+[there are two ways to relate logic to type theory](https://twitter.com/DiazCarrete/status/1562069085390864386)
+
+> What I think is confusing you is the fact that there are two ways to relate logic to type theory:
+> The Curry-Howard correspondence relates the propositional calculus to the simply-typed λ-calculus by an interpreation of propositional formulas as types.
+> Higher-order logic embeds into simple type theory by an interpretation of logical formulas as terms of the type o of truth values.
+
+[ A logic is a kind of degenerate type theory. Namely, it's one where all (proof) terms are treated as equivalent. ](https://math.stackexchange.com/questions/2201972/curry-howard-correspondence-for-type-operators)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

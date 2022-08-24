@@ -1171,3 +1171,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > Automating CleanArchitecture dependency validation
 
+[growing Internet services with feature boundaries, data autonomy, cell-based architectures, service dependencies, graceful degradation, unique identifiers, idempotency, SLOs and quotas, and observability](https://twitter.com/rakyll/status/1562504263951011841)
+
+

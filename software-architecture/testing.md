@@ -188,4 +188,5 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Don’t mock what you don’t own](https://news.ycombinator.com/item?id=31822683)
 
-
+[Testing in production as a major service is safe if you deploy your services in isolated cells with a reasonable blast radius.](https://twitter.com/rakyll/status/1562860808081530880)
+    

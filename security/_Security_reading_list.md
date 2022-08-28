@@ -630,5 +630,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [WebAuthn Browser Support](https://news.ycombinator.com/item?id=31162070)
 
+[OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
+
 
 

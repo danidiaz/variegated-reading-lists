@@ -315,6 +315,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [different representations of binding](https://twitter.com/wilbowma/status/1543061875084054529)
 
+["Binders by day, labels by night" ](https://maciejpirog.github.io/papers/binders-labels.pdf). [Embedding of "Binders by day, labels by night" into "First-class names for effect handlers" in Agda (WIP)](https://gist.github.com/Lysxia/12a8d0f1bd6af44faf40e736caa7b371).
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

@@ -594,5 +594,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Staged push/pull fusion with typed Template Haskell](https://www.reddit.com/r/haskell/comments/w6duti/staged_pushpull_fusion_with_typed_template_haskell/). [Staged Compilation with Two-Level Type Theory](https://andraskovacs.github.io/pdfs/2ltt.pdf)
 
+[more recursive definitions](https://www.joachim-breitner.de/blog/792-More_recursive_definitions)
 
 

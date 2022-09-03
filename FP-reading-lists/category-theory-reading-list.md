@@ -941,4 +941,6 @@ languages
 
 [ compositionality “versus” universal properties](https://twitter.com/jonmsterling/status/1557782007786119172?t=n5hiG6f9Y7iUmZWFB2OjDA&s=03)
 
+[PL theory category theory](https://twitter.com/jonmsterling/status/1565761661033668614)
+
 

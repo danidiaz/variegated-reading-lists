@@ -632,5 +632,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
 
+[Securing SPAs with Spring](https://www.youtube.com/watch?v=AE_Srj6r4Rc)
+
 
 

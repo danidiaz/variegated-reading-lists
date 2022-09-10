@@ -397,3 +397,5 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [application of quantified constraints](https://twitter.com/sjoerd_visscher/status/1532641429809516547?t=kgXTftIbCB9Lcoeyl2mR7w&s=03)
 
+[Expose KnownSymbol's method and SSymbol](https://github.com/haskell/core-libraries-committee/issues/85)
+

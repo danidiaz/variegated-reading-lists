@@ -174,7 +174,9 @@
 
 [Lloyd's Byelaws](https://www.lloyds.com/conducting-business/market-oversight/acts-and-byelaws/lloyds-byelaws)
 
-# Software
+# Software (in particular Excel)
+
+[The trouble with tables: Overcoming the challenge of successfully extracting data trapped within tables](https://eigentech.com/resources/blog/the-trouble-with-tables-overcoming-the-challenge-of-successfully-extracting-data-trapped-within-tables)
 
 [Actuarial mathematics (in Isabelle/HOL)](https://twitter.com/Jose_A_Alonso/status/1486021055126794240)
 
@@ -183,5 +185,13 @@
 [Digital Submissions Management Demo](https://www.youtube.com/watch?v=3QfEhX3aafM)
 
 [crazy #Excel features](https://twitter.com/hillelogram/status/1552342344661336067)
+
+[New Text and Array Functions for Excel](https://news.ycombinator.com/item?id=32742399)
+
+[NEW Excel Functions for Compiling Data - VSTACK &amp; HSTACK](https://www.youtube.com/watch?v=RebdtDzsMj8).
+
+[Excel is Pretty Dang Cool](https://lobste.rs/s/vplt6d/excel_is_pretty_dang_cool)
+
+[Merge Tables in Excel Using Power Query](https://trumpexcel.com/merge-tables/)
 
 

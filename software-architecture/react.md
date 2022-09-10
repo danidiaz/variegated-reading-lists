@@ -499,3 +499,8 @@ https://react-query.tanstack.com/
 
 [How Nix Derivation Instantiation Works](https://comono.id/posts/2020-03-20-how-nix-instantiation-works/). [Nix Derivation Basics](https://scrive.github.io/nix-workshop/04-derivations/01-derivation-basics.html)
 
+[Create a Drag-and-Drop Zone in React with react-dropzone](https://blog.openreplay.com/create-a-drag-and-drop-zone-in-react-with-react-dropzone). [react-dropzone](https://react-dropzone.js.org/). [GitHub - react-dropzone/react-dropzone: Simple HTML5 drag-drop zone](https://github.com/react-dropzone/react-dropzone).
+
+
+
+

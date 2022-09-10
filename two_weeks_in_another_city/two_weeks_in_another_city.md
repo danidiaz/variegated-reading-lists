@@ -668,6 +668,8 @@ Bernini, his life and his Rome
 
 > paths, landmarks, districts, edges, nodes 
 
+[Narrative Methods for Writing Urban Places](https://journals.open.tudelft.nl/writingplace/issue/download/878/585). [Narrating Architecture in Literary Text, the Case of Kafka's Bridge](https://journals.open.tudelft.nl/writingplace/article/download/5866/5082/18496).
+
 ## Podcasts
 
 - [Wie der Raum unser Verhalten bestimmt](http://www.deutschlandfunkkultur.de/colin-ellard-psychogeografie-wie-der-raum-unser-verhalten.1270.de.html?dram:article_id=385482)

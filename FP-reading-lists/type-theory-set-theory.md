@@ -267,6 +267,7 @@ attempt to make equality reasonable again.”
 
 [ A logic is a kind of degenerate type theory. Namely, it's one where all (proof) terms are treated as equivalent. ](https://math.stackexchange.com/questions/2201972/curry-howard-correspondence-for-type-operators)
 
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)
@@ -365,6 +366,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 > Simple type theory, also known as higher-order logic, is a natural extension of first-order logic which is simple, elegant, highly expressive, and practical.
 
 > Type theories are also called higher-order logics, since they allow quantification not only over individual variables (as in first-order logic), but also over function, predicate, and even higher order variables.
+
+[How to code your own type theory](https://www.youtube.com/watch?v=DEj-_k2Nx6o)
 
 # set theory
 

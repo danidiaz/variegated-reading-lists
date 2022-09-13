@@ -1175,4 +1175,10 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [One Serverless Principle to Rule Them All: Idempotency](https://news.ycombinator.com/item?id=32690073)
 
+[logs vs. tracing](https://lobste.rs/s/schsks/structured_leveled_logging_go_s_standard#c_4oolft). [more](https://dev.to/aspecto/logging-vs-tracing-why-logs-aren-t-enough-to-debug-your-microservices-4jgi). [more](https://epsagon.com/observability/distributed-tracing-vs-logging/). 
+
+> all projects I have been part of have moved to using OpenTelemetry to output traces/spans. We have it configured to output to the console in local development, and in other environments send to an OpenTelemetry collector
+
+> A distributed trace is defined as a collection of spans. A span is the smallest unit in a trace and represents a piece of the workflow in a distributed landscape. It can be an HTTP request, call to a database, or execution of a message from a queue. 
+
 

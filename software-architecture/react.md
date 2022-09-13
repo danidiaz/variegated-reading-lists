@@ -501,6 +501,9 @@ https://react-query.tanstack.com/
 
 [Create a Drag-and-Drop Zone in React with react-dropzone](https://blog.openreplay.com/create-a-drag-and-drop-zone-in-react-with-react-dropzone). [react-dropzone](https://react-dropzone.js.org/). [GitHub - react-dropzone/react-dropzone: Simple HTML5 drag-drop zone](https://github.com/react-dropzone/react-dropzone).
 
+[React form tip](https://twitter.com/DavidKPiano/status/1569361453928300545). [testing](https://twitter.com/bahmutov/status/1569384088309571587).
+
+
 
 
 

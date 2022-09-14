@@ -503,6 +503,12 @@ https://react-query.tanstack.com/
 
 [React form tip](https://twitter.com/DavidKPiano/status/1569361453928300545). [testing](https://twitter.com/bahmutov/status/1569384088309571587).
 
+[Parent component re-renders all children](https://stackoverflow.com/questions/40819992/react-parent-component-re-renders-all-children-even-those-that-havent-changed). [The mystery of React Element, children, parents and re-renders](https://www.developerway.com/posts/react-elements-children-parents). [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide). [React Tracked: Manage state and prevent excessive re-rendering](https://blog.logrocket.com/react-tracked-manage-state-prevent-excessive-re-rendering/). [Just Say No to Excessive Re-Rendering in React](https://www.grapecity.com/blogs/just-say-no-to-excessive-re-rendering-in-react). [Why Did You Render](https://medium.com/welldone-software/track-react-redux-redundant-re-renders-with-why-did-you-render-version-3-9f31f2797057).
+
+[Fixing Redux/Zustand Re-Renders](https://www.youtube.com/watch?v=aOt4Hz3ze3Q). [Mastering React Memo](https://www.youtube.com/watch?v=DEPwA3mv_R8)
+
+
+
 
 
 

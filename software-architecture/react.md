@@ -507,6 +507,7 @@ https://react-query.tanstack.com/
 
 [Fixing Redux/Zustand Re-Renders](https://www.youtube.com/watch?v=aOt4Hz3ze3Q). [Mastering React Memo](https://www.youtube.com/watch?v=DEPwA3mv_R8)
 
+[TypeScript Tip #29 - unexpected useState beaviour](https://twitter.com/mattpocockuk/status/1570377640137179137)
 
 
 

@@ -564,4 +564,9 @@ https://react-query.tanstack.com/
 
 [Why "lifting state up" in react doesn't always work?](https://stackoverflow.com/questions/68487077/why-lifting-state-up-in-react-doesnt-always-work)
 
+> It's not so much that it can't be done. It's more that it will make things terribly ugly and force prop drilling. If I have a global user, I don't won't to be forced to pass that user state down 6 levels through other components that do nothing with the user object besides forwarding it down further to something that does use it.
+
+> One problem is that if you have a lot of components in your tree that needs to share the same piece of state and they are located far away, you have to "lift up" that state to the main ancestor and then you have to pass the state prop down the hierarchy on each children component.
+
+
 

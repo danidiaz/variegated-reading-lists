@@ -598,4 +598,5 @@ https://react-query.tanstack.com/
 
 > We make a mistake when we combine the two. Server cache has inherently different problems from UI state and therefore needs to be managed differently. If you embrace the fact that what you have is not actually state at all but is instead a cache of state, then you can start thinking about it correctly and therefore managing it correctly.
 
+> Another solution people try is to apply one of React's rendering bailout escape hatches like React.memo. This works pretty well in our contrived example because it allows React to skip re-rendering our SlowComponent, but in a more practical scenario, you often suffer from "death by a thousand cuts" which means that there's not really a single place that's slow, so you wind up applying React.memo everywhere. And when you do that, you have to start using useMemo and useCallback everywhere as well (otherwise you undo all the work you put into React.memo). 
 

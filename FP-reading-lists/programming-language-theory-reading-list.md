@@ -800,4 +800,9 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [ESOP 2022. "A Dependent Dependency Calculus"](https://twitter.com/fancytypes/status/1512005249946501125?t=j2hECKSyRKVHP9KQnwUokw&s=03)
 
+[a golden age of PL research](https://twitter.com/k4rtik/status/1569938898981163018)
+
+
+
+
 

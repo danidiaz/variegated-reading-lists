@@ -318,4 +318,4 @@ https://twitter.com/tailwindcss
 
 [demos and examples for #CSS container queries](https://twitter.com/MrMartineau/status/1567824462019534848)
 
-
+[The web is a harsh manager](https://daverupert.com/2022/08/web-is-a-harsh-manager/). [tweet](https://twitter.com/philw_/status/1570846398027042817).

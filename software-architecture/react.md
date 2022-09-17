@@ -572,4 +572,7 @@ https://react-query.tanstack.com/
 
 [Strategies for mitigating prop drilling with React and TypeScript](https://blog.logrocket.com/mitigating-prop-drilling-with-react-and-typescript/). [Prop Drilling in React: How to Avoid It](https://isamatov.com/react-avoid-prop-drilling/). [Best way to pass props through multiple levels in React ( Prop drilling )](https://stackoverflow.com/questions/70892137/best-way-to-pass-props-through-multiple-levels-in-react-prop-drilling). [Is React Context an antidote for prop drilling?](https://stackoverflow.com/questions/63015028/is-react-context-an-antidote-for-prop-drilling).
 
+> The recommended approach is to connect more components to the store (similar to your #2): https://redux.js.org/style-guide/style-guide#connect-more-components-to-read-data-from-the-store.
+
+> Selecting data from the store is very efficient (assuming you made sure your selectors always return the same reference if the data didn't change), I don't think there is any reason to drill down props that the child component can obtain directly from the store (even if it's just one level down). Approaches #1 and #3 will be worse for performance, as a lot more components will need to rerender for every state change.
 

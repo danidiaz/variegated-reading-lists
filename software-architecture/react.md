@@ -570,9 +570,32 @@ https://react-query.tanstack.com/
 
 [What exactly is prop drilling in React?](https://stackoverflow.com/questions/73020737/what-exactly-is-prop-drilling-in-react). [A better way of solving prop drilling in React apps](https://blog.logrocket.com/solving-prop-drilling-react-apps/). [Understanding React Context and Property (Prop) Drilling](https://blogs.perficient.com/2021/12/03/understanding-react-context-and-property-prop-drilling/). [Avoid Prop Drilling with React Context](https://medium.com/swlh/avoid-prop-drilling-with-react-context-a00392ee3d8).  
 
+> Dealing with state management in React applications can be a tricky thing, especially when data needs to be passed from a root component down to deeply-nested components. We, as React developers, often tend to over-engineer our applications by relying too heavily on the Context API and Redux in situations that they aren’t actually needed. We reach out too quickly for these tools — even in basic situations that simply require passing state/data to deeply-nested components — all in an attempt to overcome prop drilling.
+
+> Prop drilling is the unofficial term for passing data through several nested children components, in a bid to deliver this data to a deeply-nested component. The problem with this approach is that most of the components through which this data is passed have no actual need for this data. They are simply used as mediums for transporting this data to its destination component.
+
+> The Context API uses a comparison algorithm that compares the value of its current state to any update it receives, and whenever a change occurs, the Context API broadcasts this change to every component consuming its provider, which in turn results in a re-render of these components.
+
+> This would seem trivial at first glance, but when we rely heavily on Context for basic state management, we over-engineer our application by needlessly pushing all of our states into a context provider. As you’d expect, this isn’t very performant when many components depend on this Context Provider, as they’ll re-render whenever there is an update to the state regardless of whether the change concerns or affects them or not.
+
+> If you only want to avoid passing some props through many levels, component composition is often a simpler solution than context.
+
+> If you’ve built a React application before (and I’m sure you have), you have probably used component composition without recognizing it for what it is: an alternative for managing the state of our application.
+
 [Strategies for mitigating prop drilling with React and TypeScript](https://blog.logrocket.com/mitigating-prop-drilling-with-react-and-typescript/). [Prop Drilling in React: How to Avoid It](https://isamatov.com/react-avoid-prop-drilling/). [Best way to pass props through multiple levels in React ( Prop drilling )](https://stackoverflow.com/questions/70892137/best-way-to-pass-props-through-multiple-levels-in-react-prop-drilling). [Is React Context an antidote for prop drilling?](https://stackoverflow.com/questions/63015028/is-react-context-an-antidote-for-prop-drilling).
 
 > The recommended approach is to connect more components to the store (similar to your #2): https://redux.js.org/style-guide/style-guide#connect-more-components-to-read-data-from-the-store.
 
 > Selecting data from the store is very efficient (assuming you made sure your selectors always return the same reference if the data didn't change), I don't think there is any reason to drill down props that the child component can obtain directly from the store (even if it's just one level down). Approaches #1 and #3 will be worse for performance, as a lot more components will need to rerender for every state change.
+
+[Application State Management with React](https://kentcdodds.com/blog/application-state-management-with-react). [State Colocation will make your React app faster](https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster). [Remix: The Yang to React's Yin](https://kentcdodds.com/blog/remix-the-yang-to-react-s-yin).
+
+> There are various categories of state, but every type of state can fall into one of two buckets:
+
+> Server Cache - State that's actually stored on the server and we store in the client for quick-access (like user data).
+
+> UI State - State that's only useful in the UI for controlling the interactive parts of our app (like modal isOpen state).
+
+> We make a mistake when we combine the two. Server cache has inherently different problems from UI state and therefore needs to be managed differently. If you embrace the fact that what you have is not actually state at all but is instead a cache of state, then you can start thinking about it correctly and therefore managing it correctly.
+
 

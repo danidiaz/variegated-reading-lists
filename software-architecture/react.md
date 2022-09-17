@@ -570,5 +570,6 @@ https://react-query.tanstack.com/
 
 [What exactly is prop drilling in React?](https://stackoverflow.com/questions/73020737/what-exactly-is-prop-drilling-in-react). [A better way of solving prop drilling in React apps](https://blog.logrocket.com/solving-prop-drilling-react-apps/). [Understanding React Context and Property (Prop) Drilling](https://blogs.perficient.com/2021/12/03/understanding-react-context-and-property-prop-drilling/). [Avoid Prop Drilling with React Context](https://medium.com/swlh/avoid-prop-drilling-with-react-context-a00392ee3d8).  
 
+[Strategies for mitigating prop drilling with React and TypeScript](https://blog.logrocket.com/mitigating-prop-drilling-with-react-and-typescript/). [Prop Drilling in React: How to Avoid It](https://isamatov.com/react-avoid-prop-drilling/). [Best way to pass props through multiple levels in React ( Prop drilling )](https://stackoverflow.com/questions/70892137/best-way-to-pass-props-through-multiple-levels-in-react-prop-drilling). [Is React Context an antidote for prop drilling?](https://stackoverflow.com/questions/63015028/is-react-context-an-antidote-for-prop-drilling).
 
 

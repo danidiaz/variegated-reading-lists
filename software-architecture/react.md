@@ -568,5 +568,7 @@ https://react-query.tanstack.com/
 
 > One problem is that if you have a lot of components in your tree that needs to share the same piece of state and they are located far away, you have to "lift up" that state to the main ancestor and then you have to pass the state prop down the hierarchy on each children component.
 
+[What exactly is prop drilling in React?](https://stackoverflow.com/questions/73020737/what-exactly-is-prop-drilling-in-react). [A better way of solving prop drilling in React apps](https://blog.logrocket.com/solving-prop-drilling-react-apps/). [Understanding React Context and Property (Prop) Drilling](https://blogs.perficient.com/2021/12/03/understanding-react-context-and-property-prop-drilling/). [Avoid Prop Drilling with React Context](https://medium.com/swlh/avoid-prop-drilling-with-react-context-a00392ee3d8).  
+
 
 

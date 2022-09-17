@@ -368,4 +368,6 @@ https://twitter.com/tailwindcss
 
 >  In module state, stores are defined in modules and we export them, they work on the Singleton + Factory design pattern where all the boilerplate logic to create the store and update them will reside in a module (function) that can be exported and used.
 
+[One other thing that the example shows is how nice immer is for immutability and hence memoization. Compare the spread syntax approach:](https://www.reddit.com/r/reactjs/comments/dhck3y/comment/f3pzofn/)
+
 

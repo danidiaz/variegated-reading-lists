@@ -604,6 +604,12 @@ https://react-query.tanstack.com/
 
 > jotai is out. Please check it. It's designed for non-singleton
 
+[On state management and why I stopped using it](https://dev.to/beggars/on-state-management-and-why-i-stopped-using-it-4di). [React doesn't need state management tool, I said](https://dev.to/tolgee_i18n/react-doesnt-need-state-management-tool-i-said-31l4). [State Management: Separation of Concerns](https://alexei.me/blog/state-management--separation-of-concerns/). [Do You Really Need a React State Management Library?](https://blog.bitsrc.io/react-do-you-really-need-an-external-library-for-state-management-28f67d03ebe5)
+
+> I cringe every time I see state management being shoehorned into simple forms and I have never seen it done in a clean and unobtrusive way. Almost every state management solution I know of has a forms plugin, the fact you even need an additional plugin says all you need to know: don't use state management for forms if you can avoid it.
+
+> Please, for the sake of everyone else around you: stop using state management for loaders and modals. I swear, almost every web application I have seen using state management has loader states and other booleans in state management for the stupidest of things.
+
 
 
 

@@ -610,6 +610,6 @@ https://react-query.tanstack.com/
 
 > Please, for the sake of everyone else around you: stop using state management for loaders and modals. I swear, almost every web application I have seen using state management has loader states and other booleans in state management for the stupidest of things.
 
-
+> It is often helpful to separate Form State handling from the rest of the UI state.  Reason - Form handling is tricky and nuanced
 
 

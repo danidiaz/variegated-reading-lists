@@ -64,5 +64,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Build an NPM Package in TypeScript from the Ground Up](https://spin.atomicobject.com/2022/06/21/npm-package-typescript/)
 
+[Fixing TypeScript's Blindspot: Runtime Typechecking](https://www.youtube.com/watch?v=rY_XqfSHock)
 
 

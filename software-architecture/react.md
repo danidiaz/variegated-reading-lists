@@ -600,3 +600,10 @@ https://react-query.tanstack.com/
 
 > Another solution people try is to apply one of React's rendering bailout escape hatches like React.memo. This works pretty well in our contrived example because it allows React to skip re-rendering our SlowComponent, but in a more practical scenario, you often suffer from "death by a thousand cuts" which means that there's not really a single place that's slow, so you wind up applying React.memo everywhere. And when you do that, you have to start using useMemo and useCallback everywhere as well (otherwise you undo all the work you put into React.memo). 
 
+[How to use zustand in a non-singleton way (2020)](https://github.com/pmndrs/zustand/issues/162#issuecomment-689203547)
+
+> jotai is out. Please check it. It's designed for non-singleton
+
+
+
+

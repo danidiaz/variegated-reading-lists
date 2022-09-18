@@ -326,3 +326,6 @@ https://twitter.com/tailwindcss
 
 > I don't have a fixed size, but I have a maximum size (usually in rems)
 
+> mobile first [...] desktop is the one that is complex [...] mostly use min-width media queries 
+
+

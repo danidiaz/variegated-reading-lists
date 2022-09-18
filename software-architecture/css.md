@@ -328,6 +328,7 @@ https://twitter.com/tailwindcss
 
 > mobile first [...] desktop is the one that is complex [...] mostly use min-width media queries 
 
-[Thoughts on CSS Intrinsic Design and Avoiding Media Queries](https://www.notimedad.dev/thoughts-on-css-instrinsic-design-avoiding-media-queries/)
+[Thoughts on CSS Intrinsic Design and Avoiding Media Queries](https://www.notimedad.dev/thoughts-on-css-instrinsic-design-avoiding-media-queries/). [intrinsic design](https://css-tricks.com/tag/intrinsic-design/)
 
+> grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 

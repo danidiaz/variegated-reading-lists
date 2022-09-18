@@ -322,3 +322,7 @@ https://twitter.com/tailwindcss
 
 [Weekly Frontend News](https://twitter.com/CSSWeekly/status/1571074469438930944)
 
+[5 simple tips to making responsive layouts the easy way](https://youtu.be/VQraviuwbzU?t=303)
+
+> I don't have a fixed size, but I have a maximum size (usually in rems)
+

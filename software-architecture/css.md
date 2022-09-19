@@ -332,3 +332,8 @@ https://twitter.com/tailwindcss
 
 > grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 
+[The Magic of CSS Grid AUTO-FIT vs AUTO-FILL](https://www.youtube.com/watch?v=qII5BueXWD4). [The magic of auto-fit and auto-fill](https://www.youtube.com/watch?v=qjJR3qYCd54). [Create an adaptive CSS grid with a max column count!](https://www.youtube.com/watch?v=GGcDLOuKaiA)
+
+[Cascade Layers](https://css-tricks.com/cascade-layers/). [A Complete Guide to CSS Cascade Layers](https://css-tricks.com/css-cascade-layers/).
+
+

@@ -269,5 +269,6 @@
 
 [With @springboot 3, we'll be able to rewrite queries in @SpringData repositories!](https://twitter.com/JPABuddy/status/1528685565423628288?t=OrvenTpTHB_gfwk0Va6sRA&s=03)
 
+[Object Mapping advanced features & QoL with Java](https://www.reddit.com/r/programming/comments/xj8w29/object_mapping_advanced_features_qol_with_java/)
 
 

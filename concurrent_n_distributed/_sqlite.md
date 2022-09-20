@@ -29,4 +29,6 @@
 
 [SQLite or PostgreSQL? It's Complicated](https://news.ycombinator.com/item?id=31908186)
 
+[SQLite: Past, Present, and Future](https://news.ycombinator.com/item?id=32909167)
+
 

@@ -73,5 +73,7 @@
 
 [complex ARIA patterns](https://twitter.com/hdv/status/1554437709929881602)
 
+[cache your CORS](https://news.ycombinator.com/item?id=32907234)
+
 
 

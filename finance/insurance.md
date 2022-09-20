@@ -174,6 +174,8 @@
 
 [Lloyd's Byelaws](https://www.lloyds.com/conducting-business/market-oversight/acts-and-byelaws/lloyds-byelaws)
 
+[The Core Data Record](https://www.lloyds.com/conducting-business/requirements-and-standards/core-data-record). [About the Core Data Record](https://www.lloyds.com/conducting-business/requirements-and-standards/core-data-record/about)
+
 # Software (in particular Excel)
 
 [The trouble with tables: Overcoming the challenge of successfully extracting data trapped within tables](https://eigentech.com/resources/blog/the-trouble-with-tables-overcoming-the-challenge-of-successfully-extracting-data-trapped-within-tables)

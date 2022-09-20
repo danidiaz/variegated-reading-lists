@@ -336,4 +336,6 @@ https://twitter.com/tailwindcss
 
 [Cascade Layers](https://css-tricks.com/cascade-layers/). [A Complete Guide to CSS Cascade Layers](https://css-tricks.com/css-cascade-layers/).
 
+[We deserve better than BEM](https://jezenthomas.com/we-deserve-better-than-bem/)
+
 

@@ -612,4 +612,11 @@ https://react-query.tanstack.com/
 
 > It is often helpful to separate Form State handling from the rest of the UI state.  Reason - Form handling is tricky and nuanced
 
+[React I Love You, But You're Bringing Me Down](https://marmelab.com/blog/2022/09/20/react-i-love-you.html). [tweet](https://twitter.com/tannerlinsley/status/1572291326519169024).
 
+> you decided to get rid of Redux in favor of your own useContext. Except that useContext lacks a crucial feature of Redux: the ability to react to changes in parts of the context
+
+
+
+
+>  

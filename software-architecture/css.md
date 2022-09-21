@@ -338,5 +338,9 @@ https://twitter.com/tailwindcss
 
 [We deserve better than BEM](https://jezenthomas.com/we-deserve-better-than-bem/)
 
+[Why won't fr units work with grid-template-rows on CSS grid?](https://stackoverflow.com/questions/60941673/why-wont-fr-units-work-with-grid-template-rows-on-css-grid)
+
+> Your container has no extra height. So there's no free space for the fr unit to distribute.
+
 [Designing Better Inline Validation UX](https://www.smashingmagazine.com/2022/09/inline-validation-web-forms-ux/)
 

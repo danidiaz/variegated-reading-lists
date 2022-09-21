@@ -342,5 +342,7 @@ https://twitter.com/tailwindcss
 
 > Your container has no extra height. So there's no free space for the fr unit to distribute.
 
+[box-sizing](https://stackoverflow.com/questions/35409610/getting-padding-and-margins-inside-parents-width). [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+
 [Designing Better Inline Validation UX](https://www.smashingmagazine.com/2022/09/inline-validation-web-forms-ux/)
 

@@ -352,6 +352,8 @@ https://twitter.com/tailwindcss
         box-sizing: border-box;
     }
 
+[outline-offset](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-offset)
+
 [CSS em and rem explained ](https://www.youtube.com/watch?v=_-aDOAMmDHI&t=869s) excellent!!!
 
 [Designing Better Inline Validation UX](https://www.smashingmagazine.com/2022/09/inline-validation-web-forms-ux/)

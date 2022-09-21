@@ -342,6 +342,10 @@ https://twitter.com/tailwindcss
 
 > Your container has no extra height. So there's no free space for the fr unit to distribute.
 
+> Block elements consume the full width of their parent, by default. So you don't need to define width: 100%.
+
+> Not so with height. Most elements are set by default to the height of their content (height: auto). So you need to define a height if you want the container to be taller than the content.
+
 [box-sizing](https://stackoverflow.com/questions/35409610/getting-padding-and-margins-inside-parents-width). [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
 
 [CSS em and rem explained ](https://www.youtube.com/watch?v=_-aDOAMmDHI&t=869s) excellent!!!

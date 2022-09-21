@@ -338,4 +338,5 @@ https://twitter.com/tailwindcss
 
 [We deserve better than BEM](https://jezenthomas.com/we-deserve-better-than-bem/)
 
+[Designing Better Inline Validation UX](https://www.smashingmagazine.com/2022/09/inline-validation-web-forms-ux/)
 

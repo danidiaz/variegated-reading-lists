@@ -616,7 +616,6 @@ https://react-query.tanstack.com/
 
 > you decided to get rid of Redux in favor of your own useContext. Except that useContext lacks a crucial feature of Redux: the ability to react to changes in parts of the context
 
+[React component as prop: the right way™️](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
 
 
-
->  

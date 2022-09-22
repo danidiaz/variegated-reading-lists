@@ -368,4 +368,6 @@ https://twitter.com/tailwindcss
 
 > Many layouts are essentially sets of "cards" – product listings, image galleries, and so on. A grid can make it very easy to create these listings in a way that is responsive without needing to add media queries to make it so. 
 
+> This is really one of the key reasons someone would use flexbox rather than grid, if he/she's just aligning or distributing something in a single dimension, that's a flexbox use case.
+
 [CSS Grid Layout and progressive enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)

@@ -366,4 +366,6 @@ https://twitter.com/tailwindcss
 
 > Something to note as we create this layout is that we haven't needed to explicitly position every element on the grid at each breakpoint. We have been able to inherit the placement set up for earlier breakpoints – an advantage of working "mobile first".
 
+> Many layouts are essentially sets of "cards" – product listings, image galleries, and so on. A grid can make it very easy to create these listings in a way that is responsive without needing to add media queries to make it so. 
+
 [CSS Grid Layout and progressive enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)

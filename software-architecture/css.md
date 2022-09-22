@@ -370,4 +370,10 @@ https://twitter.com/tailwindcss
 
 > This is really one of the key reasons someone would use flexbox rather than grid, if he/she's just aligning or distributing something in a single dimension, that's a flexbox use case.
 
+> This is all looking fairly complete now, however we sometimes have these cards which contain far more content than the others. It might be nice to cause those to span two tracks, and then they won't be so tall. We have a class of wide on my larger item, and we add a rule grid-column-end with a value of span 2.
+
+> We can cause a grid to backfill those gaps by setting grid-auto-flow: dense on the grid container. Take care when doing this however as it does take items away from their logical source order. You should only do this if your items do not have a set order
+
+
+
 [CSS Grid Layout and progressive enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)

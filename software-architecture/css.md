@@ -374,6 +374,6 @@ https://twitter.com/tailwindcss
 
 > We can cause a grid to backfill those gaps by setting grid-auto-flow: dense on the grid container. Take care when doing this however as it does take items away from their logical source order. You should only do this if your items do not have a set order
 
-
-
 [CSS Grid Layout and progressive enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)
+
+[Grid by example](https://gridbyexample.com/)

@@ -364,4 +364,4 @@ https://twitter.com/tailwindcss
 
 >  Grid layout gives authors great powers of rearrangement over the document. However, these are not a substitute for correct ordering of the document source. The order property and grid placement do not affect ordering in non-visual media (such as speech). Likewise, rearranging grid items visually does not affect the default traversal order of sequential navigation modes (such as cycling through links, see e.g. tabindex HTML5).
 
-
+[CSS Grid Layout and progressive enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)

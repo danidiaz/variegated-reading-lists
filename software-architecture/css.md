@@ -358,3 +358,10 @@ https://twitter.com/tailwindcss
 
 [Designing Better Inline Validation UX](https://www.smashingmagazine.com/2022/09/inline-validation-web-forms-ux/)
 
+[Realizing common layouts using grids](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout). [Grid layout and accessibility](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_Layout_and_Accessibility)
+
+> Staying outside of any media queries we're now going to set up the layout for the mobile width. Here we're keeping everything in source order, trying to avoid any disconnect between the source and display as described in the guide Grid layout and accessibility
+
+>  Grid layout gives authors great powers of rearrangement over the document. However, these are not a substitute for correct ordering of the document source. The order property and grid placement do not affect ordering in non-visual media (such as speech). Likewise, rearranging grid items visually does not affect the default traversal order of sequential navigation modes (such as cycling through links, see e.g. tabindex HTML5).
+
+

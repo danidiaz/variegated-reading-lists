@@ -414,5 +414,10 @@ https://twitter.com/tailwindcss
 
 > a subgrid, a grid-item with its own grid that aligns in one or both dimensions with the parent grid
 
+> For the uninitiated, one of the main constraints of CSS Grid Layout is that only the direct children of the grid container can be placed on the grid. This is why we can't use a simple display: grid on the cards' container to solve our problem; we could position the cards on the grid, rather boringly, but we can't position the cards' contents on the grid, because those elements are not direct children of the grid container element.
+
+> Or can we?
+
+> Enter display: contents. If you give a container element the rule display: contents, the element sort of... vanishes... at least for layout purposes. The surrounding elements are no longer aware of that container; instead, they see its direct children. What this means in a grid context is: if a grid item is given display: contents, its child elements become grid items instead!
 
 

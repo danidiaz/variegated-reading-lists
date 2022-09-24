@@ -394,5 +394,6 @@ https://twitter.com/tailwindcss
 
 [accessible tables tutorial](https://www.w3.org/WAI/tutorials/tables/). [How to create responsive tables with pure CSS using Grid Layout Module](https://www.freecodecamp.org/news/https-medium-com-nakayama-shingo-creating-responsive-tables-with-pure-css-using-the-grid-layout-module-8e0ea8f03e83/)
 
+[tables and definitions](https://stackoverflow.com/questions/519234/why-use-definition-lists-dl-dd-dt-tags-for-html-forms-instead-of-tables)
 
 

@@ -398,7 +398,7 @@ https://twitter.com/tailwindcss
 
 [dl](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl) description list [Two-column table or dl?](https://stackoverflow.com/questions/8900571/two-column-table-or-dl). [Definition Lists versus Tables (2012)](https://snook.ca/archives/html_and_css/definition-lists-v-tables). [a11ysupport](https://a11ysupport.io/tech/html/dl_element)
 
-[ARIA: table role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/table_role)
+[ARIA: table role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/table_role). [HTML table advanced features and accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
 
 > The table value of the ARIA role attribute identifies the element containing the role as having a non-interactive table structure containing data arranged in rows and columns, similar to the native <table> HTML element.
 

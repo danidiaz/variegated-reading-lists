@@ -392,6 +392,7 @@ https://twitter.com/tailwindcss
 
 [Easy and more consistent layouts using subgrid](https://www.youtube.com/watch?v=IIQa9f0REtM). [You can't do this without subgrid](https://www.youtube.com/watch?v=R7aHcgIeATE).
 
+[accessible tables tutorial](https://www.w3.org/WAI/tutorials/tables/)
 
 
 

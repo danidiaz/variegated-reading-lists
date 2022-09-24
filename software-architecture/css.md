@@ -392,7 +392,7 @@ https://twitter.com/tailwindcss
 
 [Easy and more consistent layouts using subgrid](https://www.youtube.com/watch?v=IIQa9f0REtM). [You can't do this without subgrid](https://www.youtube.com/watch?v=R7aHcgIeATE).
 
-[accessible tables tutorial](https://www.w3.org/WAI/tutorials/tables/)
+[accessible tables tutorial](https://www.w3.org/WAI/tutorials/tables/). [How to create responsive tables with pure CSS using Grid Layout Module](https://www.freecodecamp.org/news/https-medium-com-nakayama-shingo-creating-responsive-tables-with-pure-css-using-the-grid-layout-module-8e0ea8f03e83/)
 
 
 

@@ -396,4 +396,23 @@ https://twitter.com/tailwindcss
 
 [tables and definitions](https://stackoverflow.com/questions/519234/why-use-definition-lists-dl-dd-dt-tags-for-html-forms-instead-of-tables)
 
+[dl](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl) description list [Two-column table or dl?](https://stackoverflow.com/questions/8900571/two-column-table-or-dl). [Definition Lists versus Tables (2012)](https://snook.ca/archives/html_and_css/definition-lists-v-tables). [a11ysupport](https://a11ysupport.io/tech/html/dl_element)
+
+[ARIA: table role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/table_role)
+
+> The table value of the ARIA role attribute identifies the element containing the role as having a non-interactive table structure containing data arranged in rows and columns, similar to the native <table> HTML element.
+
+> An element with role="table" is a static tabular structure with rows containing cells. The cells are not focusable or selectable, though widgets within individual cells of the table can be interactive. Using a native HTML <table> element whenever possible is strongly encouraged.
+
+> Warning: If a table maintains a selection state, has two-dimensional navigation, or allows the user to rearrange cell order use grid or treegrid instead.
+
+[Styling tables](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables)
+
+> Styling an HTML table isn't the most glamorous job in the world, but sometimes we all have to do it. This article provides a guide to making HTML tables look good, with some specific table styling techniques highlighted.
+
+[Why we need CSS subgrid](https://dev.to/kenbellows/why-we-need-css-subgrid-53mh)
+
+> a subgrid, a grid-item with its own grid that aligns in one or both dimensions with the parent grid
+
+
 

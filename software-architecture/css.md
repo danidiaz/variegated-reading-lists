@@ -410,7 +410,7 @@ https://twitter.com/tailwindcss
 
 > Styling an HTML table isn't the most glamorous job in the world, but sometimes we all have to do it. This article provides a guide to making HTML tables look good, with some specific table styling techniques highlighted.
 
-[Why we need CSS subgrid](https://dev.to/kenbellows/why-we-need-css-subgrid-53mh)
+[Why we need CSS subgrid](https://dev.to/kenbellows/why-we-need-css-subgrid-53mh). [display: content](https://www.youtube.com/watch?v=cs37yx73b1o). [CSS Subgrid - How to Build Complex Layouts in a Simple Way](https://www.ditdot.hr/en/css-subgrid-how-to-build-complex-layouts-in-a-simple-way)
 
 > a subgrid, a grid-item with its own grid that aligns in one or both dimensions with the parent grid
 

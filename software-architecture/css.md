@@ -384,4 +384,6 @@ https://twitter.com/tailwindcss
 
 [Exploring the Complexities of Width and Height in CSS](https://css-tricks.com/exploring-the-complexities-of-width-and-height-in-css/). [forum](https://css-tricks.com/forums/topic/relationship-between-height-and-width-of-parent-and-child-div/).
 
+[What's the deal with height: auto?](https://www.youtube.com/watch?v=SjYYfd7obug)
+
 

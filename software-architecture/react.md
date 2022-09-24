@@ -618,4 +618,5 @@ https://react-query.tanstack.com/
 
 [React component as prop: the right way™️](https://www.developerway.com/posts/react-component-as-prop-the-right-way)
 
+[React Router 6.4](https://www.youtube.com/watch?v=L2kzUg6IzxM)
 

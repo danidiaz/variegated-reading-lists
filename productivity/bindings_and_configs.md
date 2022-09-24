@@ -192,4 +192,7 @@ What's added to .profile:
 
 > Question: What happens if there are no *.mp3-files in the current directory? Then the for loop is executed once, with file="./*.mp3", which is not the expected behavior! The workaround is to test whether there is a matching file:
 
+[starter workflow for GitHub pages](https://github.com/actions/starter-workflows/tree/main/pages). [GitHub Pages now uses Actions by default](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/)
+
+
 

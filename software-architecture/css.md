@@ -382,4 +382,6 @@ https://twitter.com/tailwindcss
 
 [html5 data attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes). [custom data attributes](http://html5doctor.com/html5-custom-data-attributes/) 
 
+[Exploring the Complexities of Width and Height in CSS](https://css-tricks.com/exploring-the-complexities-of-width-and-height-in-css/). [forum](https://css-tricks.com/forums/topic/relationship-between-height-and-width-of-parent-and-child-div/).
+
 

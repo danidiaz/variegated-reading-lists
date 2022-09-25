@@ -392,7 +392,7 @@ https://twitter.com/tailwindcss
 
 [Easy and more consistent layouts using subgrid](https://www.youtube.com/watch?v=IIQa9f0REtM). [You can't do this without subgrid](https://www.youtube.com/watch?v=R7aHcgIeATE).
 
-[accessible tables tutorial](https://www.w3.org/WAI/tutorials/tables/). [How to create responsive tables with pure CSS using Grid Layout Module](https://www.freecodecamp.org/news/https-medium-com-nakayama-shingo-creating-responsive-tables-with-pure-css-using-the-grid-layout-module-8e0ea8f03e83/)
+[accessible tables tutorial](https://www.w3.org/WAI/tutorials/tables/). [How to create responsive tables with pure CSS using Grid Layout Module](https://www.freecodecamp.org/news/https-medium-com-nakayama-shingo-creating-responsive-tables-with-pure-css-using-the-grid-layout-module-8e0ea8f03e83/). [Table with header cells in the top row and first column](https://www.w3.org/WAI/tutorials/tables/two-headers/#table-with-header-cells-in-the-top-row-and-first-column)
 
 [tables and definitions](https://stackoverflow.com/questions/519234/why-use-definition-lists-dl-dd-dt-tags-for-html-forms-instead-of-tables)
 
@@ -419,5 +419,14 @@ https://twitter.com/tailwindcss
 > Or can we?
 
 > Enter display: contents. If you give a container element the rule display: contents, the element sort of... vanishes... at least for layout purposes. The surrounding elements are no longer aware of that container; instead, they see its direct children. What this means in a grid context is: if a grid item is given display: contents, its child elements become grid items instead!
+
+[Building Linkable Tabs with only CSS](https://www.kallmanation.com/building-linkable-tabs-with-only-css). [CSS3-Only Tabbed Area (old)](https://css-tricks.com/css3-tabs/).
+
+
+
+
+
+
+
 
 

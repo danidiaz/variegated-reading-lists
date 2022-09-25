@@ -1181,4 +1181,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > A distributed trace is defined as a collection of spans. A span is the smallest unit in a trace and represents a piece of the workflow in a distributed landscape. It can be an HTTP request, call to a database, or execution of a message from a queue. 
 
+[Building a Framework on top of Spring Boot](https://www.youtube.com/watch?v=1qT__SBWOhA&t=2s)
+
 

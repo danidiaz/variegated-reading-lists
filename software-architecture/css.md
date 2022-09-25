@@ -422,7 +422,9 @@ https://twitter.com/tailwindcss
 
 [Building Linkable Tabs with only CSS](https://www.kallmanation.com/building-linkable-tabs-with-only-css). [CSS3-Only Tabbed Area (old)](https://css-tricks.com/css3-tabs/).
 
-[Screen Reader Basics: VoiceOver -- A11ycasts](https://www.youtube.com/watch?v=5R-6WvAihms). [NVDA](http://accesibilidadweb.dlsi.ua.es/?menu=nvda). [Lector de pantalla NVDA 1 - Instalación y configuración](https://www.youtube.com/watch?v=jaOp891hAnY). [Lector de pantalla NVDA 2 - Manejar una web](https://www.youtube.com/watch?v=8ZKlKAAh6HI). [NVDA en español](https://www.youtube.com/channel/UCmyoXAMU9kJXz5LV-lJo5MA/videos)
+[Screen Reader Basics: VoiceOver -- A11ycasts](https://www.youtube.com/watch?v=5R-6WvAihms). [NVDA](http://accesibilidadweb.dlsi.ua.es/?menu=nvda). [Lector de pantalla NVDA 1 - Instalación y configuración](https://www.youtube.com/watch?v=jaOp891hAnY). [Lector de pantalla NVDA 2 - Manejar una web](https://www.youtube.com/watch?v=8ZKlKAAh6HI). [NVDA en español](https://www.youtube.com/channel/UCmyoXAMU9kJXz5LV-lJo5MA/videos). [Guía de usuario de NVDA](https://nvda.es/documentacion/guia-de-usuario-de-nvda/#Introduction).
+
+
 
 
 

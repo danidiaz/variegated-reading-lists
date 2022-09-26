@@ -943,4 +943,4 @@ languages
 
 [PL theory category theory](https://twitter.com/jonmsterling/status/1565761661033668614)
 
-
+[Space-time tradeoffs of lenses and optics via higher category theory](https://twitter.com/bgavran3/status/1572552812571283457)

@@ -196,4 +196,5 @@
 
 [Merge Tables in Excel Using Power Query](https://trumpexcel.com/merge-tables/)
 
+["but you overpaid"](https://twitter.com/Teddy_Bautista_/status/1574917573304406016)
 

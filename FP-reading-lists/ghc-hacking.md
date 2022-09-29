@@ -225,4 +225,6 @@ Stuff about the heap:
 
 [PROFILING NON-CPU TIME IN HASKELL](https://www.tweag.io/blog/2022-07-28-timestats/)
 
+[sharing is caring (about leaks)](https://www.reddit.com/r/haskell/comments/xptedd/linearity_and_eventual_uniqueness/)
+
 

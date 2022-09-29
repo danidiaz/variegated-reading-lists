@@ -422,7 +422,10 @@ https://twitter.com/tailwindcss
 
 [Building Linkable Tabs with only CSS](https://www.kallmanation.com/building-linkable-tabs-with-only-css). [CSS3-Only Tabbed Area (old)](https://css-tricks.com/css3-tabs/).
 
+[fit-content](https://css-tricks.com/fit-content-and-fit-content/)
 
+[Use CSS Variables instead of React Context](https://epicreact.dev/css-variables/)
 
+> Often I'd use a ThemeProvider (like those found in emotion), but turns out there aren't a whole lot of advantages to that kind of component for many use cases and there are several disadvantages.
 
 

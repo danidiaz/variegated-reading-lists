@@ -271,4 +271,6 @@
 
 [Object Mapping advanced features & QoL with Java](https://www.reddit.com/r/programming/comments/xj8w29/object_mapping_advanced_features_qol_with_java/)
 
+[A nice way to convert an id to a domain object in #SpringBoot using #SpringData and the DomainClassConverter](https://twitter.com/therealdanvega/status/1575498674960224257)
+
 

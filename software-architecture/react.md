@@ -620,4 +620,5 @@ https://react-query.tanstack.com/
 
 [React Router 6.4](https://www.youtube.com/watch?v=L2kzUg6IzxM)
 
+[optimizing compiler tweet](https://twitter.com/Eli_White/status/1576092090362011649)
 

@@ -77,6 +77,8 @@
 
 [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
 
-[stuff about Openapi 3.1](https://github.com/Kong/insomnia/issues/4732)
+[stuff about Openapi 3.1](https://github.com/Kong/insomnia/issues/4732). [links](https://swagger.io/docs/specification/links/).
+
+> Links are one of the new features of OpenAPI 3.0. Using links, you can describe how various values returned by one operation can be used as input for other operations. This way, links provide a known relationship and traversal mechanism between the operations. The concept of links is somewhat similar to hypermedia, but OpenAPI links do not require the link information present in the actual responses.
 
 

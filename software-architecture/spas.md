@@ -81,4 +81,9 @@
 
 > Links are one of the new features of OpenAPI 3.0. Using links, you can describe how various values returned by one operation can be used as input for other operations. This way, links provide a known relationship and traversal mechanism between the operations. The concept of links is somewhat similar to hypermedia, but OpenAPI links do not require the link information present in the actual responses.
 
+[What is the meaning of a Media Type Object with no schema defined?](https://github.com/OAI/OpenAPI-Specification/discussions/2874)
+
+> When you define the media type, you're telling the user what is expected to go over the wire. The schema is there to help validate the actual content. However, in many cases, a schema doesn't make sense - PDFs, audio files, binary files and so on, so specifying the schema is pointless.
+
+> At the moment, we only support JSON Schema for the Schema Object, meaning you can only describe JSON payloads (and to some limited extent XMLs). Had we supported things like XSD (which we may in the future), that would allow you to define schemas (or something similar) for additional media types.
 

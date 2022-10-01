@@ -4,4 +4,5 @@
 
 [How to Build a Personal Webpage from Scratch](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/). [HN](https://news.ycombinator.com/item?id=33017056).
 
-[WASM, why?](https://twitter.com/mattaningram/status/1576012476365557760)
+[WASM, why?](https://twitter.com/mattaningram/status/1576012476365557760). [another tweet](https://twitter.com/simonw/status/1576001019296636928)
+

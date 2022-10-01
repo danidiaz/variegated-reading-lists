@@ -77,4 +77,6 @@
 
 [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
 
+[stuff about Openapi 3.1](https://github.com/Kong/insomnia/issues/4732)
+
 

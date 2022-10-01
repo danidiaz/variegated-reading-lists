@@ -1183,4 +1183,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Building a Framework on top of Spring Boot](https://www.youtube.com/watch?v=1qT__SBWOhA&t=2s)
 
+[9 Puzzles to Convince You You Don't Understand Dependence](https://www.pathsensitive.com/2022/09/bet-you-cant-solve-these-9-dependency.html)
+
 

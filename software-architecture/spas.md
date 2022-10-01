@@ -75,5 +75,6 @@
 
 [cache your CORS](https://news.ycombinator.com/item?id=32907234)
 
+[Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
 
 

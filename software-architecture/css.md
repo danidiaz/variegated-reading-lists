@@ -430,5 +430,7 @@ https://twitter.com/tailwindcss
 
 [into Design Systems](https://intodesignsystems.gumroad.com/). [tweet](https://twitter.com/vitalyf/status/1575807063254450177). [The Ultimate Design Systems Resources List](https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/)
 
+[dialog = the easiest way to make a popup modal](https://www.youtube.com/watch?v=TAB_v6yBXIE&t=0s). [Styling modals just got easier!](https://www.youtube.com/watch?v=RO40Opyizeg).
+
 
 

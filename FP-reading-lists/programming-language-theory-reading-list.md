@@ -802,7 +802,7 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [a golden age of PL research](https://twitter.com/k4rtik/status/1569938898981163018)
 
-
+[if you put enough effort into the practice, you eventually discover entirely new problems for theory](https://twitter.com/ShriramKMurthi/status/1576047732334415872)
 
 
 

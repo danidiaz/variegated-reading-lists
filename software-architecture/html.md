@@ -8,4 +8,6 @@
 
 [<dialog> on MDN](https://developer.mozilla.org/en-us/docs/web/html/element/dialog). [HTML spec](https://html.spec.whatwg.org/multipage/interactive-elements.html#the-dialog-element). [DOM interface](https://html.spec.whatwg.org/multipage/interactive-elements.html#the-dialog-element) 
 
+[HTML living standard](https://html.spec.whatwg.org/multipage/)
+
 

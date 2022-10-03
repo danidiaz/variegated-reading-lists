@@ -1185,4 +1185,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [9 Puzzles to Convince You You Don't Understand Dependence](https://www.pathsensitive.com/2022/09/bet-you-cant-solve-these-9-dependency.html)
 
+[Undoing the harm of layers](https://nrkbeta.no/2017/04/29/undoing-the-harm-of-layers/). [tweet](https://twitter.com/bjartnes/status/1576826289398300672). [tweet](https://twitter.com/david_whitney/status/1576614587935268865).
+
+
+
 

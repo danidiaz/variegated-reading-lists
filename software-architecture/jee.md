@@ -269,8 +269,14 @@
 
 [With @springboot 3, we'll be able to rewrite queries in @SpringData repositories!](https://twitter.com/JPABuddy/status/1528685565423628288?t=OrvenTpTHB_gfwk0Va6sRA&s=03)
 
+[One-Stop Guide to Mapping with MapStruct](https://reflectoring.io/java-mapping-with-mapstruct/)
+
 [Object Mapping advanced features & QoL with Java](https://www.reddit.com/r/programming/comments/xj8w29/object_mapping_advanced_features_qol_with_java/)
 
 [A nice way to convert an id to a domain object in #SpringBoot using #SpringData and the DomainClassConverter](https://twitter.com/therealdanvega/status/1575498674960224257)
+
+[jee debugger tasks](https://twitter.com/GeoffreyDeSmet/status/1577262981427392514)
+
+
 
 

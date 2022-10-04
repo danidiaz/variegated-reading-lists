@@ -1187,6 +1187,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Undoing the harm of layers](https://nrkbeta.no/2017/04/29/undoing-the-harm-of-layers/). [tweet](https://twitter.com/bjartnes/status/1576826289398300672). [tweet](https://twitter.com/david_whitney/status/1576614587935268865).
 
+[Getting modules right with Domain-driven Design](https://twitter.com/spring_io/status/1576900677305077760). [slides](https://speakerdeck.com/mploed/getting-modules-right-with-domain-driven-design).
+
+[spring dependency injection guide](https://twitter.com/therealdanvega/status/1577110880936161280)
 
 
 

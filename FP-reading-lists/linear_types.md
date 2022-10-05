@@ -74,7 +74,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [some forms of quicksort](https://twitter.com/DiazCarrete/status/1537899021620064256)
 
-[Linearly qualified types: generic inference for capabilities and uniqueness](https://dl.acm.org/doi/10.1145/3547626)
+[Linearly qualified types: generic inference for capabilities and uniqueness](https://dl.acm.org/doi/10.1145/3547626). [video](https://www.youtube.com/watch?v=c8VZp-3eQU0).
 
 [linearity and uniqueness](https://www.reddit.com/r/haskell/comments/xptedd/comment/iq731iu/)
 

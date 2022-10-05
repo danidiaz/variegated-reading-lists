@@ -126,4 +126,5 @@
 
 [Async destructors, async genericity and completion futures](https://news.ycombinator.com/item?id=31580627)
 
+[Unsafe Rust is not C](https://twitter.com/steveklabnik/status/1577692166570352641)
 

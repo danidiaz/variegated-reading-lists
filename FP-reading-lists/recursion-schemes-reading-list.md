@@ -224,6 +224,8 @@
 
 [Elegant and performant recursion in Rust](https://lobste.rs/s/xfmbxf/elegant_performant_recursion_rust)
 
+[hylomorphism in Rust](https://twitter.com/inanna_malick/status/1577701421704544257)
+
 ## videos
 
 [Unifying Structured Recursion Schemes](https://www.youtube.com/watch?v=9EGYSb9vov8)
@@ -247,4 +249,5 @@
 [Hnix](https://www.reddit.com/r/haskell/comments/nstig5/hnix_nix_in_haskell_about_the_project_meeting/)
 
 [jet cli - structural json editor](https://www.reddit.com/r/haskell/comments/r4ec10/jet_cli_structural_editor_for_json/)
+
 

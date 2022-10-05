@@ -194,5 +194,7 @@ What's added to .profile:
 
 [starter workflow for GitHub pages](https://github.com/actions/starter-workflows/tree/main/pages). [GitHub Pages now uses Actions by default](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/)
 
+[watchman](https://news.ycombinator.com/item?id=33094829)
+
 
 

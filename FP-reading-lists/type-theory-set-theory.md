@@ -369,6 +369,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [How to code your own type theory](https://www.youtube.com/watch?v=DEj-_k2Nx6o)
 
+[Memories: Edinburgh LCF, Cambridge LCF, HOL88](https://lawrencecpaulson.github.io/2022/09/28/Cambridge_LCF.html). [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html).
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

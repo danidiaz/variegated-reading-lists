@@ -596,3 +596,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [more recursive definitions](https://www.joachim-breitner.de/blog/792-More_recursive_definitions)
 
+[formal reasoning about layered monadic interpreters](https://twitter.com/euisuny/status/1577491287829368832)
+

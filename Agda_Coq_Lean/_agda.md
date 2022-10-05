@@ -318,3 +318,7 @@ Identity, Parametrically](https://jesper.sikanda.be/files/leibniz-equality.pdf)
 
 [reasonable Agda is correct Haskell](https://twitter.com/agdakx/status/1554044242846257153)
 
+[Practical Generic Programming over a Universe of Native Datatypes (video)](https://twitter.com/agdakx/status/1577566371050815490)
+
+
+

@@ -622,3 +622,6 @@ https://react-query.tanstack.com/
 
 [optimizing compiler tweet](https://twitter.com/Eli_White/status/1576092090362011649)
 
+[useState: Asynchronous or what?](https://www.youtube.com/watch?v=RAJD4KpX8LA)
+
+

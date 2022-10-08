@@ -267,6 +267,7 @@ attempt to make equality reasonable again.”
 
 [ A logic is a kind of degenerate type theory. Namely, it's one where all (proof) terms are treated as equivalent. ](https://math.stackexchange.com/questions/2201972/curry-howard-correspondence-for-type-operators)
 
+[explanation of dependent types](https://www.reddit.com/r/haskell/comments/xyd19m/dependent_types_in_its_purest_form/)
 
 ## Proof assistants
 

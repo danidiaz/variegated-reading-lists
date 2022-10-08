@@ -1191,5 +1191,10 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [spring dependency injection guide](https://twitter.com/therealdanvega/status/1577110880936161280)
 
+[The Contract-Powered Data Platform](https://buz.dev/blog/the-contract-powered-data-platform)
+
+
+
+
 
 

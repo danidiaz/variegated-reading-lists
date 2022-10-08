@@ -598,3 +598,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [formal reasoning about layered monadic interpreters](https://twitter.com/euisuny/status/1577491287829368832)
 
+[modal types for Ocaml](https://twitter.com/yminsky/status/1578514412851580928)
+
+

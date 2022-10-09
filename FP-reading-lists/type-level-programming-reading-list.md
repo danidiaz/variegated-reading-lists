@@ -399,3 +399,5 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Expose KnownSymbol's method and SSymbol](https://github.com/haskell/core-libraries-committee/issues/85)
 
+[[ICFP'22] Staged Compilation with Two-Level Type Theory](https://www.youtube.com/watch?v=0BOQE48_qOM&list=PLyrlk8Xaylp4ee6ZAtFD9XMD2EZ02K9xK&index=24)
+

@@ -190,3 +190,7 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Testing in production as a major service is safe if you deploy your services in isolated cells with a reasonable blast radius.](https://twitter.com/rakyll/status/1562860808081530880)
     
+[Playwright now has new APIs inspired by Testing Library](https://twitter.com/diegohaz/status/1578567655493193728). [tag](https://github.com/microsoft/playwright/releases/tag/v1.27.0). [guiding principles for Testing Library](https://testing-library.com/docs/guiding-principles).    
+
+
+

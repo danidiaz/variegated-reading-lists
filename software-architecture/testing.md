@@ -192,5 +192,5 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
     
 [Playwright now has new APIs inspired by Testing Library](https://twitter.com/diegohaz/status/1578567655493193728). [tag](https://github.com/microsoft/playwright/releases/tag/v1.27.0). [guiding principles for Testing Library](https://testing-library.com/docs/guiding-principles).    
 
-
+[no to snapshot tests](https://twitter.com/ksylor/status/1578503924218482688)
 

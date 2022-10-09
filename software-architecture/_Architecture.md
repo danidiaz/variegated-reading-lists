@@ -1193,7 +1193,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [The Contract-Powered Data Platform](https://buz.dev/blog/the-contract-powered-data-platform)
 
-
+[Architecting in health tech](https://aws.amazon.com/es/blogs/architecture/lets-architect-architecting-in-health-tech/)
 
 
 

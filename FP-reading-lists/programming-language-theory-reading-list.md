@@ -808,5 +808,8 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [playlist](https://discourse.haskell.org/t/the-icfp22-playlist-has-been-published-to-youtube/5138)
 
+## MuniHac 2022
+
+[playlist](https://www.youtube.com/playlist?list=PLxxF72uPfQVRQXih84omWRmacz1lwejc6)
 
 

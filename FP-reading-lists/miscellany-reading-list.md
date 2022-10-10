@@ -600,4 +600,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [modal types for Ocaml](https://twitter.com/yminsky/status/1578514412851580928)
 
+[Haskell Cake How to bake reusable components](https://okmij.org/ftp/Haskell/ScalaCake/components.pdf)
 

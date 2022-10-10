@@ -55,3 +55,5 @@ perform “deep” instrumentation of the interpreter
 
 [Lenses for Tree Traversals Redux](https://www.reddit.com/r/haskell/comments/vaurfc/lenses_for_tree_traversals_redux/)
 
+[quines and metaprogramming](https://www.youtube.com/watch?v=Rnji4rZT51s&list=PLxxF72uPfQVRQXih84omWRmacz1lwejc6&index=6). [links](https://www.reddit.com/r/haskell/comments/xzo8ge/comment/irs91j6/).
+

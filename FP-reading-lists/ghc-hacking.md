@@ -227,4 +227,5 @@ Stuff about the heap:
 
 [sharing is caring (about leaks)](https://www.reddit.com/r/haskell/comments/xptedd/linearity_and_eventual_uniqueness/)
 
+[Improvements in observability in GHC 9.6](https://www.youtube.com/watch?v=vCv1vnY87NI&list=PLxxF72uPfQVRQXih84omWRmacz1lwejc6&index=7)
 

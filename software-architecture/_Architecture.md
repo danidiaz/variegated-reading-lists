@@ -1195,6 +1195,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Architecting in health tech](https://aws.amazon.com/es/blogs/architecture/lets-architect-architecting-in-health-tech/)
 
-
+[Haskell Cake How to bake reusable components](https://twitter.com/jjcarett2/status/1579459583554498560)
 
 

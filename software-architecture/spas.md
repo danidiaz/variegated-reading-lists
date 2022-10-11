@@ -87,3 +87,8 @@
 
 > At the moment, we only support JSON Schema for the Schema Object, meaning you can only describe JSON payloads (and to some limited extent XMLs). Had we supported things like XSD (which we may in the future), that would allow you to define schemas (or something similar) for additional media types.
 
+[Progressively Enhanced Single Page Apps](https://twitter.com/kentcdodds/status/1579854003042516993)
+
+
+
+

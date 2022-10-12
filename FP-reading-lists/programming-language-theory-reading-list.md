@@ -804,6 +804,8 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [if you put enough effort into the practice, you eventually discover entirely new problems for theory](https://twitter.com/ShriramKMurthi/status/1576047732334415872)
 
+[operational and denotational semantics](https://twitter.com/jonmsterling/status/1580295434060238849)
+
 ## ICFP’22 
 
 [playlist](https://discourse.haskell.org/t/the-icfp22-playlist-has-been-published-to-youtube/5138)

@@ -194,3 +194,4 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [no to snapshot tests](https://twitter.com/ksylor/status/1578503924218482688)
 
+[ Mathematics of debugging a Haskell program](https://www.youtube.com/watch?v=b02ce8oKnNY&list=PLxxF72uPfQVRQXih84omWRmacz1lwejc6&index=4)

@@ -89,6 +89,6 @@
 
 [Progressively Enhanced Single Page Apps](https://twitter.com/kentcdodds/status/1579854003042516993)
 
-
+[Modern frontends with Thymeleaf and htmx](https://www.youtube.com/watch?v=POK4Zp1oRN8)
 
 

@@ -277,6 +277,6 @@
 
 [jee debugger tasks](https://twitter.com/GeoffreyDeSmet/status/1577262981427392514)
 
-
+[ORM, 20 years later](https://www.youtube.com/watch?v=pc6QIwx0EL0)
 
 

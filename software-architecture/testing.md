@@ -198,5 +198,7 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Playwright Your Next Java Test Framework for automating Web tests](https://www.youtube.com/watch?v=9rVKe5vjVTs)
 
+[Don’t Do E2E Testing](https://www.youtube.com/watch?v=QFCHSEHgqFE)
+
 
 

@@ -1143,6 +1143,14 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > There's a relevant term called "DDD Trilemma" (I like it because it's easy to find back articles on it). It states that you can't have both a pure, complete and performant domain.
 
+[What is a Collection of Aggregates Referred to in Domain Driven Design?](https://softwareengineering.stackexchange.com/questions/306871/what-is-a-collection-of-aggregates-referred-to-in-domain-driven-design)
+
+[DDD: Aggregate Roots](https://stackoverflow.com/questions/2558469/ddd-aggregate-roots)
+
+[DDD: Is an aggregate root responsible for deleting its child entities from their repository?](https://softwareengineering.stackexchange.com/questions/370185/ddd-is-an-aggregate-root-responsible-for-deleting-its-child-entities-from-their). [Don’t Delete – Just Don’t (2009)](https://udidahan.com/2009/09/01/dont-delete-just-dont/). [How is a delete of an aggregate root handled in DDD?](https://stackoverflow.com/questions/8578943/how-is-a-delete-of-an-aggregate-root-handled-in-ddd)
+
+[Where to put Created date and Created by in DDD?](https://stackoverflow.com/questions/12940954/where-to-put-created-date-and-created-by-in-ddd). [DDD: Where should I set modified date and modified by? Repository or application service?](https://stackoverflow.com/questions/37877448/ddd-where-should-i-set-modified-date-and-modified-by-repository-or-application). [Domain model purity and the current time](https://enterprisecraftsmanship.com/posts/domain-model-purity-current-time/).
+
 [Thoughts about Layered Architecture - Mapping efficiently with SQL](https://twitter.com/javahippie/status/1522176560165527553)
 
 [Why billing systems are a nightmare for engineers](https://news.ycombinator.com/item?id=31424450)

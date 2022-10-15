@@ -66,4 +66,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Fixing TypeScript's Blindspot: Runtime Typechecking](https://www.youtube.com/watch?v=rY_XqfSHock)
 
+[adding optional properties](https://twitter.com/housecor/status/1580600449367183360)
+
 

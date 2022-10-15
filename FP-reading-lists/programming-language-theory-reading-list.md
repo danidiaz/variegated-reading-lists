@@ -806,6 +806,8 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [operational and denotational semantics](https://twitter.com/jonmsterling/status/1580295434060238849)
 
+[The Missing Prelude to The Little Typer's Trickiest Chapter](https://lobste.rs/s/dhpgel/missing_prelude_little_typer_s_trickiest)
+
 ## ICFP’22 
 
 [playlist](https://discourse.haskell.org/t/the-icfp22-playlist-has-been-published-to-youtube/5138)

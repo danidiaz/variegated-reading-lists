@@ -217,4 +217,12 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Postgres data flow](https://www.crunchydata.com/blog/postgres-data-flow)
 
+[Postgres Full Text Search vs. the Rest](https://news.ycombinator.com/item?id=33203370)
+
+
+
+
+
+
+
 

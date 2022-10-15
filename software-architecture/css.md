@@ -432,5 +432,8 @@ https://twitter.com/tailwindcss
 
 [dialog = the easiest way to make a popup modal](https://www.youtube.com/watch?v=TAB_v6yBXIE&t=0s). [Styling modals just got easier!](https://www.youtube.com/watch?v=RO40Opyizeg).
 
+[When going somewhere does a thing: on links and buttons](https://news.ycombinator.com/item?id=33169469)
+
+
 
 

@@ -91,4 +91,6 @@
 
 [Modern frontends with Thymeleaf and htmx](https://www.youtube.com/watch?v=POK4Zp1oRN8)
 
+[Remix technical explanation](https://remix.run/docs/en/v1/pages/technical-explanation)
+
 

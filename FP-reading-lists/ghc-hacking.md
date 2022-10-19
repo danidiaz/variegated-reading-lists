@@ -229,3 +229,6 @@ Stuff about the heap:
 
 [Improvements in observability in GHC 9.6](https://www.youtube.com/watch?v=vCv1vnY87NI&list=PLxxF72uPfQVRQXih84omWRmacz1lwejc6&index=7)
 
+[ghcjs and asterius](https://www.reddit.com/r/haskell/comments/xtph0p/comment/iqv5mcq/). [more](https://www.reddit.com/r/haskell/comments/y7wuil/status_of_ghcjs_for_larger_projects/).
+
+

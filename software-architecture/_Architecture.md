@@ -1211,6 +1211,10 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Observability with Spring Boot 3](https://spring.io/blog/2022/10/12/observability-with-spring-boot-3). [Tweet](https://twitter.com/MGrzejszczak/status/1580309749215637505?t=EQi2jJXMrZkKAuakmL2J1Q&s=03). [bulding observability](https://www.youtube.com/watch?v=UJA4PGKny2k). [tweet](https://twitter.com/mat4nier/status/1580333644039991298?t=FMWA5LSBsx0yuJW3LWszuQ&s=03)
 
+[YAGNI exceptions](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
+
+[Real-World Engineering Challenges #6: Migrations](https://newsletter.pragmaticengineer.com/p/real-world-engineering-challenges). [HN](https://news.ycombinator.com/item?id=33232580).
+
 
 
 

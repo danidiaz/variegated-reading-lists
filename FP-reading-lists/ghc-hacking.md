@@ -231,4 +231,6 @@ Stuff about the heap:
 
 [ghcjs and asterius](https://www.reddit.com/r/haskell/comments/xtph0p/comment/iqv5mcq/). [more](https://www.reddit.com/r/haskell/comments/y7wuil/status_of_ghcjs_for_larger_projects/).
 
+[about the rapier](https://www.reddit.com/r/haskell/comments/y8o9ot/understanding_the_rapier_algorithm_of_the_ghc/)
+
 

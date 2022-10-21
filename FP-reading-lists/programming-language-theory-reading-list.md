@@ -816,4 +816,10 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [playlist](https://www.youtube.com/playlist?list=PLxxF72uPfQVRQXih84omWRmacz1lwejc6)
 
+## Haskell Symposium 2022
+
+[playlist](https://www.youtube.com/playlist?list=PLyrlk8Xaylp4zxdY-QEh_g6CHlhkAsBya)
+
+
+
 

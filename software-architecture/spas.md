@@ -93,4 +93,6 @@
 
 [Remix technical explanation](https://remix.run/docs/en/v1/pages/technical-explanation)
 
+[htmx demo](https://twitter.com/htmx_org/status/1583471247043592193)
+
 

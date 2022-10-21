@@ -606,4 +606,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > One could see it as a theory of dependent records where the morphisms are substitutions (with renaming being a crucial sub-case)
 
+[Internalised Guarded Recursion for Equational Reasoning (traversals for infinite structures)](https://discourse.haskell.org/t/internalised-guarded-recursion-for-equational-reasoning/5207)
+
 

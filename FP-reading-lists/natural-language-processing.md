@@ -155,6 +155,8 @@ http://www.coli.uni-saarland.de/courses/underspecification-06/slides/01-mg.pdf
 
 [Automated Translation of Natural Language Requirements to Runtime Monitors](https://link.springer.com/chapter/10.1007/978-3-030-99524-9_21). [Reddit](https://www.reddit.com/r/haskell/comments/u2fkkg/ann_copilot_38_ogma_102_new_papers/).
 
+[Old school text generation](https://github.com/naver/lispe/wiki/6.14-Text-Generation-LispE-with-a-Grammar)
+
 ## Libraries
 
 [species](http://hackage.haskell.org/package/species)

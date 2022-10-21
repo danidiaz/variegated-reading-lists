@@ -602,3 +602,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Haskell Cake How to bake reusable components](https://okmij.org/ftp/Haskell/ScalaCake/components.pdf)
 
+[takes names very seriously](https://twitter.com/jjcarett2/status/1583442443025801218)
+
+> One could see it as a theory of dependent records where the morphisms are substitutions (with renaming being a crucial sub-case)
+
+

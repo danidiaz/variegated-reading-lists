@@ -233,4 +233,6 @@ Stuff about the heap:
 
 [about the rapier](https://www.reddit.com/r/haskell/comments/y8o9ot/understanding_the_rapier_algorithm_of_the_ghc/)
 
+[a comparison between GHC and Racket compilation models](https://www.youtube.com/watch?v=H0ATppFmt2o)
+
 

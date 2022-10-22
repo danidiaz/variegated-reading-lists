@@ -1215,6 +1215,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Real-World Engineering Challenges #6: Migrations](https://newsletter.pragmaticengineer.com/p/real-world-engineering-challenges). [HN](https://news.ycombinator.com/item?id=33232580).
 
+[Using Record Types to Build Better Domain Models](https://www.youtube.com/watch?v=DyJ4_a84Hrs) 
 
 
 

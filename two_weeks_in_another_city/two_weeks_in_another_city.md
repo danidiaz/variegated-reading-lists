@@ -722,9 +722,12 @@ Bernini, his life and his Rome
 
 [Roguelike Celebration 2021](https://news.ycombinator.com/item?id=28890164)
 
+[Roguelike Celebration 2022](https://lobste.rs/s/wk72zq/roguelike_celebration_2022_festival) 
+
 [The Further Text Adventures of Scott Adams](https://news.ycombinator.com/item?id=29330015)
 
 [Clockwork Games and Time Loops](https://www.youtube.com/watch?v=CI-4cumMC-Y)
+
 
 ## Lists & Bibliographies
 

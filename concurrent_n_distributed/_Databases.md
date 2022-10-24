@@ -821,6 +821,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [the slotted counter pattern](https://planetscale.com/blog/the-slotted-counter-pattern) [HN](https://news.ycombinator.com/item?id=32307947)
 
+[The evolution of the data engineer role](https://news.ycombinator.com/item?id=33317126)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

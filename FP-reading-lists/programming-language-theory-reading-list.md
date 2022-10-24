@@ -808,6 +808,13 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [The Missing Prelude to The Little Typer's Trickiest Chapter](https://lobste.rs/s/dhpgel/missing_prelude_little_typer_s_trickiest)
 
+[Call-by-push-value is...](https://twitter.com/ProfMaxNew/status/1584530793933643776)
+
+> A calculus embedding CBV and CBN
+> A syntax for a strong adjunction
+> A metalanguage for defining abstract machines
+> A typed IR extending CPS/ANF with stack manipulation
+
 ## ICFP’22 
 
 [playlist](https://discourse.haskell.org/t/the-icfp22-playlist-has-been-published-to-youtube/5138)

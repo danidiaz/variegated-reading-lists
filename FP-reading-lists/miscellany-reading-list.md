@@ -608,4 +608,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Internalised Guarded Recursion for Equational Reasoning (traversals for infinite structures)](https://discourse.haskell.org/t/internalised-guarded-recursion-for-equational-reasoning/5207)
 
+[Lazily Grouping in Haskell](https://doisinkidney.com/posts/2022-10-17-lazy-group-on.html)
 

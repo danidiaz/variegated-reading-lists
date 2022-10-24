@@ -774,5 +774,7 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [Nix Flakes in Production: What, Why and How](https://www.youtube.com/watch?v=o1Y7rWrPEO8)
 
+[How to correctly cache build-time dependencies using Nix](https://www.haskellforall.com/2022/10/how-to-correctly-cache-build-time.html)
+
 
 

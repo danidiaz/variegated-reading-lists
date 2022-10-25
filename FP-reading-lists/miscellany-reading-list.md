@@ -610,3 +610,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Lazily Grouping in Haskell](https://doisinkidney.com/posts/2022-10-17-lazy-group-on.html)
 
+[Eiger: Auditable, executable, flexible legal regulations](https://twitter.com/DiazCarrete/status/1584895981837221889)
+
+

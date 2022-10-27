@@ -317,6 +317,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 ["Binders by day, labels by night" ](https://maciejpirog.github.io/papers/binders-labels.pdf). [Embedding of "Binders by day, labels by night" into "First-class names for effect handlers" in Agda (WIP)](https://gist.github.com/Lysxia/12a8d0f1bd6af44faf40e736caa7b371).
 
+[The Foil: Capture-Avoiding Substitution With No Sharp Edges](https://arxiv.org/pdf/2210.04729.pdf) (related to the Rapier)
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

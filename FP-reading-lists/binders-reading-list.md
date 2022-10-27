@@ -319,6 +319,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [The Foil: Capture-Avoiding Substitution With No Sharp Edges](https://arxiv.org/pdf/2210.04729.pdf) (related to the Rapier)
 
+> GHC’s version of the Barendregt convention, “the rapier” [9]. It‘s elegant and it’s fast. It’s also stateless
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

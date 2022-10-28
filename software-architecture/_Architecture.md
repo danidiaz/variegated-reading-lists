@@ -1217,7 +1217,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Using Record Types to Build Better Domain Models](https://www.youtube.com/watch?v=DyJ4_a84Hrs) 
 
-
+[Application deployment and testing strategies](https://cloud.google.com/architecture/application-deployment-and-testing-strategies).
 
 
 

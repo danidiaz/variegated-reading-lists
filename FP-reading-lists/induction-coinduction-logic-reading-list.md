@@ -131,4 +131,5 @@ Predicative and Classical Systems of Analysis](https://math.stanford.edu/~feferm
 
 [Coálgebras, coinducción y computación, una charla introductoria](https://www.youtube.com/watch?v=FfwD7iPeEv8&t=1280s)
 
+[[Haskell'22] Coinduction Inductively: Mechanizing Coinductive Proofs in Liquid Haskell](https://www.youtube.com/watch?v=7dUDCVgX4YE)
 

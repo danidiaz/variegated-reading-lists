@@ -219,9 +219,9 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Postgres Full Text Search vs. the Rest](https://news.ycombinator.com/item?id=33203370)
 
+[Push-based outbox pattern with Postgres logical replication](https://news.ycombinator.com/item?id=33370649)
 
-
-
+[Postgres: Safely renaming a table with no downtime using updatable views](https://brandur.org/fragments/postgres-table-rename)
 
 
 

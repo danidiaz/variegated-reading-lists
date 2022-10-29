@@ -317,6 +317,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 ["Binders by day, labels by night" ](https://maciejpirog.github.io/papers/binders-labels.pdf). [Embedding of "Binders by day, labels by night" into "First-class names for effect handlers" in Agda (WIP)](https://gist.github.com/Lysxia/12a8d0f1bd6af44faf40e736caa7b371).
 
+[about the rapier](https://www.reddit.com/r/haskell/comments/y8o9ot/understanding_the_rapier_algorithm_of_the_ghc/). [Understanding the rapier algorithm of the GHC inliner](https://www.reddit.com/r/haskell/comments/yez59v/comment/iu5mft9/)
+
 [The Foil: Capture-Avoiding Substitution With No Sharp Edges](https://arxiv.org/pdf/2210.04729.pdf) (related to the Rapier)
 
 > GHC’s version of the Barendregt convention, “the rapier” [9]. It‘s elegant and it’s fast. It’s also stateless
@@ -347,5 +349,4 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [Namespaced DeBruijn Indices](https://twitter.com/sf_haskell/status/1517169113172365312)
 
-[about the rapier](https://www.reddit.com/r/haskell/comments/y8o9ot/understanding_the_rapier_algorithm_of_the_ghc/)
 

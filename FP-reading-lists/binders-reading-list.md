@@ -323,6 +323,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 > GHC’s version of the Barendregt convention, “the rapier” [9]. It‘s elegant and it’s fast. It’s also stateless
 
+> The free variables of term are a runtime property, but we can overapproximate it statically by turning it into a property of scopes: if Scope l contains all the names of Scope n, and the extension from n to l shadows none of them, then any term :: Expr n is safe to sink to l , regardless of its free variables. This is the critical insight used in the rapier [9].
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

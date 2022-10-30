@@ -196,5 +196,6 @@ What's added to .profile:
 
 [watchman](https://news.ycombinator.com/item?id=33094829)
 
+[the perfect commit](https://lobste.rs/s/tgen6r/perfect_commit)
 
 

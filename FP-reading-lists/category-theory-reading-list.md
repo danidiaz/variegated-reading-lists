@@ -947,4 +947,5 @@ languages
 
 [comonads](https://twitter.com/StringDiagram/status/1586725693504774145)
 
+[a value x:X is not the same thing as a value 'x' : 1-X](https://twitter.com/PTOOP/status/1587521441200852993)
 

@@ -279,4 +279,8 @@
 
 [ORM, 20 years later](https://www.youtube.com/watch?v=pc6QIwx0EL0)
 
+[Migrating to Spring Boot 3](https://twitter.com/jkuipers/status/1587208557639892996)
+
+[A Hipster History of CORS](https://www.youtube.com/watch?v=0YJ-yhoJh2I)
+
 

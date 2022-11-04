@@ -283,4 +283,6 @@
 
 [A Hipster History of CORS](https://www.youtube.com/watch?v=0YJ-yhoJh2I)
 
+[Spring + Kotlin](https://twitter.com/kotlin/status/1588506350463721474)
+
 

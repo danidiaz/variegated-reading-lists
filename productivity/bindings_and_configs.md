@@ -198,4 +198,5 @@ What's added to .profile:
 
 [the perfect commit](https://lobste.rs/s/tgen6r/perfect_commit)
 
+[Developing on Remote Machines using SSH and Visual Studio Code ](https://lobste.rs/s/x1vu8l/developing_on_remote_machines_using_ssh)
 

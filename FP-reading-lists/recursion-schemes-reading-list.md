@@ -228,6 +228,8 @@
 
 [Defining a custom recursion scheme to manipulate two mutually-recursive types, in the context of a toy bidirectional type checker](https://twitter.com/haskell_cat/status/1586567576741617664)
 
+[uniplate is a traversal](https://www.reddit.com/r/haskell/comments/ylrab9/uniplate_is_a_traversal/)
+
 ## videos
 
 [Unifying Structured Recursion Schemes](https://www.youtube.com/watch?v=9EGYSb9vov8)

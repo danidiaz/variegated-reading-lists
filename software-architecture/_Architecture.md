@@ -1221,6 +1221,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Package by domain/business concert rather than technicalities](https://twitter.com/gunnarmorling/status/1588812750611890176)
 
+[Preemptive Pluralization is (Probably) Not Evil](https://www.swyx.io/preemptive-pluralization)
 
 
 

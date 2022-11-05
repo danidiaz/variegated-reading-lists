@@ -269,6 +269,8 @@ attempt to make equality reasonable again.”
 
 [explanation of dependent types](https://www.reddit.com/r/haskell/comments/xyd19m/dependent_types_in_its_purest_form/)
 
+[denotational semantics of higher-order store](https://twitter.com/jonmsterling/status/1588891937607938049)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

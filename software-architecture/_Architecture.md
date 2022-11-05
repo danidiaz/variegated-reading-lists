@@ -1219,6 +1219,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Application deployment and testing strategies](https://cloud.google.com/architecture/application-deployment-and-testing-strategies).
 
+[Package by domain/business concert rather than technicalities](https://twitter.com/gunnarmorling/status/1588812750611890176)
+
 
 
 

@@ -78,4 +78,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [linearity and uniqueness](https://www.reddit.com/r/haskell/comments/xptedd/comment/iq731iu/)
 
+[LTL : little tricky logics](https://blog.brownplt.org/2022/11/05/little-tricky-logics.html). [tweet](https://twitter.com/ShriramKMurthi/status/1589117327786012672)
+
+
 

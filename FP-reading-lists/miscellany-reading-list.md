@@ -612,4 +612,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Eiger: Auditable, executable, flexible legal regulations](https://twitter.com/DiazCarrete/status/1584895981837221889)
 
+[What makes products great is great storage systems, everything else is fixable](https://twitter.com/rakyll/status/1589460438039003136)
+
 

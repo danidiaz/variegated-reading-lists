@@ -289,4 +289,8 @@
 
 > 1427 pages 🤯
 
+[ttcli](https://twitter.com/wimdeblauwe/status/1589520033822408704)
+
+> command line tool to run on top of a fresh Spring Boot app to quickly setup Thymeleaf with live reload, webjars, and Bootstrap or Tailwind CSS as CSS framework
+
 

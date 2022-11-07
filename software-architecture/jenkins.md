@@ -49,4 +49,5 @@
     run: |
       sudo apt-get install libsqlite3-dev
 
+[Fast builds, secure builds. Choose two.](https://stripe.com/blog/fast-secure-builds-choose-two)
 

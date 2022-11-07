@@ -285,4 +285,8 @@
 
 [Spring + Kotlin](https://twitter.com/kotlin/status/1588506350463721474)
 
+[Spring framework 6.0.0 reference PDF](https://twitter.com/maciejwalkowiak/status/1589544162650882048)
+
+> 1427 pages 🤯
+
 

@@ -244,6 +244,8 @@
 
 [A tail recursive machine for the untyped lambda calculus, derived purely mechanically from the naive version by defunctionalization](https://twitter.com/paf31/status/1416041653144457216).
 
+[Structured Traversals for (Mutually) Recursive Algebraic Data Types](https://www.youtube.com/watch?v=Xk_inDd0Pgk&t=1s)
+
 ## software
 
 [recursion-schemes](http://hackage.haskell.org/package/recursion-schemes). [recursion-schemes-5.1](https://twitter.com/haskell_cat/status/1073935341944537089).

@@ -614,4 +614,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [What makes products great is great storage systems, everything else is fixable](https://twitter.com/rakyll/status/1589460438039003136)
 
+[polymorphic inline caches and Self](https://dubroy.com/blog/self/). [wikipedia](https://en.wikipedia.org/wiki/Inline_caching#Polymorphic_inline_caching).
+
 

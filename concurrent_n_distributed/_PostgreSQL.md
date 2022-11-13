@@ -223,6 +223,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Postgres: Safely renaming a table with no downtime using updatable views](https://brandur.org/fragments/postgres-table-rename)
 
-
+[Implementing failover of logical replication slots](https://twitter.com/gunnarmorling/status/1591736378114523138)
 
 

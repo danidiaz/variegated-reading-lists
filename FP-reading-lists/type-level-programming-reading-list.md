@@ -403,5 +403,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [How to Safely Use Extensionality in Liquid Haskell](https://www.youtube.com/watch?v=03RV5gJ7NKg&list=PLyrlk8Xaylp4zxdY-QEh_g6CHlhkAsBya&index=10)
 
+[STAGED PROGRAMMING WITH TYPECLASSES](https://www.tweag.io/blog/2022-11-15-unrolling-with-typeclasses/)
 
 

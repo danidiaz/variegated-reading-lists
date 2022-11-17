@@ -374,6 +374,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [Memories: Edinburgh LCF, Cambridge LCF, HOL88](https://lawrencecpaulson.github.io/2022/09/28/Cambridge_LCF.html). [Memories: Edinburgh ML to Standard ML](https://lawrencecpaulson.github.io/2022/10/05/Standard_ML.html).
 
+[ the subtle role of large elimination in type theory](https://mathstodon.xyz/@aws/109357101990966981)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

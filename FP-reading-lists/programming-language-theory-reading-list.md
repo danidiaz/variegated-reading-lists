@@ -815,6 +815,8 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 > A metalanguage for defining abstract machines
 > A typed IR extending CPS/ANF with stack manipulation
 
+[Intrinsically-Typed Definitional à la Carte](https://twitter.com/JulesJacobs5/status/1593241199309033472)
+
 ## ICFP’22 
 
 [playlist](https://discourse.haskell.org/t/the-icfp22-playlist-has-been-published-to-youtube/5138)

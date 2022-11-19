@@ -57,3 +57,8 @@ perform “deep” instrumentation of the interpreter
 
 [quines and metaprogramming](https://www.youtube.com/watch?v=Rnji4rZT51s&list=PLxxF72uPfQVRQXih84omWRmacz1lwejc6&index=6). [links](https://www.reddit.com/r/haskell/comments/xzo8ge/comment/irs91j6/).
 
+[catamorphisms are optics with a trivial backward pass.](catamorphisms are optics with a trivial backward pass.)
+
+> the residual
+
+

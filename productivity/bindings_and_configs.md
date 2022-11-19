@@ -200,3 +200,7 @@ What's added to .profile:
 
 [Developing on Remote Machines using SSH and Visual Studio Code ](https://lobste.rs/s/x1vu8l/developing_on_remote_machines_using_ssh)
 
+[how to prevent osx from creating a new desktop/space when I fullscreen an app?](https://www.reddit.com/r/osx/comments/ctqaa4/anyone_know_how_to_prevent_osx_from_creating_a/). [mac split view](https://eshop.macsales.com/blog/83087-how-to-use-all-the-awesome-window-management-features-in-macos/)
+
+
+

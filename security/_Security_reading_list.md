@@ -634,5 +634,10 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Securing SPAs with Spring](https://www.youtube.com/watch?v=AE_Srj6r4Rc)
 
+[Hardware Selection and Logistics (Passwordless Authentication Series, #1)](https://blog.palantir.com/hardware-selection-and-logistics-passwordless-authentication-series-1-cef0a4550fab)
+
+[Infosec Exchange](https://infosec.exchange/home)
+
+
 
 

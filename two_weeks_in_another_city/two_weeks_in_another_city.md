@@ -672,6 +672,8 @@ Bernini, his life and his Rome
 
 [What it takes to make a game by yourself ](https://news.ycombinator.com/item?id=32851196)
 
+[dialogue system pentiment](https://twitter.com/jesawyer/status/1594331385879068672)
+
 ## Podcasts
 
 - [Wie der Raum unser Verhalten bestimmt](http://www.deutschlandfunkkultur.de/colin-ellard-psychogeografie-wie-der-raum-unser-verhalten.1270.de.html?dram:article_id=385482)

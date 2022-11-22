@@ -817,6 +817,8 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [Intrinsically-Typed Definitional à la Carte](https://twitter.com/JulesJacobs5/status/1593241199309033472)
 
+[Hefty Algebras: Modular Elaboration of Higher-Order Algebraic Effects](https://www.reddit.com/r/haskell/comments/z1s907/hefty_algebras_modular_elaboration_of_higherorder/)
+
 ## ICFP’22 
 
 [playlist](https://discourse.haskell.org/t/the-icfp22-playlist-has-been-published-to-youtube/5138)
@@ -829,6 +831,8 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [playlist](https://www.youtube.com/playlist?list=PLyrlk8Xaylp4zxdY-QEh_g6CHlhkAsBya)
 
+## Haskel Love 2021
 
+[playlist](https://www.youtube.com/playlist?list=PLBqWQH1MiwBTwo2wrwINAorzXRumxO41s)
 
 

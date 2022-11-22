@@ -1223,7 +1223,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Preemptive Pluralization is (Probably) Not Evil](https://www.swyx.io/preemptive-pluralization)
 
-
+[Always use closed, open) intervals](https://lobste.rs/s/8i19nz/always_use_closed_open_intervals)
 
 
 

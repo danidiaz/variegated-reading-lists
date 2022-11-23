@@ -730,6 +730,7 @@ Bernini, his life and his Rome
 
 [Clockwork Games and Time Loops](https://www.youtube.com/watch?v=CI-4cumMC-Y)
 
+[Essential books for people working on Game & Virtual Cities](https://twitter.com/gnomeslair/status/1595448930329919489)
 
 ## Lists & Bibliographies
 

@@ -732,6 +732,8 @@ Bernini, his life and his Rome
 
 [Essential books for people working on Game & Virtual Cities](https://twitter.com/gnomeslair/status/1595448930329919489)
 
+[mining maps](https://twitter.com/Thomas__Morel/status/1596067260510109696)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

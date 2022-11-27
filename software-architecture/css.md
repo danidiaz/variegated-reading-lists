@@ -252,6 +252,8 @@ https://twitter.com/tailwindcss
 
 [Flexbox or grid - How to decide?](https://www.youtube.com/watch?v=3elGSZSWTbM)
 
+> flexbox respects "intrinsic sizing" more than grid
+
 [height](https://css-tricks.com/almanac/properties/h/height/)
 
 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)

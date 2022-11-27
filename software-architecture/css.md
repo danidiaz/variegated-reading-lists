@@ -466,5 +466,6 @@ https://twitter.com/tailwindcss
 
 > when we do this in grid, the parent is what's in charge, and there's really no influence coming from the children [...] it's going to be more consistent
 
+[repeat ()](https://developer.mozilla.org/en-US/docs/Web/CSS/repeat)
 
 

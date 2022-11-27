@@ -438,3 +438,24 @@ https://twitter.com/tailwindcss
 
 [the state of css 2022](https://web.dev/state-of-css-2022/)
 
+[Z-index and stacking contexts](https://web.dev/learn/css/z-index/)
+
+> Say you've got a couple of elements that are absolutely positioned, and are supposed to be positioned on top of each other
+
+> To explain what a composite layer is, imagine a web page is a canvas.
+
+> The z-index of elements inside of a stacking context are always relative to the parent's current order in its own stacking context.
+
+[Layers and how to force them](https://surma.dev/things/forcing-layers/)
+
+> - Download and parse HTML, generating a DOM tree.
+> - Process styling to lay out the document, generating a “layout tree”.
+> - Turn the layout tree into paint instructions, generating a “paint tree”.
+> - Generate a canvas big enough to hold the entire document.
+> - Execture all those paint instruction on that canvas.
+
+> Wouldn’t it be nicer if we painted the rotating element on a transparent
+> piece of film? This way we could keep the document’s canvas around and reuse
+> it, only throwing away that tiny piece of film. That’s what “layers” do.
+
+

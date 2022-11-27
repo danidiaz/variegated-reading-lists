@@ -460,5 +460,9 @@ https://twitter.com/tailwindcss
 
 [4 ways to deal with overflowing text](https://www.youtube.com/watch?v=6Nv0weHy7t0). [overflow-wrap](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap)
 
+[Why I use grid over flexbox for this common layout](https://youtu.be/ctHE8EXEoj8?t=290)
+
+> when we do this in grid, the parent is what's in charge, and there's really no influence coming from the children [...] it's going to be more consistent
+
 
 

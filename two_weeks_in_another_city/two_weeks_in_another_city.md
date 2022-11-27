@@ -734,6 +734,8 @@ Bernini, his life and his Rome
 
 [mining maps](https://twitter.com/Thomas__Morel/status/1596067260510109696)
 
+[Pentiment's text animations](https://www.rockpapershotgun.com/pentiments-text-animations-are-my-new-happy-place)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

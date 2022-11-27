@@ -458,7 +458,7 @@ https://twitter.com/tailwindcss
 > piece of film? This way we could keep the document’s canvas around and reuse
 > it, only throwing away that tiny piece of film. That’s what “layers” do.
 
-[4 ways to deal with overflowing text](https://www.youtube.com/watch?v=6Nv0weHy7t0)
+[4 ways to deal with overflowing text](https://www.youtube.com/watch?v=6Nv0weHy7t0). [overflow-wrap](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap)
 
 
 

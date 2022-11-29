@@ -624,4 +624,5 @@ https://react-query.tanstack.com/
 
 [useState: Asynchronous or what?](https://www.youtube.com/watch?v=RAJD4KpX8LA)
 
+[prop drilling](https://twitter.com/housecor/status/1597575317488824320). [React Context](https://twitter.com/t3dotgg/status/1597303632252530689).
 

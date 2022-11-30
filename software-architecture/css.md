@@ -468,4 +468,8 @@ https://twitter.com/tailwindcss
 
 [repeat ()](https://developer.mozilla.org/en-US/docs/Web/CSS/repeat)
 
+[preventing grid blowout](https://css-tricks.com/preventing-a-grid-blowout/)
+
+> That 1fr column will take up any remaining space left behind by the fixed 300px column. It’s true that the auto value would do the same, but auto isn’t quite as robust since it’s size is based on the content inside. So, if you had too little content, then your column might not fill the entire space you want it to. But while 1fr is slightly more robust, it won’t quite protect you from content that is too big! 
+
 

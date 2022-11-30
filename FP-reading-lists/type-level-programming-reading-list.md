@@ -405,4 +405,9 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [STAGED PROGRAMMING WITH TYPECLASSES](https://www.tweag.io/blog/2022-11-15-unrolling-with-typeclasses/)
 
+[Teaching GHC how to play Minesweeper](https://github.com/effectfully-ou/sketches/tree/master/mineunifier). [reddit](https://www.reddit.com/r/haskell/comments/z86rwf/teaching_ghc_how_to_play_minesweeper/).
+
+
+
+
 

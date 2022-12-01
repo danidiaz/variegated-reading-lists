@@ -235,4 +235,6 @@ Stuff about the heap:
 
 [a comparison between GHC and Racket compilation models](https://www.youtube.com/watch?v=H0ATppFmt2o)
 
+[Profiling Memory Usage With eventlog2html and ghc-debug](https://www.youtube.com/watch?v=nIyaC3JtlyQ)
+
 

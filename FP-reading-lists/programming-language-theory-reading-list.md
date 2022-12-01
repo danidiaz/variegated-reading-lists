@@ -819,6 +819,8 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [Hefty Algebras: Modular Elaboration of Higher-Order Algebraic Effects](https://www.reddit.com/r/haskell/comments/z1s907/hefty_algebras_modular_elaboration_of_higherorder/)
 
+[game semantics](https://curien.galene.org/papers/Game-semantics.pdf). [Higher-orderness is first-order interaction](https://discourse.haskell.org/t/higher-orderness-is-first-order-interaction/5386).
+
 ## ICFP’22 
 
 [playlist](https://discourse.haskell.org/t/the-icfp22-playlist-has-been-published-to-youtube/5138)

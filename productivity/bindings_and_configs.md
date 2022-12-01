@@ -202,5 +202,10 @@ What's added to .profile:
 
 [how to prevent osx from creating a new desktop/space when I fullscreen an app?](https://www.reddit.com/r/osx/comments/ctqaa4/anyone_know_how_to_prevent_osx_from_creating_a/). [mac split view](https://eshop.macsales.com/blog/83087-how-to-use-all-the-awesome-window-management-features-in-macos/)
 
+[Keyboard shortcuts for GNU Readline](https://news.ycombinator.com/item?id=33785631)
+
+[Git rebase --onto an overview](https://womanonrails.com/git-rebase-onto)
+
+
 
 

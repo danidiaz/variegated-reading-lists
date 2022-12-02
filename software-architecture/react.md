@@ -626,3 +626,6 @@ https://react-query.tanstack.com/
 
 [prop drilling](https://twitter.com/housecor/status/1597575317488824320). [React Context](https://twitter.com/t3dotgg/status/1597303632252530689).
 
+[Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
+
+

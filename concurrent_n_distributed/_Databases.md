@@ -655,6 +655,8 @@ More videos on database migrations https://www.youtube.com/watch?v=RUIUUZehGgI h
 
 > Aggregations can be provided at ingestion time as part of the ingestion spec as a way of summarizing data before it enters Apache Druid (incubating). Aggregations can also be specified as part of many queries at query time.
 
+[Druid -- A Real-time Analytical Data Store](https://twitter.com/gunnarmorling/status/1599129860277866496). [post](https://www.micahlerner.com/2022/05/15/druid-a-real-time-analytical-data-store.html).
+
 [Snapshot Isolation in SQL Server](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/snapshot-isolation-in-sql-server).
 
 > SQL Server introduced extensions to the SQL-92 isolation levels with the introduction of the SNAPSHOT isolation level and an additional implementation of READ COMMITTED. 

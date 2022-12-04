@@ -685,3 +685,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [Strict-serializability, but at what cost, for what purpose?](https://muratbuffalo.blogspot.com/2022/08/strict-serializability-but-at-what-cost.html)
 
+[Watermarks in Stream Processing Systems: Semantics and Comparative Analysis of Apache Flink and Google Cloud Dataflow](https://twitter.com/gunnarmorling/status/1599344380728393729)
+
+

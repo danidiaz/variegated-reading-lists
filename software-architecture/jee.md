@@ -293,4 +293,10 @@
 
 > command line tool to run on top of a fresh Spring Boot app to quickly setup Thymeleaf with live reload, webjars, and Bootstrap or Tailwind CSS as CSS framework
 
+[types of generators in Hibernate](https://twitter.com/1ovthafew/status/1599371472677400576)
+
+> Until Hibernate 6.2, each kind of thing was handled by completely separate machinery. And there were separate extension points for programs using Hibernate, with completely different APIs: IdentifierGenerator, UserVersionType, and AnnotationValueGeneration.
+
+[Hibernate pooled and pooled-lo identifier generators](https://twitter.com/vlad_mihalcea/status/1458785093607174151)
+
 

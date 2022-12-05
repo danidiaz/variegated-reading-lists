@@ -827,6 +827,10 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Modern Data Modeling: Start with the End?](https://www.adventofdata.com/modern-data-modeling-start-with-the-end/). [hn](https://news.ycombinator.com/item?id=33846087).
 
+>  In ye olden times, this was overthought and created friction - "If you don't know what you're going to exactly do with the data how am I going to know what to bring in and how to land it"."But how am I to know what to do with the data if I can't query it and see what opportunities there are."
+
+>  Most of the other "big data" approaches that I've worked with seemed to make it worse not better. A lot more complexity, not thinking in sets, layers and layers of nothing I care about that can go wrong. I can't believe I'm still working with SQL.
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

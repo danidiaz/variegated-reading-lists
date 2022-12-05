@@ -825,6 +825,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [The evolution of the data engineer role](https://news.ycombinator.com/item?id=33317126)
 
+[Modern Data Modeling: Start with the End?](https://www.adventofdata.com/modern-data-modeling-start-with-the-end/). [hn](https://news.ycombinator.com/item?id=33846087).
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

@@ -299,4 +299,6 @@
 
 [Hibernate pooled and pooled-lo identifier generators](https://twitter.com/vlad_mihalcea/status/1458785093607174151)
 
+[ResponseEntity best practices](https://twitter.com/therealdanvega/status/1599814600463355906)
+
 

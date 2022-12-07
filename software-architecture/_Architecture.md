@@ -1225,7 +1225,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Always use closed, open) intervals](https://lobste.rs/s/8i19nz/always_use_closed_open_intervals)
 
-
+[Vertical Slicing Architectures](https://www.youtube.com/watch?v=H7HWOlANX78). [Horizontal or Vertical Slicing for Agile?](https://www.youtube.com/watch?v=jQg27pFGmWA).
 
 
 

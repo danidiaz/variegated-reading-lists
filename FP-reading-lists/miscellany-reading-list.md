@@ -616,4 +616,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [polymorphic inline caches and Self](https://dubroy.com/blog/self/). [wikipedia](https://en.wikipedia.org/wiki/Inline_caching#Polymorphic_inline_caching).
 
+[Diegetic representation of feedback in open games](https://arxiv.org/abs/2206.12338). [tweet](https://twitter.com/_julesh_/status/1601609346466852869)
+
 

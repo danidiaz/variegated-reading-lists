@@ -206,6 +206,8 @@ What's added to .profile:
 
 [Git rebase --onto an overview](https://womanonrails.com/git-rebase-onto)
 
+[tagref](https://www.reddit.com/r/haskell/comments/zgndwz/comment/izi5p7c/)
 
+> a tool which enforces basic structural invariants regarding notes: (1) references actually refer to notes which exist, and (2) notes have unique names.
 
 

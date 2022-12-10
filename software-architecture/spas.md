@@ -95,4 +95,6 @@
 
 [htmx demo](https://twitter.com/htmx_org/status/1583471247043592193)
 
+[spas vs ssr](https://twitter.com/housecor/status/1601575828189753345)
+
 

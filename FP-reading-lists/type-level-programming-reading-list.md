@@ -407,7 +407,7 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Teaching GHC how to play Minesweeper](https://github.com/effectfully-ou/sketches/tree/master/mineunifier). [reddit](https://www.reddit.com/r/haskell/comments/z86rwf/teaching_ghc_how_to_play_minesweeper/).
 
-
+[example of generic-data's "OnFields"](https://www.reddit.com/r/haskell/comments/z9eyu7/comment/izs47x3/)
 
 
 

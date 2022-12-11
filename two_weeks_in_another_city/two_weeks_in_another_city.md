@@ -674,6 +674,8 @@ Bernini, his life and his Rome
 
 [dialogue system pentiment](https://twitter.com/jesawyer/status/1594331385879068672)
 
+[“Wind's howling.” Meteorological Phenomena as Atmospheres in Digital Games](https://www.researchgate.net/publication/365917760_Wind's_howling_Meteorological_Phenomena_as_Atmospheres_in_Digital_Games). [mental atmospheres in videogames](https://mastodon.social/@paul_roquet@mastodon.mit.edu/109476279617311357).
+
 ## Podcasts
 
 - [Wie der Raum unser Verhalten bestimmt](http://www.deutschlandfunkkultur.de/colin-ellard-psychogeografie-wie-der-raum-unser-verhalten.1270.de.html?dram:article_id=385482)

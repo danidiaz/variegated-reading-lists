@@ -80,5 +80,13 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [LTL : little tricky logics](https://blog.brownplt.org/2022/11/05/little-tricky-logics.html). [tweet](https://twitter.com/ShriramKMurthi/status/1589117327786012672)
 
+[overloading the lambda abstraction in Haskell](https://acatalepsie.fr/posts/overloading-lambda). [reddit](https://www.reddit.com/r/haskell/comments/zi9mxp/overloading_the_lambda_abstraction_in_haskell/).
+
+> Now my solution stems from this truly amazing paper from Jean-Philippe Bernardy and Arnaud Spiwack: Evaluating Linear Functions to Symmetric Monoidal Categories (SMCs).
+
+> In this paper, they explain that if CCCs are models of the simply typed lambda calculus, it is “well-known” that SMCs are models of the linear simply-typed lambda calculus. And thus, they explain how they are able to evaluate linear Haskell functions (as in, Linear Haskell linear functions) into arrows in any target SMC.
+
+> They even released a library for that: linear-smc. I implore you to go and take a look at both the paper and the library, it’s very very smart. Sadly, it seems to have gone mostly unnoticed.
+
 
 

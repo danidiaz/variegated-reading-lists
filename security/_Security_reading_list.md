@@ -638,6 +638,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Infosec Exchange](https://infosec.exchange/home)
 
-
+[On-device WebAuthn and what makes it hard to do well](https://mjg59.dreamwidth.org/62746.html)
 
 

@@ -376,6 +376,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [ the subtle role of large elimination in type theory](https://mathstodon.xyz/@aws/109357101990966981)
 
+[Type-Theoretic Signatures for Algebraic Theories and Inductive Types (AK thesis)](https://andraskovacs.github.io/pdfs/phdthesis_compact.pdf)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

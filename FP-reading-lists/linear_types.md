@@ -88,5 +88,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 > They even released a library for that: linear-smc. I implore you to go and take a look at both the paper and the library, it’s very very smart. Sadly, it seems to have gone mostly unnoticed.
 
+> the encoding from k a b to P k r a ⊸ P k r b can be thought of as a transformation to continuation-passing-style (cps), albeit reversed— perhaps a “prefix-passing-style” transformation.
 
 

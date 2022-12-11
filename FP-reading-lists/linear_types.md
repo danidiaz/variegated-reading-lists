@@ -90,4 +90,8 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 > the encoding from k a b to P k r a ⊸ P k r b can be thought of as a transformation to continuation-passing-style (cps), albeit reversed— perhaps a “prefix-passing-style” transformation.
 
+> Edit: I should therefore clarify that this is not CPS but the dual of CPS. "Ports" carrying values are not encoded as Haskell functions taking continuations, and thus parametrized by a destination, but as morphisms of your underlying category, parametrized by the source. If your category k a b is a GADT, then they are just trees.
+
+>  The decode function ties the knot by just applying the identity (a constructor) at the end. So you really ought to be able to define two mutual Flow .. .. without any issue.
+
 

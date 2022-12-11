@@ -821,6 +821,8 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [game semantics](https://curien.galene.org/papers/Game-semantics.pdf). [Higher-orderness is first-order interaction](https://discourse.haskell.org/t/higher-orderness-is-first-order-interaction/5386).
 
+[The Golden Age of PL Research](https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html)
+
 ## ICFP’22 
 
 [playlist](https://discourse.haskell.org/t/the-icfp22-playlist-has-been-published-to-youtube/5138)

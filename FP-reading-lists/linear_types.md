@@ -80,6 +80,8 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [LTL : little tricky logics](https://blog.brownplt.org/2022/11/05/little-tricky-logics.html). [tweet](https://twitter.com/ShriramKMurthi/status/1589117327786012672)
 
+[linearity is a restriction on usage in the *future*, but uniqueness is a guarantee about usage in the *past*](https://functional.cafe/@daniel@types.pl/109500804388895934)
+
 [overloading the lambda abstraction in Haskell](https://acatalepsie.fr/posts/overloading-lambda). [reddit](https://www.reddit.com/r/haskell/comments/zi9mxp/overloading_the_lambda_abstraction_in_haskell/).
 
 > Now my solution stems from this truly amazing paper from Jean-Philippe Bernardy and Arnaud Spiwack: Evaluating Linear Functions to Symmetric Monoidal Categories (SMCs).

@@ -325,6 +325,12 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 > The free variables of term are a runtime property, but we can overapproximate it statically by turning it into a property of scopes: if Scope l contains all the names of Scope n, and the extension from n to l shadows none of them, then any term :: Expr n is safe to sink to l , regardless of its free variables. This is the critical insight used in the rapier [9].
 
+[overloading the lambda abstraction in Haskell](https://acatalepsie.fr/posts/overloading-lambda). [reddit](https://www.reddit.com/r/haskell/comments/zi9mxp/overloading_the_lambda_abstraction_in_haskell/). (also in the linear types section)
+
+> Another way of looking at this is that it's a PHOAS (parametric higher-order abstract syntax) for the internal language of categories with products.
+
+> This helps when considering extending to CCCs since PHOAS of simply-typed lambda calculus (the internal language of CCCs) has been studied: Parametric Higher-Order Syntax for Mechanized Semantics by Adam Chlipala. The approach used in that paper keeps the context the same when entering lambdas (essentially lam :: (Port r a -> Port r b) -> Port r (Exp a b)), but I believe that would make it impossible to implement safely.
+
 ## software
 
 [bound](http://hackage.haskell.org/package/bound)

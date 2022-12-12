@@ -949,3 +949,5 @@ languages
 
 [a value x:X is not the same thing as a value 'x' : 1-X](https://twitter.com/PTOOP/status/1587521441200852993)
 
+[Symmetric Monoidal Categories in catlab](https://algebraicjulia.github.io/Catlab.jl/dev/generated/sketches/smc/)
+

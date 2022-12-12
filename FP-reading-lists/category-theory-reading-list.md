@@ -951,3 +951,16 @@ languages
 
 [Symmetric Monoidal Categories in catlab](https://algebraicjulia.github.io/Catlab.jl/dev/generated/sketches/smc/)
 
+[Cartesian Closed Categories and Lambda-Calculus](http://pauillac.inria.fr/~huet/PUBLIC/cat.pdf)
+
+> Open a standard book on category theory, and consider a typical categorical definition. It usually
+reads: “Mumble, such that the following diagram commutes.” Similarly, a typical categorical
+result states: “If diagram1 and ... and diagramn commute, then diagram commutes.” The first
+step in understanding such statements is to determine exactly their universality: what is exactly
+quantified, universally or existentially, what depends on what, what are exactly the parameters of
+the (frequent) unicity condition. The next step is to realize that the diagram states conditional
+equalities on arrows, and that it is enough to state the equalities of the inside diagrams in order to
+get all equalities
+
+
+

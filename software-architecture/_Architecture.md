@@ -1227,7 +1227,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Vertical Slicing Architectures](https://www.youtube.com/watch?v=H7HWOlANX78). [Horizontal or Vertical Slicing for Agile?](https://www.youtube.com/watch?v=jQg27pFGmWA).
 
-
+[How event-driven architecture solves modern web app problems](https://twitter.com/gunnarmorling/status/1601980378557911045).
 
 
 

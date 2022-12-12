@@ -162,6 +162,7 @@ have the same meta-information
 
 [Haskell's secret sauce for a fast FFI](https://www.reddit.com/r/haskell/comments/s5ughh/what_is_haskells_secret_sauce_for_a_fast_ffi/)
 
+
 ## Compiling in Ubuntu
 
 > $ cabal install --installdir /home/someguy/.local/bin --install-method=copy happy
@@ -236,5 +237,7 @@ Stuff about the heap:
 [a comparison between GHC and Racket compilation models](https://www.youtube.com/watch?v=H0ATppFmt2o)
 
 [Profiling Memory Usage With eventlog2html and ghc-debug](https://www.youtube.com/watch?v=nIyaC3JtlyQ)
+
+[ffi stuff](https://www.reddit.com/r/haskell/comments/zj0ted/should_raw_library_bindings_drop_the_namespace/)
 
 

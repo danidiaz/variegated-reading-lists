@@ -70,4 +70,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [const modifiers for type parameters](https://twitter.com/AndaristRake/status/1602645915474477056). [more](https://twitter.com/AndaristRake/status/1602701606721814528).
 
+[loops with recursive types](https://twitter.com/GabrielVergnaud/status/1602700630182739968)
+
 

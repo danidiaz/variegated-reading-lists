@@ -210,4 +210,6 @@ What's added to .profile:
 
 > a tool which enforces basic structural invariants regarding notes: (1) references actually refer to notes which exist, and (2) notes have unique names.
 
+[FX Special Effects Image Operator in ImageMagick](http://www.imagemagick.org/script/fx.php)
+
 

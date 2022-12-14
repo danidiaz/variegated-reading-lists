@@ -68,4 +68,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [adding optional properties](https://twitter.com/housecor/status/1580600449367183360)
 
+[const modifiers for type parameters](https://twitter.com/AndaristRake/status/1602645915474477056). [more](https://twitter.com/AndaristRake/status/1602701606721814528).
+
 

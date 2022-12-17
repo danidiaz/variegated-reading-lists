@@ -618,4 +618,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Diegetic representation of feedback in open games](https://arxiv.org/abs/2206.12338). [tweet](https://twitter.com/_julesh_/status/1601609346466852869)
 
+[Probability Monads from scratch in 100 lines of Haskell](https://dennybritz.com/posts/probability-monads-from-scratch/)
+
 

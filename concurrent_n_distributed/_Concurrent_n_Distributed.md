@@ -687,4 +687,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [Watermarks in Stream Processing Systems: Semantics and Comparative Analysis of Apache Flink and Google Cloud Dataflow](https://twitter.com/gunnarmorling/status/1599344380728393729)
 
+[Distributed Transactional Systems Cannot Be Fast](https://twitter.com/penberg/status/1604011981782093852)
+
+
 

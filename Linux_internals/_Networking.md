@@ -92,4 +92,6 @@
 
 [what they don't teach you about sockets](https://news.ycombinator.com/item?id=32225532)
 
+[Getting started with nmap](https://ittavern.com/getting-started-with-nmap/)
+
 

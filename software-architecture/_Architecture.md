@@ -1229,6 +1229,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [How event-driven architecture solves modern web app problems](https://twitter.com/gunnarmorling/status/1601980378557911045).
 
+[Structuring Clojure Applications](https://news.ycombinator.com/item?id=34052268)
+
+[Always throw custom exceptions](https://news.ycombinator.com/item?id=34052363)
 
 
 

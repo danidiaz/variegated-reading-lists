@@ -776,5 +776,7 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [How to correctly cache build-time dependencies using Nix](https://www.haskellforall.com/2022/10/how-to-correctly-cache-build-time.html)
 
+[Release 2.8 (2022-04-19)](https://nixos.org/manual/nix/stable/release-notes/rl-2.8.html). [video](https://www.youtube.com/watch?v=ypFLcMCSzNA).
+
 
 

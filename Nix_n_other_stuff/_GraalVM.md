@@ -683,3 +683,7 @@ https://github.com/ekmett/core
 [Java on Truffle – Going Fully Metacircular](https://news.ycombinator.com/item?id=25838364)
 
 [Cadenza Building Fast Functional Languages Fast](https://www.reddit.com/r/haskell/comments/l95mb6/edward_kmett_cadenza_building_fast_functional/)
+
+[Dr. Futamura's Projection Machine: From Interpreters to Compilers through a Marvelous Device](https://speakerdeck.com/evacchi/dr-futamuras-projection-machine-from-interpreters-to-compilers-through-a-marvelous-device)
+
+

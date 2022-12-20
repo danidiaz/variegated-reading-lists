@@ -628,5 +628,6 @@ https://react-query.tanstack.com/
 
 [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
 
+[What Is TanStack Router And Why I Love It](https://www.youtube.com/watch?v=OwoZtv6u9p4)
 
 

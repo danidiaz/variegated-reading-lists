@@ -962,5 +962,6 @@ the (frequent) unicity condition. The next step is to realize that the diagram s
 equalities on arrows, and that it is enough to state the equalities of the inside diagrams in order to
 get all equalities
 
+[Parsing as a lifting problem](https://twitter.com/mathCTbot/status/1605026633961721857)
 
 

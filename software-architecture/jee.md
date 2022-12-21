@@ -301,4 +301,6 @@
 
 [ResponseEntity best practices](https://twitter.com/therealdanvega/status/1599814600463355906)
 
+[choosing Java](https://news.ycombinator.com/item?id=34064310)
+
 

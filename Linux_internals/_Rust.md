@@ -128,3 +128,6 @@
 
 [Unsafe Rust is not C](https://twitter.com/steveklabnik/status/1577692166570352641)
 
+[comprehensive Rust](https://news.ycombinator.com/item?id=34091271)
+
+

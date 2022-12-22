@@ -409,5 +409,8 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [example of generic-data's "OnFields"](https://www.reddit.com/r/haskell/comments/z9eyu7/comment/izs47x3/)
 
+[MAKING GHC FASTER AT EMITTING CODE](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
+
+
 
 

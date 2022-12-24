@@ -632,4 +632,8 @@ https://react-query.tanstack.com/
 
 [jotai vs. useMemo](https://twitter.com/dai_shi/status/1606488720282386433)
 
+[Store sharable state in the URL](https://twitter.com/housecor/status/1606659422922674178). [useParams hook from react-router](https://reactrouter.com/en/main/hooks/use-params)
+
+> Make the URL the single source of truth.
+
 

@@ -689,5 +689,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [Distributed Transactional Systems Cannot Be Fast](https://twitter.com/penberg/status/1604011981782093852)
 
+[Transactions in distributed systems](https://medium.com/nerd-for-tech/transactions-in-distributed-systems-b5ceea869d7d)
+
 
 

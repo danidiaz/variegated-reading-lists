@@ -630,4 +630,6 @@ https://react-query.tanstack.com/
 
 [What Is TanStack Router And Why I Love It](https://www.youtube.com/watch?v=OwoZtv6u9p4)
 
+[jotai vs. useMemo](https://twitter.com/dai_shi/status/1606488720282386433)
+
 

@@ -72,4 +72,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [loops with recursive types](https://twitter.com/GabrielVergnaud/status/1602700630182739968)
 
+[ts-pattern](https://twitter.com/GabrielVergnaud/status/1606290608934395906)
+
 

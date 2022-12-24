@@ -51,3 +51,6 @@
 
 [Fast builds, secure builds. Choose two.](https://stripe.com/blog/fast-secure-builds-choose-two)
 
+[A Deep Dive into GitHub Actions’ Reusable Workflows](https://betterprogramming.pub/how-to-use-github-actions-reusable-workflow-8604e8cbf258)
+
+

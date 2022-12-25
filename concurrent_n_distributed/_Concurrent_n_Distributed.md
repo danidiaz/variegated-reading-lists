@@ -691,5 +691,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [Transactions in distributed systems](https://medium.com/nerd-for-tech/transactions-in-distributed-systems-b5ceea869d7d)
 
+[Concurrency Deep Dive: Code Strategies for High Traffic Applications](https://nathanpeck.com/concurrency-deep-dive-strategies-for-high-traffic-applications/)
 
 

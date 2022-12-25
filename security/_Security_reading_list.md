@@ -640,4 +640,5 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [On-device WebAuthn and what makes it hard to do well](https://mjg59.dreamwidth.org/62746.html)
 
+[Cracking encrypted Lastpass vaults](https://markuta.com/cracking-lastpass-vaults/)
 

@@ -378,6 +378,9 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [Type-Theoretic Signatures for Algebraic Theories and Inductive Types (AK thesis)](https://andraskovacs.github.io/pdfs/phdthesis_compact.pdf)
 
+[Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082). [hn](https://news.ycombinator.com/item?id=34124215).  
+
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

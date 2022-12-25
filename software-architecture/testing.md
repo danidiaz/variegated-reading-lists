@@ -200,5 +200,5 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Don’t Do E2E Testing](https://www.youtube.com/watch?v=QFCHSEHgqFE)
 
-
+[Testing Without Mocks: A Pattern Language](https://lobste.rs/s/y9xf6i/testing_without_mocks_pattern_language)
 

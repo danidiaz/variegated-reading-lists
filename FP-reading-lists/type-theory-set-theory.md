@@ -668,4 +668,5 @@ regress of beliefs.
 
 [Roughly speaking, an algebra over a field F is just a ring R with F contained in the center of R](https://sites.math.washington.edu/~mitchell/Algf/alg.pdf). [Is a field (ring) an algebra over itself?](https://math.stackexchange.com/questions/4270/is-a-field-ring-an-algebra-over-itself).
 
+[the countable reals](https://www.youtube.com/watch?v=4CBFUojXoq4)
 

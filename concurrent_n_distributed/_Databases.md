@@ -833,11 +833,10 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [what tool to use for database migrations?](https://towardsdatascience.com/which-tool-should-you-use-for-database-migrations-4e0b9c44b790)
 
-[github/gh-ost: GitHub's Online Schema-migration Tool for MySQL](https://github.com/github/gh-ost). [see also]().
 
 [Domain Logic and SQL (2003)](https://martinfowler.com/articles/dblogic.html)
 
-[the principles of zero-downtime database migrations](https://teamplify.com/blog/zero-downtime-DB-migrations/)
+[the principles of zero-downtime database migrations](https://teamplify.com/blog/zero-downtime-DB-migrations/). [see also](https://functional.cafe/@DiazCarrete/109573652212360085). [github/gh-ost: GitHub's Online Schema-migration Tool for MySQL](https://github.com/github/gh-ost)
 
 # Podcasts
 

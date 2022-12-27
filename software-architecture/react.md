@@ -636,4 +636,13 @@ https://react-query.tanstack.com/
 
 > Make the URL the single source of truth.
 
+[A Visual Guide to React's useEffect (2021)](https://news.ycombinator.com/item?id=34142168)
+
+[passing props using the spread operator](https://dev.to/arikaturika/passing-props-using-the-spread-operator-in-react-52e4)
+
+[Understanding Conditional Rendering in React](https://geromekevin.com/understanding-conditional-rendering-in-react/)
+
+
+
+
 

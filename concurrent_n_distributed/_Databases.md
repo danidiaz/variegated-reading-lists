@@ -831,9 +831,19 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 >  Most of the other "big data" approaches that I've worked with seemed to make it worse not better. A lot more complexity, not thinking in sets, layers and layers of nothing I care about that can go wrong. I can't believe I'm still working with SQL.
 
+[what tool to use for database migrations?](https://towardsdatascience.com/which-tool-should-you-use-for-database-migrations-4e0b9c44b790)
+
+[github/gh-ost: GitHub's Online Schema-migration Tool for MySQL](https://github.com/github/gh-ost). [see also]().
+
+[Domain Logic and SQL (2003)](https://martinfowler.com/articles/dblogic.html)
+
+[the principles of zero-downtime database migrations](https://teamplify.com/blog/zero-downtime-DB-migrations/)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)
+
+[PostgreSQL Intermediate to Advanced (playlist)](https://www.youtube.com/playlist?list=PLxtrcgLvnR2Zx2h4VYqCkwIb_vQ6WKp3L)
 
 # Courses
 

@@ -225,4 +225,15 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Implementing failover of logical replication slots](https://twitter.com/gunnarmorling/status/1591736378114523138)
 
+[pagila](https://github.com/devrimgunduz/pagila)
+
+[Preferred Index Types for Text Search](https://www.postgresql.org/docs/current/textsearch-indexes.html)
+
+[views and optimization](https://dba.stackexchange.com/questions/151169/are-views-harmful-for-performance-in-postgresql)
+
+> Selecting from a view is exactly as fast or slow as running the underlying SQL statement – you can easily check that using explain analyze.
+
+> The Postgres optimizer (and the optimizer for many other modern DBMSes) will be able to push down predicates on the view into the actual view statement – provided this is a simple statement (again, this can be verified using explain analyze).
+
+
 

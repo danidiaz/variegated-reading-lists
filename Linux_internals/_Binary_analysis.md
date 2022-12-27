@@ -8,3 +8,5 @@
 
 [Adding code to an existing ELF file](https://news.ycombinator.com/item?id=31313628)
 
+[series on ELF file format](https://twitter.com/0xor0ne/status/1607711658801090560)
+

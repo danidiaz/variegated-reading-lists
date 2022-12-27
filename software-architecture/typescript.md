@@ -74,4 +74,8 @@ const conforms: OnlyBoolsAndHorses = {
 
 [ts-pattern](https://twitter.com/GabrielVergnaud/status/1606290608934395906)
 
+[Typescript improvements](https://news.ycombinator.com/item?id=34132866)
+
+
+
 

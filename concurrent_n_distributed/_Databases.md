@@ -836,7 +836,9 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Domain Logic and SQL (2003)](https://martinfowler.com/articles/dblogic.html)
 
-[the principles of zero-downtime database migrations](https://teamplify.com/blog/zero-downtime-DB-migrations/). [see also](https://functional.cafe/@DiazCarrete/109573652212360085). [github/gh-ost: GitHub's Online Schema-migration Tool for MySQL](https://github.com/github/gh-ost)
+[the principles of zero-downtime database migrations](https://teamplify.com/blog/zero-downtime-DB-migrations/). [see also](https://functional.cafe/@DiazCarrete/109573652212360085). [github/gh-ost: GitHub's Online Schema-migration Tool for MySQL](https://github.com/github/gh-ost). [Stop worrying about PostgreSQL locks in your Rails migrations](https://medium.com/doctolib/stop-worrying-about-postgresql-locks-in-your-rails-migrations-3426027e9cc9). [reddit](https://www.reddit.com/r/PostgreSQL/comments/kit0g3/comment/gh2o2pd/)
+
+> AIUI adding columns with (most common kinds of) defaults is a table metadata change in sufficiently new Postgres versions, and won't touch every row anymore. It shouldn't always need special handling in that case as there's no row locks.
 
 # Podcasts
 

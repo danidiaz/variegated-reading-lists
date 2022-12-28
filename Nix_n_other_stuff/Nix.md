@@ -780,4 +780,5 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [Difference between `fetchgit` and `fetchGit`](https://discourse.nixos.org/t/difference-between-fetchgit-and-fetchgit/3619)
 
+[devenv.lib.mkShell](https://twitter.com/sridca/status/1608119023857815554)
 

@@ -842,6 +842,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Druid and SQL syntax](https://imply.io/blog/druid-and-sql-syntax/)
 
+[You might as well timestamp it (2021)](https://news.ycombinator.com/item?id=34163748)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

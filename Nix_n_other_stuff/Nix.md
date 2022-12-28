@@ -778,5 +778,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [Release 2.8 (2022-04-19)](https://nixos.org/manual/nix/stable/release-notes/rl-2.8.html). [video](https://www.youtube.com/watch?v=ypFLcMCSzNA).
 
+[Difference between `fetchgit` and `fetchGit`](https://discourse.nixos.org/t/difference-between-fetchgit-and-fetchgit/3619)
 
 

@@ -840,6 +840,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 > AIUI adding columns with (most common kinds of) defaults is a table metadata change in sufficiently new Postgres versions, and won't touch every row anymore. It shouldn't always need special handling in that case as there's no row locks.
 
+[Druid and SQL syntax](https://imply.io/blog/druid-and-sql-syntax/)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

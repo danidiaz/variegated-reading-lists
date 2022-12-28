@@ -100,4 +100,6 @@
 
 [Work small. Deliver often. Adjust.](https://twitter.com/allenholub/status/1566104250345697280)
 
+[hard truths](https://news.ycombinator.com/item?id=34161822)
+
 

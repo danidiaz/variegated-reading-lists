@@ -102,4 +102,6 @@
 
 [hard truths](https://news.ycombinator.com/item?id=34161822)
 
+[the anti-pattern of delegating responsibility only to disagree with the decisions made](https://twitter.com/Carnage4Life/status/1608402476054765569)
+
 

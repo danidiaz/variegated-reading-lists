@@ -200,3 +200,6 @@
 
 ["but you overpaid"](https://twitter.com/Teddy_Bautista_/status/1574917573304406016)
 
+[Using Flash Fill in Excel](https://support.microsoft.com/en-us/office/using-flash-fill-in-excel-3f9bcf1e-db93-4890-94a0-1578341f73f7#ID0EBBH=Windows). [Microsoft’s making Excel’s formulas even easier](https://www.theverge.com/2022/12/27/23523281/excel-formula-suggestions-by-example-microsoft-365).
+
+

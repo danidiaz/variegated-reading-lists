@@ -1235,5 +1235,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Strangling The Monolith: Applied Patterns & Practices From The Trenches](https://www.youtube.com/watch?v=cGcrReJ6FbY). [Refactoring Is Not Just Clickbait](https://www.youtube.com/watch?v=piUesxuZkIQ)
 
+[PostgREST](https://news.ycombinator.com/item?id=34172205)
+
 
 

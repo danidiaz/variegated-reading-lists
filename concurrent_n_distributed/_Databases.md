@@ -844,6 +844,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [You might as well timestamp it (2021)](https://news.ycombinator.com/item?id=34163748)
 
+[Easy, alternative soft deletion](https://brandur.org/fragments/deleted-record-insert)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

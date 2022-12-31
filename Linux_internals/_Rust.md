@@ -130,4 +130,8 @@
 
 [comprehensive Rust](https://news.ycombinator.com/item?id=34091271)
 
+[A taste of pavex, an upcoming Rust web framework](https://news.ycombinator.com/item?id=34195291)
+
+[   Should Small Rust Structs be Passed by-copy or by-borrow?](https://news.ycombinator.com/item?id=34196294)
+
 

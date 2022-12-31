@@ -848,6 +848,10 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Materialized View: SQL Queries on Steroids](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/). [Materialized View: SQL Queries on Steroids](https://lobste.rs/s/y76rvj/materialized_view_sql_queries_on).
 
+[query engines: push vs pull](https://twitter.com/gunnarmorling/status/1609101693932675072)
+
+
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

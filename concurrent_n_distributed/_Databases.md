@@ -846,6 +846,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Easy, alternative soft deletion](https://brandur.org/fragments/deleted-record-insert)
 
+[Materialized View: SQL Queries on Steroids](https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/). [Materialized View: SQL Queries on Steroids](https://lobste.rs/s/y76rvj/materialized_view_sql_queries_on).
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

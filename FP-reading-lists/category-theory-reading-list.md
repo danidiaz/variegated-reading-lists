@@ -966,6 +966,8 @@ get all equalities
 
 [Cartesian closed categories and the Lawvere fixed point theorem](https://qchu.wordpress.com/2013/09/28/cartesian-closed-categories-and-the-lawvere-fixed-point-theorem/). [at MO](https://mathoverflow.net/questions/139645/applications-of-lawveres-fixed-point-theorem).
 
-[Hofmann and Streicher’s universe construction from a more categorical perspective](https://twitter.com/jonmsterling/status/1609100908360613889)
+[Hofmann and Streicher’s universe construction from a more categorical perspective](https://twitter.com/jonmsterling/status/1609100908360613889). [twitter](https://twitter.com/jonmsterling/status/1609100908360613889)
+
+
 
 

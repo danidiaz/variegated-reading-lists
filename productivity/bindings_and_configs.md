@@ -220,7 +220,7 @@ What's added to .profile:
 
 > Microsoft Teams Shifts is a Schedule Management tool
 
-[getsling](https://getsling.com/). [Split Shifts: What Are They And Should You Be Using Them?](https://getsling.com/blog/split-shift/). [How to schedule shifts in Sling](https://www.youtube.com/watch?v=bRgNsZMjj_g)
+[getsling](https://getsling.com/). [Split Shifts: What Are They And Should You Be Using Them?](https://getsling.com/blog/split-shift/). [How to schedule shifts in Sling](https://www.youtube.com/watch?v=bRgNsZMjj_g). [Auto-assign shifts](https://support.getsling.com/en/articles/5203721-auto-assign-shifts). [7 Ways Automated Scheduling Benefits Modern Business](https://getsling.com/blog/automated-scheduling/)
 
 > https://getsling.com/blog/split-shift/ 
 
@@ -229,4 +229,7 @@ What's added to .profile:
 > It’s important to understand that the regular one-hour lunch break associated with a 9-to-5 schedule doesn’t count toward a split shift. A typical split shift is separated by two or more hours.
 
 > As with all scheduling practices, only you, the manager, are allowed to call two separate work periods a split shift. An employee may leave for emergency or personal reasons (with your permission, of course) and then return to finish work, but that is not a split shift.
+
+> Admin and Managers using the Business version of Sling have access to an auto-assign function. 
+
 

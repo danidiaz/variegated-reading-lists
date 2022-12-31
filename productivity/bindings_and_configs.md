@@ -212,4 +212,13 @@ What's added to .profile:
 
 [FX Special Effects Image Operator in ImageMagick](http://www.imagemagick.org/script/fx.php)
 
+[Employee Scheduling Software](https://peoplemanagingpeople.com/tools/best-free-employee-scheduling-software/). [ABC Roster](https://www.abc-roster.com/?r=pmp-esss). [Skello](https://www.skello.es/funciones/planificacion). [Software de Gestión de Turnos de Trabajo](https://www.bizneo.com/gestion-turnos/). [sbv](https://hackage.haskell.org/package/sbv)
+
+> A free software application for employee shift scheduling
+
+> ABC Roster is a free software application especially designed to assist in the complex task of organising employee shift schedules (also known as rosters) for small organisations.
+
+
+
+
 

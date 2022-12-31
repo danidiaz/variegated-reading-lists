@@ -97,4 +97,6 @@
 
 [spas vs ssr](https://twitter.com/housecor/status/1601575828189753345)
 
+[The state of HTTP in 2022](https://blog.cloudflare.com/the-state-of-http-in-2022/)
+
 

@@ -202,4 +202,14 @@
 
 [Using Flash Fill in Excel](https://support.microsoft.com/en-us/office/using-flash-fill-in-excel-3f9bcf1e-db93-4890-94a0-1578341f73f7#ID0EBBH=Windows). [Microsoft’s making Excel’s formulas even easier](https://www.theverge.com/2022/12/27/23523281/excel-formula-suggestions-by-example-microsoft-365).
 
+[smart tags](https://www.automateexcel.com/how-to/enable-smart-tags/)
+
+> Other smart tags available in Excel include AutoFill, Flash Fill, error checker, and Quick Analysis.
+
+[Highlight patterns and trends with conditional formatting](https://support.microsoft.com/en-us/office/highlight-patterns-and-trends-with-conditional-formatting-eea152f5-2a7d-4c1a-a2da-c5f893adb621)
+
+[Use conditional formatting to highlight information](https://support.microsoft.com/en-us/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+
 

@@ -232,4 +232,6 @@ What's added to .profile:
 
 > Admin and Managers using the Business version of Sling have access to an auto-assign function. 
 
+[9 Best Employee Scheduling Apps For Small Businesses](https://www.clockshark.com/blog/small-business-employee-scheduling-app)
+
 

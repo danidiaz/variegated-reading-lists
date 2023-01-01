@@ -636,6 +636,10 @@ https://react-query.tanstack.com/
 
 > Make the URL the single source of truth.
 
+[put state in urls!](https://functional.cafe/@morewry@indieweb.social/10961563002047720s)
+
+> Please put state in URLs! Put the state of my search and filters or the product ID I'm currently viewing! Put any state that saves me having to do the same workflow again when I accidentally pull down to refresh, fumble that annoying back button on the side of a mouse, or navigate from browser history on a different device!
+
 [A Visual Guide to React's useEffect (2021)](https://news.ycombinator.com/item?id=34142168)
 
 [passing props using the spread operator](https://dev.to/arikaturika/passing-props-using-the-spread-operator-in-react-52e4)

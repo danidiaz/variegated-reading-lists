@@ -76,6 +76,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Typescript improvements](https://news.ycombinator.com/item?id=34132866)
 
-
+[Using the React children prop with TypeScript](https://blog.logrocket.com/using-react-children-prop-with-typescript/)
 
 

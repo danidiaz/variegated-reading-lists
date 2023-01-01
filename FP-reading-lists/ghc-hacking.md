@@ -240,4 +240,7 @@ Stuff about the heap:
 
 [ffi stuff](https://www.reddit.com/r/haskell/comments/zj0ted/should_raw_library_bindings_drop_the_namespace/)
 
+[Type variables in patterns](https://arxiv.org/pdf/1806.03476.pdf)
+
+
 

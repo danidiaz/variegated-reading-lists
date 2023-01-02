@@ -242,5 +242,7 @@ Stuff about the heap:
 
 [Type variables in patterns](https://arxiv.org/pdf/1806.03476.pdf)
 
+[From delimited continuations to algebraic effects in Haskell](https://www.reddit.com/r/haskell/comments/101bcx9/from_delimited_continuations_to_algebraic_effects/)
+
 
 

@@ -622,4 +622,3 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Writing a Static Site Generator Using Shake](https://abhinavsarkar.net/posts/static-site-generator-using-shake/)
 
-

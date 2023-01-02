@@ -850,7 +850,9 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [query engines: push vs pull](https://twitter.com/gunnarmorling/status/1609101693932675072)
 
+[Databases in 2022: A Year in Review ](https://news.ycombinator.com/item?id=34220524).
 
+[Understanding the N + 1 queries problem ](https://news.ycombinator.com/item?id=34207974)
 
 # Podcasts
 

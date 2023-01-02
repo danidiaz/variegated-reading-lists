@@ -271,6 +271,8 @@ attempt to make equality reasonable again.”
 
 [denotational semantics of higher-order store](https://twitter.com/jonmsterling/status/1588891937607938049)
 
+[Complementary foundations for mathematics: when do we choose?](https://home.sandiego.edu/~shulman/papers/jmm2022-complementary.pdf). [hn](https://news.ycombinator.com/item?id=34197169)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

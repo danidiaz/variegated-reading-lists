@@ -1239,5 +1239,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [modules, not microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html) [hn](https://news.ycombinator.com/item?id=34230641)
 
-
+[Domain modelling in object-oriented and functional programming](https://www.youtube.com/watch?v=yan1YOXvAUM)
 

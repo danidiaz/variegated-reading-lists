@@ -106,5 +106,7 @@
 
 [Post to your Own Site, Syndicate Everywhere](https://startafuckingblog.com/). [hn](https://news.ycombinator.com/item?id=34231152)
 
+[resolving conflicts](https://www.youtube.com/watch?v=iZy4c3m0M3M)
+
 
 

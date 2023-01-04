@@ -624,4 +624,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [The Beauty of Bézier Curves](https://news.ycombinator.com/item?id=34217727)
 
+[GC are not only necessary to automatically free memory, but also to compact objects still in use, thus improving data locality](https://shipilev.net/jvm/anatomy-quarks/11-moving-gc-locality/). [tweet](https://twitter.com/mariofusco/status/1610197910360150018).
+
 

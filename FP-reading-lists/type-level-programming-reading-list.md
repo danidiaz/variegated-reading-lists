@@ -411,6 +411,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [MAKING GHC FASTER AT EMITTING CODE](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
 
-
+[Abusing Constraints for Automatic Documentation](https://www.reddit.com/r/haskell/comments/1022njs/abusing_constraints_for_automatic_documentation/)
 
 

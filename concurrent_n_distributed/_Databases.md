@@ -854,6 +854,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Understanding the N + 1 queries problem ](https://news.ycombinator.com/item?id=34207974)
 
+[Trade-offs from using ULIDs](https://www.reddit.com/r/programming/comments/10278o0/tradeoffs_from_using_ulids_at_incidentio/)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

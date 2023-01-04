@@ -474,4 +474,7 @@ https://twitter.com/tailwindcss
 
 [An Auto-Filling CSS Grid With Max Columns of a Minimum Size](https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/)
 
+[Top 10 Advanced CSS Responsive Design Concepts You Should Know](https://www.youtube.com/watch?v=TUD1AWZVgQ8)
+
+
 

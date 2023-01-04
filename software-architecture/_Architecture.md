@@ -1237,5 +1237,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [PostgREST](https://news.ycombinator.com/item?id=34172205)
 
+[modules, not microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html) [hn](https://news.ycombinator.com/item?id=34230641)
+
 
 

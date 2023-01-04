@@ -104,4 +104,7 @@
 
 [the anti-pattern of delegating responsibility only to disagree with the decisions made](https://twitter.com/Carnage4Life/status/1608402476054765569)
 
+[Post to your Own Site, Syndicate Everywhere](https://startafuckingblog.com/). [hn](https://news.ycombinator.com/item?id=34231152)
+
+
 

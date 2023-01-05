@@ -108,5 +108,7 @@
 
 [resolving conflicts](https://www.youtube.com/watch?v=iZy4c3m0M3M)
 
+[document why](https://twitter.com/timmisiak/status/1610787282138849280)
+
 
 

@@ -134,4 +134,6 @@
 
 [   Should Small Rust Structs be Passed by-copy or by-borrow?](https://news.ycombinator.com/item?id=34196294)
 
+[Rust atomics and locks](https://twitter.com/m_ou_se/status/1611057658244792320)
+
 

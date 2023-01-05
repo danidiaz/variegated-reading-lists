@@ -968,6 +968,14 @@ get all equalities
 
 [Hofmann and Streicher’s universe construction from a more categorical perspective](https://twitter.com/jonmsterling/status/1609100908360613889). [twitter](https://twitter.com/jonmsterling/status/1609100908360613889)
 
+[double categories](https://twitter.com/bgavran3/status/1610247248700477441). [more](https://twitter.com/mattecapu/status/1610624335080816643). [476-page book on 2-categories and bicategories](https://twitter.com/HigherGeometer/status/1229250375334514688). [gist](https://twitter.com/sjoerd_visscher/status/1584904215331233792)
+
+>  they go up in dimension, "but in a different way" than 2/bi-categories
+
+> The crucial aspect of double categories is having a second kind of 1-morphism.
+
+
+
 
 
 

@@ -642,3 +642,11 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Cracking encrypted Lastpass vaults](https://markuta.com/cracking-lastpass-vaults/)
 
+[FAPI 2.0 Baseline Profile](https://openid.net/specs/fapi-2_0-baseline.html). [toot](https://functional.cafe/@arianvp/109635839790322050).
+
+> 1. Mandate OIDC to exchange identity between cloud providers and Forges/CI systems
+> 2. Mandate RFC 8693 to exchange those for access tokens
+> 3. Mandate RFC8705 or DPoP to bind access tokens to the actor  requesting access
+
+
+

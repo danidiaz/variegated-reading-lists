@@ -1241,3 +1241,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Domain modelling in object-oriented and functional programming](https://www.youtube.com/watch?v=yan1YOXvAUM)
 
+[Splitting a monolith into microservices with their own data stores means giving up on foreign keys for ensuring referential integrity.](https://twitter.com/gunnarmorling/status/1611796616104534018)
+
+

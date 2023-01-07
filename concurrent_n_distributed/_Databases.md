@@ -856,6 +856,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Trade-offs from using ULIDs](https://www.reddit.com/r/programming/comments/10278o0/tradeoffs_from_using_ulids_at_incidentio/)
 
+[generating SQL in real-time based on user's interactions](https://twitter.com/davidad/status/1611639674799276032)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

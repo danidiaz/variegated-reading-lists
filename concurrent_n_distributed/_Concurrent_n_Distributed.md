@@ -695,3 +695,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [Modeling Database Tables in Alloy](https://bytes.zone/posts/modeling-database-tables-in-alloy/)
 
+[Outwards from the Middle of the Maze](https://www.youtube.com/watch?v=cJRuEr0MiM4). [tweet](https://twitter.com/asatarin/status/1611531598679396353).
+
+

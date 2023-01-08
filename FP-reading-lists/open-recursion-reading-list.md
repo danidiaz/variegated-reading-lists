@@ -61,4 +61,6 @@ perform “deep” instrumentation of the interpreter
 
 > the residual
 
+[Haskell can have a little Inheritance as a Treat](https://tarmean.github.io/OpenRec)
+
 

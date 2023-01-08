@@ -305,3 +305,6 @@
 
 [Implementing an OAuth 2 authorization server with Spring Security - the new way!](https://twitter.com/spring_io/status/1605500208456032258). [Getting modules right with Domain-driven Design](https://twitter.com/spring_io/status/1605500799983009792).
 
+[Beginner’s Guide to the JPA AttributeConverter](https://vladmihalcea.com/jpa-attributeconverter/)
+
+

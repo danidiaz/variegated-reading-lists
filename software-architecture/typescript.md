@@ -82,5 +82,10 @@ const conforms: OnlyBoolsAndHorses = {
 
 [type-safe React Query](https://tkdodo.eu/blog/type-safe-react-query)
 
+[Intl.ListFormat](https://www.youtube.com/watch?v=dpyHNj1l0wg)
+
+[You might be using `fetch` wrong](https://twitter.com/Steve8708/status/1611437686958739456)
+
+
 
 

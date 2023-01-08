@@ -80,5 +80,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Self-Type-Checking Types](https://twitter.com/devanshj__/status/1610423724708343808)
 
+[type-safe React Query](https://tkdodo.eu/blog/type-safe-react-query)
+
 
 

@@ -650,3 +650,6 @@ https://react-query.tanstack.com/
 
 [forms (in)statisfaction](https://twitter.com/kentcdodds/status/1610785661816279041). [more](https://twitter.com/BHolmesDev/status/1610812416207495174).
 
+[React Query meets React Router](https://tkdodo.eu/blog/react-query-meets-react-router)
+
+

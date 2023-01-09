@@ -90,4 +90,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [when to use zod](https://twitter.com/mattpocockuk/status/1612397810183274497)
 
+[Typescript satisfies in Haskell](https://www.reddit.com/r/haskell/comments/105hvwc/typescript_satisfies_in_haskell/)
+
 

@@ -96,4 +96,3 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 >  The decode function ties the knot by just applying the identity (a constructor) at the end. So you really ought to be able to define two mutual Flow .. .. without any issue.
 
-

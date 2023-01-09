@@ -88,4 +88,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Error.prototype.cause](https://twitter.com/Steve8708/status/1611757223008665600)
 
+[when to use zod](https://twitter.com/mattpocockuk/status/1612397810183274497)
+
 

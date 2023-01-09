@@ -235,5 +235,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 > The Postgres optimizer (and the optimizer for many other modern DBMSes) will be able to push down predicates on the view into the actual view statement – provided this is a simple statement (again, this can be verified using explain analyze).
 
+[How to map a PostgreSQL Range column type with JPA and Hibernate](https://twitter.com/vlad_mihalcea/status/1612437289044529152)
 
 

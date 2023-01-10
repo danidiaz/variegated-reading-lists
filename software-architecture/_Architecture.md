@@ -1243,4 +1243,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Splitting a monolith into microservices with their own data stores means giving up on foreign keys for ensuring referential integrity.](https://twitter.com/gunnarmorling/status/1611796616104534018)
 
+[Architecture diagrams should be code](https://brianmckenna.org/blog/architecture_code). [lobsters](https://lobste.rs/s/i40mos/architecture_diagrams_should_be_code)
+
+[Overengineering in Onion/Hexagonal Architectures](https://victorrentea.ro/blog/overengineering-in-onion-hexagonal-architectures/)
+
+
 

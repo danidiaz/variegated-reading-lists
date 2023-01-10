@@ -110,5 +110,10 @@
 
 [document why](https://twitter.com/timmisiak/status/1610787282138849280)
 
+[churn](https://news.ycombinator.com/item?id=34328069)
+
+[names](https://news.ycombinator.com/item?id=34320517)
+
+> In my opinion, one of the top criteria for a good developer is that they don't fear making changes.
 
 

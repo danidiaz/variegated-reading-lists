@@ -652,7 +652,7 @@ https://react-query.tanstack.com/
 
 [React Query meets React Router](https://tkdodo.eu/blog/react-query-meets-react-router)
 
-[react-router main concepts](https://reactrouter.com/en/main/start/concepts) [and FAQs](https://reactrouter.com/en/main/start/faq)
+[react-router main concepts](https://reactrouter.com/en/main/start/concepts) [and FAQs](https://reactrouter.com/en/main/start/faq). [[V6] [Feature]: Support absolute paths in descendant <Routes>](https://github.com/remix-run/react-router/issues/8035)
 
 [A guide to streaming SSR with React 18](https://blog.logrocket.com/streaming-ssr-with-react-18/)
 

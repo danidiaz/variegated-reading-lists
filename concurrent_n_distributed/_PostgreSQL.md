@@ -237,4 +237,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [How to map a PostgreSQL Range column type with JPA and Hibernate](https://twitter.com/vlad_mihalcea/status/1612437289044529152)
 
+[How to JSON in PostgreSQL®](https://ftisiot.net/postgresqljson/main/)
+
+
 

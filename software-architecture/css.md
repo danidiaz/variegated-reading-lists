@@ -480,5 +480,6 @@ https://twitter.com/tailwindcss
 
 [Vanilla extract - Zero-runtime Stylesheets in TypeScript](https://vanilla-extract.style/)
 
+[CSS-in-JS support in DevTools](https://developer.chrome.com/blog/css-in-js/)
 
 

@@ -476,5 +476,6 @@ https://twitter.com/tailwindcss
 
 [Top 10 Advanced CSS Responsive Design Concepts You Should Know](https://www.youtube.com/watch?v=TUD1AWZVgQ8)
 
+[Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components/). [link](https://styled-components.com/).
 
 

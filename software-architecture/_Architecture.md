@@ -1067,7 +1067,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [UK COVID-19 dashboard built using Postgres and Citus for millions of users](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/uk-covid-19-dashboard-built-using-postgres-and-citus-for/ba-p/3036276)
 
-[DTOs yet again](https://victorrentea.ro/blog/control-your-data-structures/)
+[DTOs yet again](https://victorrentea.ro/blog/control-your-data-structures/). [And yet again](https://twitter.com/AdamBien/status/1613125106171084801).
 
 [Azure Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview).
 

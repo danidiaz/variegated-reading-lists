@@ -676,6 +676,8 @@ Bernini, his life and his Rome
 
 [“Wind's howling.” Meteorological Phenomena as Atmospheres in Digital Games](https://www.researchgate.net/publication/365917760_Wind's_howling_Meteorological_Phenomena_as_Atmospheres_in_Digital_Games). [mental atmospheres in videogames](https://mastodon.social/@paul_roquet@mastodon.mit.edu/109476279617311357).
 
+[terminating sightlines](https://twitter.com/Cobylefko/status/1613374521653792770)
+
 ## Podcasts
 
 - [Wie der Raum unser Verhalten bestimmt](http://www.deutschlandfunkkultur.de/colin-ellard-psychogeografie-wie-der-raum-unser-verhalten.1270.de.html?dram:article_id=385482)
@@ -771,5 +773,7 @@ Bernini, his life and his Rome
 [Swarm: preview and call for collaboration](https://byorgey.wordpress.com/2021/09/23/swarm-preview-and-call-for-collaboration/)
 
 [citizen sleeper](https://twitter.com/JumpOvertheAge/status/1606311674230734849)
+
+[how viewshed 2 works](https://desktop.arcgis.com/es/arcmap/latest/tools/spatial-analyst-toolbox/how-viewshed-2-works.htm)
 
 

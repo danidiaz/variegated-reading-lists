@@ -1247,5 +1247,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Overengineering in Onion/Hexagonal Architectures](https://victorrentea.ro/blog/overengineering-in-onion-hexagonal-architectures/)
 
+[local reasoning](https://twitter.com/nipafx/status/1613444693424996352). [thread](https://mail.openjdk.org/pipermail/amber-dev/2022-November/007580.html)
 
 

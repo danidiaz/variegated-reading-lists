@@ -382,6 +382,19 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082). [hn](https://news.ycombinator.com/item?id=34124215).  
 
+[Induction-recursion is a dependently-typed technique for evaluating typed DSLs.](https://twitter.com/tangled_zans/status/1613292105878863874). [Hutton's Razor](https://jfdm.github.io/post/2019-12-04-Razor.html)
+
+> data Ty = INT | REAL
+> 
+> interpTy : Ty -> Type
+> interpTy INT  = Int
+> interpTy REAL = Double
+> 
+> data Expr : Ty -> Type
+> ... 
+> 
+> eval : {t : Ty} -> Expr t -> Env t -> evalTy t
+
 
 # set theory
 

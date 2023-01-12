@@ -628,3 +628,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [semi-automation](https://news.ycombinator.com/item?id=34269318)
 
+[ a bibliography of ML modules and related topics](https://mathstodon.xyz/@elpinal/109676784280690403). [GitHub repo](https://github.com/elpinal/modules). [search](https://elpinal.gitlab.io/modules-bib/).
+

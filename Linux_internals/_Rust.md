@@ -136,4 +136,6 @@
 
 [Rust atomics and locks](https://twitter.com/m_ou_se/status/1611057658244792320)
 
+[Vulkan tutorial in Rust](https://news.ycombinator.com/item?id=34356060)
+
 

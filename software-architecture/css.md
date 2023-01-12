@@ -482,4 +482,6 @@ https://twitter.com/tailwindcss
 
 [CSS-in-JS support in DevTools](https://developer.chrome.com/blog/css-in-js/)
 
+[css has trick](https://twitter.com/jh3yy/status/1613346363131203585)
+
 

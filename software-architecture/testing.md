@@ -204,6 +204,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html). [Unit and Integration Tests](https://matklad.github.io/2022/07/04/unit-and-integration-tests.html).
 
-
+[Load Testing Crash Course with Gatling](https://www.youtube.com/watch?v=RiM1GsVSbzM)
 
 

@@ -656,6 +656,6 @@ https://react-query.tanstack.com/
 
 [A guide to streaming SSR with React 18](https://blog.logrocket.com/streaming-ssr-with-react-18/)
 
-[A Cure for useState Hell](https://www.builder.io/blog/use-reducer)
+[A Cure for useState Hell](https://www.builder.io/blog/use-reducer). [but, boilerplate?](https://twitter.com/floydophone/status/1613592378493005824)
 
 

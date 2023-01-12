@@ -234,4 +234,6 @@ What's added to .profile:
 
 [9 Best Employee Scheduling Apps For Small Businesses](https://www.clockshark.com/blog/small-business-employee-scheduling-app)
 
+[stacked spaces on Mac](https://twitter.com/t3dotgg/status/1613276064058593280). [rcmd](https://lowtechguys.com/rcmd/).
+
 

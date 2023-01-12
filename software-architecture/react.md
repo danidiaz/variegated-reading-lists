@@ -658,4 +658,6 @@ https://react-query.tanstack.com/
 
 [A Cure for useState Hell](https://www.builder.io/blog/use-reducer). [but, boilerplate?](https://twitter.com/floydophone/status/1613592378493005824)
 
+[Vercel, Turporepo, Next.js, TanStack Query, Zod, Stitches, Radix UI, Changesets, XState](https://twitter.com/christianhg/status/1613533674087088129)
+
 

@@ -484,4 +484,5 @@ https://twitter.com/tailwindcss
 
 [css has trick](https://twitter.com/jh3yy/status/1613346363131203585)
 
+[Naming things that don’t deserve to be named](https://twitter.com/adamwathan/status/1613719057014063104)
 

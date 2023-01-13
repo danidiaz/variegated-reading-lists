@@ -630,3 +630,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [ a bibliography of ML modules and related topics](https://mathstodon.xyz/@elpinal/109676784280690403). [GitHub repo](https://github.com/elpinal/modules). [search](https://elpinal.gitlab.io/modules-bib/).
 
+[an AI librarian](https://twitter.com/Grady_Booch/status/1613628881336152065)
+

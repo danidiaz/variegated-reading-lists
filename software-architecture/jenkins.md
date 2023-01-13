@@ -53,4 +53,5 @@
 
 [A Deep Dive into GitHub Actions’ Reusable Workflows](https://betterprogramming.pub/how-to-use-github-actions-reusable-workflow-8604e8cbf258)
 
+[Introducing required workflows and configuration variables to GitHub Actions](https://github.blog/2023-01-10-introducing-required-workflows-and-configuration-variables-to-github-actions/)
 

@@ -660,4 +660,6 @@ https://react-query.tanstack.com/
 
 [Vercel, Turporepo, Next.js, TanStack Query, Zod, Stitches, Radix UI, Changesets, XState](https://twitter.com/christianhg/status/1613533674087088129)
 
+[so many frameworks](https://twitter.com/mhevery/status/1613939006668177408)
+
 

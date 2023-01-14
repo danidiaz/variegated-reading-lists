@@ -171,4 +171,5 @@
 
 [How much memory my program uses or the tale of working set size](https://biriukov.dev/docs/page-cache/7-how-much-memory-my-program-uses-or-the-tale-of-working-set-size/#how-much-memory-my-program-uses-or-the-tale-of-working-set-size)
 
+[I don't understand terminals, shells and SSH](https://news.ycombinator.com/item?id=34382976)
 

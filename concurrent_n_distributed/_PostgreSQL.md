@@ -239,5 +239,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [How to JSON in PostgreSQL®](https://ftisiot.net/postgresqljson/main/)
 
+[Building a PostgreSQL Wire Protocol Server using Vanilla, Modern Java 21](https://gavinray97.github.io/blog/postgres-wire-protocol-jdk-21). [tweet](https://twitter.com/GavinRayDev/status/1615043478857125897)
 
 

@@ -173,3 +173,7 @@
 
 [I don't understand terminals, shells and SSH](https://news.ycombinator.com/item?id=34382976)
 
+[Investigating Filter Communication Ports](https://windows-internals.com/investigating-filter-communication-ports/)
+
+
+

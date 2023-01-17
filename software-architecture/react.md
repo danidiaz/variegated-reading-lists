@@ -652,7 +652,7 @@ https://react-query.tanstack.com/
 
 [React Query meets React Router](https://tkdodo.eu/blog/react-query-meets-react-router)
 
-[react-router main concepts](https://reactrouter.com/en/main/start/concepts) [and FAQs](https://reactrouter.com/en/main/start/faq). [[V6] [Feature]: Support absolute paths in descendant <Routes>](https://github.com/remix-run/react-router/issues/8035)
+[react-router main concepts](https://reactrouter.com/en/main/start/concepts) [and FAQs](https://reactrouter.com/en/main/start/faq). [[V6] [Feature]: Support absolute paths in descendant <Routes>](https://github.com/remix-run/react-router/issues/8035). [loader trouble](https://twitter.com/housecor/status/1615125193747316736).
 
 [A guide to streaming SSR with React 18](https://blog.logrocket.com/streaming-ssr-with-react-18/)
 
@@ -661,5 +661,8 @@ https://react-query.tanstack.com/
 [Vercel, Turporepo, Next.js, TanStack Query, Zod, Stitches, Radix UI, Changesets, XState](https://twitter.com/christianhg/status/1613533674087088129)
 
 [so many frameworks](https://twitter.com/mhevery/status/1613939006668177408)
+
+[Safe Data Fetching in Modern JavaScript](https://www.builder.io/blog/safe-data-fetching)
+
 
 

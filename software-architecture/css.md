@@ -486,3 +486,6 @@ https://twitter.com/tailwindcss
 
 [Naming things that don’t deserve to be named](https://twitter.com/adamwathan/status/1613719057014063104)
 
+[Container queries can be used to apply CSS conditionally, based on a CSS variable](https://twitter.com/JoshWComeau/status/1615037320721203204)
+
+

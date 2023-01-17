@@ -99,4 +99,8 @@
 
 [The state of HTTP in 2022](https://blog.cloudflare.com/the-state-of-http-in-2022/)
 
+[How does it know I want CSV?](https://news.ycombinator.com/item?id=34410072)
+
+
+
 

@@ -488,4 +488,7 @@ https://twitter.com/tailwindcss
 
 [Container queries can be used to apply CSS conditionally, based on a CSS variable](https://twitter.com/JoshWComeau/status/1615037320721203204)
 
+[[Feature request] CSS Grid - Auto-Fit & Auto-Fill ](https://github.com/tailwindlabs/tailwindcss/issues/1403)
+
+
 

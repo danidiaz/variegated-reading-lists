@@ -131,6 +131,8 @@
 
 - UMR unique market reference
 
+- [Viatical settlement](https://en.wikipedia.org/wiki/Viatical_settlement). [Investopedia](https://www.investopedia.com/terms/v/viaticalsettlement.asp). [The Atlantic](https://www.theatlantic.com/health/archive/2018/10/viatical-settlements-aids-gay-men/572044/).
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

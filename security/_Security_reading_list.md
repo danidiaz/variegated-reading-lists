@@ -648,5 +648,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 > 2. Mandate RFC 8693 to exchange those for access tokens
 > 3. Mandate RFC8705 or DPoP to bind access tokens to the actor  requesting access
 
+[User-friendly, phishing-proof 2FA with WebAuthn by Emil Lundberg](https://www.youtube.com/watch?v=5frTfbO8n9g)
 
+[Authentication UX Anti-Patterns](https://www.youtube.com/watch?v=u9j7_KuqJdg)
 

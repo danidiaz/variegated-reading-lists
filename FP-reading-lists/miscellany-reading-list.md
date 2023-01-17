@@ -632,3 +632,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [an AI librarian](https://twitter.com/Grady_Booch/status/1613628881336152065)
 
+[There's No Such Thing As Plain Text](https://www.youtube.com/watch?v=J8nblo6BawU)
+

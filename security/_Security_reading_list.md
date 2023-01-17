@@ -652,3 +652,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Authentication UX Anti-Patterns](https://www.youtube.com/watch?v=u9j7_KuqJdg)
 
+[What's the right UX for an expired certificate?](https://emilymstark.com/2023/01/16/whats-the-right-ux-for-an-expired-certificate.html)
+
+

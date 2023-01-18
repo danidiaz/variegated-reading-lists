@@ -490,5 +490,16 @@ https://twitter.com/tailwindcss
 
 [[Feature request] CSS Grid - Auto-Fit & Auto-Fill ](https://github.com/tailwindlabs/tailwindcss/issues/1403)
 
+[Auto-Sizing Columns in CSS Grid: `auto-fill` vs `auto-fit`](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/). [CSS Grid auto fit with max-content](https://stackoverflow.com/questions/52764726/css-grid-auto-fit-with-max-content).
+
+> auto-fill FILLS the row with as many columns as it can fit. So it creates implicit columns whenever a new column can fit, because it’s trying to FILL the row with as many columns as it can. The newly added columns can and may be empty, but they will still occupy a designated space in the row.
+
+> auto-fit FITS the CURRENTLY AVAILABLE columns into the space by expanding them so that they take up any available space. The browser does that after FILLING that extra space with extra columns (as with auto-fill ) and then collapsing the empty ones.
+
+> Automatic repetitions (auto-fill or auto-fit) cannot be combined with intrinsic or flexible sizes.
+
+> Whats an intrinsic or flexible sizes ?
+
+> An intrinsic sizing function (min-content, max-content, auto, fit-content()).
 
 

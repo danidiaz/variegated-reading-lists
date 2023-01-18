@@ -669,3 +669,7 @@ https://react-query.tanstack.com/
 > isLoading will only be true when the query is in a hard loading state where it has no data. Otherwise, it will give you the stale data while making a background refetch. This is on purpose for most cases (stale-while-revalidate). Your data stays in the cache for 5 minutes after your detail view unmounts because that’s the default cacheTime.
 
 [Categorizing Components Into Smart & Dumb](https://www.digitalocean.com/community/tutorials/react-smart-dumb-components). [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0). [What is a correct usage of smart/dumb component pattern?](https://stackoverflow.com/questions/61906159/what-is-a-correct-usage-of-smart-dumb-component-pattern). [Smart vs Dumb Components: When to use which](https://coderwall.com/p/znkw-q/smart-vs-dumb-components-when-to-use-which). 
+
+[Use React.FC or not?](https://twitter.com/jsjoeio/status/1615484128878788616)
+
+

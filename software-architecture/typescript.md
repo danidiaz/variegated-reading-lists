@@ -92,4 +92,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Typescript satisfies in Haskell](https://www.reddit.com/r/haskell/comments/105hvwc/typescript_satisfies_in_haskell/)
 
+[Better Configuration in TypeScript with the `satisfies` Operator](https://www.builder.io/blog/satisfies-operator)
+
+
 

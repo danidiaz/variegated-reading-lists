@@ -240,4 +240,6 @@ What's added to .profile:
 
 > Cmd + j
 
+[Reduce screen motion on Mac](https://support.apple.com/en-gb/guide/mac-help/mchlc03f57a1/mac)
+
 

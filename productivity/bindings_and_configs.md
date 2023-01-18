@@ -236,4 +236,8 @@ What's added to .profile:
 
 [stacked spaces on Mac](https://twitter.com/t3dotgg/status/1613276064058593280). [rcmd](https://lowtechguys.com/rcmd/).
 
+[close the error output panel on VSCode when it pops up?](https://stackoverflow.com/questions/46242720/what-keyboard-shortcuts-can-i-use-to-close-the-error-output-panel-on-vscode-wh)
+
+> Cmd + j
+
 

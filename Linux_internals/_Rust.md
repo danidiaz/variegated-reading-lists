@@ -138,4 +138,6 @@
 
 [Vulkan tutorial in Rust](https://news.ycombinator.com/item?id=34356060)
 
+[Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/)
+
 

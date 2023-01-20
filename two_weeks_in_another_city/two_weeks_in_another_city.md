@@ -740,6 +740,8 @@ Bernini, his life and his Rome
 
 [Pentiment's text animations](https://www.rockpapershotgun.com/pentiments-text-animations-are-my-new-happy-place)
 
+[Parser as Prototype: why choice-based games are more interesting](https://threeedgedsword.wordpress.com/2013/12/05/parser-as-prototype-why-choice-based-games-are-more-interesting/). 
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)
@@ -775,5 +777,4 @@ Bernini, his life and his Rome
 [citizen sleeper](https://twitter.com/JumpOvertheAge/status/1606311674230734849)
 
 [how viewshed 2 works](https://desktop.arcgis.com/es/arcmap/latest/tools/spatial-analyst-toolbox/how-viewshed-2-works.htm)
-
 

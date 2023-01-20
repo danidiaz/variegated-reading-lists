@@ -502,4 +502,13 @@ https://twitter.com/tailwindcss
 
 > An intrinsic sizing function (min-content, max-content, auto, fit-content()).
 
+[Understanding min-content, max-content, and fit-content in CSS](https://blog.logrocket.com/understanding-min-content-max-content-fit-content-css/). [CSS Box Sizing Module Level 3](https://www.w3.org/TR/css-sizing-3/#block-intrinsic). [What is the difference between CSS fit-content and max-content?](https://stackoverflow.com/questions/30704073/what-is-the-difference-between-css-fit-content-and-max-content). [A use case for CSS min-content and max-content](https://www.stefanjudis.com/today-i-learned/a-use-case-for-css-min-content-and-max-content/). [fit-content and fit-content()](https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html). [Responsive grids and how to actually use them](https://uxdesign.cc/responsive-grids-and-how-to-actually-use-them-970de4c16e01).
+
+[design tokens](https://spectrum.adobe.com/page/design-tokens/)
+
+[]().
+
+
+
+
 

@@ -175,5 +175,7 @@
 
 [Investigating Filter Communication Ports](https://windows-internals.com/investigating-filter-communication-ports/)
 
+[Huge pages](https://lobste.rs/s/hwf01p/huge_pages_are_good_idea)
+
 
 

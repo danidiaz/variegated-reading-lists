@@ -672,4 +672,12 @@ https://react-query.tanstack.com/
 
 [Use React.FC or not?](https://twitter.com/jsjoeio/status/1615484128878788616)
 
+[React Grid - Controlled (Stateless) and Uncontrolled (Stateful) Modes](https://devexpress.github.io/devextreme-reactive/react/grid/docs/guides/controlled-and-uncontrolled-modes/)
+
+[React Data Grid: Grid API](https://www.ag-grid.com/react-data-grid/grid-api/)
+
+[React Dev, You Need To Know @container!](https://www.youtube.com/watch?v=ypN-Uwshc5M)
+
+[CSS Layers Are Changing How Specificity Works](https://www.youtube.com/watch?v=Pr1PezCc4FU)
+
 

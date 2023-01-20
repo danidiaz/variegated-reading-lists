@@ -241,4 +241,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Building a PostgreSQL Wire Protocol Server using Vanilla, Modern Java 21](https://gavinray97.github.io/blog/postgres-wire-protocol-jdk-21). [tweet](https://twitter.com/GavinRayDev/status/1615043478857125897)
 
+[Choosing a Postgres Primary Key](https://news.ycombinator.com/item?id=34451344)
+
+
 

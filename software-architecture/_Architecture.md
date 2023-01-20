@@ -1249,4 +1249,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [local reasoning](https://twitter.com/nipafx/status/1613444693424996352). [thread](https://mail.openjdk.org/pipermail/amber-dev/2022-November/007580.html)
 
+[awesome-infrastructure-questions](https://github.com/dyrector-io/awesome-infrastructure-questions)
+
+
 

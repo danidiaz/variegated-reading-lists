@@ -676,8 +676,3 @@ https://react-query.tanstack.com/
 
 [React Data Grid: Grid API](https://www.ag-grid.com/react-data-grid/grid-api/)
 
-[React Dev, You Need To Know @container!](https://www.youtube.com/watch?v=ypN-Uwshc5M)
-
-[CSS Layers Are Changing How Specificity Works](https://www.youtube.com/watch?v=Pr1PezCc4FU)
-
-

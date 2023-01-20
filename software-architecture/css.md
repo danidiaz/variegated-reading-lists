@@ -506,7 +506,11 @@ https://twitter.com/tailwindcss
 
 [design tokens](https://spectrum.adobe.com/page/design-tokens/)
 
-[]().
+[React Dev, You Need To Know @container!](https://www.youtube.com/watch?v=ypN-Uwshc5M)
+
+[CSS Layers Are Changing How Specificity Works](https://www.youtube.com/watch?v=Pr1PezCc4FU)
+
+[Intrinsic CSS with Container Queries and Units with Miriam Suzanne](https://www.youtube.com/watch?v=uumZV98zHt8)
 
 
 

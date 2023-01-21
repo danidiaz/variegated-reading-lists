@@ -140,4 +140,6 @@
 
 [Rust concepts I wish I learned earlier](https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/)
 
+[htmx and Rust](https://twitter.com/mbvisti/status/1616539940006887447)
+
 

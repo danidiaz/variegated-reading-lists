@@ -642,7 +642,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > Future effect system users will probably face a choice between nondeterminism-capable libraries and MonadUnliftIO-capable libraries and they will need to choose based on their specific needs.
 
-
+[Writing a Haskell persistence layer using Generics and Reflection](https://thma.github.io/posts/2023-01-21-a-haskell-persistence-layer-using-generics-and-reflection.html)
 
 
 

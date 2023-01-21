@@ -676,3 +676,6 @@ https://react-query.tanstack.com/
 
 [React Data Grid: Grid API](https://www.ag-grid.com/react-data-grid/grid-api/)
 
+[interesting uses of react-query](https://twitter.com/TkDodo/status/1616490384305311745)
+
+

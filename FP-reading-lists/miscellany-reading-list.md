@@ -634,3 +634,15 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [There's No Such Thing As Plain Text](https://www.youtube.com/watch?v=J8nblo6BawU)
 
+[evidence-passing effect handlers](https://discourse.haskell.org/t/the-issues-with-effect-systems/5630/19)
+
+> What is evidence-passing? It basically means to pass the effect handlers around in the Eff monad, so instead of handlers traversing a big program tree like in free monads, we directly call the handlers in place. This is a much more performant approach, and it’s pretty shocking that nobody thought of this before. Nowadays, eff, eveff, mpeff, speff, cleff, and effectful all use evidence passing.
+
+> Delimited continuations are nothing new actually, and has been used to develop other languages with effects like Koka since at least 2015. Probably nobody thought of doing this in Haskell before because Haskell didn’t support it natively, and they didn’t think it would be efficient. Ningning came up with a monad that can do delimited continuations fairly fast, which is used in eveff, mpeff and speff.
+
+> Future effect system users will probably face a choice between nondeterminism-capable libraries and MonadUnliftIO-capable libraries and they will need to choose based on their specific needs.
+
+
+
+
+

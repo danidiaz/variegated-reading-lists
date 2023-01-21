@@ -177,5 +177,6 @@
 
 [Huge pages](https://lobste.rs/s/hwf01p/huge_pages_are_good_idea)
 
+[Reverse engineering the MacBook clamshell mode](https://alinpanaitiu.com/blog/turn-off-macbook-display-clamshell/)
 
 

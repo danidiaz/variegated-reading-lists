@@ -678,6 +678,6 @@ https://react-query.tanstack.com/
 
 [interesting uses of react-query](https://twitter.com/TkDodo/status/1616490384305311745)
 
-[don't use create-react-app](https://twitter.com/adamwathan/status/1616938902966640641)
+[don't use create-react-app](https://twitter.com/adamwathan/status/1616938902966640641). [Next if you need SSR or an api, Vite if you don’t](https://twitter.com/t3dotgg/status/1616920999366365184).
 
 

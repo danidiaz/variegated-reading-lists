@@ -94,5 +94,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Better Configuration in TypeScript with the `satisfies` Operator](https://www.builder.io/blog/satisfies-operator)
 
+[setTimeout(resolve, ms, value);](https://twitter.com/WebReflection/status/1616835902893969409)
+
 
 

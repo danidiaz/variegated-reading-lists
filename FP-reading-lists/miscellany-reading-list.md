@@ -644,5 +644,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Writing a Haskell persistence layer using Generics and Reflection](https://thma.github.io/posts/2023-01-21-a-haskell-persistence-layer-using-generics-and-reflection.html)
 
-
+[Composing bidirectional programs monadically](https://arxiv.org/pdf/1902.06950.pdf)
 

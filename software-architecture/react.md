@@ -680,4 +680,6 @@ https://react-query.tanstack.com/
 
 [don't use create-react-app](https://twitter.com/adamwathan/status/1616938902966640641). [Next if you need SSR or an api, Vite if you don’t](https://twitter.com/t3dotgg/status/1616920999366365184).
 
+[built-in solutions for data fetching, routing, and server rendering](https://twitter.com/acdlite/status/1617611127982284800)
+
 

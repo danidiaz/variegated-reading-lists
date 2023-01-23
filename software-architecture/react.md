@@ -682,4 +682,6 @@ https://react-query.tanstack.com/
 
 [built-in solutions for data fetching, routing, and server rendering](https://twitter.com/acdlite/status/1617611127982284800)
 
+[tanstack-query irksome things](https://twitter.com/TkDodo/status/1617529812180152320)
+
 

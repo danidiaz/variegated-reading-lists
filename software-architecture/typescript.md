@@ -96,5 +96,5 @@ const conforms: OnlyBoolsAndHorses = {
 
 [setTimeout(resolve, ms, value);](https://twitter.com/WebReflection/status/1616835902893969409)
 
-
+[Deep Cloning Objects in JavaScript, the Modern Way](https://dev.to/builderio/deep-cloning-objects-in-javascript-the-modern-way-17kf)
 

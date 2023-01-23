@@ -782,3 +782,5 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [devenv.lib.mkShell](https://twitter.com/sridca/status/1608119023857815554)
 
+[zero to nix](https://lobste.rs/s/kf3xym/introducing_zero_nix)
+

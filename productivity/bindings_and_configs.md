@@ -242,4 +242,6 @@ What's added to .profile:
 
 [Reduce screen motion on Mac](https://support.apple.com/en-gb/guide/mac-help/mchlc03f57a1/mac)
 
+[Make TMUX Look Amazing in 3 Minutes!](https://www.reddit.com/r/vim/comments/10in7wl/a_beautiful_tmux_setup_in_3_minutes/)
+
 

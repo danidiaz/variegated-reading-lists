@@ -243,5 +243,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Choosing a Postgres Primary Key](https://news.ycombinator.com/item?id=34451344)
 
+[optimising LATERAL](https://twitter.com/lukaseder/status/1617869849723650050)
 
 

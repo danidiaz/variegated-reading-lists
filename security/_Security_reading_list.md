@@ -654,4 +654,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [What's the right UX for an expired certificate?](https://emilymstark.com/2023/01/16/whats-the-right-ux-for-an-expired-certificate.html)
 
+[What's your go-to, hosted, authentication solution?](https://twitter.com/MicheleRivaCode/status/1617810704492367872). [Common Amazon Cognito scenarios](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-scenarios.html)
+
+
+
 

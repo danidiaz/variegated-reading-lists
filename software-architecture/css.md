@@ -516,4 +516,6 @@ https://twitter.com/tailwindcss
 
 [Making width and flexible items play nice together](https://css-tricks.com/making-width-and-flexible-items-play-nice-together/)
 
+[css variables](https://twitter.com/argyleink/status/1618682893936758785)
+
 

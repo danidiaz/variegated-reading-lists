@@ -1251,5 +1251,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [awesome-infrastructure-questions](https://github.com/dyrector-io/awesome-infrastructure-questions)
 
+[separate view logic and app logi layers](https://twitter.com/ryanflorence/status/1618661815843721216)
 
+ 
 

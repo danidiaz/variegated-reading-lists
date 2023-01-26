@@ -512,7 +512,7 @@ https://twitter.com/tailwindcss
 
 [Intrinsic CSS with Container Queries and Units with Miriam Suzanne](https://www.youtube.com/watch?v=uumZV98zHt8)
 
-
+[Is there any difference setting width: auto; and width: fit-content?](https://stackoverflow.com/questions/71597165/is-there-any-difference-setting-width-auto-and-width-fit-content). [CSS width auto vs 100% | What's the difference?](https://www.youtube.com/watch?v=-st14lUQD3U).
 
 
 

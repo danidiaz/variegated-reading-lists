@@ -646,3 +646,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Composing bidirectional programs monadically](https://arxiv.org/pdf/1902.06950.pdf)
 
+[Distinguishing an Interpreter from a Compiler](https://tratt.net/laurie/blog/2023/distinguishing_an_interpreter_from_a_compiler.html)
+
+

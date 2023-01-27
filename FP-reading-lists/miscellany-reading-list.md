@@ -648,4 +648,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Distinguishing an Interpreter from a Compiler](https://tratt.net/laurie/blog/2023/distinguishing_an_interpreter_from_a_compiler.html)
 
+[Erlang](https://www.reddit.com/r/haskell/comments/10mgd0a/erlangs_not_about_lightweight_processes_and/). [HN](https://news.ycombinator.com/item?id=34545061).
+
+> In February 1998 Erlang was banned for new product development within Ericsson
+
 

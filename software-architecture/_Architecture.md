@@ -1255,5 +1255,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Vertical Slice Architecture, not Layers!](https://www.youtube.com/watch?v=L2Wnq0ChAIA) 
 
-
+[What is a DDD Aggregate?](https://www.youtube.com/watch?v=zlFqjD2LKlE)
 

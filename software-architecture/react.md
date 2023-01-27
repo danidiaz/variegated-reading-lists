@@ -686,4 +686,7 @@ https://react-query.tanstack.com/
 
 ["Redux-saga was a bad idea"](https://twitter.com/t3dotgg/status/1618465858275381249)
 
+[How is Remix different from Next.js?](https://remix.run/blog/remix-vs-next). [A Look At Remix And The Differences With Next.js](https://www.smashingmagazine.com/2022/07/look-remix-differences-next/). [another comparison](https://techblog.geekyants.com/remix-vs-nextjs). [one form many actions in remix](https://twitter.com/wking__/status/1618634521506877441)
+
+
 

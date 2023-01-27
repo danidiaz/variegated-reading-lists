@@ -518,4 +518,7 @@ https://twitter.com/tailwindcss
 
 [css variables](https://twitter.com/argyleink/status/1618682893936758785)
 
+[What should a modern CSS boilerplate look like?](https://blog.logrocket.com/what-should-modern-css-boilerplate-look-like/). [tailwind preflight](https://tailwindcss.com/docs/preflight). [modern-normalize](https://github.com/sindresorhus/modern-normalize).
+
+
 

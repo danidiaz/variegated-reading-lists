@@ -206,4 +206,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Load Testing Crash Course with Gatling](https://www.youtube.com/watch?v=RiM1GsVSbzM)
 
+[Don’t Do E2E Testing!](https://www.youtube.com/watch?v=QFCHSEHgqFE). [wiremock](https://wiremock.org/).
+
 

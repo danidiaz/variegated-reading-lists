@@ -1253,5 +1253,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [separate view logic and app logi layers](https://twitter.com/ryanflorence/status/1618661815843721216)
 
- 
+[Vertical Slice Architecture, not Layers!](https://www.youtube.com/watch?v=L2Wnq0ChAIA) 
+
+
 

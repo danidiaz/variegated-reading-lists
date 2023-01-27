@@ -684,4 +684,6 @@ https://react-query.tanstack.com/
 
 [tanstack-query irksome things](https://twitter.com/TkDodo/status/1617529812180152320)
 
+["Redux-saga was a bad idea"](https://twitter.com/t3dotgg/status/1618465858275381249)
+
 

@@ -94,5 +94,5 @@
 
 [Getting started with nmap](https://ittavern.com/getting-started-with-nmap/)
 
-
+[LINEAR CONSTRAINTS: THE PROBLEM WITH O(1) FREEZE](https://www.tweag.io/blog/2023-01-26-linear-constraints-freeze/)
 

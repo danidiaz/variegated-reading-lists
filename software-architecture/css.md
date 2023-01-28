@@ -522,4 +522,5 @@ https://twitter.com/tailwindcss
 
 [What The Heck, z-index??](https://www.joshwcomeau.com/css/stacking-contexts/)
 
+[W3C: cascading and inheritance](https://www.w3.org/TR/css-cascade/#computed)
 

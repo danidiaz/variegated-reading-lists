@@ -858,6 +858,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [generating SQL in real-time based on user's interactions](https://twitter.com/davidad/status/1611639674799276032)
 
+[Advanced DB Lecture #1: Andy's History of Databases](https://www.youtube.com/watch?v=LWS8LEQAUVc&t=747s). [tweet](https://twitter.com/andy_pavlo/status/1618794803772428288?t=hde__LosACLAdgq6P2MCHA&s=03)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

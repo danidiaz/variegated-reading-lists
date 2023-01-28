@@ -35,6 +35,10 @@
 > would cause your life insurance policy to lapse, triggering a possible
 > taxable event on the earnings and denying your heirs a death benefit. 
 
+[insurance & quants](https://twitter.com/quant_arb/status/1618684955147792384)
+
+> your data is less noisy, and all the contracts are super exotic.
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

@@ -116,4 +116,5 @@
 
 > In my opinion, one of the top criteria for a good developer is that they don't fear making changes.
 
+[Software Is Never Done (2019)](https://news.ycombinator.com/item?id=34558707)
 

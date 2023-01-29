@@ -307,7 +307,7 @@
 
 [Beginner’s Guide to the JPA AttributeConverter](https://vladmihalcea.com/jpa-attributeconverter/)
 
-[jakarta.annotation.PostConstruct](https://stackoverflow.com/a/73852298/1364288)
+[jakarta.annotation.PostConstruct](https://stackoverflow.com/a/73852298/1364288). [Spring bean creation lifecycle : Why having multiple interaction points?](https://stackoverflow.com/questions/65091869/spring-bean-creation-lifecycle-why-having-multiple-interaction-points)
 
 > Spring uses jakarta.annotation.PostConstruct. As a contributor in spring-cloud-kubernetes, I have used it and included it in that project numerous times. As a matter of fact we favor dropping InitializingBean.
 

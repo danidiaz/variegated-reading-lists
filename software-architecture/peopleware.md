@@ -122,4 +122,7 @@
 
 > the implication of running part-complete features
 
+> or maybe start up with a shell of a service which isn't connected to other services yet
+
+> this isn't a switch [...] this is more complicated [...] we need something more complicated.
 

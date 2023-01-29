@@ -118,3 +118,5 @@
 
 [Software Is Never Done (2019)](https://news.ycombinator.com/item?id=34558707)
 
+[small steps](https://www.youtube.com/watch?v=UwC7nIuiqEw)
+

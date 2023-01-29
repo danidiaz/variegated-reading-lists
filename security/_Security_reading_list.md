@@ -656,6 +656,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [What's your go-to, hosted, authentication solution?](https://twitter.com/MicheleRivaCode/status/1617810704492367872). [Common Amazon Cognito scenarios](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-scenarios.html)
 
-
+[What Is Email Only Authentication](https://www.youtube.com/watch?v=b6qHfPdv4Y8)
 
 

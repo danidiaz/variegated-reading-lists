@@ -244,5 +244,7 @@ Stuff about the heap:
 
 [From delimited continuations to algebraic effects in Haskell](https://www.reddit.com/r/haskell/comments/101bcx9/from_delimited_continuations_to_algebraic_effects/)
 
+[How can I remove all the boilerplate introduced by Trees That Grow?](https://stackoverflow.com/questions/75268118/how-can-i-remove-all-the-boilerplate-introduced-by-trees-that-grow)
+
 
 

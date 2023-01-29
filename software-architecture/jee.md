@@ -307,8 +307,12 @@
 
 [Beginner’s Guide to the JPA AttributeConverter](https://vladmihalcea.com/jpa-attributeconverter/)
 
-[jakarta.annotation.PostConstruct](https://stackoverflow.com/a/73852298/1364288). [Spring bean creation lifecycle : Why having multiple interaction points?](https://stackoverflow.com/questions/65091869/spring-bean-creation-lifecycle-why-having-multiple-interaction-points)
+[jakarta.annotation.PostConstruct](https://stackoverflow.com/a/73852298/1364288). [Spring bean creation lifecycle : Why having multiple interaction points?](https://stackoverflow.com/questions/65091869/spring-bean-creation-lifecycle-why-having-multiple-interaction-points). [this linked one is possibly bad advice, see the critical comments](https://levelup.gitconnected.com/stop-using-postconstruct-in-your-java-applications-2a66fb202cb8)
 
 > Spring uses jakarta.annotation.PostConstruct. As a contributor in spring-cloud-kubernetes, I have used it and included it in that project numerous times. As a matter of fact we favor dropping InitializingBean.
+
+[Executing Code on Spring Boot Application Startup](https://reflectoring.io/spring-boot-execute-on-startup/)
+
+> The @PostConstruct method is called right after the bean has been created by Spring, so we cannot order it freely with the @order annotation, as it may depend on other Spring beans that are @Autowired into our bean.
 
 

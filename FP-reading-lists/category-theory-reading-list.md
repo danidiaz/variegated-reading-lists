@@ -974,7 +974,7 @@ get all equalities
 
 > The crucial aspect of double categories is having a second kind of 1-morphism.
 
-[ how to encode monadic lenses in Haskell](https://twitter.com/_julesh_/status/1619713542114152451)
+[ how to encode monadic lenses in Haskell](https://twitter.com/_julesh_/status/1619713542114152451). [Is there a van Laarhoven optic based on the Monad typeclass?](https://stackoverflow.com/questions/75253559/is-there-a-van-laarhoven-optic-based-on-the-monad-typeclass)
 
 
 

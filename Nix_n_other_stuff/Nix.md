@@ -784,3 +784,8 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [zero to nix](https://lobste.rs/s/kf3xym/introducing_zero_nix)
 
+[terraform-nixos-ng: Modern terraform support for NixOS](https://www.haskellforall.com/2023/01/terraform-nixos-ng-modern-terraform.html). [nixos-rebuild](https://www.haskellforall.com/2023/01/announcing-nixos-rebuild-new-deployment.html).
+
+
+
+

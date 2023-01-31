@@ -652,4 +652,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > In February 1998 Erlang was banned for new product development within Ericsson
 
+[tag systems](https://lobste.rs/s/ep44fv/tag_systems)
+
 

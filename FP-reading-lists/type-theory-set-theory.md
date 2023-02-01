@@ -395,7 +395,7 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 > 
 > eval : {t : Ty} -> Expr t -> Env t -> evalTy t
 
-[An Order-Theoretic Analysis of Universe Polymorphism](https://favonia.org/files/mugen.pdf). [tweet](https://twitter.com/jjcarett2/status/1587742598847922178)
+[An Order-Theoretic Analysis of Universe Polymorphism](https://favonia.org/files/mugen.pdf). [tweet](https://twitter.com/jjcarett2/status/1587742598847922178). [on infinity](https://lawrencecpaulson.github.io/2023/02/01/On-the-infinite.html)
 
 # set theory
 

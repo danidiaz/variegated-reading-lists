@@ -179,4 +179,6 @@
 
 [Reverse engineering the MacBook clamshell mode](https://alinpanaitiu.com/blog/turn-off-macbook-display-clamshell/)
 
+[bad news with transparent hugepages](https://news.ycombinator.com/item?id=34607604)
+
 

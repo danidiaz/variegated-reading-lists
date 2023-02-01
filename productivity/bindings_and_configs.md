@@ -248,4 +248,9 @@ What's added to .profile:
 
 [Configuring VSCode as a Keyboard-Centric IDE](https://davi.sh/blog/2023/01/vscode-like-emacs/)
 
+[rcmd](https://lowtechguys.com/rcmd/). [things about windows](https://alinpanaitiu.com/blog/window-switcher-app-store/)
+
+[How to combine Spaces & Stage Manager in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-combine-spaces-stage-manager-in-macos-ventura). [Does Stage Manager do anything better than Spaces?](https://www.reddit.com/r/MacOS/comments/ycxl4r/does_stage_manager_do_anything_better_than_spaces/).
+
+
 

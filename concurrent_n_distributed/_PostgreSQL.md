@@ -257,4 +257,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 > none
 
+[Parquet and Postgres in the Data Lake](https://www.crunchydata.com/blog/parquet-and-postgres-in-the-data-lake)
+
 

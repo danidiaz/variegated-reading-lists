@@ -694,3 +694,8 @@ https://react-query.tanstack.com/
 
 [Speed Up Your React Apps With Code Splitting](https://www.youtube.com/watch?v=JU6sl_yyZqs)
 
+[Virtual DOM is pure overhead (2018)](https://news.ycombinator.com/item?id=34615578)
+
+[All of the major open-source React frameworks now have the backing of a for-profit company](https://twitter.com/tomlienard/status/1620875348945801216)
+
+

@@ -688,5 +688,9 @@ https://react-query.tanstack.com/
 
 [How is Remix different from Next.js?](https://remix.run/blog/remix-vs-next). [A Look At Remix And The Differences With Next.js](https://www.smashingmagazine.com/2022/07/look-remix-differences-next/). [another comparison](https://techblog.geekyants.com/remix-vs-nextjs). [one form many actions in remix](https://twitter.com/wking__/status/1618634521506877441)
 
+[TanStack Router: Type safe routing and URL state management for your applications](https://www.youtube.com/watch?v=qUZm3gbMOeo). [What Is TanStack Router And Why I Love It](https://www.youtube.com/watch?v=OwoZtv6u9p4).
 
+> the evolution of react-router?
+
+[Speed Up Your React Apps With Code Splitting](https://www.youtube.com/watch?v=JU6sl_yyZqs)
 

@@ -244,4 +244,8 @@ What's added to .profile:
 
 [Make TMUX Look Amazing in 3 Minutes!](https://www.reddit.com/r/vim/comments/10in7wl/a_beautiful_tmux_setup_in_3_minutes/)
 
+[Use spotlight to hop between apps](https://twitter.com/BHolmesDev/status/1620428468776476673)
+
+[Configuring VSCode as a Keyboard-Centric IDE](https://davi.sh/blog/2023/01/vscode-like-emacs/)
+
 

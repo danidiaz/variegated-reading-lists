@@ -860,6 +860,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Advanced DB Lecture #1: Andy's History of Databases](https://www.youtube.com/watch?v=LWS8LEQAUVc&t=747s). [tweet](https://twitter.com/andy_pavlo/status/1618794803772428288?t=hde__LosACLAdgq6P2MCHA&s=03)
 
+[how do you test SQL?](https://news.ycombinator.com/item?id=34602318)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

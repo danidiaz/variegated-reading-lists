@@ -245,4 +245,16 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [optimising LATERAL](https://twitter.com/lukaseder/status/1617869849723650050)
 
+[What is a valid use case for using TIMESTAMP WITHOUT TIME ZONE?](https://dba.stackexchange.com/questions/59006/what-is-a-valid-use-case-for-using-timestamp-without-time-zone). [discussion in postgresql-simple](https://hackage.haskell.org/package/postgresql-simple-0.6.5/docs/Database-PostgreSQL-Simple-Time.html). [STORING UTC IS NOT A SILVER BULLET](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
+
+> Booking future appointments
+
+> If you do have users, logs, or anything on different timezones, store the timezone they are coming from somewhere and choose and use timestamp with time zone.
+
+> TIMESTAMP WITHOUT TIME ZONE values are not a point on the timeline, not actual moments. They represent a rough idea about potential moments,
+
+[What is a valid use case for using TIME WITH TIME ZONE?](https://dba.stackexchange.com/questions/187351/what-is-a-valid-use-case-for-using-time-with-time-zone)
+
+> none
+
 

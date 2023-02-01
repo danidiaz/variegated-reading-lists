@@ -257,6 +257,10 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 > none
 
-[Parquet and Postgres in the Data Lake](https://www.crunchydata.com/blog/parquet-and-postgres-in-the-data-lake)
+[Parquet and Postgres in the Data Lake](https://www.crunchydata.com/blog/parquet-and-postgres-in-the-data-lake). [parquet_fdw](https://github.com/adjust/parquet_fdw/).
+
+> What if there was a storage option that was still durable, allowed access via multiple query tools, and could integrate transparently into your operational transactional database?
+
+> How about: storing the static data in Parquet format but retaining database access to the data via the parquet_fdw?
 
 

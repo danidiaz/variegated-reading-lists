@@ -208,4 +208,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Don’t Do E2E Testing!](https://www.youtube.com/watch?v=QFCHSEHgqFE). [wiremock](https://wiremock.org/).
 
+[Efficient and Flexible Model-Based Testing](https://concerningquality.com/model-based-testing-theory/)
+
 

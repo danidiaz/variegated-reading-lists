@@ -862,6 +862,10 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [how do you test SQL?](https://news.ycombinator.com/item?id=34602318)
 
+[db offline: Redis and ElasticSearch](https://www.linkedin.com/posts/vladmihalcea_because-it-caches-everything-in-redis-and-activity-7026472081244499968-NKC9)
+
+> Because it caches everything in Redis and ElasticSearch, StackOverflow can function in read-only mode even when they disconnect it from SQL Server to upgrade the DB version or the underlying hardware.
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

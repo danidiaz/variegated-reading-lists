@@ -216,6 +216,8 @@
 
 [Use conditional formatting to highlight information](https://support.microsoft.com/en-us/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
+[Airtable and CSV](https://twitter.com/sharoz/status/1621115468093464577)
+
 # operations research
 
 [Google OR-Tools](https://developers.google.com/optimization)

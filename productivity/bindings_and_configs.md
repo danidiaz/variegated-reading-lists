@@ -252,5 +252,6 @@ What's added to .profile:
 
 [How to combine Spaces & Stage Manager in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-combine-spaces-stage-manager-in-macos-ventura). [Does Stage Manager do anything better than Spaces?](https://www.reddit.com/r/MacOS/comments/ycxl4r/does_stage_manager_do_anything_better_than_spaces/).
 
+[Raycast](https://twitter.com/adamwathan/status/1621170237533200384). [rcmd](https://lowtechguys.com/rcmd/).
 
 

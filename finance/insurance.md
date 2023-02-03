@@ -228,7 +228,7 @@
 
 [Decimal Safety Right on The Money](https://www.fpcomplete.com/blog/safe-decimal-right-on-the-money/). [safe-decimal](https://hackage.haskell.org/package/safe-decimal)
 
-[PostgreSQL and Financial Calculations - Part One](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-one/). [part two](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-two/). [part three](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-three/). [pg_financial](https://github.com/intgr/pg_financial)
+[PostgreSQL and Financial Calculations - Part One](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-one/). [part two](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-two/). [part three](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-three/). [four](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-four/). [five](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-five/). [pg_financial](https://github.com/intgr/pg_financial)
 
 [Why You Should Never Use Float and Double for Monetary Calculations](https://dzone.com/articles/never-use-float-and-double-for-monetary-calculatio). [counterpoint (dubious)](https://www.evanjones.ca/floating-point-money.html). [SO](https://stackoverflow.com/questions/3730019/why-not-use-double-or-float-to-represent-currency/3730040#3730040)
 

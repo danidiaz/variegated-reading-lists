@@ -230,7 +230,7 @@
 
 [PostgreSQL and Financial Calculations - Part One](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-one/). [part two](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-two/). [part three](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-three/). [pg_financial](https://github.com/intgr/pg_financial)
 
-[Why You Should Never Use Float and Double for Monetary Calculations](https://dzone.com/articles/never-use-float-and-double-for-monetary-calculatio). [counterpoint (dubious)](https://www.evanjones.ca/floating-point-money.html)
+[Why You Should Never Use Float and Double for Monetary Calculations](https://dzone.com/articles/never-use-float-and-double-for-monetary-calculatio). [counterpoint (dubious)](https://www.evanjones.ca/floating-point-money.html). [SO](https://stackoverflow.com/questions/3730019/why-not-use-double-or-float-to-represent-currency/3730040#3730040)
 
 [Financial calculations, large decimal precision, and what to display to the user](https://www.reddit.com/r/webdev/comments/73vtwv/financial_calculations_large_decimal_precision/)
 

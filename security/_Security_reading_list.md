@@ -658,4 +658,4 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [What Is Email Only Authentication](https://www.youtube.com/watch?v=b6qHfPdv4Y8)
 
-
+[you should not do personal stuff on your employer's laptop](https://twitter.com/SwiftOnSecurity/status/1621201256092942336)

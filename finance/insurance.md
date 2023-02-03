@@ -218,6 +218,24 @@
 
 [Airtable and CSV](https://twitter.com/sharoz/status/1621115468093464577)
 
+# financial mathematics
+
+[the firm's actuarial code relies on specific bugs in the mainframe OS's floating-point handling](https://twitter.com/forrestbrazeal/status/1621329407611641856)
+
+[Example: exponentiation in fixed-point arithmetic](https://www.ibm.com/docs/en/cobol-zos/6.3?topic=results-example-exponentiation-in-fixed-point-arithmetic). [Fast fixed point pow, log, exp and sqrt](https://stackoverflow.com/questions/4657468/fast-fixed-point-pow-log-exp-and-sqrt). [course](https://vanhunteradams.com/FixedPoint/FixedPoint.html).
+
+> The following example shows how the compiler performs an exponentiation to a nonzero integer power as a succession of multiplications, storing intermediate results as needed.
+
+[Decimal Safety Right on The Money](https://www.fpcomplete.com/blog/safe-decimal-right-on-the-money/). [safe-decimal](https://hackage.haskell.org/package/safe-decimal)
+
+[PostgreSQL and Financial Calculations - Part One](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-one/). [part two](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-two/). [part three](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-three/). [pg_financial](https://github.com/intgr/pg_financial)
+
+[Why You Should Never Use Float and Double for Monetary Calculations](https://dzone.com/articles/never-use-float-and-double-for-monetary-calculatio). [counterpoint (dubious)](https://www.evanjones.ca/floating-point-money.html)
+
+[Financial calculations, large decimal precision, and what to display to the user](https://www.reddit.com/r/webdev/comments/73vtwv/financial_calculations_large_decimal_precision/)
+
+[is exponentiation by another fixed point decimal a weird thing to want?](https://stackoverflow.com/questions/16441769/javas-bigdecimal-powerbigdecimal-exponent-is-there-a-java-library-that-does)
+
 # operations research
 
 [Google OR-Tools](https://developers.google.com/optimization)

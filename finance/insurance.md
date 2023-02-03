@@ -222,6 +222,8 @@
 
 [the firm's actuarial code relies on specific bugs in the mainframe OS's floating-point handling](https://twitter.com/forrestbrazeal/status/1621329407611641856)
 
+[Fixed-Point Numbers (Mathworks)](https://uk.mathworks.com/help/simulink/ug/fixed-point-numbers.html)
+
 [Example: exponentiation in fixed-point arithmetic](https://www.ibm.com/docs/en/cobol-zos/6.3?topic=results-example-exponentiation-in-fixed-point-arithmetic). [Fast fixed point pow, log, exp and sqrt](https://stackoverflow.com/questions/4657468/fast-fixed-point-pow-log-exp-and-sqrt). [course](https://vanhunteradams.com/FixedPoint/FixedPoint.html).
 
 > The following example shows how the compiler performs an exponentiation to a nonzero integer power as a succession of multiplications, storing intermediate results as needed.
@@ -230,7 +232,15 @@
 
 [PostgreSQL and Financial Calculations - Part One](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-one/). [part two](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-two/). [part three](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-three/). [four](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-four/). [five](https://www.commandprompt.com/blog/postgresql-and-financial-calculations-part-five/). [pg_financial](https://github.com/intgr/pg_financial)
 
-[Why You Should Never Use Float and Double for Monetary Calculations](https://dzone.com/articles/never-use-float-and-double-for-monetary-calculatio). [counterpoint (dubious)](https://www.evanjones.ca/floating-point-money.html). [SO](https://stackoverflow.com/questions/3730019/why-not-use-double-or-float-to-represent-currency/3730040#3730040)
+[High-Performance Fixed-Point Architecture for Financial Applications](https://www.researchgate.net/publication/291997799_High-Performance_Fixed-Point_Architecture_for_Financial_Applications)
+
+[Fixed Point Arithmetic: Percentages](https://softsolder.com/2009/03/02/fixed-point-arithmetic-percentages/)
+
+> Bottom line: when you use fixed-point arithmetic, always check the low end of the range for underflow and the high end for overflow.
+
+[Why You Should Never Use Float and Double for Monetary Calculations](https://dzone.com/articles/never-use-float-and-double-for-monetary-calculatio). [counterpoint (dubious)](https://www.evanjones.ca/floating-point-money.html). [SO](https://stackoverflow.com/questions/3730019/why-not-use-double-or-float-to-represent-currency/3730040#3730040). [HN](https://news.ycombinator.com/item?id=15808316)
+
+> BigDecimal is appropriate for representing money, fixed point arithmetic is not.
 
 [Financial calculations, large decimal precision, and what to display to the user](https://www.reddit.com/r/webdev/comments/73vtwv/financial_calculations_large_decimal_precision/)
 

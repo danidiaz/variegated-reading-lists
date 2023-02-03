@@ -26,9 +26,11 @@
 
 [The Mother of all Query Languages: SQL in Modern Times](https://www.youtube.com/watch?v=swR33jIhW8Q).
 
-[6 Technical Challenges Developing a Distributed SQL Database](https://blog.yugabyte.com/6-technical-challenges-developing-a-distributed-sql-database/). []().
+[6 Technical Challenges Developing a Distributed SQL Database](https://blog.yugabyte.com/6-technical-challenges-developing-a-distributed-sql-database/). 
 
 [Presto summit recap](https://www.starburstdata.com/technical-blog/nyc-presto-summit-recap)
+
+[ROWS, RANGE and GROUPS](https://modern-sql.com/caniuse/over_range_between_(numeric))
 
 # Slides
 

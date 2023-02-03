@@ -978,4 +978,6 @@ get all equalities
 
 [monoids in the category of](https://www.reddit.com/r/haskell/comments/10onr1e/monoids_in_the_category_of/). [ls](https://lobste.rs/s/bijufd/monoids_category).
 
+[left / right modules over monads](https://twitter.com/RaghavMalik15/status/1621570030574993409)
+
 

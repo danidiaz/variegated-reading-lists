@@ -520,6 +520,9 @@
 
 [Narrascope 2022 talk](https://ganelson.github.io/inform-website/talks/2022/07/31/narrascope-iii.html)
 
+
+[City Walls: The Urban Enceinte in Global Perspective (review)](https://www.academia.edu/10195383/City_Walls_The_Urban_Enceinte_in_Global_Perspective_ed_James_D_Tracy_in_The_Medieval_Review_online_02_09_26)
+
 ## Quotes
 
 [Suburbia](https://qz.com/698928/why-suburbia-sucks/)
@@ -746,6 +749,7 @@ Bernini, his life and his Rome
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)
 
+
 ## Software
 
 [Haskeline](http://hackage.haskell.org/package/haskeline)
@@ -779,5 +783,6 @@ Bernini, his life and his Rome
 [how viewshed 2 works](https://desktop.arcgis.com/es/arcmap/latest/tools/spatial-analyst-toolbox/how-viewshed-2-works.htm)
 
 [handle saving at the start](https://twitter.com/daisyowl/status/1620215845954912256)
+
 
 

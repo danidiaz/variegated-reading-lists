@@ -527,6 +527,13 @@ https://twitter.com/tailwindcss
 [insets](https://css-tricks.com/almanac/properties/t/top-right-bottom-left/). [Simpler positioning with inset and auto](https://www.youtube.com/watch?v=8mv1HJgh6-o). [the use of inset here is kind of unclear](https://twitter.com/KevinJPowell/status/1621517485550993411)
 
 
+[setting opposite sides](https://css-tricks.com/almanac/properties/t/top-right-bottom-left/#aa-setting-opposite-sides)
+
+> You can set a value for each of top, bottom, left, and right on a single element. When you set values for opposite sides (top and bottom, or left and right), the result might not always be what you expect.
+
+> In most cases, bottom is ignored if top is already set, and right is ignored if left is already set. When direction is set to rtl (right to left), left is ignored instead of right. In order for each value to have an effect, the element must have a position set to absolute or fixed and height set to auto (default).
+
+
 
 
 

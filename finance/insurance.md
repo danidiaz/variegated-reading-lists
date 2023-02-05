@@ -137,6 +137,16 @@
 
 - [Viatical settlement](https://en.wikipedia.org/wiki/Viatical_settlement). [Investopedia](https://www.investopedia.com/terms/v/viaticalsettlement.asp). [The Atlantic](https://www.theatlantic.com/health/archive/2018/10/viatical-settlements-aids-gay-men/572044/).
 
+- [What is an out-of-sequence endorsement and why are they such a problem for insurance companies?](https://www.quora.com/What-is-an-out-of-sequence-endorsement-and-why-are-they-such-a-problem-for-insurance-companies) [Out-of-sequence conflicts](https://docs.guidewire.com/cloud/pc/202111/cloudapibf/cloudAPI/topics/S04_BusinessPC/02_policyTransactions/08_oos/c_out-of-sequence-conflicts.html). [ What is an Insurance Endorsement or Rider?](https://www.ldi.la.gov/docs/default-source/documents/publicaffairs/january-insurance-101-endorsement-or-rider.pdf?sfvrsn=65e04d52_6)
+
+> An endorsement, also known as a rider, adds, deletes, excludes or changes insurance coverage. An
+endorsement/rider can also be used to increase standard limits of coverage and take precedent over the original
+agreement or policy.
+> How an Insurance Endorsement/Rider Works
+> An insurance endorsement/rider is an amendment to an existing insurance contract that changes the terms of the
+original policy. An endorsement/rider can be issued at the time of purchase, mid-term or at renewal time.
+Insurance premiums may be affected and adjusted as a result. 
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

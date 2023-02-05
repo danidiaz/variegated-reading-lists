@@ -263,4 +263,14 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 > How about: storing the static data in Parquet format but retaining database access to the data via the parquet_fdw?
 
+[Don't Do This](https://fosdem.org/2023/schedule/event/postgresql_dont_do_this/)
+
+[Schema design for products with multiple variants/attributes?](https://dba.stackexchange.com/questions/123467/schema-design-for-products-with-multiple-variants-attributes)
+
+[How PostgreSQL Views and Materialized Views Work and How They Influenced TimescaleDB Continuous Aggregates](https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/)
+
+[TEMPORARY views](https://www.postgresql.org/docs/current/sql-createview.html). [Using PostgreSQL temporary views for expressing business logic](https://vvvvalvalval.github.io/posts/using-postgresql-temporary-views-for-expressing-business-logic.html). [for COPY](https://hakibenita.com/postgresql-unknown-features)
+
+> If specified, the view is created as a temporary view. Temporary views are automatically dropped at the end of the current session. 
+
 

@@ -533,7 +533,7 @@ https://twitter.com/tailwindcss
 
 > In most cases, bottom is ignored if top is already set, and right is ignored if left is already set. When direction is set to rtl (right to left), left is ignored instead of right. In order for each value to have an effect, the element must have a position set to absolute or fixed and height set to auto (default).
 
-
+> Elements with position set to fixed aren’t always positioned in relation to the viewport. It will be positioned relative to its closest ancestor with a transform, perspective, or filter property set to anything other than none, if one exists.
 
 
 

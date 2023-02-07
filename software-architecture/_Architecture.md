@@ -1257,5 +1257,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [What is a DDD Aggregate?](https://www.youtube.com/watch?v=zlFqjD2LKlE). [The DDD Starter Modelling Process](https://www.youtube.com/watch?v=qeir72soorI)
 
+[If you have separate packages for dto, model, service, repository, controller, etc you're doing it wrong](https://twitter.com/maciejwalkowiak/status/1622621528385851395). [package-private](https://twitter.com/maciejwalkowiak/status/1622625667836792839).  
+
 
 

@@ -273,4 +273,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 > If specified, the view is created as a temporary view. Temporary views are automatically dropped at the end of the current session. 
 
+[to EAV or not to EAV](https://www.cybertec-postgresql.com/en/entity-attribute-value-eav-design-in-postgresql-dont-do-it/)
+
 

@@ -254,6 +254,6 @@ What's added to .profile:
 
 [Raycast](https://twitter.com/adamwathan/status/1621170237533200384). [rcmd](https://lowtechguys.com/rcmd/). [raycast tips](https://twitter.com/raycastapp/status/1610305097522892801)
 
-
+[ Chrome: Keyboard shortcut to leave address bar and focus browsing area?  ](https://apple.stackexchange.com/questions/234706/chrome-keyboard-shortcut-to-leave-address-bar-and-focus-browsing-area)
 
 

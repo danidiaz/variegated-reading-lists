@@ -315,4 +315,6 @@
 
 > The @PostConstruct method is called right after the bean has been created by Spring, so we cannot order it freely with the @order annotation, as it may depend on other Spring beans that are @Autowired into our bean.
 
+[Spring Boot - The Missing Guide: 2](https://twitter.com/sivalabs/status/1622819084462325760)
+
 

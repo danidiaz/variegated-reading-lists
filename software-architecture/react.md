@@ -698,4 +698,6 @@ https://react-query.tanstack.com/
 
 [All of the major open-source React frameworks now have the backing of a for-profit company](https://twitter.com/tomlienard/status/1620875348945801216)
 
+[ Why doesn't the fetch API reject on 404/500/etc](https://twitter.com/jaffathecake/status/1622936551234609154)
+
 

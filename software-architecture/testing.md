@@ -210,4 +210,4 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Efficient and Flexible Model-Based Testing](https://concerningquality.com/model-based-testing-theory/)
 
-
+[Microservices Integration Done Right Using Contract-Driven Development](https://www.infoq.com/articles/contract-driven-development/)

@@ -275,7 +275,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [to EAV or not to EAV](https://www.cybertec-postgresql.com/en/entity-attribute-value-eav-design-in-postgresql-dont-do-it/)
 
-[Postgres performance cliffs with large JSONB values and TOAST](https://pganalyze.com/blog/5mins-postgres-jsonb-toast)
+[Postgres performance cliffs with large JSONB values and TOAST](https://pganalyze.com/blog/5mins-postgres-jsonb-toast). [understanding JSONB performance](https://postgresql.us/events/pgconfnyc2021/schedule/session/891-understanding-of-jsonb-performance/). [PGConf NYC 2021 - Understanding of Jsonb Performance ](https://www.youtube.com/watch?v=v_s-DH4PEVA)
 
 > how JSONB performance can behave badly when the JSONB value exceeds the two kilobyte limit where Postgres starts storing data in TOAST.
 

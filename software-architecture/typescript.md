@@ -100,4 +100,8 @@ const conforms: OnlyBoolsAndHorses = {
 
 [type challenges](https://twitter.com/mattpocockuk/status/1617891002563588099)
 
+[you should specify return types](https://twitter.com/jimmykoppel/status/1623159666078253056). [Modules Matter Most](https://existentialtype.wordpress.com/2011/04/16/modules-matter-most/). [The Design of Software is A Thing Apart](https://www.pathsensitive.com/2018/01/the-design-of-software-is-thing-apart.html).
+
+> There is and should be a many-many relationship between programs and their interfaces.  When you choose a return type, you are not just communicating information, but also intentionally withholding information.
+
 

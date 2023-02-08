@@ -101,6 +101,6 @@
 
 [How does it know I want CSV?](https://news.ycombinator.com/item?id=34410072)
 
-
+[ Why doesn't the fetch API reject on 404/500/etc](https://twitter.com/jaffathecake/status/1622936551234609154)
 
 

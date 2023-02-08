@@ -104,4 +104,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 > There is and should be a many-many relationship between programs and their interfaces.  When you choose a return type, you are not just communicating information, but also intentionally withholding information.
 
+> the information of a program’s design is largely not present in its code1. I don’t just mean that you have to really read the code carefully to understand the design; I mean that there are many designs that correspond to the exact same code, and so recovering all the design information is actually impossible.
 
+> One nice thing about understanding the design/specification level of code is that it gives us very clean definitions of formerly-fuzzy concepts like “this code knows about that code.” For now, stick with your intuition as you answer this question:

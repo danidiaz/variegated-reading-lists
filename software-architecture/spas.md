@@ -103,4 +103,6 @@
 
 [ Why doesn't the fetch API reject on 404/500/etc](https://twitter.com/jaffathecake/status/1622936551234609154)
 
+[What is a CDN? How do CDNs work? ](https://news.ycombinator.com/item?id=34690656)
+
 

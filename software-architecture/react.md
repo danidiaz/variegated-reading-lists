@@ -698,5 +698,7 @@ https://react-query.tanstack.com/
 
 [All of the major open-source React frameworks now have the backing of a for-profit company](https://twitter.com/tomlienard/status/1620875348945801216)
 
+[Modularizing React Applications with Established UI Patterns](https://martinfowler.com/articles/modularizing-react-apps.html)
+
 
 

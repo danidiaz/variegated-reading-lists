@@ -317,4 +317,6 @@
 
 [Spring Boot - The Missing Guide: 2](https://twitter.com/sivalabs/status/1622819084462325760)
 
+[JobRunr, the Java Scheduler Library, Released Version 6.0](https://www.infoq.com/news/2023/02/jobrunr-scheduler-java/)
+
 

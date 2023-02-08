@@ -107,3 +107,11 @@ const conforms: OnlyBoolsAndHorses = {
 > the information of a program’s design is largely not present in its code1. I don’t just mean that you have to really read the code carefully to understand the design; I mean that there are many designs that correspond to the exact same code, and so recovering all the design information is actually impossible.
 
 > One nice thing about understanding the design/specification level of code is that it gives us very clean definitions of formerly-fuzzy concepts like “this code knows about that code.” For now, stick with your intuition as you answer this question:
+
+[Better dev environments with npm workspaces](https://oliverjam.es/articles/npm-workspaces). [Npm workspaces using TypeScript](https://pgarciacamou.medium.com/workspaces-mvp-with-npm-using-typescript-37e391e26c93). [How to use npm workspace](https://stackoverflow.com/questions/73286125/how-to-use-npm-workspace). [official docs](https://docs.npmjs.com/cli/v9/using-npm/workspaces?v=true)
+
+>  Most npm commands can now have workspace-related options added to make them run against just one (or all) of your workspaces. To run a command against a single workspace you can append --workspace=client. To run a command against all workspaces you can append --workspaces (note the s).
+
+> All the following commands are run from the root directory. No cding around required!
+
+

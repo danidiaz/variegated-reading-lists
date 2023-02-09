@@ -214,4 +214,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [doctests](https://discourse.haskell.org/t/doctests-as-test-suite-without-custom-builds/5771/2)
 
+[fault injection](https://github.com/stevana/property-based-testing-stateful-systems-tutorial/blob/921d7cb02735e006d9071c1c5b859f5a921e2427/docs/Part04FaultInjection.md)
+
 

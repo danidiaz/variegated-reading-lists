@@ -700,5 +700,7 @@ https://react-query.tanstack.com/
 
 [Modularizing React Applications with Established UI Patterns](https://martinfowler.com/articles/modularizing-react-apps.html)
 
+[prop drilling vs. nesting](https://twitter.com/dan_abramov/status/1623771055943831553)
+
 
 

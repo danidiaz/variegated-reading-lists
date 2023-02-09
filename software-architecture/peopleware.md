@@ -128,4 +128,7 @@
 
 [rebase, but](https://twitter.com/mfpears/status/1622025101050023936). [more](https://twitter.com/AdamRackis/status/1621952070105317380)
 
+[quick PR approve or not?](https://twitter.com/andrewchaa/status/1623683317043236868)
+
+[time management](https://twitter.com/polotek/status/1623076779308257285)
 

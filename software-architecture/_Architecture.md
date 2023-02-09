@@ -1259,5 +1259,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [If you have separate packages for dto, model, service, repository, controller, etc you're doing it wrong](https://twitter.com/maciejwalkowiak/status/1622621528385851395). [package-private](https://twitter.com/maciejwalkowiak/status/1622625667836792839).  
 
+[Demystifying Dependence](https://www.youtube.com/watch?v=WA3yRvcCq0U)
+
 
 

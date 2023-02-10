@@ -704,4 +704,6 @@ https://react-query.tanstack.com/
 
 [choosing Next.js](https://twitter.com/thdxr/status/1623848741672259587)
 
+[self-healing apps](https://news.ycombinator.com/item?id=34706624)
+
 

@@ -132,3 +132,6 @@
 
 [time management](https://twitter.com/polotek/status/1623076779308257285)
 
+[mentors](https://lobste.rs/s/jugmcq/we_need_programming_mentors)
+
+

@@ -1261,5 +1261,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Demystifying Dependence](https://www.youtube.com/watch?v=WA3yRvcCq0U)
 
-
+[databases in Haskell](https://www.reddit.com/r/haskell/comments/10y8ryt/comment/j7x9nbr/)
 

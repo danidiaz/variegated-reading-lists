@@ -105,4 +105,5 @@
 
 [What is a CDN? How do CDNs work? ](https://news.ycombinator.com/item?id=34690656)
 
+[Why I'm not the biggest fan of Single Page Applications](https://www.matuzo.at/blog/2023/single-page-applications-criticism/)
 

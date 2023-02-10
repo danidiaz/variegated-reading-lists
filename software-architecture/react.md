@@ -702,5 +702,6 @@ https://react-query.tanstack.com/
 
 [prop drilling vs. nesting](https://twitter.com/dan_abramov/status/1623771055943831553)
 
+[choosing Next.js](https://twitter.com/thdxr/status/1623848741672259587)
 
 

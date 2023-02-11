@@ -745,6 +745,10 @@ Bernini, his life and his Rome
 
 [Parser as Prototype: why choice-based games are more interesting](https://threeedgedsword.wordpress.com/2013/12/05/parser-as-prototype-why-choice-based-games-are-more-interesting/). 
 
+[A treasury of Zork maps](http://blog.zarfhome.com/2023/02/a-treasury-of-zork-maps.html). [hn](https://news.ycombinator.com/item?id=34708831).
+
+> You couldn't really play any games from the 80's without graph paper.
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

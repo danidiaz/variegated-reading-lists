@@ -980,4 +980,6 @@ get all equalities
 
 [left / right modules over monads](https://twitter.com/RaghavMalik15/status/1621570030574993409)
 
+[categories categories categories](https://functional.cafe/@johncarlosbaez@mathstodon.xyz/109843060376535125)
+
 

@@ -749,6 +749,8 @@ Bernini, his life and his Rome
 
 > You couldn't really play any games from the 80's without graph paper.
 
+[conversation flow *must* be highly authored, for design and experience purposes](https://twitter.com/rzubek/status/1624224904458522624)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

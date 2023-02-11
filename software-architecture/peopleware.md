@@ -128,7 +128,7 @@
 
 [rebase, but](https://twitter.com/mfpears/status/1622025101050023936). [more](https://twitter.com/AdamRackis/status/1621952070105317380)
 
-[quick PR approve or not?](https://twitter.com/andrewchaa/status/1623683317043236868)
+[quick PR approve or not?](https://twitter.com/andrewchaa/status/1623683317043236868). [more](https://twitter.com/frontstuff_io/status/1624183962837954564). [stacked PRs](https://blog.logrocket.com/using-stacked-pull-requests-in-github/). [about pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
 [time management](https://twitter.com/polotek/status/1623076779308257285)
 

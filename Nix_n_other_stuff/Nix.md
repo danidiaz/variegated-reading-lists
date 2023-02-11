@@ -786,6 +786,8 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [terraform-nixos-ng: Modern terraform support for NixOS](https://www.haskellforall.com/2023/01/terraform-nixos-ng-modern-terraform.html). [nixos-rebuild](https://www.haskellforall.com/2023/01/announcing-nixos-rebuild-new-deployment.html).
 
+[The hakyll-nix-template Tutorial](https://robertwpearce.com/the-hakyll-nix-template-tutorial.html)
 
+[Modularize your #Haskell #Nix code using flake-parts and haskell-flake.](https://twitter.com/sridca/status/1624504046307487752)
 
 

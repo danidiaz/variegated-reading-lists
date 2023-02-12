@@ -706,4 +706,6 @@ https://react-query.tanstack.com/
 
 [self-healing apps](https://news.ycombinator.com/item?id=34706624)
 
+[migrating to modern Redux](https://twitter.com/acemarke/status/1624628790218424321)
+
 

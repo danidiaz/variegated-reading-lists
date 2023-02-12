@@ -114,4 +114,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 > All the following commands are run from the root directory. No cding around required!
 
+[interview with the creator of TypeScript](https://twitter.com/TimSweeneyEpic/status/1624556394245419011)
+
 

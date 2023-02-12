@@ -147,6 +147,12 @@ agreement or policy.
 original policy. An endorsement/rider can be issued at the time of purchase, mid-term or at renewal time.
 Insurance premiums may be affected and adjusted as a result. 
 
+- [Tax Deductible](https://corporatefinanceinstitute.com/resources/accounting/tax-deductible/). [Deductible Definition](https://www.investopedia.com/terms/d/deductible.asp). [taxable income](https://www.investopedia.com/terms/t/taxableincome.asp)
+
+> Business deductibles are considerably more complex than individual deductibles and require a great deal more record-keeping. A business or self-employed individual must list all of the income that was received and all of the expenses that were paid out in order to report the real profit of the business. That profit is the gross taxable income of the business.
+
+> A tax deducible lowers your gross income to arrive at an adjusted gross income. There are a variety of deductibles, depending on if an individual qualifies for them. The deductible amount is applied to an individual's income, which reduces their income by the deductible amount, which results in having a lower income and, therefore, a lower tax bill.
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

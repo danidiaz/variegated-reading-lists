@@ -75,6 +75,25 @@
 
 [Chapter 10 Insurance Portfolio Management including Reinsurance](https://openacttexts.github.io/Loss-Data-Analytics/C-PortMgt.html)
 
+[Tax Law Design and Drafting](https://www.imf.org/external/pubs/nft/1998/tlaw/eng/). [ ch 16 Taxation of Income from Business and Investment ](https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch16.pdf).
+
+> The relationship between the determination of business income for tax purposes and
+financial accounting rules is analyzed in detail in the appendix to this chapter. Those materials
+note that the principal purpose of financial accounting is to provide an accurate analysis of the
+profitability of an entity to the managers and owners of an entity, as well as to creditors and
+potential outside investors. Income tax, in contrast, is concerned with the measurement of the net
+economic gain of a taxpayer in a fixed period for the purpose of collecting a portion of the gain
+as tax. These differences explain why classifications used in one system may not be relevant to
+the other. For example, because financial accounting is concerned with presenting owners,
+creditors, and investors with an accurate reflection of the ongoing profitability of an entity, it
+places some emphasis on classifying gains by reference to their regularity.
+
+> Not all business taxpayers are required to compile comprehensive accounting records that
+include balance sheets. Accordingly, in jurisdictions that use the balance-sheet method to
+calculate taxable business income, smaller businesses operated by sole traders and self-employed
+persons (particularly those that account on a cash basis)10 may be allowed to calculate income as
+the difference between taxable receipts and deductible expenses.11
+
 ## Sites
 
 [Lloyd's](https://www.lloyds.com/)
@@ -154,19 +173,6 @@ Insurance premiums may be affected and adjusted as a result.
 > A tax deducible lowers your gross income to arrive at an adjusted gross income. There are a variety of deductibles, depending on if an individual qualifies for them. The deductible amount is applied to an individual's income, which reduces their income by the deductible amount, which results in having a lower income and, therefore, a lower tax bill.
 
 > The net operating loss (NOL) deduction is one of the rare exceptions to the general income tax rule that your taxable income is determined solely on the basis of your current year's events. [...] The rules governing partnerships, S corporations and regular corporations are complex and their nuances are beyond the scope of this article.
-
-[Tax Law Design and Drafting](https://www.imf.org/external/pubs/nft/1998/tlaw/eng/). [ ch 16 Taxation of Income from Business and Investment ](https://www.imf.org/external/pubs/nft/1998/tlaw/eng/ch16.pdf).
-
-> The relationship between the determination of business income for tax purposes and
-financial accounting rules is analyzed in detail in the appendix to this chapter. Those materials
-note that the principal purpose of financial accounting is to provide an accurate analysis of the
-profitability of an entity to the managers and owners of an entity, as well as to creditors and
-potential outside investors. Income tax, in contrast, is concerned with the measurement of the net
-economic gain of a taxpayer in a fixed period for the purpose of collecting a portion of the gain
-as tax. These differences explain why classifications used in one system may not be relevant to
-the other. For example, because financial accounting is concerned with presenting owners,
-creditors, and investors with an accurate reflection of the ongoing profitability of an entity, it
-places some emphasis on classifying gains by reference to their regularity.
 
 ## Questions
 

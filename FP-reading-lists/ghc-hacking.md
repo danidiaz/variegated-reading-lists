@@ -246,5 +246,6 @@ Stuff about the heap:
 
 [How can I remove all the boilerplate introduced by Trees That Grow?](https://stackoverflow.com/questions/75268118/how-can-i-remove-all-the-boilerplate-introduced-by-trees-that-grow)
 
+[Cabal upload revisions? and some philosphical points](https://discourse.haskell.org/t/cabal-upload-revisions-and-some-philosphical-points/3772)
 
 

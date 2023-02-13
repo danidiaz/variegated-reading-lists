@@ -984,5 +984,8 @@ get all equalities
 
 [Two kinds of Prisms](https://www.reddit.com/r/haskell/comments/1115nod/blog_post_two_kinds_of_prisms/)
 
+[A Mathematical Model of Package Management Systems -- from General Event Structures to Antimatroids](https://arxiv.org/abs/2302.05417). [cited here](https://discourse.haskell.org/t/cabal-upload-revisions-and-some-philosphical-points/3772/14).
+
+
 
 

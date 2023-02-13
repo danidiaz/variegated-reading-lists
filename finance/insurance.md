@@ -174,6 +174,8 @@ Insurance premiums may be affected and adjusted as a result.
 
 > The net operating loss (NOL) deduction is one of the rare exceptions to the general income tax rule that your taxable income is determined solely on the basis of your current year's events. [...] The rules governing partnerships, S corporations and regular corporations are complex and their nuances are beyond the scope of this article.
 
+[Piercing the corporate veil](https://en.wikipedia.org/wiki/Piercing_the_corporate_veil). [podcast](https://open.spotify.com/episode/7I7AznhODFCv22IG4Wfo2c).
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

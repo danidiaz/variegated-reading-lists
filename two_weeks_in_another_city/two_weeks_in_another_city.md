@@ -751,6 +751,8 @@ Bernini, his life and his Rome
 
 [conversation flow *must* be highly authored, for design and experience purposes](https://twitter.com/rzubek/status/1624224904458522624)
 
+[run like a lunatic](https://twitter.com/nomanautomata/status/1624977671750049793)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

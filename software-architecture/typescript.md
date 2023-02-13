@@ -116,4 +116,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [interview with the creator of TypeScript](https://twitter.com/TimSweeneyEpic/status/1624556394245419011)
 
+[branded types](https://twitter.com/mattpocockuk/status/1625173884885401600)
+
 

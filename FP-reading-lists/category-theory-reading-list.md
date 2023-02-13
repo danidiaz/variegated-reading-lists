@@ -982,4 +982,7 @@ get all equalities
 
 [categories categories categories](https://functional.cafe/@johncarlosbaez@mathstodon.xyz/109843060376535125)
 
+[Two kinds of Prisms](https://www.reddit.com/r/haskell/comments/1115nod/blog_post_two_kinds_of_prisms/)
+
+
 

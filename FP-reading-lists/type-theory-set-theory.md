@@ -397,6 +397,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [An Order-Theoretic Analysis of Universe Polymorphism](https://favonia.org/files/mugen.pdf). [tweet](https://twitter.com/jjcarett2/status/1587742598847922178). [on infinity](https://lawrencecpaulson.github.io/2023/02/01/On-the-infinite.html)
 
+[why is impredicativity bad](https://types.pl/@ionchy/109852523766705225)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

@@ -1267,4 +1267,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [ArchUnit for Java & guardian for Haskell](https://www.archunit.org/motivation)
 
+[Local-First Web Development](https://localfirstweb.dev/)
+
 

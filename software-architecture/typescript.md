@@ -118,4 +118,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [branded types](https://twitter.com/mattpocockuk/status/1625173884885401600)
 
+[megamorphic](https://twitter.com/mhevery/status/1625568637976453121)
+
 

@@ -107,3 +107,10 @@
 
 [Why I'm not the biggest fan of Single Page Applications](https://www.matuzo.at/blog/2023/single-page-applications-criticism/)
 
+[morphdom](https://github.com/patrick-steele-idem/morphdom)
+
+> Fast and lightweight DOM diffing/patching (no virtual DOM needed)
+
+[hx-trigger](https://htmx.org/attributes/hx-trigger/)
+
+

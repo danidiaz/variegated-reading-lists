@@ -319,4 +319,5 @@
 
 [JobRunr, the Java Scheduler Library, Released Version 6.0](https://www.infoq.com/news/2023/02/jobrunr-scheduler-java/)
 
+[Journeys in Java, Level 7: Externalize Microservice Configuration](https://foojay.io/today/journeys-in-java-level-7-externalize-microservice-configuration/)
 

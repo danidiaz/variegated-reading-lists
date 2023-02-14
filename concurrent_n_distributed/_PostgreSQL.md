@@ -279,4 +279,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 > how JSONB performance can behave badly when the JSONB value exceeds the two kilobyte limit where Postgres starts storing data in TOAST.
 
+[SELECT null, 'null'::jsonb, '"null"'::jsonb](https://github.com/jOOQ/jOOQ/issues/9607#issuecomment-561126445) 
+
 

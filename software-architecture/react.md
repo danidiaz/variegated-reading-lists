@@ -708,4 +708,5 @@ https://react-query.tanstack.com/
 
 [migrating to modern Redux](https://twitter.com/acemarke/status/1624628790218424321)
 
+[How To Inspect Interactions In The Browser](https://www.builder.io/blog/inspect-interactions-in-the-browser)
 

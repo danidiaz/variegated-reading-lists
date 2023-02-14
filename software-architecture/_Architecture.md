@@ -1263,3 +1263,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [databases in Haskell](https://www.reddit.com/r/haskell/comments/10y8ryt/comment/j7x9nbr/)
 
+[DAOs should usually not start their own transactions](https://twitter.com/gunnarmorling/status/1625095115936088065)
+
+

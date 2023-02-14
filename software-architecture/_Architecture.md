@@ -1269,4 +1269,4 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Local-First Web Development](https://localfirstweb.dev/)
 
-
+[bias, bias, bias](https://twitter.com/gwenshap/status/1625335409017487361)

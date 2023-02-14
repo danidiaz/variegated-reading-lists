@@ -658,4 +658,4 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [How much can you get out of a $4 VPS?](https://news.ycombinator.com/item?id=34676186)
 
-
+[SMTLIB-BACKENDS: FASTER SMT-LIB-BASED HASKELL INTERFACE TO SMT SOLVERS](https://www.tweag.io/blog/2023-02-14-smtlib-backends/)

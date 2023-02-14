@@ -55,3 +55,5 @@
 
 [Introducing required workflows and configuration variables to GitHub Actions](https://github.blog/2023-01-10-introducing-required-workflows-and-configuration-variables-to-github-actions/)
 
+[What is the github action paths-ignore equivalent in buildkite?](https://forum.buildkite.community/t/what-is-the-github-action-paths-ignore-equivalent-in-buildkite/2045)
+

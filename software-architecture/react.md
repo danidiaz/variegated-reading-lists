@@ -710,3 +710,6 @@ https://react-query.tanstack.com/
 
 [How To Inspect Interactions In The Browser](https://www.builder.io/blog/inspect-interactions-in-the-browser)
 
+[React is popular for rational reasons despite being bad for performance](https://lobste.rs/s/n2kovg/react_is_popular_for_rational_reasons)
+
+

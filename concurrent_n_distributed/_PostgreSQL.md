@@ -281,4 +281,5 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [SELECT null, 'null'::jsonb, '"null"'::jsonb](https://github.com/jOOQ/jOOQ/issues/9607#issuecomment-561126445) 
 
+[Database DevOps and Code management with PostgreSQL](https://www.softwareandbooz.com/database-devops-and-code-management-with-postgresql/)
 

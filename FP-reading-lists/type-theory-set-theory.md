@@ -399,6 +399,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [why is impredicativity bad](https://types.pl/@ionchy/109852523766705225)
 
+[denotational semantics of general store and polymorphism](https://mastodon.social/@jonmsterling@mathstodon.xyz/109880634069493846). [pdf](https://www.jonmsterling.com/papers/sterling-gratzer-birkedal-2023-fics.pdf). [slides](https://www.jonmsterling.com/slides/sterling-gratzer-birkedal-2023-fics.pdf).
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

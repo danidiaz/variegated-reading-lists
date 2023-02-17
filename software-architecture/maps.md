@@ -42,7 +42,10 @@ configuration mistake!
 
 [Mapnik](http://mapnik.org/pages/downloads.html)
 
+[Replacing Mapbox with open source solutions](https://news.ycombinator.com/item?id=34836700)
+
 # Meteogalicia
 
 [RSS, GeoRSS, Podcast e JSON](http://www.meteogalicia.gal/web/RSS/rssIndex.action?request_locale=gl)
+
 

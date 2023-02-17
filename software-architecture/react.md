@@ -712,4 +712,6 @@ https://react-query.tanstack.com/
 
 [React is popular for rational reasons despite being bad for performance](https://lobste.rs/s/n2kovg/react_is_popular_for_rational_reasons)
 
+[where to put state](https://twitter.com/RobertLibsansky/status/1626118873857593344)
+
 

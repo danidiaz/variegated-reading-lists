@@ -113,4 +113,9 @@
 
 [hx-trigger](https://htmx.org/attributes/hx-trigger/)
 
+[Writing Javascript without a build system](https://lobste.rs/s/0jzgzb/writing_javascript_without_build_system)
+
+
+
+
 

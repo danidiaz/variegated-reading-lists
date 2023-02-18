@@ -648,7 +648,11 @@ https://react-query.tanstack.com/
 
 [Multi-Step Form with React & Formik](https://www.reddit.com/r/programming/comments/102myr7/multistep_form_with_react_formik/)
 
-[forms (in)statisfaction](https://twitter.com/kentcdodds/status/1610785661816279041). [more](https://twitter.com/BHolmesDev/status/1610812416207495174).
+[forms (in)statisfaction](https://twitter.com/kentcdodds/status/1610785661816279041). [more](https://twitter.com/BHolmesDev/status/1610812416207495174). [more](https://twitter.com/Steve8708/status/1626945557515350017). [react-hook-form](https://react-hook-form.com/).
+
+> people overuse react-hook-forms when there is no need. Most of the time
+> useReducer and Zod is more than enough, and if you have the option Remix
+> Forms
 
 [React Query meets React Router](https://tkdodo.eu/blog/react-query-meets-react-router)
 
@@ -716,4 +720,5 @@ https://react-query.tanstack.com/
 
 [file system routers yay or nay](https://twitter.com/devongovett/status/1626635855199600660)
 
+[keep state low or not](https://twitter.com/housecor/status/1626940633611919360)
 

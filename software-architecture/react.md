@@ -714,4 +714,6 @@ https://react-query.tanstack.com/
 
 [where to put state](https://twitter.com/RobertLibsansky/status/1626118873857593344)
 
+[file system routers yay or nay](https://twitter.com/devongovett/status/1626635855199600660)
+
 

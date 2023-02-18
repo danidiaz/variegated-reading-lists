@@ -57,6 +57,9 @@
 
 [Fundamentals of Risk and Insurance](https://www.goodreads.com/book/show/17628260-fundamentals-of-risk-and-insurance)
 
+> "[...] because insurers had not maintained loss data in a form that indicates the proportion of liability losses attributable to pain and sufferring, punitive damages, or contingency fees, they had difficulty in judging the amount by which the [tort] reforms were likely to reduce future losses. As a result, many states enacted legislation requiring insurers to accumulate loss data according to categories whta will permit measurement of such factors in the future."
+
+
 [Principles of Risk Management and Insurance](https://www.goodreads.com/book/show/2052026.Principles_of_Risk_Management_and_Insurance).
 
 [Introduction to Actuarial and Financial Mathematical Methods](https://www.goodreads.com/book/show/26709947-introduction-to-actuarial-and-financial-mathematical-methods).

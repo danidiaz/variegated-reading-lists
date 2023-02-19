@@ -120,4 +120,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [megamorphic](https://twitter.com/mhevery/status/1625568637976453121)
 
+[tweaking Promises with unknown](https://twitter.com/mattpocockuk/status/1627296901329477632)
+
 

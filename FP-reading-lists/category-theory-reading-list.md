@@ -986,6 +986,8 @@ get all equalities
 
 [A Mathematical Model of Package Management Systems -- from General Event Structures to Antimatroids](https://arxiv.org/abs/2302.05417). [cited here](https://discourse.haskell.org/t/cabal-upload-revisions-and-some-philosphical-points/3772/14).
 
+[∞-Category theory for undergraduates](https://twitter.com/SchreiberUrs/status/1626886099342614528). [video](https://www.youtube.com/watch?v=7g2rkiFsbXo).
 
+> adverbs as 2-dimensional morphisms (!)
 
 

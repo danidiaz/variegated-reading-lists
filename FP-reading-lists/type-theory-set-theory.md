@@ -401,6 +401,10 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [denotational semantics of general store and polymorphism](https://mastodon.social/@jonmsterling@mathstodon.xyz/109880634069493846). [pdf](https://www.jonmsterling.com/papers/sterling-gratzer-birkedal-2023-fics.pdf). [slides](https://www.jonmsterling.com/slides/sterling-gratzer-birkedal-2023-fics.pdf).
 
+[logical relations and Tait's method](https://twitter.com/alpha_convert/status/1627338044016558081). [mo](https://mathoverflow.net/questions/281387/how-to-handle-sums-in-taits-reducibility-proof-of-strong-normalisation). [Scones, Logical Relations, and Parametricity](https://golem.ph.utexas.edu/category/2013/04/scones_logical_relations_and_p.html). [practical semantics (pdf)](https://www.jonmsterling.com/papers/sterling-2022-lr-tutorial.pdf).
+
+> The semantic perspective on Logical Relations is that you are constructing a category whose objects are something like pairs of a type and a subset of terms. Then the inductive argument is constructing the CCC structure on that category
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

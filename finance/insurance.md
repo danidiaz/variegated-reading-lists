@@ -99,6 +99,8 @@ the difference between taxable receipts and deductible expenses.11
 
 [El seguro marítimo en Castilla en los siglos XV y XVI](https://open.spotify.com/episode/5f4epy9YJ6HBs3fJKGW83I)
 
+[Making a Market for Acts of God: The Practice of Risk-Trading in the Global Reinsurance Industry](https://www.cii.co.uk/learning-index/articles/the-practice-of-risk-trading-in-the-global-reinsurance-industry/35571)
+
 ## Sites
 
 [Lloyd's](https://www.lloyds.com/)

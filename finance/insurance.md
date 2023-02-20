@@ -183,7 +183,7 @@ Insurance premiums may be affected and adjusted as a result.
 
 [Piercing the corporate veil](https://en.wikipedia.org/wiki/Piercing_the_corporate_veil). [podcast](https://open.spotify.com/episode/7I7AznhODFCv22IG4Wfo2c).
 
-[Life table](https://en.wikipedia.org/wiki/Life_table). [Gompertz–Makeham law of mortality](https://en.wikipedia.org/wiki/Gompertz%E2%80%93Makeham_law_of_mortality).
+[Life table](https://en.wikipedia.org/wiki/Life_table). [Graduated Mortality Table](https://financial-dictionary.thefreedictionary.com/Graduated+Mortality+Tables). [Gompertz–Makeham law of mortality](https://en.wikipedia.org/wiki/Gompertz%E2%80%93Makeham_law_of_mortality).
 
 > The Gompertz–Makeham law states that the human death rate is the sum of an age-dependent component (the Gompertz function, named after Benjamin Gompertz),[1] which increases exponentially with age[2] and an age-independent component (the Makeham term, named after William Makeham)
 

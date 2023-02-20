@@ -117,4 +117,6 @@
 
 [Modern SPAs without bundlers, CDNs, or Node.js](https://news.ycombinator.com/item?id=34829039)
 
+[Password protect a static HTML page](https://news.ycombinator.com/item?id=34849024)
+
 

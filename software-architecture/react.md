@@ -722,3 +722,5 @@ https://react-query.tanstack.com/
 
 [keep state low or not](https://twitter.com/housecor/status/1626940633611919360)
 
+[React context react-query](https://twitter.com/TkDodo/status/1627586506402537473)
+

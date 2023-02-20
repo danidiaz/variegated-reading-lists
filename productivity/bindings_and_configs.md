@@ -256,4 +256,5 @@ What's added to .profile:
 
 [ Chrome: Keyboard shortcut to leave address bar and focus browsing area?  ](https://apple.stackexchange.com/questions/234706/chrome-keyboard-shortcut-to-leave-address-bar-and-focus-browsing-area)
 
+[raycast quicklinks](https://twitter.com/raycastapp/status/1627595863668281344)
 

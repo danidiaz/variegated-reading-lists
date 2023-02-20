@@ -119,4 +119,6 @@
 
 [Password protect a static HTML page](https://news.ycombinator.com/item?id=34849024)
 
+[Toasts notifications in Thymeleaf with Shoelace and htmx](https://www.wimdeblauwe.com/blog/2023/02/20/toasts-notifications-in-thymeleaf-with-shoelace-and-htmx/)
+
 

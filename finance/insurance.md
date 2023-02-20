@@ -183,6 +183,8 @@ Insurance premiums may be affected and adjusted as a result.
 
 [Piercing the corporate veil](https://en.wikipedia.org/wiki/Piercing_the_corporate_veil). [podcast](https://open.spotify.com/episode/7I7AznhODFCv22IG4Wfo2c).
 
+[Life table](https://en.wikipedia.org/wiki/Life_table)
+
 ## Questions
 
 - [insurance questions at Quantitative Finance Stack Exchange](https://quant.stackexchange.com/questions/tagged/insurance?tab=Votes)

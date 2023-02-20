@@ -285,3 +285,5 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [PostgreSQL Unlogged Tables - Look Ma, No WAL!](https://www.crunchydata.com/blog/postgresl-unlogged-tables)
 
+[Partial Indexes](https://use-the-index-luke.com/sql/where-clause/partial-and-filtered-indexes)
+

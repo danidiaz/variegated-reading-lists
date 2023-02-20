@@ -321,3 +321,6 @@
 
 [Journeys in Java, Level 7: Externalize Microservice Configuration](https://foojay.io/today/journeys-in-java-level-7-externalize-microservice-configuration/)
 
+[Spring Boot and Flyway - clear database between integration tests](https://twitter.com/maciejwalkowiak/status/1627592317774311424)
+
+

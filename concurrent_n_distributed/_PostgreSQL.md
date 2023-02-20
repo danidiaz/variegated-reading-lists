@@ -283,3 +283,5 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Database DevOps and Code management with PostgreSQL](https://www.softwareandbooz.com/database-devops-and-code-management-with-postgresql/)
 
+[PostgreSQL Unlogged Tables - Look Ma, No WAL!](https://www.crunchydata.com/blog/postgresl-unlogged-tables)
+

@@ -874,6 +874,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 > Code often suffers from what people call “bit rot” when it isn’t actively maintained. Data can suffer from the same type of problem; that is, people forget the precise meaning of specialized fields, or data problems from the past may have faded from memory. For example, maybe there was a short-lived data bug that set every customer id to null. Or there was a huge fraudulent transaction that made it look like Q3 2017 was a lot better than it actually was. Often business logic to pull out data from a historical time period can get more and more complicated. For example, there might be a rule like, “ if the date is older than 2019 use the revenue field, between 2019 and 2021 use the revenue_usd field, and after 2022 use the revenue_usd_audited field.” The longer you keep data around, the harder it is to keep track of these special cases. And not all of them can be easily worked around, especially if there is missing data.
 
+[why music tagging sucks](https://news.ycombinator.com/item?id=34850210). [tag, don't bucket](https://surfingcomplexity.blog/2023/02/19/good-category-bad-category-or-tag-dont-bucket/).
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

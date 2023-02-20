@@ -181,4 +181,6 @@
 
 [bad news with transparent hugepages](https://news.ycombinator.com/item?id=34607604)
 
+[A complete guide to Linux process scheduling](https://trepo.tuni.fi/bitstream/handle/10024/96864/GRADU-1428493916.pdf)
+
 

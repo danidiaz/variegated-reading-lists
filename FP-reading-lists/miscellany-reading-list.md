@@ -662,3 +662,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Queues should be empty](https://news.ycombinator.com/item?id=34843965). [lobsters](https://lobste.rs/s/hrga4r/queues_should_be_empty).
 
+[Self hosting in 2023](https://news.ycombinator.com/item?id=34860655)
+
+

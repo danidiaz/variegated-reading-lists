@@ -185,11 +185,15 @@ Insurance premiums may be affected and adjusted as a result.
 
 [Life table](https://en.wikipedia.org/wiki/Life_table). [Graduated Mortality Table](https://financial-dictionary.thefreedictionary.com/Graduated+Mortality+Tables). [Life tables - R programming](http://www.ub.edu/rfa/R/life_tables.html). [A Practitioner’s Guide to Statistical Mortality Graduation](https://www.soa.org/resources/tables-calcs-tools/2018-stat-mort-graduation/)
 
-[Gompertz–Makeham law of mortality](https://en.wikipedia.org/wiki/Gompertz%E2%80%93Makeham_law_of_mortality).
+[Gompertz–Makeham law of mortality](https://en.wikipedia.org/wiki/Gompertz%E2%80%93Makeham_law_of_mortality). [Interpretation of the hazard rate and the probability density function](https://stats.stackexchange.com/questions/237083/interpretation-of-the-hazard-rate-and-the-probability-density-function)
 
 > The Gompertz–Makeham law states that the human death rate is the sum of an age-dependent component (the Gompertz function, named after Benjamin Gompertz),[1] which increases exponentially with age[2] and an age-independent component (the Makeham term, named after William Makeham)
 
+> Think of f(t) (or really, the expectation of f(t)) as life expectancy at birth - the only condition is that the subject is alive at time T = 0. f(t) can be very useful, it is the distribution of failure times.
 
+> h(t), however, is often more interesting. As someone who has lived quite a few years past birth already, f(t) seems less useful whereas h(t) has immediate relevance.
+
+> to contrast with h(t) which, at every time t is conditional on subjects being alive at time t. Those which have already failed are no longer considered
 
 ## Questions
 

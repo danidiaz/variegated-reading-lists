@@ -728,6 +728,10 @@ https://react-query.tanstack.com/
 
 [useSyncExternalStore](https://beta.reactjs.org/reference/react/useSyncExternalStore). [more](https://blog.saeloun.com/2021/12/30/react-18-usesyncexternalstore-api)
 
-[Transition](https://reactcommunity.org/react-transition-group/transition)
+[Transition](https://reactcommunity.org/react-transition-group/transition). [official react docs](https://reactjs.org/docs/animation.html)
+
+> ReactTransitionGroup and ReactCSSTransitionGroup have been moved to the react-transition-group package that is maintained by the community
+
+
 
 

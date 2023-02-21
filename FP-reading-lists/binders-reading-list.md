@@ -359,3 +359,9 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [Nominal Recursors as Epi-Recursors](https://arxiv.org/abs/2301.00894)
 
+[vscode when clause contexts](https://code.visualstudio.com/api/references/when-clause-contexts). [PR](https://github.com/microsoft/vscode/issues/59858). list context is the one used in the outline view, it seems. Ctrl-Left collapses all. VSVim adds new shortcuts to list mode.
+
+UpArrow for Expand Selection in VSCode? If alrady using VSVim, why not? You're already using K for up.
+
+
+

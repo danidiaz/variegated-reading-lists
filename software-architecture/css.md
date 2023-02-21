@@ -549,4 +549,7 @@ https://twitter.com/tailwindcss
 
 [My favourite 3 lines of CSS](https://andy-bell.co.uk/my-favourite-3-lines-of-css/)
 
+[5 super useful CSS properties that don't get enough attention](https://www.youtube.com/watch?v=o1HzOJfgugE&t=1s)
+
+> isolate, inset, CSS counters, filters, CSS contain
 

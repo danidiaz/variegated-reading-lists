@@ -520,6 +520,12 @@ https://twitter.com/tailwindcss
 
 [What should a modern CSS boilerplate look like?](https://blog.logrocket.com/what-should-modern-css-boilerplate-look-like/). [tailwind preflight](https://tailwindcss.com/docs/preflight). [modern-normalize](https://github.com/sindresorhus/modern-normalize).
 
+> Don’t reset margins 
+
+> There are quite a few HTML elements that web browsers automatically apply margins to, and although it’s very common to reset them (i.e., margin: 0;), you shouldn’t because web browsers do this for legitimate reasons. The <body> element uses margins to ensure that webpages remain readable and that touch targets don’t fall to the edges of mobile screens in the event that the CSS doesn’t load. Content elements (e.g. <h1>, <p>, and <figure>) apply margins for the same reason — accessibility. 
+
+> Definitely reset the box model
+
 [What The Heck, z-index??](https://www.joshwcomeau.com/css/stacking-contexts/)
 
 [W3C: cascading and inheritance](https://www.w3.org/TR/css-cascade/#computed)

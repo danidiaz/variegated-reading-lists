@@ -726,5 +726,5 @@ https://react-query.tanstack.com/
 
 [React query meets react router](https://tkdodo.eu/blog/react-query-meets-react-router)
 
-[useSyncExternalStore](https://beta.reactjs.org/reference/react/useSyncExternalStore)
+[useSyncExternalStore](https://beta.reactjs.org/reference/react/useSyncExternalStore). [more](https://blog.saeloun.com/2021/12/30/react-18-usesyncexternalstore-api)
 

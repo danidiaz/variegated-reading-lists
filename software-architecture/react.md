@@ -732,6 +732,6 @@ https://react-query.tanstack.com/
 
 > ReactTransitionGroup and ReactCSSTransitionGroup have been moved to the react-transition-group package that is maintained by the community
 
-
+[weird ErrorBoundary technique](https://twitter.com/TkDodo/status/1628497900895444998)
 
 

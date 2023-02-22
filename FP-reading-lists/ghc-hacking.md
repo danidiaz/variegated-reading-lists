@@ -248,4 +248,5 @@ Stuff about the heap:
 
 [Cabal upload revisions? and some philosphical points](https://discourse.haskell.org/t/cabal-upload-revisions-and-some-philosphical-points/3772)
 
+[Interface Files with Core Definitions](https://well-typed.com/blog/2023/02/interface-files-with-core/)
 

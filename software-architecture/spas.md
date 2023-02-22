@@ -121,4 +121,4 @@
 
 [Toasts notifications in Thymeleaf with Shoelace and htmx](https://www.wimdeblauwe.com/blog/2023/02/20/toasts-notifications-in-thymeleaf-with-shoelace-and-htmx/)
 
-
+[Storing Ephemeral UI State with Kredis for Rails](https://blog.appsignal.com/2023/02/22/storing-ephemeral-ui-state-with-kredis-for-rails.html)

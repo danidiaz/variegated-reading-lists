@@ -218,4 +218,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [WireMock request matching](https://wiremock.org/docs/request-matching/). [stateful behavior](https://wiremock.org/docs/stateful-behaviour/)
 
+> WireMock supports state via the notion of scenarios. A scenario is essentially a state machine whose states can be arbitrarily assigned. It starting state is always Scenario.STARTED. Stub mappings can be configured to match on scenario state, such that stub A can be returned initially, then stub B once the next scenario state has been triggered.
+
 

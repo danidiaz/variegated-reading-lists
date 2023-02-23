@@ -183,4 +183,5 @@
 
 [A complete guide to Linux process scheduling](https://trepo.tuni.fi/bitstream/handle/10024/96864/GRADU-1428493916.pdf)
 
+[Linux Debuginfo Formats - DWARF, ELF, dwo, dwp - What are They All?](https://www.youtube.com/watch?v=l3h7F9za_pc)
 

@@ -734,4 +734,6 @@ https://react-query.tanstack.com/
 
 [weird ErrorBoundary technique](https://twitter.com/TkDodo/status/1628497900895444998)
 
+[synchronizing with effects](https://beta.reactjs.org/learn/synchronizing-with-effects)
+
 

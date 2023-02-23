@@ -790,4 +790,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [flake-parts](https://flake.parts/). [Modularize your #Haskell #Nix code using flake-parts and haskell-flake.](https://twitter.com/sridca/status/1624504046307487752)
 
+[zero-to-nix](https://zero-to-nix.com/)
+
 

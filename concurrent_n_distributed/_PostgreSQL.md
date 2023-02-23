@@ -287,3 +287,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Partial Indexes](https://use-the-index-luke.com/sql/where-clause/partial-and-filtered-indexes)
 
+[Psql tips](https://news.ycombinator.com/item?id=34909670)
+
+
+

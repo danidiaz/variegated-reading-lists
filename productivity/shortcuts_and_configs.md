@@ -258,3 +258,4 @@ What's added to .profile:
 
 [raycast quicklinks](https://twitter.com/raycastapp/status/1627595863668281344)
 
+[some VSCode shortcuts](https://hachyderm.io/@DiazCarrete/109921261114588261)

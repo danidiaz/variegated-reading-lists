@@ -32,6 +32,8 @@
 
 [ROWS, RANGE and GROUPS](https://modern-sql.com/caniuse/over_range_between_(numeric))
 
+[Speedy Transactions in Multicore In-Memory Databases](http://muratbuffalo.blogspot.com/2023/02/speedy-transactions-in-multicore-in.html)
+
 # Slides
 
 [Row Pattern Matching in SQL:2016](https://www.slideshare.net/MarkusWinand/row-pattern-matching-in-sql2016)

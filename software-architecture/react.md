@@ -736,4 +736,8 @@ https://react-query.tanstack.com/
 
 [synchronizing with effects](https://beta.reactjs.org/learn/synchronizing-with-effects)
 
+[everything would need to be wrapped and subscribed to before it could be read](https://twitter.com/dan_abramov/status/1629541409593098240). [tweet](https://twitter.com/0xca0a/status/1629617963874635777). [tweet](https://twitter.com/en_JS/status/1629580031986118657). [tweet](https://twitter.com/dan_abramov/status/1629597621126922241).
+
+
+
 

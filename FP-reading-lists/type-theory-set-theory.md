@@ -273,6 +273,8 @@ attempt to make equality reasonable again.”
 
 [Complementary foundations for mathematics: when do we choose?](https://home.sandiego.edu/~shulman/papers/jmm2022-complementary.pdf). [hn](https://news.ycombinator.com/item?id=34197169)
 
+[How to implement dependent types in 80 lines of code](https://lobste.rs/s/ub7co8/how_implement_dependent_types_80_lines). [reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/11bo39o/comment/ja2mvv2/). [elaboration-zoo](https://github.com/AndrasKovacs/elaboration-zoo).
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

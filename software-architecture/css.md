@@ -553,3 +553,6 @@ https://twitter.com/tailwindcss
 
 > isolate, inset, CSS counters, filters, CSS contain
 
+[rules of margin collapse](https://twitter.com/JoshWComeau/status/1630188247090446336)
+
+

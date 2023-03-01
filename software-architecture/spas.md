@@ -123,6 +123,26 @@
 
 [Storing Ephemeral UI State with Kredis for Rails](https://blog.appsignal.com/2023/02/22/storing-ephemeral-ui-state-with-kredis-for-rails.html)
 
-[The client-side-templates Extension for htmx](https://htmx.org/extensions/client-side-templates/). [Haskell library](https://hackage.haskell.org/package/stache).
+[The client-side-templates Extension for htmx](https://htmx.org/extensions/client-side-templates/). [Haskell library](https://hackage.haskell.org/package/stache). [HTMX for ASP.NET Core Developers](https://www.youtube.com/watch?v=uS6m37jhdqM). [jetbrains](https://www.jetbrains.com/dotnet/guide/tutorials/htmx-aspnetcore/clientside-templating/). 
+
+[I suggest splitting your JSON API and your HTML end-points](https://www.reddit.com/r/htmx/comments/ykzy9t/htmx_alongside_an_existing_minimal_json_api/). [Splitting Your Data & Application APIs: Going Further](https://htmx.org/essays/splitting-your-apis/). [Don’t Build A General Purpose API To Power Your Own Front End ](https://max.engineer/server-informed-ui). [Hypermedia APIs vs. Data APIs](https://htmx.org/essays/hypermedia-apis-vs-data-apis/).
+
+[load polling in htmx](https://htmx.org/docs/#ajax)
+
+> an element specifies a load trigger along with a delay, and replaces itself with the response
+
+[hyperscript and htmx](https://htmx.org/docs/#hyperscript)
+
+> Hyperscript is not required when using htmx, anything you can do in hyperscript can be done in vanilla JS or with another javascript library like jQuery, but the two technologies were designed with one another in mind and play well together.
+
+[if you prefer, you can use the `data-` prefix when using htmx](https://news.ycombinator.com/item?id=25233872)
+
+> I don't know why people who make frameworks either prefer invalid HTML, or if they do allow people to write valid HTML they seem to show the invalid code in the docs
+
+> You are not allowed to invent any old attributes you want and add them to any element and have it be valid HTML, but you can invent any attribute you want so long as it begins with `data-`. 
+
+[HTMLElement: change event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event)
+
+> When the element loses focus after its value was changed: for elements where the user's interaction is typing rather than selection, such as a <textarea> or the text, search, url, tel, email, or password types of the <input> element.
 
 

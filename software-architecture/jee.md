@@ -325,4 +325,6 @@
 
 [modules use case](https://twitter.com/rotnroll666/status/1630922218803720194)
 
+[Spring Boot the Ripper – Part I](https://www.youtube.com/watch?v=6i17IBBa-I0)
+
 

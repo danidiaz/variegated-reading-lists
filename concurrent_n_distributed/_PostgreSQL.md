@@ -291,4 +291,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Index Merges vs Composite Indexes in Postgres and MySQL](https://sirupsen.com/index-merges)
 
+[PostgreSQL, The Time-Series Database You Want](https://www.youtube.com/watch?v=k1xVlS6hdxU)
+
 

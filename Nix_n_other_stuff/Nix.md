@@ -792,4 +792,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [zero-to-nix](https://zero-to-nix.com/)
 
+[some notes on using nix](https://lobste.rs/s/eru89e/some_notes_on_using_nix)
+
 

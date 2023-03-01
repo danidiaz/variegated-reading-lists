@@ -323,4 +323,6 @@
 
 [Spring Boot and Flyway - clear database between integration tests](https://twitter.com/maciejwalkowiak/status/1627592317774311424)
 
+[modules use case](https://twitter.com/rotnroll666/status/1630922218803720194)
+
 

@@ -1270,3 +1270,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 [Local-First Web Development](https://localfirstweb.dev/)
 
 [bias, bias, bias](https://twitter.com/gwenshap/status/1625335409017487361)
+
+[If your services are interfaces, implementations end with Impl, and both are public, you're doing it wrong.](https://twitter.com/maciejwalkowiak/status/1631350354246770689). [Message listeners beans play the same role as web controllers](https://twitter.com/maciejwalkowiak/status/1631250938047463426).
+
+[Don't let Event-Driven Architecture buzzwords fool you](https://news.ycombinator.com/item?id=34994439)
+
+

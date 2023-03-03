@@ -134,4 +134,12 @@
 
 [mentors](https://lobste.rs/s/jugmcq/we_need_programming_mentors)
 
+[the fate of the Cucumber](https://twitter.com/adamgordonbell/status/1631614029524287489). [HN](https://news.ycombinator.com/item?id=35008013)
+
+> Isn't that often the fate of Cucumber(-like) projects: you start with the promise of high abstractions that the whole company can work with or reason about, you invest a bunch of time to bridge the gap to the underlying implementation, then it turns out that those business folks aren't really interested in it, so developers hold the bag, and bridging the abstraction gap becomes a cost with little benefit?
+
+> The same thing happens with BI platforms. Everyone asks for a tool that business folks can use, developers go through all the effort in creating data integrations, then they turn around and ask the developers to just make the reports they wanted anyways. If that's how it was going to be, there's a lot of simpler solutions than a full blown BI platform...
+
+> I have seen this repeated a lot here on HN. Since my industry is at least 10 years behind everyone else we are now getting these directives. Execs/managers say we want to put the tools directly in the hands of the users. The project is going to be failure in that sense though because nothing is oriented to do that. Everything from our change control process to the UI is a blocker. The execs keep shouting "it needs to be simpler!" on a process that's decidedly not simple. I'm not interested in leading a paradigm shift destined to fail from my small underfunded department at a megacorp so I switched projects :/
+
 

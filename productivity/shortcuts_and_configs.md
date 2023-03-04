@@ -259,3 +259,10 @@ What's added to .profile:
 [raycast quicklinks](https://twitter.com/raycastapp/status/1627595863668281344)
 
 [some VSCode shortcuts](https://hachyderm.io/@DiazCarrete/109921261114588261)
+
+[submodules yay or nay](https://lobste.rs/s/neab1g/never_use_git_submodules)
+
+[Why I Stopped Using an External Monitor](https://lobste.rs/s/igiytq/why_i_stopped_using_external_monitor). [HN](https://news.ycombinator.com/item?id=35015277).
+
+
+

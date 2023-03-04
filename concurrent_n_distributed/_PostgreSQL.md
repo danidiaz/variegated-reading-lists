@@ -293,4 +293,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [PostgreSQL, The Time-Series Database You Want](https://www.youtube.com/watch?v=k1xVlS6hdxU)
 
+[things I wish I knew while learning Postgres](https://mastodon.social/@astroidex/109964159927896918)
+
 

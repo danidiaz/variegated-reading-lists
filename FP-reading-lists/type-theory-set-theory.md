@@ -275,6 +275,10 @@ attempt to make equality reasonable again.”
 
 [How to implement dependent types in 80 lines of code](https://lobste.rs/s/ub7co8/how_implement_dependent_types_80_lines). [reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/11bo39o/comment/ja2mvv2/). [elaboration-zoo](https://github.com/AndrasKovacs/elaboration-zoo).
 
+[Universes may have been introduced for foundational reasons, but they are mathematical objects that are interesting on their own right.](https://functional.cafe/@MartinEscardo@mathstodon.xyz/109961534307956794)
+
+
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

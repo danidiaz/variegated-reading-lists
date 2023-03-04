@@ -990,4 +990,8 @@ get all equalities
 
 > adverbs as 2-dimensional morphisms (!)
 
+[stuff about categorical systems theory](https://twitter.com/mattecapu/status/1631818219169148930)
+
+[slices of a monoid](https://types.pl/@pigworker/109950711521946202)
+
 

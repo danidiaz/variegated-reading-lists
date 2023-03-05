@@ -738,6 +738,8 @@ https://react-query.tanstack.com/
 
 [everything would need to be wrapped and subscribed to before it could be read](https://twitter.com/dan_abramov/status/1629541409593098240). [tweet](https://twitter.com/0xca0a/status/1629617963874635777). [tweet](https://twitter.com/en_JS/status/1629580031986118657). [tweet](https://twitter.com/dan_abramov/status/1629597621126922241). [tweet](https://twitter.com/dan_abramov/status/1629872956288512007).
 
+[what are signals](https://news.ycombinator.com/item?id=35009417)
 
+[server components](https://twitter.com/dan_abramov/status/1632118979375292418)
 
 

@@ -142,4 +142,6 @@
 
 > I have seen this repeated a lot here on HN. Since my industry is at least 10 years behind everyone else we are now getting these directives. Execs/managers say we want to put the tools directly in the hands of the users. The project is going to be failure in that sense though because nothing is oriented to do that. Everything from our change control process to the UI is a blocker. The execs keep shouting "it needs to be simpler!" on a process that's decidedly not simple. I'm not interested in leading a paradigm shift destined to fail from my small underfunded department at a megacorp so I switched projects :/
 
+[perverse incentives](https://twitter.com/GergelyOrosz/status/1632369152626159616)
+
 

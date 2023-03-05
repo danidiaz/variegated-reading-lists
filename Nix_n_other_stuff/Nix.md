@@ -796,4 +796,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [Nix journey part 0: Learning and reference materials](https://news.ycombinator.com/item?id=34987042)
 
+[devenv 0.6](https://lobste.rs/s/a1jo3a/devenv_0_6_generating_containers_instant)
+
 

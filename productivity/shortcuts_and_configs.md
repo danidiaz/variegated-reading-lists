@@ -264,5 +264,8 @@ What's added to .profile:
 
 [Why I Stopped Using an External Monitor](https://lobste.rs/s/igiytq/why_i_stopped_using_external_monitor). [HN](https://news.ycombinator.com/item?id=35015277).
 
+[Be Careful Using tmux and Environment Variables](https://lobste.rs/s/j3fxpg/be_careful_using_tmux_environment)
+
+
 
 

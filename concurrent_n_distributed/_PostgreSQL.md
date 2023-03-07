@@ -295,4 +295,8 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [things I wish I knew while learning Postgres](https://mastodon.social/@astroidex/109964159927896918)
 
+[On the Ascendance of PostgreSQL](https://thenewstack.io/from-a-fan-on-the-ascendance-of-postgresql/)
+
+[The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
+
 

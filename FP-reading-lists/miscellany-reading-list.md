@@ -664,4 +664,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Self hosting in 2023](https://news.ycombinator.com/item?id=34860655)
 
+[text search with tries](https://news.ycombinator.com/item?id=35028370)
+
 

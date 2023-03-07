@@ -823,7 +823,7 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [The Golden Age of PL Research](https://semantic-domain.blogspot.com/2022/09/the-golden-age-of-pl-research.html)
 
-[course on Programming Language Design](https://twitter.com/tomaspetricek/status/1610028878046576644)
+[course on Programming Language Design](https://twitter.com/tomaspetricek/status/1610028878046576644) [same](https://d3s.mff.cuni.cz/teaching/nprg075/)
 
 ## ICFP’22 
 

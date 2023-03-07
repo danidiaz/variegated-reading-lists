@@ -250,3 +250,6 @@ Stuff about the heap:
 
 [Interface Files with Core Definitions](https://well-typed.com/blog/2023/02/interface-files-with-core/)
 
+[Anonymous or large records with OverloadedRecordDot and OverloadedRecordUpdate](https://www.reddit.com/r/haskell/comments/11l3ks8/welltyped_blog_anonymous_or_large_records_with/)
+
+

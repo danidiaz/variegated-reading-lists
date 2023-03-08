@@ -744,4 +744,6 @@ https://react-query.tanstack.com/
 
 [random uuid keys](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
 
+[how and when RSC runs](https://twitter.com/dan_abramov/status/1633574036767662080)
+
 

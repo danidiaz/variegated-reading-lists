@@ -740,6 +740,8 @@ https://react-query.tanstack.com/
 
 [what are signals](https://news.ycombinator.com/item?id=35009417)
 
-[server components](https://twitter.com/dan_abramov/status/1632118979375292418)
+[server components](https://twitter.com/dan_abramov/status/1632118979375292418). [video](https://www.youtube.com/watch?v=h7tur48JSaw)
+
+[random uuid keys](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
 
 

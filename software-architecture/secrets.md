@@ -12,3 +12,6 @@
 
 > In-memory databases such as H2, HSQLDB, and Derby are great to speed up integration tests. Although most database queries can be run against these in-memory databases, many enterprise systems make use of complex native queries which can only be tested against an actual production-like relational database.
 
+[coasian hell](https://ioc.exchange/@invisv/109984592344963986)    
+
+

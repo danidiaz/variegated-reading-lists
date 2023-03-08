@@ -145,4 +145,6 @@
 
 > When the element loses focus after its value was changed: for elements where the user's interaction is typing rather than selection, such as a <textarea> or the text, search, url, tel, email, or password types of the <input> element.
 
+[Your Client Side State is a Lie](https://marcellerusu.com/your_client_side_state_is_a_lie.html). [lobsters](https://lobste.rs/s/69qu6p/your_client_side_state_is_lie)
+
 

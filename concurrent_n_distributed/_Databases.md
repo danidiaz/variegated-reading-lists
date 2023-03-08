@@ -878,6 +878,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [why music tagging sucks](https://news.ycombinator.com/item?id=34850210). [tag, don't bucket](https://surfingcomplexity.blog/2023/02/19/good-category-bad-category-or-tag-dont-bucket/).
 
+[HOW DISCORD STORES TRILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-trillions-of-messages). [lobsters](https://lobste.rs/s/sdttgb/how_discord_stores_trillions_messages)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

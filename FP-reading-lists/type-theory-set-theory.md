@@ -277,7 +277,7 @@ attempt to make equality reasonable again.”
 
 [Universes may have been introduced for foundational reasons, but they are mathematical objects that are interesting on their own right.](https://functional.cafe/@MartinEscardo@mathstodon.xyz/109961534307956794)
 
-
+[Logical "Relations"/Tait's Method/Gluing](https://types.pl/@maxsnew/109983012193663742)
 
 ## Proof assistants
 

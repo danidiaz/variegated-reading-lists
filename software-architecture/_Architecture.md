@@ -1277,6 +1277,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [structuring a PR—Go](https://twitter.com/felixge/status/1634270662767329280)
 
-
+[steel threads](https://news.ycombinator.com/item?id=35090989)
 
 

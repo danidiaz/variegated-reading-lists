@@ -124,4 +124,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [modernizing the TypeScript codebase](https://twitter.com/typescript/status/1633946375422644225)
 
+[JavaScript and TypeScript features of the last 3 years](https://news.ycombinator.com/item?id=35079971)
+
 

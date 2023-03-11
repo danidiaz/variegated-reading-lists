@@ -290,6 +290,17 @@ attempt to make equality reasonable again.”
 > I don't for one moment subscribe to the view that one *needs* dependent types to do semantics. Moreover, I'm inclined to think that the use of dependent
 types solely for logical *super*structure is a waste of dependent types
 
+> I'm envious of the degree of automation that Isabelle affords: the fruit of
+years of hard work. I'd like to see a similar effort in automation in the
+proof machinery for dependently typed programming languages. I don't think
+the type technology presents a barrier to automation: if anything, the extra
+hygiene offered by precise types gives a cleaner substrate on which to build
+the logical layer.
+
+> I'm certainly not claiming that dependent types are *necessary*. The best I
+can hope here is to have demonstrated by example that they can sometimes offer
+a helpful degree of extra comfort.
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

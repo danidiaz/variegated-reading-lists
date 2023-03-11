@@ -268,4 +268,6 @@ What's added to .profile:
 
 [What a good debugger can do](https://lobste.rs/s/uo3sck/what_good_debugger_can_do)
 
+[control mode in Tmux](https://github.com/tmux/tmux/wiki/Control-Mode).  
+
 

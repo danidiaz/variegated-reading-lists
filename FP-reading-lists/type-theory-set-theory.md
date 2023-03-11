@@ -279,6 +279,8 @@ attempt to make equality reasonable again.”
 
 [Logical "Relations"/Tait's Method/Gluing](https://types.pl/@maxsnew/109983012193663742). [Practical semantics](https://www.jonmsterling.com/papers/sterling-2022-lr-tutorial.pdf).
 
+[ I'm not a fan of the *extrinsic* usage of dependent types. Here, I stick up for the *intrinsic* approach:](https://twitter.com/PTOOP/status/1634133098576183296). [The semantics of a simple functional language](https://twitter.com/LawrPaulson/status/1633422041897394176)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

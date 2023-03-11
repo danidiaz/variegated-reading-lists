@@ -746,4 +746,7 @@ https://react-query.tanstack.com/
 
 [how and when RSC runs](https://twitter.com/dan_abramov/status/1633574036767662080)
 
+[were react hooks a mistake?](https://news.ycombinator.com/item?id=35095115)
+
+
 

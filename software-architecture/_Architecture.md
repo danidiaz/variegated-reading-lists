@@ -1275,4 +1275,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Don't let Event-Driven Architecture buzzwords fool you](https://news.ycombinator.com/item?id=34994439)
 
+[structuring a PR—Go](https://twitter.com/felixge/status/1634270662767329280)
+
+
+
 

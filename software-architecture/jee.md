@@ -327,3 +327,6 @@
 
 [Spring Boot the Ripper – Part I](https://www.youtube.com/watch?v=6i17IBBa-I0)
 
+[How to Best Use Java Records as DTOs in Spring Boot 3](https://foojay.io/today/how-to-best-use-java-records-as-dtos-in-spring-boot-3/)
+
+

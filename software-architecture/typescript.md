@@ -122,4 +122,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [tweaking Promises with unknown](https://twitter.com/mattpocockuk/status/1627296901329477632)
 
+[modernizing the TypeScript codebase](https://twitter.com/typescript/status/1633946375422644225)
+
 

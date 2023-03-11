@@ -223,6 +223,7 @@ Insurance premiums may be affected and adjusted as a result.
 
 - [What does the process of creating an insurtech look like?](https://www.insurancebusinessmag.com/us/tv/what-does-the-process-of-creating-an-insurtech-look-like-320471.aspx)
 
+- [capital requirements](https://news.ycombinator.com/item?id=35105030). [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html)
 
 ## Lloyd's
 

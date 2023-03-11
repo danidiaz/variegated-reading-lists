@@ -266,6 +266,6 @@ What's added to .profile:
 
 [Be Careful Using tmux and Environment Variables](https://lobste.rs/s/j3fxpg/be_careful_using_tmux_environment)
 
-
+[What a good debugger can do](https://lobste.rs/s/uo3sck/what_good_debugger_can_do)
 
 

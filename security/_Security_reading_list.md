@@ -660,6 +660,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [you should not do personal stuff on your employer's laptop](https://twitter.com/SwiftOnSecurity/status/1621201256092942336)
 
-[ 5 must-know facts about microservices security](https://twitter.com/RaulJuncoV/status/1634223952061947905)
+[5 must-know facts about microservices security](https://twitter.com/RaulJuncoV/status/1634223952061947905)
+
+[how to YubiKey](https://news.ycombinator.com/item?id=35091768)
 
 

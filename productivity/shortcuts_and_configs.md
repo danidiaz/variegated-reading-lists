@@ -262,12 +262,16 @@ What's added to .profile:
 
 [submodules yay or nay](https://lobste.rs/s/neab1g/never_use_git_submodules)
 
+[vscode when clause contexts](https://code.visualstudio.com/api/references/when-clause-contexts). [PR](https://github.com/microsoft/vscode/issues/59858). list context is the one used in the outline view, it seems. Ctrl-Left collapses all. VSVim adds new shortcuts to list mode.
+
+> UpArrow for Expand Selection in VSCode? If alrady using VSVim, why not? You're already using K for up.
+
 [Why I Stopped Using an External Monitor](https://lobste.rs/s/igiytq/why_i_stopped_using_external_monitor). [HN](https://news.ycombinator.com/item?id=35015277).
 
 [Be Careful Using tmux and Environment Variables](https://lobste.rs/s/j3fxpg/be_careful_using_tmux_environment)
 
 [What a good debugger can do](https://lobste.rs/s/uo3sck/what_good_debugger_can_do)
 
-[control mode in Tmux](https://github.com/tmux/tmux/wiki/Control-Mode).  
+[control mode in Tmux](https://github.com/tmux/tmux/wiki/Control-Mode). [iterm2 tmux integration](https://iterm2.com/documentation-tmux-integration.html). [iterm2 Shell Integration](https://iterm2.com/documentation-shell-integration.html).  
 
 

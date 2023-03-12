@@ -142,4 +142,12 @@
 
 [htmx and Rust](https://twitter.com/mbvisti/status/1616539940006887447)
 
+[Do references to mutable references need to be mutable?](https://users.rust-lang.org/t/do-references-to-mutable-references-need-to-be-mutable/44049)
+
+> to create a mutable reference to a variable, the variable itself must be marked mut
+
+> if you have an &&mut Vec<i32>, it can be turned into a &Vec<i32>, but not into a &mut Vec<i32>
+
+[Reference to a Reference](https://users.rust-lang.org/t/reference-to-a-reference/44753)
+
 

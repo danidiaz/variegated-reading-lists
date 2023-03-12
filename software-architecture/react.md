@@ -748,5 +748,7 @@ https://react-query.tanstack.com/
 
 [were react hooks a mistake?](https://news.ycombinator.com/item?id=35095115)
 
+[React-query tip: You don't have to mess with error handling on each query](https://twitter.com/housecor/status/1633875496760135681)
+
 
 

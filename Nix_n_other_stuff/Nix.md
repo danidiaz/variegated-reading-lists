@@ -798,4 +798,7 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [devenv 0.6](https://lobste.rs/s/a1jo3a/devenv_0_6_generating_containers_instant)
 
+[NixOS in production](https://lobste.rs/s/bbbjfz/nixos_production)
+
+
 

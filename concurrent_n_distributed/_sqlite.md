@@ -31,4 +31,6 @@
 
 [SQLite: Past, Present, and Future](https://news.ycombinator.com/item?id=32909167)
 
+[history of SQLite](https://twitter.com/aboodman/status/1633351940833947654)
+
 

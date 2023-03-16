@@ -800,5 +800,5 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [NixOS in production](https://lobste.rs/s/bbbjfz/nixos_production)
 
-
+[Quick VMs with NixOS](https://galowicz.de/2023/03/13/quick-vms-with-nixos/)
 

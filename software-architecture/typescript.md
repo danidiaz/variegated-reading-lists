@@ -128,5 +128,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Full-Stack TypeScript with tRPC and React](https://news.ycombinator.com/item?id=35150100)
 
+[TypeScript 5.0](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
 
 

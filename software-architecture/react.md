@@ -750,5 +750,6 @@ https://react-query.tanstack.com/
 
 [React-query tip: You don't have to mess with error handling on each query](https://twitter.com/housecor/status/1633875496760135681)
 
+[the new documentation for React](https://react.dev/)
 
 

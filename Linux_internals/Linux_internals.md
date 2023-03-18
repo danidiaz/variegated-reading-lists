@@ -185,3 +185,6 @@
 
 [Linux Debuginfo Formats - DWARF, ELF, dwo, dwp - What are They All?](https://www.youtube.com/watch?v=l3h7F9za_pc)
 
+[ sometimes just stracing code to make sure I can explain all syscalls](https://twitter.com/pkhuong/status/1637081793730867200)
+
+

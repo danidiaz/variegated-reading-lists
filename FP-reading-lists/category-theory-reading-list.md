@@ -994,4 +994,6 @@ get all equalities
 
 [slices of a monoid](https://types.pl/@pigworker/109950711521946202)
 
+[the difference between products as a chosen structure and as a property](https://mastodon.social/@jonmsterling@mathstodon.xyz/110043350469404822)
+
 

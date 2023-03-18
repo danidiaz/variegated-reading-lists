@@ -752,4 +752,6 @@ https://react-query.tanstack.com/
 
 [the new documentation for React](https://react.dev/)
 
+[New React docs pretend SPAs don't exist anymore](https://lobste.rs/s/s9hecv/new_react_docs_pretend_spas_don_t_exist)
+
 

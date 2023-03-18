@@ -329,4 +329,6 @@
 
 [How to Best Use Java Records as DTOs in Spring Boot 3](https://foojay.io/today/how-to-best-use-java-records-as-dtos-in-spring-boot-3/)
 
+[For even less glue code](https://twitter.com/odrotbohm/status/1637145519536390146)
+
 

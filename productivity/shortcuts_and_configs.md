@@ -274,4 +274,6 @@ What's added to .profile:
 
 [control mode in Tmux](https://github.com/tmux/tmux/wiki/Control-Mode). [iterm2 tmux integration](https://iterm2.com/documentation-tmux-integration.html). [iterm2 Shell Integration](https://iterm2.com/documentation-shell-integration.html).  
 
+[Interactuar con texto en una foto con Live Text en la app Vista Previa en el Mac](https://support.apple.com/es-es/guide/preview/prvw625a5b2c/mac)
+
 

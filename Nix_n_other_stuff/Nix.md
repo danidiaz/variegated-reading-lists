@@ -802,3 +802,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [Quick VMs with NixOS](https://galowicz.de/2023/03/13/quick-vms-with-nixos/)
 
+[Flake Parts in Devenv.sh](https://flake.parts/). [tweet](https://twitter.com/domenkozar/status/1637060871984672769).
+
+

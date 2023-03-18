@@ -146,4 +146,10 @@
 
 [under the bus](https://news.ycombinator.com/item?id=35088478)
 
+[What Happened When the U.S. Government Tried to Make the Immigration System Digital](https://slate.com/technology/2021/04/elis-uscis-digital-immigration-system.html). [tweet](https://twitter.com/yvonnezlam/status/1636804519349854208). [tweet](https://twitter.com/miniver/status/1636793681725526016).
+
+> People in tech typically also have no idea how sophisticated the business processes are in most traditional industry. Before you can automate jobs, you have to solve the fact that most business knowledge and processes still exist only in the brains of individual humans.
+
+
+
 

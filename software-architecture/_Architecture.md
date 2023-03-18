@@ -1279,4 +1279,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [steel threads](https://news.ycombinator.com/item?id=35090989)
 
+[single methods interfaces in go](https://eli.thegreenplace.net/2023/the-power-of-single-method-interfaces-in-go/)
+
 

@@ -132,4 +132,5 @@ const conforms: OnlyBoolsAndHorses = {
 
 [when creating custom query hooks, don't try to support every single option that `useQuery` accepts.](https://twitter.com/Julien_Delort/status/1636740585473077250)
 
+[resolvePackageJsonExports](https://twitter.com/ixahmedxii/status/1636708896365588480)
 

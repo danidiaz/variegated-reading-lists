@@ -147,4 +147,8 @@
 
 [Your Client Side State is a Lie](https://marcellerusu.com/your_client_side_state_is_a_lie.html). [lobsters](https://lobste.rs/s/69qu6p/your_client_side_state_is_lie)
 
+[a purely client-side SPA (no Node.js server, 100% static bundle) with Next.js](https://twitter.com/dan_abramov/status/1636886736784457734)
+
+[future flags in remix](https://twitter.com/brophdawg11/status/1636808899360706561)
+
 

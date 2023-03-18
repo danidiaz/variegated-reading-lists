@@ -130,4 +130,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [TypeScript 5.0](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
 
+[when creating custom query hooks, don't try to support every single option that `useQuery` accepts.](https://twitter.com/Julien_Delort/status/1636740585473077250)
+
 

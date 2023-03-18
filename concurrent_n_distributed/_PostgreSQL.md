@@ -299,4 +299,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
 
+[PostgreSQL Logical Replication Explained](https://news.ycombinator.com/item?id=35203571)
+
+
 

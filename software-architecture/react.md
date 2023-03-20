@@ -754,4 +754,6 @@ https://react-query.tanstack.com/
 
 [New React docs pretend SPAs don't exist anymore](https://lobste.rs/s/s9hecv/new_react_docs_pretend_spas_don_t_exist)
 
+[refactoring junior's React code](https://twitter.com/JoshWComeau/status/1637900565652078593)
+
 

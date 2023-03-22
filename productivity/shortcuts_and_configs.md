@@ -276,4 +276,6 @@ What's added to .profile:
 
 [Interactuar con texto en una foto con Live Text en la app Vista Previa en el Mac](https://support.apple.com/es-es/guide/preview/prvw625a5b2c/mac)
 
+[So you've installed `fzf`. Now what?](https://andrew-quinn.me/fzf/)
+
 

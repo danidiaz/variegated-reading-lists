@@ -756,4 +756,6 @@ https://react-query.tanstack.com/
 
 [refactoring junior's React code](https://twitter.com/JoshWComeau/status/1637900565652078593)
 
+[ref use case examples](https://twitter.com/JoshWComeau/status/1638614346078072833)
+
 

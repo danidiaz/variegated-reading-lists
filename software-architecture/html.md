@@ -10,4 +10,4 @@
 
 [HTML living standard](https://html.spec.whatwg.org/multipage/)
 
-
+[innerText](http://perfectionkills.com/the-poor-misunderstood-innerText/)

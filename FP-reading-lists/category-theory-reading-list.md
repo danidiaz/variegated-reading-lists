@@ -996,4 +996,7 @@ get all equalities
 
 [the difference between products as a chosen structure and as a property](https://mastodon.social/@jonmsterling@mathstodon.xyz/110043350469404822)
 
+[Kan extension examples](https://www.math.brown.edu/mchan2/2019Spring_2520/StudentPresentations/Caelan_KanExtensions.pdf)
+
+
 

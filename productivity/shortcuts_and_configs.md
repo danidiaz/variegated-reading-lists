@@ -278,4 +278,6 @@ What's added to .profile:
 
 [So you've installed `fzf`. Now what?](https://andrew-quinn.me/fzf/)
 
+[I use iterm2 and neovim. Is it worth using/adding tmux for local development?](https://news.ycombinator.com/item?id=15778260) NO
+
 

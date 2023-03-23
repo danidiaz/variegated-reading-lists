@@ -150,4 +150,6 @@
 
 [Reference to a Reference](https://users.rust-lang.org/t/reference-to-a-reference/44753)
 
+[intro to Rust for FP programmers](https://twitter.com/snoyberg/status/1638896824487493633). [for Scala](https://twitter.com/etorreborre/status/1638826612828393472)
+
 

@@ -220,4 +220,10 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 > WireMock supports state via the notion of scenarios. A scenario is essentially a state machine whose states can be arbitrarily assigned. It starting state is always Scenario.STARTED. Stub mappings can be configured to match on scenario state, such that stub A can be returned initially, then stub B once the next scenario state has been triggered.
 
+[XPath: difference between dot and text()](https://stackoverflow.com/questions/38240763/xpath-difference-between-dot-and-text). [string value](https://www.w3.org/TR/1999/REC-xpath-19991116/#dt-string-value)
+
+[Testing text() nodes vs string values in XPath](https://stackoverflow.com/questions/34593753/testing-text-nodes-vs-string-values-in-xpath) good answer
+
+[XPath in Selenium: How to Find & Write? (Text, Contains, AND)](https://www.guru99.com/xpath-selenium.html)
+
 

@@ -96,3 +96,8 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 >  The decode function ties the knot by just applying the identity (a constructor) at the end. So you really ought to be able to define two mutual Flow .. .. without any issue.
 
+[linear constraints: the problem with scopes](https://www.tweag.io/blog/2023-03-23-linear-constraints-linearly/). [tweet](https://twitter.com/aspiwack/status/1638945084430340096)
+
+> Ah, but we’ve had to put arr2, which is linear, under an Ur. This is not permissible. Now, we’ve found our problem: no linear value can escape from the newMArray scope. Not even an array that originates in an encompassing scope. So we have to extend the scope of the inner newMArray until the end of the computation. That’s the shortcoming of this scoped newMArray function: all the nested newMArray scopes want to end at the same place. They stick together.
+
+

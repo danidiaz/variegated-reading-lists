@@ -998,5 +998,5 @@ get all equalities
 
 [Kan extension examples](https://www.math.brown.edu/mchan2/2019Spring_2520/StudentPresentations/Caelan_KanExtensions.pdf)
 
-
+[The distributions monad is a retract of the lotteries monad](https://twitter.com/ToposInstitute/status/1638841242359398400). 
 

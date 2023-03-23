@@ -38,3 +38,5 @@ Things to try:
 
 > In the long term, I think this is going to reshape technical writing and code documenting practices. People are going to write targeting LLMs and not just users.
 
+[q: how do I use TLS here?](https://www.reddit.com/r/haskell/comments/11z50ks/comment/jdd5qcs/)
+

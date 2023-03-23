@@ -34,5 +34,7 @@ Things to try:
 
 [react server components](https://twitter.com/dan_abramov/status/1638687992553381889). [rsc microfrontends](https://twitter.com/dan_abramov/status/1638756599970791426). [router internals](https://twitter.com/dan_abramov/status/1638731932426018816). [the server sent a function to the client](https://twitter.com/dan_abramov/status/1638760757239087104)
 
+[The whole thing is parasitic on a substrate of solid technical writing](https://twitter.com/kevinbaker/status/1638974920074960896)
+
 
 

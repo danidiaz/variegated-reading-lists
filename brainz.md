@@ -26,15 +26,15 @@ Things to try:
 
 [ChatGPT plugins](https://twitter.com/OpenAI/status/1638952876281335813). [hn](https://news.ycombinator.com/item?id=35277677). [comment](https://hachyderm.io/@mitchellh/110073950210671765). [lock-in](https://twitter.com/rickasaurus/status/1638572469282918400)
 
-[talking to docs](https://twitter.com/dan_abramov/status/1638674605635239938)
-
->  i was wondering how much i am writing for humans and how much for the model
-
 [you might not need an effect](https://twitter.com/dan_abramov/status/1638773531881140224)
 
 [react server components](https://twitter.com/dan_abramov/status/1638687992553381889). [rsc microfrontends](https://twitter.com/dan_abramov/status/1638756599970791426). [router internals](https://twitter.com/dan_abramov/status/1638731932426018816). [the server sent a function to the client](https://twitter.com/dan_abramov/status/1638760757239087104)
 
+[talking to docs](https://twitter.com/dan_abramov/status/1638674605635239938)
+
+>  i was wondering how much i am writing for humans and how much for the model
+
 [The whole thing is parasitic on a substrate of solid technical writing](https://twitter.com/kevinbaker/status/1638974920074960896)
 
-
+> In the long term, I think this is going to reshape technical writing and code documenting practices. People are going to write targeting LLMs and not just users.
 

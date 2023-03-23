@@ -280,4 +280,6 @@ What's added to .profile:
 
 [I use iterm2 and neovim. Is it worth using/adding tmux for local development?](https://news.ycombinator.com/item?id=15778260) NO
 
+[Finder tip](https://hachyderm.io/@DiazCarrete/110072047932252517). [iterm tips](https://hachyderm.io/@DiazCarrete/110069119745145941)
+
 

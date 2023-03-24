@@ -40,5 +40,7 @@ Things to try:
 
 [increasingly absurd](https://twitter.com/birchlse/status/1639258703961415680)
 
+[non-native speakers](https://twitter.com/KrebsVerena/status/1638965122390450176)
+
 
 

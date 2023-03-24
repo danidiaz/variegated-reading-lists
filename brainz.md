@@ -36,3 +36,9 @@ Things to try:
 
 [q: how do I use TLS here?](https://www.reddit.com/r/haskell/comments/11z50ks/comment/jdd5qcs/)
 
+[glad I never learned X](https://twitter.com/dan_abramov/status/1639253192926978050)
+
+[increasingly absurd](https://twitter.com/birchlse/status/1639258703961415680)
+
+
+

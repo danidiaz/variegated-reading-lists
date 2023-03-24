@@ -226,4 +226,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [XPath in Selenium: How to Find & Write? (Text, Contains, AND)](https://www.guru99.com/xpath-selenium.html)
 
+[memfd-create it's very handy for creating "mock" files in C when you need to](https://www.reddit.com/r/haskell/comments/120a3qt/comment/jdghgzz/)
+
 

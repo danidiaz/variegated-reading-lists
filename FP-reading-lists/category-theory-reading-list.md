@@ -1000,4 +1000,6 @@ get all equalities
 
 [The distributions monad is a retract of the lotteries monad](https://twitter.com/ToposInstitute/status/1638841242359398400). 
 
+[presheaves being evidence-yielding predicates](https://types.pl/@JacquesC2/110084113468269687)
+
 

@@ -282,6 +282,6 @@ What's added to .profile:
 
 [Finder tip](https://hachyderm.io/@DiazCarrete/110072047932252517). [iterm tips](https://hachyderm.io/@DiazCarrete/110069119745145941)
 
-[A Practical Guide to fzf: Shell Integration](https://thevaluable.dev/fzf-shell-integration/)
+[A Practical Guide to fzf: Shell Integration](https://thevaluable.dev/fzf-shell-integration/). [nixpkgs](https://nixos.wiki/wiki/Fzf)
 
 

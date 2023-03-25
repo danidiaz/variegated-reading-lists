@@ -804,4 +804,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [Flake Parts in Devenv.sh](https://flake.parts/). [tweet](https://twitter.com/domenkozar/status/1637060871984672769).
 
+[Moving stuff around with Nix](https://determinate.systems/posts/moving-stuff-around-with-nix)
+
 

@@ -806,4 +806,10 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [Moving stuff around with Nix](https://determinate.systems/posts/moving-stuff-around-with-nix)
 
+[Nix glossary](https://nixos.org/manual/nix/stable/glossary.html#gloss-closure)
+
+> For a package, the closure of its derivation is equivalent to the build-time dependencies, while the closure of its output path is equivalent to its runtime dependencies.
+
+[nix shell vs nix develop](https://www.reddit.com/r/NixOS/comments/r15hx4/nix_shell_vs_nix_develop/)
+
 

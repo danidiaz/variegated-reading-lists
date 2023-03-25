@@ -764,7 +764,9 @@ https://react-query.tanstack.com/
 
 [react server components](https://twitter.com/dan_abramov/status/1638687992553381889). [rsc microfrontends](https://twitter.com/dan_abramov/status/1638756599970791426). [router internals](https://twitter.com/dan_abramov/status/1638731932426018816). [the server sent a function to the client](https://twitter.com/dan_abramov/status/1638760757239087104)
 
+[start a react project 2023](https://news.ycombinator.com/item?id=35280454)
 
+[How do I dynamically set HTML5 data- attributes using react?](https://stackoverflow.com/questions/27285856/how-do-i-dynamically-set-html5-data-attributes-using-react)
 
 
 

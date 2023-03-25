@@ -151,4 +151,6 @@
 
 [future flags in remix](https://twitter.com/brophdawg11/status/1636808899360706561)
 
+[Reusable htmx components with custom elements](https://cprohm.de/blog/htmx-custom-elements/)
+
 

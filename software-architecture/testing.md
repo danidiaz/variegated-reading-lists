@@ -228,4 +228,36 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [memfd-create it's very handy for creating "mock" files in C when you need to](https://www.reddit.com/r/haskell/comments/120a3qt/comment/jdghgzz/)
 
+[Basics of XPath](https://courses.ischool.berkeley.edu/i290-14/s05/lecture-4/allslides.html). [How can I find an element by CSS class with XPath?](https://stackoverflow.com/questions/1604471/how-can-i-find-an-element-by-css-class-with-xpath). [How to select first and last elements via XPath?](https://stackoverflow.com/questions/36415455/how-to-select-first-and-last-elements-via-xpath). [Difference between contains() predicate testing in XPath?](https://stackoverflow.com/questions/43048863/difference-between-contains-predicate-testing-in-xpath). 
 
+> ../name parent::name
+> name child::name
+> //name descendant::name
+> .  self::node()
+> * child::*
+> @* attribute::*
+> @name attribute::name
+
+[If double slash (//) is used 2 times in XPath, what does it mean?](https://stackoverflow.com/questions/36019544/if-double-slash-is-used-2-times-in-xpath-what-does-it-mean). [spec](https://www.w3.org/TR/1999/REC-xpath-19991116/). [Does Chrome use XPath 2.0? (no)](https://stackoverflow.com/questions/25455351/does-chrome-use-xpath-2-0). 
+
+[abbreviated syntax](https://www.w3.org/TR/1999/REC-xpath-19991116/#path-abbrev)
+
+> The most important abbreviation is that child:: can be omitted from a location step. In effect, child is the default axis. For example, a location path div/para is short for child::div/child::para.
+
+> There is also an abbreviation for attributes: attribute:: can be abbreviated to @. For example, a location path para[@type="warning"] is short for child::para[attribute::type="warning"] and so selects para children with a type attribute with value equal to warning.
+
+> // is short for /descendant-or-self::node()/. For example, //para is short for /descendant-or-self::node()/child::para and so will select any para element in the document (even a para element that is a document element will be selected by //para since the document element node is a child of the root node); div//para is short for div/descendant-or-self::node()/child::para and so will select all para descendants of div children.
+
+> NOTE: The location path //para[1] does not mean the same as the location path /descendant::para[1]. The latter selects the first descendant para element; the former selects all descendant para elements that are the first para children of their parents.
+
+> a node-set is true if and only if it is non-empty
+
+[CSS Selector vs XPath: Your Pocket Cheat Sheet](https://testrigor.com/blog/css-selector-vs-xpath-your-pocket-cheat-sheet/)
+
+> XPath also has predicates (always embedded in square brackets), that you can use to find any specific node, or a node with a certain value.
+
+> /audio/file[position()>4]
+
+[puppeteer wait for element disappear or remove from DOM](https://stackoverflow.com/questions/58833640/puppeteer-wait-for-element-disappear-or-remove-from-dom)
+
+    

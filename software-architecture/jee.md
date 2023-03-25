@@ -331,4 +331,8 @@
 
 [For even less glue code](https://twitter.com/odrotbohm/status/1637145519536390146)
 
+[doubts about Mapstruct](https://twitter.com/maciejwalkowiak/status/1638853501726998532)
+
+
+
 

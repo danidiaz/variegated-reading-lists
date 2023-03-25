@@ -768,7 +768,7 @@ https://react-query.tanstack.com/
 
 [How do I dynamically set HTML5 data- attributes using react?](https://stackoverflow.com/questions/27285856/how-do-i-dynamically-set-html5-data-attributes-using-react)
 
-
+[more about RSC](https://twitter.com/t6adev/status/1639607614932910080)
 
 
 

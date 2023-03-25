@@ -42,5 +42,7 @@ Things to try:
 
 [non-native speakers](https://twitter.com/KrebsVerena/status/1638965122390450176)
 
+[for learning](https://twitter.com/simonw/status/1639707628778692608)
+
 
 

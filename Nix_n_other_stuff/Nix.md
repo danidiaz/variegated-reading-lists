@@ -815,3 +815,7 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 > The nix command aims to collect most common commands such as nix-build, nix-copy-closure, nix-env, … as subcommands of one common program. Unsurprisingly, this does not spare nix-shell.
 
 > Yet, unlike some of the other commands which received a more or less one-to-one replacement it is not so easy with nix-shell. This command was actually broken up into multiple commands with different semantics: nix shell, nix develop and nix run. 
+
+[How to write a Nix derivation (using Nix as a make replacement)](https://www.youtube.com/watch?v=bbW6kgB5F2M)
+
+

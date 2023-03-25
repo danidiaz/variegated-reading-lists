@@ -818,4 +818,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [How to write a Nix derivation (using Nix as a make replacement)](https://www.youtube.com/watch?v=bbW6kgB5F2M)
 
+[Support arbitrary fetching of files as Flake inputs](https://github.com/NixOS/nix/issues/5979)
+
 

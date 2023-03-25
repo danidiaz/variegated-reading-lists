@@ -666,4 +666,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [text search with tries](https://news.ycombinator.com/item?id=35028370)
 
+[Algebraic Path Finding](https://www.reddit.com/r/haskell/comments/121oydu/algebraic_path_finding/)
 

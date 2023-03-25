@@ -820,4 +820,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [Support arbitrary fetching of files as Flake inputs](https://github.com/NixOS/nix/issues/5979). [solved here](https://github.com/NixOS/nix/pull/6548)
 
+[How to Learn Nix, Part 47: New and unimproved shells](https://ianthehenry.com/posts/how-to-learn-nix/nix-develop/). [Straightforward way to determine if inside a nix shell](https://github.com/NixOS/nix/issues/6677)
+
 

@@ -260,4 +260,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [puppeteer wait for element disappear or remove from DOM](https://stackoverflow.com/questions/58833640/puppeteer-wait-for-element-disappear-or-remove-from-dom)
 
-    
+[Vitest](https://twitter.com/TkDodo/status/1639708582546493441)    
+
+

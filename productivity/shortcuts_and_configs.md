@@ -284,4 +284,10 @@ What's added to .profile:
 
 [A Practical Guide to fzf: Shell Integration](https://thevaluable.dev/fzf-shell-integration/). [nixpkgs](https://nixos.wiki/wiki/Fzf)
 
+[Vim paste marks](https://stackoverflow.com/a/10768030/1364288)
+
+> By default, the p and P commands should leave the cursor at the last character of the pasted text. gp and gP go one character forwards (first character after pasted text).
+
+> When you paste text, you have marks [ and ] set to the beginning and end of pasted text. Therefore you can use `[ and `] to move the cursor to begin/end of pasted content. 
+
 

@@ -810,6 +810,8 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 > For a package, the closure of its derivation is equivalent to the build-time dependencies, while the closure of its output path is equivalent to its runtime dependencies.
 
-[nix shell vs nix develop](https://www.reddit.com/r/NixOS/comments/r15hx4/nix_shell_vs_nix_develop/)
+[nix shell vs nix develop](https://www.reddit.com/r/NixOS/comments/r15hx4/nix_shell_vs_nix_develop/). [good post](https://blog.ysndr.de/posts/guides/2021-12-01-nix-shells/)
 
+> The nix command aims to collect most common commands such as nix-build, nix-copy-closure, nix-env, … as subcommands of one common program. Unsurprisingly, this does not spare nix-shell.
 
+> Yet, unlike some of the other commands which received a more or less one-to-one replacement it is not so easy with nix-shell. This command was actually broken up into multiple commands with different semantics: nix shell, nix develop and nix run. 

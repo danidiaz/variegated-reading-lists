@@ -1002,4 +1002,6 @@ get all equalities
 
 [presheaves being evidence-yielding predicates](https://types.pl/@JacquesC2/110084113468269687)
 
+[A Flying Tour of Kan Extensions](https://ayazhafiz.com/articles/21/a-flying-tour-of-kan-extensions)
+
 

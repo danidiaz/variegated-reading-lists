@@ -384,10 +384,19 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 
 > When dealing with sensitive information I usually create passwords via Secrets Manager (AWS) and then use reference attributes to retrieve them or I'll store them in parameter store and import them using using the SSM Parameter data source.
 
+[Should I commit .tfstate files to Git?](https://stackoverflow.com/questions/38486335/should-i-commit-tfstate-files-to-git)
+
+
 
 
 [terraform tutorials](https://developer.hashicorp.com/terraform/tutorials)
 
 terraform [data sources](https://developer.hashicorp.com/terraform/language/data-sources). [argument](https://developer.hashicorp.com/terraform/docs/glossary#argument). [attribute](https://developer.hashicorp.com/terraform/docs/glossary#attribute).
 
-[terraform data sources 'like queries'](https://servian.dev/getting-to-know-terraform-data-sources-bec206a82b27)
+[terraform data sources 'like queries'](https://servian.dev/getting-to-know-terraform-data-sources-bec206a82b27). [terraform state show](https://developer.hashicorp.com/terraform/cli/commands/state/show)
+
+> Importing an existing resource is similar to pointing a data source at it. In both cases, you get information about the resource made available inside your Terraform configuration.
+
+> However, the key difference is that if you import a resource *then you now manage it*.
+
+

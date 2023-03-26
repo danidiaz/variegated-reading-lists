@@ -44,5 +44,6 @@ Things to try:
 
 [for learning](https://twitter.com/simonw/status/1639707628778692608)
 
+["It's fine not to provide direct answers"](https://twitter.com/bgavran3/status/1639326236487843855)
 
 

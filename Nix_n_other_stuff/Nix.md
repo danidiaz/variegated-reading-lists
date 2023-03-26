@@ -826,4 +826,8 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [my first flake](https://gist.github.com/danidiaz/dad21332cc27dbe87d6307f5884dec94)
 
+> it depends on the flake, if the rust overlay for instance just exposes an overlay then you won’t need the follows since the overlay will be applied to your “main” nixpkgs input anyways, I don’t think flake-compat depends on nixpkgs at all, flake-utils claims to be pure nix and thus shouldn’t require nixpkgs either.
+
+> So, in general, you have to reason about each individual case, which, in general, requires some knowledge of the internals of each.
+
 

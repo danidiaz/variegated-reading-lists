@@ -57,3 +57,5 @@
 
 [What is the github action paths-ignore equivalent in buildkite?](https://forum.buildkite.community/t/what-is-the-github-action-paths-ignore-equivalent-in-buildkite/2045)
 
+[GA common actions](https://ashishb.net/tech/common-pitfalls-of-github-actions/)
+

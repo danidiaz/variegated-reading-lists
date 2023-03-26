@@ -836,4 +836,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 > Most flakes provide their functionality through Nixpkgs overlays or NixOS modules, which are composed into the top-level flake's nixpkgs input; so their own nixpkgs input is usually irrelevant.
 
+[Deploying NixOS using Terraform](https://nix.dev/tutorials/deploying-nixos-using-terraform)
+
 

@@ -380,6 +380,12 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 
 > By default, Terraform stores state locally in a file named terraform.tfstate. This default configuration can make Terraform usage difficult for teams when multiple users run Terraform at the same time and each machine has its own understanding of the current infrastructure.
 
+[more about secrets](https://www.reddit.com/r/Terraform/comments/r21irj/comment/hmj3czd/)
+
+> When dealing with sensitive information I usually create passwords via Secrets Manager (AWS) and then use reference attributes to retrieve them or I'll store them in parameter store and import them using using the SSM Parameter data source.
+
+
+
 [terraform tutorials](https://developer.hashicorp.com/terraform/tutorials)
 
 

@@ -666,4 +666,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [haskell-okta-http-client](https://github.com/EarnestResearch/haskell-okta-http-client)
 
+[7 day expiring tokens for GitHub](https://twitter.com/mitchellh/status/1639682059374563333)
+
 

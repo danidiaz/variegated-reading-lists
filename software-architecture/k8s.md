@@ -366,6 +366,10 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 
 > Warning: We recommend using environment variables to supply credentials and other sensitive data. If you use -backend-config or hardcode these values directly in your configuration, Terraform will include these values in both the .terraform subdirectory and in plan files. This can leak sensitive credentials.
 
+> The .terraform/terraform.tfstate file contains the backend configuration for the current working directory.
+
+[The design of Terraform is to recompute variables on demand, and to not store the computed value in state.](https://github.com/hashicorp/terraform/issues/2550#issuecomment-1283163244)
+
 [Store Terraform state in a Cloud Storage bucket](https://cloud.google.com/docs/terraform/resource-management/store-state)
 
 > By default, Terraform stores state locally in a file named terraform.tfstate. This default configuration can make Terraform usage difficult for teams when multiple users run Terraform at the same time and each machine has its own understanding of the current infrastructure.

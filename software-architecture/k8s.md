@@ -388,4 +388,6 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 
 [terraform tutorials](https://developer.hashicorp.com/terraform/tutorials)
 
+terraform [data sources](https://developer.hashicorp.com/terraform/language/data-sources). [argument](https://developer.hashicorp.com/terraform/docs/glossary#argument). [attribute](https://developer.hashicorp.com/terraform/docs/glossary#attribute).
+
 

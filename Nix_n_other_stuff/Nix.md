@@ -838,4 +838,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [Deploying NixOS using Terraform](https://nix.dev/tutorials/deploying-nixos-using-terraform)
 
+[NixOS: The Ultimate Dev Environment?](https://myme.no/posts/2022-01-16-nixos-the-ultimate-dev-environment.html)
+
 

@@ -56,4 +56,6 @@ Things to try:
 
 > You need stage 1 for general knowledge, stage 2 for learning to execute prompts, stage 3 to make it behave.
 
+[you can ask LLMs to critique their outputs](https://twitter.com/ericjang11/status/1639882111338573824)
+
 

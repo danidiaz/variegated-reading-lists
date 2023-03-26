@@ -832,4 +832,8 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 > nix flake metadata will list a graph so you know which follows need to be added:
 
+[follows](https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-flake.html#flake-references)
+
+> Most flakes provide their functionality through Nixpkgs overlays or NixOS modules, which are composed into the top-level flake's nixpkgs input; so their own nixpkgs input is usually irrelevant.
+
 

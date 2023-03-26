@@ -370,6 +370,12 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 
 [The design of Terraform is to recompute variables on demand, and to not store the computed value in state.](https://github.com/hashicorp/terraform/issues/2550#issuecomment-1283163244)
 
+[Sensitive values in state](https://developer.hashicorp.com/terraform/tutorials/configuration-language/sensitive-variables#sensitive-values-in-state) does it contradict the above?
+
+> When you run Terraform commands with a local state file, Terraform stores the state as plain text, including variable values, even if you have flagged them as sensitive. Terraform needs to store these values in your state so that it can tell if you have changed them since the last time you applied your configuration.
+
+> Marking variables as sensitive is not sufficient to secure them. You must also keep them secure while passing them into Terraform configuration, and protect them in your state file. 
+
 [Store Terraform state in a Cloud Storage bucket](https://cloud.google.com/docs/terraform/resource-management/store-state)
 
 > By default, Terraform stores state locally in a file named terraform.tfstate. This default configuration can make Terraform usage difficult for teams when multiple users run Terraform at the same time and each machine has its own understanding of the current infrastructure.

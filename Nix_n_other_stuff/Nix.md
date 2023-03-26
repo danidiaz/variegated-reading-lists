@@ -840,4 +840,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [NixOS: The Ultimate Dev Environment?](https://myme.no/posts/2022-01-16-nixos-the-ultimate-dev-environment.html)
 
+[What Nix Can Do](https://www.youtube.com/watch?v=6Le0IbPRzOE)
+
 

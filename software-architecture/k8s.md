@@ -350,5 +350,18 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 
 [Terraform for DevOps Beginners](https://www.youtube.com/watch?v=YcJ9IeukJL8). [Complete Terraform Course - From BEGINNER to PRO!](https://www.youtube.com/watch?v=7xngnjfIlK4). [Terraform tips’n’tricks: debugging data sources and testing interpolations](https://martincarstenbach.wordpress.com/2021/02/09/terraform-tipsntricks-debugging-data-sources-and-testing-interpolations/). [Using the terraform console to debug interpolation syntax](https://prefetch.net/blog/2020/04/27/using-the-terraform-console-to-debug-interpolation-syntax/). [Develop Configuration with the Console](https://learn.hashicorp.com/tutorials/terraform/console)
 
+[hetzner provider](https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs)
+
+[Protect Sensitive Input Variables](https://developer.hashicorp.com/terraform/tutorials/configuration-language/sensitive-variables). [Ignore .tfvars file](https://www.reddit.com/r/Terraform/comments/r21irj/ignore_tfvars_file_or_not/)
+
+> Because you flagged the new variables as sensitive, Terraform redacts their values from its output when you run a plan, apply, or destroy command. Notice that the password is marked sensitive value, while the username is marked sensitive. 
+
+[Backend Configuration](https://developer.hashicorp.com/terraform/language/settings/backends/configuration)
+
+> A backend defines where Terraform stores its state data files.
+
+> By default, Terraform uses a backend called local, which stores state as a local file on disk. 
+
+> Some backends allow providing access credentials directly as part of the configuration for use in unusual situations, for pragmatic reasons. However, in normal use, we do not recommend including access credentials as part of the backend configuration. Instead, leave those arguments completely unset and provide credentials using the credentials files or environment variables that are conventional for the target system, as described in the documentation for each backend.
 
 

@@ -390,4 +390,4 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 
 terraform [data sources](https://developer.hashicorp.com/terraform/language/data-sources). [argument](https://developer.hashicorp.com/terraform/docs/glossary#argument). [attribute](https://developer.hashicorp.com/terraform/docs/glossary#attribute).
 
-
+[terraform data sources 'like queries'](https://servian.dev/getting-to-know-terraform-data-sources-bec206a82b27)

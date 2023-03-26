@@ -880,6 +880,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [HOW DISCORD STORES TRILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-trillions-of-messages). [lobsters](https://lobste.rs/s/sdttgb/how_discord_stores_trillions_messages)
 
+[Index Merges vs Composite Indexes in Postgres and MySQL](https://sirupsen.com/index-merges)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

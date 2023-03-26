@@ -830,4 +830,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 > So, in general, you have to reason about each individual case, which, in general, requires some knowledge of the internals of each.
 
+> nix flake metadata will list a graph so you know which follows need to be added:
+
 

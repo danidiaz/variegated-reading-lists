@@ -331,7 +331,7 @@
 
 [For even less glue code](https://twitter.com/odrotbohm/status/1637145519536390146)
 
-[doubts about Mapstruct](https://twitter.com/maciejwalkowiak/status/1638853501726998532)
+[doubts about Mapstruct](https://twitter.com/maciejwalkowiak/status/1638853501726998532). [MapStruct in Spring application - is "spring" component model the right approach?](https://github.com/mapstruct/mapstruct/discussions/3208). [mappers as converters](https://mapstruct.org/documentation/spring-extensions/reference/html/#mapperAsConverter)
 
 > I don’t see the harm: you’re depending on a component, you’re using a framework that manages components. Your mappers won’t typically need DI or AOP, but there definitely are use cases for that (I have them).
 Why resort to factory methods if you can use DI?

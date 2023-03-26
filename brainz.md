@@ -46,4 +46,14 @@ Things to try:
 
 ["It's fine not to provide direct answers"](https://twitter.com/bgavran3/status/1639326236487843855)
 
+[an explanation](https://news.ycombinator.com/item?id=35312969)
+
+> The pre-trained model is stage 1 - it has seen everything, but it is wild. If you ask it "What is the capital of US?" it will reply "What is the capital of Canada?"...
+
+> Stage 2 is task solving practice. We use 1000-2000 supervised datasets, formatted as prompt-input-output texts. They could be anything: translation, sentiment classification, question answering, etc. We also include prompt-code pairs. This teaches the model to solve tasks (it "hires" this ability from the model). Apparently training on code is essential, without it the model doesn't develop reasoning abilities.
+
+> But still the model is not well behaved, it doesn't answer in a way we like. So in stage 3 it goes to human preference tuning (RLHF). This is based on human preferences between pairs of LLM answers. After RLHF it learns to behave and to abstain from certain topics.
+
+> You need stage 1 for general knowledge, stage 2 for learning to execute prompts, stage 3 to make it behave.
+
 

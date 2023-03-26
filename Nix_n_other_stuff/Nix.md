@@ -822,4 +822,8 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [How to Learn Nix, Part 47: New and unimproved shells](https://ianthehenry.com/posts/how-to-learn-nix/nix-develop/). [Straightforward way to determine if inside a nix shell](https://github.com/NixOS/nix/issues/6677)
 
+[legacyPackages in flakes](https://discourse.nixos.org/t/using-nixpkgs-legacypackages-system-vs-import/17462/5). [input follows](https://discourse.nixos.org/t/recommendations-for-use-of-flakes-input-follows/17413).
+
+[my first flake](https://gist.github.com/danidiaz/dad21332cc27dbe87d6307f5884dec94)
+
 

@@ -39,6 +39,8 @@
 
 > your data is less noisy, and all the contracts are super exotic.
 
+[Cigna](https://www.propublica.org/article/cigna-pxdx-medical-health-insurance-rejection-claims)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

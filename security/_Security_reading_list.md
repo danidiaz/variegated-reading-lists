@@ -668,4 +668,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [7 day expiring tokens for GitHub](https://twitter.com/mitchellh/status/1639682059374563333)
 
+[We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)    
+
 

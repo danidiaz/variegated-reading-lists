@@ -842,4 +842,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [What Nix Can Do](https://www.youtube.com/watch?v=6Le0IbPRzOE)
 
+[1000 instances of nixpkgs](https://zimbatm.com/notes/1000-instances-of-nixpkgs)
+
 

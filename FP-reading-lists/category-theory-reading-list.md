@@ -1004,4 +1004,6 @@ get all equalities
 
 [A Flying Tour of Kan Extensions](https://ayazhafiz.com/articles/21/a-flying-tour-of-kan-extensions)
 
+[coequations](https://hachyderm.io/@mc@mathstodon.xyz/110106308680967113)
+
 

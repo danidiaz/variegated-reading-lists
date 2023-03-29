@@ -60,5 +60,7 @@ Things to try:
 
 [put some relevant information in the prompt](https://twitter.com/Ted_Underwood/status/1640366868975308801). [prompt pattern catalog](https://medium.com/@gravity7/towards-gpt-design-patterns-4df8f892cf38)
 
+[An Introduction to Autoencoders](https://www.pinecone.io/learn/autoencoders/)
+
 
 

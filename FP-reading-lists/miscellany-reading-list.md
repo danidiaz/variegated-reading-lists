@@ -668,5 +668,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Algebraic Path Finding](https://www.reddit.com/r/haskell/comments/121oydu/algebraic_path_finding/)
 
-[How to read icicle and flame graphs](https://www.polarsignals.com/blog/posts/2023/03/28/how-to-read-icicle-and-flame-graphs/)
+[How to read icicle and flame graphs](https://www.polarsignals.com/blog/posts/2023/03/28/how-to-read-icicle-and-flame-graphs/). [Icicle and Flame Maps](http://linnarssonlab.org/flamemaps/)
+
+
 

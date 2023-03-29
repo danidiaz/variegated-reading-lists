@@ -150,6 +150,8 @@
 
 > People in tech typically also have no idea how sophisticated the business processes are in most traditional industry. Before you can automate jobs, you have to solve the fact that most business knowledge and processes still exist only in the brains of individual humans.
 
+[TECHNICAL STORIES DON'T WORK](https://www.youtube.com/watch?v=vSuJqMRG1WM)
+
 
 
 

@@ -1283,4 +1283,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [an irrational fear of getting layering wrong](https://mastodon.social/@odrotbohm@chaos.social/110057304333359782)
 
+[Your Code Might Not Need State](https://news.ycombinator.com/item?id=35336632)
+
 

@@ -62,5 +62,10 @@ Things to try:
 
 [An Introduction to Autoencoders](https://www.pinecone.io/learn/autoencoders/)
 
+[good at helping with writing `jq` queries](https://twitter.com/jbrancha/status/1641461163203477506). [the coolest thing is the iteration](https://twitter.com/dan_abramov/status/1641190842080665604)
+
+> and then I used that context to iterate.
+
+
 
 

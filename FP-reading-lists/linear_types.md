@@ -100,4 +100,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 > Ah, but we’ve had to put arr2, which is linear, under an Ur. This is not permissible. Now, we’ve found our problem: no linear value can escape from the newMArray scope. Not even an array that originates in an encompassing scope. So we have to extend the scope of the inner newMArray until the end of the computation. That’s the shortcoming of this scoped newMArray function: all the nested newMArray scopes want to end at the same place. They stick together.
 
+[Linear Haskell, linear-base and linear logic](https://www.reddit.com/r/haskell/comments/126oqt3/linear_haskell_linearbase_and_linear_logic/)
+
 

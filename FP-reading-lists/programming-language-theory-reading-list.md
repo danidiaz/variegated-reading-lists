@@ -825,6 +825,8 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [course on Programming Language Design](https://twitter.com/tomaspetricek/status/1610028878046576644) [same](https://d3s.mff.cuni.cz/teaching/nprg075/)
 
+[Seventy Years Using Fixed Points](https://twitter.com/ToposInstitute/status/1641189744578031616)
+
 ## ICFP’22 
 
 [playlist](https://discourse.haskell.org/t/the-icfp22-playlist-has-been-published-to-youtube/5138)

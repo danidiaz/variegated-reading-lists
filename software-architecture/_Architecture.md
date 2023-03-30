@@ -1285,4 +1285,4 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Your Code Might Not Need State](https://news.ycombinator.com/item?id=35336632)
 
-
+[The lost art of software design](https://www.youtube.com/watch?v=UzFpFQgeEyc)

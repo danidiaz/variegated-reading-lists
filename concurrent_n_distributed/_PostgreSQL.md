@@ -301,5 +301,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [PostgreSQL Logical Replication Explained](https://news.ycombinator.com/item?id=35203571)
 
+[Postgres: The Graph Database You Didn't Know You Had](https://lobste.rs/s/gryb1f/postgres_graph_database_you_didn_t_know)
+
 
 

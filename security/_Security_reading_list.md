@@ -670,4 +670,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [We need better support for SSH host certificates](https://mjg59.dreamwidth.org/65874.html)    
 
+[API Security Top 10 Vulnerabilities](https://www.youtube.com/watch?v=hg3gkFMwvX8)
+
 

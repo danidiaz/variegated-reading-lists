@@ -672,4 +672,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [API Security Top 10 Vulnerabilities](https://www.youtube.com/watch?v=hg3gkFMwvX8)
 
+[The fascinating world of HTTP Strict-Transport-Security](https://news.ycombinator.com/item?id=35371541)
+
 

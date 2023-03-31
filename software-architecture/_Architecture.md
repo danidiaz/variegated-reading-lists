@@ -1286,3 +1286,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 [Your Code Might Not Need State](https://news.ycombinator.com/item?id=35336632)
 
 [The lost art of software design](https://www.youtube.com/watch?v=UzFpFQgeEyc)
+
+[DDD is Overrrated](https://news.ycombinator.com/item?id=26312652). [database illiterate?](https://twitter.com/VaughnVernon/status/1641605323801894913)
+
+

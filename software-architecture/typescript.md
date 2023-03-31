@@ -134,3 +134,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [resolvePackageJsonExports](https://twitter.com/ixahmedxii/status/1636708896365588480)
 
+[Fully Typed Web Apps](https://www.epicweb.dev/fully-typed-web-apps)
+
+

@@ -152,6 +152,8 @@
 
 [TECHNICAL STORIES DON'T WORK](https://www.youtube.com/watch?v=vSuJqMRG1WM)
 
+[limited feedback](https://twitter.com/GergelyOrosz/status/1641873724268765189)
 
+> A reasonable cheat is always to to introduce milestones that are shippable, at least for an internal audience. But an internal audience is not a real audience.
 
 

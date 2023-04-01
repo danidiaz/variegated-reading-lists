@@ -286,3 +286,8 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 > Eliminate unexpected performance testing bills
 
+[Simulating faults on Wiremock](https://wiremock.org/docs/simulating-faults/)
+
+> One of the main reasons it’s beneficial to use web service fakes when testing is to inject faulty behaviour that might be difficult to get the real service to produce on demand. 
+
+

@@ -292,6 +292,8 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Revving up Continuous Integration with Parallel Testing](https://semaphoreci.com/blog/revving-up-continuous-integration-with-parallel-testing). [Test splitting and parallelism in Circle CI](https://circleci.com/docs/parallelism-faster-jobs/). [in Buildkite](https://buildkite.com/screencasts/parallel-testing) [more Buildkite](https://buildkite.com/docs/tutorials/parallel-builds)
 
+> parallelism is an attribute on a single command step which causes it to be split into many jobs. Those jobs will be the same except for having a parallel index and count. They share the same dependencies and agent tags.
+
 
 
 

@@ -290,7 +290,7 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 > One of the main reasons it’s beneficial to use web service fakes when testing is to inject faulty behaviour that might be difficult to get the real service to produce on demand. 
 
-[Revving up Continuous Integration with Parallel Testing](https://semaphoreci.com/blog/revving-up-continuous-integration-with-parallel-testing). [Test splitting and parallelism in Circle CI](https://circleci.com/docs/parallelism-faster-jobs/). [in Buildkite](https://buildkite.com/screencasts/parallel-testing)
+[Revving up Continuous Integration with Parallel Testing](https://semaphoreci.com/blog/revving-up-continuous-integration-with-parallel-testing). [Test splitting and parallelism in Circle CI](https://circleci.com/docs/parallelism-faster-jobs/). [in Buildkite](https://buildkite.com/screencasts/parallel-testing) [more Buildkite](https://buildkite.com/docs/tutorials/parallel-builds)
 
 
 

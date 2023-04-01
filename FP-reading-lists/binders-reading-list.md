@@ -363,6 +363,9 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 > Substitution is a common and popular approach to implementing name binding in definitional interpreters [meaning, there are others?]
 
+> substitution for closed terms (i.e., terms with no free variables, for which variable capture
+is not a problem)
+
 
 
 

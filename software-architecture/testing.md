@@ -296,6 +296,10 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 > Knapsack is a ruby gem for automatically dividing your tests between parallel jobs, as well as making sure each job runs in comparable time.
 
+[Test splitting / sharding in Vitest](https://vitest.dev/guide/cli.html)
+
+> https://vitest.dev/guide/cli.html#shard
+
 
 
 

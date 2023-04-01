@@ -189,4 +189,3 @@
 
 [misattribute the reduction](https://twitter.com/kmett/status/1642072709923508224)
 
-

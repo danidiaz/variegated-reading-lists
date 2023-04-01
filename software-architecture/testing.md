@@ -262,6 +262,8 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Vitest](https://twitter.com/TkDodo/status/1639708582546493441)    
 
+[don't mock entities or DTOs](https://twitter.com/maciejwalkowiak/status/1642060780999790593)
+
 [Verifying requests in WireMock](https://wiremock.org/docs/verifying/)
 
 > Verifying and querying requests relies on the request journal, which is an in-memory log of received requests. This can be disabled for load testing
@@ -270,4 +272,17 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 > WM has a state machine per scenario, so it sounds like each team may be creating overlapping scenario names
 
+[Wiremock studio](https://wiremock.org/studio/docs/)
+
+> WireMock Studio has now been discontinued. Please check out WireMock Cloud instead.
+
+[Wiremock Cloud](https://www.wiremock.io/)
+
+> Build and test when the APIs you need aren't ready or stable
+
+> Stable development against unstable 3rd party APIs
+
+> Simulate edge cases and faults
+
+> Eliminate unexpected performance testing bills
 

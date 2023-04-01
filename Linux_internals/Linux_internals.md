@@ -187,4 +187,6 @@
 
 [ sometimes just stracing code to make sure I can explain all syscalls](https://twitter.com/pkhuong/status/1637081793730867200)
 
+[misattribute the reduction](https://twitter.com/kmett/status/1642072709923508224)
+
 

@@ -768,7 +768,7 @@ https://react-query.tanstack.com/
 
 [How do I dynamically set HTML5 data- attributes using react?](https://stackoverflow.com/questions/27285856/how-do-i-dynamically-set-html5-data-attributes-using-react)
 
-[more about RSC](https://twitter.com/t6adev/status/1639607614932910080). [this time is a good idea](https://twitter.com/dan_abramov/status/1639824633124757504). [a good resource](https://twitter.com/JessePence5/status/1641617190540681216)
+[more about RSC](https://twitter.com/t6adev/status/1639607614932910080). [this time is a good idea](https://twitter.com/dan_abramov/status/1639824633124757504). [a good resource](https://twitter.com/JessePence5/status/1641617190540681216). [more](https://twitter.com/jarredsumner/status/1642032558895677440)
 
 [complex wizard flows in React](https://twitter.com/JakeDawkins/status/1637928330099040257)
 

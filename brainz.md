@@ -68,4 +68,5 @@ Things to try:
 
 [more ambitious](https://news.ycombinator.com/item?id=35382698)
 
+[why not use a decompiler here?](https://twitter.com/moyix/status/1641951052202123264)
 

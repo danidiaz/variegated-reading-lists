@@ -359,5 +359,8 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [Nominal Recursors as Epi-Recursors](https://arxiv.org/abs/2301.00894)
 
+[Renamingless Capture-Avoiding Substitution for Definitional Interpreters](https://www.reddit.com/r/haskell/comments/12860tc/renamingless_captureavoiding_substitution_for/). [pdf](https://github.com/casperbp/renamingless-capture-avoiding/).
+
+
 
 

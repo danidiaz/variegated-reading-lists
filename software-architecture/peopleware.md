@@ -156,4 +156,6 @@
 
 > A reasonable cheat is always to to introduce milestones that are shippable, at least for an internal audience. But an internal audience is not a real audience.
 
+[For many teams, "frequent integration" is the sweet spot.](https://twitter.com/housecor/status/1642153733525057537)
+
 

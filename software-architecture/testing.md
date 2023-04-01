@@ -262,4 +262,12 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Vitest](https://twitter.com/TkDodo/status/1639708582546493441)    
 
+[Verifying requests in WireMock](https://wiremock.org/docs/verifying/)
+
+> Verifying and querying requests relies on the request journal, which is an in-memory log of received requests. This can be disabled for load testing
+
+[WireMock state machines - Google Groups]
+
+> WM has a state machine per scenario, so it sounds like each team may be creating overlapping scenario names
+
 

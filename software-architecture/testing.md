@@ -300,6 +300,22 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 > https://vitest.dev/guide/cli.html#shard
 
+[Using Testing Library with implicit ARIA roles](https://rafaelcamargo.com/blog/using-testing-library-with-implicit-aria-roles/). [ARIA selectors in Puppeteer](https://developer.chrome.com/blog/puppetaria/). [API](https://pptr.dev/guides/query-selectors#aria-selectors-aria). [useful video](https://www.youtube.com/watch?v=C_AYpwbZ1N4). [4 Implicit WAI-ARIA Semantics](https://www.w3.org/TR/wai-aria-1.2/#implicit_semantics)
 
+> In case you are considering making those implicit role values explicit by setting aria-role attributes to those elements, be aware it is not recommended.
+
+> If you have worked on a puppeteer project before you most likely ran into a problem that your selector no longer works. This could be caused by change in the DOM structure or dynamically generated classes. DOM structure changes too often when new features or fixes are introduced.
+
+> Instead of queering elements by CSS or XPath, you could use the aria selector and query with accessible name.
+
+> These host language features can be viewed as having "implicit WAI-ARIA semantics". User agent processing of features with implicit WAI-ARIA semantics would be similar to the processing for the WAI-ARIA feature. The processing might not be identical because of lexical differences between the host language feature and the WAI-ARIA feature, but generally the user agent would expose the same information to the accessibility API.
+
+[WAI-ARIA Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
+
+> ARIA roles can be used to describe elements that don't natively exist in HTML or exist but don't yet have full browser support.
+
+[aria-labelledby](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-labelledby). [official docs](https://w3c.github.io/accname/#dfn-accessible-name).
+
+> Some elements get their accessible name from their inner content. For example, the accessible name for a <button>, <a>, or <td> comes from the text between the opening and closing tags. Other elements, such as form <textarea>, <fieldset>, and <table> get their accessible name from the content of associated elements; for these elements, the accessible name comes from the <label> with a for attribute, <legend>, and <caption> respectively.
 
 

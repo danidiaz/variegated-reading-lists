@@ -333,3 +333,8 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
  
 > Visually hiding elements with display or visibility hides content from the screen and from assistive technologies. [useful for web testing?]
 
+[Chrome Dev Tools Accessibility features reference](https://developer.chrome.com/docs/devtools/accessibility/reference/)
+
+[Why You Should Avoid Testing React Components With Test IDs](https://betterprogramming.pub/why-you-should-avoid-testing-react-components-with-test-ids-ee50d20d37d2)
+
+

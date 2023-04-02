@@ -320,4 +320,8 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [ARIA states and properties](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes).
 
+[Radix UI Popover Adheres to the Dialog WAI-ARIA design pattern.](https://www.radix-ui.com/docs/primitives/components/popover#accessibility). [aria patterns](https://www.w3.org/WAI/ARIA/apg/patterns/)
+
+
+
 

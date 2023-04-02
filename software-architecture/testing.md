@@ -318,4 +318,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 > Some elements get their accessible name from their inner content. For example, the accessible name for a <button>, <a>, or <td> comes from the text between the opening and closing tags. Other elements, such as form <textarea>, <fieldset>, and <table> get their accessible name from the content of associated elements; for these elements, the accessible name comes from the <label> with a for attribute, <legend>, and <caption> respectively.
 
+[ARIA states and properties](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes).
+
 

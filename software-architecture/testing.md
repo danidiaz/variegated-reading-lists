@@ -337,4 +337,14 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Why You Should Avoid Testing React Components With Test IDs](https://betterprogramming.pub/why-you-should-avoid-testing-react-components-with-test-ids-ee50d20d37d2)
 
+[Making your UI tests resilient to change](https://kentcdodds.com/blog/making-your-ui-tests-resilient-to-change). [priority](https://testing-library.com/docs/queries/about/#priority)
+
+> In the spirit of the guiding principles, it is recommended to use this only after the other queries don't work for your use case. Using data-testid attributes do not resemble how your software is used and should be avoided if possible. That said, they are way better than querying based on DOM structure or styling css class names. Learn more about data-testids from the blog post "Making your UI tests resilient to change"
+
+> This is why Testing Library has the queries that it does. The queries help you to find elements in the same way that users will find them. These queries allow you to find elements by their role, label, placeholder, text contents, display value, alt text, title, test ID.
+
+> That's actually in the order of recommendation.
+
+> getByRole Particularly useful with button elements, there are many other elements you can query by their role though, heading being one of them. 
+
 

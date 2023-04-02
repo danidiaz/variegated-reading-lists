@@ -322,6 +322,10 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Radix UI Popover Adheres to the Dialog WAI-ARIA design pattern.](https://www.radix-ui.com/docs/primitives/components/popover#accessibility). [aria patterns](https://www.w3.org/WAI/ARIA/apg/patterns/)
 
+[aria-hidden](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-hidden)
+
+> Visually hiding elements with display or visibility hides content from the screen and from assistive technologies. [useful for web testing?]
+
 
 
 

@@ -772,4 +772,14 @@ https://react-query.tanstack.com/
 
 [complex wizard flows in React](https://twitter.com/JakeDawkins/status/1637928330099040257)
 
+[we’ve changed our forms recommendations to emphasize uncontrolled inputs a lot more](https://twitter.com/kentcdodds/status/1641925880690749445)
+
+> this will become even more powerful with RSC because it’ll be able to refresh server data automatically 
+
+> This is validating. I've been teaching for years that folks should go against the docs and instead default to uncontrolled inputs instead.
+
+> But I would probably use react hook form if I needed one.
+
+> Worth keeping an eye on the new @radix_ui form primitive. Looks like it will work great with remix.
+
 

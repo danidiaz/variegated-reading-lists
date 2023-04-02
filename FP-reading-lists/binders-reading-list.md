@@ -359,7 +359,7 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 
 [Nominal Recursors as Epi-Recursors](https://arxiv.org/abs/2301.00894)
 
-[Renamingless Capture-Avoiding Substitution for Definitional Interpreters](https://www.reddit.com/r/haskell/comments/12860tc/renamingless_captureavoiding_substitution_for/). [pdf](https://github.com/casperbp/renamingless-capture-avoiding/). [evaluating without substitution](https://hachyderm.io/@DiazCarrete/110125018512171689)
+[Renamingless Capture-Avoiding Substitution for Definitional Interpreters](https://www.reddit.com/r/haskell/comments/12860tc/renamingless_captureavoiding_substitution_for/). [pdf](https://github.com/casperbp/renamingless-capture-avoiding/). [evaluating without substitution](https://hachyderm.io/@DiazCarrete/110125018512171689). [interesting comment](https://www.reddit.com/r/haskell/comments/12860tc/comment/jek3da3/)
 
 > Substitution is a common and popular approach to implementing name binding in definitional interpreters [meaning, there are others?]
 

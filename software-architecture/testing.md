@@ -324,8 +324,12 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [aria-hidden](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-hidden)
 
+> aria-hidden="true" should not be added when:
+
+> The HTML hidden attribute is present
+> The element or the element's ancestor is hidden with display: none
+> The element or the element's ancestor is hidden with visibility: hidden
+> In all three scenarios, the attribute is unnecessary to add because the element has already been removed from the accessibility tree. Visually hiding elements with display or visibility hides content from the screen and from assistive technologies.
+ 
 > Visually hiding elements with display or visibility hides content from the screen and from assistive technologies. [useful for web testing?]
-
-
-
 

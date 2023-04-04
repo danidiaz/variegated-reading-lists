@@ -294,4 +294,6 @@ What's added to .profile:
 
 > one can press the period (.)  key on pull request to bring up the browser-based VS Code environment
 
+[sticky scroll in VSCode](https://twitter.com/andrewculver/status/1642645839876358144)
+
 

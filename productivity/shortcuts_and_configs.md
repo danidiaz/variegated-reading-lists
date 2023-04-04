@@ -290,4 +290,8 @@ What's added to .profile:
 
 > When you paste text, you have marks [ and ] set to the beginning and end of pasted text. Therefore you can use `[ and `] to move the cursor to begin/end of pasted content. 
 
+[In diff view, there’s a copy path button next to each filename.](https://twitter.com/housecor/status/1643228268093382658)
+
+> one can press the period (.)  key on pull request to bring up the browser-based VS Code environment
+
 

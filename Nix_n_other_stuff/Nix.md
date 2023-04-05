@@ -846,5 +846,7 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 > nixpkgs overlays are super useful. They are a mechanism that allows taking nixpkgs, and extending it with your own packages and overrides. In most cases, it’s more manageable than forking nixpkgs and managing your own long-running branch. NixOS also doesn’t provide a standard way to have other package sets so it makes sense to have them all in one. Those two reasons are what made them popular.
 
+[nixos-anywhere](https://hachyderm.io/@domenkozar@fosstodon.org/110145895216438132)
+
 
 

@@ -349,4 +349,16 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [MockMvc and AtWebMvcTest](https://twitter.com/rieckpil/status/1642858788549001217)
 
+[Puppeteeer Proposal: deprecate `waitFor` and add `waitForTimeout`](https://github.com/puppeteer/puppeteer/issues/6214). [What is the right way of clicking an ElementHandle<Node>](https://github.com/puppeteer/puppeteer/issues/8852)
+
+[Capture screenshots on test failures using Jest & Puppeteer](https://www.testspace.com/blog/screenshot-on-test-failure-using-jest-and-puppeteer). [Take screenshot when a test fails](https://github.com/argos-ci/jest-puppeteer/issues/131)
+
+[Importing JSON in buildkite test analytics](https://buildkite.com/docs/test-analytics/importing-json)
+
+[Getting Started with React DevTools in Chrome](https://www.debugbear.com/blog/react-devtools)
+
+[Test Automation Framework Design and Implementation](https://www.youtube.com/watch?v=94SvWTsSkzM)
+
+[Avoid the Test User](https://twitter.com/kentcdodds/status/1643605241349414912)
+
 

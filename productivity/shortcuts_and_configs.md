@@ -296,4 +296,6 @@ What's added to .profile:
 
 [sticky scroll in VSCode](https://twitter.com/andrewculver/status/1642645839876358144)
 
+[Vim-like “jump” cursor for Mac OS Window Management](https://news.ycombinator.com/item?id=35451046)
+
 

@@ -693,8 +693,10 @@ https://news.ycombinator.com/item?id=25061901
 
 [Concurrency Deep Dive: Code Strategies for High Traffic Applications](https://nathanpeck.com/concurrency-deep-dive-strategies-for-high-traffic-applications/)
 
-[Modeling Database Tables in Alloy](https://bytes.zone/posts/modeling-database-tables-in-alloy/)
+[Modeling Database Tables in Alloy](https://bytes.zone/posts/modeling-database-tables-in-alloy/). [modelling Git internals](https://lobste.rs/s/hulawt/modeling_git_internals_alloy_part_1_blobs).
 
 [Outwards from the Middle of the Maze](https://www.youtube.com/watch?v=cJRuEr0MiM4). [tweet](https://twitter.com/asatarin/status/1611531598679396353).
+
+[Great perspective on observability overhead](https://twitter.com/felixge/status/1643024606897250310)
 
 

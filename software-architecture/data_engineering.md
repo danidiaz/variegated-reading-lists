@@ -85,6 +85,6 @@
 
 [categorical columns](https://docs.snowflake.com/en/user-guide/ui-snowsight-worksheets.html#automatic-contextual-statistics). [in ml](https://towardsdatascience.com/a-checklist-for-data-pre-processing-before-you-build-your-machine-learning-model-91d2d04dc53f). [what is one hot encoding](https://www.educative.io/blog/one-hot-encoding). [feature engineering in Snowflake](https://community.snowflake.com/s/article/Feature-Engineering-in-Snowflake).
 
-
+[MLOps is mostly data engineering](https://news.ycombinator.com/item?id=35438192)
 
 

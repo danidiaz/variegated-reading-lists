@@ -70,3 +70,6 @@ Things to try:
 
 [why not use a decompiler here?](https://twitter.com/moyix/status/1641951052202123264)
 
+[compression](https://twitter.com/alicemazzy/status/1643607089128898561)
+
+

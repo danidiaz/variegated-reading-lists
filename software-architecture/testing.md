@@ -361,4 +361,11 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Avoid the Test User](https://twitter.com/kentcdodds/status/1643605241349414912)
 
+[test inheritance](https://twitter.com/maciejwalkowiak/status/1643604151258038275)
+
+> I find test inheritance, especially with something like BaseIntegrationTest class problematic.
+
+> It starts quite small, reduces code duplication. Later becomes a bucket for all sort of shared code in tests. 
+
+
 

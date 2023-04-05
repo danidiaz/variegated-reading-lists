@@ -699,4 +699,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [Great perspective on observability overhead](https://twitter.com/felixge/status/1643024606897250310)
 
+[falsify for Haskell](https://twitter.com/EdskoDeVries/status/1643664485515657235)
+
 

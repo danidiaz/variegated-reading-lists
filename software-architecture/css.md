@@ -565,4 +565,6 @@ https://twitter.com/tailwindcss
 
 [DOCTYPE](https://twitter.com/JoshWComeau/status/1643622000714211331)
 
+[headings](https://twitter.com/A11yAwareness/status/1643629587111264257)
+
 

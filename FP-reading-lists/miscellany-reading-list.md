@@ -670,5 +670,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [How to read icicle and flame graphs](https://www.polarsignals.com/blog/posts/2023/03/28/how-to-read-icicle-and-flame-graphs/). [Icicle and Flame Maps](http://linnarssonlab.org/flamemaps/)
 
+[mastering Maven](https://mastodon.online/@mrhaki/110138918015392579)
+
 
 

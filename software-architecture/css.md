@@ -569,4 +569,10 @@ https://twitter.com/tailwindcss
 
 > Headings are useful for labeling page regions. Use aria-labelledby to associate headings with their page region, as described in the label page regions section of this tutorial. If the headings are visible, the regions are easy to identify for all users.
 
+[Labeling Regions](https://www.w3.org/WAI/tutorials/page-structure/labels/)
+
+> Provide labels to distinguish two page regions of the same type, such as “main navigation” and “sub-navigation” menus using a <nav> element on the same page.
+
+> Regions that are unique, such as <main>, do not need additional labels.
+
 

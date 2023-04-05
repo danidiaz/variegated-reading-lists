@@ -567,4 +567,6 @@ https://twitter.com/tailwindcss
 
 [headings](https://twitter.com/A11yAwareness/status/1643629587111264257)
 
+> Headings are useful for labeling page regions. Use aria-labelledby to associate headings with their page region, as described in the label page regions section of this tutorial. If the headings are visible, the regions are easy to identify for all users.
+
 

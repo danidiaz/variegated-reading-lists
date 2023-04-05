@@ -367,5 +367,7 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 > It starts quite small, reduces code duplication. Later becomes a bucket for all sort of shared code in tests. 
 
+[Don’t Do E2E Testing!](https://youtu.be/QFCHSEHgqFE?t=826) Mentions contract testing & user contract testing
+
 
 

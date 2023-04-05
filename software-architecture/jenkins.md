@@ -59,3 +59,5 @@
 
 [GA common actions](https://ashishb.net/tech/common-pitfalls-of-github-actions/)
 
+[The Hidden Cost of Parallel Processing in GitHub Actions](https://betterprogramming.pub/the-hidden-cost-of-parallel-processing-in-github-actions-63f25b2d5f6a)
+

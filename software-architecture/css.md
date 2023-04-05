@@ -575,4 +575,5 @@ https://twitter.com/tailwindcss
 
 > Regions that are unique, such as <main>, do not need additional labels.
 
+[usable y accesible](https://www.usableyaccesible.com/recurso_misvalidadores.php)
 

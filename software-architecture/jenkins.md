@@ -61,3 +61,6 @@
 
 [The Hidden Cost of Parallel Processing in GitHub Actions](https://betterprogramming.pub/the-hidden-cost-of-parallel-processing-in-github-actions-63f25b2d5f6a)
 
+[managing pipeline secrets](https://buildkite.com/docs/pipelines/secrets). [agent hooks](https://buildkite.com/docs/agent/v3/hooks#hook-locations-agent-hooks)
+
+

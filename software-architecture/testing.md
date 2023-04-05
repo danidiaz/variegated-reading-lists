@@ -353,7 +353,7 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Capture screenshots on test failures using Jest & Puppeteer](https://www.testspace.com/blog/screenshot-on-test-failure-using-jest-and-puppeteer). [Take screenshot when a test fails](https://github.com/argos-ci/jest-puppeteer/issues/131)
 
-[Importing JSON in buildkite test analytics](https://buildkite.com/docs/test-analytics/importing-json)
+[Importing JSON in buildkite test analytics](https://buildkite.com/docs/test-analytics/importing-json). [configuring test suites](https://buildkite.com/docs/test-analytics/test-suites). [Buildkite Test Analytics Deep Dive](https://www.youtube.com/watch?v=0xTdJYJxA3o)
 
 [Getting Started with React DevTools in Chrome](https://www.debugbear.com/blog/react-devtools)
 

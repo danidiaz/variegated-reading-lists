@@ -848,5 +848,8 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [nixos-anywhere](https://hachyderm.io/@domenkozar@fosstodon.org/110145895216438132)
 
+[Packaging a Maven applicaiton with Nix](https://fzakaria.com/2020/07/20/packaging-a-maven-application-with-nix.html)
+
+> Fixed output derivations (FOD) are derivations that specify the hash of the output contents (Nix typically calculates the hash of the input). These derivations are allowed to perform network access in sandboxed mode.
 
 

@@ -361,7 +361,7 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Avoid the Test User](https://twitter.com/kentcdodds/status/1643605241349414912)
 
-[test inheritance](https://twitter.com/maciejwalkowiak/status/1643604151258038275). [alternative: Driver Pattern](https://twitter.com/GGalezowski/status/1643616355277500423)
+[test inheritance](https://twitter.com/maciejwalkowiak/status/1643604151258038275). [alternative: Driver Pattern](https://twitter.com/GGalezowski/status/1643616355277500423). [detail](https://github.com/grzesiek-galezowski/driver-pattern-demo/tree/main/DriverInFunctionalHttpApiTests).
 
 > I find test inheritance, especially with something like BaseIntegrationTest class problematic.
 

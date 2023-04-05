@@ -301,6 +301,8 @@ the logical layer.
 can hope here is to have demonstrated by example that they can sometimes offer
 a helpful degree of extra comfort.
 
+[Set-Theoretic and Type-Theoretic Ordinals Coincide](https://arxiv.org/abs/2301.10696)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

@@ -298,4 +298,6 @@ What's added to .profile:
 
 [Vim-like “jump” cursor for Mac OS Window Management](https://news.ycombinator.com/item?id=35451046)
 
+[⌥+click on css/js paths that don't exist to quickly create that file](https://twitter.com/wesbos/status/1643975015606665218)
+
 

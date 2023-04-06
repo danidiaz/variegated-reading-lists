@@ -158,4 +158,8 @@
 
 [For many teams, "frequent integration" is the sweet spot.](https://twitter.com/housecor/status/1642153733525057537)
 
+[the need for slack](https://twitter.com/martinfowler/status/1643258366158860289)
+
+[diagonal lines](https://twitter.com/ReinH/status/1643682138808778752)
+
 

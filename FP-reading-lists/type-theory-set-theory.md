@@ -303,6 +303,10 @@ a helpful degree of extra comfort.
 
 [Set-Theoretic and Type-Theoretic Ordinals Coincide](https://arxiv.org/abs/2301.10696)
 
+[temporal type theory and relativity](https://twitter.com/mattecapu/status/1643588626570260480)
+
+[delooping the sign homomorphism](https://twitter.com/EgbertRijke/status/1618165850867130371)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)
@@ -725,4 +729,7 @@ regress of beliefs.
 [Roughly speaking, an algebra over a field F is just a ring R with F contained in the center of R](https://sites.math.washington.edu/~mitchell/Algf/alg.pdf). [Is a field (ring) an algebra over itself?](https://math.stackexchange.com/questions/4270/is-a-field-ring-an-algebra-over-itself).
 
 [the countable reals](https://www.youtube.com/watch?v=4CBFUojXoq4)
+
+[Pointwise definable and Leibnizian extensions of models of arithmetic and set theory](https://twitter.com/JDHamkins/status/1643741455557726208)
+
 

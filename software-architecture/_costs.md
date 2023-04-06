@@ -128,4 +128,6 @@
 
 [Taming AWS Costs](https://www.maxcountryman.com/articles/taming-aws-costs)
 
+[CloudTrail for S3 data events](https://twitter.com/QuinnyPig/status/1643645948487237632)
+
 

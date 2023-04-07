@@ -1293,4 +1293,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [A thinking and recording tool: Decision Records](https://martinfowler.com/articles/scaling-architecture-conversationally.html#adr)
 
+[System design and the cost of architectural complexity (2013)](https://news.ycombinator.com/item?id=35470905)
+
 

@@ -74,4 +74,6 @@ Things to try:
 
 [the philosophy of deep learning YouTube list](https://www.youtube.com/watch?v=x10964w00zk&list=PLY_s7b9LrR8W-AGC95PU43oYlERY2IQAk)
 
+[The Post-Human Desert](https://www.project-syndicate.org/commentary/ai-post-human-future-by-slavoj-zizek-2023-04)
+
 

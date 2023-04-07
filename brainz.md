@@ -72,6 +72,6 @@ Things to try:
 
 [compression](https://twitter.com/alicemazzy/status/1643607089128898561). [not compression, but summary](https://twitter.com/Ted_Underwood/status/1643837637793382400).
 
-
+[the philosophy of deep learning YouTube list](https://www.youtube.com/watch?v=x10964w00zk&list=PLY_s7b9LrR8W-AGC95PU43oYlERY2IQAk)
 
 

@@ -297,7 +297,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [On the Ascendance of PostgreSQL](https://thenewstack.io/from-a-fan-on-the-ascendance-of-postgresql/)
 
-[The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/)
+[The Wonders of Postgres Logical Decoding Messages](https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/). [video](https://www.youtube.com/watch?v=rZzmu1KuyTc)
 
 [PostgreSQL Logical Replication Explained](https://news.ycombinator.com/item?id=35203571)
 

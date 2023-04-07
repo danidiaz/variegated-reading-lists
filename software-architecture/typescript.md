@@ -136,4 +136,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Fully Typed Web Apps](https://www.epicweb.dev/fully-typed-web-apps)
 
+[exclude members of a discriminated union by shape](https://twitter.com/sebastienlorber/status/1644250044042715137)
+
 

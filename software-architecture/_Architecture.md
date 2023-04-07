@@ -1289,4 +1289,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [DDD is Overrrated](https://news.ycombinator.com/item?id=26312652). [database illiterate?](https://twitter.com/VaughnVernon/status/1641605323801894913)
 
+[MIT system design course](https://twitter.com/eatonphil/status/1644051606768349184)
+
+[A thinking and recording tool: Decision Records](https://martinfowler.com/articles/scaling-architecture-conversationally.html#adr)
+
 

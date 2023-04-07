@@ -882,6 +882,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Index Merges vs Composite Indexes in Postgres and MySQL](https://sirupsen.com/index-merges)
 
+[the MVCC paper that Hekaton, Microsoft SQL server main-memory OLTP database ](https://twitter.com/penberg/status/1644221651293204480)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

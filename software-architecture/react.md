@@ -762,7 +762,7 @@ https://react-query.tanstack.com/
 
 [you might not need an effect](https://twitter.com/dan_abramov/status/1638773531881140224)
 
-[react server components](https://twitter.com/dan_abramov/status/1638687992553381889). [rsc microfrontends](https://twitter.com/dan_abramov/status/1638756599970791426). [router internals](https://twitter.com/dan_abramov/status/1638731932426018816). [the server sent a function to the client](https://twitter.com/dan_abramov/status/1638760757239087104)
+[react server components](https://twitter.com/dan_abramov/status/1638687992553381889). [rsc microfrontends](https://twitter.com/dan_abramov/status/1638756599970791426). [router internals](https://twitter.com/dan_abramov/status/1638731932426018816). [the server sent a function to the client](https://twitter.com/dan_abramov/status/1638760757239087104). [set up React Server Components WITHOUT NextJS](https://twitter.com/BHolmesDev/status/1643990398824763393)
 
 [start a react project 2023](https://news.ycombinator.com/item?id=35280454)
 

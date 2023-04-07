@@ -884,6 +884,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [the MVCC paper that Hekaton, Microsoft SQL server main-memory OLTP database ](https://twitter.com/penberg/status/1644221651293204480)
 
+[Why don't foriegn keys “scale”?](https://news.ycombinator.com/item?id=35480987)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

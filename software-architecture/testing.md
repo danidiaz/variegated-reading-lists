@@ -369,5 +369,7 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Don’t Do E2E Testing!](https://youtu.be/QFCHSEHgqFE?t=826) Mentions contract testing & user contract testing
 
+[TestContainers and Spring Boot](https://twitter.com/maciejwalkowiak/status/1644317426102722561)
+
 
 

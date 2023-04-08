@@ -138,4 +138,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [exclude members of a discriminated union by shape](https://twitter.com/sebastienlorber/status/1644250044042715137)
 
+[useful libraries](https://twitter.com/housecor/status/1644699226138456069)
+
 

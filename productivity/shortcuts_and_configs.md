@@ -300,4 +300,4 @@ What's added to .profile:
 
 [⌥+click on css/js paths that don't exist to quickly create that file](https://twitter.com/wesbos/status/1643975015606665218)
 
-
+[Terminal Profiles](https://code.visualstudio.com/docs/terminal/profiles)

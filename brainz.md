@@ -80,3 +80,8 @@ Things to try:
 
 [describe and prompt](https://twitter.com/sureailabs/status/1644430593185181723)
 
+[I wish GPT4 had never happened](https://news.ycombinator.com/item?id=35492730)
+
+[sunk cost fallacy](https://twitter.com/IgorBrigadir/status/1644686372966395904)
+
+

@@ -672,5 +672,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [mastering Maven](https://mastodon.online/@mrhaki/110138918015392579)
 
+[interesting use of AOP for htmx](https://twitter.com/tschuehly/status/1644467109798313984)
 
 

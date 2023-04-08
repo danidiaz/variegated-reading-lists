@@ -1295,4 +1295,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [System design and the cost of architectural complexity (2013)](https://news.ycombinator.com/item?id=35470905)
 
+[engineering elegance squarespace](https://www.youtube.com/watch?v=0u1CnLoewfQ)
+
 

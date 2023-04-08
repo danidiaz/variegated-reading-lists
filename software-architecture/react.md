@@ -784,4 +784,8 @@ https://react-query.tanstack.com/
 
 [Building an adaptive, accessible UI library with React Aria](https://blog.logrocket.com/building-adaptive-accessible-ui-library-react-aria/)
 
+[problem with existing state machines](https://twitter.com/dan_abramov/status/1644759833550135299)
+
+[away from Elm](https://lobste.rs/s/pvrcob/on_endings_why_how_we_retired_elm_at)
+
 

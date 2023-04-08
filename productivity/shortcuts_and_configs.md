@@ -309,3 +309,12 @@ What's added to .profile:
         "-workbench.action.quickOpen"
     ]
 ```
+
+[VSCode HLS: How to use the eval plugin](https://github.com/haskell/haskell-language-server/issues/425)
+
+VSCode quickfix != Code Lens actions
+
+
+
+
+

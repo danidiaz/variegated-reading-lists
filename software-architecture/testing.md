@@ -371,5 +371,11 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [TestContainers and Spring Boot](https://twitter.com/maciejwalkowiak/status/1644317426102722561)
 
+[Improving Web Accessibility with Semantic HTML and Testing Techniques and Tools](https://www.infoq.com/news/2023/04/web-accessibility/)
+
+[Encourage using aria selectors](https://github.com/testing-library/react-testing-library/issues/16)
+
+[Writing Strong Front-end Test Element Locators](https://css-tricks.com/front-end-test-element-locators/)
+
 
 

@@ -78,4 +78,5 @@ Things to try:
 
 [Yaml is streamable](https://twitter.com/goodside/status/1644416197868363779)
 
+[describe and prompt](https://twitter.com/sureailabs/status/1644430593185181723)
 

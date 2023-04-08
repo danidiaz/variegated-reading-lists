@@ -11,3 +11,11 @@
 [HTML living standard](https://html.spec.whatwg.org/multipage/)
 
 [innerText](http://perfectionkills.com/the-poor-misunderstood-innerText/)
+
+[openapi 3.1](https://spec.openapis.org/oas/v3.1.0)
+
+    - [path item object](https://spec.openapis.org/oas/v3.1.0#pathItemObject)
+
+      > In case a Path Item Object field appears both in the defined object and the referenced object, the behavior is undefined. See the rules for resolving Relative References.
+
+

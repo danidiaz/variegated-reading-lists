@@ -86,4 +86,8 @@ Things to try:
 
 [Parquet: more than just "Turbo CSV"](https://twitter.com/gunnarmorling/status/1645065940323762177)
 
+[a complex prompt](https://twitter.com/vboykis/status/1645033601392680961)
+
+[baby GPT](https://twitter.com/karpathy/status/1645115622517542913)
+
 

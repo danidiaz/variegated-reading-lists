@@ -314,6 +314,8 @@ What's added to .profile:
 
 VSCode quickfix != Code Lens actions
 
+[pin project files in VSCode](https://stateful.com/blog/15-tips-and-tricks-of-vs-code)
+
 
 
 

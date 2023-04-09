@@ -852,4 +852,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 > Fixed output derivations (FOD) are derivations that specify the hash of the output contents (Nix typically calculates the hash of the input). These derivations are allowed to perform network access in sandboxed mode.
 
+[nix add-derivation](https://twitter.com/ericson2314_/status/1644816549105004552)
+
 

@@ -1297,4 +1297,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [engineering elegance squarespace](https://www.youtube.com/watch?v=0u1CnLoewfQ)
 
+[graphQL oops](https://betterprogramming.pub/graphql-from-excitement-to-deception-f81f7c95b7cf) interesting bits about code-first and api-first
 

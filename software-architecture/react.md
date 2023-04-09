@@ -788,4 +788,6 @@ https://react-query.tanstack.com/
 
 [away from Elm](https://lobste.rs/s/pvrcob/on_endings_why_how_we_retired_elm_at)
 
+[benefits of useReducer](https://twitter.com/housecor/status/1645055575909072896)
+
 

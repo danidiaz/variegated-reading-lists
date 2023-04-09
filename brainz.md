@@ -84,4 +84,6 @@ Things to try:
 
 [sunk cost fallacy](https://twitter.com/IgorBrigadir/status/1644686372966395904)
 
+[Parquet: more than just "Turbo CSV"](https://twitter.com/gunnarmorling/status/1645065940323762177)
+
 

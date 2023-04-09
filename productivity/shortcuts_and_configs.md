@@ -316,6 +316,11 @@ VSCode quickfix != Code Lens actions
 
 [pin project files in VSCode](https://stateful.com/blog/15-tips-and-tricks-of-vs-code)
 
+[VSCode: focus next terminal group. ](https://www.youtube.com/watch?v=-p3umsw-HEs)
+
+> Ctrl + PgDown 
+
+
 
 
 

@@ -90,4 +90,7 @@ Things to try:
 
 [baby GPT](https://twitter.com/karpathy/status/1645115622517542913)
 
+[ pushing you to come up with good variable/function names](https://twitter.com/threepointone/status/1645411361038450688)
 
+
+    

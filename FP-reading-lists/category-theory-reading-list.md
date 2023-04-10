@@ -1006,4 +1006,6 @@ get all equalities
 
 [coequations](https://hachyderm.io/@mc@mathstodon.xyz/110106308680967113)
 
+[Groebner bases](https://twitter.com/adamnemecek1/status/1645489960257196032)
+
 

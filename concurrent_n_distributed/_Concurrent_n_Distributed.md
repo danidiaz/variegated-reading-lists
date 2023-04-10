@@ -701,4 +701,5 @@ https://news.ycombinator.com/item?id=25061901
 
 [falsify for Haskell](https://twitter.com/EdskoDeVries/status/1643664485515657235)
 
+[who invented vector clocks?](https://news.ycombinator.com/item?id=35506236)
 

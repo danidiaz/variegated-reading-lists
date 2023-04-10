@@ -320,7 +320,7 @@ VSCode quickfix != Code Lens actions
 
 > Ctrl + PgDown 
 
-
+[effective spaced repetition](https://news.ycombinator.com/item?id=35511357)
 
 
 

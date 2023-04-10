@@ -140,4 +140,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [useful libraries](https://twitter.com/housecor/status/1644699226138456069)
 
+[hiding query keys](https://twitter.com/mattia_asti/status/1645450734949761026)
+
 

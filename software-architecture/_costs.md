@@ -130,4 +130,6 @@
 
 [CloudTrail for S3 data events](https://twitter.com/QuinnyPig/status/1643645948487237632)
 
+[   Why is GPT-3 15.77x more expensive for certain languages? ](https://news.ycombinator.com/item?id=35514623)
+
 

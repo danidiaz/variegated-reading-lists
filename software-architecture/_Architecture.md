@@ -1299,3 +1299,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [graphQL oops](https://betterprogramming.pub/graphql-from-excitement-to-deception-f81f7c95b7cf) interesting bits about code-first and api-first
 
+[How to Structure Modern Enterprise Java Projects](https://blog.sebastian-daschner.com/entries/structure-modern-enterprise-java-projects). [video](https://www.youtube.com/watch?v=oJ5xCo2vzRA).
+
+

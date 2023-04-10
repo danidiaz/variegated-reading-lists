@@ -164,3 +164,6 @@
 
 [levelling up pull requests](https://lobste.rs/s/wi6mmc/levelling_up_pull_requests)
 
+[some red flags](https://twitter.com/jasongorman/status/1645339065384935424)
+
+

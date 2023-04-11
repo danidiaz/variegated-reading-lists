@@ -303,5 +303,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Postgres: The Graph Database You Didn't Know You Had](https://lobste.rs/s/gryb1f/postgres_graph_database_you_didn_t_know)
 
+[Is your Postgres ready for production?](https://www.crunchydata.com/blog/is-your-postgres-ready-for-production)
 
 

@@ -732,4 +732,8 @@ regress of beliefs.
 
 [Pointwise definable and Leibnizian extensions of models of arithmetic and set theory](https://twitter.com/JDHamkins/status/1643741455557726208)
 
+[The two notions do definitely pull apart in ω-nonstandard models](https://mathoverflow.net/questions/260944/silvers-approach-to-the-inconsistency-of-mathrmzfc/444579#444579)
+
+> every model of ZFC has an element that is a model of ZFC. Understanding the statement and proof of this theorem requires one to distinguish carefully between the object-theoretic ZFC and the meta-theoretic ZFC
+
 

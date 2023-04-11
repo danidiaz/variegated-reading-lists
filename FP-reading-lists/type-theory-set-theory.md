@@ -307,6 +307,10 @@ a helpful degree of extra comfort.
 
 [delooping the sign homomorphism](https://twitter.com/EgbertRijke/status/1618165850867130371)
 
+[How is the “ Axiom of choice is trivial in intuitionistic logic”?](https://math.stackexchange.com/questions/4676335/how-is-the-axiom-of-choice-is-trivial-in-intuitionistic-logic/4676436#4676436)
+
+> there are two ways to make "propositions as types" precise. Let me call the first one "proposition as proof-relevant types" and the second one "propositions as subsingelton types". In the nLab article they are called "propositions as all types" and "propositions as some types" respectively
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

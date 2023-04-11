@@ -790,4 +790,6 @@ https://react-query.tanstack.com/
 
 [benefits of useReducer](https://twitter.com/housecor/status/1645055575909072896)
 
+[idea for decoupling](https://twitter.com/sebastienlorber/status/1645786038097559553)
+
 

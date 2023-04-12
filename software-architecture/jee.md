@@ -336,6 +336,6 @@
 > I don’t see the harm: you’re depending on a component, you’re using a framework that manages components. Your mappers won’t typically need DI or AOP, but there definitely are use cases for that (I have them).
 Why resort to factory methods if you can use DI?
 
-
+[Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency](https://news.ycombinator.com/item?id=35535906)
 
 

@@ -92,5 +92,11 @@ Things to try:
 
 [ pushing you to come up with good variable/function names](https://twitter.com/threepointone/status/1645411361038450688)
 
+[creating a database benchmarking project](https://twitter.com/simonw/status/1645981621244534784). [code interpreter alpha](https://twitter.com/simonw/status/1645959248629886978)
+
+[bye abstraction](https://twitter.com/rakyll/status/1645987860460482561)
+
+
+
 
     

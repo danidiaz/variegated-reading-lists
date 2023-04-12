@@ -1301,4 +1301,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [How to Structure Modern Enterprise Java Projects](https://blog.sebastian-daschner.com/entries/structure-modern-enterprise-java-projects). [video](https://www.youtube.com/watch?v=oJ5xCo2vzRA).
 
+[putting proto defined service and RPC boundaries in place even if I'm linking everything into a single binary](https://twitter.com/rakyll/status/1646002715846406145)
+
 

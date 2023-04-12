@@ -102,4 +102,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Linear Haskell, linear-base and linear logic](https://www.reddit.com/r/haskell/comments/126oqt3/linear_haskell_linearbase_and_linear_logic/)
 
+[Unifying Linearity and Dependency Analyses (pdf)](https://arxiv.org/pdf/2304.03175.pdf). [tweet](https://twitter.com/Iceland_jack/status/1646187121756061698)
+
 

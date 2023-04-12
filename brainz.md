@@ -96,7 +96,7 @@ Things to try:
 
 [bye abstraction](https://twitter.com/rakyll/status/1645987860460482561)
 
-
+[prompt injection is difficult to fix](https://twitter.com/simonw/status/1645915352734507010)
 
 
     

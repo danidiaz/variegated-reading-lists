@@ -413,4 +413,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Abusing Constraints for Automatic Documentation](https://www.reddit.com/r/haskell/comments/1022njs/abusing_constraints_for_automatic_documentation/)
 
+[Defunctionalization with Dependent Types](https://arxiv.org/abs/2304.04574)
+
 

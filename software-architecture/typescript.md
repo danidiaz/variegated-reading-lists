@@ -142,4 +142,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [hiding query keys](https://twitter.com/mattia_asti/status/1645450734949761026)
 
+[how to name your types](https://www.totaltypescript.com/tips/how-to-name-your-types). [tweet](https://twitter.com/mattpocockuk/status/1646108727467024385). [giving names](https://twitter.com/mattpocockuk/status/1646087589114396673). 
+
+
 

@@ -98,5 +98,11 @@ Things to try:
 
 [prompt injection is difficult to fix](https://twitter.com/simonw/status/1645915352734507010)
 
+[so, is there a trick?](https://twitter.com/katelelkins/status/1646129651243270144)
 
+> 1) Focus on tasks where you are an expert & get GPT to help
+> 2) Give the AI context
+> 3) Give it step-by-step directions
+> 4) Get an initial answer. Ask for changes and edits
     
+

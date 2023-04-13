@@ -325,3 +325,7 @@ VSCode quickfix != Code Lens actions
 [wrk: Modern HTTP benchmarking tool](https://github.com/wg/wrk)
 
 [Displaying My Washing Machine's Remaining Time with Curl, Jq, and Pizauth](https://news.ycombinator.com/item?id=35536202)
+
+[JSON is YAML](https://alisoftware.github.io/yaml/2021/08/17/yaml-part1-json/).
+
+

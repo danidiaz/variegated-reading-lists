@@ -96,6 +96,12 @@ Things to try:
 
 [bye abstraction](https://twitter.com/rakyll/status/1645987860460482561)
 
+[the wrong level of abstraction](https://twitter.com/kelseyhightower/status/1646538701818986501)
+
+>  consider using a template to abstract away the details, and only expose the decisions a human needs to make
+
+[if you do it fast enough](https://twitter.com/DavidKPiano/status/1646533664874831872)    
+
 [prompt injection is difficult to fix](https://twitter.com/simonw/status/1645915352734507010)
 
 [so, is there a trick?](https://twitter.com/katelelkins/status/1646129651243270144)
@@ -105,4 +111,6 @@ Things to try:
 > 3) Give it step-by-step directions
 > 4) Get an initial answer. Ask for changes and edits
     
+[An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html). [tweet](https://twitter.com/martinfowler/status/1646505842416525314)
+
 

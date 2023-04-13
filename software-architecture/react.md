@@ -792,4 +792,6 @@ https://react-query.tanstack.com/
 
 [idea for decoupling](https://twitter.com/sebastienlorber/status/1645786038097559553)
 
+[how React, Suspense, and cache mutations fit together](https://twitter.com/brian_d_vaughn/status/1646524735667453956)
+
 

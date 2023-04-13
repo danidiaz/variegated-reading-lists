@@ -72,7 +72,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [loops with recursive types](https://twitter.com/GabrielVergnaud/status/1602700630182739968)
 
-[ts-pattern](https://twitter.com/GabrielVergnaud/status/1606290608934395906)
+[ts-pattern](https://twitter.com/GabrielVergnaud/status/1606290608934395906). [version 3.0](https://dev.to/gvergnaud/bringing-pattern-matching-to-typescript-introducing-ts-pattern-v3-0-o1k)
 
 [Typescript improvements](https://news.ycombinator.com/item?id=34132866)
 

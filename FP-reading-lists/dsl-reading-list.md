@@ -571,6 +571,8 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 > I *instinctively* go deep. It’s the lesson my father taught me. Getting away with shallow is transient. If you go deep, you can look around the corner at what *else* is possible.
 
+[musings on DSL languages](https://www.reddit.com/r/haskell/comments/12loreg/crem_compositional_representable_executable/)
+
 
 
 

@@ -415,4 +415,10 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Defunctionalization with Dependent Types](https://arxiv.org/abs/2304.04574)
 
+[ compositional representable executable machines](https://www.reddit.com/r/haskell/comments/12loreg/crem_compositional_representable_executable/)
+
+> Too much type-level information makes compositionality harder
+
+
+
 

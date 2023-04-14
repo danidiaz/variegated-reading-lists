@@ -794,4 +794,6 @@ https://react-query.tanstack.com/
 
 [how React, Suspense, and cache mutations fit together](https://twitter.com/brian_d_vaughn/status/1646524735667453956)
 
+[importance of react component composition](https://twitter.com/kentcdodds/status/1646860631805685760)
+
 

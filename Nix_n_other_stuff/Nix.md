@@ -854,4 +854,14 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [nix add-derivation](https://twitter.com/ericson2314_/status/1644816549105004552)
 
+[DERIVATION OUTPUTS IN A CONTENT-ADDRESSED WORLD](https://www.tweag.io/blog/2021-02-17-derivation-outputs-and-output-paths/)
+
+> Need to know whether a derivation has been built locally or in a binary cache? Just check whether its output path exists.
+
+> This is really nice in a world where the output of the derivations are input-addressed, because there’s a direct mapping between a derivation and its output paths − the .drv file actually explicitly contains them − which means that given a derivation Nix can directly know what its output paths are.
+
+> However this falls short with the addition of content-addressed derivations: if hello is content-addressed then I can’t introspect the derivation to know its output path anymore
+
+[output hash](https://nixos.org/manual/nix/stable/language/advanced-attributes.html?highlight=outputHash#adv-attr-outputHash)
+
 

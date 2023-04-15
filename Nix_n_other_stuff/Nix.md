@@ -862,13 +862,17 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 > However this falls short with the addition of content-addressed derivations: if hello is content-addressed then I can’t introspect the derivation to know its output path anymore
 
-[output hash](https://nixos.org/manual/nix/stable/language/advanced-attributes.html?highlight=outputHash#adv-attr-outputHash)
+[output hash](https://nixos.org/manual/nix/stable/language/advanced-attributes.html?highlight=outputHash#adv-attr-outputHash). [When should a fixed output path be used for a derivation in nix?](https://discourse.nixos.org/t/using-fixed-output-paths-for-a-derivation/6338)
 
 > It sometimes happens that the URL of the file changes, e.g., because servers are reorganised or no longer available. We then must update the call to fetchurl, e.g.,
 
 > If a fetchurl derivation was treated like a normal derivation, the output paths of the derivation and all derivations depending on it would change.
 
 > For fixed-output derivations, on the other hand, the name of the output path only depends on the outputHash* and name attributes
+
+> The #1 reason we use fixed-output derivations is for network downloads. Since we cannot control the network, we disable it during builds to help with reproducibility.
+
+> But what if we do need to download something? We make a compromise: if you’re a fixed-output derivation we enable network access for you, but in return tell me in advance the hash of what you’re going to download and give back as output. This way we retain reproducibility.
 
 [Restrict fixed-output derivations (2018)](https://github.com/NixOS/nix/issues/2270)
 

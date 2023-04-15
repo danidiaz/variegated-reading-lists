@@ -864,4 +864,22 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [output hash](https://nixos.org/manual/nix/stable/language/advanced-attributes.html?highlight=outputHash#adv-attr-outputHash)
 
+> It sometimes happens that the URL of the file changes, e.g., because servers are reorganised or no longer available. We then must update the call to fetchurl, e.g.,
+
+> If a fetchurl derivation was treated like a normal derivation, the output paths of the derivation and all derivations depending on it would change.
+
+> For fixed-output derivations, on the other hand, the name of the output path only depends on the outputHash* and name attributes
+
+[Restrict fixed-output derivations (2018)](https://github.com/NixOS/nix/issues/2270)
+
+> For example, fetchcargo in Nixpkgs takes a Cargo.lock file as an input and produces an output containing all the dependencies specified in the Cargo.lock file. This is impure, but it works because fetchcargo is a fixed-output derivation. Such impurities are bad for reproducibility because the dependencies on external files are completely implicit: there is no way to tell from the derivation graph that the derivation depends on a bunch of crates fetched from the Internet.
+
+> I don't like the idea where nix tries to solve all package managers in the world at all. There is already enough magic with lang2nix tools, and I don't see what is wrong with approach that we have for rust and go, where are we able to produce deterministic package depenency set. It is not nice and shiny, but reduces magic and gets the job done.
+
+> Ok if I understand correctly, the problem is that fixed output derivations can be arbitrary complex as there are no boundaries from where information can be retrieved from internet. At the same time you lose dependency graph and it becomes time consuming to rebuild fixed output derivations.
+
+> Yeah, I mean, I just don't see this as very realistic. I need a pijul fetcher among other things that simply do not will not ever belong in Nix.
+
+
+
 

@@ -191,4 +191,6 @@
 
 [libc](https://twitter.com/eatonphil/status/1644657305181454337)
 
+[Searchable Linux Syscall Table for x86 and x86_64](https://news.ycombinator.com/item?id=35574259)
+
 

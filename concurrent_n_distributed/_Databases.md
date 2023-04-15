@@ -886,6 +886,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Why don't foriegn keys “scale”?](https://news.ycombinator.com/item?id=35480987)
 
+[Comparing SQL-based streaming approaches](https://georgheiler.com/2022/04/01/comparing-sql-based-streaming-approaches/)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

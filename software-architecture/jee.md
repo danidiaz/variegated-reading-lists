@@ -338,4 +338,6 @@ Why resort to factory methods if you can use DI?
 
 [Virtual Threads Arrive in JDK 21, Ushering a New Era of Concurrency](https://news.ycombinator.com/item?id=35535906)
 
+[Comparison of Java HTTP Clients](https://reflectoring.io/comparison-of-java-http-clients/)
+
 

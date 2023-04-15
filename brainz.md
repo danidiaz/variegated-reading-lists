@@ -102,7 +102,7 @@ Things to try:
 
 [if you do it fast enough](https://twitter.com/DavidKPiano/status/1646533664874831872)    
 
-[prompt injection is difficult to fix](https://twitter.com/simonw/status/1645915352734507010)
+[prompt injection is difficult to fix](https://twitter.com/simonw/status/1645915352734507010). [prompt injection](https://twitter.com/simonw/status/1646931087195791360)
 
 [so, is there a trick?](https://twitter.com/katelelkins/status/1646129651243270144)
 
@@ -112,5 +112,8 @@ Things to try:
 > 4) Get an initial answer. Ask for changes and edits
     
 [An example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html). [tweet](https://twitter.com/martinfowler/status/1646505842416525314)
+
+[explore / exploit](https://twitter.com/headinthebox/status/1647087929821650946)
+
 
 

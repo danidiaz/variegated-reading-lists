@@ -880,6 +880,8 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 > Yeah, I mean, I just don't see this as very realistic. I need a pijul fetcher among other things that simply do not will not ever belong in Nix.
 
+[The Nix Hour #2 overriding derivations, fixed-output derivations, sharing closures](https://www.youtube.com/watch?v=x3EDiAKbnyI)
+
 
 
 

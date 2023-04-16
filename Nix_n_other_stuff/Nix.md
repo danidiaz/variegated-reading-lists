@@ -968,4 +968,7 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 > It’s legacyPackages to reflect the fact, that it’s not following the rules for packages, ie it’s not flat but a set of sets.
 
+[--override-inputs](https://github.com/NixOS/nix/issues/4193). [Override flakes inputs transitively](https://discourse.nixos.org/t/override-flakes-inputs-transitively/16903). [manual](https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-build.html).
+
+
 

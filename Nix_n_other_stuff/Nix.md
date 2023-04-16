@@ -936,4 +936,8 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [Overlays in nested flakes](https://discourse.nixos.org/t/overlays-in-nested-flakes/17066)
 
+[overlays](https://hachyderm.io/@DiazCarrete/110207965171306830)
+
+[callPackage, a tool for the lazy](https://summer.nixos.org/blog/callpackage-a-tool-for-the-lazy/)
+
 

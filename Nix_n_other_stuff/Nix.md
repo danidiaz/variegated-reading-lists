@@ -968,7 +968,19 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 > It’s legacyPackages to reflect the fact, that it’s not following the rules for packages, ie it’s not flat but a set of sets.
 
+[what is legacyPackages?](https://github.com/NixOS/nixpkgs/blob/d85555f9ac2154b5e39cfda10a74e2b7d9cc81ad/flake.nix#L47)
+
+> The "legacy" in `legacyPackages` doesn't imply that the packages exposed
+> through this attribute are "legacy" packages. Instead, `legacyPackages`
+> is used here as a substitute attribute name for `packages`. The problem
+> with `packages` is that it makes operations like `nix flake show
+> nixpkgs` unusably slow due to the sheer number of packages the Nix CLI
+> needs to evaluate. But when the Nix CLI sees a `legacyPackages`
+> attribute it displays `omitted` instead of evaluating all packages,
+> which keeps `nix flake show` on Nixpkgs reasonably fast, though less
+> information rich.
+
 [--override-inputs](https://github.com/NixOS/nix/issues/4193). [Override flakes inputs transitively](https://discourse.nixos.org/t/override-flakes-inputs-transitively/16903). [manual](https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-build.html).
 
-
+[Propagate output with overlay between two linked flakes?](https://discourse.nixos.org/t/propagate-output-with-overlay-between-two-linked-flakes/16137)
 

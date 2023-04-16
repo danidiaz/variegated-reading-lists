@@ -984,3 +984,8 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [Propagate output with overlay between two linked flakes?](https://discourse.nixos.org/t/propagate-output-with-overlay-between-two-linked-flakes/16137)
 
+```
+$ nix repl
+nix-repl> :lf .
+```
+

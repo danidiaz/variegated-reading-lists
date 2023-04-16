@@ -934,4 +934,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [pkgs.lib.fixedPoints.composeExtensions wtf](https://stackoverflow.com/questions/76023823/how-to-prevent-a-nixpkgs-overlay-from-being-applied-more-than-once). [github](https://github.com/NixOS/nixpkgs/blob/master/lib/fixed-points.nix).
 
+[Overlays in nested flakes](https://discourse.nixos.org/t/overlays-in-nested-flakes/17066)
+
 

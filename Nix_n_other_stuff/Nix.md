@@ -900,6 +900,18 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [The Nix Hour #2 overriding derivations, fixed-output derivations, sharing closures](https://www.youtube.com/watch?v=x3EDiAKbnyI)
 
+[Nix Flakes in Production: What, Why and How](https://www.youtube.com/watch?v=o1Y7rWrPEO8)
 
+[Tips and Tricks for Nix Flakes](https://ipetkov.dev/blog/tips-and-tricks-for-nix-flakes/). [Dirty Nix flake quality-of-life hacks](https://siraben.dev/2022/02/13/nix-flake-hacks.html).
+
+> After working with Nix flakes for a while you develop a sense for how to
+> interact with them in more efficient or ergonomic ways. That said, a number
+> of the interactions I'm about to describe were extremely non-obvious to me,
+> especially as someone who had never peeked at their actual implementation.
+
+> Having your flake pull in another flake as an input
+> Having your flake pull in an input that is specified by another flake
+> Forcing another flake to use an input specified in your flake
+> Forcing another flake to use an input specified by yet a different flake
 
 

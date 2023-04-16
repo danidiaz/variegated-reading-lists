@@ -796,4 +796,6 @@ https://react-query.tanstack.com/
 
 [importance of react component composition](https://twitter.com/kentcdodds/status/1646860631805685760)
 
+[Un-Suck Your React Components](https://www.youtube.com/watch?v=vPRdY87_SH0)
+
 

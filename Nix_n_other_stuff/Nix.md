@@ -946,3 +946,8 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 > Each package's dependencies are now implicit at this level (they are still explicit in each of the package files), and callPackage "knows" how to resolve them. This relieves us from dealing with them manually, and precludes configuration errors that may only surface late into a lengthy build process.
 
+[Good Enough](https://www.youtube.com/watch?v=asc1D5yPZhQ)
+
+> Let's talk about software which disrupts the crystal: software which is hard to "nixify." Let's also talk about amazing user experiences that become possible by taking one step back from the edge.
+
+

@@ -950,4 +950,6 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 > Let's talk about software which disrupts the crystal: software which is hard to "nixify." Let's also talk about amazing user experiences that become possible by taking one step back from the edge.
 
+[sub-flakes](https://hackmd.io/@nix-ux/BJwHCL9L9)
+
 

@@ -989,7 +989,7 @@ $ nix repl
 nix-repl> :lf .
 ```
 
-[Why extending nixpkgs.legacyPackages behaves differently then extending flake packages?](https://discourse.nixos.org/t/why-extending-nixpkgs-legacypackages-behaves-differently-then-extending-flake-packages/24521). [makeExtensible](https://github.com/NixOS/nixpkgs/blob/9fc18a93a319ba2deea68a4d3bdd73b4dc65a8b1/lib/fixed-points.nix#L105).
+[Why extending nixpkgs.legacyPackages behaves differently then extending flake packages?](https://discourse.nixos.org/t/why-extending-nixpkgs-legacypackages-behaves-differently-then-extending-flake-packages/24521). [makeExtensible](https://github.com/NixOS/nixpkgs/blob/9fc18a93a319ba2deea68a4d3bdd73b4dc65a8b1/lib/fixed-points.nix#L105). [Overlay/overriding improvement plan](https://github.com/NixOS/nixpkgs/issues/99100).
 
 > my-pkgs = nixpkgs.legacyPackages.${system}.extend (overlay);
 
@@ -998,4 +998,7 @@ nix-repl> r = import <nixpkgs> {}
 nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 "set"
 ```
+
+> The amount of overlays that get evaluated with .extend is quadratic. Every new .extend access evaluates all previous overlays again.
+
 

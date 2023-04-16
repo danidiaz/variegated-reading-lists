@@ -952,4 +952,20 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [sub-flakes](https://hackmd.io/@nix-ux/BJwHCL9L9)
 
+[flake-utils](https://github.com/numtide/flake-utils)
+
+> a collection of pure Nix functions that don't depend on nixpkgs, and that are useful in the context of writing other Nix flakes
+
+> flattenTree :: attrs -> attrs
+
+> Nix flakes insists on having a flat attribute set of derivations in various places like the packages and checks attributes.
+
+> This function traverses a tree of attributes (by respecting recurseIntoAttrs) and only returns their derivations, with a flattened key-space.
+
+[recurseIntoAttrs](https://github.com/NixOS/nixpkgs/blob/ff24a05847080bf4edbbebae6c04eb5da4bb97d1/lib/attrsets.nix#L958). [Query all pnames in Nixpkgs with flakes](https://discourse.nixos.org/t/query-all-pnames-in-nixpkgs-with-flakes/22879/2)
+
+> IIRC flake evaluation caching doesn’t work for nested package sets (as nixpkgs is) and thus is not disabled for anything that is in legacyPackages (normal packages has to be a flat attribute set).
+
+> It’s legacyPackages to reflect the fact, that it’s not following the rules for packages, ie it’s not flat but a set of sets.
+
 

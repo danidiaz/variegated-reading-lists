@@ -193,4 +193,6 @@
 
 [Searchable Linux Syscall Table for x86 and x86_64](https://news.ycombinator.com/item?id=35574259)
 
+[Unwinding the stack the hard way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
+
 

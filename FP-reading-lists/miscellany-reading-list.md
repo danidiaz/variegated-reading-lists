@@ -674,4 +674,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [interesting use of AOP for htmx](https://twitter.com/tschuehly/status/1644467109798313984)
 
+[Math needs language levels too](https://twitter.com/ShriramKMurthi/status/1647387202802835456)
+
 

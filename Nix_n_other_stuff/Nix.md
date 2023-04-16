@@ -914,4 +914,12 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 > Forcing another flake to use an input specified in your flake
 > Forcing another flake to use an input specified by yet a different flake
 
+[flake outputs](https://zero-to-nix.com/concepts/flakes#outputs)
+
+> Flake outputs are what a flake produces as part of its build. Each flake can have many different outputs simultaneously
+
+[devenv - Using With Flakes](https://devenv.sh/guides/using-with-flakes/). [Single project with multiple shells](https://devenv.sh/guides/using-with-flakes/#single-project-with-multiple-shells)
+
+> devenv can be integrated with Nix Flakes if you're more familiar with the Nix language and ecosystem.
+
 

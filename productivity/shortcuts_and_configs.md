@@ -328,4 +328,6 @@ VSCode quickfix != Code Lens actions
 
 [JSON is YAML](https://alisoftware.github.io/yaml/2021/08/17/yaml-part1-json/).
 
+[iterm - what's the key-combo to switch panes?](https://apple.stackexchange.com/questions/114177/iterm-whats-the-key-combo-to-switch-panes)
+
 

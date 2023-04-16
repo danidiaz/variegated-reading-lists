@@ -1303,4 +1303,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [putting proto defined service and RPC boundaries in place even if I'm linking everything into a single binary](https://twitter.com/rakyll/status/1646002715846406145)
 
+[How to Name your Types](https://www.youtube.com/watch?v=qA65QjWCl60)
+
 

@@ -862,7 +862,7 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 > However this falls short with the addition of content-addressed derivations: if hello is content-addressed then I can’t introspect the derivation to know its output path anymore
 
-[output hash](https://nixos.org/manual/nix/stable/language/advanced-attributes.html?highlight=outputHash#adv-attr-outputHash). [When should a fixed output path be used for a derivation in nix?](https://discourse.nixos.org/t/using-fixed-output-paths-for-a-derivation/6338)
+[output hash](https://nixos.org/manual/nix/stable/language/advanced-attributes.html?highlight=outputHash#adv-attr-outputHash). [When should a fixed output path be used for a derivation in nix?](https://discourse.nixos.org/t/using-fixed-output-paths-for-a-derivation/6338). 
 
 > It sometimes happens that the URL of the file changes, e.g., because servers are reorganised or no longer available. We then must update the call to fetchurl, e.g.,
 
@@ -873,6 +873,20 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 > The #1 reason we use fixed-output derivations is for network downloads. Since we cannot control the network, we disable it during builds to help with reproducibility.
 
 > But what if we do need to download something? We make a compromise: if you’re a fixed-output derivation we enable network access for you, but in return tell me in advance the hash of what you’re going to download and give back as output. This way we retain reproducibility.
+
+[Nix: what are fixed-output derivations and why use them?](https://bmcgee.ie/posts/2023/02/nix-what-are-fixed-output-derivations-and-why-use-them/)
+
+> Irrespective of the build tool being used, when constructing a derivation the problem facing Nix developers is always the same: how do we capture the build dependencies in a reproducible fashion?
+
+> So we have a Gradle-based application, and we want to package it with Nix. The derivation for that might look something like this:
+
+> Well except for one problem: derivations don’t have network access.
+
+> If you were to try and build this derivation you would have Gradle complaining that it can’t resolve any dependencies. We have to work around this limitation, and we do that with a fixed-output derivation.
+
+> Whilst normal derivations are not allowed network access, fixed-output derivations are a compromise for situations like this. They are provided with network access but in return they must declare in advance a hash of their contents.
+
+> Essentially what we have done here is to create an offline Maven repository.
 
 [Restrict fixed-output derivations (2018)](https://github.com/NixOS/nix/issues/2270)
 

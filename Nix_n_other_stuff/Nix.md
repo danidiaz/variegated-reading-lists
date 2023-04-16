@@ -1001,4 +1001,10 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 
 > The amount of overlays that get evaluated with .extend is quadratic. Every new .extend access evaluates all previous overlays again.
 
+[Extending NixOS configurations](https://determinate.systems/posts/extending-nixos-configurations). Interesting example of composition...
+
+
+
+
+
 

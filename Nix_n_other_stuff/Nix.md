@@ -842,9 +842,13 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [What Nix Can Do](https://www.youtube.com/watch?v=6Le0IbPRzOE)
 
-[1000 instances of nixpkgs](https://zimbatm.com/notes/1000-instances-of-nixpkgs)
+[1000 instances of nixpkgs](https://zimbatm.com/notes/1000-instances-of-nixpkgs). [Using nixpkgs.legacyPackages.${system} vs import](https://discourse.nixos.org/t/using-nixpkgs-legacypackages-system-vs-import/17462/6)
 
 > nixpkgs overlays are super useful. They are a mechanism that allows taking nixpkgs, and extending it with your own packages and overrides. In most cases, it’s more manageable than forking nixpkgs and managing your own long-running branch. NixOS also doesn’t provide a standard way to have other package sets so it makes sense to have them all in one. Those two reasons are what made them popular.
+
+> We need at least one instance of nixpkgs (per system). The question is who is going to hold it.
+
+> For this case to work, another requirement is to use the inputs “follows” feature, so they are both pinned to the same version of nixpkgs.
 
 [nixos-anywhere](https://hachyderm.io/@domenkozar@fosstodon.org/110145895216438132)
 
@@ -927,5 +931,7 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 > Unless you create a shell for cross compilation, you shouldn’t use buildInputs directly. Instead prefer packages.
 
 > Also “combining” two shells should work using the inputsFrom argument.
+
+[pkgs.lib.fixedPoints.composeExtensions wtf](https://stackoverflow.com/questions/76023823/how-to-prevent-a-nixpkgs-overlay-from-being-applied-more-than-once). [github](https://github.com/NixOS/nixpkgs/blob/master/lib/fixed-points.nix).
 
 

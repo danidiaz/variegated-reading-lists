@@ -311,6 +311,9 @@ a helpful degree of extra comfort.
 
 > there are two ways to make "propositions as types" precise. Let me call the first one "proposition as proof-relevant types" and the second one "propositions as subsingelton types". In the nLab article they are called "propositions as all types" and "propositions as some types" respectively
 
+[Gluing for Babies](https://hachyderm.io/@jonmsterling@mathstodon.xyz/110207623200711947)
+
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

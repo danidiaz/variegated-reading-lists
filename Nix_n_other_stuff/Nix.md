@@ -940,4 +940,9 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [callPackage, a tool for the lazy](https://summer.nixos.org/blog/callpackage-a-tool-for-the-lazy/)
 
+> callPackage adds more convenience by adding an attribute to the derivation it returns: the override function.
+
+> Benefit: flexible dependency injection
+
+> Each package's dependencies are now implicit at this level (they are still explicit in each of the package files), and callPackage "knows" how to resolve them. This relieves us from dealing with them manually, and precludes configuration errors that may only surface late into a lengthy build process.
 

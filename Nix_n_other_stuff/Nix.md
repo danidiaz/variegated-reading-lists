@@ -922,4 +922,10 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 > devenv can be integrated with Nix Flakes if you're more familiar with the Nix language and ecosystem.
 
+[Is it possible to merge one flake’s devShell into another flake’s devShell?](https://discourse.nixos.org/t/is-it-possible-to-merge-one-flakes-devshell-into-another-flakes-devshell/18982)
+
+> Unless you create a shell for cross compilation, you shouldn’t use buildInputs directly. Instead prefer packages.
+
+> Also “combining” two shells should work using the inputsFrom argument.
+
 

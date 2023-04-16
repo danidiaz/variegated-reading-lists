@@ -306,3 +306,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 [Is your Postgres ready for production?](https://www.crunchydata.com/blog/is-your-postgres-ready-for-production)
 
 [Why We Ditched RabbitMQ And Replaced It With A Postgres Queue](https://lobste.rs/s/zdpsir/why_we_ditched_rabbitmq_replaced_it_with). [hn](https://news.ycombinator.com/item?id=35526846).
+
+[psql tips](https://twitter.com/PostgresqlStan/status/1647070399954386944). [original](https://psql-tips.org/psql_tips_all.html).
+
+

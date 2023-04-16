@@ -448,6 +448,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 > (Don't just interpret the (closed) term! Interpret the open term/context as well!😡)
 
+[Better Together: Unifying Datalog and Equality Saturation](https://arxiv.org/abs/2304.04332)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

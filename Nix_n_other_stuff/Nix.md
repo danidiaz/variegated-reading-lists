@@ -1003,7 +1003,7 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 
 [Extending NixOS configurations](https://determinate.systems/posts/extending-nixos-configurations). Interesting example of composition...
 
-
+[recent news about Haskell-on-Nix](https://discourse.nixos.org/t/nix-haskell-development-2020/6170/28?u=danidiaz)
 
 
 

@@ -1005,6 +1005,6 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 
 [recent news about Haskell-on-Nix](https://discourse.nixos.org/t/nix-haskell-development-2020/6170/28?u=danidiaz)
 
-
+> People have seemed to get pretty comfortable with functions like haskellPackages.callCabal2nix, haskellPackage.callHackage, haskellPackages.developPackage, and haskellPackages.shellFor. You’re starting to really see a lot of use of these, which makes things pretty easy.
 
 

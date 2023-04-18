@@ -313,6 +313,7 @@ a helpful degree of extra comfort.
 
 [Gluing for Babies](https://hachyderm.io/@jonmsterling@mathstodon.xyz/110207623200711947). [notes on gluing](https://hachyderm.io/@jonmsterling@mathstodon.xyz/110207661779308798).
 
+[denotational semantics vs operational semantics](https://www.jonmsterling.com/slides/sterling-2023-logsem.pdf)
 
 ## Proof assistants
 

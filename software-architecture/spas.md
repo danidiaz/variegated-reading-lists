@@ -153,4 +153,6 @@
 
 [Reusable htmx components with custom elements](https://cprohm.de/blog/htmx-custom-elements/)
 
+[Dialogs, modality and popovers seem similar. How are they different?](https://hidde.blog/dialog-modal-popover-differences/)
+
 

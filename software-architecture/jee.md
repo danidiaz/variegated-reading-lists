@@ -340,4 +340,6 @@ Why resort to factory methods if you can use DI?
 
 [Comparison of Java HTTP Clients](https://reflectoring.io/comparison-of-java-http-clients/)
 
+[A pattern implemented as part of @springmodulith ‘s Event Publication Registry](https://twitter.com/odrotbohm/status/1648378551131947008)
+
 

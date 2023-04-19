@@ -249,7 +249,11 @@ Insurance premiums may be affected and adjusted as a result.
 
 [The Core Data Record](https://www.lloyds.com/conducting-business/requirements-and-standards/core-data-record). [About the Core Data Record](https://www.lloyds.com/conducting-business/requirements-and-standards/core-data-record/about)
 
-# Excel
+# Software
+
+[Issuing Out-of-Sequence Endorsements in SAP](https://help.sap.com/docs/SAP_UNDERWRITING_FOR_INSURANCE/a3b55452949f485f9c6b9f1e4065a004/fa88ce71bd394781972aa02bb191aab6.html?version=4.0.05)
+
+## Excel
 
 [The trouble with tables: Overcoming the challenge of successfully extracting data trapped within tables](https://eigentech.com/resources/blog/the-trouble-with-tables-overcoming-the-challenge-of-successfully-extracting-data-trapped-within-tables)
 
@@ -311,7 +315,7 @@ Insurance premiums may be affected and adjusted as a result.
 
 [is exponentiation by another fixed point decimal a weird thing to want?](https://stackoverflow.com/questions/16441769/javas-bigdecimal-powerbigdecimal-exponent-is-there-a-java-library-that-does)
 
-# operations research
+## operations research
 
 [Google OR-Tools](https://developers.google.com/optimization)
 

@@ -117,5 +117,8 @@ Things to try:
 
 [the output of the output of optimization](https://twitter.com/rickyflows/status/1648294899211714560)
 
+[grandma exploit](https://twitter.com/jjvincent/status/1648594881198039040). [what's the worst that can happen?](https://twitter.com/migueljogja/status/1648643829845860352)
+
+
 
 

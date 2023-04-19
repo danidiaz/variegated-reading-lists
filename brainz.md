@@ -115,5 +115,7 @@ Things to try:
 
 [explore / exploit](https://twitter.com/headinthebox/status/1647087929821650946)
 
+[the output of the output of optimization](https://twitter.com/rickyflows/status/1648294899211714560)
+
 
 

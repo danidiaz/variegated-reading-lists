@@ -1007,4 +1007,9 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 
 > People have seemed to get pretty comfortable with functions like haskellPackages.callCabal2nix, haskellPackage.callHackage, haskellPackages.developPackage, and haskellPackages.shellFor. You’re starting to really see a lot of use of these, which makes things pretty easy.
 
+[The Nix, OpenGL and Ubuntu Integration Nightmare](https://lobste.rs/s/7h20zl/nix_opengl_ubuntu_integration_nightmare)
+
+
+
+
 

@@ -493,6 +493,18 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 > The extended theory is still consistent -- that is, it cannot prove a contradiction -- because a proof must be finite and can only mention finitely many of the new axioms, and there is a model as long as we only take finitely many of these axioms.
 
+[Better Together: Unifying Datalog and Equality Saturation](https://arxiv.org/abs/2304.04332). [hn](https://news.ycombinator.com/item?id=35593635). 
+
+> We present egglog, a fixpoint reasoning system that unifies Datalog and equality saturation (EqSat). Like Datalog, it supports efficient incremental execution, cooperating analyses, and lattice-based reasoning. Like EqSat, it supports term rewriting, efficient congruence closure, and extraction of optimized terms.
+
+[egg: Fast and Extensible Equality Saturation](https://arxiv.org/abs/2004.03082)
+
+> An e-graph efficiently represents a congruence relation over many expressions. Although they were originally developed in the late 1970s for use in automated theorem provers, a more recent technique known as equality saturation repurposes e-graphs to implement state-of-the-art, rewrite-driven compiler optimizations and program synthesizers. However, e-graphs remain unspecialized for this newer use case. Equality saturation workloads exhibit distinct characteristics and often require ad-hoc e-graph extensions to incorporate transformations beyond purely syntactic rewrites.
+
+[Equality Saturation: A New Approach to Optimization](https://arxiv.org/abs/1012.1802)
+
+> Optimizations in a traditional compiler are applied sequentially, with each optimization destructively modifying the program to produce a transformed program that is then passed to the next optimization. We present a new approach for structuring the optimization phase of a compiler. In our approach, optimizations take the form of equality analyses that add equality information to a common intermediate representation.
+
 ## large cardinals
 
 [How should a “working mathematician” think about sets?](https://mathoverflow.net/questions/255820/how-should-a-working-mathematician-think-about-sets-zfc-category-theory-ur). [In what respect are univalent foundations “better” than set theory?](https://mathoverflow.net/questions/286874/in-what-respect-are-univalent-foundations-better-than-set-theory). [ZFC Set Theory and the Category of Sets](https://www.cs.auckland.ac.nz/~nies/Students/BroomeSetTheory2008.pdf). [Axiom of infinity](https://math.stackexchange.com/questions/1472339/proving-infinity-vs-axiom-of-infinity/2014493). [Is there any set theory without something like the Axiom Schema of Separation?](https://math.stackexchange.com/questions/1193067/is-there-any-set-theory-without-something-like-the-axiom-schema-of-separation?rq=1). [Why is the powerset axiom more acceptable than the axiom of choice?](https://math.stackexchange.com/questions/904522/why-is-the-powerset-axiom-more-acceptable-than-the-axiom-of-choice?rq=1). [Is the axiom of universes 'harmless'?](https://math.stackexchange.com/questions/79343/is-the-axiom-of-universes-harmless?rq=1). [WHAT IS THE THEORY ZFC WITHOUT POWER SET?](https://arxiv.org/pdf/1110.2430v1.pdf). [Reasons to believe Vopenka's principle](https://mathoverflow.net/questions/29302/reasons-to-believe-vopenkas-principle-huge-cardinals-are-consistent/29310#29310) interesting answer. [Are there any large cardinals that are inconsistent with ZF?](https://philosophy.stackexchange.com/questions/10664/are-there-any-large-cardinals-that-are-inconsistent-with-zf). [Ultrafilters VII: Large Cardinals](https://pointatinfinityblog.wordpress.com/2016/07/14/ultrafilters-vii-large-cardinals/).

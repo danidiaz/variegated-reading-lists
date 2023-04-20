@@ -195,4 +195,7 @@
 
 [Unwinding the stack the hard way](https://lesenechal.fr/en/linux/unwinding-the-stack-the-hard-way)
 
+[How Does an Intel Processor Boot? (2018)](https://news.ycombinator.com/item?id=35598636)
+
+
 

@@ -798,4 +798,6 @@ https://react-query.tanstack.com/
 
 [Un-Suck Your React Components](https://www.youtube.com/watch?v=vPRdY87_SH0)
 
+[why onSuccess is bad](https://twitter.com/TkDodo/status/1648916857842180097)
+
 

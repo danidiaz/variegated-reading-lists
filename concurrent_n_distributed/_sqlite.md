@@ -33,4 +33,6 @@
 
 [history of SQLite](https://twitter.com/aboodman/status/1633351940833947654)
 
+[Data analysis with SQLite and Python](https://twitter.com/simonw/status/1649100818841501696)
+
 

@@ -802,4 +802,8 @@ https://react-query.tanstack.com/
 
 [form thoughts](https://twitter.com/tannerlinsley/status/1649481124807319552)
 
+> - Form state is not only global state management, but also very fine-grained, cross cutting, and hot out of the gate (think keystrokes). Most form UX assumes reactive UI around form values and for good reason.
+> - Add in validation timing that changes over the course of a form session  and you've got a pretty crazy cocktail of challenges.
+> - React Hook Form appears to handle most of this really well, no wonder people love it! I'm not sure if it's the right fit yet though. We'll see.
+
 

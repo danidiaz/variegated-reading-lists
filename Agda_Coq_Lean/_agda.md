@@ -322,5 +322,6 @@ Identity, Parametrically](https://jesper.sikanda.be/files/leibniz-equality.pdf)
 
 [on universe levels](https://mathstodon.xyz/@egbertrijke/109293365381813757)
 
+[It doesn't seem to be possible, in ---safe Agda, to define the eliminator of this type](https://hachyderm.io/@MartinEscardo@mathstodon.xyz/110232990050827650)
 
 

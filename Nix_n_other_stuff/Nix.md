@@ -1009,7 +1009,7 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 
 [The Nix, OpenGL and Ubuntu Integration Nightmare](https://lobste.rs/s/7h20zl/nix_opengl_ubuntu_integration_nightmare)
 
-
+[Haskell project that uses Nix](https://twitter.com/sridca/status/1649484166495436800)
 
 
 

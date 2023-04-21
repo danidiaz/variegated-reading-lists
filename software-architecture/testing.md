@@ -379,4 +379,5 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Mocha exclusive tests](https://mochajs.org/#exclusive-tests)
 
+[Test Driven Application Security](https://www.youtube.com/watch?v=V-SgiA-D9r0)
 

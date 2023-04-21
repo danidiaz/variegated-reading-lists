@@ -166,4 +166,6 @@
 
 [some red flags](https://twitter.com/jasongorman/status/1645339065384935424)
 
+[remote meetings](https://mastodon.social/@cyberlyra/110234725790296641). [or are they good?](https://mastodon.hccp.org/@igb/110225959206170608)
+
 

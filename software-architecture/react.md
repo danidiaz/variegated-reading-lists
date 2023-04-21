@@ -800,4 +800,6 @@ https://react-query.tanstack.com/
 
 [why onSuccess is bad](https://twitter.com/TkDodo/status/1648916857842180097)
 
+[form thoughts](https://twitter.com/tannerlinsley/status/1649481124807319552)
+
 

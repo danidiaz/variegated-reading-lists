@@ -63,4 +63,6 @@
 
 [managing pipeline secrets](https://buildkite.com/docs/pipelines/secrets). [agent hooks](https://buildkite.com/docs/agent/v3/hooks#hook-locations-agent-hooks)
 
+[Your CI/CD pipeline should start on the developer's laptop](https://twitter.com/solomonstre/status/1649118014594502656)
+
 

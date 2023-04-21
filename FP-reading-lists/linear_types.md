@@ -104,4 +104,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Unifying Linearity and Dependency Analyses (pdf)](https://arxiv.org/pdf/2304.03175.pdf). [tweet](https://twitter.com/Iceland_jack/status/1646187121756061698)
 
+[data-forced](https://www.reddit.com/r/haskell/comments/12tkucn/presenting_dataforced_an_alternative_to_bang/)
+
 

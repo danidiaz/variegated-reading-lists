@@ -168,4 +168,6 @@
 
 [remote meetings](https://mastodon.social/@cyberlyra/110234725790296641). [or are they good?](https://mastodon.hccp.org/@igb/110225959206170608)
 
+[code reviews and code organisation](https://twitter.com/housecor/status/1649788468157902851)
+
 

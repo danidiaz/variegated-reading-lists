@@ -1011,5 +1011,7 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 
 [Haskell project that uses Nix](https://twitter.com/sridca/status/1649484166495436800)
 
+[Nix journey](https://twitter.com/mitchellh/status/1649503702456340483)
+
 
 

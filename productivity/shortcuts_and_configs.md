@@ -330,4 +330,6 @@ VSCode quickfix != Code Lens actions
 
 [iterm - what's the key-combo to switch panes?](https://apple.stackexchange.com/questions/114177/iterm-whats-the-key-combo-to-switch-panes)
 
+[Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
+
 

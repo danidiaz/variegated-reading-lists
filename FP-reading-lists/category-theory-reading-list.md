@@ -1008,4 +1008,6 @@ get all equalities
 
 [Groebner bases](https://twitter.com/adamnemecek1/status/1645489960257196032)
 
+[a basis of a vector space can be interpreted as its comonoid structure](https://twitter.com/bgavran3/status/1649795185805492224)
+
 

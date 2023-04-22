@@ -1305,4 +1305,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [How to Name your Types](https://www.youtube.com/watch?v=qA65QjWCl60)
 
+[In defense of simple architectures](https://lobste.rs/s/oyroj4/defense_simple_architectures)
+
 

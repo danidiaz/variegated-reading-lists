@@ -155,4 +155,8 @@
 
 [Dialogs, modality and popovers seem similar. How are they different?](https://hidde.blog/dialog-modal-popover-differences/)
 
+[template fragments](https://twitter.com/htmx_org/status/1649784039568449538) in [htmx](https://htmx.org/essays/template-fragments/)
+
+> w/ htmx composition is moved to the back end via server-side inclusion, custom tags, etc
+
 

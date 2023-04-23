@@ -366,6 +366,6 @@ with Variable Binding](https://www.cl.cam.ac.uk/~amp12/papers/newaas/newaas-jv.p
 > substitution for closed terms (i.e., terms with no free variables, for which variable capture
 is not a problem)
 
-
+[the horrors of syntax with binding](https://hachyderm.io/@jonmsterling@mathstodon.xyz/110246916416800551)
 
 

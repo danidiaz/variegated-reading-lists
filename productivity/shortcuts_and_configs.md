@@ -332,4 +332,10 @@ VSCode quickfix != Code Lens actions
 
 [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 
+[OBS - Post Production Tools You Can Use](https://obsproject.com/wiki/Post-Production-Tools-you-can-use). how to switch scenes? [nested scenes](https://www.youtube.com/watch?v=Ad1mWf5m_Xs)
+
+[from iterm2 back to Terminal](https://news.ycombinator.com/item?id=35673219)
+
+>  I used to use iTerm 2 because I liked its pane management, but after switching to using tmux several years ago, I've solely used Terminal.app + tmux without any issues in my workflow. What am I missing out on?
+
 

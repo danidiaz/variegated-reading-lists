@@ -335,6 +335,10 @@ VSCode quickfix != Code Lens actions
 
 [OBS - Post Production Tools You Can Use](https://obsproject.com/wiki/Post-Production-Tools-you-can-use). how to switch scenes? [nested scenes](https://www.youtube.com/watch?v=Ad1mWf5m_Xs). ["be right back" scene](https://obsproject.com/kb/stream-tutorial-3-brb)
 
+[OBS - browswer source](https://obsproject.com/kb/browser-source)
+
+> Browser source is one of the most versatile sources available in OBS. It is, quite literally, a web browser that you can add directly to OBS. 
+
 [from iterm2 back to Terminal](https://news.ycombinator.com/item?id=35673219)
 
 >  I used to use iTerm 2 because I liked its pane management, but after switching to using tmux several years ago, I've solely used Terminal.app + tmux without any issues in my workflow. What am I missing out on?

@@ -806,4 +806,8 @@ https://react-query.tanstack.com/
 > - Add in validation timing that changes over the course of a form session  and you've got a pretty crazy cocktail of challenges.
 > - React Hook Form appears to handle most of this really well, no wonder people love it! I'm not sure if it's the right fit yet though. We'll see.
 
+[Client state often needs to be made globally available because you need it for your QueryKey](https://twitter.com/TkDodo/status/1650197183692431362). [Query is not made to manage synchronous state](https://twitter.com/TkDodo/status/1650153977374187521)
+
+
+
 

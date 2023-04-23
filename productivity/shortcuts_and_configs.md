@@ -332,7 +332,8 @@ VSCode quickfix != Code Lens actions
 
 [Keyboard tricks from a macOS app dev](https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev)
 
-[OBS - Post Production Tools You Can Use](https://obsproject.com/wiki/Post-Production-Tools-you-can-use). how to switch scenes? [nested scenes](https://www.youtube.com/watch?v=Ad1mWf5m_Xs)
+
+[OBS - Post Production Tools You Can Use](https://obsproject.com/wiki/Post-Production-Tools-you-can-use). how to switch scenes? [nested scenes](https://www.youtube.com/watch?v=Ad1mWf5m_Xs). ["be right back" scene](https://obsproject.com/kb/stream-tutorial-3-brb)
 
 [from iterm2 back to Terminal](https://news.ycombinator.com/item?id=35673219)
 

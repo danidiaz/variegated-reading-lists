@@ -339,6 +339,8 @@ VSCode quickfix != Code Lens actions
 
 > Browser source is one of the most versatile sources available in OBS. It is, quite literally, a web browser that you can add directly to OBS. 
 
+[scenes and sources overview](https://obsproject.com/wiki/Sources-Guide#scenes-and-sources-overview)
+
 [from iterm2 back to Terminal](https://news.ycombinator.com/item?id=35673219)
 
 >  I used to use iTerm 2 because I liked its pane management, but after switching to using tmux several years ago, I've solely used Terminal.app + tmux without any issues in my workflow. What am I missing out on?

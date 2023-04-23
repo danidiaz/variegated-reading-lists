@@ -808,6 +808,8 @@ https://react-query.tanstack.com/
 
 [Client state often needs to be made globally available because you need it for your QueryKey](https://twitter.com/TkDodo/status/1650197183692431362). [Query is not made to manage synchronous state](https://twitter.com/TkDodo/status/1650153977374187521)
 
+[use client](https://twitter.com/dan_abramov/status/1650216626631983105)
+
 
 
 

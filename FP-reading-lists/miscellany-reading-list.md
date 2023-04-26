@@ -676,4 +676,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Math needs language levels too](https://twitter.com/ShriramKMurthi/status/1647387202802835456)
 
+[Optimizing Haskell Code for Runtime Verification: Part 2](https://serokell.io/blog/optimizing-k-framework-part-2)
 

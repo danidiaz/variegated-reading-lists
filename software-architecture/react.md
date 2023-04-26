@@ -810,6 +810,6 @@ https://react-query.tanstack.com/
 
 [use client](https://twitter.com/dan_abramov/status/1650216626631983105)
 
-
+[RSC makes server-client waterfalls a compile error](https://twitter.com/dan_abramov/status/1651051101678977024)
 
 

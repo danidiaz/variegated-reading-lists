@@ -315,6 +315,8 @@ a helpful degree of extra comfort.
 
 [denotational semantics vs operational semantics](https://www.jonmsterling.com/slides/sterling-2023-logsem.pdf)
 
+[controlling unfolding in type theory](https://jozefg.github.io/papers/2023-wg6-slides.pdf)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

@@ -888,6 +888,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Comparing SQL-based streaming approaches](https://georgheiler.com/2022/04/01/comparing-sql-based-streaming-approaches/)
 
+[Building a streaming incremental view maintenance engine with Calcite](https://www.youtube.com/watch?v=iT4k5DCnvPU)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

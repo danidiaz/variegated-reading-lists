@@ -345,4 +345,6 @@ VSCode quickfix != Code Lens actions
 
 >  I used to use iTerm 2 because I liked its pane management, but after switching to using tmux several years ago, I've solely used Terminal.app + tmux without any issues in my workflow. What am I missing out on?
 
+[jq tricks](https://lobste.rs/s/nhcss0/more_on_comma_as_generator_streaming_with)
+
 

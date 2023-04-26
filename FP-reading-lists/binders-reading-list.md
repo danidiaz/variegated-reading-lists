@@ -368,4 +368,7 @@ is not a problem)
 
 [the horrors of syntax with binding](https://hachyderm.io/@jonmsterling@mathstodon.xyz/110246916416800551)
 
+[1001 syntax representations](https://jesper.sikanda.be/posts/1001-syntax-representations.html) 
+
+[Co-de Bruijn indices](https://arxiv.org/abs/1807.04085v1) [Everybody's Got To Be Somewhere](https://arxiv.org/abs/1807.04085v1)
 

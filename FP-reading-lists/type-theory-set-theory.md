@@ -453,6 +453,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [Better Together: Unifying Datalog and Equality Saturation](https://arxiv.org/abs/2304.04332)
 
+[proof phenomenology](https://twitter.com/TaliaRinger/status/1651318684248309761)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

@@ -370,5 +370,7 @@ is not a problem)
 
 [1001 syntax representations](https://jesper.sikanda.be/posts/1001-syntax-representations.html) 
 
+> how to represent the syntax of a programming language in order to interpret, compile, analyze, optimize, and/or transform it.
+
 [Co-de Bruijn indices](https://arxiv.org/abs/1807.04085v1) [Everybody's Got To Be Somewhere](https://arxiv.org/abs/1807.04085v1)
 

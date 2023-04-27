@@ -812,4 +812,6 @@ https://react-query.tanstack.com/
 
 [RSC makes server-client waterfalls a compile error](https://twitter.com/dan_abramov/status/1651051101678977024)
 
+[useEffect interview question](https://twitter.com/NckLcs/status/1651210550049685504)
+
 

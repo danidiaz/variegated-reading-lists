@@ -309,4 +309,8 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [psql tips](https://twitter.com/PostgresqlStan/status/1647070399954386944). [original](https://psql-tips.org/psql_tips_all.html).
 
+[The part of Postgres we hate the most: Multi-version concurrency control ](https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/). [hn](https://news.ycombinator.com/item?id=35716963). [An Empirical Evaluation of In-Memory Multi-Version Concurrency Control](https://db.cs.cmu.edu/papers/2017/p781-wu.pdf)
+
+
+
 

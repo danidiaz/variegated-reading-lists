@@ -678,3 +678,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Optimizing Haskell Code for Runtime Verification: Part 2](https://serokell.io/blog/optimizing-k-framework-part-2)
 
+[torsors](https://twitter.com/tikhonjelvis/status/1651701926483095552)
+
+> the difference between times and durations or points and vectors 
+
+

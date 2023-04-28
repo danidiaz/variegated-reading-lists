@@ -810,7 +810,7 @@ https://react-query.tanstack.com/
 
 [use client](https://twitter.com/dan_abramov/status/1650216626631983105)
 
-[RSC makes server-client waterfalls a compile error](https://twitter.com/dan_abramov/status/1651051101678977024)
+[RSC makes server-client waterfalls a compile error](https://twitter.com/dan_abramov/status/1651051101678977024). [it lets you split each component in two. a Server part which depends on data, and a Client part which depends on state](https://twitter.com/dan_abramov/status/1651699851120242689)
 
 [useEffect interview question](https://twitter.com/NckLcs/status/1651210550049685504)
 

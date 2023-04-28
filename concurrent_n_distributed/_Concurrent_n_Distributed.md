@@ -703,3 +703,5 @@ https://news.ycombinator.com/item?id=25061901
 
 [who invented vector clocks?](https://news.ycombinator.com/item?id=35506236)
 
+[The Inner Workings of Distributed Databases](https://questdb.io/blog/inner-workings-distributed-databases/)
+

@@ -1010,4 +1010,6 @@ get all equalities
 
 [a basis of a vector space can be interpreted as its comonoid structure](https://twitter.com/bgavran3/status/1649795185805492224)
 
+[The link between Markov categories and probability monads](https://arxiv.org/abs/2010.07416)
+
 

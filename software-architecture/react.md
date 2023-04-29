@@ -814,4 +814,6 @@ https://react-query.tanstack.com/
 
 [useEffect interview question](https://twitter.com/NckLcs/status/1651210550049685504)
 
+[is the container component pattern obsolete?](https://blog.bitsrc.io/implementing-the-container-pattern-using-react-hooks-f490a8492d05)
+
 

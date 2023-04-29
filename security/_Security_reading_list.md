@@ -674,4 +674,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [The fascinating world of HTTP Strict-Transport-Security](https://news.ycombinator.com/item?id=35371541)
 
+[magic links vs one time PINs](https://twitter.com/andrewingram/status/1652252661490544641)
+
 

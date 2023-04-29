@@ -374,3 +374,6 @@ is not a problem)
 
 [Co-de Bruijn indices](https://arxiv.org/abs/1807.04085v1) [Everybody's Got To Be Somewhere](https://arxiv.org/abs/1807.04085v1)
 
+[Extending "De Bruijn Notation as a Nested Datatype" with Pattern Matching.](https://www.reddit.com/r/haskell/comments/132jxog/extending_de_bruijn_notation_as_a_nested_datatype/) similar to PHOAS?
+
+

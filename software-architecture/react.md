@@ -814,6 +814,12 @@ https://react-query.tanstack.com/
 
 [useEffect interview question](https://twitter.com/NckLcs/status/1651210550049685504)
 
-[is the container component pattern obsolete?](https://blog.bitsrc.io/implementing-the-container-pattern-using-react-hooks-f490a8492d05)
+[is the container component pattern obsolete?](https://blog.bitsrc.io/implementing-the-container-pattern-using-react-hooks-f490a8492d05). [more](https://dev.to/ornio/container-view-pattern-in-react-inc-hooks-5404). [react-hooks-compose](https://www.npmjs.com/package/react-hooks-compose)
+
+>  with the introduction of hooks there is no need to package components like this. Since hooks allow us to isolate logic inside them and then just call them on demand, the need for a container is slowly fading away.
+
+> But as great as hooks are, they do not solve every problem, hence the reason why this approach is still widely used.
+
+> This works fine, but you end up with an extra component just to connect the hook to the Presenter. [doesn't seem that bad...]
 
 

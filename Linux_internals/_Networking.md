@@ -96,3 +96,6 @@
 
 [LINEAR CONSTRAINTS: THE PROBLEM WITH O(1) FREEZE](https://www.tweag.io/blog/2023-01-26-linear-constraints-freeze/)
 
+[AWS Route 53 CNAME - dot at end of target value or not?](https://serverfault.com/questions/861134/aws-route-53-cname-dot-at-end-of-target-value-or-not#_=_). [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)
+
+

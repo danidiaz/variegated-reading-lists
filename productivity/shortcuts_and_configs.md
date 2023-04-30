@@ -347,4 +347,5 @@ VSCode quickfix != Code Lens actions
 
 [jq tricks](https://lobste.rs/s/nhcss0/more_on_comma_as_generator_streaming_with)
 
+[github pages usagle limits](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits)
 

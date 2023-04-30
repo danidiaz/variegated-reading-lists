@@ -10,3 +10,6 @@
 
 [Using Device Tree Overlays, Example on BeagleBone Boards](https://news.ycombinator.com/item?id=30342948)
 
+[Hotspot performance engineering fails](https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/)
+
+

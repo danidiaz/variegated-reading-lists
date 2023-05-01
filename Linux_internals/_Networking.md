@@ -98,4 +98,12 @@
 
 [AWS Route 53 CNAME - dot at end of target value or not?](https://serverfault.com/questions/861134/aws-route-53-cname-dot-at-end-of-target-value-or-not#_=_). [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)
 
+[Using multiple A-records for my domain](https://webmasters.stackexchange.com/questions/10927/using-multiple-a-records-for-my-domain-do-web-browsers-ever-try-more-than-one)
+
+[CNAME vs A DNS Records](https://webmasters.stackexchange.com/questions/6882/what-are-cname-and-a-dns-records)
+
+> A cname record is a pointer that points to a fully qualified domain name(fqdn), an A Record is a pointer that points to an ip adress.
+
+
+
 

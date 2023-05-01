@@ -144,5 +144,5 @@ const conforms: OnlyBoolsAndHorses = {
 
 [how to name your types](https://www.totaltypescript.com/tips/how-to-name-your-types). [tweet](https://twitter.com/mattpocockuk/status/1646108727467024385). [giving names](https://twitter.com/mattpocockuk/status/1646087589114396673). 
 
-
+[advantages vs. Haskell](https://www.reddit.com/r/haskell/comments/134c1kt/comment/jiebdc0/)
 

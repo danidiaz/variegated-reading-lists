@@ -1015,3 +1015,6 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 
 [Build a Jekyll blog with Nix using flakes](https://www.reddit.com/r/NixOS/comments/10a0m6o/build_a_jekyll_blog_github_pages_with_nix_using/)
 
+[debugging effectively with break](https://discourse.nixos.org/t/how-to-use-builtins-break-effectively/23115)
+
+

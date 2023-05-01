@@ -349,5 +349,7 @@ VSCode quickfix != Code Lens actions
 
 [github pages usagle limits](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits). [prohibited uses](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#prohibited-uses)
 
+[Building Websites With Jekyll and GitHub](https://carpentries-incubator.github.io/jekyll-pages-novice/). [Introduction to Jekyll](https://ubc-library-rc.github.io/intro-jekyll/).
+
 
 

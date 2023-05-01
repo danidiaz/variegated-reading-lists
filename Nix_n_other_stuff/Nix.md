@@ -1013,5 +1013,5 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 
 [Nix journey](https://twitter.com/mitchellh/status/1649503702456340483)
 
-
+[Build a Jekyll blog with Nix using flakes](https://www.reddit.com/r/NixOS/comments/10a0m6o/build_a_jekyll_blog_github_pages_with_nix_using/)
 

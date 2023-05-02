@@ -1012,4 +1012,5 @@ get all equalities
 
 [The link between Markov categories and probability monads](https://arxiv.org/abs/2010.07416)
 
+[The Quantum Effect: A Recipe for QuantumΠ](https://arxiv.org/pdf/2302.01885.pdf)
 

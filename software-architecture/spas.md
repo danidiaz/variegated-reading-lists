@@ -159,4 +159,6 @@
 
 > w/ htmx composition is moved to the back end via server-side inclusion, custom tags, etc
 
+[The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition)
+
 

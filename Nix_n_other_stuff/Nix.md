@@ -1017,4 +1017,8 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 
 [debugging effectively with break](https://discourse.nixos.org/t/how-to-use-builtins-break-effectively/23115)
 
+>  nix develop --debugger --ignore-try 
+
+[ruby-nix](https://github.com/sagittaros/ruby-nix)
+
 

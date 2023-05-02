@@ -170,4 +170,6 @@
 
 [code reviews and code organisation](https://twitter.com/housecor/status/1649788468157902851)
 
+[Continuous Code Review using Non-Blocking Reviews](https://hachyderm.io/@tdpauw@mastodon.social/110299247187056279)
+
 

@@ -351,5 +351,10 @@ VSCode quickfix != Code Lens actions
 
 [Building Websites With Jekyll and GitHub](https://carpentries-incubator.github.io/jekyll-pages-novice/). [Introduction to Jekyll](https://ubc-library-rc.github.io/intro-jekyll/).
 
+[more about GH pages & Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)
+
+> The main types of content for Jekyll sites are pages and posts. A page is for standalone content that isn't associated with a specific date, such as an "About" page. 
+
+> A post is a blog post. The default Jekyll site contains a directory named _posts that contains a default post file. 
 
 

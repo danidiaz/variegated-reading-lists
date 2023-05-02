@@ -822,4 +822,7 @@ https://react-query.tanstack.com/
 
 > This works fine, but you end up with an extra component just to connect the hook to the Presenter. [doesn't seem that bad...]
 
+[don't read refs while rendering](https://twitter.com/TkDodo/status/1653418114531434498). [ref caveats](https://react.dev/reference/react/useRef#caveats)
+
+
 

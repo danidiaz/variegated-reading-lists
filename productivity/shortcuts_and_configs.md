@@ -357,4 +357,6 @@ VSCode quickfix != Code Lens actions
 
 > A post is a blog post. The default Jekyll site contains a directory named _posts that contains a default post file. 
 
+[Somehow AutoHotKey is kinda good now](https://lobste.rs/s/hhcros/somehow_autohotkey_is_kinda_good_now)
+
 

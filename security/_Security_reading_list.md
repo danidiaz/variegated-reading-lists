@@ -676,4 +676,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [magic links vs one time PINs](https://twitter.com/andrewingram/status/1652252661490544641)
 
+[passkeys](https://lobste.rs/s/xcubfv/passkeys_beginning_end_password). [HN](https://news.ycombinator.com/item?id=35801392). 
+
 

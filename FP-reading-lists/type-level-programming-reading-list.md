@@ -419,6 +419,8 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 > Too much type-level information makes compositionality harder
 
+[what is type-level programming](https://news.ycombinator.com/item?id=35784705)
+
 
 
 

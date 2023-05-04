@@ -1309,4 +1309,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [simplify](https://twitter.com/VicVijayakumar/status/1652004299075928071). [simplify](https://twitter.com/Carnage4Life/status/1651746258091147264).
 
+[Scaling up the Prime Video audio/video monitoring service and reducing costs](https://news.ycombinator.com/item?id=35811741)
 

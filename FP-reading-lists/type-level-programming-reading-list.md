@@ -421,6 +421,7 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [what is type-level programming](https://news.ycombinator.com/item?id=35784705)
 
+[The Haskell Unfolder Episode 2: quantified constraints](https://www.reddit.com/r/haskell/comments/136tahj/the_haskell_unfolder_episode_2_quantified/)
 
 
 

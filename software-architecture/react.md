@@ -824,5 +824,5 @@ https://react-query.tanstack.com/
 
 [don't read refs while rendering](https://twitter.com/TkDodo/status/1653418114531434498). [ref caveats](https://react.dev/reference/react/useRef#caveats)
 
-
+[RCS, unintuitive?](https://twitter.com/t3dotgg/status/1654565825620344832)
 

@@ -172,4 +172,8 @@
 
 [Continuous Code Review using Non-Blocking Reviews](https://hachyderm.io/@tdpauw@mastodon.social/110299247187056279)
 
+[partitioned tickets](https://news.ycombinator.com/item?id=35829733)
+
+> In the other a small ticket gets partitioned to two, three or more sub teams and productivity is usually reduced by a factor more than the concurrency you might get because of overhead with meetings, documentation, tickets that take 3 sprints to finish because subtasks that were one day late caused the team to lose a whole sprint, etc.
+
 

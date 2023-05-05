@@ -161,4 +161,6 @@
 
 [The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition)
 
+[Htmx Is the Future](https://news.ycombinator.com/item?id=35829733)
+
 

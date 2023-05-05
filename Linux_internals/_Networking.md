@@ -104,6 +104,6 @@
 
 > A cname record is a pointer that points to a fully qualified domain name(fqdn), an A Record is a pointer that points to an ip adress.
 
-
+[Learning DNS in 10 Years](https://twitter.com/b0rk/status/1654478221813882880)
 
 

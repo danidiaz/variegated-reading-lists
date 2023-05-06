@@ -359,4 +359,6 @@ VSCode quickfix != Code Lens actions
 
 [Somehow AutoHotKey is kinda good now](https://lobste.rs/s/hhcros/somehow_autohotkey_is_kinda_good_now)
 
+[MH's setup](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code)
+
 

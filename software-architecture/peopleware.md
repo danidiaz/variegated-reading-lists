@@ -176,4 +176,6 @@
 
 > In the other a small ticket gets partitioned to two, three or more sub teams and productivity is usually reduced by a factor more than the concurrency you might get because of overhead with meetings, documentation, tickets that take 3 sprints to finish because subtasks that were one day late caused the team to lose a whole sprint, etc.
 
+[impossible jobs](https://twitter.com/rakyll/status/1654499104779653120)
+
 

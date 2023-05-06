@@ -682,4 +682,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > the difference between times and durations or points and vectors 
 
+[value speculation in ocaml](https://twitter.com/kc_srk/status/1654745825464193024)
 

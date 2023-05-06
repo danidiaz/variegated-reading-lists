@@ -146,3 +146,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [advantages vs. Haskell](https://www.reddit.com/r/haskell/comments/134c1kt/comment/jiebdc0/)
 
+[sql tagged template](https://twitter.com/cramforce/status/1654569294620135424)
+
+

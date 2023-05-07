@@ -376,6 +376,6 @@ is not a problem)
 
 [Extending "De Bruijn Notation as a Nested Datatype" with Pattern Matching.](https://www.reddit.com/r/haskell/comments/132jxog/extending_de_bruijn_notation_as_a_nested_datatype/) similar to PHOAS?
 
-[traversals on phoas](https://www.reddit.com/r/haskell/comments/134c1kt/comment/jj4caab/)
+[traversals on phoas](https://www.reddit.com/r/haskell/comments/134c1kt/comment/jj4caab/). [SO question](https://stackoverflow.com/questions/74303027/how-to-safely-convert-named-syntax-to-phoas)
 
 

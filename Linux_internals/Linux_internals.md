@@ -197,5 +197,5 @@
 
 [How Does an Intel Processor Boot? (2018)](https://news.ycombinator.com/item?id=35598636)
 
-
+[The use of mmap for databases, can lead to TLB shootdowns](https://twitter.com/PeterVeentjer/status/1655060775726198786)
 

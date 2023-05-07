@@ -148,4 +148,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [sql tagged template](https://twitter.com/cramforce/status/1654569294620135424)
 
+[Avoid centralizing TypeScript types](https://twitter.com/housecor/status/1655188355569659908)
+
 

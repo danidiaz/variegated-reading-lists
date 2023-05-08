@@ -43,6 +43,8 @@
 
 [Cyber attacks set to become ‘uninsurable’](https://www.ft.com/content/63ea94fa-c6fc-449f-b2b8-ea29cc83637d)
 
+[ghost ships](https://logicmag.io/pivot/ghost-ships/)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

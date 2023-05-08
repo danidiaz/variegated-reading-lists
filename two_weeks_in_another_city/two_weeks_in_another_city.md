@@ -796,3 +796,4 @@ Bernini, his life and his Rome
 
 [seamless travel](https://twitter.com/Mike_Prinke/status/1654182479861784576)
 
+[space traders api game](https://lobste.rs/s/0l25al/spacetraders_api_based_game). [elite text adventure](https://lobste.rs/s/0l25al/spacetraders_api_based_game#c_zywpal)

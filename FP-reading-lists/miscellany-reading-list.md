@@ -684,3 +684,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [value speculation in ocaml](https://twitter.com/kc_srk/status/1654745825464193024)
 
+[Different approaches to HTTP routing in Go](https://benhoyt.com/writings/go-routing/)
+
+

@@ -252,4 +252,6 @@ Stuff about the heap:
 
 [Anonymous or large records with OverloadedRecordDot and OverloadedRecordUpdate](https://www.reddit.com/r/haskell/comments/11l3ks8/welltyped_blog_anonymous_or_large_records_with/)
 
+[backtrace proposal](https://github.com/ghc-proposals/ghc-proposals/pull/330)
+
 

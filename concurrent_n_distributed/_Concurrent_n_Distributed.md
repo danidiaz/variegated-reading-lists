@@ -705,3 +705,5 @@ https://news.ycombinator.com/item?id=25061901
 
 [The Inner Workings of Distributed Databases](https://questdb.io/blog/inner-workings-distributed-databases/)
 
+[An Introduction to TLA+ and Its Use in Parties](https://www.innoq.com/en/articles/2023/04/an-introduction-to-tla/)
+

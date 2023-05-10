@@ -842,3 +842,7 @@ interface ReactNodeArray extends Array<ReactNode> {}
 type ReactFragment = {} | ReactNodeArray;
 type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | undefined;
 ```
+
+> By default, boolean values don't render anything in React
+
+

@@ -686,4 +686,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Different approaches to HTTP routing in Go](https://benhoyt.com/writings/go-routing/)
 
+[data structures](https://news.ycombinator.com/item?id=35886900)
 

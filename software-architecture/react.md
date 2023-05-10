@@ -830,4 +830,6 @@ https://react-query.tanstack.com/
 
 [JSX.Element vs React.ReactNode](https://twitter.com/mattpocockuk/status/1656285685987377152)
 
+> ReactNode should be your default choice. But often you'll see components being inferred as (props) => JSX.Element
+
 

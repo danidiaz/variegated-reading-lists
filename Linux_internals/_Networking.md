@@ -106,4 +106,6 @@
 
 [Learning DNS in 10 Years](https://twitter.com/b0rk/status/1654478221813882880)
 
+[See this page fetch itself, byte by byte, over TLS](https://news.ycombinator.com/item?id=35884437)
+
 

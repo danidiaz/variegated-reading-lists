@@ -688,3 +688,9 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [data structures](https://news.ycombinator.com/item?id=35886900)
 
+[Understanding ActivityPub](https://lobste.rs/s/2bmlmz/understanding_activitypub).
+
+[project generators](https://news.ycombinator.com/item?id=35887766)
+
+
+

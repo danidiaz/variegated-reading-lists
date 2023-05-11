@@ -707,3 +707,5 @@ https://news.ycombinator.com/item?id=25061901
 
 [An Introduction to TLA+ and Its Use in Parties](https://www.innoq.com/en/articles/2023/04/an-introduction-to-tla/)
 
+[Open and Closed, Omission and Collapse](https://brooker.co.za/blog/2023/05/10/open-closed.html)
+

@@ -678,4 +678,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [passkeys](https://lobste.rs/s/xcubfv/passkeys_beginning_end_password). [HN](https://news.ycombinator.com/item?id=35801392). 
 
+[webauthn in MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API). [tweet](https://twitter.com/chrisdavidmills/status/1656175900042440704).
+
 

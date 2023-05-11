@@ -369,4 +369,6 @@ VSCode quickfix != Code Lens actions
 
 > Just do git reset --soft HEAD^. It moves the HEAD pointer to its parent but keeps the work tree and adds the merge change to the index. So you can continue rebasing with git rebase --continue as before.
 
+[How do contents of git index evolve during a merge (and what's in the index after a failed merge)?](https://stackoverflow.com/questions/21309490/how-do-contents-of-git-index-evolve-during-a-merge-and-whats-in-the-index-afte)
+
 

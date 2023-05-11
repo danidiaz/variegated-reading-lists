@@ -1014,3 +1014,6 @@ get all equalities
 
 [The Quantum Effect: A Recipe for QuantumΠ](https://arxiv.org/pdf/2302.01885.pdf)
 
+[traces](https://twitter.com/adamnemecek1/status/1656707972389822467)
+
+

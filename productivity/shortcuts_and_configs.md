@@ -373,4 +373,8 @@ VSCode quickfix != Code Lens actions
 
 > For any given path, there are up to four "version numbers" in the index, numbered 0 (zero) through 3. I'll call them "slots" as if they were actually there for every entry, and then easily indexed (this makes them easier to think about), although actually extra versions are introduced dynamically only when needed. These "virtual slots" can be "empty", meaning the file does not exist. [...] Slot #0 is the "normal", un-conflicted, all-is-well entry. It contains a bunch of cache data, the path name, and the blob-ID (the SHA-1) for the file stored in the repository.
 
+> Once you resolve the conflict and "git add", the #0 slot gets filled in with whatever you "add", wiping out the entries in #1 through #3—or, if you "git rm" the conflicted file, the other stage entries are still removed, but now the #0 slot remains empty, which also resolves the conflict.
+
+> I should also note that git checkout -m will "re-create" a merge conflict, if you're in the middle of a conflicted merge, by erasing slot 0 and "resurrecting" the versions in slots 1-3 as needed (and writing the conflicted merge file to the working directory, obeying any change in your merge.conflictstyle setting as well).
+
 

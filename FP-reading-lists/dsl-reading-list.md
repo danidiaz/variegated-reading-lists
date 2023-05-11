@@ -573,6 +573,7 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [musings on DSL languages](https://www.reddit.com/r/haskell/comments/12loreg/crem_compositional_representable_executable/)
 
+[Java DSL trick: static methods within lambdas](https://javalin.io/blog/static-methods-within-lambdas). [example DSL](https://twitter.com/helpermethod/status/1656546416871759873).
 
 
 

@@ -371,4 +371,6 @@ VSCode quickfix != Code Lens actions
 
 [How do contents of git index evolve during a merge (and what's in the index after a failed merge)?](https://stackoverflow.com/questions/21309490/how-do-contents-of-git-index-evolve-during-a-merge-and-whats-in-the-index-afte)
 
+> For any given path, there are up to four "version numbers" in the index, numbered 0 (zero) through 3. I'll call them "slots" as if they were actually there for every entry, and then easily indexed (this makes them easier to think about), although actually extra versions are introduced dynamically only when needed. These "virtual slots" can be "empty", meaning the file does not exist. [...] Slot #0 is the "normal", un-conflicted, all-is-well entry. It contains a bunch of cache data, the path name, and the blob-ID (the SHA-1) for the file stored in the repository.
+
 

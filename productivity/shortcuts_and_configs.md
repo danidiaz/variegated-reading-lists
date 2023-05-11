@@ -375,6 +375,7 @@ VSCode quickfix != Code Lens actions
 
 > Once you resolve the conflict and "git add", the #0 slot gets filled in with whatever you "add", wiping out the entries in #1 through #3—or, if you "git rm" the conflicted file, the other stage entries are still removed, but now the #0 slot remains empty, which also resolves the conflict.
 
-> I should also note that git checkout -m will "re-create" a merge conflict, if you're in the middle of a conflicted merge, by erasing slot 0 and "resurrecting" the versions in slots 1-3 as needed (and writing the conflicted merge file to the working directory, obeying any change in your merge.conflictstyle setting as well).
+> [me] During a #git merge conflict, it's the "git add" what removes the slots 1-through-3 from the index, and fills slot 0 for the added file.
 
+> I should also note that git checkout -m will "re-create" a merge conflict, if you're in the middle of a conflicted merge, by erasing slot 0 and "resurrecting" the versions in slots 1-3 as needed (and writing the conflicted merge file to the working directory, obeying any change in your merge.conflictstyle setting as well).
 

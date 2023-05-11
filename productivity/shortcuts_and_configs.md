@@ -361,4 +361,12 @@ VSCode quickfix != Code Lens actions
 
 [MH's setup](https://lobste.rs/s/wucxh0/mitchell_hashimoto_uses_simple_code)
 
+[Split a commit in two with Git](https://emmanuelbernard.com/blog/2014/04/14/split-a-commit-in-two-with-git/). [docs](https://git-scm.com/docs/git-rebase#_splitting_commits)
+
+> In interactive mode, you can mark commits with the action "edit". However, this does not necessarily mean that git rebase expects the result of this edit to be exactly one commit. Indeed, you can undo the commit, or you can add other commits. This can be used to split a commit into two:
+
+[Forgot "git rebase --continue" and did "git commit". How to fix?](https://stackoverflow.com/questions/6457044/forgot-git-rebase-continue-and-did-git-commit-how-to-fix)
+
+> Just do git reset --soft HEAD^. It moves the HEAD pointer to its parent but keeps the work tree and adds the merge change to the index. So you can continue rebasing with git rebase --continue as before.
+
 

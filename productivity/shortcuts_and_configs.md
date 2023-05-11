@@ -379,3 +379,5 @@ VSCode quickfix != Code Lens actions
 
 > I should also note that git checkout -m will "re-create" a merge conflict, if you're in the middle of a conflicted merge, by erasing slot 0 and "resurrecting" the versions in slots 1-3 as needed (and writing the conflicted merge file to the working directory, obeying any change in your merge.conflictstyle setting as well).
 
+[good explanation of the motivation for git interactive rebase](https://git-scm.com/docs/git-rebase#_interactive_mode)
+

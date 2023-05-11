@@ -753,6 +753,8 @@ Bernini, his life and his Rome
 
 [run like a lunatic](https://twitter.com/nomanautomata/status/1624977671750049793)
 
+["autocut" technique in Ink](https://twitter.com/joningold/status/1656575929903198208). [page](https://www.inklestudios.com/highland/2023/05/11/autocut-for-responsive.html). [mastodon](https://hachyderm.io/@joningold@mastodon.gamedev.place/110349076274050325)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)
@@ -797,3 +799,4 @@ Bernini, his life and his Rome
 [seamless travel](https://twitter.com/Mike_Prinke/status/1654182479861784576)
 
 [space traders api game](https://lobste.rs/s/0l25al/spacetraders_api_based_game). [elite text adventure](https://lobste.rs/s/0l25al/spacetraders_api_based_game#c_zywpal)
+

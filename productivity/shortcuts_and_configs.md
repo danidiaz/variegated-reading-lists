@@ -365,6 +365,10 @@ VSCode quickfix != Code Lens actions
 
 > In interactive mode, you can mark commits with the action "edit". However, this does not necessarily mean that git rebase expects the result of this edit to be exactly one commit. Indeed, you can undo the commit, or you can add other commits. This can be used to split a commit into two:
 
+> The explained method is good if you want to split a commit in 2 or more new commits. Often one only wants to extract some of the edits but maintain the whole commit more or less like it is. In that case Instead of calling git reset HEAD^ which will unstage the whole index, you can use git reset --soft HEAD^. So the commit will be opened but the files will stay in indexed. It is then possible to unstage selected files with git reset HEAD file... or even better, you can selectively unstage at the patch level with git reset -p HEAD file... (the symetric of git add -p). A git commit -c ORIG_HEAD will commit using the original message which only needs to be edited. That command can be used several times during that edit of the rebase.
+
+> Thanks for the hint about 'git commit -c'. However, I think that when you are stopped in the middle of an (interactive) rebase, you need to specify 'REBASE_HEAD' instead of 'ORIG_HEAD' to use the commit message of the commit you are currently editing.
+
 [Forgot "git rebase --continue" and did "git commit". How to fix?](https://stackoverflow.com/questions/6457044/forgot-git-rebase-continue-and-did-git-commit-how-to-fix)
 
 > Just do git reset --soft HEAD^. It moves the HEAD pointer to its parent but keeps the work tree and adds the merge change to the index. So you can continue rebasing with git rebase --continue as before.
@@ -380,4 +384,7 @@ VSCode quickfix != Code Lens actions
 > I should also note that git checkout -m will "re-create" a merge conflict, if you're in the middle of a conflicted merge, by erasing slot 0 and "resurrecting" the versions in slots 1-3 as needed (and writing the conflicted merge file to the working directory, obeying any change in your merge.conflictstyle setting as well).
 
 [good explanation of the motivation for git interactive rebase](https://git-scm.com/docs/git-rebase#_interactive_mode)
+
+[YouTube shortcuts](https://www.howtogeek.com/243362/solve-youtubes-spacebar-problem-with-these-keyboard-shortcuts/)
+
 

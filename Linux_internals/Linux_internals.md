@@ -199,3 +199,5 @@
 
 [The use of mmap for databases, can lead to TLB shootdowns](https://twitter.com/PeterVeentjer/status/1655060775726198786)
 
+[linux fault injection tools](https://twitter.com/eatonphil/status/1657192644114632705)
+

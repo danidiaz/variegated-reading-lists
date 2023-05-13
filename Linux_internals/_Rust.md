@@ -154,5 +154,7 @@
 
 [modular errors in Rust](https://sabrinajewson.org/blog/errors). [thiserror](https://lobste.rs/s/f61udz/modular_errors_with_rust_s_thiserror)
 
+[iterator, generator](https://without.boats/blog/iterator-generator/)
+
 
 

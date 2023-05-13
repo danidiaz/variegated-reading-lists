@@ -389,6 +389,11 @@ VSCode quickfix != Code Lens actions
 
 > Slot zero is left empty (you can't "commit" until you resolve the conflict, by which time this slot won't be empty anymore unless you really want the file to be removed).
 
+[slots are called stage numbers in the official git docs](https://git-scm.com/docs/gitrevisions#Documentation/gitrevisions.txt-emltngtltpathgtemegem0READMEememREADMEem)
+
+> :[<n>:]<path>, e.g. :0:README, :README
+A colon, optionally followed by a stage number (0 to 3) and a colon, followed by a path, names a blob object in the index at the given path. A missing stage number (and the colon that follows it) names a stage 0 entry. During a merge, stage 1 is the common ancestor, stage 2 is the target branch’s version (typically the current branch), and stage 3 is the version from the branch which is being merged.
+
 [good explanation of the motivation for git interactive rebase](https://git-scm.com/docs/git-rebase#_interactive_mode)
 
 [YouTube shortcuts](https://www.howtogeek.com/243362/solve-youtubes-spacebar-problem-with-these-keyboard-shortcuts/)

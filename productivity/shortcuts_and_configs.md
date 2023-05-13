@@ -387,8 +387,9 @@ VSCode quickfix != Code Lens actions
 
 > The copy of that same file from the merge base goes into slot 1. The copy of that same file from the other commit—the one you're merging—goes into slot 3 (--theirs). Git attempts to combine all three copies, and if Git succeeds on its own, Git puts the combined version in slot zero (and copies it out to the work-tree) and empties out the merge slots. If Git fails, it leaves the merge slots occupied, with slot zero empty.
 
+> Slot zero is left empty (you can't "commit" until you resolve the conflict, by which time this slot won't be empty anymore unless you really want the file to be removed).
+
 [good explanation of the motivation for git interactive rebase](https://git-scm.com/docs/git-rebase#_interactive_mode)
 
 [YouTube shortcuts](https://www.howtogeek.com/243362/solve-youtubes-spacebar-problem-with-these-keyboard-shortcuts/)
-
 

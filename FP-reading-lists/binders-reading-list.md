@@ -378,4 +378,6 @@ is not a problem)
 
 [traversals on phoas](https://www.reddit.com/r/haskell/comments/134c1kt/comment/jj4caab/). [SO question](https://stackoverflow.com/questions/74303027/how-to-safely-convert-named-syntax-to-phoas)
 
+[explanation of bound](https://functor.tokyo/blog/2023-05-11-bound)
+
 

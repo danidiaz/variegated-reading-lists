@@ -324,4 +324,6 @@ Identity, Parametrically](https://jesper.sikanda.be/files/leibniz-equality.pdf)
 
 [It doesn't seem to be possible, in ---safe Agda, to define the eliminator of this type](https://hachyderm.io/@MartinEscardo@mathstodon.xyz/110232990050827650)
 
+[opaque definitions](https://agda.readthedocs.io/en/latest/language/opaque-definitions.html)
+
 

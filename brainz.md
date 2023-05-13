@@ -125,4 +125,6 @@ Things to try:
 
 [role switching](https://twitter.com/lcamtuf/status/1652136156207923200)
 
+[copilot chat leaked prompt](https://news.ycombinator.com/item?id=35921375)
+
 

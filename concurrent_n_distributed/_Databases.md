@@ -890,6 +890,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Building a streaming incremental view maintenance engine with Calcite](https://www.youtube.com/watch?v=iT4k5DCnvPU)
 
+[I stopped worrying and learned to love denormalized tables](https://news.ycombinator.com/item?id=35924259)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)
@@ -905,3 +907,4 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 # Books
 
 [Foundations of Databases A book published by Addison Wesley](http://webdam.inria.fr/Alice/)
+

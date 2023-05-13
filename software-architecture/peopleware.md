@@ -178,4 +178,6 @@
 
 [impossible jobs](https://twitter.com/rakyll/status/1654499104779653120)
 
+[teaching math](https://news.ycombinator.com/item?id=35916967)
+
 

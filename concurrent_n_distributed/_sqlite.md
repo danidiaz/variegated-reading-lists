@@ -35,4 +35,6 @@
 
 [Data analysis with SQLite and Python](https://twitter.com/simonw/status/1649100818841501696)
 
+[why sqlite in Epic Stack](https://twitter.com/kentcdodds/status/1657417017069277186)
+
 

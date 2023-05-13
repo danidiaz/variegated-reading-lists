@@ -127,4 +127,5 @@ Things to try:
 
 [copilot chat leaked prompt](https://news.ycombinator.com/item?id=35921375)
 
+[bard and json](https://twitter.com/goodside/status/1657396491676164096)
 

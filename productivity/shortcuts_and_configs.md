@@ -398,6 +398,6 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [YouTube shortcuts](https://www.howtogeek.com/243362/solve-youtubes-spacebar-problem-with-these-keyboard-shortcuts/)
 
-[pbcopy, pbpaste, and other macos commandline goodies](https://news.ycombinator.com/item?id=35937763)
+[pbcopy, pbpaste, and other macos commandline goodies](https://news.ycombinator.com/item?id=35937763). [one list](https://ss64.com/osx/)
 
 

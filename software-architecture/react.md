@@ -845,4 +845,8 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 > By default, boolean values don't render anything in React
 
+[useEffect without cleanup](https://twitter.com/jacobmparis/status/1657381743433863170)
+
+[react, ifs, style](https://twitter.com/dan_abramov/status/1657589889070710785)
+
 

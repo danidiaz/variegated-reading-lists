@@ -1311,3 +1311,10 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Scaling up the Prime Video audio/video monitoring service and reducing costs](https://news.ycombinator.com/item?id=35811741)
 
+[uuids, ulids, and idempotency at shopify](https://twitter.com/hnasr/status/1657569218609684480)
+
+> When you make a purchase, Shopify guarantees idempotency by having the client uniquely tagging the request using UUID. If you accidentally replay the request and they check if the request exist or not and no-op. 
+
+[repositories & actually switching databases](https://twitter.com/davidfowl/status/1657418789288579073)
+
+

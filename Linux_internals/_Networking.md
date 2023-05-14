@@ -108,4 +108,6 @@
 
 [See this page fetch itself, byte by byte, over TLS](https://news.ycombinator.com/item?id=35884437)
 
+[k8s networking tweet](https://twitter.com/davidfowl/status/1657533910551756800)
+
 

@@ -579,3 +579,6 @@ https://twitter.com/tailwindcss
 
 [css hamburger menu](https://lobste.rs/s/kzdsfz/how_make_css_only_hamburger_menu)
 
+[What's new in web animations](https://twitter.com/bramus/status/1658745903790936064)
+
+

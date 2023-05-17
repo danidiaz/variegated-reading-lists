@@ -1317,4 +1317,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [repositories & actually switching databases](https://twitter.com/davidfowl/status/1657418789288579073)
 
+[very large javascript applications](https://twitter.com/cramforce/status/1658775915353047042)
+
 

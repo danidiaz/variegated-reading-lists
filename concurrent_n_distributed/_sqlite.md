@@ -37,4 +37,6 @@
 
 [why sqlite in Epic Stack](https://twitter.com/kentcdodds/status/1657417017069277186)
 
+[Code Generator for SQLite](https://news.ycombinator.com/item?id=35981828)
+
 

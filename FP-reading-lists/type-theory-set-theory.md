@@ -317,6 +317,8 @@ a helpful degree of extra comfort.
 
 [controlling unfolding in type theory](https://jozefg.github.io/papers/2023-wg6-slides.pdf)
 
+[the inductive revolution](https://www.youtube.com/watch?v=BCM8byFeyzY). [tweet](https://twitter.com/mattecapu/status/1659244660630470657)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

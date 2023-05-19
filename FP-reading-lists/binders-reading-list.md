@@ -380,4 +380,10 @@ is not a problem)
 
 [explanation of bound](https://functor.tokyo/blog/2023-05-11-bound)
 
+[agda abts](https://twitter.com/jeremysiek/status/1659303155845177348). [repo](https://github.com/jsiek/abstract-binding-trees/blob/master/src/rewriting/examples/SystemF.agda).
+
+
+
+
+
 

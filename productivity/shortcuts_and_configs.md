@@ -400,4 +400,7 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [pbcopy, pbpaste, and other macos commandline goodies](https://news.ycombinator.com/item?id=35937763). [one list](https://ss64.com/osx/)
 
+[umask instead of chmod](https://twitter.com/GabriellaG439/status/1659360924074151936)
+
+
 

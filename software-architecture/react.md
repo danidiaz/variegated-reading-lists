@@ -851,4 +851,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [react from another dimension](https://twitter.com/vimtor_/status/1657416410514194434)
 
+[react islands](https://twitter.com/dan_abramov/status/1659599923266961420)
+
 

@@ -1321,4 +1321,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [design for copypaste](https://twitter.com/dan_abramov/status/1659348147150245889)
 
+[start with vertical slice](https://twitter.com/BajoranEngineer/status/1659603296217096194)
+
+[yet again hexagonal](https://twitter.com/TotherAlistair/status/1659603989938204672)
+
 

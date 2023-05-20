@@ -180,4 +180,6 @@
 
 [teaching math](https://news.ycombinator.com/item?id=35916967)
 
+[lol beauty](https://twitter.com/SusanPotter/status/1659770602327089155)
+
 

@@ -853,4 +853,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [react islands](https://twitter.com/dan_abramov/status/1659599923266961420). [additive and composable](https://twitter.com/dan_abramov/status/1659634041153368065).
 
+[you might not need react query](https://twitter.com/TkDodo/status/1659908975502950405)
+
 

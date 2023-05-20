@@ -575,5 +575,7 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [Java DSL trick: static methods within lambdas](https://javalin.io/blog/static-methods-within-lambdas). [example DSL](https://twitter.com/helpermethod/status/1656546416871759873).
 
+[convert linear subset of the haskell to any DSL that is also a symmetric monoidal category](https://www.reddit.com/r/haskell/comments/13mit4v/code_generation_with_haskell_itself_as_the_dsl/)
+
 
 

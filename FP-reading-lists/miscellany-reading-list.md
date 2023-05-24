@@ -692,5 +692,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [project generators](https://news.ycombinator.com/item?id=35887766)
 
+[A Syntax for Composable Data Types in Haskell A User-friendly Syntax for Solving the Expression Problem](https://odr.chalmers.se/server/api/core/bitstreams/0c2c734a-fe68-4249-bfe9-20c2d670b7db/content)
+
 
 

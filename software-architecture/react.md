@@ -857,4 +857,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Radix + react-hook-form](https://twitter.com/jhooks/status/1659655528451284992)
 
+[You don't have to go through the hoops of creating endpoints, adding fetch logic, etc...](https://twitter.com/CompuIves/status/1660660884534902784)
+
 

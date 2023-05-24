@@ -163,4 +163,6 @@
 
 [Htmx Is the Future](https://news.ycombinator.com/item?id=35829733)
 
+[You don't need a modal window](https://youdontneedamodalwindow.dev/)
+
 

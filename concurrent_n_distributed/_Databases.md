@@ -892,6 +892,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [I stopped worrying and learned to love denormalized tables](https://news.ycombinator.com/item?id=35924259)
 
+[continuous data quality monitoring](https://www.lariatdata.com/blog/continuous-data-quality-athena)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

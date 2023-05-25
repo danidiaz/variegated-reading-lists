@@ -694,5 +694,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [A Syntax for Composable Data Types in Haskell A User-friendly Syntax for Solving the Expression Problem](https://odr.chalmers.se/server/api/core/bitstreams/0c2c734a-fe68-4249-bfe9-20c2d670b7db/content)
 
+[streamly and streamly-core](https://www.reddit.com/r/haskell/comments/13rhgnj/ann_haskell_streamly_090_release/)
+
 
 

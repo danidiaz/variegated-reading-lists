@@ -165,4 +165,6 @@
 
 [You don't need a modal window](https://youdontneedamodalwindow.dev/)
 
+[more about htmx](https://news.ycombinator.com/item?id=36078709)
+
 

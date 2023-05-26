@@ -131,4 +131,6 @@ Things to try:
 
 [second pair of eyes](https://twitter.com/JoshDesignNz/status/1657687559651340288)
 
+[The Silent (R)evolution of SAT](https://news.ycombinator.com/item?id=36079115)
+
 

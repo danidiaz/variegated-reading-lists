@@ -313,4 +313,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [job queues](https://twitter.com/gwenshap/status/1652018783404576768)
 
+[understanding postgresql indexes](https://blog.mastermind.dev/indexes-in-postgresql)
+
 

@@ -167,4 +167,6 @@
 
 [more about htmx](https://news.ycombinator.com/item?id=36078709)
 
+[wireframes](https://twitter.com/andybudd/status/1661981838221385729)
+
 

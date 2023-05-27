@@ -457,6 +457,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [proof phenomenology](https://twitter.com/TaliaRinger/status/1651318684248309761)
 
+[A Road to Lambda: E-graphs are Ground Completion](https://www.philipzucker.com/egraph-ground-rewrite/). [tweet](https://twitter.com/SandMouth/status/1660498110907396096).
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

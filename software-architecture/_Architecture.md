@@ -1325,4 +1325,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [yet again hexagonal](https://twitter.com/TotherAlistair/status/1659603989938204672)
 
+[dependency composition](https://martinfowler.com/articles/dependency-composition.html)
+
 

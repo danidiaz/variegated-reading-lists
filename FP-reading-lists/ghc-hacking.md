@@ -256,4 +256,7 @@ Stuff about the heap:
 
 [backtrace proposal](https://github.com/ghc-proposals/ghc-proposals/pull/330)
 
+[module-level build parallelism (-j) in #GHC vs package-level build parallelism  (-j) in #Cabal](https://discourse.haskell.org/t/ghcs-j-n-flag-useful-enough-to-be-a-default/6333/3)
+
+> passing -j4 —ghc-option=-j4 to cabal can lead to 16 modules being compiled at the same time
 

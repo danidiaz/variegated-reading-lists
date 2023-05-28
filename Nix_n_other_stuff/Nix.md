@@ -1021,4 +1021,6 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 
 [ruby-nix](https://github.com/sagittaros/ruby-nix)
 
+[Nix why-depends](https://twitter.com/ProgrammerDude/status/1662744672811319297)
+
 

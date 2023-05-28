@@ -696,5 +696,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [streamly and streamly-core](https://www.reddit.com/r/haskell/comments/13rhgnj/ann_haskell_streamly_090_release/)
 
+[HasChor: Functional Choreographic Programming for All](https://hachyderm.io/@lindsey@recurse.social/110396194946244415). [pearl](https://arxiv.org/abs/2303.00924).
+
 
 

@@ -859,4 +859,8 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [You don't have to go through the hoops of creating endpoints, adding fetch logic, etc...](https://twitter.com/CompuIves/status/1660660884534902784)
 
+[the compound component React pattern](https://twitter.com/kyleshevlin/status/1663579666278645761)
+
+[rsc & the container component pattern](https://twitter.com/dan_abramov/status/1663726883341586432)
+
 

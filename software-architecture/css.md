@@ -581,4 +581,6 @@ https://twitter.com/tailwindcss
 
 [What's new in web animations](https://twitter.com/bramus/status/1658745903790936064)
 
+[css patterns](https://twitter.com/KevinJPowell/status/1663894459090649089)
+
 

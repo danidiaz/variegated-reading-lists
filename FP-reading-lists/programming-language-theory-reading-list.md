@@ -827,6 +827,8 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [Seventy Years Using Fixed Points](https://twitter.com/ToposInstitute/status/1641189744578031616)
 
+[lower your guards](https://twitter.com/Innf107/status/1663922920370913283)
+
 ## ICFP’22 
 
 [playlist](https://discourse.haskell.org/t/the-icfp22-playlist-has-been-published-to-youtube/5138)

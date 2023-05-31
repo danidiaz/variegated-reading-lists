@@ -1016,4 +1016,6 @@ get all equalities
 
 [traces](https://twitter.com/adamnemecek1/status/1656707972389822467)
 
+[diagrams of programming languages, hypergraphs](https://twitter.com/_julesh_/status/1663891397106192389)
+
 

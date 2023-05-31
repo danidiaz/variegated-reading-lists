@@ -698,5 +698,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [HasChor: Functional Choreographic Programming for All](https://hachyderm.io/@lindsey@recurse.social/110396194946244415). [pearl](https://arxiv.org/abs/2303.00924).
 
+[strictly local union-find](https://twitter.com/decodoku/status/1663864886764380161)
+
 
 

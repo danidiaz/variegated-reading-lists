@@ -894,6 +894,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [continuous data quality monitoring](https://www.lariatdata.com/blog/continuous-data-quality-athena)
 
+[Broken database migrations: How we finally fixed an embarrassing problem](https://about.sourcegraph.com/blog/introducing-migrator-service)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

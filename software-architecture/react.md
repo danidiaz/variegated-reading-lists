@@ -861,6 +861,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [the compound component React pattern](https://twitter.com/kyleshevlin/status/1663579666278645761)
 
-[rsc & the container component pattern](https://twitter.com/dan_abramov/status/1663726883341586432)
+[rsc & the container component pattern](https://twitter.com/dan_abramov/status/1663726883341586432). [concerns](https://twitter.com/ryanflorence/status/1663698112274403328)
 
 

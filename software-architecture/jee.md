@@ -349,3 +349,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 > As to 1 million threads, the assumption is that if you have 1 million threads they won’t be serving 1M concurrent single-threaded transactions (unless you have the requirements and therefore resources to do that), but rather, you’d have something like 100K concurrent transactions, each served by one “deep stack thread” plus, say, 9 more “shallow” threads doing subtasks like outgoing microservice calls.
 
+[@JobRunr - perhaps the best implementation of job scheduler. ](https://twitter.com/maciejwalkowiak/status/1664295458099871745)
+
+

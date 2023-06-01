@@ -230,6 +230,8 @@
 
 [uniplate is a traversal](https://www.reddit.com/r/haskell/comments/ylrab9/uniplate_is_a_traversal/)
 
+[indexed recursion schemes](https://www.reddit.com/r/haskell/comments/13vv6ns/indexed_recursion_schemes_or_finding_your_way/)
+
 ## videos
 
 [Unifying Structured Recursion Schemes](https://www.youtube.com/watch?v=9EGYSb9vov8)

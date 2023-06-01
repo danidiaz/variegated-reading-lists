@@ -1327,4 +1327,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [dependency composition](https://martinfowler.com/articles/dependency-composition.html)
 
+[background jobs, in-server?](https://twitter.com/kentcdodds/status/1664367910465466369)
+
 

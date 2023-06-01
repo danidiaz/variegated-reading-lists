@@ -186,4 +186,6 @@
 
 [reinventing the wheel](https://twitter.com/mikenikles/status/1662477931287814146)
 
+[how [Mitchell Hashimoto] approach large software projects](https://twitter.com/mitchellh/status/1664355768077000704). [blog](https://mitchellh.com/writing/building-large-technical-projects).
+
 

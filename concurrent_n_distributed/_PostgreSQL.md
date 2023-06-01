@@ -315,4 +315,5 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [understanding postgresql indexes](https://blog.mastermind.dev/indexes-in-postgresql)
 
+[postgres concurrency](https://dev.to/yet_anotherdev/series/23077)
 

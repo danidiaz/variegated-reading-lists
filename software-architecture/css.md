@@ -583,4 +583,6 @@ https://twitter.com/tailwindcss
 
 [css patterns](https://twitter.com/KevinJPowell/status/1663894459090649089)
 
+[Tailwind merge](https://www.youtube.com/watch?v=tfgLd5ZSNPc)
+
 

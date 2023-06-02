@@ -133,4 +133,6 @@ Things to try:
 
 [The Silent (R)evolution of SAT](https://news.ycombinator.com/item?id=36079115)
 
+[positional encoding in transformers](https://twitter.com/moultano/status/1664691765624840193)
+
 

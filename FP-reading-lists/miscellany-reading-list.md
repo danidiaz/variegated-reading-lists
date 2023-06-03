@@ -700,5 +700,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [strictly local union-find](https://twitter.com/decodoku/status/1663864886764380161)
 
+[Dynamic programming in Haskell: lazy immutable arrays](https://byorgey.wordpress.com/2023/06/02/dynamic-programming-in-haskell-lazy-immutable-arrays/)
+
 
 

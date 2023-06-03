@@ -260,3 +260,8 @@ Stuff about the heap:
 
 > passing -j4 —ghc-option=-j4 to cabal can lead to 16 modules being compiled at the same time
 
+[TESTING CONTROL-FLOW TRANSLATIONS IN GHC](https://www.tweag.io/blog/2023-06-01-translation-testing/)
+
+> Cmm’s control flow is expressed through unconditional branches, conditional branches, and Switch. WebAssembly’s control flow is expressed through multiple syntactic forms: blocks, if statements, loop statements, return, and some multipurpose br forms. 
+
+

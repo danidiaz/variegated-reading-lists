@@ -385,4 +385,5 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Effective Test Automation Approaches for Modern CI/CD Pipelines](https://www.infoq.com/articles/test-automation-ci-cd/)
 
+[triggers](https://twitter.com/MaxTagher/status/1664723308691038209)
 

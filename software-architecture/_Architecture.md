@@ -1329,4 +1329,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [background jobs, in-server?](https://twitter.com/kentcdodds/status/1664367910465466369). [Java JobRunr](https://twitter.com/maciejwalkowiak/status/1664295458099871745)
 
+[Building a b2b SaaS product is 95% forms and background jobs so get really fucking good at those](https://twitter.com/_swanson/status/1664797358301798400)
+
 

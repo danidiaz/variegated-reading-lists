@@ -135,4 +135,6 @@ Things to try:
 
 [positional encoding in transformers](https://twitter.com/moultano/status/1664691765624840193)
 
+[Chain-of-Thought Prompting](https://twitter.com/bohang_zhang/status/1664695084875501579)
+
 

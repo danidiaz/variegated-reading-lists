@@ -702,5 +702,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Dynamic programming in Haskell: lazy immutable arrays](https://byorgey.wordpress.com/2023/06/02/dynamic-programming-in-haskell-lazy-immutable-arrays/)
 
+> While mutable arrays occasionally have their place, we can surprisingly often get away with immutable arrays, where we completely define the array up front and then only use it for fast lookups afterwards.
 
 

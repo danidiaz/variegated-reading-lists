@@ -1331,4 +1331,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Building a b2b SaaS product is 95% forms and background jobs so get really fucking good at those](https://twitter.com/_swanson/status/1664797358301798400)
 
+[Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 

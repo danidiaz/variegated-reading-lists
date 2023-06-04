@@ -188,4 +188,6 @@
 
 [how [Mitchell Hashimoto] approach large software projects](https://twitter.com/mitchellh/status/1664355768077000704). [blog](https://mitchellh.com/writing/building-large-technical-projects).
 
+[There are few ways to write software well](https://twitter.com/housecor/status/1665363325625008132)
+
 

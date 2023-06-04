@@ -150,4 +150,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Avoid centralizing TypeScript types](https://twitter.com/housecor/status/1655188355569659908)
 
+[Unleashing the Power of Conditional Types in TypeScript](https://www.susanpotter.net/software/unleashing-the-power-of-conditional-types-in-typescript/)
+
 

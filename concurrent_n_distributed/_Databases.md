@@ -896,6 +896,10 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Broken database migrations: How we finally fixed an embarrassing problem](https://about.sourcegraph.com/blog/introducing-migrator-service)
 
+[data cleaning](https://twitter.com/besttrousers/status/1665112336082821121). [tweet](https://twitter.com/BuddyYakov/status/1665169166297620482). [tweet](https://twitter.com/grapesmoker/status/1665175045189058560).
+
+> Lots of folks are under the impression that most data is scrapable. It just ain't so.
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

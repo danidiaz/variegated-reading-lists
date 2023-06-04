@@ -1018,4 +1018,6 @@ get all equalities
 
 [diagrams of programming languages, hypergraphs](https://twitter.com/_julesh_/status/1663891397106192389)
 
+[Why presheaves? (Episode #1) Diagrams, actions, and representability](https://www.youtube.com/watch?v=CY21lm4DfJE)
+
 

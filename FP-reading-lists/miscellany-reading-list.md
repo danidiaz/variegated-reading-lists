@@ -704,4 +704,9 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > While mutable arrays occasionally have their place, we can surprisingly often get away with immutable arrays, where we completely define the array up front and then only use it for fast lookups afterwards.
 
+[types for control operators](https://www.ccs.neu.edu/home/amal/course/7480-s12/delim-control-notes.pdf)
+
+[How Photoshop solved working with files larger than can fit into memory](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/). 
+
+
 

@@ -156,5 +156,7 @@
 
 [iterator, generator](https://without.boats/blog/iterator-generator/)
 
+[the Rust I wanted had no future](https://news.ycombinator.com/item?id=36193326)
+
 
 

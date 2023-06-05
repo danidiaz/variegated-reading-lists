@@ -317,3 +317,15 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [postgres concurrency](https://dev.to/yet_anotherdev/series/23077)
 
+[Postgres Repeatable Read vs Serializable](https://dba.stackexchange.com/questions/284744/postgres-repeatable-read-vs-serializable). [Deeply understand Isolation levels and Read phenomena in MySQL & PostgreSQL](https://dev.to/techschoolguru/understand-isolation-levels-read-phenomena-in-mysql-postgres-c2e). [serialization anomaly](https://dev.to/techschoolguru/understand-isolation-levels-read-phenomena-in-mysql-postgres-c2e#serialization-anomaly-in-postgres). [Understanding Database isolation level via examples — MySQL and Postgres](https://amirsoleimani.medium.com/understanding-database-isolation-level-via-examples-mysql-and-postgres-a86b5502d404). [In Postgres, is there a need to lock a row in a table using FOR UPDATE if the query is contained in a transaction with serializable isolation level?](https://stackoverflow.com/questions/75761088/in-postgres-is-there-a-need-to-lock-a-row-in-a-table-using-for-update-if-the-qu). [TRANSACTION ANOMALIES WITH SELECT FOR UPDATE](https://www.cybertec-postgresql.com/en/transaction-anomalies-with-select-for-update/). [Postgres's serializable transaction blocks concurrent write](https://stackoverflow.com/questions/50745282/postgress-serializable-transaction-blocks-concurrent-write). [](). [Canceled on identification as a pivot](https://stackoverflow.com/questions/69015476/what-does-canceled-on-identification-as-a-pivot-mean). [Unexpected failure in transactions with isolation level serializable](https://dba.stackexchange.com/questions/156645/unexpected-failure-in-transactions-with-isolation-level-serializable).
+
+[SI vs. SSI](https://wiki.postgresql.org/wiki/SSI) This is a *great* resource!
+
+> When two concurrent transactions each determine what they are writing based on reading a data set which overlaps what the other is writing, you can get a state which could not occur if either had run before the other. This is known as write skew, and is the simplest form of serialization anomaly against which SSI protects you.
+
+
+
+
+
+
+

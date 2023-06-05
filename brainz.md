@@ -137,4 +137,12 @@ Things to try:
 
 [Chain-of-Thought Prompting](https://twitter.com/bohang_zhang/status/1664695084875501579)
 
+[GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices/strategy-write-clear-instructions). [hn](https://platform.openai.com/docs/guides/gpt-best-practices/strategy-write-clear-instructions).
+
+> Delimiters like triple quotation marks, XML tags, section titles, etc. can help demarcate sections of text to be treated differently.
+
+> Tactic: Specify the desired length of the output
+
+
+
 

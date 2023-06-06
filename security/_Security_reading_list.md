@@ -680,4 +680,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [webauthn in MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API). [tweet](https://twitter.com/chrisdavidmills/status/1656175900042440704).
 
+[Passkeys now support external providers](https://news.ycombinator.com/item?id=36209408)
+
 

@@ -39,4 +39,6 @@
 
 [Code Generator for SQLite](https://news.ycombinator.com/item?id=35981828)
 
+[sqlite on the edge](https://news.ycombinator.com/item?id=36208568)
+
 

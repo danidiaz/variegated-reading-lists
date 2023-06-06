@@ -351,4 +351,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [@JobRunr - perhaps the best implementation of job scheduler. ](https://twitter.com/maciejwalkowiak/status/1664295458099871745)
 
+[Working with jOOQ and Flyway using Testcontainers](https://testcontainers.com/guides/working-with-jooq-flyway-using-testcontainers/)
+
 

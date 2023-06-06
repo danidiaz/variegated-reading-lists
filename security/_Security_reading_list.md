@@ -682,4 +682,5 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Passkeys now support external providers](https://news.ycombinator.com/item?id=36209408)
 
+[OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics)
 

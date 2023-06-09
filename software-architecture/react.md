@@ -863,4 +863,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [rsc & the container component pattern](https://twitter.com/dan_abramov/status/1663726883341586432). [concerns](https://twitter.com/ryanflorence/status/1663698112274403328)
 
+[Thinking in React Query](https://twitter.com/TkDodo/status/1667279661980610565)
+
 

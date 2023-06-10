@@ -696,5 +696,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > Additionally the Synchronizer token pattern can allow extra controls to enforce flow (e.g. the hidden field CSRF token will only be set when the application thinks you have sent a valid request in to get that form).
 
+[Mozilla web security guidelines](https://infosec.mozilla.org/guidelines/web_security)
+
 
 

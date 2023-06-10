@@ -205,4 +205,8 @@
 
 [Direct Syscalls vs Indirect Syscalls](https://redops.at/en/blog/direct-syscalls-vs-indirect-syscalls)
 
+[linux kernel modules](https://sysprog21.github.io/lkmpg/)
+
+
+
 

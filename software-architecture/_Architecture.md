@@ -1337,4 +1337,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > Let each team own their own Prometheus. 
 
+[AWS multitenancy architectures](https://aws.amazon.com/es/blogs/architecture/lets-architect-multi-tenant-saas-architectures/)
+
 

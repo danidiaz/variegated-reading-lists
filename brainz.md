@@ -143,6 +143,9 @@ Things to try:
 
 > Tactic: Specify the desired length of the output
 
+[self-distillation](https://twitter.com/revhowardarson/status/1667316201977188353)
+
+
 
 
 

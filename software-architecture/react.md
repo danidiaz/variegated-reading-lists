@@ -865,4 +865,16 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Thinking in React Query](https://twitter.com/TkDodo/status/1667279661980610565)
 
+[use the url](https://twitter.com/housecor/status/1667206997513519112). [it should be central to the design](https://twitter.com/royalicing/status/1667220655954366464). [the problems of not having deep linking](https://twitter.com/fsp_bgd/status/1667441818013712384)
+
+[Good Bye Spinners: Enhancing UX with Optimistic UI](https://www.youtube.com/watch?v=TR_wn2y-SYQ)
+
+[awesome Prometheous alerts](https://twitter.com/MariuszMichaow3/status/1667066786217426944)
+
+[controller inputs are uncool](https://twitter.com/mjackson/status/1667258271655251978)
+
+
+
+
+
 

@@ -709,3 +709,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [Open and Closed, Omission and Collapse](https://brooker.co.za/blog/2023/05/10/open-closed.html)
 
+[Backfilling an Amazon DynamoDB Time to Live (TTL) attribute with Amazon EMR](https://aws.amazon.com/es/blogs/database/backfilling-an-amazon-dynamodb-time-to-live-ttl-attribute-with-amazon-emr/)
+
+
+

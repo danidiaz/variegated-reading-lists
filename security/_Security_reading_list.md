@@ -698,5 +698,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Mozilla web security guidelines](https://infosec.mozilla.org/guidelines/web_security)
 
+[OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 
 

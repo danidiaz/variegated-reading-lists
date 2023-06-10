@@ -684,3 +684,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics)
 
+[MDN - Types of attacks - Cross-site request forgery (CSRF)](https://developer.mozilla.org/en-US/docs/Web/Security/Types_of_attacks#cross-site_request_forgery_csrf)
+
+

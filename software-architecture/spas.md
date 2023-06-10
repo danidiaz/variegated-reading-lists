@@ -169,4 +169,7 @@
 
 [wireframes](https://twitter.com/andybudd/status/1661981838221385729)
 
+[Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP). [tweet](https://twitter.com/kentcdodds/status/1667297188555419653?).
+
+
 

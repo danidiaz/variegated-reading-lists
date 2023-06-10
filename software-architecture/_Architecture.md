@@ -1333,3 +1333,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 
+[Monitoring is a Pain](https://lobste.rs/s/qiy7if/monitoring_is_pain)
+
+> Let each team own their own Prometheus. 
+
+

@@ -690,4 +690,11 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [What is the difference between use X-CSRF-Token in an HTTP header or token in the hidden field?](https://stackoverflow.com/questions/34782493/difference-between-csrf-and-x-csrf-token)
 
+> This can be MUCH easier to implement than the Synchronizer token pattern as you don't need to set the token for each call to each form, and the check is relatively simple too (just check the cookie matches the header) rather than tracking CSRF tokens validity. All you need is to set a cookie to a random value for each session. 
+
+> The downside is that it requires JavaScript to work (but that may not be an issue if your app basically doesn't work without JavaScript anyway) and also it will only work for requests the JavaScript makes (e.g. XHR requests) - regular HTML form requests would not set the header. 
+
+> Additionally the Synchronizer token pattern can allow extra controls to enforce flow (e.g. the hidden field CSRF token will only be set when the application thinks you have sent a valid request in to get that form).
+
+
 

@@ -167,7 +167,7 @@
 
 [more about htmx](https://news.ycombinator.com/item?id=36078709)
 
-[wireframes](https://twitter.com/andybudd/status/1661981838221385729)
+[wireframes](https://twitter.com/andybudd/status/1661981838221385729). [motion design](https://twitter.com/andybudd/status/1661985377698172929).
 
 [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP). [tweet](https://twitter.com/kentcdodds/status/1667297188555419653?).
 

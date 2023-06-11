@@ -873,7 +873,9 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [controller inputs are uncool](https://twitter.com/mjackson/status/1667258271655251978)
 
+[Radix's asChild is SUCH a smart abstraction to a tough problem](https://twitter.com/mattpocockuk/status/1666080643216990210)
 
+[asChild in React, Svelte, Vue, and Solid for render delegation](https://medium.com/@bryanmylee/aschild-in-react-svelte-vue-and-solid-for-render-delegation-645c73650ced)
 
 
 

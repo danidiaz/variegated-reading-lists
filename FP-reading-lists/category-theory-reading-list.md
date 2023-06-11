@@ -1020,4 +1020,8 @@ get all equalities
 
 [Why presheaves? (Episode #1) Diagrams, actions, and representability](https://www.youtube.com/watch?v=CY21lm4DfJE)
 
+[Delooping, and internalization vs enrichment](https://joe-moeller.com/2023/06/08/delooping-and-internalization-vs-enrichment/). [tweet](https://joe-moeller.com/2023/06/08/delooping-and-internalization-vs-enrichment/).
+
+> The category theorist’s lot in life is to minimize the times the word “set” appears in any definition.
+
 

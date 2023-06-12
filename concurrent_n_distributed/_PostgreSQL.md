@@ -325,6 +325,9 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 > Serialization anomalies can result from more complex patterns of access, involving three or more transactions.
 
+[Repeatable Read vs Serializable Isolation Level in Postgres](https://peter.grman.at/postgres-repeatable-read-vs-serializable/)
+
+> Because we had previously experienced the pain of inconsistent databases due to the lost update problem, we decided to trade stability for performance
 
 
 

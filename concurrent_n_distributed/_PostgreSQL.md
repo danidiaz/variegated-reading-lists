@@ -323,6 +323,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 > When two concurrent transactions each determine what they are writing based on reading a data set which overlaps what the other is writing, you can get a state which could not occur if either had run before the other. This is known as write skew, and is the simplest form of serialization anomaly against which SSI protects you.
 
+> Serialization anomalies can result from more complex patterns of access, involving three or more transactions.
 
 
 

@@ -264,4 +264,5 @@ Stuff about the heap:
 
 > Cmm’s control flow is expressed through unconditional branches, conditional branches, and Switch. WebAssembly’s control flow is expressed through multiple syntactic forms: blocks, if statements, loop statements, return, and some multipurpose br forms. 
 
+[deriving template haskell instances](https://twitter.com/Iceland_jack/status/1668293311868596225)
 

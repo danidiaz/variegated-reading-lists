@@ -175,4 +175,6 @@
 
 [a small talk on remix forms, and what we are looking at going forward with uncontrolled forms](https://twitter.com/VivekLokhande99/status/1668220008533753856)
 
+[Should a POST request render HTML or redirect?](https://stackoverflow.com/questions/12151551/should-a-post-request-render-html-or-redirect)
+
 

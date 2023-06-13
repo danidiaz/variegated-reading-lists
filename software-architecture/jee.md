@@ -353,4 +353,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Working with jOOQ and Flyway using Testcontainers](https://testcontainers.com/guides/working-with-jooq-flyway-using-testcontainers/)
 
+[HTTP Interface Clients in #SpringBoot ](https://twitter.com/therealdanvega/status/1668297196658106369)
+
 

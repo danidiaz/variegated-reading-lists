@@ -190,4 +190,6 @@
 
 [There are few ways to write software well](https://twitter.com/housecor/status/1665363325625008132)
 
+[TAing](https://twitter.com/poppy_haze/status/1668427966018117633)
+
 

@@ -173,4 +173,6 @@
 
 [use the url](https://twitter.com/housecor/status/1667206997513519112). [it should be central to the design](https://twitter.com/royalicing/status/1667220655954366464). [the problems of not having deep linking](https://twitter.com/fsp_bgd/status/1667441818013712384). [post](https://hachyderm.io/@DiazCarrete/110525098664615724).
 
+[a small talk on remix forms, and what we are looking at going forward with uncontrolled forms](https://twitter.com/VivekLokhande99/status/1668220008533753856)
+
 

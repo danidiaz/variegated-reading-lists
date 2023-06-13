@@ -875,6 +875,8 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [asChild in React, Svelte, Vue, and Solid for render delegation](https://medium.com/@bryanmylee/aschild-in-react-svelte-vue-and-solid-for-render-delegation-645c73650ced)
 
+[You Can Stop Hating React.FC](https://www.totaltypescript.com/you-can-stop-hating-react-fc) maybe?
+
 
 
 

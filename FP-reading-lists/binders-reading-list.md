@@ -384,6 +384,8 @@ is not a problem)
 
 [(Gödel) numbers as syntax](https://twitter.com/rg9119/status/1667228111489073152)
 
+[For tree-shaped contexts (like in bunched implication), the right name-free representation looks like *binary* numbers](https://twitter.com/alpha_convert/status/1668638126909300736)
+
 
 
 

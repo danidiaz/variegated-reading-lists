@@ -900,6 +900,10 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 > Lots of folks are under the impression that most data is scrapable. It just ain't so.
 
+[1-to-1 table relationships](https://vladmihalcea.com/one-to-one-table-relationships/)
+
+> The goal of one-to-one table relationships is to separate data that doesn't change in sync. The separation provides better concurrency (less locking and more optimistic locking versions, better cache hits, and better data integrity as if the child association is optional, you only make the FK nullable while keeping the child columns NOT NULL.
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

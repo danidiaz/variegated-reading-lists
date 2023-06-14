@@ -177,4 +177,8 @@
 
 [Should a POST request render HTML or redirect?](https://stackoverflow.com/questions/12151551/should-a-post-request-render-html-or-redirect)
 
+[forms are hypermedia controls, too](https://twitter.com/htmx_org/status/1668716037745901568). [video mentioning the same](https://youtu.be/Mk8xjRR6qEU?t=170)
+
+> these hypermedia controls, forms & anchors *are why HTML is a hypermedia*
+
 

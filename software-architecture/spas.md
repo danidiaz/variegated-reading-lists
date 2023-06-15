@@ -181,4 +181,6 @@
 
 > these hypermedia controls, forms & anchors *are why HTML is a hypermedia*
 
+[CSRF protection in Epic Stack](https://twitter.com/kentcdodds/status/1669089812853444609)
+
 

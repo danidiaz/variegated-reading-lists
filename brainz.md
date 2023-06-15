@@ -145,7 +145,7 @@ Things to try:
 
 [self-distillation](https://twitter.com/revhowardarson/status/1667316201977188353)
 
-
+[Function calling](https://openai.com/blog/function-calling-and-other-api-updates). [the new openAI function call interface is basically 'make your reply confirm to a provided algebraic data type'](https://twitter.com/disconcision/status/1669082221964058624)
 
 
 

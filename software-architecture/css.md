@@ -585,4 +585,8 @@ https://twitter.com/tailwindcss
 
 [Tailwind merge](https://www.youtube.com/watch?v=tfgLd5ZSNPc)
 
+[transition API](https://twitter.com/bramus/status/1669004389841874945)
+
+[conditional style](https://twitter.com/shadeed9/status/1669223967951925248)
+
 

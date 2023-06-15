@@ -266,3 +266,7 @@ Stuff about the heap:
 
 [deriving template haskell instances](https://twitter.com/Iceland_jack/status/1668293311868596225)
 
+[COVERAGE-GUIDED FUZZING OF HASKELL PROGRAMS FOR CHEAP](https://www.tweag.io/blog/2023-06-15-ghc-libfuzzer/)
+
+
+

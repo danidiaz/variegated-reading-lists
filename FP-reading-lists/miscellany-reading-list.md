@@ -708,4 +708,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [How Photoshop solved working with files larger than can fit into memory](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/). 
 
+[learning modern compilers](https://lobste.rs/s/zqa4cc/learning_modern_compilers)
+
 

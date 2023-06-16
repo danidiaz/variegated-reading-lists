@@ -711,5 +711,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [Backfilling an Amazon DynamoDB Time to Live (TTL) attribute with Amazon EMR](https://aws.amazon.com/es/blogs/database/backfilling-an-amazon-dynamodb-time-to-live-ttl-attribute-with-amazon-emr/)
 
+[What Kind of Asynchronous is Right For You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
+
 
 

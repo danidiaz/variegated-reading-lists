@@ -755,6 +755,8 @@ Bernini, his life and his Rome
 
 ["autocut" technique in Ink](https://twitter.com/joningold/status/1656575929903198208). [page](https://www.inklestudios.com/highland/2023/05/11/autocut-for-responsive.html). [mastodon](https://hachyderm.io/@joningold@mastodon.gamedev.place/110349076274050325)
 
+[best spreadsheet award](https://twitter.com/v21/status/1670084879474671617)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

@@ -319,6 +319,10 @@ Insurance premiums may be affected and adjusted as a result.
 
 [is exponentiation by another fixed point decimal a weird thing to want?](https://stackoverflow.com/questions/16441769/javas-bigdecimal-powerbigdecimal-exponent-is-there-a-java-library-that-does)
 
+## Finance
+
+[Pricing Money: A beginner's guide to money, bonds, futures and swaps](https://news.ycombinator.com/item?id=36358754). [hn](https://news.ycombinator.com/item?id=36358754).
+
 ## operations research
 
 [Google OR-Tools](https://developers.google.com/optimization)

@@ -1339,4 +1339,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [AWS multitenancy architectures](https://aws.amazon.com/es/blogs/architecture/lets-architect-multi-tenant-saas-architectures/)
 
+[defining an initial model is comparatively easy](https://twitter.com/gunnarmorling/status/1669746063698276363)
+
 

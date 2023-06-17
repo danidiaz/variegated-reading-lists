@@ -147,5 +147,6 @@ Things to try:
 
 [Function calling](https://openai.com/blog/function-calling-and-other-api-updates). [the new openAI function call interface is basically 'make your reply confirm to a provided algebraic data type'](https://twitter.com/disconcision/status/1669082221964058624)
 
+[Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
 
 

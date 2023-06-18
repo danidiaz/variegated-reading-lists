@@ -593,4 +593,6 @@ https://twitter.com/tailwindcss
 
 [The Staggering Frontiers of CSS](https://news.ycombinator.com/item?id=36375179).
 
+[rebuilding a comment component](https://twitter.com/shadeed9/status/1670351797188194304)
+
 

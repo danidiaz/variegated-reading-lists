@@ -110,4 +110,6 @@
 
 [k8s networking tweet](https://twitter.com/davidfowl/status/1657533910551756800)
 
+[The Difference Between Root Certificate Authorities, Intermediates, and Resellers](https://www.agwa.name/blog/post/roots_intermediates_and_resellers)
+
 

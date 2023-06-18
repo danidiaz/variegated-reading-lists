@@ -577,5 +577,7 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [convert linear subset of the haskell to any DSL that is also a symmetric monoidal category](https://www.reddit.com/r/haskell/comments/13mit4v/code_generation_with_haskell_itself_as_the_dsl/)
 
+[Building Search DSLs with Django](https://danlamanna.com/posts/building-search-dsls-with-django/)
+
 
 

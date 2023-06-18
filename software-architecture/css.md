@@ -589,4 +589,8 @@ https://twitter.com/tailwindcss
 
 [conditional style](https://twitter.com/shadeed9/status/1669223967951925248)
 
+[Modern CSS for Dynamic Component-Based Architecture](https://news.ycombinator.com/item?id=36375582)
+
+[The Staggering Frontiers of CSS](https://news.ycombinator.com/item?id=36375179).
+
 

@@ -410,4 +410,6 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [cleaning macks](https://twitter.com/nexxeln/status/1670325645111607297)
 
+[moved off iTerm](https://twitter.com/t3dotgg/status/1671246311071559683)
+
 

@@ -149,4 +149,6 @@ Things to try:
 
 [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
 
+[textbooks are all you need](https://news.ycombinator.com/item?id=36413768)
+
 

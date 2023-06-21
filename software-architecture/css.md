@@ -595,4 +595,6 @@ https://twitter.com/tailwindcss
 
 [rebuilding a comment component](https://twitter.com/shadeed9/status/1670351797188194304)
 
+[Figma Dev Mode](https://news.ycombinator.com/item?id=36420712)
+
 

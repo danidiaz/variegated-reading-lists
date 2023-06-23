@@ -152,4 +152,8 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Unleashing the Power of Conditional Types in TypeScript](https://www.susanpotter.net/software/unleashing-the-power-of-conditional-types-in-typescript/)
 
+[Given an object, grab the keys where the values match a certain type](https://twitter.com/mattpocockuk/status/1672151954212937728). [loose autocomplete trick](https://twitter.com/mattpocockuk/status/1671908303918473217). [type argument placeholders](https://twitter.com/mattpocockuk/status/1671892728282759172). 
 
+
+
+[as const](https://twitter.com/mattpocockuk/status/1671794965393842176)

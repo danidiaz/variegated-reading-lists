@@ -710,4 +710,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [learning modern compilers](https://lobste.rs/s/zqa4cc/learning_modern_compilers)
 
+[ICFP Pearl on rec-def](https://discourse.haskell.org/t/icfp-pearl-on-rec-def/6626)
+
 

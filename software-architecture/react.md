@@ -877,6 +877,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [You Can Stop Hating React.FC](https://www.totaltypescript.com/you-can-stop-hating-react-fc) maybe?
 
-
+[pre-fill some local state (e.g. the selection of a Dropdown component) with server state](https://twitter.com/TkDodo/status/1672168421339938818)
 
 

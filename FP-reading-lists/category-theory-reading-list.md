@@ -1024,4 +1024,6 @@ get all equalities
 
 > The category theorist’s lot in life is to minimize the times the word “set” appears in any definition.
 
+[the category of algebras of the empty signature, aka models of the theory of extensional equality](https://twitter.com/_julesh_/status/1672193335417503745)
+
 

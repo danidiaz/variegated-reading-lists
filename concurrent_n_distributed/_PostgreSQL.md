@@ -329,7 +329,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 > Because we had previously experienced the pain of inconsistent databases due to the lost update problem, we decided to trade stability for performance
 
-
+[PostgreSQL in the Cloud](https://www.youtube.com/watch?v=TD4qMsnSqHQ)
 
 
 

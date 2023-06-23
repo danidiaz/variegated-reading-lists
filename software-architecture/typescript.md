@@ -154,6 +154,8 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Given an object, grab the keys where the values match a certain type](https://twitter.com/mattpocockuk/status/1672151954212937728). [loose autocomplete trick](https://twitter.com/mattpocockuk/status/1671908303918473217). [type argument placeholders](https://twitter.com/mattpocockuk/status/1671892728282759172). 
 
-
-
 [as const](https://twitter.com/mattpocockuk/status/1671794965393842176)
+
+[antipatterns](https://twitter.com/TkDodo/status/1672313484250325002)
+
+

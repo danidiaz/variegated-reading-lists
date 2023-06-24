@@ -879,4 +879,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [pre-fill some local state (e.g. the selection of a Dropdown component) with server state](https://twitter.com/TkDodo/status/1672168421339938818)
 
+[React: The Most Common Mistakes in 2023](https://twitter.com/housecor/status/1671976925273661443)
+
 

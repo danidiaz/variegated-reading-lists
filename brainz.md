@@ -151,4 +151,6 @@ Things to try:
 
 [textbooks are all you need](https://news.ycombinator.com/item?id=36413768)
 
+[but so are markets](https://twitter.com/henryfarrell/status/1671547591262191618)
+
 

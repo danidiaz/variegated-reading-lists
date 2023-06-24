@@ -183,4 +183,8 @@
 
 [CSRF protection in Epic Stack](https://twitter.com/kentcdodds/status/1669089812853444609)
 
+[Micro-Frontends in AWS](https://www.youtube.com/watch?v=Wn1Cj7785i8). [Micro-Frontends in Just 10 Minutes](https://www.youtube.com/watch?v=s_Fs4AXsTnA).
+
+
+
 

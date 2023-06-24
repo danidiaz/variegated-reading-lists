@@ -904,7 +904,7 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 > The goal of one-to-one table relationships is to separate data that doesn't change in sync. The separation provides better concurrency (less locking and more optimistic locking versions, better cache hits, and better data integrity as if the child association is optional, you only make the FK nullable while keeping the child columns NOT NULL.
 
-[Don’t store images in database, please](https://twitter.com/andrii_sherman/status/1672352224473645057)
+[Don’t store images in database, please](https://twitter.com/andrii_sherman/status/1672352224473645057). [another view](https://twitter.com/kentcdodds/status/1672390679367122946).
 
 # Podcasts
 

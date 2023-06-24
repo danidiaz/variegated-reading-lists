@@ -757,6 +757,8 @@ Bernini, his life and his Rome
 
 [best spreadsheet award](https://twitter.com/v21/status/1670084879474671617). [related](https://twitter.com/ZenOfDesign/status/1670076240751992833).
 
+[runequest cities](https://www.goodreads.com/review/show/5641785477). [city system tsr](https://www.goodreads.com/review/show/5641786216).
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

@@ -881,4 +881,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [React: The Most Common Mistakes in 2023](https://twitter.com/housecor/status/1671976925273661443)
 
+[Bad React Advice You Should Ignore](https://www.youtube.com/watch?v=YlU9vznPWIk)
+
 

@@ -158,4 +158,4 @@ const conforms: OnlyBoolsAndHorses = {
 
 [antipatterns](https://twitter.com/TkDodo/status/1672313484250325002)
 
-
+[I see so many bugs caused by devs trusting a value provided by the network](https://twitter.com/mattphillipsio/status/1672516898670403584)

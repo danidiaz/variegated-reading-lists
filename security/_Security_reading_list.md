@@ -702,4 +702,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [do not store tokens in localstroage (use cookies instead)](https://twitter.com/TkDodo/status/1672900717508538373)
 
+> localstorage can be read out by _all_ JavaScript running on your page, and cookies cannot
+
 

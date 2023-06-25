@@ -710,6 +710,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Token Authentication vs. Cookies (old)](https://stackoverflow.com/questions/17000835/token-authentication-vs-cookies). [What Are Refresh Tokens and How to Use Them Securely](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/)
 
+> Keep in mind that according to the spec, when using the Implicit Flow, the authorization server should not issue refresh tokens. The Implicit flow is often implemented in Single-Page Applications (SPAs), which run on the frontend layer of a system architecture. There's no easy way of keeping a refresh token secure in the frontend layer on its own.
+
 
 
 

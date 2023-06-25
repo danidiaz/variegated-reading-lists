@@ -1343,4 +1343,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [global state](https://twitter.com/housecor/status/1671545401206353920)
 
+[extension/plugin architectures](https://twitter.com/steveruizok/status/1672926467393564673)
+
 

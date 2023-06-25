@@ -718,4 +718,10 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > You can mix token-based authentication with cookie-based authentication. Take into account that cookies will work just fine if the web app and the API are served from the same domain, so you might not need token based authentication.
 
+[Token Storage](https://auth0.com/docs/secure/security-guidance/data-security/token-storage)
+
+> If your app is using a sign in scenario that doesn't require API calls, only an ID token is required. There is no need to store it. You can validate it and get the data from it that you required.
+
+> If your app needs to call APIs on behalf of the user, access tokens and (optionally) refresh tokens are needed. 
+
 

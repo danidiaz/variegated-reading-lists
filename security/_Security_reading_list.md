@@ -704,4 +704,12 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > localstorage can be read out by _all_ JavaScript running on your page, and cookies cannot
 
+>  you don't touch the cookie on the frontend. It's a blackbox / pass-through. Backend sets it, backend reads it. Get the username from somewhere else.
+
+>  [to use JWT] put JWT _into_ the cookie, you don't need a stateful session to use cookies. One is the auth mechanism (jwt, sessions), the other is the transport mechanism (cookies, authorization header)
+
+[Token Authentication vs. Cookies (old)](https://stackoverflow.com/questions/17000835/token-authentication-vs-cookies). [What Are Refresh Tokens and How to Use Them Securely](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/)
+
+
+
 

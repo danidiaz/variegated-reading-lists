@@ -715,5 +715,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [Time is not a synchronization primitive](https://lobste.rs/s/b0e2nt/time_is_not_synchronization_primitive)
 
+[Tips for concurrent programming](http://catern.com/concur.html)
 
 

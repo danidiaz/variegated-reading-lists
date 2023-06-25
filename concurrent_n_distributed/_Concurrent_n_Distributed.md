@@ -713,5 +713,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [What Kind of Asynchronous is Right For You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
 
+[Time is not a synchronization primitive](https://lobste.rs/s/b0e2nt/time_is_not_synchronization_primitive)
+
 
 

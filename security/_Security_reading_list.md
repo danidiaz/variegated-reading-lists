@@ -726,4 +726,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > The in-memory method for browser storage does not provide persistence across page refreshes and browser tabs.
 
+> Storing tokens in browser local storage provides persistence across page refreshes and browser tabs, however if an attacker can achieve running JavaScript in the SPA using a cross-site scripting (XSS) attack, they can retrieve the tokens stored in local storage. 
+
 

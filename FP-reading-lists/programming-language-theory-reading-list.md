@@ -34,6 +34,8 @@
 
 [denotational semantics course](https://www.cl.cam.ac.uk/teaching/1920/DenotSem/)
 
+[definitions as first-class citizens](https://twitter.com/PTOOP/status/1672996447141109761)
+
 ## videos
 
 [Simon Peyton Jones - Compiling without continuations](https://www.youtube.com/watch?v=LMTr8yw0Gk4)

@@ -722,6 +722,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > If your app is using a sign in scenario that doesn't require API calls, only an ID token is required. There is no need to store it. You can validate it and get the data from it that you required.
 
-> If your app needs to call APIs on behalf of the user, access tokens and (optionally) refresh tokens are needed. 
+> If your app needs to call APIs on behalf of the user, access tokens and (optionally) refresh tokens are needed. These can be stored server-side or in a session cookie. (?) 
+
+> The in-memory method for browser storage does not provide persistence across page refreshes and browser tabs.
 
 

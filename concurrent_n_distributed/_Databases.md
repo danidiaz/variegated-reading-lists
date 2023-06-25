@@ -906,6 +906,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Don’t store images in database, please](https://twitter.com/andrii_sherman/status/1672352224473645057). [another view](https://twitter.com/kentcdodds/status/1672390679367122946).
 
+[Database Auto increment vs UUID - Which is Right for You?](https://www.youtube.com/watch?v=5Xog8d_2um4)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

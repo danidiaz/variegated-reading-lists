@@ -331,5 +331,5 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [PostgreSQL in the Cloud](https://www.youtube.com/watch?v=TD4qMsnSqHQ)
 
-
+[Postgres Partition Pains - LockManager Waits](https://www.kylehailey.com/post/postgres-partition-pains-lockmanager-waits). [video](https://www.youtube.com/watch?v=YPorP8BsF_c).
 

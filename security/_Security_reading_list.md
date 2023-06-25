@@ -716,6 +716,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > Typically, single-page apps (such as React, Vue, and AngularJS + Node), native mobile apps (such as iOS and Android), and web APIs (written in Node, Ruby, ASP.NET, or a mix of those) benefit most from token-based authentication. Traditional, server-side web applications have traditionally used cookie-based authentication.
 
-
+> You can mix token-based authentication with cookie-based authentication. Take into account that cookies will work just fine if the web app and the API are served from the same domain, so you might not need token based authentication.
 
 

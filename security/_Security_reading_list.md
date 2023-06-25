@@ -712,6 +712,10 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > Keep in mind that according to the spec, when using the Implicit Flow, the authorization server should not issue refresh tokens. The Implicit flow is often implemented in Single-Page Applications (SPAs), which run on the frontend layer of a system architecture. There's no easy way of keeping a refresh token secure in the frontend layer on its own.
 
+[tokens vs cookies](https://auth0.com/docs/secure/tokens/token-best-practices)
+
+> Typically, single-page apps (such as React, Vue, and AngularJS + Node), native mobile apps (such as iOS and Android), and web APIs (written in Node, Ruby, ASP.NET, or a mix of those) benefit most from token-based authentication. Traditional, server-side web applications have traditionally used cookie-based authentication.
+
 
 
 

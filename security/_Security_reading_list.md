@@ -700,4 +700,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 
+[do not store tokens in localstroage (use cookies instead)](https://twitter.com/TkDodo/status/1672900717508538373)
+
 

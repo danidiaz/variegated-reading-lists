@@ -389,4 +389,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [testing-spring-boot-applications-masterclass](https://github.com/rieckpil/testing-spring-boot-applications-masterclass)
 
+[no mocks allowed](https://twitter.com/mgreiler/status/1673272642260946945)
+
 

@@ -728,4 +728,11 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > Storing tokens in browser local storage provides persistence across page refreshes and browser tabs, however if an attacker can achieve running JavaScript in the SPA using a cross-site scripting (XSS) attack, they can retrieve the tokens stored in local storage. 
 
+[Where to store the refresh token on the Client?](https://stackoverflow.com/questions/57650692/where-to-store-the-refresh-token-on-the-client)
+
+[Are the trade offs for putting an auth token in an http-only cookie for an SPA worth it?](https://security.stackexchange.com/questions/222356/are-the-trade-offs-for-putting-an-auth-token-in-an-http-only-cookie-for-an-spa-w). [Is it secure to send token in header of the request?](https://stackoverflow.com/questions/63225061/is-it-secure-to-send-token-in-header-of-the-request). [Handling Authentication in SPA With JWT and Cookies](https://povio.com/blog/handling-authentication-in-spa-with-jwt-and-cookies/). [Authenticate Single-Page Apps With Cookies](https://auth0.com/docs/manage-users/cookies/spa-authenticate-with-cookies). [How to Effectively Use the Token Handler Pattern for SPAs](https://curity.io/resources/learn/the-token-handler-pattern/).
+
+
+
+
 

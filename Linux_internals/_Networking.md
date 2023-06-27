@@ -112,4 +112,4 @@
 
 [The Difference Between Root Certificate Authorities, Intermediates, and Resellers](https://www.agwa.name/blog/post/roots_intermediates_and_resellers)
 
-
+[mitmproxy: Support 'http_proxy' and 'https_proxy' variables](https://github.com/mitmproxy/mitmproxy/issues/3296).  

@@ -732,6 +732,9 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Are the trade offs for putting an auth token in an http-only cookie for an SPA worth it?](https://security.stackexchange.com/questions/222356/are-the-trade-offs-for-putting-an-auth-token-in-an-http-only-cookie-for-an-spa-w). [Is it secure to send token in header of the request?](https://stackoverflow.com/questions/63225061/is-it-secure-to-send-token-in-header-of-the-request). [Handling Authentication in SPA With JWT and Cookies](https://povio.com/blog/handling-authentication-in-spa-with-jwt-and-cookies/). [Authenticate Single-Page Apps With Cookies](https://auth0.com/docs/manage-users/cookies/spa-authenticate-with-cookies). [How to Effectively Use the Token Handler Pattern for SPAs](https://curity.io/resources/learn/the-token-handler-pattern/).
 
+[openid vs oauth](https://news.ycombinator.com/item?id=36481470). [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc). [OAuth 2.0 and OpenID Connect Overview](https://developer.okta.com/docs/concepts/oauth-openid/).
+
+> OpenID is a specific layer on top of OAuth2. It standardised claims for authentication, scopes it down to the 2 credentials flows it can care about, and that's core in a nutshell. It's complicated, but so is HTTP, which most people don't use directly anyway (and the same should be applied for OpenID, just use a blessed implementation, the OpenID foundation maintains a list of certified libraries you can rely on).
 
 
 

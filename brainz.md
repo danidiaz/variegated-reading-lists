@@ -153,4 +153,11 @@ Things to try:
 
 [but so are markets](https://twitter.com/henryfarrell/status/1671547591262191618)
 
+Things for which I found ChatGPT useful:
+
+    - identifying a dump React component syntax issue (not using a props
+      object) which would be difficult to Google.
+    - nomenclature: what is the type of web proxy that is the main alternative to "intercepting proxies"?
+    - trying to gauge the consensus between two alternatives, according to some criterium: "should we expect shorter compile times with package-by-layer or with package-by-feature". 
+
 

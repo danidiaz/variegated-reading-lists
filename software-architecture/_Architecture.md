@@ -1345,4 +1345,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [extension/plugin architectures](https://twitter.com/steveruizok/status/1672926467393564673)
 
+[Amazon Builders' Library](https://twitter.com/g_bonfiglio/status/1673650452846505985)
+
+[Asynchronous Request-Reply pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/async-request-reply)
+
 

@@ -112,4 +112,9 @@
 
 [The Difference Between Root Certificate Authorities, Intermediates, and Resellers](https://www.agwa.name/blog/post/roots_intermediates_and_resellers)
 
-[mitmproxy: Support 'http_proxy' and 'https_proxy' variables](https://github.com/mitmproxy/mitmproxy/issues/3296).  
+[mitmproxy: Support 'http_proxy' and 'https_proxy' variables](https://github.com/mitmproxy/mitmproxy/issues/3296). Beware! This is for mitmproxy itslef. But you're usually interested in setting these variables for you server.
+
+[Are HTTP_PROXY, HTTPS_PROXY and NO_PROXY environment variables standard?](https://superuser.com/questions/944958/are-http-proxy-https-proxy-and-no-proxy-environment-variables-standard)
+
+
+

@@ -712,4 +712,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [ICFP Pearl on rec-def](https://discourse.haskell.org/t/icfp-pearl-on-rec-def/6626)
 
+[You should break the Law of Demeter](https://www.tedinski.com/2018/12/18/the-law-of-demeter.html)
+
 

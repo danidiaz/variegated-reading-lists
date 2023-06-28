@@ -1351,4 +1351,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [how not to write a pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a). [hn](https://news.ycombinator.com/item?id=36501548).
 
+[Everything that uses configuration files should report where they're located](https://news.ycombinator.com/item?id=36465886)
+
 

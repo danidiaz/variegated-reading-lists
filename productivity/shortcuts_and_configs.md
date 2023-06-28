@@ -414,4 +414,6 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [Use two Mac apps side by side in Split View](https://support.apple.com/en-us/HT204948)
 
+[Advanced macOS Command-Line Tools](https://saurabhs.org/advanced-macos-commands)
+
 

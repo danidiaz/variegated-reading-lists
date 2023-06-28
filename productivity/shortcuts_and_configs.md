@@ -412,4 +412,6 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [moved off iTerm](https://twitter.com/t3dotgg/status/1671246311071559683)
 
+[Use two Mac apps side by side in Split View](https://support.apple.com/en-us/HT204948)
+
 

@@ -157,7 +157,7 @@ Things for which I found ChatGPT useful:
 
     - identifying a dumb React component syntax issue (not using a props
       object) which would be difficult to Google.
-    - nomenclature: what is the type of web proxy that is the main alternative to "intercepting proxies"?
+    - nomenclature: what is the type of web proxy that is the main alternative to "intercepting proxies"? (did I get the correct response?)
     - trying to gauge the consensus between two alternatives, according to some criterium: "should we expect shorter compile times with package-by-layer or with package-by-feature". 
 
 

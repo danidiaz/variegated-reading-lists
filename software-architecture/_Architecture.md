@@ -1349,4 +1349,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Asynchronous Request-Reply pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/async-request-reply)
 
+[how not to write a pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a). [hn](https://news.ycombinator.com/item?id=36501548).
+
 

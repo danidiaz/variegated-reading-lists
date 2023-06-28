@@ -116,5 +116,7 @@
 
 [Are HTTP_PROXY, HTTPS_PROXY and NO_PROXY environment variables standard?](https://superuser.com/questions/944958/are-http-proxy-https-proxy-and-no-proxy-environment-variables-standard)
 
+[intercepting http proxy - disadvantages compared to a normal proxy](https://stackoverflow.com/questions/9274836/intercepting-http-proxy-disadvantages-compared-to-a-normal-proxy). [Intercept a macOS app traffic using mitmproxy](https://www.codejam.info/2021/07/intercept-macos-app-traffic-mitmproxy.html).
+
 
 

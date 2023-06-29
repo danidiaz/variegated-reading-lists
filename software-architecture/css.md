@@ -597,4 +597,6 @@ https://twitter.com/tailwindcss
 
 [Figma Dev Mode](https://news.ycombinator.com/item?id=36420712)
 
+[Create Accessible Tabs with HTML, CSS & JS](https://www.youtube.com/watch?v=fI9VM5zzpu8)
+
 

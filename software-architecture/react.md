@@ -883,4 +883,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Bad React Advice You Should Ignore](https://www.youtube.com/watch?v=YlU9vznPWIk)
 
+[boundaries](https://twitter.com/JoshWComeau/status/1674531358339678209)
+
 

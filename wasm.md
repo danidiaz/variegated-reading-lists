@@ -2,4 +2,6 @@
 
 [tail calls](https://news.ycombinator.com/item?id=35470057)
 
+[Whence WASM](https://www.neversaw.us/2023/06/30/understanding-wasm/part2/whence-wasm/)
+
 

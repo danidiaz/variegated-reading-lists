@@ -355,4 +355,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [HTTP Interface Clients in #SpringBoot ](https://twitter.com/therealdanvega/status/1668297196658106369)
 
+[jpa dynamic entity graphs](https://twitter.com/JPABuddy/status/1674692647741521920)
+
 

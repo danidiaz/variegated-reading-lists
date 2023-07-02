@@ -49,5 +49,6 @@
 
 [Random value duplicated, cannot select N random pairings, subquery not refreshing - sqlite](https://dba.stackexchange.com/questions/302614/random-value-duplicated-cannot-select-n-random-pairings-subquery-not-refreshin)
 
+[Datasette tutorial: Data analysis with SQLite and Python](https://twitter.com/simonw/status/1675546706468044803)
 
 

@@ -45,4 +45,7 @@
 
 > SELECT * FROM table ORDER BY RANDOM() LIMIT 1;
 
+[random sampling gist](https://gist.github.com/alecco/9976dab8fda8256ed403054ed0a65d7b#file-random-sampling-sql-L11). [more](https://gist.github.com/swayson/84fc86da20db89b56eac). 
+
+
 

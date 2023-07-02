@@ -41,4 +41,8 @@
 
 [sqlite on the edge](https://news.ycombinator.com/item?id=36208568)
 
+[Select random row from a sqlite table](https://stackoverflow.com/questions/2279706/select-random-row-from-a-sqlite-table)
+
+> SELECT * FROM table ORDER BY RANDOM() LIMIT 1;
+
 

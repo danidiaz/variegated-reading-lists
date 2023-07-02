@@ -47,5 +47,7 @@
 
 [random sampling gist](https://gist.github.com/alecco/9976dab8fda8256ed403054ed0a65d7b#file-random-sampling-sql-L11). [more](https://gist.github.com/swayson/84fc86da20db89b56eac). 
 
+[Random value duplicated, cannot select N random pairings, subquery not refreshing - sqlite](https://dba.stackexchange.com/questions/302614/random-value-duplicated-cannot-select-n-random-pairings-subquery-not-refreshin)
+
 
 

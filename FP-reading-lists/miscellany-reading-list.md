@@ -714,4 +714,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [You should break the Law of Demeter](https://www.tedinski.com/2018/12/18/the-law-of-demeter.html)
 
+[flattened ASTs](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
+
 

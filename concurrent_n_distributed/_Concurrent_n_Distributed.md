@@ -717,4 +717,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [Tips for concurrent programming](http://catern.com/concur.html)
 
+[retries and backoff](https://fediscience.org/@marcbrooker/110645316730835757)
+
 

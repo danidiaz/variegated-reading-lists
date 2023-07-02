@@ -10,3 +10,6 @@
 
 [series on ELF file format](https://twitter.com/0xor0ne/status/1607711658801090560)
 
+[ldd(1) and untrusted binaries](https://jmmv.dev/2023/07/ldd-untrusted-binaries.html)
+
+

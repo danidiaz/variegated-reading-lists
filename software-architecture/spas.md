@@ -187,6 +187,8 @@
 
 [Which HTTP status code means "Not Ready Yet, Try Again Later"?](https://stackoverflow.com/questions/9794696/which-http-status-code-means-not-ready-yet-try-again-later). [HTTP Response code for "Please wait a little bit"](https://stackoverflow.com/questions/12449538/http-response-code-for-please-wait-a-little-bit). [http 204 status code for polling for a resource after a 201 Created](https://stackoverflow.com/questions/21853498/rest-http-204-status-code-for-polling-for-a-resource-after-a-201-created).
 
+[browsers are cool](https://cohost.org/tef/post/1794038-special-interest-inf)
+
 
 
 

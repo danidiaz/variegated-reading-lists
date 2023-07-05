@@ -885,4 +885,8 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [boundaries](https://twitter.com/JoshWComeau/status/1674531358339678209)
 
+[Avoiding useEffect with callback refs](https://tkdodo.eu/blog/avoiding-use-effect-with-callback-refs)
+
+[Is it safe to use ref.current as useEffect's dependency when ref points to a DOM element?](https://stackoverflow.com/questions/60476155/is-it-safe-to-use-ref-current-as-useeffects-dependency-when-ref-points-to-a-dom)
+
 

@@ -319,6 +319,10 @@ a helpful degree of extra comfort.
 
 [the inductive revolution](https://www.youtube.com/watch?v=BCM8byFeyzY). [tweet](https://twitter.com/mattecapu/status/1659244660630470657)
 
+[isolated](https://hachyderm.io/@MartinEscardo@mathstodon.xyz/110657775433941471)
+
+[hott 2023](https://lobste.rs/s/kxn40p/cmu_819_homotopy_type_theory_course)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

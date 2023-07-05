@@ -416,4 +416,6 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [Advanced macOS Command-Line Tools](https://saurabhs.org/advanced-macos-commands)
 
+[writing a book with markdown](https://news.ycombinator.com/item?id=36582208)
+
 

@@ -770,4 +770,8 @@ regress of beliefs.
 
 > every model of ZFC has an element that is a model of ZFC. Understanding the statement and proof of this theorem requires one to distinguish carefully between the object-theoretic ZFC and the meta-theoretic ZFC
 
+[self-verifying theries](https://twitter.com/JDHamkins/status/1676368067423621120)
+
+> t seems questionable to me to regard these theories as proving their own consistency, since they are (necessarily) unable to prove basic facts about the encoding of the consistency statements. They cannot perform proper arithmetization. Ultimately one can see them as proving their own consistency only by the lights of much stronger theories.
+
 

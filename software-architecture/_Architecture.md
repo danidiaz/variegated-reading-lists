@@ -1353,4 +1353,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Everything that uses configuration files should report where they're located](https://news.ycombinator.com/item?id=36465886)
 
+[threads arch](https://twitter.com/alangrow/status/1677132403553488896)
+
 

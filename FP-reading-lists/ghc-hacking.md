@@ -268,5 +268,7 @@ Stuff about the heap:
 
 [COVERAGE-GUIDED FUZZING OF HASKELL PROGRAMS FOR CHEAP](https://www.tweag.io/blog/2023-06-15-ghc-libfuzzer/)
 
+[Videos from the GHC Contributor’s Workshop](https://discourse.haskell.org/t/videos-from-the-ghc-contributors-workshop/6961)
+
 
 

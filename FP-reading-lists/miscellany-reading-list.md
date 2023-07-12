@@ -716,4 +716,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [flattened ASTs](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 
+[Equational Reasoning for MTL Type Classes](https://arxiv.org/abs/2007.00616)
+
 

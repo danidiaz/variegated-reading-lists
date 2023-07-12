@@ -889,4 +889,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Is it safe to use ref.current as useEffect's dependency when ref points to a DOM element?](https://stackoverflow.com/questions/60476155/is-it-safe-to-use-ref-current-as-useeffects-dependency-when-ref-points-to-a-dom)
 
+[(1) Rendering, (2), Reconciliation, and (3) Committing.](https://twitter.com/bobziroll/status/1679120964280541184)
+
 

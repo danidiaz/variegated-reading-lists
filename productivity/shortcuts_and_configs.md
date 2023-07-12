@@ -418,4 +418,8 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [writing a book with markdown](https://news.ycombinator.com/item?id=36582208)
 
+[git - How can I tell if one commit is a descendant of another commit?](https://stackoverflow.com/questions/3005392/how-can-i-tell-if-one-commit-is-a-descendant-of-another-commit)
+
+
+
 

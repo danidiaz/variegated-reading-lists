@@ -599,4 +599,6 @@ https://twitter.com/tailwindcss
 
 [Create Accessible Tabs with HTML, CSS & JS](https://www.youtube.com/watch?v=fI9VM5zzpu8)
 
+[scroll-driven animations: animate when entering the viewport](https://twitter.com/argyleink/status/1678880988380934145)
+
 

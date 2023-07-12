@@ -1355,4 +1355,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [threads arch](https://twitter.com/alangrow/status/1677132403553488896)
 
+[one component per file is wrong](https://twitter.com/BHolmesDev/status/1679125597446979589)
+
 

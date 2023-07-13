@@ -736,6 +736,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > OpenID is a specific layer on top of OAuth2. It standardised claims for authentication, scopes it down to the 2 credentials flows it can care about, and that's core in a nutshell. It's complicated, but so is HTTP, which most people don't use directly anyway (and the same should be applied for OpenID, just use a blessed implementation, the OpenID foundation maintains a list of certified libraries you can rely on).
 
-
+[Passkeys will come at a cost](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/). [hn](https://news.ycombinator.com/item?id=36712497)
 
 

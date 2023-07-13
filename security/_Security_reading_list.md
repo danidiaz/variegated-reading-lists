@@ -738,4 +738,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Passkeys will come at a cost](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/). [hn](https://news.ycombinator.com/item?id=36712497)
 
+[content disarm and reconstruction](https://twitter.com/SwiftOnSecurity/status/1679523866018807808)
+
 

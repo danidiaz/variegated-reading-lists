@@ -601,5 +601,7 @@ https://twitter.com/tailwindcss
 
 [scroll-driven animations: animate when entering the viewport](https://twitter.com/argyleink/status/1678880988380934145). [performance](https://developer.chrome.com/blog/scroll-animation-performance-case-study/).
 
+[text-wrap: balance](https://twitter.com/hypeddev/status/1679171435359617060)
+
 
 

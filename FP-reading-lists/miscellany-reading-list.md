@@ -718,4 +718,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Equational Reasoning for MTL Type Classes](https://arxiv.org/abs/2007.00616)
 
+[Compiling to Intrinsically Typed Combinators](https://byorgey.wordpress.com/2023/07/13/compiling-to-intrinsically-typed-combinators/)
+
 

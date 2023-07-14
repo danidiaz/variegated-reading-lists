@@ -357,4 +357,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [jpa dynamic entity graphs](https://twitter.com/JPABuddy/status/1674692647741521920)
 
+[fast back](https://twitter.com/sitnikcode/status/1679549264454623233)
+
 

@@ -270,5 +270,7 @@ Stuff about the heap:
 
 [Videos from the GHC Contributor’s Workshop](https://discourse.haskell.org/t/videos-from-the-ghc-contributors-workshop/6961)
 
+[the Staged Working group](https://mail.haskell.org/pipermail/ghc-devs/2023-June/021253.html)
+
 
 

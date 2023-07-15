@@ -189,6 +189,8 @@
 
 [browsers are cool](https://cohost.org/tef/post/1794038-special-interest-inf)
 
+[Route-based dialogs are not great](https://twitter.com/kentcdodds/status/1679936799291084801)
+
 
 
 

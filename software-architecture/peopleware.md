@@ -194,4 +194,6 @@
 
 [WIP PRs](https://twitter.com/srsholmes/status/1668940501989326849)
 
+[GitHub merge queue is generally available](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/)
+
 

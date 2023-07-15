@@ -335,4 +335,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Postgres schema changes are still a PITA](https://xata.io/blog/postgres-schema-changes-pita)
 
+[Postgresql tips](https://twitter.com/gwenshap/status/1679971835549724672)
+
 

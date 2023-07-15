@@ -720,4 +720,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Compiling to Intrinsically Typed Combinators](https://byorgey.wordpress.com/2023/07/13/compiling-to-intrinsically-typed-combinators/)
 
+[Quotient Haskell Lightweight Quotient Types for All](https://www.cs.nott.ac.uk/~pszgmh/quotient-haskell.pdf)
+
 

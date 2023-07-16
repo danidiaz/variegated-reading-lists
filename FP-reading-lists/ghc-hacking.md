@@ -272,5 +272,8 @@ Stuff about the heap:
 
 [the Staged Working group](https://mail.haskell.org/pipermail/ghc-devs/2023-June/021253.html)
 
+[type sharing, type level let](https://discourse.haskell.org/t/about-type-sharing-mostly-and-records-desugaring-mostly/7016/3)
+
+
 
 

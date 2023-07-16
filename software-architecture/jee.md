@@ -361,4 +361,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [spring, Thymeleaf and htmx](https://www.linkedin.com/events/springboot-thymeleaf-andhtmx7085889711675764736/comments/)
 
+[automapping in .NET](https://twitter.com/pdevito3/status/1680277396275036162)
+
 

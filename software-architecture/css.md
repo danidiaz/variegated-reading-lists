@@ -603,5 +603,7 @@ https://twitter.com/tailwindcss
 
 [text-wrap: balance](https://twitter.com/hypeddev/status/1679171435359617060)
 
+[new stuff in CSS](https://www.smashingmagazine.com/2023/07/writing-css-2023/)
+
 
 

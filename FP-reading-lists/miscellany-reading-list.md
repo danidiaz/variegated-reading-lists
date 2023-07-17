@@ -722,4 +722,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Quotient Haskell Lightweight Quotient Types for All](https://www.cs.nott.ac.uk/~pszgmh/quotient-haskell.pdf)
 
+[ the interpreter is easier. It involves two languages. A compiler involves three.](https://twitter.com/ezyang/status/1680776774811021312)
+
 

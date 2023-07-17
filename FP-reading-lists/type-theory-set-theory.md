@@ -323,6 +323,12 @@ a helpful degree of extra comfort.
 
 [hott 2023](https://lobste.rs/s/kxn40p/cmu_819_homotopy_type_theory_course)
 
+[computation is overrated](https://hachyderm.io/@MartinEscardo@mathstodon.xyz/110730923103062700)
+
+> Relying on definitional equalities for proving theorems is a recipe for disaster. 
+
+> It breaks modularity.
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

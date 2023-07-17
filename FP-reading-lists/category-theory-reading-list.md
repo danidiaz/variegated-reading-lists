@@ -1026,4 +1026,6 @@ get all equalities
 
 [the category of algebras of the empty signature, aka models of the theory of extensional equality](https://twitter.com/_julesh_/status/1672193335417503745)
 
+[What is the motivation for infinity category theory?](https://mathoverflow.net/questions/450835/what-is-the-motivation-for-infinity-category-theory/450885#450885)
+
 

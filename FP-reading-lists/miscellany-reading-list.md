@@ -724,4 +724,4 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [ the interpreter is easier. It involves two languages. A compiler involves three.](https://twitter.com/ezyang/status/1680776774811021312)
 
-
+[Typed Design Patterns for the Functional Era](https://arxiv.org/abs/2307.07069)

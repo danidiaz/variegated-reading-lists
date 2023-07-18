@@ -191,6 +191,8 @@
 
 [Route-based dialogs are not great](https://twitter.com/kentcdodds/status/1679936799291084801)
 
+[some REST links](https://hachyderm.io/@DiazCarrete/110735703547058305)
+
 
 
 

@@ -522,7 +522,7 @@ https://twitter.com/tailwindcss
 
 > Don’t reset margins 
 
-> There are quite a few HTML elements that web browsers automatically apply margins to, and although it’s very common to reset them (i.e., margin: 0;), you shouldn’t because web browsers do this for legitimate reasons. The <body> element uses margins to ensure that webpages remain readable and that touch targets don’t fall to the edges of mobile screens in the event that the CSS doesn’t load. Content elements (e.g. <h1>, <p>, and <figure>) apply margins for the same reason — accessibility. 
+> There are quite a few HTML elements that web browsers automatically apply margins to, and although it’s very common to reset them (i.e., margin: 0;), you shouldn’t because web browsers do this for legitimate reasons. The <body> element uses margins to ensure that webpages remain readable and that touch targets don’t fall to the edges of mobile screens in the event that the CSS doesn’t load. Content elements e.g. apply margins for the same reason — accessibility. 
 
 > Definitely reset the box model
 
@@ -605,5 +605,5 @@ https://twitter.com/tailwindcss
 
 [new stuff in CSS](https://www.smashingmagazine.com/2023/07/writing-css-2023/)
 
-
+[variables](https://twitter.com/anatudor/status/1681187167240896512)
 

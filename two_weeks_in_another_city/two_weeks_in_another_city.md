@@ -804,3 +804,6 @@ Bernini, his life and his Rome
 
 [space traders api game](https://lobste.rs/s/0l25al/spacetraders_api_based_game). [elite text adventure](https://lobste.rs/s/0l25al/spacetraders_api_based_game#c_zywpal)
 
+[godot vs unity](https://twitter.com/MajorMcDoom/status/1680989726520627200)
+
+

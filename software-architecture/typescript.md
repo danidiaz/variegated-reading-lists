@@ -159,3 +159,8 @@ const conforms: OnlyBoolsAndHorses = {
 [antipatterns](https://twitter.com/TkDodo/status/1672313484250325002)
 
 [I see so many bugs caused by devs trusting a value provided by the network](https://twitter.com/mattphillipsio/status/1672516898670403584)
+
+[Iterating over a known set of object keys in TypeScript](https://twitter.com/mattpocockuk/status/1681267079977000961)
+
+
+

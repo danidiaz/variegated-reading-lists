@@ -363,4 +363,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [automapping in .NET](https://twitter.com/pdevito3/status/1680277396275036162)
 
+[Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
+
 

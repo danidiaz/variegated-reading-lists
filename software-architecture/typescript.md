@@ -160,7 +160,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [I see so many bugs caused by devs trusting a value provided by the network](https://twitter.com/mattphillipsio/status/1672516898670403584)
 
-[Iterating over a known set of object keys in TypeScript](https://twitter.com/mattpocockuk/status/1681267079977000961)
+[Iterating over a known set of object keys in TypeScript](https://twitter.com/mattpocockuk/status/1681267079977000961). [more](https://twitter.com/TkDodo/status/1681699050653925379).
 
 
 

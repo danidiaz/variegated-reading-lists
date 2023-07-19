@@ -607,3 +607,6 @@ https://twitter.com/tailwindcss
 
 [variables](https://twitter.com/anatudor/status/1681187167240896512)
 
+[variables linked to elements](https://twitter.com/ChallengesCss/status/1681388526556807183)
+
+

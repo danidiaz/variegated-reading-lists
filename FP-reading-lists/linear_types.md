@@ -106,4 +106,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [data-forced](https://www.reddit.com/r/haskell/comments/12tkucn/presenting_dataforced_an_alternative_to_bang/)
 
+[Polynomial Time and Dependent Types](https://hachyderm.io/@arXiv_csLO_bot@mastoxiv.page/110739361251013639)
+
 

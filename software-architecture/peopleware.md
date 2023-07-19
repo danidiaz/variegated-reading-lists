@@ -196,6 +196,8 @@
 
 [GitHub merge queue is generally available](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/)
 
+[Why Chief Data and AI Officers Are Set Up to Fail](https://hbr.org/2023/06/why-chief-data-and-ai-officers-are-set-up-to-fail)
+
 
 
 

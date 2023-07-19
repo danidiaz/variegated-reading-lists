@@ -1028,4 +1028,6 @@ get all equalities
 
 [What is the motivation for infinity category theory?](https://mathoverflow.net/questions/450835/what-is-the-motivation-for-infinity-category-theory/450885#450885)
 
+[Paranatural Category Theory](https://arxiv.org/abs/2307.09289)
+
 

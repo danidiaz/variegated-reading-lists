@@ -198,6 +198,6 @@
 
 [Why Chief Data and AI Officers Are Set Up to Fail](https://hbr.org/2023/06/why-chief-data-and-ai-officers-are-set-up-to-fail)
 
-
+[You can't stop the business, or why rewrites fail](https://swizec.com/blog/you-can-t-stop-the-business-or-why-rewrites-fail/). [tweet](https://twitter.com/adrienjoly/status/1682337056066789377).
 
 

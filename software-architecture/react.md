@@ -893,4 +893,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Router context](https://twitter.com/notBachitter/status/1680933830495174656)
 
+[SPAs added incidental network complexity vs. traditional HTML + HTTP](https://twitter.com/ryanflorence/status/1682051143319552000)
+
 

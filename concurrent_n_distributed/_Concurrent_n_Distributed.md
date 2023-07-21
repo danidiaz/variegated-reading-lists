@@ -719,4 +719,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [retries and backoff](https://fediscience.org/@marcbrooker/110645316730835757)
 
+[Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
+
+
 

@@ -1357,4 +1357,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [one component per file is wrong](https://twitter.com/BHolmesDev/status/1679125597446979589)
 
+[Stick to boring architecture for as long as possible](https://addyosmani.com/blog/boring-architecture/). [tweet](https://twitter.com/addyosmani/status/1682144663149608960).
+
 

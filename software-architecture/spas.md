@@ -193,6 +193,10 @@
 
 [some REST links](https://hachyderm.io/@DiazCarrete/110735703547058305)
 
+[HTTP has become the default, universal communication protocol](https://lobste.rs/s/hq1sdr/http_has_become_default_universal)
+
+> Over the course of my career, I’ve come across something like O(100) custom protocols for service-to-service communication, all built with the assumption that e.g. JSON-over-HTTP would be too inefficient. These protocols were almost always underspecified, fragile, and fiendishly difficult to maintain. (No shade to their authors on these points – protocol design is hard!)
+
 
 
 

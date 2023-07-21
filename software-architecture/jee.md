@@ -365,4 +365,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
 
+[Hibernate's metamodel generator](https://twitter.com/1ovthafew/status/1682324169998888960)
+
 

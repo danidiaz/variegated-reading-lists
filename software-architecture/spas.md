@@ -197,6 +197,9 @@
 
 > Over the course of my career, I’ve come across something like O(100) custom protocols for service-to-service communication, all built with the assumption that e.g. JSON-over-HTTP would be too inefficient. These protocols were almost always underspecified, fragile, and fiendishly difficult to maintain. (No shade to their authors on these points – protocol design is hard!)
 
+[SPAs added incidental network complexity vs. traditional HTML + HTTP](https://twitter.com/ryanflorence/status/1682051143319552000)
+
+[htmx](https://twitter.com/BHolmesDev/status/1682037065767329798).
 
 
 

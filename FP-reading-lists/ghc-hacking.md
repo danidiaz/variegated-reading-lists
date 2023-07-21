@@ -274,6 +274,8 @@ Stuff about the heap:
 
 [type sharing, type level let](https://discourse.haskell.org/t/about-type-sharing-mostly-and-records-desugaring-mostly/7016/3)
 
-[The GHC Packaging Ecosystem - Duncan Coutts - 2023 GHC Contributor's Workshop](https://www.youtube.com/watch?v=XfTinQPjDQw)
+[The GHC Packaging Ecosystem - Duncan Coutts - 2023 GHC Contributor's Workshop](https://www.youtube.com/watch?v=XfTinQPjDQw). [slides](https://haskell.foundation/assets/other/Duncan%20Coutts%20-%20GHC%20Tool%20Ecosystem.pdf)
+
+
 
 

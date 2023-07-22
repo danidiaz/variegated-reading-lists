@@ -158,5 +158,7 @@
 
 [the Rust I wanted had no future](https://news.ycombinator.com/item?id=36193326)
 
+[error handling, also in C++](https://twitter.com/sadisticsystems/status/1682422067830898692)
+
 
 

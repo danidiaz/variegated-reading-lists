@@ -162,5 +162,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Iterating over a known set of object keys in TypeScript](https://twitter.com/mattpocockuk/status/1681267079977000961). [more](https://twitter.com/TkDodo/status/1681699050653925379).
 
+[drizzle ORM](https://twitter.com/kentcdodds/status/1682484161100259328)
+
 
 

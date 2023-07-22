@@ -1359,4 +1359,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Stick to boring architecture for as long as possible](https://addyosmani.com/blog/boring-architecture/). [tweet](https://twitter.com/addyosmani/status/1682144663149608960).
 
+[An “Order”, “Product” and “Payment” are different things](https://nickjanetakis.com/blog/what-i-learned-about-payment-systems-while-working-at-a-pizza-place)
+
 

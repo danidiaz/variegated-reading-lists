@@ -422,4 +422,6 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [thunder client VSCode](https://www.thunderclient.com/)
 
+[Internet Search Tips](https://gwern.net/search)
+
 

@@ -893,3 +893,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Router context](https://twitter.com/notBachitter/status/1680933830495174656)
 
+[Reusable Modals with Radix UI](https://www.youtube.com/watch?v=VM6YRrUsnUY)
+
+

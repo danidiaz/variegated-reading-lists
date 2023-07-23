@@ -201,7 +201,7 @@
 
 [htmx](https://twitter.com/BHolmesDev/status/1682037065767329798).
 
-
+[islands and partial hydration](https://twitter.com/greg_johnston/status/1682751410700447744)
 
 
 

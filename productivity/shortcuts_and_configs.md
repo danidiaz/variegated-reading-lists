@@ -424,4 +424,6 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [Internet Search Tips](https://gwern.net/search)
 
+[vim's <<< EOF](https://twitter.com/learnvim/status/1681692119189139458)
+
 

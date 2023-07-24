@@ -1030,4 +1030,18 @@ get all equalities
 
 [Paranatural Category Theory](https://arxiv.org/abs/2307.09289)
 
+[All types from the kan-extensions package are special cases of Procompose, Rift and Ran from the profunctors package.](https://twitter.com/sjoerd_visscher/status/1683397773784150018)
+
+[Lawvere's fixed point theorem](https://ncatlab.org/nlab/show/Lawvere's+fixed+point+theorem). [A Universal Approach to Self-Referential Paradoxes, Incompleteness and Fixed Points](https://arxiv.org/abs/math/0305282). [Y combinator as an application of Lawvere's fixed point theorem](https://math.stackexchange.com/questions/2823016/y-combinator-as-an-application-of-lawveres-fixed-point-theorem).
+
+> On a philosophical level, this generalized Cantor’s theorem says that as long
+as the truth-values or properties of T are non-trivial, there is no way that a
+set T of things can “talk about” or “describe” their own truthfulness or their
+own properties. In other words, there must be a limitation in the way that T
+deals with its own properties.
+
+
+
+
+
 

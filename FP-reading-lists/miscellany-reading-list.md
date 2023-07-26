@@ -728,4 +728,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [The best multicore-parallelization refactoring you’ve never heard of (involves CPS and defunctionalization)](https://www.pathsensitive.com/2019/07/the-best-refactoring-youve-never-heard.html). [tweet](https://twitter.com/jimmykoppel/status/1683223530224140288)
 
+[Infix-Extensible Record Types for Tabular Data](https://xnning.github.io/papers/tyde23.pdf)
 

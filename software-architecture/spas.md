@@ -227,4 +227,10 @@
 
 [A deep dive into caching REST APIs](https://stellate.co/blog/deep-dive-into-caching-rest-apis)
 
+[Using Cache-Control header with react-query](https://stackoverflow.com/questions/76562503/using-cache-control-header-with-react-query)
+
+> React Query has no knowledge of response headers. It's promise based, and you can use any way you want to produce a promise. So by that definition, it cannot know about network headers.
+
+> Imo there also isn't much value in syncing these two things - they are different layers of caches that build upon each other. If you have browser caching enabled via the Cache-Control header, you can just as well keep staleTime to zero and let the background refetches trigger when necessary, because they will read from the browser cache anyways.
+
 

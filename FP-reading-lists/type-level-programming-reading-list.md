@@ -423,5 +423,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [The Haskell Unfolder Episode 2: quantified constraints](https://www.reddit.com/r/haskell/comments/136tahj/the_haskell_unfolder_episode_2_quantified/)
 
+[HOW TO PREVENT GHC FROM INFERRING TYPES WITH UNDESIRABLE CONSTRAINTS](https://www.tweag.io/blog/2023-07-20-ill-formedness-indicators/)
 
 

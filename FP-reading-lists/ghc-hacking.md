@@ -276,6 +276,8 @@ Stuff about the heap:
 
 [The GHC Packaging Ecosystem - Duncan Coutts - 2023 GHC Contributor's Workshop](https://www.youtube.com/watch?v=XfTinQPjDQw). [slides](https://haskell.foundation/assets/other/Duncan%20Coutts%20-%20GHC%20Tool%20Ecosystem.pdf)
 
+[An Exceptional Actor System](https://arxiv.org/abs/2307.11194)
+
 
 
 

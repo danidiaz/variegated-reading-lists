@@ -730,3 +730,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Infix-Extensible Record Types for Tabular Data](https://xnning.github.io/papers/tyde23.pdf)
 
+[value-vased debugging](https://gist.github.com/gelisam/820dae569c6b0747098a001dc6ae7eaf).
+
+

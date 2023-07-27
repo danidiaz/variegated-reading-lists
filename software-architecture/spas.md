@@ -203,5 +203,13 @@
 
 [islands and partial hydration](https://twitter.com/greg_johnston/status/1682751410700447744)
 
+[cache-control : private](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching). [What is Cache-Control: private?](https://stackoverflow.com/questions/12908766/what-is-cache-control-private). [great answer](https://stackoverflow.com/a/49637255/1364288).
 
+> In the HTTP Caching spec, there are two main types of caches: private caches and shared caches.
+
+> A private cache is a cache tied to a specific client — typically a browser cache. Since the stored response is not shared with other clients, a private cache can store a personalized response for that user.
+
+> On the other hand, if personalized contents are stored in a cache other than a private cache, then other users may be able to retrieve those contents — which may cause unintentional information leakage.
+
+> If a response contains personalized content and you want to store the response only in the private cache, you must specify a private directive.
 

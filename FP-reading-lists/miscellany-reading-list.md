@@ -732,4 +732,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [value-vased debugging](https://gist.github.com/gelisam/820dae569c6b0747098a001dc6ae7eaf).
 
+[the difference between type variables, unification variables and skolems](https://cohost.org/prophet/post/2220730-if-there-is-one-piec)
+
 

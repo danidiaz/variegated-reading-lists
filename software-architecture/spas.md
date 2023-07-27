@@ -224,3 +224,7 @@
 [How to let the browser or PHP cache a fetch() request?](https://stackoverflow.com/questions/73271516/how-to-let-the-browser-or-php-cache-a-fetch-request)
 
 > fetch() behaves the same as a regular HTTP request, so you can just apply the standard HTTP rules regarding caching.
+
+[A deep dive into caching REST APIs](https://stellate.co/blog/deep-dive-into-caching-rest-apis)
+
+

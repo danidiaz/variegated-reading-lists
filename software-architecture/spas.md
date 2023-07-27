@@ -213,3 +213,14 @@
 
 > If a response contains personalized content and you want to store the response only in the private cache, you must specify a private directive.
 
+[Content type for HTML fragments](https://stackoverflow.com/questions/19303361/content-type-for-html-fragments)
+
+[htmx requests and responses](https://htmx.org/docs/)
+
+> Htmx expects responses to the AJAX requests it makes to be HTML, typically HTML fragments (although a full HTML document, matched with a hx-select tag can be useful too)
+
+[Do modern browsers cache ajax responses?](https://stackoverflow.com/questions/41892700/do-modern-browsers-cache-ajax-responses)
+
+[How to let the browser or PHP cache a fetch() request?](https://stackoverflow.com/questions/73271516/how-to-let-the-browser-or-php-cache-a-fetch-request)
+
+> fetch() behaves the same as a regular HTTP request, so you can just apply the standard HTTP rules regarding caching.

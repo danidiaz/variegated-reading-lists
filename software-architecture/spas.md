@@ -233,4 +233,6 @@
 
 > Imo there also isn't much value in syncing these two things - they are different layers of caches that build upon each other. If you have browser caching enabled via the Cache-Control header, you can just as well keep staleTime to zero and let the background refetches trigger when necessary, because they will read from the browser cache anyways.
 
+[url with dialog](https://twitter.com/housecor/status/1685269087457329153)
+
 

@@ -1060,3 +1060,6 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 > nix-repl> "${./foo.txt}"
 > "/nix/store/lz4553i89z3abxvsc9xpp6dx0gbinzyb-foo.txt"
 
+[Haskell for all: How to use NixOS for lightweight integration tests](https://www.haskellforall.com/2020/11/how-to-use-nixos-for-lightweight.html)
+
+

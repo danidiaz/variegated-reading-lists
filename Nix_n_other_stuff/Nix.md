@@ -1023,4 +1023,6 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 
 [Nix why-depends](https://twitter.com/ProgrammerDude/status/1662744672811319297)
 
+[cleanSource](https://github.com/NixOS/nixpkgs/blob/1c10051e58f643a199bfe8a1e634d12940f9522f/lib/sources.nix). [gitignore.nix](https://github.com/hercules-ci/gitignore.nix). [readTree](https://code.tvl.fyi/about/nix/readTree).  
+
 

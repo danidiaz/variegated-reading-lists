@@ -118,5 +118,7 @@
 
 [intercepting http proxy - disadvantages compared to a normal proxy](https://stackoverflow.com/questions/9274836/intercepting-http-proxy-disadvantages-compared-to-a-normal-proxy). [Intercept a macOS app traffic using mitmproxy](https://www.codejam.info/2021/07/intercept-macos-app-traffic-mitmproxy.html).
 
+[why is DNS still hard to learn?](https://news.ycombinator.com/item?id=36909427)
+
 
 

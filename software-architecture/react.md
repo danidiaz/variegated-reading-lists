@@ -895,4 +895,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Reusable Modals with Radix UI](https://www.youtube.com/watch?v=VM6YRrUsnUY)
 
+[Where to put app logic](https://twitter.com/DavidKPiano/status/1685047651400626176). [more](https://twitter.com/tannerlinsley/status/1685102542710308864).
+
 

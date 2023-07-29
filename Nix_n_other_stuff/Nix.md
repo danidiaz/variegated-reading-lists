@@ -1025,7 +1025,18 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 
 [cleanSource](https://github.com/NixOS/nixpkgs/blob/1c10051e58f643a199bfe8a1e634d12940f9522f/lib/sources.nix). [gitignore.nix](https://github.com/hercules-ci/gitignore.nix). [readTree](https://code.tvl.fyi/about/nix/readTree).  
 
-[A path (e.g., ../foo/sources.tar) causes the referenced file to be copied to the store; its location in the store is put in the environment variable.](https://nixos.org/manual/nix/stable/language/derivations.html). [Relative path support for Nix flakes](https://discourse.nixos.org/t/relative-path-support-for-nix-flakes/18795). [ You know nix allows relative paths to be used,](https://nixos.org/guides/nix-pills/nix-store-paths.html#idm140737319582576). [When does a Nix path type make it into the Nix store when converted to a string and when not?](https://stackoverflow.com/questions/43850371/when-does-a-nix-path-type-make-it-into-the-nix-store-when-converted-to-a-string)
+[Filtering Source Trees with Nix and Nixpkgs](https://discourse.nixos.org/t/filtering-source-trees-with-nix-and-nixpkgs/19148). [clean the source](https://stonecode.ca/clean-the-source/). [reddit](https://www.reddit.com/r/NixOS/comments/nrhiof/clean_the_source_libcleansource/). [mastodon](https://hachyderm.io/@DiazCarrete/110798585198356457).
+
+> Omitting cleanSource will not break your derivation, but it does make it much more difficult to get repeatable builds. In particular, if you are doing in-tree builds, symbolic links created by nix-build will change the source tree after every build. A simple change to the derivation eliminates much of the cruft in your source directory, and helps achieve repeatable builds.
+
+> nix-repl> p = import <nixpkgs> {}
+> nix-repl> cleaned = p.lib.cleanSource ./foldy2
+> nix-repl> cleaner
+> nix-repl> cleaned
+> { _isLibCleanSourceWith = true; filter = «lambda @ /nix/store/spmy084a6l0phb574zdbb2zm6bb737b3-nixpkgs/nixpkgs/lib/sources.nix:105:16»; name = "source"; origSrc = /tmp/nixtest/foldy2; outPath = "/nix/store/pik4ddl1wm8kp3ir3zmld1jg4nbyfnwp-source"; }
+
+
+[A path (e.g., ../foo/sources.tar) causes the referenced file to be copied to the store; its location in the store is put in the environment variable.](https://nixos.org/manual/nix/stable/language/derivations.html). [Relative path support for Nix flakes](https://discourse.nixos.org/t/relative-path-support-for-nix-flakes/18795). [ You know nix allows relative paths to be used,](https://nixos.org/guides/nix-pills/nix-store-paths.html#idm140737319582576). [When does a Nix path type make it into the Nix store when converted to a string and when not?](https://stackoverflow.com/questions/43850371/when-does-a-nix-path-type-make-it-into-the-nix-store-when-converted-to-a-string). [When is a path in a Nix expression copied into the Nix store?](https://discourse.nixos.org/t/when-is-a-path-in-a-nix-expression-copied-into-the-nix-store/27052).
 
 > Now inspect the .drv to see where is ./myfile being stored
 
@@ -1033,6 +1044,19 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 
 > Note: doing nix-store --add myfile will store the file in the same store path.
 
+> The copying of files into /nix/store happens at the time of nix-instantiate [is this correct?] the evaluation of nix expressions is still purely functional (no copying around happens at evaluation time), but instantiation ("building") is not.
 
+[nix-instantiate](https://nixos.org/manual/nix/stable/command-ref/nix-instantiate.html). [What is the purpose of nix-instantiate? What is a store-derivation?](https://stackoverflow.com/questions/31490262/what-is-the-purpose-of-nix-instantiate-what-is-a-store-derivation). [nix diff](https://www.haskellforall.com/2017/11/compare-nix-derivations-using-nix-diff.html).
 
+> nix-instantiate converts Nix source code to Nix derivations
+
+> nix-store --realise converts Nix derivations to Nix build products
+
+[type-path](https://nixos.org/manual/nix/stable/language/values.html#type-path)
+
+> When an interpolated string evaluates to a path, the path is first copied into the Nix store and the resulting string is the store path of the newly created store object.
+
+> nixtest$ nix repl
+> nix-repl> "${./foo.txt}"
+> "/nix/store/lz4553i89z3abxvsc9xpp6dx0gbinzyb-foo.txt"
 

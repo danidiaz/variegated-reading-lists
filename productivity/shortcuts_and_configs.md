@@ -430,4 +430,5 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [git push --follow-tags](https://git-scm.com/docs/git-push)
 
+[curl host trick](https://twitter.com/mholt6/status/1684962279669035008)
 

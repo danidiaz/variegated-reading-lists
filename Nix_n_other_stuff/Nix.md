@@ -1025,4 +1025,14 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 
 [cleanSource](https://github.com/NixOS/nixpkgs/blob/1c10051e58f643a199bfe8a1e634d12940f9522f/lib/sources.nix). [gitignore.nix](https://github.com/hercules-ci/gitignore.nix). [readTree](https://code.tvl.fyi/about/nix/readTree).  
 
+[A path (e.g., ../foo/sources.tar) causes the referenced file to be copied to the store; its location in the store is put in the environment variable.](https://nixos.org/manual/nix/stable/language/derivations.html). [Relative path support for Nix flakes](https://discourse.nixos.org/t/relative-path-support-for-nix-flakes/18795). [ You know nix allows relative paths to be used,](https://nixos.org/guides/nix-pills/nix-store-paths.html#idm140737319582576). [When does a Nix path type make it into the Nix store when converted to a string and when not?](https://stackoverflow.com/questions/43850371/when-does-a-nix-path-type-make-it-into-the-nix-store-when-converted-to-a-string)
+
+> Now inspect the .drv to see where is ./myfile being stored
+
+> Great, how did nix decide to use xv2iccirbrvklck36f1g7vldn5v58vck ? Keep looking at the nix comments.
+
+> Note: doing nix-store --add myfile will store the file in the same store path.
+
+
+
 

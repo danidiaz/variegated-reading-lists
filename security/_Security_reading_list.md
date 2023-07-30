@@ -740,4 +740,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [content disarm and reconstruction](https://twitter.com/SwiftOnSecurity/status/1679523866018807808)
 
+[auth in the Epic Stack](https://twitter.com/kentcdodds/status/1685662794698612736)
+
 

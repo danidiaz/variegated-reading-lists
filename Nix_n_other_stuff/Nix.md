@@ -1062,4 +1062,26 @@ nix-repl> builtins.typeOf (r.extend (final : prev : prev))
 
 [Haskell for all: How to use NixOS for lightweight integration tests](https://www.haskellforall.com/2020/11/how-to-use-nixos-for-lightweight.html). [QEMU vs. KVM: Exploring the Virtualization Giants](https://cloudzy.com/blog/qemu-vs-kvm/). [Difference between KVM and QEMU](https://serverfault.com/questions/208693/difference-between-kvm-and-qemu#_=_). 
 
+[impure nix derivations](https://hackmd.io/@garbas/ByIFRQhSj). [A way to list all locally realised fixed output derivations](https://github.com/NixOS/nix/issues/6508).
+
+> let pkgs = import <nixpkgs> {};
+>  in
+> pkgs.stdenv.mkDerivation {
+>   name = "impure";
+>   __impure = true; # marks this derivation as impure
+>   buildCommand = "date > $out";
+> }
+
+> $ nix build --json -v --print-out-paths -f foo.nix
+
+> $ nix realisation info --impure --json -f foo.nix
+> this derivation will be built:
+>   /nix/store/32pdpzaj793kg4q1paxc6bhzhnf93n8j-impure.drv
+> error: cannot operate on an output of the unbuilt derivation 'sha256:ddffc26775f61118da8597d1f2f62c544ec92461b31b5b1075ed8689a7ee8292!out' 
+
+For a pure derivation, this works:
+
+> $ nix build --json -v --print-out-paths -f bar.nix
+> [{"drvPath":"/nix/store/0n0g5z00dd0rnjrjfvc7pa5pd8smb1a3-impure.drv","outputs":{"out":"/nix/store/q5y3d3bzy9j0y2rh7gxh9r4492fihs2i-impure"},"startTime":0,"stopTime":0}]
+
 

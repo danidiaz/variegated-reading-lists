@@ -1084,4 +1084,9 @@ For a pure derivation, this works:
 > $ nix build --json -v --print-out-paths -f bar.nix
 > [{"drvPath":"/nix/store/0n0g5z00dd0rnjrjfvc7pa5pd8smb1a3-impure.drv","outputs":{"out":"/nix/store/q5y3d3bzy9j0y2rh7gxh9r4492fihs2i-impure"},"startTime":0,"stopTime":0}]
 
+And this:
+
+$ nix path-info --derivation /nix/store/q5y3d3bzy9j0y2rh7gxh9r4492fihs2i-impure
+/nix/store/0n0g5z00dd0rnjrjfvc7pa5pd8smb1a3-impure.drv
+
 

@@ -1040,6 +1040,8 @@ set T of things can “talk about” or “describe” their own truthfulness or
 own properties. In other words, there must be a limitation in the way that T
 deals with its own properties.
 
+[folds and unfolds using squares](https://hachyderm.io/@sjoerd_visscher@types.pl/110803036731444509)
+
 
 
 

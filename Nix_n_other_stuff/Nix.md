@@ -1094,4 +1094,6 @@ What! This does work! How to go in the opposite direction?
 > $ nix-store --query --deriver /nix/store/pkiv6mw6cbivnj9cam44gb94q9lm6asq-impure
 > /nix/store/cgyaqn1pzfhvrn6m758bnfl0bfs9ri47-impure.drv
 
+[nixos and flakes for beginners](https://nixos-and-flakes.thiscute.world/)
+
 

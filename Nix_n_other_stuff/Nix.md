@@ -1096,4 +1096,6 @@ What! This does work! How to go in the opposite direction?
 
 [nixos and flakes for beginners](https://nixos-and-flakes.thiscute.world/)
 
+[super colliding Nix stores](https://discourse.nixos.org/t/super-colliding-nix-stores/28462/11)
+
 

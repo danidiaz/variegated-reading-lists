@@ -1086,12 +1086,12 @@ For a pure derivation, this works:
 
 And this:
 
-$ nix path-info --derivation /nix/store/q5y3d3bzy9j0y2rh7gxh9r4492fihs2i-impure
-/nix/store/0n0g5z00dd0rnjrjfvc7pa5pd8smb1a3-impure.drv
+> $ nix path-info --derivation /nix/store/q5y3d3bzy9j0y2rh7gxh9r4492fihs2i-impure
+> /nix/store/0n0g5z00dd0rnjrjfvc7pa5pd8smb1a3-impure.drv
 
 What! This does work! How to go in the opposite direction?
 
-$ nix-store --query --deriver /nix/store/pkiv6mw6cbivnj9cam44gb94q9lm6asq-impure
-/nix/store/cgyaqn1pzfhvrn6m758bnfl0bfs9ri47-impure.drv
+> $ nix-store --query --deriver /nix/store/pkiv6mw6cbivnj9cam44gb94q9lm6asq-impure
+> /nix/store/cgyaqn1pzfhvrn6m758bnfl0bfs9ri47-impure.drv
 
 

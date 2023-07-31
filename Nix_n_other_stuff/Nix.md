@@ -1096,6 +1096,8 @@ What! This does work! How to go in the opposite direction?
 
 [nixos and flakes for beginners](https://nixos-and-flakes.thiscute.world/)
 
+> An operating system consists of various software packages, configuration files, and text/binary data, all of which represent the current state of the system. Declarative configuration can manage only the static portion of this state. Dynamic data, such as PostgreSQL, MySQL, or MongoDB data, cannot be effectively managed through declarative configuration(It is not feasible to delete all new PostgreSQL data that is not declared in the configuration during each deployment). Therefore, NixOS primarily focuses on managing a portion of the system state in a declarative manner. Dynamic data mentioned above, along with the contents in the user's home directory, remain unaffected by NixOS when rolling back to a previous generation.
+
 [super colliding Nix stores](https://discourse.nixos.org/t/super-colliding-nix-stores/28462/11)
 
 

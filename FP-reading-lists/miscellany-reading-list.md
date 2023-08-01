@@ -736,4 +736,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [twain](https://gilmi.me/blog/post/2023/07/01/why-i-use-twain)
 
+[Generic Programming with Extensible Data Types Or, Making Ad Hoc Extensible Data Types Less Ad Hoc](https://ahubers.github.io/higher.pdf)
+
+
 

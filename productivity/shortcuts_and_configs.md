@@ -432,3 +432,6 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [curl host trick](https://twitter.com/mholt6/status/1684962279669035008)
 
+[jq 1.7rc1](https://github.com/jqlang/jq/releases/tag/jq-1.7rc1)
+
+

@@ -1361,4 +1361,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [An “Order”, “Product” and “Payment” are different things](https://nickjanetakis.com/blog/what-i-learned-about-payment-systems-while-working-at-a-pizza-place)
 
+[don't be clever](https://news.ycombinator.com/item?id=36984695)
+
 

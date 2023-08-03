@@ -108,4 +108,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Polynomial Time and Dependent Types](https://hachyderm.io/@arXiv_csLO_bot@mastoxiv.page/110739361251013639)
 
+[Haskell Interlude 31: Arnaud Spiwack](https://discourse.haskell.org/t/haskell-interlude-31-arnaud-spiwack/7154)
+
 

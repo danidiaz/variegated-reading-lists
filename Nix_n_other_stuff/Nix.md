@@ -1104,4 +1104,6 @@ What! This does work! How to go in the opposite direction?
 
 > error: derivation '/nix/store/cgl13lbj1w368r5z8gywipl1ifli7dhk-unstable.drv' may not be deterministic
 
+[Dirty Nix flake quality-of-life hacks](https://siraben.dev/2022/02/13/nix-flake-hacks.html)
+
 

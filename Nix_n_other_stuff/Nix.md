@@ -1100,4 +1100,8 @@ What! This does work! How to go in the opposite direction?
 
 [super colliding Nix stores](https://discourse.nixos.org/t/super-colliding-nix-stores/28462/11)
 
+[Spot-Checking Build Determinism](https://nixos.org/manual/nix/stable/advanced-topics/diff-hook.html)
+
+> error: derivation '/nix/store/cgl13lbj1w368r5z8gywipl1ifli7dhk-unstable.drv' may not be deterministic
+
 

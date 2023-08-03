@@ -65,4 +65,5 @@
 
 [Your CI/CD pipeline should start on the developer's laptop](https://twitter.com/solomonstre/status/1649118014594502656)
 
+[Job retries in Buildkite](https://buildkite.com/blog/job-retries)
 

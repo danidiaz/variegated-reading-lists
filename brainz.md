@@ -166,3 +166,6 @@ Things for which I found ChatGPT useful:
 
 [overuse?](https://twitter.com/hot_girl_spring/status/1681556263526707200). [more](https://twitter.com/hrstmr98/status/1681571051619356673).
 
+[ review fatigue](https://martinfowler.com/articles/exploring-gen-ai.html#in-line-assistance---when-is-it-more-useful). [tweet](https://twitter.com/martinfowler/status/1687132532989661184).
+
+

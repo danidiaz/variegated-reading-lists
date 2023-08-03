@@ -235,4 +235,6 @@
 
 [url with dialog](https://twitter.com/housecor/status/1685269087457329153)
 
+[If Web Components are so great, why am I not using them? ](https://lobste.rs/s/jes0ss/if_web_components_are_so_great_why_am_i_not)
+
 

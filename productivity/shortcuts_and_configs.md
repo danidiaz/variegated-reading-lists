@@ -434,4 +434,10 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [jq 1.7rc1](https://github.com/jqlang/jq/releases/tag/jq-1.7rc1)
 
+[My Favorite Vim Oneliners For Text Manipulation](https://lobste.rs/s/wqu83x/my_favorite_vim_oneliners_for_text)
+
+> :%!foo replaces the entire buffer with the output of piping the buffer contents to foo.
+
+> :w !foo just pipes the buffer contents to foo and displays the output, leaving the buffer unchanged.
+
 

@@ -67,3 +67,6 @@
 
 [Job retries in Buildkite](https://buildkite.com/blog/job-retries)
 
+[Don’t Configure Control Flow](https://lobste.rs/s/ycj1l5/don_t_configure_control_flow)
+
+

@@ -207,6 +207,6 @@
 
 [linux kernel modules](https://sysprog21.github.io/lkmpg/)
 
-
+[behind Hello world on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/)
 
 

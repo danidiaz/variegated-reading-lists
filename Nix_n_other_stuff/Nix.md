@@ -1109,3 +1109,7 @@ What! This does work! How to go in the opposite direction?
 [trying to run the NixOS tests in WSL2](https://github.com/microsoft/WSL/issues/4193)
 
 > error: a 'x86_64-linux' with features {kvm, nixos-test} is required to build '/nix/store/5zlxjs9xfb98yqhs1q4xsd15j81bcb2g-vm-test-run-unnamed.drv', but I am a 'x86_64-linux' with features {benchmark, big-parallel, ca-derivations, nixos-test, uid-range}
+
+[Customizing packages in Nix](https://bobvanderlinden.me/customizing-packages-in-nix/)
+
+

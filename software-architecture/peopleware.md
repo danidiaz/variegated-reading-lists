@@ -200,4 +200,6 @@
 
 [You can't stop the business, or why rewrites fail](https://swizec.com/blog/you-can-t-stop-the-business-or-why-rewrites-fail/). [tweet](https://twitter.com/adrienjoly/status/1682337056066789377).
 
+[do something](https://news.ycombinator.com/item?id=36986795)
+
 

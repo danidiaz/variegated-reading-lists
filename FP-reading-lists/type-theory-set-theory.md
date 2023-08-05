@@ -329,6 +329,10 @@ a helpful degree of extra comfort.
 
 > It breaks modularity.
 
+[“Free theorems from univalent reference types” ](https://hachyderm.io/@jonmsterling@mathstodon.xyz/110813508613167094)
+
+> This means that a program that allocates an imperative counter counting forward is actually equal to one that allocates one counting backward, so long as the "read" method takes the absolute value. In usual settings, such a result holds UP TO OBSERVATIONAL EQUIVALENCE
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

@@ -399,4 +399,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 > However, the key difference is that if you import a resource *then you now manage it*.
 
+[Terraform best practices for reliability at any scale ](https://news.ycombinator.com/item?id=37004617)
+
 

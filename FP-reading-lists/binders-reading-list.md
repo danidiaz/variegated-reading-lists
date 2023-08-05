@@ -386,6 +386,8 @@ is not a problem)
 
 [For tree-shaped contexts (like in bunched implication), the right name-free representation looks like *binary* numbers](https://twitter.com/alpha_convert/status/1668638126909300736)
 
+[Formalizing Monoidal Categories and Actions for Syntax with Binders](https://arxiv.org/abs/2307.16270)
+
 
 
 

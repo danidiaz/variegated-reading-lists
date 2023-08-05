@@ -51,4 +51,6 @@
 
 [Datasette tutorial: Data analysis with SQLite and Python](https://twitter.com/simonw/status/1675546706468044803)
 
+[Building a pivot table in SQLite](https://antonz.org/sqlite-pivot-table/)
+
 

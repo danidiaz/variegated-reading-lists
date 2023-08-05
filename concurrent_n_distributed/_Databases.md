@@ -908,6 +908,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Database Auto increment vs UUID - Which is Right for You?](https://www.youtube.com/watch?v=5Xog8d_2um4)
 
+[Eventual Business Consistency (about Bitemporality)](https://tidyfirst.substack.com/p/eventual-business-consistency). [hn](https://news.ycombinator.com/item?id=37009296).
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

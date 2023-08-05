@@ -120,3 +120,6 @@
 
 [why is DNS still hard to learn?](https://news.ycombinator.com/item?id=36909427)
 
+[rollback network code](https://twitter.com/SebAaltonen/status/1687691543157829632)
+
+

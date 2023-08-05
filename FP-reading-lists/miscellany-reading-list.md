@@ -750,4 +750,14 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > Closure conversion  is a program transformation that achieves a separation between code and data. Functions with free variables are replaced by code abstracted on an extra environment parameter. Free variables in the body of the function are replaced by references to the environment. The abstracted code is \partially applied" to an explicitly constructed environment providing the bindings for these variables. This \partial application" of the code to its environment is in fact suspended until the function is actually applied to its argument; the suspended application is called a \closure", a data structure containing pure code and a representation of its environment.  A critical decision in closure conversion is the choice of representation of the environment as a data structure | for example, whether to use a ", \linked", or hybrid representation.
 
+[Closure conversion: How to compile lambda](https://matt.might.net/articles/closure-conversion/)
+
+> Syntactically, lambda refers to a form for describing anonymous functions.
+
+> But, a lambda does not become a function pointer.
+
+> It becomes a closure.
+
+> Closures are data structures with both a code and a data component.
+
 

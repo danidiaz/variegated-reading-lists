@@ -738,5 +738,9 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Generic Programming with Extensible Data Types Or, Making Ad Hoc Extensible Data Types Less Ad Hoc](https://ahubers.github.io/higher.pdf)
 
+[linkers and defunctionalization](https://hachyderm.io/@rntz@recurse.social/110838064598446535)
+
+> You can compile first-class functions via closure conversion or defunctionalization. I used to look down on the latter, since it’s a whole-program transform. But, secretly, so is closure conversion: it needs a relocating linker!
+
 
 

@@ -742,5 +742,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > You can compile first-class functions via closure conversion or defunctionalization. I used to look down on the latter, since it’s a whole-program transform. But, secretly, so is closure conversion: it needs a relocating linker!
 
+> In closure conversion, a lambda becomes a ‘closure’ containing a function pointer and closed-over variables.
+
+> In defunctionalization, each lambda creates a branch of a datatype, with arguments for closed-over variables, and a global ‘apply’ function case-analyses this type.
 
 

@@ -746,9 +746,11 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > In defunctionalization, each lambda creates a branch of a datatype, with arguments for closed-over variables, and a global ‘apply’ function case-analyses this type.
 
-[typed closure conversion](https://www.cs.cmu.edu/~rwh/papers/closures/popl96.pdf). [Typed Closure Conversion for the Calculus of Constructions](https://arxiv.org/pdf/1808.04006.pdf). [Type Systems for Closure Conversions](http://web.cs.ucla.edu/~palsberg/tba/papers/hannan-tpa95.pdf). [Closure Conversion as CoYoneda](https://prl.khoury.northeastern.edu/blog/2017/08/28/closure-conversion-as-coyoneda/)
+[typed closure conversion](https://www.cs.cmu.edu/~rwh/papers/closures/popl96.pdf). [Typed Closure Conversion for the Calculus of Constructions](https://arxiv.org/pdf/1808.04006.pdf). [Type Systems for Closure Conversions](http://web.cs.ucla.edu/~palsberg/tba/papers/hannan-tpa95.pdf). [Closure Conversion as CoYoneda](https://prl.khoury.northeastern.edu/blog/2017/08/28/closure-conversion-as-coyoneda/). [closure conversion slides](http://lampwww.epfl.ch/teaching/archive/advanced_compiler/2007/resources/slides/act-2007-05-closure-conversion.pdf)
 
 > Closure conversion  is a program transformation that achieves a separation between code and data. Functions with free variables are replaced by code abstracted on an extra environment parameter. Free variables in the body of the function are replaced by references to the environment. The abstracted code is \partially applied" to an explicitly constructed environment providing the bindings for these variables. This \partial application" of the code to its environment is in fact suspended until the function is actually applied to its argument; the suspended application is called a \closure", a data structure containing pure code and a representation of its environment.  A critical decision in closure conversion is the choice of representation of the environment as a data structure | for example, whether to use a ", \linked", or hybrid representation.
+
+> C functions cannot be nested: they must all appear at the top level. This severely restricts their usefulness, but greatly simplifies their implementation – they can be represented as simple code pointers.
 
 [Closure conversion: How to compile lambda](https://matt.might.net/articles/closure-conversion/)
 

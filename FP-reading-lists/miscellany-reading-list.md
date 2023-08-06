@@ -756,6 +756,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > The output of closure conversion is therefore a program in which functions can be represented as code pointers!
 
+> The free variables of a function are the variables that are used but not defined in that function – i.e. they are defined in some enclosing scope.
+
 [Closure conversion: How to compile lambda](https://matt.might.net/articles/closure-conversion/)
 
 > Syntactically, lambda refers to a form for describing anonymous functions.

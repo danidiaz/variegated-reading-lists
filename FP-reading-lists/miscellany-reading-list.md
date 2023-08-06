@@ -752,6 +752,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > C functions cannot be nested: they must all appear at the top level. This severely restricts their usefulness, but greatly simplifies their implementation – they can be represented as simple code pointers.
 
+> The output of closure conversion is therefore a program in which functions can be represented as code pointers!
+
 [Closure conversion: How to compile lambda](https://matt.might.net/articles/closure-conversion/)
 
 > Syntactically, lambda refers to a form for describing anonymous functions.

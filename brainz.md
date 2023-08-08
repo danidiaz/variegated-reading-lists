@@ -168,4 +168,6 @@ Things for which I found ChatGPT useful:
 
 [ review fatigue](https://martinfowler.com/articles/exploring-gen-ai.html#in-line-assistance---when-is-it-more-useful). [tweet](https://twitter.com/martinfowler/status/1687132532989661184).
 
+[catching up](https://twitter.com/simonw/status/1687117410984431616)
+
 

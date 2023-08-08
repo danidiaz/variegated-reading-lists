@@ -237,4 +237,6 @@
 
 [If Web Components are so great, why am I not using them? ](https://lobste.rs/s/jes0ss/if_web_components_are_so_great_why_am_i_not)
 
+[text fragments API](https://twitter.com/simonw/status/1688931466737303553)
+
 

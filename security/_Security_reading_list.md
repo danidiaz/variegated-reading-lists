@@ -742,4 +742,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [auth in the Epic Stack](https://twitter.com/kentcdodds/status/1685662794698612736)
 
+[ssh keys vs passkeys](https://news.ycombinator.com/item?id=35854969)
+
 

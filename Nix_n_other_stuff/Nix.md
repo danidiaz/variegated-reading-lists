@@ -1112,4 +1112,6 @@ What! This does work! How to go in the opposite direction?
 
 [Customizing packages in Nix](https://bobvanderlinden.me/customizing-packages-in-nix/)
 
+[issues plaging Nix](https://lobste.rs/s/cojupc/many_issues_plaguing_nix)
+
 

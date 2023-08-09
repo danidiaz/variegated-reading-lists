@@ -401,4 +401,4 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Terraform best practices for reliability at any scale ](https://news.ycombinator.com/item?id=37004617)
 
-
+[problems with terraform autoscaling group](https://twitter.com/ProgrammerDude/status/1689330746375233536)

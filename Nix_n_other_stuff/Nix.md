@@ -1114,4 +1114,8 @@ What! This does work! How to go in the opposite direction?
 
 [issues plaging Nix](https://lobste.rs/s/cojupc/many_issues_plaguing_nix)
 
+[stop using nix-env](https://stop-using-nix-env.privatevoid.net/)
+
+> It picks packages by attribute name rather than derivation name and it keeps track of the attribute path from which each package was installed, meaning name collisions when upgrading are eliminated.
+
 

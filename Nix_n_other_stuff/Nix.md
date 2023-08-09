@@ -1118,4 +1118,5 @@ What! This does work! How to go in the opposite direction?
 
 > It picks packages by attribute name rather than derivation name and it keeps track of the attribute path from which each package was installed, meaning name collisions when upgrading are eliminated.
 
+[The Nix Hour](https://www.youtube.com/watch?v=5V1OFSa7VlQ&list=PLyzwHTVJlRc8yjlx4VR4LU5A5O44og9in)
 

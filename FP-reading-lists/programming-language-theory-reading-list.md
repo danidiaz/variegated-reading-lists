@@ -831,6 +831,8 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [lower your guards](https://twitter.com/Innf107/status/1663922920370913283)
 
+[Compiling Functional Languages (2011)](https://www.cse.chalmers.se/edu/year/2011/course/CompFun/)
+
 ## ICFP’22 
 
 [playlist](https://discourse.haskell.org/t/the-icfp22-playlist-has-been-published-to-youtube/5138)

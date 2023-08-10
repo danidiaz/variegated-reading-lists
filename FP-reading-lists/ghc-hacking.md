@@ -278,6 +278,8 @@ Stuff about the heap:
 
 [An Exceptional Actor System](https://arxiv.org/abs/2307.11194)
 
+[using HIE files for tooling](https://hachyderm.io/@DiazCarrete/110867148360522034)
 
+[the GHC renamer](https://www.youtube.com/watch?v=1ClZ0ySPHtI)
 
 

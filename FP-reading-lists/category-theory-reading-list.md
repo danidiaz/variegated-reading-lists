@@ -1040,10 +1040,7 @@ set T of things can “talk about” or “describe” their own truthfulness or
 own properties. In other words, there must be a limitation in the way that T
 deals with its own properties.
 
+[SUBSTRUCTURAL FIXED-POINT THEOREMS AND THE DIAGONAL ARGUMENT: THEME AND VARIATIONS](https://compositionality-journal.org/papers/compositionality-5-8/). [Mastodon](https://hachyderm.io/@highergeometer@mathstodon.xyz/110865112716062469).
+
 [folds and unfolds using squares](https://hachyderm.io/@sjoerd_visscher@types.pl/110803036731444509)
-
-
-
-
-
 

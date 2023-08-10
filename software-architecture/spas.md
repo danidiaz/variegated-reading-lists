@@ -239,4 +239,6 @@
 
 [text fragments API](https://twitter.com/simonw/status/1688931466737303553)
 
+[The Epic Stack now has built-in rate limiting](https://github.com/epicweb-dev/epic-stack/discussions/381)
+
 

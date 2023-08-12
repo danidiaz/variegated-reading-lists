@@ -440,4 +440,9 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 > :w !foo just pipes the buffer contents to foo and displays the output, leaving the buffer unchanged.
 
+[git rebase --interactive and patch commutation](https://news.ycombinator.com/item?id=37095893)
+
+
+
+
 

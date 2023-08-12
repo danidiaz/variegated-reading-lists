@@ -132,4 +132,6 @@
 
 [   Why is GPT-3 15.77x more expensive for certain languages? ](https://news.ycombinator.com/item?id=35514623)
 
+[Squeeze the hell out of the system you have](https://news.ycombinator.com/item?id=37091983)
+
 

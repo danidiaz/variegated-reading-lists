@@ -899,7 +899,7 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Using FormData Objects](https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects)
 
-[on the popularity of react-router](https://twitter.com/mattpocockuk/status/1690476430788796416). [react-router and react-query](https://tkdodo.eu/blog/react-query-meets-react-router)
+[on the popularity of react-router](https://twitter.com/mattpocockuk/status/1690476430788796416). [react-router and react-query](https://tkdodo.eu/blog/react-query-meets-react-router). [All remix apps use react router so it’s not just SPAs](https://twitter.com/jacobmparis/status/1690533396349411328). [remixing react-router](https://remix.run/blog/remixing-react-router). [The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition).
 
 > Remix is changing the game, and they are bringing their data fetching concepts (loaders and actions) to purely client side rendered applications with React Router 6.4. I went through their great tutorial that shows the concept very well and demonstrates how you can quickly build a small, but feature-rich app.
 
@@ -908,5 +908,9 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 > To recap: React Router will allow you to define loaders on each route, which will be called when the route is visited. In the route component itself, you can useLoaderData() to get access to that data. Updating data is as simple as submitting a Form, which will call an action function. Actions invalidate all active loaders, so you'll automagically see updated data on your screen.
 
 > If this sounds very similar to queries and mutations - you are right, it does. So the questions that have been popping up after the announcement of Remixing React Router are:
+
+> All the data components, hooks, and nitty gritty async data management from Remix are coming to React Router 
+
+> When you fetch inside of components, you create what we call render+fetch chains that artificially slow down your page loads and transitions by fetching several data dependencies in sequence instead of in parallel.
 
 

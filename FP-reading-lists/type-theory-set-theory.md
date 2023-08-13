@@ -473,6 +473,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [A Road to Lambda: E-graphs are Ground Completion](https://www.philipzucker.com/egraph-ground-rewrite/). [tweet](https://twitter.com/SandMouth/status/1660498110907396096). [2 nd part: e-matching](https://www.philipzucker.com/ground-rewrite-2/).
 
+[definitions are tricky](https://hachyderm.io/@JacquesC2@types.pl/110882843084656487)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

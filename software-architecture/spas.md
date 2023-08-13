@@ -241,4 +241,8 @@
 
 [The Epic Stack now has built-in rate limiting](https://github.com/epicweb-dev/epic-stack/discussions/381)
 
+[RPC – Move Fast and Break Nothing. End-to-end typesafe APIs made easy](https://news.ycombinator.com/item?id=37098875)
+
+[Multipart HTTP response (unusual)](https://stackoverflow.com/questions/47067312/multipart-http-response)
+
 

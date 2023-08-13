@@ -897,4 +897,16 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Where to put app logic](https://twitter.com/DavidKPiano/status/1685047651400626176). [more](https://twitter.com/tannerlinsley/status/1685102542710308864).
 
+[Using FormData Objects](https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects)
+
+[on the popularity of react-router](https://twitter.com/mattpocockuk/status/1690476430788796416). [react-router and react-query](https://tkdodo.eu/blog/react-query-meets-react-router)
+
+> Remix is changing the game, and they are bringing their data fetching concepts (loaders and actions) to purely client side rendered applications with React Router 6.4. I went through their great tutorial that shows the concept very well and demonstrates how you can quickly build a small, but feature-rich app.
+
+> With React Router coming into the data fetching game, it is naturally interesting to understand how this competes or correlates with existing data fetching and caching libraries like React Query.
+
+> To recap: React Router will allow you to define loaders on each route, which will be called when the route is visited. In the route component itself, you can useLoaderData() to get access to that data. Updating data is as simple as submitting a Form, which will call an action function. Actions invalidate all active loaders, so you'll automagically see updated data on your screen.
+
+> If this sounds very similar to queries and mutations - you are right, it does. So the questions that have been popping up after the announcement of Remixing React Router are:
+
 

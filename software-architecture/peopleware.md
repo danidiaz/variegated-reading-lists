@@ -204,3 +204,6 @@
 
 [pretty please](https://twitter.com/keleshev/status/1687885777277988864)
 
+[merge work daily](https://twitter.com/housecor/status/1690360005935984640)
+
+

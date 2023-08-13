@@ -609,4 +609,6 @@ https://twitter.com/tailwindcss
 
 [variables linked to elements](https://twitter.com/ChallengesCss/status/1681388526556807183)
 
+[tailwind Rant](https://lobste.rs/s/p3ftiy/tailwind_death_web_craftsmanship)
+
 

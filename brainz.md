@@ -174,3 +174,6 @@ Things for which I found ChatGPT useful:
 
 [copilot and remembering the details](https://twitter.com/Rich_Harris/status/1690535688582651904) 
 
+[the use-cases that you don't want](https://twitter.com/ShriramKMurthi/status/1690640165486616577)
+
+

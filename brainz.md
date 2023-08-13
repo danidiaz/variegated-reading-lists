@@ -170,4 +170,7 @@ Things for which I found ChatGPT useful:
 
 [catching up](https://twitter.com/simonw/status/1687117410984431616)
 
+[isn't that awful](https://twitter.com/masa_morioka/status/1689668427328241664)
+
+[copilot and remembering the details](https://twitter.com/Rich_Harris/status/1690535688582651904) 
 

@@ -1365,4 +1365,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [The Physics of Readability](https://loup-vaillant.fr/articles/physics-of-readability)
 
+[Structural Software Design](https://jenkov.com/tutorials/software-design/structural-software-design.html). [video](https://www.youtube.com/watch?v=bj9DoZsu7Ls&list=PLL8woMHwr36HWMaOTIiWNf_fYYkZCHPxo&index=6).
 

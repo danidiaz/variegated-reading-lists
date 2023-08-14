@@ -160,5 +160,7 @@
 
 [error handling, also in C++](https://twitter.com/sadisticsystems/status/1682422067830898692)
 
+[Rust Server Components](https://lobste.rs/s/kilt3o/rust_server_components)
+
 
 

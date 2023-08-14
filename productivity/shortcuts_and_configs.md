@@ -442,6 +442,8 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [git rebase --interactive and patch commutation](https://news.ycombinator.com/item?id=37095893)
 
+[navigating code on GitHub](https://docs.github.com/en/repositories/working-with-files/using-files/navigating-code-on-github)
+
 
 
 

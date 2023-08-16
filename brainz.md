@@ -176,4 +176,6 @@ Things for which I found ChatGPT useful:
 
 [the use-cases that you don't want](https://twitter.com/ShriramKMurthi/status/1690640165486616577)
 
+[How Is LLaMa.cpp Possible? ](https://news.ycombinator.com/item?id=37140013)
+
 

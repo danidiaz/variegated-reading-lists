@@ -1120,3 +1120,6 @@ What! This does work! How to go in the opposite direction?
 
 [The Nix Hour](https://www.youtube.com/watch?v=5V1OFSa7VlQ&list=PLyzwHTVJlRc8yjlx4VR4LU5A5O44og9in)
 
+[Nix does not guarantee reproducibility](https://github.com/NorfairKing/nix-does-not-guarantee-reproducibility). [tweet](https://twitter.com/kerckhove_ts/status/1691729905711456375).
+
+

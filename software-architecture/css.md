@@ -611,4 +611,6 @@ https://twitter.com/tailwindcss
 
 [tailwind Rant](https://lobste.rs/s/p3ftiy/tailwind_death_web_craftsmanship)
 
+[Why Tailwind CSS Won](https://news.ycombinator.com/item?id=37143837)
+
 

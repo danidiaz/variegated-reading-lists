@@ -206,4 +206,6 @@
 
 [merge work daily](https://twitter.com/housecor/status/1690360005935984640)
 
+[Bad software destroyed my doctor's memory](https://news.ycombinator.com/item?id=37144224)
+
 

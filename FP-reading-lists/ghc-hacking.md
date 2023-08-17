@@ -286,6 +286,18 @@ Stuff about the heap:
 
 > Closures are represented by the DebugClosure pap string s b type
 
+[interesting tidbit](https://gitlab.haskell.org/ghc/ghc/-/blob/master/compiler/GHC/StgToJS.hs)
+
+> -- THUNK =
+> --  { f  = returns the object reduced to WHNF
+> --  , m  = ?
+> --  , d1 = ?
+> --  , d2 = ?
+> --  }
+> --
+> -- FUN =
+> --  { f  = function itself
+
 [GHC Heap Objects](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/rts/storage/heap-objects#heap-objects)
 
 > All heap objects have the same basic layout, embodied by the type StgClosure in Closures.h

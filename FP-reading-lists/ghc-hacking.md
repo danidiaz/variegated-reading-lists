@@ -298,6 +298,8 @@ Stuff about the heap:
 > -- FUN =
 > --  { f  = function itself
 
+[entry code for thunks?](https://www.scs.stanford.edu/14sp-cs240h/slides/ghc-compiler.html)
+
 [GHC Heap Objects](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/rts/storage/heap-objects#heap-objects)
 
 > All heap objects have the same basic layout, embodied by the type StgClosure in Closures.h

@@ -318,3 +318,5 @@ soo both FUN and THNK closures contain the free variables?
 
 [making a fast curry](https://www.cs.tufts.edu/comp/150FP/archive/simon-peyton-jones/eval-apply-jfp.pdf)
 
+> [about heap objects] Of these, FUN , PAP and CON objects are values, and cannot be evaluated any
+further

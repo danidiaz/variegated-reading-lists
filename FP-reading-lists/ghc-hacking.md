@@ -300,6 +300,10 @@ Stuff about the heap:
 
 [entry code for thunks?](https://www.scs.stanford.edu/14sp-cs240h/slides/ghc-compiler.html)
 
+soo both FUN and THNK closures contain the free variables?
+
+> [thunks] Differ from function closure in that they can be updated
+
 [GHC Heap Objects](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/rts/storage/heap-objects#heap-objects)
 
 > All heap objects have the same basic layout, embodied by the type StgClosure in Closures.h

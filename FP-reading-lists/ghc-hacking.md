@@ -282,4 +282,21 @@ Stuff about the heap:
 
 [the GHC renamer](https://www.youtube.com/watch?v=1ClZ0ySPHtI)
 
+[ghc-debug implementation details](https://ghc.gitlab.haskell.org/ghc-debug/)
+
+> Closures are represented by the DebugClosure pap string s b type
+
+[GHC Heap Objects](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/rts/storage/heap-objects#heap-objects)
+
+> All heap objects have the same basic layout, embodied by the type StgClosure in Closures.h
+
+> The closure type is a constant describing the kind of closure this is (function, thunk, constructor etc.).
+
+> Valid closure kinds are CON (constructor), FN (manifest function), PAP (partial application), BH (black hole) and THK (thunk).
+
+> FUN: functions with their free variables as payload
+> THUNK: suspensions with their free variables as payload
+> PAP: partial application to a FUN. FUN closure and already applied arguments as payload.
+
+
 

@@ -282,7 +282,7 @@ Stuff about the heap:
 
 [the GHC renamer](https://www.youtube.com/watch?v=1ClZ0ySPHtI)
 
-[ghc-debug implementation details](https://ghc.gitlab.haskell.org/ghc-debug/)
+[ghc-debug implementation details](https://ghc.gitlab.haskell.org/ghc-debug/). [link to code](https://gitlab.haskell.org/ghc/ghc-debug/-/blob/master/common/src/GHC/Debug/Types/Closures.hs)
 
 > Closures are represented by the DebugClosure pap string s b type
 

@@ -316,5 +316,5 @@ soo both FUN and THNK closures contain the free variables?
 > THUNK: suspensions with their free variables as payload
 > PAP: partial application to a FUN. FUN closure and already applied arguments as payload.
 
-
+[making a fast curry](https://www.cs.tufts.edu/comp/150FP/archive/simon-peyton-jones/eval-apply-jfp.pdf)
 

@@ -325,4 +325,6 @@ further
 
 [lazy evaluation: haskell lazy evaluation illustrated](https://github.com/takenobu-hs/lazy_evaluation)
 
+[good SO answer](https://stackoverflow.com/questions/6048194/good-introductory-text-about-ghc-implementation)
+
 

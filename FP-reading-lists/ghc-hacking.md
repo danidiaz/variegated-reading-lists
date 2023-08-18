@@ -320,3 +320,9 @@ soo both FUN and THNK closures contain the free variables?
 
 > [about heap objects] Of these, FUN , PAP and CON objects are values, and cannot be evaluated any
 further
+
+[Writing efficient free variable traversals](https://www.haskell.org/ghc/blog/20190728-free-variable-traversals.html)
+
+[lazy evaluation: haskell lazy evaluation illustrated](https://github.com/takenobu-hs/lazy_evaluation)
+
+

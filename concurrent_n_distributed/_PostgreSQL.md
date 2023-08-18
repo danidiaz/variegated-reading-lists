@@ -337,4 +337,8 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Postgresql tips](https://twitter.com/gwenshap/status/1679971835549724672)
 
+[Postgres Subquery Powertools: CTEs, Materialized Views, Window Functions, and LATERAL Join](https://www.crunchydata.com/blog/postgres-subquery-powertools-subqueries-ctes-materialized-views-window-functions-and-lateral)
+
+[Introducing pg_later: Asynchronous Queries for Postgres, Inspired by Snowflake](https://tembo.io/blog/introducing-pg-later/)
+
 

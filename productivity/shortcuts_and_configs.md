@@ -444,7 +444,7 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [navigating code on GitHub](https://docs.github.com/en/repositories/working-with-files/using-files/navigating-code-on-github)
 
-
+[Tmux has forever changed the way I write code](https://www.youtube.com/watch?v=DzNmUNvnB04). [hn](https://news.ycombinator.com/item?id=37172711).
 
 
 

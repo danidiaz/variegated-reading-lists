@@ -178,4 +178,6 @@ Things for which I found ChatGPT useful:
 
 [How Is LLaMa.cpp Possible? ](https://news.ycombinator.com/item?id=37140013)
 
+[don't ask them about themselves](https://twitter.com/random_walker/status/1692863292178301110)
+
 

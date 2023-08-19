@@ -166,3 +166,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [satisfies for URL params](https://twitter.com/mattpocockuk/status/1686674278459015169)
 
+[Array Types in TypeScript](https://tkdodo.eu/blog/array-types-in-type-script)
+
+

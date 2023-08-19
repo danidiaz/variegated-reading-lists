@@ -327,4 +327,6 @@ further
 
 [good SO answer](https://stackoverflow.com/questions/6048194/good-introductory-text-about-ghc-implementation)
 
+[Reducing Haddock's Memory Usage](https://www.reddit.com/r/haskell/comments/15umlnr/welltyped_blog_reducing_haddocks_memory_usage/)
+
 

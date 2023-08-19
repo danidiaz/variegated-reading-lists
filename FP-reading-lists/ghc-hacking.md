@@ -327,6 +327,8 @@ further
 
 [good SO answer](https://stackoverflow.com/questions/6048194/good-introductory-text-about-ghc-implementation)
 
-[Reducing Haddock's Memory Usage](https://www.reddit.com/r/haskell/comments/15umlnr/welltyped_blog_reducing_haddocks_memory_usage/). [Understanding memory usage with eventlog2html and ghc-debug](https://well-typed.com/blog/2021/06/zurihac-2021-advanced-track-materials/#understanding-memory-usage-with-eventlog2html-and-ghc-debug-by-matthew-pickering-and-ben-gamari)
+[Reducing Haddock's Memory Usage](https://www.reddit.com/r/haskell/comments/15umlnr/welltyped_blog_reducing_haddocks_memory_usage/). [Understanding memory usage with eventlog2html and ghc-debug](https://well-typed.com/blog/2021/06/zurihac-2021-advanced-track-materials/#understanding-memory-usage-with-eventlog2html-and-ghc-debug-by-matthew-pickering-and-ben-gamari). [thunks](https://github.com/well-typed/memory-usage-zurihac-2021#thunks-and-partial-applications)
+
+> Thunks and partial function applications are represented similarly to data constructor applications, with captured free variables taking the place of the constructor fields. For instance, the program
 
 

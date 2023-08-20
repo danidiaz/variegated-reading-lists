@@ -249,4 +249,6 @@
 
 [throttling for performance testing](https://twitter.com/ryanflorence/status/1692166308576850325)
 
+[Don’t build a general purpose API to power your own front end (2021)](https://news.ycombinator.com/item?id=37197257)
+
 

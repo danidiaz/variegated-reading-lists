@@ -335,4 +335,5 @@ further
 
 > With -hi and -finfo-table-map we’ll get useful source locations for thunks but not for evaluated closures. Hence the -fdistinct-constructor-tables compile time option which creates distinct info tables per usage of data constructors.
 
+[Rethinking Static Reference Tables in GHC](https://simonmar.github.io/posts/2018-06-22-New-SRTs.html). [Tracing the compilation of Hello Factorial! (2011)](http://blog.ezyang.com/2011/04/tracing-the-compilation-of-hello-factorial/). [Note [What are these SRTs all about?]](https://ghc-compiler-notes.readthedocs.io/en/latest/notes/compiler/stgSyn/CoreToStg.hs.html#note-what-are-these-srts-all-about)
 

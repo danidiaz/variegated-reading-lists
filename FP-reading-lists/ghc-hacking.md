@@ -337,3 +337,14 @@ further
 
 [Rethinking Static Reference Tables in GHC](https://simonmar.github.io/posts/2018-06-22-New-SRTs.html). [Tracing the compilation of Hello Factorial! (2011)](http://blog.ezyang.com/2011/04/tracing-the-compilation-of-hello-factorial/). [Note [What are these SRTs all about?]](https://ghc-compiler-notes.readthedocs.io/en/latest/notes/compiler/stgSyn/CoreToStg.hs.html#note-what-are-these-srts-all-about)
 
+[GHC Runtime - Stack and Heap](http://www.mchaver.com/posts/2017-06-09-ghc-runtime-heap-and-stack.html)
+
+> Entry Code: code that will evaluate the closure. However, in the case of functions, the entry code will apply the function to the arguments given in registers or on the stack.
+
+[A Haskell Compiler](https://www.scs.stanford.edu/14sp-cs240h/slides/ghc-compiler.html)
+
+> Thunk closures
+> Payload contains the free variables of the expression
+> Differ from function closure in that they can be updated
+> Entry code is the code for the expression
+

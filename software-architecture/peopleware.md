@@ -208,4 +208,6 @@
 
 [Bad software destroyed my doctor's memory](https://news.ycombinator.com/item?id=37144224)
 
+[names rot](https://lobste.rs/s/nqk2pm/software_component_names_should_be)
+
 

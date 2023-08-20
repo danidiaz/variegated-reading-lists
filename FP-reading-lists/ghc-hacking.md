@@ -331,4 +331,8 @@ further
 
 > Thunks and partial function applications are represented similarly to data constructor applications, with captured free variables taking the place of the constructor fields. For instance, the program
 
+[A First Look at Info Table Profiling](https://well-typed.com/blog/2021/01/first-look-at-hi-profiling-mode/)
+
+> With -hi and -finfo-table-map we’ll get useful source locations for thunks but not for evaluated closures. Hence the -fdistinct-constructor-tables compile time option which creates distinct info tables per usage of data constructors.
+
 

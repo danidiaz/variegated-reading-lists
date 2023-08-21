@@ -1044,3 +1044,6 @@ deals with its own properties.
 
 [folds and unfolds using squares](https://hachyderm.io/@sjoerd_visscher@types.pl/110803036731444509)
 
+[getting inside objects](https://matteocapucci.wordpress.com/2023/08/21/on-elements-in-category-theory/). [tweet](https://twitter.com/mattecapu/status/1693550523247448480/retweets/with_comments).
+
+

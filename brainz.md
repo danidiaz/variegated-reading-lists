@@ -180,4 +180,6 @@ Things for which I found ChatGPT useful:
 
 [don't ask them about themselves](https://twitter.com/random_walker/status/1692863292178301110)
 
+[wealth concentration](https://news.ycombinator.com/item?id=37210953)
+
 

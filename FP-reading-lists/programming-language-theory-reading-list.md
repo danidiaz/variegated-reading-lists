@@ -853,4 +853,8 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [playlist](https://www.youtube.com/playlist?list=PLBqWQH1MiwBTwo2wrwINAorzXRumxO41s)
 
+## More stuff
+
+[Disco: A Functional Programming Language for Discrete Mathematics](https://arxiv.org/abs/2308.06971v1)
+
 

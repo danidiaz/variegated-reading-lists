@@ -348,3 +348,6 @@ further
 > Differ from function closure in that they can be updated
 > Entry code is the code for the expression
 
+[Use bidirectional typechecking for types and type patterns](https://gitlab.haskell.org/ghc/ghc/-/issues/23639)
+
+

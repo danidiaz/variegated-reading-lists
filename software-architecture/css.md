@@ -613,4 +613,7 @@ https://twitter.com/tailwindcss
 
 [Why Tailwind CSS Won](https://news.ycombinator.com/item?id=37143837)
 
+[has() and previous element selector](https://twitter.com/wesbos/status/1694445882878345446). [more](https://twitter.com/wesbos/status/1694441906124492980).
+
+
 

@@ -182,3 +182,6 @@ Things for which I found ChatGPT useful:
 
 [wealth concentration](https://news.ycombinator.com/item?id=37210953)
 
+[Changing my relationship with GitHub Copilot ](https://news.ycombinator.com/item?id=37303357)
+
+

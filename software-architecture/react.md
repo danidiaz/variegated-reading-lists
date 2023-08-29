@@ -913,4 +913,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 > When you fetch inside of components, you create what we call render+fetch chains that artificially slow down your page loads and transitions by fetching several data dependencies in sequence instead of in parallel.
 
+[and managing interruptions and race conditions while you display the loading states](https://twitter.com/ryanflorence/status/1696585626794197486)
+
 

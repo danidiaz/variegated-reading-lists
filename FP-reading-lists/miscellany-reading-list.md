@@ -768,4 +768,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > Closures are data structures with both a code and a data component.
 
+[RFC 5322 - Internet Message Format](https://datatracker.ietf.org/doc/html/rfc5322#appendix-A.2)
+
 

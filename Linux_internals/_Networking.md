@@ -122,4 +122,6 @@
 
 [rollback network code](https://twitter.com/SebAaltonen/status/1687691543157829632)
 
+[Unix sockets, Cygwin, SSH agents, and sadness](https://news.ycombinator.com/item?id=37304370)
+
 

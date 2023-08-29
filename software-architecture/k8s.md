@@ -402,3 +402,8 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 [Terraform best practices for reliability at any scale ](https://news.ycombinator.com/item?id=37004617)
 
 [problems with terraform autoscaling group](https://twitter.com/ProgrammerDude/status/1689330746375233536)
+
+[OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023). [phantom spans in OpenTelemetry](https://www.iankduncan.com/articles/2023-08-28-opentelemetry-gotchas-phantom-spans)
+
+
+

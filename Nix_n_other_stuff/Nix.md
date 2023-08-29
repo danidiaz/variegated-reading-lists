@@ -1124,4 +1124,5 @@ What! This does work! How to go in the opposite direction?
 
 [haskell-flake](https://discourse.haskell.org/t/haskell-flake-0-4-0-released-with-easy-overrides/7391)
 
+> It replaces stack only, in practice. You still use cabal (the executable) in the dev shell―along with the .cabal file which defines the dependencies and other metadata) to build.
 

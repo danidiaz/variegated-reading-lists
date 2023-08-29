@@ -162,5 +162,6 @@
 
 [Rust Server Components](https://lobste.rs/s/kilt3o/rust_server_components)
 
+[A JVM in Rust part 5 - Executing instructions](https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/)
 
 

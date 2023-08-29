@@ -1122,4 +1122,6 @@ What! This does work! How to go in the opposite direction?
 
 [Nix does not guarantee reproducibility](https://github.com/NorfairKing/nix-does-not-guarantee-reproducibility). [tweet](https://twitter.com/kerckhove_ts/status/1691729905711456375).
 
+[haskell-flake](https://discourse.haskell.org/t/haskell-flake-0-4-0-released-with-easy-overrides/7391)
+
 

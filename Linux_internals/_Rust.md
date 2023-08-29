@@ -164,4 +164,6 @@
 
 [A JVM in Rust part 5 - Executing instructions](https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/)
 
+[6 Months of Cooking Up Rust TUIs](https://lobste.rs/s/vlmsti/from_tui_rs_ratatui_6_months_cooking_up)
+
 

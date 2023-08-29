@@ -405,5 +405,10 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023). [phantom spans in OpenTelemetry](https://www.iankduncan.com/articles/2023-08-28-opentelemetry-gotchas-phantom-spans)
 
+[Grafana - Explore](https://grafana.com/docs/grafana/latest/explore/). [The panel inspect view](https://grafana.com/docs/grafana/latest/panels-visualizations/panel-inspector/). [inspector in explore](https://grafana.com/docs/grafana/latest/explore/explore-inspector/).
+
+> The inspector helps you understand and troubleshoot your queries. You can inspect the raw data, export that data to a comma-separated values (CSV) file, export log results in TXT format, and view query requests.
+
+> Stats tab - Shows how long your query takes and how much it returns.
 
 

@@ -915,4 +915,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [and managing interruptions and race conditions while you display the loading states](https://twitter.com/ryanflorence/status/1696585626794197486)
 
+[vite -> next , SSR](https://twitter.com/youyuxi/status/1696868733728530716). [another tweet](https://twitter.com/leeerob/status/1696863585740152960).
+
 

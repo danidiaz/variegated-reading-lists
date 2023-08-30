@@ -403,7 +403,7 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [problems with terraform autoscaling group](https://twitter.com/ProgrammerDude/status/1689330746375233536)
 
-[OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023). [phantom spans in OpenTelemetry](https://www.iankduncan.com/articles/2023-08-28-opentelemetry-gotchas-phantom-spans)
+[OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023). [phantom spans in OpenTelemetry](https://www.iankduncan.com/articles/2023-08-28-opentelemetry-gotchas-phantom-spans). [hn](https://news.ycombinator.com/item?id=37295097)
 
 [Grafana - Explore](https://grafana.com/docs/grafana/latest/explore/). [The panel inspect view](https://grafana.com/docs/grafana/latest/panels-visualizations/panel-inspector/). [inspector in explore](https://grafana.com/docs/grafana/latest/explore/explore-inspector/).
 

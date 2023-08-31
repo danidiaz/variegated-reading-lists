@@ -446,5 +446,8 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [Tmux has forever changed the way I write code](https://www.youtube.com/watch?v=DzNmUNvnB04). [hn](https://news.ycombinator.com/item?id=37172711).
 
+[init.defaultBranch in Git](https://github.blog/2020-07-27-highlights-from-git-2-28/). [SO question](https://stackoverflow.com/questions/68086082/how-to-find-out-which-of-master-or-main-branches-exists-in-a-repository)
+
+[Find out which remote branch a local branch is tracking](https://stackoverflow.com/questions/171550/find-out-which-remote-branch-a-local-branch-is-tracking)
 
 

@@ -1369,4 +1369,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [How architecture diagrams enable better conversations](https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations/)
 
+[Remix future flags](https://twitter.com/kentcdodds/status/1697219018036596936). [Future Proofing Your Remix App](https://remix.run/blog/future-flags). [API development strategy](https://remix.run/docs/en/main/pages/api-development-strategy).
+
 

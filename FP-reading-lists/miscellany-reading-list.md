@@ -770,4 +770,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [RFC 5322 - Internet Message Format](https://datatracker.ietf.org/doc/html/rfc5322#appendix-A.2)
 
+[Integrating a large Tokio-based Rust library with Haskell](https://www.iankduncan.com/articles/2023-08-30-integrating-haskell-and-tokio)
+
 

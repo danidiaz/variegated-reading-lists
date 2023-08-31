@@ -1126,3 +1126,8 @@ What! This does work! How to go in the opposite direction?
 
 > It replaces stack only, in practice. You still use cabal (the executable) in the dev shell―along with the .cabal file which defines the dependencies and other metadata) to build.
 
+[Flake schemas: Making flake outputs extensible](https://determinate.systems/posts/flake-schemas). [hn](https://news.ycombinator.com/item?id=37338857).
+
+
+
+

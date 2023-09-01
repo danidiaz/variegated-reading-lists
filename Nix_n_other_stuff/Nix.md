@@ -1128,6 +1128,8 @@ What! This does work! How to go in the opposite direction?
 
 [Flake schemas: Making flake outputs extensible](https://determinate.systems/posts/flake-schemas). [hn](https://news.ycombinator.com/item?id=37338857).
 
+[did maven.buildMavenPackage get better?](https://hachyderm.io/@pmidden@fosstodon.org/110989724631869303). [manual](https://nixos.org/manual/nixpkgs/unstable/#maven)
+
 
 
 

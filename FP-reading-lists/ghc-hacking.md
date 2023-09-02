@@ -352,5 +352,7 @@ further
 
 [Laziness in Haskell — Part 4: Thunks](https://www.youtube.com/watch?v=wC9cpQk7WWA). Interesting insights into STG case/let and allocations.
 
+[ZuriHac 2016 - Low-level Haskell: An Interactive Tour Through the STG](https://www.youtube.com/watch?v=-MFk7PIKYsg)
+
 
 

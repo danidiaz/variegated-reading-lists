@@ -350,4 +350,7 @@ further
 
 [Use bidirectional typechecking for types and type patterns](https://gitlab.haskell.org/ghc/ghc/-/issues/23639)
 
+[Laziness in Haskell — Part 4: Thunks](https://www.youtube.com/watch?v=wC9cpQk7WWA). Interesting insights into STG case/let and allocations.
+
+
 

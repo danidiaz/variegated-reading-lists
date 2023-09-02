@@ -452,4 +452,6 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [mastering the curl command line](https://hachyderm.io/@bagder@mastodon.social/110988491509207488). [video](https://www.youtube.com/watch?v=V5vZWHP-RqU)
 
+[Grep and Log Analysis](https://muhammadraza.me/2023/grep-log-analysis/)
+
 

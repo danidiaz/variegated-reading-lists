@@ -367,4 +367,8 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Hibernate's metamodel generator](https://twitter.com/1ovthafew/status/1682324169998888960)
 
+[This is the Beginning of the End of the N+1 Problem: Introducing Single Query Loading.](https://spring.io/blog/2023/08/31/this-is-the-beginning-of-the-end-of-the-n-1-problem-introducing-single-query)
+
+> Starting with Spring Data JDBC 3.2.0-M2, Spring Data JDBC supports Single Query Loading. Single Query Loading loads arbitrary aggregates with a single select statement.
+
 

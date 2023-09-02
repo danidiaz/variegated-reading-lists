@@ -1130,6 +1130,8 @@ What! This does work! How to go in the opposite direction?
 
 [did maven.buildMavenPackage get better?](https://hachyderm.io/@pmidden@fosstodon.org/110989724631869303). [manual](https://nixos.org/manual/nixpkgs/unstable/#maven)
 
+[Nix Flake Architecture in Practice](https://journal.platonic.systems/nix-flake-architecture-in-practice/)
+
 
 
 

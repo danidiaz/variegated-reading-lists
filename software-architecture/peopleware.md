@@ -210,4 +210,9 @@
 
 [names rot](https://lobste.rs/s/nqk2pm/software_component_names_should_be)
 
+[How To Edit Your Own Lousy Writing](https://stingingfly.org/2017/10/24/edit-lousy-writing/). [hn](https://news.ycombinator.com/item?id=37358400)
+
+[regulations](https://twitter.com/mipsytipsy/status/1697383168750530910)
+
+
 

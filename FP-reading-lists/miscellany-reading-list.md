@@ -772,4 +772,10 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Integrating a large Tokio-based Rust library with Haskell](https://www.iankduncan.com/articles/2023-08-30-integrating-haskell-and-tokio)
 
+[Invariants](https://brooker.co.za/blog/2023/07/28/ds-testing.html). [hn](https://news.ycombinator.com/item?id=37358541)
+
+[Philosophy of coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/). [hn](https://news.ycombinator.com/item?id=37354401)
+
+[Internals of async / await in JavaScript](https://news.ycombinator.com/item?id=37356909)
+
 

@@ -910,6 +910,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Eventual Business Consistency (about Bitemporality)](https://tidyfirst.substack.com/p/eventual-business-consistency). [hn](https://news.ycombinator.com/item?id=37009296).
 
+[DuckDB is an in-process SQL OLAP database management system](https://duckdb.org/). [Forget about SQLite, Use DuckDB Instead — And Thank Me Later](https://towardsdatascience.com/forget-about-sqlite-use-duckdb-instead-and-thank-me-later-df76ee9bb777)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

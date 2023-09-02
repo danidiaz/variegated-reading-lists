@@ -352,7 +352,8 @@ further
 
 [Laziness in Haskell — Part 4: Thunks](https://www.youtube.com/watch?v=wC9cpQk7WWA). Interesting insights into STG case/let and allocations.
 
-[ZuriHac 2016 - Low-level Haskell: An Interactive Tour Through the STG](https://www.youtube.com/watch?v=-MFk7PIKYsg)
+[strict-wrapper](https://www.reddit.com/r/haskell/comments/167o1d3/comment/jys612f/)
 
+[ZuriHac 2016 - Low-level Haskell: An Interactive Tour Through the STG](https://www.youtube.com/watch?v=-MFk7PIKYsg)
 
 

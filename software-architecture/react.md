@@ -917,4 +917,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [vite -> next , SSR](https://twitter.com/youyuxi/status/1696868733728530716). [another tweet](https://twitter.com/leeerob/status/1696863585740152960).
 
+[Things I wish I knew before moving 50K lines of code to React Server Components](https://news.ycombinator.com/item?id=37345727)
+
 

@@ -1046,4 +1046,6 @@ deals with its own properties.
 
 [getting inside objects](https://matteocapucci.wordpress.com/2023/08/21/on-elements-in-category-theory/). [tweet](https://twitter.com/mattecapu/status/1693550523247448480/retweets/with_comments).
 
+[fibrations (Haskell code)](https://discord.com/channels/280033776820813825/280036215477239809/1147782870421745704)
+
 

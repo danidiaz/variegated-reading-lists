@@ -778,4 +778,11 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Internals of async / await in JavaScript](https://news.ycombinator.com/item?id=37356909)
 
+[currying in Kotlin](https://news.ycombinator.com/item?id=37349906)
+
+[Storing UTC is not a silver bullet (2019)](https://lobste.rs/s/5suewc/storing_utc_is_not_silver_bullet_2019)
+
+[GameRoy: JIT Compilation in High-Accuracy Game Boy Emulation](https://news.ycombinator.com/item?id=37364624)
+
+
 

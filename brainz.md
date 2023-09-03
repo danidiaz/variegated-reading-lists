@@ -184,4 +184,6 @@ Things for which I found ChatGPT useful:
 
 [Changing my relationship with GitHub Copilot ](https://news.ycombinator.com/item?id=37303357)
 
+[Making deep learning go brrrr from first principles (2022)](https://news.ycombinator.com/item?id=37361711)
+
 

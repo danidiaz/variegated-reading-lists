@@ -214,5 +214,7 @@
 
 [regulations](https://twitter.com/mipsytipsy/status/1697383168750530910)
 
+[worst](https://news.ycombinator.com/item?id=37361947)
+
 
 

@@ -392,3 +392,7 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 [no mocks allowed](https://twitter.com/mgreiler/status/1673272642260946945)
 
 [Test Against Reality](https://lobste.rs/s/ltxxwj/test_against_reality)
+
+[testing in prod](https://twitter.com/mipsytipsy/status/1698246322460205347)
+
+

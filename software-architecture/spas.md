@@ -253,4 +253,6 @@
 
 [More than you want to know about caching](https://www.youtube.com/watch?v=amflVh0CZ78&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
 
+[Content-Disposition](https://developer.mozilla.org/es/docs/Web/HTTP/Headers/Content-Disposition)
+
 

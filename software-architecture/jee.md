@@ -371,4 +371,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 > Starting with Spring Data JDBC 3.2.0-M2, Spring Data JDBC supports Single Query Loading. Single Query Loading loads arbitrary aggregates with a single select statement.
 
+[MVC Controllers are Dinosaurs - Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/#sq_hcvqfhumxh)
+
 

@@ -12,4 +12,8 @@
 
 [Hotspot performance engineering fails](https://lemire.me/blog/2023/04/27/hotspot-performance-engineering-fails/)
 
+[Performance Through Memory Layout](https://johnnysswlab.com/performance-through-memory-layout/)
+
+[towards atomic writes](https://twitter.com/eatonphil/status/1698132893426434109)
+
 

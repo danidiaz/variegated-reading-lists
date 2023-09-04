@@ -216,5 +216,6 @@
 
 [worst](https://news.ycombinator.com/item?id=37361947)
 
+[Why is it that developers love opinionated frameworks but despise restrictive in-house platforms?](https://twitter.com/ghohpe/status/1698567439217508850)
 
 

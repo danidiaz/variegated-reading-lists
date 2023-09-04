@@ -255,4 +255,10 @@
 
 [Content-Disposition](https://developer.mozilla.org/es/docs/Web/HTTP/Headers/Content-Disposition)
 
+[use *events* to integrate your islands of interactivity w/ htmx](https://twitter.com/htmx_org/status/1698333688080298157)
+
+[If your tooling isn't fingerprinting your assets on file changes then you're gonna have caching surprises in production](https://twitter.com/ryanflorence/status/1691911564092404144)
+
+
+
 

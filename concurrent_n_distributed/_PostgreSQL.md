@@ -341,4 +341,4 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Introducing pg_later: Asynchronous Queries for Postgres, Inspired by Snowflake](https://tembo.io/blog/introducing-pg-later/)
 
-
+[explaining the postgres meme](https://www.avestura.dev/blog/explaining-the-postgres-meme). 

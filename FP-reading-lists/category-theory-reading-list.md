@@ -1048,4 +1048,6 @@ deals with its own properties.
 
 [fibrations (Haskell code)](https://discord.com/channels/280033776820813825/280036215477239809/1147782870421745704)
 
+[Classes as functions from Free](https://www.reddit.com/r/haskell/comments/16aa0lq/classes_as_functions_from_free/)
+
 

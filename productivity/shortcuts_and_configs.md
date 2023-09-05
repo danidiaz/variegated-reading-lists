@@ -456,4 +456,9 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [cheat sheet](https://grahamhelton.com/blog/ssh-cheatsheet/)
 
+[Tmux fuzzy window matching](https://superuser.com/questions/569537/tmux-naming-windows-and-selecting-them-via-fuzzy-matching)
+
+> C-b' (single quote) Prompt for window index to select
+> Note this 'window index' wording is a little misleading. This prompt actually accepts target-window which is quite powerful and includes
+
 

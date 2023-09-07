@@ -919,4 +919,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Things I wish I knew before moving 50K lines of code to React Server Components](https://news.ycombinator.com/item?id=37345727)
 
+[Avoid customizing components only through props. Instead embrace composition](https://twitter.com/_georgemoller/status/1699586420455645263)
+
 

@@ -1050,4 +1050,6 @@ deals with its own properties.
 
 [Classes as functions from Free](https://www.reddit.com/r/haskell/comments/16aa0lq/classes_as_functions_from_free/)
 
+[squares](https://twitter.com/tangled_zans/status/1699768866337964376)
+
 

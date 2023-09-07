@@ -1373,4 +1373,12 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [architecture tips](https://www.youtube.com/watch?v=wQYRl--58zM)
 
+[Managing Asynchronous Workflows with a REST API](https://aws.amazon.com/es/blogs/architecture/managing-asynchronous-workflows-with-a-rest-api/)
+
+> We implemented this pattern using Amazon API Gateway, Amazon DynamoDB, and AWS Step Functions
+
+> The server creates a new item to represent the report and returns the resource’s URI to the client. In this example, we built a storage-first API using the direct integration between API Gateway and DynamoDB to create the record without writing any code of our own. In addition to the report fields sent by the client, the resource gains a “completed” field to indicate whether the report has been successfully generated.
+
+> Finally, the Lambda function updates the DynamoDB table, marking the report as complete and supplying the S3 URL that the report can be retrieved from.
+
 

@@ -168,4 +168,5 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Array Types in TypeScript](https://tkdodo.eu/blog/array-types-in-type-script)
 
+[TS drama](https://github.com/hotwired/turbo/pull/971#issuecomment-1708430006)
 

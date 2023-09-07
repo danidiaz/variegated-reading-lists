@@ -1132,7 +1132,7 @@ What! This does work! How to go in the opposite direction?
 
 [Nix Flake Architecture in Practice](https://journal.platonic.systems/nix-flake-architecture-in-practice/)
 
-[about nix flakes](https://lobste.rs/s/ytosdr/experimental_does_not_mean_unstable)
+[about nix flakes](https://lobste.rs/s/ytosdr/experimental_does_not_mean_unstable). [criticism](https://lobste.rs/s/wamkim/nix_flakes_is_experiment_did_too_much_at)
 
 
 

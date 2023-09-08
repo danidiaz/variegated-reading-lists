@@ -342,3 +342,15 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 [Introducing pg_later: Asynchronous Queries for Postgres, Inspired by Snowflake](https://tembo.io/blog/introducing-pg-later/)
 
 [explaining the postgres meme](https://www.avestura.dev/blog/explaining-the-postgres-meme). 
+
+[data-modifying CTEs](https://stackoverflow.com/a/20561627/1364288). [docs](https://www.postgresql.org/docs/current/queries-with.html#QUERIES-WITH-MODIFYING)
+
+[How do I insert a row which contains a foreign key?](https://dba.stackexchange.com/questions/46410/how-do-i-insert-a-row-which-contains-a-foreign-key).
+
+[nextval()](https://dba.stackexchange.com/questions/292199/insert-duplicate-rows-for-multiple-cascading-1m-child-tables)
+
+> Unfortunately, the RETURNING clause of an INSERT can only work with columns from the inserted row. Columns added by a FROM clause are invisible there
+
+> To work around this limitation, I suggest to SELECT before each INSERT, and generate prospective new serial IDs in advance with nextval(). Then you have each old and new ID in the same row to make necessary connections.
+
+

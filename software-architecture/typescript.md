@@ -170,3 +170,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [TS drama](https://github.com/hotwired/turbo/pull/971#issuecomment-1708430006)
 
+[keyof](https://twitter.com/mattpocockuk/status/1700189274795106761)
+
+

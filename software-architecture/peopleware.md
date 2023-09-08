@@ -218,4 +218,6 @@
 
 [Why is it that developers love opinionated frameworks but despise restrictive in-house platforms?](https://twitter.com/ghohpe/status/1698567439217508850)
 
+[Bankruptcy in #Birmingham due to #IT blowout](https://twitter.com/BentFlyvbjerg/status/1699980123628351669). [The Empirical Reality of IT Project Cost Overruns: Discovering a Power-Law Distribution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4204819).
+
 

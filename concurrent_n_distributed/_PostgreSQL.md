@@ -353,4 +353,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 > To work around this limitation, I suggest to SELECT before each INSERT, and generate prospective new serial IDs in advance with nextval(). Then you have each old and new ID in the same row to make necessary connections.
 
+[don't do this](https://wiki.postgresql.org/wiki/Don't_Do_This)
+
 

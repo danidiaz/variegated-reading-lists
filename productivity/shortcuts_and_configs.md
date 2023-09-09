@@ -461,4 +461,6 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 > C-b' (single quote) Prompt for window index to select
 > Note this 'window index' wording is a little misleading. This prompt actually accepts target-window which is quite powerful and includes
 
+[Drop git pull for fetch and rebase](https://developers.redhat.com/articles/2023/09/07/drop-git-pull-fetch-and-rebase)
+
 

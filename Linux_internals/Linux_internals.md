@@ -209,4 +209,6 @@
 
 [behind Hello world on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/)
 
+[Using LD_PRELOAD to cheat, inject features and investigate programs](https://news.ycombinator.com/item?id=37439125)
+
 

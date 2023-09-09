@@ -721,7 +721,8 @@ https://news.ycombinator.com/item?id=25061901
 
 [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 
-[the CAP theorem](https://apple.github.io/foundationdb/cap-theorem.html)
+[the CAP theorem](https://apple.github.io/foundationdb/cap-theorem.html). [tweet](https://twitter.com/debasishg/status/1700542360621547718)
+
 
 
 

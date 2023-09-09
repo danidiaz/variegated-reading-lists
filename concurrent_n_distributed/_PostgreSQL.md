@@ -355,4 +355,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [don't do this](https://wiki.postgresql.org/wiki/Don't_Do_This)
 
+[Database Concurrency in PostgreSQL](https://www.red-gate.com/simple-talk/databases/postgresql/database-concurrency-in-postgresql/)
+
 

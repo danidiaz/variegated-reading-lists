@@ -921,4 +921,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Avoid customizing components only through props. Instead embrace composition](https://twitter.com/_georgemoller/status/1699586420455645263)
 
+[client updates taking over on hydration](https://twitter.com/AdamRackis/status/1700684750220873806)   
+
 

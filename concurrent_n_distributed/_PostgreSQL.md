@@ -357,4 +357,10 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Database Concurrency in PostgreSQL](https://www.red-gate.com/simple-talk/databases/postgresql/database-concurrency-in-postgresql/)
 
+[rise of the anti-join](https://www.reddit.com/r/PostgreSQL/comments/wqqe4h/comment/ikoxlzk/)
+
+[How to optimise anti-join SQL queries](https://stackoverflow.com/questions/75790849/how-to-optimise-anti-join-sql-queries). [in Oracle](https://www.remote-dba.net/t_op_sql_anti_join.htm). [SQL server](https://sqlperformance.com/2018/03/sql-performance/row-goals-part-4-anti-join-anti-pattern).
+
+> Even with index support this kind of anti-join grows expensive with very big numbers of used resources.
+
 

@@ -166,4 +166,6 @@
 
 [6 Months of Cooking Up Rust TUIs](https://lobste.rs/s/vlmsti/from_tui_rs_ratatui_6_months_cooking_up)
 
+[Owned values and Futures in Rust](https://www.snoyman.com/blog/owned-values-and-futures/)
+
 

@@ -463,4 +463,6 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [Drop git pull for fetch and rebase](https://developers.redhat.com/articles/2023/09/07/drop-git-pull-fetch-and-rebase)
 
+[The Termux Wiki](https://wiki.termux.com/wiki/Main_Page)
+
 

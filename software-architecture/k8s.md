@@ -411,4 +411,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 > Stats tab - Shows how long your query takes and how much it returns.
 
+[School of SRE](https://news.ycombinator.com/item?id=37451715)
+
 

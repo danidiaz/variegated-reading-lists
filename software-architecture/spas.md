@@ -259,6 +259,10 @@
 
 [If your tooling isn't fingerprinting your assets on file changes then you're gonna have caching surprises in production](https://twitter.com/ryanflorence/status/1691911564092404144)
 
+[topt](https://twitter.com/kentcdodds/status/1700685506999361907)
+
+> This library is great for more than just 2FA. If you want to verify a user's email/phone number, you can use this to securely generate a short code for that, this library can do it.
+
 
 
 

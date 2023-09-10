@@ -744,4 +744,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [ssh keys vs passkeys](https://news.ycombinator.com/item?id=35854969)
 
+[public wifi](https://twitter.com/ProgrammerDude/status/1700794005607309429)
+
 

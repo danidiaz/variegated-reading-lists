@@ -806,4 +806,7 @@ Bernini, his life and his Rome
 
 [godot vs unity](https://twitter.com/MajorMcDoom/status/1680989726520627200)
 
+[Starfield](https://www.rockpapershotgun.com/community/profile/dkk17y)
+
+> Take space flight aka fast travel. Travelling in Starfield is less about moving through space than it is about navigating through menus. The irony is that I'm thankful for the fast travel, because without it then I'd have to plorp around space or a planet surface. But I want to want to enjoy travelling through these things! It's a very weird gaming sensation.
 

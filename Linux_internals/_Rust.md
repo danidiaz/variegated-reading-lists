@@ -168,4 +168,6 @@
 
 [Owned values and Futures in Rust](https://www.snoyman.com/blog/owned-values-and-futures/)
 
+[taming the wildcards](https://people.cs.umass.edu/~yannis/variance-extended2011.pdf) [tweet](https://twitter.com/seanbax/status/1700561352534655322)
+
 

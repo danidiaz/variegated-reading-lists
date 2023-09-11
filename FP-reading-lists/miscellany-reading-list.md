@@ -784,6 +784,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [GameRoy: JIT Compilation in High-Accuracy Game Boy Emulation](https://news.ycombinator.com/item?id=37364624)
 
+[An Introduction to Interpreters and JIT Compilation](https://stefan-marr.de/2023/09/pliss-summer-school/). [tweet](https://twitter.com/smarr/status/1701290458687688812)
+
 [UK air traffic control meltdown](https://news.ycombinator.com/item?id=37461695)
 
 

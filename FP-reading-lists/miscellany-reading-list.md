@@ -784,5 +784,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [GameRoy: JIT Compilation in High-Accuracy Game Boy Emulation](https://news.ycombinator.com/item?id=37364624)
 
+[UK air traffic control meltdown](https://news.ycombinator.com/item?id=37461695)
 
 
+
+> Oh, this is typical in airline industry work. Ask programmers about a domain model or parsing, they give you blank stares.

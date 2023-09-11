@@ -1134,6 +1134,6 @@ What! This does work! How to go in the opposite direction?
 
 [about nix flakes](https://lobste.rs/s/ytosdr/experimental_does_not_mean_unstable). [criticism](https://lobste.rs/s/wamkim/nix_flakes_is_experiment_did_too_much_at)
 
-
+[NixCon 2023](https://media.ccc.de/b/conferences/nixcon/nixcon2023)
 
 

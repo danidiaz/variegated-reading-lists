@@ -465,4 +465,12 @@ A colon, optionally followed by a stage number (0 to 3) and a colon, followed by
 
 [The Termux Wiki](https://wiki.termux.com/wiki/Main_Page)
 
+From within the VSCode terminal:
+
+```
+code $(fzf) 
+```
+
+...or copy the path from github and call code with the path.
+
 

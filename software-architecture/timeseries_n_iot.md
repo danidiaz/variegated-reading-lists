@@ -320,3 +320,7 @@ Bitemporal tables behave as a combination of system-period temporal tables and a
 
 https://www.ibm.com/support/knowledgecenter/en/SSEPGG_11.5.0/com.ibm.db2.luw.admin.dbobj.doc/doc/c0058481.html
 https://www.ibm.com/support/knowledgecenter/en/SSEPGG_11.5.0/com.ibm.db2.luw.admin.dbobj.doc/doc/r0052344.html
+
+[analytics with duckDB?](https://twitter.com/vimota/status/1700943712929673697)
+
+

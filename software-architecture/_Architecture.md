@@ -1381,4 +1381,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > Finally, the Lambda function updates the DynamoDB table, marking the report as complete and supplying the S3 URL that the report can be retrieved from.
 
+[How Boundary Control Entity, UML and Components Happened--airhacks.fm podcast](https://adambien.blog/roller/abien/entry/how_boundary_control_entity_uml)
+
 

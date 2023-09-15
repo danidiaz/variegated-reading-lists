@@ -363,4 +363,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 > Even with index support this kind of anti-join grows expensive with very big numbers of used resources.
 
+[Goodbye etcd, Hello PostgreSQL: Running Kubernetes with an SQL Database](https://lobste.rs/s/tzbluo/goodbye_etcd_hello_postgresql_running)
+
 

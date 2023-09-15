@@ -222,4 +222,6 @@
 
 [Coding is really something like 80% navigation, and only 20% actual writing](https://henrikwarne.com/2012/06/17/programmer-productivity-emacs-versus-intellij-idea/)
 
+[linear code, yay or nay?](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
+
 

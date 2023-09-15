@@ -377,5 +377,7 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Easy OAuth with the Durable Spring Authorization Server](https://www.youtube.com/watch?v=wq7oU2UCsbo). [code](https://github.com/coffee-software-show/the-durable-spring-authorization-server).
 
+[Dynamically Changing log4j or logback log levels in Java](https://prefab.cloud/blog/dynamically-changing-java-log-level/)
+
 
 

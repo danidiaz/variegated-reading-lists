@@ -1138,4 +1138,6 @@ What! This does work! How to go in the opposite direction?
 
 [microvm.nix](https://www.youtube.com/watch?v=iGteDsnlCoY)
 
+[Nixify your haskell project: Introduction](https://discourse.haskell.org/t/nixify-your-haskell-project-introduction/7578)
+
 

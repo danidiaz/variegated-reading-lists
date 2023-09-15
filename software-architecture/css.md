@@ -615,5 +615,8 @@ https://twitter.com/tailwindcss
 
 [has() and previous element selector](https://twitter.com/wesbos/status/1694445882878345446). [more](https://twitter.com/wesbos/status/1694441906124492980).
 
+[v0 generates HTML and CSS to get new projects started.](https://twitter.com/cramforce/status/1702352868890874083)
+
+> Tailwind and  uses @shadcn UI for interactive components.
 
 

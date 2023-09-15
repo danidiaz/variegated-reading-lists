@@ -788,6 +788,10 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [UK air traffic control meltdown](https://news.ycombinator.com/item?id=37461695)
 
-
-
 > Oh, this is typical in airline industry work. Ask programmers about a domain model or parsing, they give you blank stares.
+
+[sources about sequent calculus](https://www.reddit.com/r/haskell/comments/16itxw6/sources_about_sequent_calculus/)
+
+[Learn how debuggers work by building your own one (in Go)](https://www.youtube.com/watch?v=8Uk9ROLGHVE)
+
+

@@ -373,4 +373,9 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [MVC Controllers are Dinosaurs - Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/#sq_hcvqfhumxh)
 
+[Pattern Matching for Switch and Record Patterns in Java 21](https://emilie-robichaud.medium.com/pattern-matching-for-switch-and-record-patterns-in-java-21-979d034b3c5)
+
+[Easy OAuth with the Durable Spring Authorization Server](https://www.youtube.com/watch?v=wq7oU2UCsbo). [code](https://github.com/coffee-software-show/the-durable-spring-authorization-server).
+
+
 

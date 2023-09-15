@@ -211,4 +211,6 @@
 
 [Using LD_PRELOAD to cheat, inject features and investigate programs](https://news.ycombinator.com/item?id=37439125)
 
+[How does Linux start a process](https://news.ycombinator.com/item?id=37521240)
+
 

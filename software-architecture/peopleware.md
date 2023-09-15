@@ -220,4 +220,6 @@
 
 [Bankruptcy in #Birmingham due to #IT blowout](https://twitter.com/BentFlyvbjerg/status/1699980123628351669). [The Empirical Reality of IT Project Cost Overruns: Discovering a Power-Law Distribution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4204819).
 
+[Coding is really something like 80% navigation, and only 20% actual writing](https://henrikwarne.com/2012/06/17/programmer-productivity-emacs-versus-intellij-idea/)
+
 

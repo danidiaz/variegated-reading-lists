@@ -263,6 +263,10 @@
 
 > This library is great for more than just 2FA. If you want to verify a user's email/phone number, you can use this to securely generate a short code for that, this library can do it.
 
+[bulk exports & file management implemented in htmx](https://twitter.com/leiffoged/status/1702473686895517803)
 
+> The first thing I did was wrap the entire file management UI in one big HTML <form> and inserted a checkbox ✅ for each row.
+
+> Then I added 3 buttons (export/move/delete). These buttons open 3 corresponding dialogs (invisible by default w/ a generic loading state baked in).
 
 

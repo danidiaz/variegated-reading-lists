@@ -912,6 +912,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [DuckDB is an in-process SQL OLAP database management system](https://duckdb.org/). [Forget about SQLite, Use DuckDB Instead — And Thank Me Later](https://towardsdatascience.com/forget-about-sqlite-use-duckdb-instead-and-thank-me-later-df76ee9bb777)
 
+[D3: An Automated System to Detect Data Drifts](https://twitter.com/gunnarmorling/status/1702587922443038906)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

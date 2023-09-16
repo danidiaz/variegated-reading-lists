@@ -174,4 +174,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [exhaustive switch](https://twitter.com/cpojer/status/1703062810648002815)
 
+[some type magic](https://twitter.com/AdamRackis/status/1702690086591037771)
+
 

@@ -172,4 +172,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [keyof](https://twitter.com/mattpocockuk/status/1700189274795106761)
 
+[exhaustive switch](https://twitter.com/cpojer/status/1703062810648002815)
+
 

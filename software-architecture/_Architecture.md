@@ -1383,4 +1383,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [How Boundary Control Entity, UML and Components Happened--airhacks.fm podcast](https://adambien.blog/roller/abien/entry/how_boundary_control_entity_uml)
 
+[Dependency Injection, The Best Pattern](https://www.youtube.com/watch?v=J1f5b4vcxCQ). [twitter](https://twitter.com/davidfowl/status/1703296478717038955).
+
 

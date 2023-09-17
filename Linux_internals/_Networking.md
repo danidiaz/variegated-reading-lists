@@ -124,4 +124,6 @@
 
 [Unix sockets, Cygwin, SSH agents, and sadness](https://news.ycombinator.com/item?id=37304370)
 
+[Running one’s own root Certificate Authority in 2023](https://news.ycombinator.com/item?id=37537689)
+
 

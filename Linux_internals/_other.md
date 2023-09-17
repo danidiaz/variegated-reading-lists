@@ -16,4 +16,6 @@
 
 [towards atomic writes](https://twitter.com/eatonphil/status/1698132893426434109)
 
+[Cache Line Alignment in C++ — How It Makes Your Program Faster](https://ryonaldteofilo.medium.com/cache-line-alignment-in-c-1aac85e4482f). [tweet](https://twitter.com/kobi_ca/status/1702706567869813212).
+
 

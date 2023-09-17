@@ -128,3 +128,14 @@
 
 [Can I use Tailscale alongside other VPNs?](https://tailscale.com/kb/1105/other-vpns/)
 
+[Whats the difference between a port forwarder and a socks proxy?](https://serverfault.com/questions/92447/whats-the-difference-between-a-port-forwarder-and-a-socks-proxy)
+
+> The simplest answer is that port-forwarding (as in NAT) is generally transparent to the client, while a SOCKS (or HTTP) proxy requires the client to explicitly use the proxy protocol.
+
+> I agree with the above definitions, though I'd add that NAT and Proxies have a very different purpose. NAT is simply routing: there is no caching, and there is no real "oversight" for lack of a better word. Proxies are put in place for caching, monitoring, traffic shaping. They are very much about control.
+
+> A NAT device performs "address translation" (tuple [TCP/UDP port:IP address] to another tuple) whereas a proxy terminates (in networking terms) a protocol layer, performs adaptation (again in networking terms) and rebuilds another a connection towards the destination.
+
+> In other words, a NAT tries to be as "transparent" to the client protocol as can be whereas a PROXY is really "two connections back-to-back" (same or different protocols on each side).
+
+

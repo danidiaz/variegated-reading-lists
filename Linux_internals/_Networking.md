@@ -128,7 +128,7 @@
 
 [Can I use Tailscale alongside other VPNs?](https://tailscale.com/kb/1105/other-vpns/)
 
-[Whats the difference between a port forwarder and a socks proxy?](https://serverfault.com/questions/92447/whats-the-difference-between-a-port-forwarder-and-a-socks-proxy)
+[Whats the difference between a port forwarder and a socks proxy?](https://serverfault.com/questions/92447/whats-the-difference-between-a-port-forwarder-and-a-socks-proxy). [Transparent SOCKS proxy in Go to replace NAT (2016)](https://www.reddit.com/r/golang/comments/4abaie/transparent_socks_proxy_in_go_to_replace_nat/)
 
 > The simplest answer is that port-forwarding (as in NAT) is generally transparent to the client, while a SOCKS (or HTTP) proxy requires the client to explicitly use the proxy protocol.
 
@@ -137,5 +137,7 @@
 > A NAT device performs "address translation" (tuple [TCP/UDP port:IP address] to another tuple) whereas a proxy terminates (in networking terms) a protocol layer, performs adaptation (again in networking terms) and rebuilds another a connection towards the destination.
 
 > In other words, a NAT tries to be as "transparent" to the client protocol as can be whereas a PROXY is really "two connections back-to-back" (same or different protocols on each side).
+
+> SOCKS is a simple proxy protocol mostly for tunneling TCP connections. With SOCKS5, clients can ask SOCKS server to create tunnels with a IPv4/IPv6 address or a DNS domain name. For this, SOCKS is not as transparent as NAT.
 
 

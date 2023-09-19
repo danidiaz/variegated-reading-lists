@@ -110,4 +110,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Haskell Interlude 31: Arnaud Spiwack](https://discourse.haskell.org/t/haskell-interlude-31-arnaud-spiwack/7154)
 
+[How ready is Linear Haskell for real world use cases?](https://github.com/tweag/linear-base/issues/462)
+
 

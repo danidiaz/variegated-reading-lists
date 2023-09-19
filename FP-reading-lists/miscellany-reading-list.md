@@ -794,4 +794,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Learn how debuggers work by building your own one (in Go)](https://www.youtube.com/watch?v=8Uk9ROLGHVE)
 
+[the pedagogy of logic: a rant](https://www.hedonisticlearning.com/posts/the-pedagogy-of-logic-a-rant.html)
+
 

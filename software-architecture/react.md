@@ -923,4 +923,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [client updates taking over on hydration](https://twitter.com/AdamRackis/status/1700684750220873806)   
 
+[htmx vs. React](https://twitter.com/htmx_org/status/1703819465308197296)
+
 

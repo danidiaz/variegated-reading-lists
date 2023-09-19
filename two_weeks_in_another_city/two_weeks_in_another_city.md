@@ -810,3 +810,8 @@ Bernini, his life and his Rome
 
 > Take space flight aka fast travel. Travelling in Starfield is less about moving through space than it is about navigating through menus. The irony is that I'm thankful for the fast travel, because without it then I'd have to plorp around space or a planet surface. But I want to want to enjoy travelling through these things! It's a very weird gaming sensation.
 
+[How Elite Influenced Starfield and 40 Years of Space Games](https://www.ign.com/articles/how-elite-influenced-starfield-and-40-years-of-space-games)
+
+
+
+

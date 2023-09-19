@@ -379,5 +379,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Dynamically Changing log4j or logback log levels in Java](https://prefab.cloud/blog/dynamically-changing-java-log-level/)
 
+[Why spring data JDBC?](https://docs.spring.io/spring-data/jdbc/docs/current/reference/html/#jdbc.why)
 
 

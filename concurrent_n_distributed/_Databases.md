@@ -914,6 +914,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [D3: An Automated System to Detect Data Drifts](https://twitter.com/gunnarmorling/status/1702587922443038906)
 
+[write skew seems like one really big thing you actually do need to worry about](https://distributed-computing-musings.com/2022/02/transactions-write-skew-why-we-need-serialization/). [tweet](https://twitter.com/eatonphil/status/1702054235691491462).
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

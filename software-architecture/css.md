@@ -619,4 +619,6 @@ https://twitter.com/tailwindcss
 
 > Tailwind and  uses @shadcn UI for interactive components.
 
+[A visual guide to getting equal columns in CSS Grid](https://twitter.com/wesbos/status/1704148800376365084)
+
 

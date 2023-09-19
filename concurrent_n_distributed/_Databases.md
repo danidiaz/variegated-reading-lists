@@ -916,6 +916,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [write skew seems like one really big thing you actually do need to worry about](https://distributed-computing-musings.com/2022/02/transactions-write-skew-why-we-need-serialization/). [tweet](https://twitter.com/eatonphil/status/1702054235691491462). [tweet](https://twitter.com/eatonphil/status/1703960644024733747).
 
+> This is where we can leverage something known as materialized conflicts. Consider our scenario of multiple bookings. While initially onboarding a room_id to our database, we can create a separate table which contains booking dates and room_id for next 6 months. Now as part of the read query for getting count of bookings for a room on a particular day, we can acquire a lock on the row containing room_id and date of booking which will ensure that only one client can acquire this look. Now if another client tries to acquire the same lock then they will be blocked or might get an error which prevents them booking the same room.
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

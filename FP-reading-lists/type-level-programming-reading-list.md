@@ -425,4 +425,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [HOW TO PREVENT GHC FROM INFERRING TYPES WITH UNDESIRABLE CONSTRAINTS](https://www.tweag.io/blog/2023-07-20-ill-formedness-indicators/)
 
+[What is the exponential version of dependently-typed Vector and Tensor?](https://twitter.com/Iceland_jack/status/1562049278297743362)
+
 

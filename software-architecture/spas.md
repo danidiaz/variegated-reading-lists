@@ -271,4 +271,6 @@
 
 [every exercise in http://EpicWeb.dev](https://twitter.com/kentcdodds/status/1702546710210511288)
 
+[server-driven UIs](https://twitter.com/samnewman/status/1704113514250490009)
+
 

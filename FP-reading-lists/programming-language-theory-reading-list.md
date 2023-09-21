@@ -859,5 +859,9 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [jits](https://twitter.com/joepolitz/status/1700182636281692490). [1](https://ucsd-compilers-s23.github.io/week2/index.html#extension-assembling-directly-from-rust). [2](https://ucsd-compilers-s23.github.io/week3/index.html#extension-using-dynamic-information-to-optimize). [3](https://ucsd-compilers-s23.github.io/week5/index.html#extension-3-compiling-functions-with-dynamically-discovered-types). [two ways of saying tomato](https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html).
 
+[PLAI epub](https://twitter.com/krismicinski/status/1704872149758951775). [tweet](https://twitter.com/krismicinski/status/1704872149758951775).
+
+
+
 
 

@@ -173,3 +173,6 @@
 [A Grounded Conceptual Model for Ownership Types in Rust](https://arxiv.org/abs/2309.04134). [why only a mutable borrow?](https://twitter.com/timClicks/status/1702188487859142952)
 
 
+
+
+

@@ -812,6 +812,7 @@ Bernini, his life and his Rome
 
 [How Elite Influenced Starfield and 40 Years of Space Games](https://www.ign.com/articles/how-elite-influenced-starfield-and-40-years-of-space-games)
 
+[A Gameplay Programming Puzzle for ECS](https://johnaustin.io/articles/2023/a-gameplay-programming-brain-teaser-for-ecs)
 
 
 

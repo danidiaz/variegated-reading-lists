@@ -1387,4 +1387,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices). [hn](https://news.ycombinator.com/item?id=37611136).
 
+[Package by Layer vs Package by Feature](https://www.youtube.com/watch?v=B1d95I7-zsw). [tweet](https://twitter.com/therealdanvega/status/1704867889004564622).
+
 

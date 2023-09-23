@@ -277,4 +277,6 @@
 
 [Why the number input is the worst input](https://stackoverflow.blog/2022/12/26/why-the-number-input-is-the-worst-input/)
 
+[Cache headers could probably be more aggressive (macarthur.me)](https://news.ycombinator.com/item?id=37581646)
+
 

@@ -275,4 +275,6 @@
 
 [implement OpenID connect with Google](https://twitter.com/kentcdodds/status/1704939686903652697)
 
+[Why the number input is the worst input](https://stackoverflow.blog/2022/12/26/why-the-number-input-is-the-worst-input/)
+
 

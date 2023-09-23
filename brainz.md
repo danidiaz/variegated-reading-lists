@@ -186,4 +186,4 @@ Things for which I found ChatGPT useful:
 
 [Making deep learning go brrrr from first principles (2022)](https://news.ycombinator.com/item?id=37361711)
 
-
+[OpenAI Cookbook](https://twitter.com/simonpfish/status/1705255275488551213)

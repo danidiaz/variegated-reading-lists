@@ -273,4 +273,6 @@
 
 [server-driven UIs](https://twitter.com/samnewman/status/1704113514250490009)
 
+[implement OpenID connect with Google](https://twitter.com/kentcdodds/status/1704939686903652697)
+
 

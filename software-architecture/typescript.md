@@ -176,4 +176,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [some type magic](https://twitter.com/AdamRackis/status/1702690086591037771)
 
+[zod and conform](https://twitter.com/kentcdodds/status/1705316980717412541)
+
 

@@ -1385,4 +1385,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Dependency Injection, The Best Pattern](https://www.youtube.com/watch?v=J1f5b4vcxCQ). [twitter](https://twitter.com/davidfowl/status/1703296478717038955).
 
+[Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices). [hn](https://news.ycombinator.com/item?id=37611136).
+
 

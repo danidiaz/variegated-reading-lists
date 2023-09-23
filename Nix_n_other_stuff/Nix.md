@@ -1140,4 +1140,6 @@ What! This does work! How to go in the opposite direction?
 
 [Nixify your haskell project: Introduction](https://discourse.haskell.org/t/nixify-your-haskell-project-introduction/7578)
 
+[Haskell bindings for the new Nix C API](https://twitter.com/sandy_doo/status/1701219791183249661). [PR](https://github.com/NixOS/nix/pull/8699).
+
 

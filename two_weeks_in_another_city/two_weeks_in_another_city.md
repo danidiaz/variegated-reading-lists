@@ -814,5 +814,7 @@ Bernini, his life and his Rome
 
 [A Gameplay Programming Puzzle for ECS](https://johnaustin.io/articles/2023/a-gameplay-programming-brain-teaser-for-ecs)
 
+[So you want to make a game engine](https://twitter.com/MikeDiskett/status/1705420794980184412)
+
 
 

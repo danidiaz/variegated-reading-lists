@@ -279,4 +279,6 @@
 
 [Cache headers could probably be more aggressive (macarthur.me)](https://news.ycombinator.com/item?id=37581646)
 
+[progressive enhancement](https://twitter.com/kentcdodds/status/1705374438001393773)
+
 

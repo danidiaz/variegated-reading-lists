@@ -381,4 +381,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Why spring data JDBC?](https://docs.spring.io/spring-data/jdbc/docs/current/reference/html/#jdbc.why)
 
+[scoped values](https://openjdk.org/jeps/446). [tweet](https://twitter.com/msimoni/status/1705990149648101670).
+
 

@@ -861,6 +861,8 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [PLAI epub](https://twitter.com/krismicinski/status/1704872149758951775). [tweet](https://twitter.com/krismicinski/status/1704872149758951775).
 
+[Programming Language Semantics It’s Easy As 1,2,3](https://www.cs.nott.ac.uk/~pszgmh/123.pdf)
+
 
 
 

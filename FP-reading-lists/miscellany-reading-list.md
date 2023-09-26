@@ -798,4 +798,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Fine-grained caching strategies of dynamic queries](https://jensrantil.github.io/posts/fast-aggregate-queries-on-dynamic-data/)
 
+[polarized natural deduction by means of CBPV](https://burakemir.ch/post/cbpv-pt4-polarized/)
+
 

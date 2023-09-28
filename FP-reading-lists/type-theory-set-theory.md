@@ -477,6 +477,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [Propositions as types: explained (and debunked)](https://lawrencecpaulson.github.io/2023/08/23/Propositions_as_Types.html). [tweet](https://twitter.com/LawrPaulson/status/1694310423254745250).
 
+[RZK: Experimental proof assistant for synthetic ∞-categories](https://github.com/rzk-lang/rzk). [hn](https://news.ycombinator.com/item?id=37692166)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

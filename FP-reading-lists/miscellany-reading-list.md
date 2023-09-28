@@ -800,4 +800,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [polarized natural deduction by means of CBPV](https://burakemir.ch/post/cbpv-pt4-polarized/)
 
+[Synthetic formulations - Cedric Villani](https://www.youtube.com/watch?v=AIrLXbwyYXQ)
+
 

@@ -385,6 +385,7 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [The Second Best Way to Fetch a Spring Data JPA DTO Projection](https://blog.jooq.org/the-second-best-way-to-fetch-a-spring-data-jpa-dto-projection/). [tweet](https://twitter.com/maciejwalkowiak/status/1707109360390840346).
 
-[Do you really need Hibernate](https://www.youtube.com/watch?v=ykoUBctblno)
+[Do you really need Hibernate](https://www.youtube.com/watch?v=ykoUBctblno). [Better database access with SQL-centric APIs ](https://www.youtube.com/watch?v=2dvCuWxNTV4&t=1s)
+
 
 

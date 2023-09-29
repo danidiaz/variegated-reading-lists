@@ -803,3 +803,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 [Synthetic formulations - Cedric Villani](https://www.youtube.com/watch?v=AIrLXbwyYXQ)
 
 [How a durable workflow engine works: you might not need a queue](https://www.inngest.com/blog/how-durable-workflow-engines-work)
+
+[An introduction to graph theory (graduate level)](https://arxiv.org/abs/2308.04512)
+
+

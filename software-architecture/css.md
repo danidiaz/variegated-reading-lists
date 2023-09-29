@@ -622,3 +622,7 @@ https://twitter.com/tailwindcss
 [A visual guide to getting equal columns in CSS Grid](https://twitter.com/wesbos/status/1704148800376365084)
 
 [Designing Better Mega-Dropdown-Menus UX](https://www.linkedin.com/pulse/designing-better-mega-dropdown-menus-ux-vitaly-friedman/)
+
+[modern tailwind](https://twitter.com/samselikoff/status/1707475924571066614)
+
+

@@ -224,4 +224,6 @@
 
 [linear code, yay or nay?](https://blog.separateconcerns.com/2023-09-11-linear-code.html). [more](https://lobste.rs/s/udgtcx/linear_code_is_more_readable#c_rotpam).
 
+[squash](https://twitter.com/TkDodo/status/1707644517585686533)
+
 

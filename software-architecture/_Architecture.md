@@ -1389,4 +1389,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Package by Layer vs Package by Feature](https://www.youtube.com/watch?v=B1d95I7-zsw). [tweet](https://twitter.com/therealdanvega/status/1704867889004564622).
 
+[Database-per-user is the holy grail for multi-tenant SaaS](https://twitter.com/PavelTcholakov/status/1708067192120484213)
+
 

@@ -427,4 +427,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [What is the exponential version of dependently-typed Vector and Tensor?](https://twitter.com/Iceland_jack/status/1562049278297743362)
 
+[pitfalls of DTs](https://lean-lang.org/functional_programming_in_lean/dependent-types/pitfalls.html)
+
 

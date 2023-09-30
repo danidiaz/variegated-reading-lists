@@ -925,4 +925,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [htmx vs. React](https://twitter.com/htmx_org/status/1703819465308197296)
 
+[The Uphill Battle of Memoization](https://tkdodo.eu/blog/the-uphill-battle-of-memoization)
+
 

@@ -365,4 +365,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Goodbye etcd, Hello PostgreSQL: Running Kubernetes with an SQL Database](https://lobste.rs/s/tzbluo/goodbye_etcd_hello_postgresql_running)
 
+[How to write high-performance SQL for your Postgres database](https://stackoverflow.blog/2023/09/28/how-to-write-high-performance-sql-for-your-postgres-database/)
+
 

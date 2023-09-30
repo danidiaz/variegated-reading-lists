@@ -333,6 +333,8 @@ a helpful degree of extra comfort.
 
 > This means that a program that allocates an imperative counter counting forward is actually equal to one that allocates one counting backward, so long as the "read" method takes the absolute value. In usual settings, such a result holds UP TO OBSERVATIONAL EQUIVALENCE
 
+[implementing kind inference](https://gilmi.me/blog/post/2023/09/30/kind-inference)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

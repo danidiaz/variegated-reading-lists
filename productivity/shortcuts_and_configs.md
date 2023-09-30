@@ -473,4 +473,6 @@ code $(fzf)
 
 ...or copy the path from github and call code with the path.
 
+[org the ultimate API client](https://nikola.plejic.com/blog/org-the-ultimate-api-client/)
+
 

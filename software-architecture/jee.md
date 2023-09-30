@@ -387,5 +387,7 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Do you really need Hibernate](https://www.youtube.com/watch?v=ykoUBctblno). [Better database access with SQL-centric APIs ](https://www.youtube.com/watch?v=2dvCuWxNTV4&t=1s)
 
+[aot with profile-guided optimizations](https://twitter.com/fniephaus/status/1708019895286313082)
+
 
 

@@ -806,4 +806,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [An introduction to graph theory (graduate level)](https://arxiv.org/abs/2308.04512)
 
+[not inlining in benchmarks](https://discord.com/channels/280033776820813825/280036215477239809/1157389572372709446)
+
 

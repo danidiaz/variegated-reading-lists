@@ -929,4 +929,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 > React.memo is the imperative way to stop re-renderings. Composition is declarative. Doing it imperatively may break of course because is almost impossible to take charge of all edge cases.
 
+[url state is underrated](https://twitter.com/leeerob/status/1708280997488333078)
+
 

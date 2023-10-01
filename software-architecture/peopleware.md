@@ -226,4 +226,6 @@
 
 [squash](https://twitter.com/TkDodo/status/1707644517585686533)
 
+[Reorient GitHub Pull Requests Around Changesets](https://lobste.rs/s/wbfuoo/reorient_github_pull_requests_around)
+
 

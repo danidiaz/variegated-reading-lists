@@ -213,4 +213,6 @@
 
 [How does Linux start a process](https://news.ycombinator.com/item?id=37521240)
 
+[Intercepting and modifying Linux system calls with ptrace](https://notes.eatonphil.com/2023-10-01-intercepting-and-modifying-linux-system-calls-with-ptrace.html)
+
 

@@ -922,6 +922,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [How a Database Looks from a Disk’s Perspective](https://www.youtube.com/watch?v=4grfrjjAd1g)
 
+[database migrations](https://vadimkravcenko.com/shorts/database-migrations/). [hn](https://news.ycombinator.com/item?id=37724549).
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

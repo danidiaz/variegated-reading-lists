@@ -920,6 +920,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [CI/CD patterns for dbt projects](https://noti.st/morsapaes/MtLt7R/ci-cd-patterns-for-dbt-projects)
 
+[How a Database Looks from a Disk’s Perspective](https://www.youtube.com/watch?v=4grfrjjAd1g)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

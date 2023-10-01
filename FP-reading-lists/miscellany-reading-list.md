@@ -808,4 +808,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [not inlining in benchmarks](https://discord.com/channels/280033776820813825/280036215477239809/1157389572372709446)
 
+[Error Messages Are Classifiers—A Process to Design and Evaluate Error Messages](https://discourse.haskell.org/t/error-messages-are-classifiers/7741)
 

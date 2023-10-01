@@ -925,7 +925,7 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [htmx vs. React](https://twitter.com/htmx_org/status/1703819465308197296)
 
-[The Uphill Battle of Memoization](https://tkdodo.eu/blog/the-uphill-battle-of-memoization). [composition](https://twitter.com/dev_bogdan/status/1708147138851451030).
+[The Uphill Battle of Memoization](https://tkdodo.eu/blog/the-uphill-battle-of-memoization). [composition](https://twitter.com/dev_bogdan/status/1708147138851451030). [what's the moral](https://overreacted.io/before-you-memo/#whats-the-moral). [One simple trick to optimize React re-renders](https://kentcdodds.com/blog/optimize-react-re-renders).
 
 > React.memo is the imperative way to stop re-renderings. Composition is declarative. Doing it imperatively may break of course because is almost impossible to take charge of all edge cases.
 

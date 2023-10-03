@@ -730,3 +730,7 @@ https://news.ycombinator.com/item?id=25061901
 [There is No Now—Problems with simultaneity in distributed systems](https://queue.acm.org/detail.cfm?id=2745385)
 
 [Hints for Distributed Systems Design](https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)
+
+[State-Machine Replication (SMR) and Atomic Commit](https://ilyasergey.net/CS6213/week-02-consensus.html)
+
+

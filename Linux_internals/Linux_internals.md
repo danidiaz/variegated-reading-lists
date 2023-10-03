@@ -215,4 +215,6 @@
 
 [Intercepting and modifying Linux system calls with ptrace](https://notes.eatonphil.com/2023-10-01-intercepting-and-modifying-linux-system-calls-with-ptrace.html)
 
+[Faster hash maps, binary trees etc. through data layout modification](https://johnnysswlab.com/faster-hash-maps-binary-trees-etc-through-data-layout-modification/)
+
 

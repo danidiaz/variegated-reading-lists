@@ -429,4 +429,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [pitfalls of DTs](https://lean-lang.org/functional_programming_in_lean/dependent-types/pitfalls.html)
 
+[Instances for type families](https://discourse.haskell.org/t/instances-for-type-families/7773)
+
 

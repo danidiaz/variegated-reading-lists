@@ -367,4 +367,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [How to write high-performance SQL for your Postgres database](https://stackoverflow.blog/2023/09/28/how-to-write-high-performance-sql-for-your-postgres-database/)
 
+[How to work with pg_stat_statements](https://twitter.com/samokhvalov/status/1709069225762095258).
+
 

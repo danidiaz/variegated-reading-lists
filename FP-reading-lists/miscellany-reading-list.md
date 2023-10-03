@@ -810,3 +810,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Error Messages Are Classifiers—A Process to Design and Evaluate Error Messages](https://discourse.haskell.org/t/error-messages-are-classifiers/7741)
 
+[The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://tonsky.me/blog/unicode/). [hn](https://news.ycombinator.com/item?id=37735801). [ls](https://lobste.rs/s/bkavdb/unicode_overview). [Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals). [lobsters](https://lobste.rs/s/vogqos/grapheme_clusters_terminal_emulators).
+

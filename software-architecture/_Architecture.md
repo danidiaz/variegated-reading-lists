@@ -1391,4 +1391,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Database-per-user is the holy grail for multi-tenant SaaS](https://twitter.com/PavelTcholakov/status/1708067192120484213)
 
+[D style](https://news.ycombinator.com/item?id=37748543)
+
 

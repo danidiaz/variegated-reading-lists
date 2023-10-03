@@ -190,5 +190,9 @@ Things for which I found ChatGPT useful:
 
 [German Large Language Model Released](https://laion.ai/blog/leo-lm/). [hn](https://news.ycombinator.com/item?id=37699465).
 
+[extract Latex code from image](https://twitter.com/rasbt/status/1709173115245170741)
+
+[for writing tests](https://twitter.com/rakyll/status/1708937806859624523)
+
 
 

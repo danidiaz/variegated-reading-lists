@@ -281,4 +281,7 @@
 
 [progressive enhancement](https://twitter.com/kentcdodds/status/1705374438001393773)
 
+[error messages](https://dev.to/stripe/designing-apis-for-humans-error-messages-94p)
+
+[REST-endpoints for the UI](https://twitter.com/housecor/status/1709199282878693837). [ split your data & app apis](https://twitter.com/htmx_org/status/1709214306909536330). [backend/frontend split](https://twitter.com/ryanflorence/status/1709212381916876968). [monorepos](https://twitter.com/mattpocockuk/status/1709218143199952994). [backend for frontend](https://twitter.com/DiazCarrete/likes). 
 

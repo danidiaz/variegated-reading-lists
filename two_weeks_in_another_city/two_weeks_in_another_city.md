@@ -759,6 +759,8 @@ Bernini, his life and his Rome
 
 [runequest cities](https://www.goodreads.com/review/show/5641785477). [city system tsr](https://www.goodreads.com/review/show/5641786216).
 
+[ funnel-before-reveal](https://twitter.com/LD_Sandersen/status/1708876584419987643)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

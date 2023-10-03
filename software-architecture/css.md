@@ -625,4 +625,6 @@ https://twitter.com/tailwindcss
 
 [modern tailwind](https://twitter.com/samselikoff/status/1707475924571066614)
 
+[drag-and-drop gotchas](https://twitter.com/JoshWComeau/status/1708878759128957099)
+
 

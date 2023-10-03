@@ -194,5 +194,7 @@ Things for which I found ChatGPT useful:
 
 [for writing tests](https://twitter.com/rakyll/status/1708937806859624523)
 
+[veggies](https://twitter.com/sherjilozair/status/1708604719881765111)
+
 
 

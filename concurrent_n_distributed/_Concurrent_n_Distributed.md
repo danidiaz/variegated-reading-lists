@@ -727,4 +727,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [TLA+ for postmortem analysis](https://twitter.com/tianyin_xu/status/1708247209634914576)
 
+[There is No Now—Problems with simultaneity in distributed systems](https://queue.acm.org/detail.cfm?id=2745385)
 
+[Hints for Distributed Systems Design](https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)

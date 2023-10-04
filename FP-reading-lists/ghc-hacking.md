@@ -356,4 +356,6 @@ further
 
 [ZuriHac 2016 - Low-level Haskell: An Interactive Tour Through the STG](https://www.youtube.com/watch?v=-MFk7PIKYsg)
 
+[A GHC plugin for OpenTelemetry build metrics](https://www.haskellforall.com/2023/10/a-ghc-plugin-for-opentelemetry-build.html)
+
 

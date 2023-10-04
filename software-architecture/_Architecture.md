@@ -1394,3 +1394,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 [D style](https://news.ycombinator.com/item?id=37748543)
 
 [Top 5 techniques for building the worst microservice system ever](https://www.youtube.com/watch?v=88_LUw1Wwe4)
+
+[Compliance & Regulatory Standards Are NOT Incompatible With Modern Development Best Practices](https://twitter.com/mipsytipsy/status/1709335980333990271)
+
+

@@ -931,4 +931,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [url state is underrated](https://twitter.com/leeerob/status/1708280997488333078)
 
+[Accessible, Typesafe, Progressively Enhanced Modern Web Forms](https://www.epicweb.dev/accessible-typesafe-progressively-enhanced-modern-web-forms)
+
 

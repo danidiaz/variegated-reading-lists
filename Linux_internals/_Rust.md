@@ -174,6 +174,7 @@
 
 [profiles](https://smallcultfollowing.com/babysteps/blog/2023/09/30/profiles/)
 
+[exceptions yay or nay](https://twitter.com/SusanPotter/status/1709933194135613828)
 
 
 

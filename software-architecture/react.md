@@ -933,4 +933,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Accessible, Typesafe, Progressively Enhanced Modern Web Forms](https://www.epicweb.dev/accessible-typesafe-progressively-enhanced-modern-web-forms)
 
+[flushSync](https://twitter.com/ryanflorence/status/1710000218543096230)
+
 

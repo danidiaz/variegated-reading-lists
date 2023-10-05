@@ -935,4 +935,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [flushSync](https://twitter.com/ryanflorence/status/1710000218543096230)
 
+[crosscut of the absence of god](https://twitter.com/YungKark/status/1709999491560915257)
+
 

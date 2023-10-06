@@ -358,4 +358,6 @@ further
 
 [A GHC plugin for OpenTelemetry build metrics](https://www.haskellforall.com/2023/10/a-ghc-plugin-for-opentelemetry-build.html)
 
+[coercion optimizer](https://gitlab.haskell.org/ghc/ghc/-/issues/8095#note_530602)
+
 

@@ -140,4 +140,6 @@
 
 > SOCKS is a simple proxy protocol mostly for tunneling TCP connections. With SOCKS5, clients can ask SOCKS server to create tunnels with a IPv4/IPv6 address or a DNS domain name. For this, SOCKS is not as transparent as NAT.
 
+[Virtual networking 101: Bridging the gap to understanding TAP](https://blog.cloudflare.com/virtual-networking-101-understanding-tap/) 
+
 

@@ -228,4 +228,6 @@
 
 [Reorient GitHub Pull Requests Around Changesets](https://lobste.rs/s/wbfuoo/reorient_github_pull_requests_around)
 
+[The Consequences Of User Stories Being TOO BIG!](https://www.youtube.com/watch?v=_gteHp-ZR9k)
+
 

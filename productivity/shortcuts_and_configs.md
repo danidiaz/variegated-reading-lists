@@ -475,4 +475,6 @@ code $(fzf)
 
 [org the ultimate API client](https://nikola.plejic.com/blog/org-the-ultimate-api-client/)
 
+[Exploratory Data Analysis Using Awk ](https://news.ycombinator.com/item?id=37792916)
+
 

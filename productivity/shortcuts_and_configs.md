@@ -477,4 +477,6 @@ code $(fzf)
 
 [Exploratory Data Analysis Using Awk ](https://news.ycombinator.com/item?id=37792916)
 
+[Why Git is hard](https://roadrunnertwice.dreamwidth.org/596185.html)
+
 

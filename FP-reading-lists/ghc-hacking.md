@@ -360,4 +360,6 @@ further
 
 [coercion optimizer](https://gitlab.haskell.org/ghc/ghc/-/issues/8095#note_530602)
 
+[coffee compiler club](https://www.youtube.com/watch?v=pYNgu7dG0Tc)
+
 

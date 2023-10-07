@@ -816,4 +816,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [How to Simulate a Low Latency Exchange in C++](https://www.youtube.com/watch?v=QQrTE4YLkSE)
 
+[Binary Trees To Hash Array Mapped Tries, Step by Step](https://vaibhavsagar.com/blog/2023/10/07/binary-trees-to-hamts/)
+
 

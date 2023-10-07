@@ -217,7 +217,9 @@
 
 [Faster hash maps, binary trees etc. through data layout modification](https://johnnysswlab.com/faster-hash-maps-binary-trees-etc-through-data-layout-modification/)
 
-[Faster & Fewer Page Faults](https://www.youtube.com/watch?v=TEHRMzZ01nE). [tweet](https://twitter.com/debasishg/status/1710308840732807334).
+[Faster & Fewer Page Faults](https://www.youtube.com/watch?v=TEHRMzZ01nE). [tweet](https://twitter.com/debasishg/status/1710308840732807334). [Maple tree](https://www.youtube.com/watch?v=XwukyRAL7WQ).
+
+
 
 
 

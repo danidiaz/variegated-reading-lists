@@ -814,4 +814,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [\*(char\*)0 = 0; - What Does the C++ Programmer Intend With This Code?](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
 
+[How to Simulate a Low Latency Exchange in C++](https://www.youtube.com/watch?v=QQrTE4YLkSE)
+
 

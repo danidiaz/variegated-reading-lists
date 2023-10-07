@@ -479,4 +479,6 @@ code $(fzf)
 
 [Why Git is hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 
+[How to Setup Scenes, Sources, and Overlays in OBS](https://www.youtube.com/watch?v=tFmxhBsLEuE)
+
 

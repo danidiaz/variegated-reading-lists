@@ -812,3 +812,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://tonsky.me/blog/unicode/). [hn](https://news.ycombinator.com/item?id=37735801). [ls](https://lobste.rs/s/bkavdb/unicode_overview). [Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals). [lobsters](https://lobste.rs/s/vogqos/grapheme_clusters_terminal_emulators).
 
+[\*(char\*)0 = 0; - What Does the C++ Programmer Intend With This Code?](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
+
+

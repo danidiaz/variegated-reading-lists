@@ -335,6 +335,8 @@ a helpful degree of extra comfort.
 
 [implementing kind inference](https://gilmi.me/blog/post/2023/09/30/kind-inference)
 
+["Polynomial TIme and Dependent Types"](https://hachyderm.io/@bentnib@types.pl/111171181083700819)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

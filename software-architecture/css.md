@@ -627,4 +627,6 @@ https://twitter.com/tailwindcss
 
 [drag-and-drop gotchas](https://twitter.com/JoshWComeau/status/1708878759128957099)
 
+[aria-labelledby and accessible name computation](https://twitter.com/tuantrungvo/status/1710901776311107630)
+
 

@@ -230,4 +230,6 @@
 
 [The Consequences Of User Stories Being TOO BIG!](https://www.youtube.com/watch?v=_gteHp-ZR9k)
 
+[CamlCase rant](https://gist.github.com/adashrod/66564c690906c9b774e77ddacbd06e1b)
+
 

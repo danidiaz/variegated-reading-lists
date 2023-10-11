@@ -924,6 +924,10 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [database migrations](https://vadimkravcenko.com/shorts/database-migrations/). [hn](https://news.ycombinator.com/item?id=37724549).
 
+[don't use Prisma](https://codedamn.com/news/product/dont-use-prisma). [foreign keys](https://twitter.com/FranckPachot/status/1711386594953863613).
+
+> Our second mistake was that we turned on the “emulated foreign key relation” mode in Prisma. 
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

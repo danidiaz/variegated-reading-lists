@@ -18,4 +18,6 @@
 
 [Cache Line Alignment in C++ — How It Makes Your Program Faster](https://ryonaldteofilo.medium.com/cache-line-alignment-in-c-1aac85e4482f). [tweet](https://twitter.com/kobi_ca/status/1702706567869813212).
 
+[You (Probably) Shouldn't use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
+
 

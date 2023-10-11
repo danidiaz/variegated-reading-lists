@@ -293,6 +293,8 @@ Insurance premiums may be affected and adjusted as a result.
 
 [Airtable and CSV](https://twitter.com/sharoz/status/1621115468093464577)
 
+[   The pivot table, the spreadsheet's most powerful tool (2020) ](https://news.ycombinator.com/item?id=37820877)
+
 # financial mathematics
 
 [the firm's actuarial code relies on specific bugs in the mainframe OS's floating-point handling](https://twitter.com/forrestbrazeal/status/1621329407611641856)

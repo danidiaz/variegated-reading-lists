@@ -481,4 +481,6 @@ code $(fzf)
 
 [How to Setup Scenes, Sources, and Overlays in OBS](https://www.youtube.com/watch?v=tFmxhBsLEuE)
 
+[HTTPie Desktop: cross-platform API testing client for humans](https://news.ycombinator.com/item?id=37815999)
+
 

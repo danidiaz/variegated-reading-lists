@@ -733,4 +733,8 @@ https://news.ycombinator.com/item?id=25061901
 
 [State-Machine Replication (SMR) and Atomic Commit](https://ilyasergey.net/CS6213/week-02-consensus.html)
 
+[modeling CRDTs in Alloy - introduction and the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
+
+[advisory locking](https://twitter.com/yet_anotherDev/status/1711235976238964804?t=1v5rOjI179eIJhVFnEMsqA&s=03)
+
 

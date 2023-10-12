@@ -227,4 +227,6 @@ They're all capable of expressing one another in their own terms though, so they
 
 [The Essence of Reactivity](https://dl.acm.org/doi/pdf/10.1145/3609026.3609727)
 
+[Asynchronous Reactive Programming with Modal Types in Haskell](https://bahr.io/pubs/files/asyncrattus-paper.pdf)
+
 

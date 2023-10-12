@@ -863,6 +863,7 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [Programming Language Semantics It’s Easy As 1,2,3](https://www.cs.nott.ac.uk/~pszgmh/123.pdf)
 
+[SSA is isomorphic to a functional IR](https://hachyderm.io/@maxsnew@types.pl/111218416772375704). [article](https://dl.acm.org/doi/10.1145/278283.278285).
 
 
 

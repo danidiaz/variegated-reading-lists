@@ -196,5 +196,5 @@ Things for which I found ChatGPT useful:
 
 [veggies](https://twitter.com/sherjilozair/status/1708604719881765111)
 
-
+[prompting techniques](https://twitter.com/_jasonwei/status/1712551642275655770)   
 

@@ -818,4 +818,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Binary Trees To Hash Array Mapped Tries, Step by Step](https://vaibhavsagar.com/blog/2023/10/07/binary-trees-to-hamts/)
 
+[Use traversals for batch operations](https://oleg.fi/gists/posts/2023-10-12-use-traversals-for-batch-operations.html). [tweet](https://twitter.com/aspiwack/status/1712832648509354098).
+
 

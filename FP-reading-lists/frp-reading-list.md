@@ -229,4 +229,6 @@ They're all capable of expressing one another in their own terms though, so they
 
 [Asynchronous Reactive Programming with Modal Types in Haskell](https://bahr.io/pubs/files/asyncrattus-paper.pdf)
 
+[RHINE-BAYES: A LIBRARY FOR ONLINE REACTIVE BAYESIAN INFERENCE](https://www.tweag.io/blog/2023-10-12-rhine-bayes/#online-reactive-bayesian-machine-learning-in-haskell)
+
 

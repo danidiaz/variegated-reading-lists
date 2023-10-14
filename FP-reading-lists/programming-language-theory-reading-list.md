@@ -865,6 +865,8 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [SSA is isomorphic to a functional IR](https://hachyderm.io/@maxsnew@types.pl/111218416772375704). [article](https://dl.acm.org/doi/10.1145/278283.278285).
 
+[Cornell's CS 4110 PL theory class](https://www.cs.cornell.edu/courses/cs4110/2021fa/lectures/lecture19.pdf)
+
 
 
 

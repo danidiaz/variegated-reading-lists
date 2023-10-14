@@ -820,4 +820,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Use traversals for batch operations](https://oleg.fi/gists/posts/2023-10-12-use-traversals-for-batch-operations.html). [tweet](https://twitter.com/aspiwack/status/1712832648509354098).
 
+[Making GRID's spreadsheet engine 10% faster](https://news.ycombinator.com/item?id=37842914)
+
 

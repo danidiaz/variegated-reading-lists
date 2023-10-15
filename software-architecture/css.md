@@ -629,3 +629,6 @@ https://twitter.com/tailwindcss
 
 [aria-labelledby and accessible name computation](https://twitter.com/tuantrungvo/status/1710901776311107630). [what order should you follow?](https://twitter.com/SaraSoueidan/status/1710960167116808448)
 
+[the algebra of css selectors](https://cofree.coffee/~verity/css_selectors.html)
+
+

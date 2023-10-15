@@ -198,3 +198,6 @@ Things for which I found ChatGPT useful:
 
 [prompting techniques](https://twitter.com/_jasonwei/status/1712551642275655770)   
 
+[ChatGPT’s system prompts](https://news.ycombinator.com/item?id=37879077). [tweet](https://twitter.com/browserdotsys/status/1713330387852648685).
+
+

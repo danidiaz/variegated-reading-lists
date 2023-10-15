@@ -200,4 +200,6 @@ Things for which I found ChatGPT useful:
 
 [ChatGPT’s system prompts](https://news.ycombinator.com/item?id=37879077). [tweet](https://twitter.com/browserdotsys/status/1713330387852648685).
 
+[internet big](https://twitter.com/rao2z/status/1713173089947890043)
+
 

@@ -232,4 +232,6 @@
 
 [CamlCase rant](https://gist.github.com/adashrod/66564c690906c9b774e77ddacbd06e1b)
 
+[TVP](https://thenewstack.io/mvp-or-tvp-why-your-internal-developer-platform-needs-both/)
+
 

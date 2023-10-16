@@ -289,4 +289,10 @@
 
 [Django things you want with HTMX](https://www.bitecode.dev/p/django-things-you-want-with-htmx)
 
+[Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms). [Web.FormUrlEncoded.parseAll](https://hackage.haskell.org/package/http-api-data-0.6/docs/Web-FormUrlEncoded.html#v:parseAll). [multipage web forms (2010)](https://www.uxmatters.com/mt/archives/2010/03/pagination-in-web-forms-evaluating-the-effectiveness-of-web-forms.php)
+
+[<input type="checkbox">](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox)
+
+[Accessible, Typesafe, Progressively Enhanced Modern Web Forms](https://www.epicweb.dev/accessible-typesafe-progressively-enhanced-modern-web-forms)
+
 

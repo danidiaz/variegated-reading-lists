@@ -178,4 +178,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [zod and conform](https://twitter.com/kentcdodds/status/1705316980717412541)
 
+[TypeScript for ORMs](https://twitter.com/bloberenober/status/1713662276694094272)
+
 

@@ -295,4 +295,8 @@
 
 [Accessible, Typesafe, Progressively Enhanced Modern Web Forms](https://www.epicweb.dev/accessible-typesafe-progressively-enhanced-modern-web-forms)
 
+[search params](https://twitter.com/tannerlinsley/status/1714343894626996337)
+
+> - Being able to functionally maintain search params through links and navigate() calls is a critical architecture requirement, but is a footgun as a leaf-node API. Further abstraction is required to make it safe for anyone who isn't a vigilant code surgeon.
+
 

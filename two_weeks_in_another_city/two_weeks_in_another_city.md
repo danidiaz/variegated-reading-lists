@@ -761,6 +761,8 @@ Bernini, his life and his Rome
 
 [ funnel-before-reveal](https://twitter.com/LD_Sandersen/status/1708876584419987643)
 
+[the idea of replayable narrative](https://twitter.com/joningold/status/1714391392313569764)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

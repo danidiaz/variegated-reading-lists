@@ -388,6 +388,6 @@ is not a problem)
 
 [Formalizing Monoidal Categories and Actions for Syntax with Binders](https://arxiv.org/abs/2307.16270)
 
-
+[Is it possible, using PHOAS, to evaluate a term to normal form, and then stringify it?](https://stackoverflow.com/questions/77332495/is-it-possible-using-phoas-to-evaluate-a-term-to-normal-form-and-then-stringi)
 
 

@@ -337,6 +337,8 @@ a helpful degree of extra comfort.
 
 ["Polynomial TIme and Dependent Types"](https://hachyderm.io/@bentnib@types.pl/111171181083700819)
 
+[Normalization by Evaluation Four Ways: Reconstructing NbE Designs from First Principles](https://williamjbowman.com/tmp/nbe-four-ways/). [post](https://hachyderm.io/@wilbowma@types.pl/111276371909511764).
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

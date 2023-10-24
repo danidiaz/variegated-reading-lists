@@ -355,6 +355,10 @@ free variables. NbE reduces normalization to evaluation of expressions in a resi
 model, i. e., a computational structure that has extra base values which are unknowns
 or computations blocked by unknowns.
 
+[Normalization](https://www.pls-lab.org/concepts/Normalization)
+
+> One way of deciding an equational theory is through normalizing its terms.
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

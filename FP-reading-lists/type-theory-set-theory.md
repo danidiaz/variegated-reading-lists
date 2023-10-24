@@ -339,6 +339,22 @@ a helpful degree of extra comfort.
 
 [Normalization by Evaluation Four Ways: Reconstructing NbE Designs from First Principles](https://williamjbowman.com/tmp/nbe-four-ways/). [post](https://hachyderm.io/@wilbowma@types.pl/111276371909511764).
 
+[The precise definition of Normalization By Evaluation?](https://cstheory.stackexchange.com/questions/52149/the-precise-definition-of-normalization-by-evaluation)
+
+> The difference you see between higher-order and closure-based representations is a lot smaller than it first seems: the closure-based representation arises as the defunctionalisation of the higher-order algorithm.
+
+> the idea that closures are basically defunctionalized HOAS
+
+[Normalization by Evaluation Dependent Types and Impredicativity](https://www.cse.chalmers.se/%7Eabela/habil.pdf)
+
+> Normalization by evaluation (NbE) is a technique to compute the normal form of a
+lambda-term, i. e., an expression of a pure functional programming language. While
+evaluation is only concerned with computing closed expressions, normalization also
+applies to function bodies, thus, needs to compute with open expressions containing
+free variables. NbE reduces normalization to evaluation of expressions in a residualizing
+model, i. e., a computational structure that has extra base values which are unknowns
+or computations blocked by unknowns.
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

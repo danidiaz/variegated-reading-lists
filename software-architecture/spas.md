@@ -302,3 +302,7 @@
 [form horror](https://twitter.com/htmx_org/status/1714701042494112026). [more form horror](https://twitter.com/housecor/status/1714960732373049682).
 
 [react-query v5](https://news.ycombinator.com/item?id=37940311)
+
+[MSW 2.0 – Mock Service Worker](https://news.ycombinator.com/item?id=37985777)
+
+

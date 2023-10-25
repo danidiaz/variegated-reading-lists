@@ -305,4 +305,6 @@
 
 [MSW 2.0 – Mock Service Worker](https://news.ycombinator.com/item?id=37985777)
 
+[Web components will outlive JavaScript frameworks](https://news.ycombinator.com/item?id=38012662)
+
 

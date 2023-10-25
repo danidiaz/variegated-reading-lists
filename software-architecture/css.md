@@ -631,4 +631,8 @@ https://twitter.com/tailwindcss
 
 [the algebra of css selectors](https://cofree.coffee/~verity/css_selectors.html)
 
+[how to pick a font](https://notadesigner.io/p/how-to-pick-font)
+
+[how to style lists](https://notadesigner.io/p/styling-text-lists)
+
 

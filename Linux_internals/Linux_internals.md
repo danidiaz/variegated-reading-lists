@@ -219,6 +219,8 @@
 
 [Faster & Fewer Page Faults](https://www.youtube.com/watch?v=TEHRMzZ01nE). [tweet](https://twitter.com/debasishg/status/1710308840732807334). [Maple tree](https://www.youtube.com/watch?v=XwukyRAL7WQ).
 
+[Not knowing the /proc file system](https://news.ycombinator.com/item?id=38009372). [A tale of /dev/fd](http://phala.isatty.net/~amber/hacks/devfd)
+
 
 
 

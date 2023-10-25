@@ -202,6 +202,10 @@ Things for which I found ChatGPT useful:
 
 [internet big](https://twitter.com/rao2z/status/1713173089947890043)
 
-[embeddings](https://simonwillison.net/2023/Oct/23/embeddings/). [tweet](https://twitter.com/simonw/status/1716449601505657224).
+[embeddings](https://simonwillison.net/2023/Oct/23/embeddings/). [tweet](https://twitter.com/simonw/status/1716449601505657224). [hn](https://news.ycombinator.com/item?id=37985489)
+
+[v0](https://news.ycombinator.com/item?id=37974743)
+
+
 
 

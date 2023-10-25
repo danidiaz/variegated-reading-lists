@@ -937,4 +937,8 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [crosscut of the absence of god](https://twitter.com/YungKark/status/1709999491560915257)
 
+[when apps don't use urls effectively](https://twitter.com/housecor/status/1717152910713278544)
+
+> If I share a URL and someone doesn't see what I'm seeing, that's typically a problem.
+
 

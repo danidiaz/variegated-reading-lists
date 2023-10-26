@@ -822,4 +822,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Making GRID's spreadsheet engine 10% faster](https://news.ycombinator.com/item?id=37842914)
 
+[Use traversals for batch operations](https://oleg.fi/gists/posts/2023-10-12-use-traversals-for-batch-operations.html)
+
 

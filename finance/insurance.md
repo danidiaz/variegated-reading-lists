@@ -49,6 +49,8 @@
 
 [cars](https://twitter.com/boyonabike62/status/1697922810604356054)
 
+[travel insurance](https://twitter.com/patio11/status/1717931167133860136)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

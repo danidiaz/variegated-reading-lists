@@ -53,4 +53,6 @@
 
 [Building a pivot table in SQLite](https://antonz.org/sqlite-pivot-table/)
 
+[Why you should probably be using SQLite](https://news.ycombinator.com/item?id=38036921)
+
 

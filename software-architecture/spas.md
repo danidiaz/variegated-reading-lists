@@ -309,4 +309,6 @@
 
 [How to use JavaScript's FormData to collect form fields without refs or state](https://twitter.com/ReactTraining/status/1716822590533353817). [FormData/URLSearchParams](https://twitter.com/buildsghost/status/1717288813284991286)
 
+[Updating Other Content](https://htmx.org/examples/update-other-content/)
+
 

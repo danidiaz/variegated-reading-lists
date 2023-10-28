@@ -635,4 +635,6 @@ https://twitter.com/tailwindcss
 
 [how to style lists](https://notadesigner.io/p/styling-text-lists)
 
+[why can't we style a select?](https://stackoverflow.com/questions/43406185/why-we-cant-style-option-of-dropdown-using-css)
+
 

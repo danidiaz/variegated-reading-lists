@@ -1397,4 +1397,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Compliance & Regulatory Standards Are NOT Incompatible With Modern Development Best Practices](https://twitter.com/mipsytipsy/status/1709335980333990271)
 
+[separation of concerns](https://twitter.com/jaffathecake/status/1717886846632329317)
+
 

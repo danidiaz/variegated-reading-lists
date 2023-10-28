@@ -1052,4 +1052,6 @@ deals with its own properties.
 
 [squares](https://twitter.com/tangled_zans/status/1699768866337964376)
 
+[functors map categories](https://www.reddit.com/r/haskell/comments/17hzl8d/functors_map_categories/)
+
 

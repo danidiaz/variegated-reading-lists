@@ -364,7 +364,8 @@ further
 
 [zonkTyVarOcc](https://oleg.fi/gists/posts/2023-10-17-more-traverals-and-more-cabal-sat.html#fn1)
 
-[The GHC strictness analyzer, unboxing, and the worker-wrapper transformation - Tweag](https://www.reddit.com/r/haskell/comments/108tzle/lexi_lambda_the_ghc_strictness_analyzer_unboxing/). [The Worker/Wrapper Transformation (Extended Version)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4a74a66a02a229d10eee49f324a3e72afc488e77). [The Worker/Wrapper Transformation](https://ku-fpg.github.io/practice/workerwrapper/). [Mechanising the worker/wrapper transformation](https://www.isa-afp.org/browser_info/current/AFP/WorkerWrapper/outline.pdf)
+[The GHC strictness analyzer, unboxing, and the worker-wrapper transformation - Tweag](https://www.reddit.com/r/haskell/comments/108tzle/lexi_lambda_the_ghc_strictness_analyzer_unboxing/). [The Worker/Wrapper Transformation (Extended Version)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4a74a66a02a229d10eee49f324a3e72afc488e77). [The Worker/Wrapper Transformation](https://ku-fpg.github.io/practice/workerwrapper/). [Mechanising the worker/wrapper transformation](https://www.isa-afp.org/browser_info/current/AFP/WorkerWrapper/outline.pdf). [The Worker-Wrapper Transformation Getting it right and making it better](https://eprints.nottingham.ac.uk/46840/1/thesis.pdf)
+
 
 
 

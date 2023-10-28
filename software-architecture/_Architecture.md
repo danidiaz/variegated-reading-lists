@@ -1399,4 +1399,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [separation of concerns](https://twitter.com/jaffathecake/status/1717886846632329317)
 
+[modularity](https://hachyderm.io/@jasongorman@mastodon.cloud/111311911352630518)
+
 

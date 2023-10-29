@@ -366,6 +366,10 @@ further
 
 [The GHC strictness analyzer, unboxing, and the worker-wrapper transformation - Tweag](https://www.reddit.com/r/haskell/comments/108tzle/lexi_lambda_the_ghc_strictness_analyzer_unboxing/). [The Worker/Wrapper Transformation (Extended Version)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4a74a66a02a229d10eee49f324a3e72afc488e77). [The Worker/Wrapper Transformation](https://ku-fpg.github.io/practice/workerwrapper/). [Mechanising the worker/wrapper transformation](https://www.isa-afp.org/browser_info/current/AFP/WorkerWrapper/outline.pdf). [The Worker-Wrapper Transformation Getting it right and making it better](https://eprints.nottingham.ac.uk/46840/1/thesis.pdf)
 
+[Laziness in Haskell — Part 4: Thunks](https://www.youtube.com/watch?v=wC9cpQk7WWA). [demand signatures](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/using-optimisation.html#ghc-flag--fstrictness) 
+
+Essential reading! Covers the importance of demand analysis, the assymmetry between laziness in arguments vs. laziness in results which is exacerbated by separate compilation, and the importance of using strictness annotations for forbidding unusual, nonsensical usage patterns that harm optimization. 
+
 
 
 

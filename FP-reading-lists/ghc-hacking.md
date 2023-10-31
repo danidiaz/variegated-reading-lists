@@ -368,9 +368,10 @@ further
 
 [Laziness in Haskell — Part 4: Thunks](https://www.youtube.com/watch?v=wC9cpQk7WWA). [demand signatures](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/using-optimisation.html#ghc-flag--fstrictness) 
 
-Essential reading! Covers the importance of demand analysis, the assymmetry between laziness in arguments vs. laziness in results which is exacerbated by separate compilation, and the importance of using strictness annotations for forbidding unusual, nonsensical usage patterns that harm optimization. 
+Essential reading! Covers: 
 
-
-
-
+- the importance of demand analysis
+- the assymmetry between laziness in arguments vs. laziness in results which is exacerbated by the "open world" of separate compilation
+- how exporting vs not exporting a function might influence optimizations, because of the above.
+- the importance of using strictness annotations for forbidding unusual, nonsensical usage patterns that harm optimization. 
 

@@ -55,4 +55,9 @@
 
 [Why you should probably be using SQLite](https://news.ycombinator.com/item?id=38036921)
 
+[user_version PRAGMA](https://www.sqlite.org/pragma.html#pragma_user_version). [in golang](https://stackoverflow.com/questions/41646639/retrieving-sqlite-pragma-user-version-with-golang). [Tracking SQLite Database Changes in Git](https://lobste.rs/s/gnv9ho/tracking_sqlite_database_changes_git).
+
+
+
+
 

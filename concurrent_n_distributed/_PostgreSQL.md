@@ -369,4 +369,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [How to work with pg_stat_statements](https://twitter.com/samokhvalov/status/1709069225762095258).
 
+["Find-or-insert" using a single query](https://twitter.com/samokhvalov/status/1719635712545591630)
+
 

@@ -928,6 +928,14 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 > Our second mistake was that we turned on the “emulated foreign key relation” mode in Prisma. 
 
+[What are the advantages to using SQL query builders?](https://softwareengineering.stackexchange.com/questions/138115/what-are-the-advantages-to-using-sql-query-builders) [query builders vs VIEWS](https://www.reddit.com/r/node/comments/eam81o/comment/fayi9i7/)
+
+> I agree that using abstracted query builders for JOINs is often pretty pointless. And yeah, I prefer to write SQL VIEWs and just query those.
+
+> But you still need some code that takes queries and puts them in variables/objects in your application, and then puts that data back into the DB (like you said, the create/update/delete queries). That's fundamentally all an ORM is, regardless of whether you write these functions yourself, or use a library.
+
+> It won't have any kind of abstracted query builder for JOINs, cause yeah I just use actual SQL queries and VIEWs for that. 
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

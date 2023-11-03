@@ -206,6 +206,6 @@ Things for which I found ChatGPT useful:
 
 [v0](https://news.ycombinator.com/item?id=37974743)
 
-
+[the human name schema](https://twitter.com/patio11/status/1720481037002608922)
 
 

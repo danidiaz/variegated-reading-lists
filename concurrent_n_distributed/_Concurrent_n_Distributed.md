@@ -737,4 +737,5 @@ https://news.ycombinator.com/item?id=25061901
 
 [advisory locking](https://twitter.com/yet_anotherDev/status/1711235976238964804?t=1v5rOjI179eIJhVFnEMsqA&s=03)
 
+[Avoiding fallback in distributed systems (AWS builders library)](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/?nc1=h_ls)
 

@@ -208,4 +208,6 @@ Things for which I found ChatGPT useful:
 
 [the human name schema](https://twitter.com/patio11/status/1720481037002608922)
 
+[under pressure](https://news.ycombinator.com/item?id=38136863)
+
 

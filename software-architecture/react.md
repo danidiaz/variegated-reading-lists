@@ -941,4 +941,5 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 > If I share a URL and someone doesn't see what I'm seeing, that's typically a problem.
 
+[what and when to fetch](https://twitter.com/mjackson/status/1720566067754684787)
 

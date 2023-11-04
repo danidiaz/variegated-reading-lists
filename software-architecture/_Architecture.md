@@ -1401,4 +1401,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [modularity](https://hachyderm.io/@jasongorman@mastodon.cloud/111311911352630518)
 
+[start with a walking skeleton](https://hachyderm.io/@nat@ruby.social/111348115134601487)
+
 

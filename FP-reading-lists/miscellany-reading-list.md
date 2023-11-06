@@ -824,7 +824,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Use traversals for batch operations](https://oleg.fi/gists/posts/2023-10-12-use-traversals-for-batch-operations.html). [Generic deriving of generic traversals](https://dl.acm.org/doi/10.1145/3236780)
 
-
+[Mutable Value Semantics Trend vs Immutability](https://discourse.haskell.org/t/mutable-value-semantics-trend-vs-immutability/7619/17)
 
 
 

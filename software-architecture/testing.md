@@ -397,4 +397,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [understanding API mocking](https://egghead.io/blog/understanding-api-mocking-the-http-request-journey)
 
+[until the last moment](https://lobste.rs/s/ljwsvm/tests_are_bad_for_developers_under_time)
+
 

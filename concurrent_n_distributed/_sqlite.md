@@ -57,6 +57,10 @@
 
 [user_version PRAGMA](https://www.sqlite.org/pragma.html#pragma_user_version). [in golang](https://stackoverflow.com/questions/41646639/retrieving-sqlite-pragma-user-version-with-golang). [Tracking SQLite Database Changes in Git](https://lobste.rs/s/gnv9ho/tracking_sqlite_database_changes_git).
 
+[Database generated columns ⁽¹⁾: Django & SQLite](https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/)
+
+
+
 
 
 

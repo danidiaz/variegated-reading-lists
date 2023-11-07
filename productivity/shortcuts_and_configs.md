@@ -485,4 +485,6 @@ code $(fzf)
 
 [ffmpeg](https://twitter.com/FFmpeg/status/1710806212831248886)
 
+[git rebase - what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
+
 

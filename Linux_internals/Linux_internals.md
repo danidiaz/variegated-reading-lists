@@ -221,6 +221,8 @@
 
 [Not knowing the /proc file system](https://news.ycombinator.com/item?id=38009372). [A tale of /dev/fd](http://phala.isatty.net/~amber/hacks/devfd). [and dup](https://utcc.utoronto.ca/~cks/space/blog/unix/DevFdAndDup)
 
+[backtraces with strace](https://shane.ai/posts/backtraces-with-strace/)
+
 
 
 

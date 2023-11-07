@@ -214,4 +214,6 @@ Things for which I found ChatGPT useful:
 
 [New models and developer products announced at DevDay (2023)](https://openai.com/blog/new-models-and-developer-products-announced-at-devday). [HN](https://news.ycombinator.com/item?id=38166420)
 
+[storing data for Assistant](https://twitter.com/simonw/status/1721991569577009489)
+
 

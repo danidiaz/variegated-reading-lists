@@ -210,4 +210,8 @@ Things for which I found ChatGPT useful:
 
 [under pressure](https://news.ycombinator.com/item?id=38136863)
 
+[An Introduction to Transformers](https://arxiv.org/abs/2304.10557)
+
+[New models and developer products announced at DevDay (2023)](https://openai.com/blog/new-models-and-developer-products-announced-at-devday). [HN](https://news.ycombinator.com/item?id=38166420)
+
 

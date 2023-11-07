@@ -936,6 +936,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 > It won't have any kind of abstracted query builder for JOINs, cause yeah I just use actual SQL queries and VIEWs for that. 
 
+[SQL Scoping is Surprisingly Subtle and Semantic](https://buttondown.email/jaffray/archive/sql-scoping-is-surprisingly-subtle-and-semantic/)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

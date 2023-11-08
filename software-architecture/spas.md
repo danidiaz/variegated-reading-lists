@@ -311,4 +311,8 @@
 
 [Updating Other Content](https://htmx.org/examples/update-other-content/)
 
+[honeypot fields in forms](https://twitter.com/kentcdodds/status/1722024476379152706)
+
+[My Favorite State Manager Is...URLs](https://www.youtube.com/watch?v=t3FUkq7yoCw)
+
 

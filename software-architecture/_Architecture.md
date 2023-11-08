@@ -1403,4 +1403,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [start with a walking skeleton](https://hachyderm.io/@nat@ruby.social/111348115134601487)
 
+[the quest for modularity](https://newcome.wordpress.com/2022/11/28/the-quest-for-modularity/). [hn](https://news.ycombinator.com/item?id=38155926).
+
+[Oh my poor business logic](https://news.ycombinator.com/item?id=38159363)
+
+
 

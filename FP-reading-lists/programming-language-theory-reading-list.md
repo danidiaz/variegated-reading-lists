@@ -867,6 +867,8 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [Cornell's CS 4110 PL theory class](https://www.cs.cornell.edu/courses/cs4110/2021fa/lectures/lecture19.pdf)
 
+[Write your own tiny programming system(s)!](https://d3s.mff.cuni.cz/teaching/nprg077/). [Writing a Compiler is Surprisingly Easy (part 1)](https://news.ycombinator.com/item?id=38182461).
+
 
 
 

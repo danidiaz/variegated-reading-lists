@@ -938,6 +938,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [SQL Scoping is Surprisingly Subtle and Semantic](https://buttondown.email/jaffray/archive/sql-scoping-is-surprisingly-subtle-and-semantic/)
 
+[preventing-lost-update-racecondition in Postgresql](https://github.com/rafaelpontezup/preventing-lost-update-racecondition). [tweet](https://twitter.com/rponte/status/1723032703581262154).
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

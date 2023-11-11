@@ -487,4 +487,6 @@ code $(fzf)
 
 [git rebase - what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 
+[neovim inside tmux inside a tiling wm](https://hachyderm.io/@haskman@functional.cafe/111373395694831212)
+
 

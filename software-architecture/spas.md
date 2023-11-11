@@ -315,4 +315,6 @@
 
 [My Favorite State Manager Is...URLs](https://www.youtube.com/watch?v=t3FUkq7yoCw)
 
+[HTMX. respect content download headers #474](https://github.com/bigskysoftware/htmx/issues/474). [Not able to download a file using htmx](https://www.reddit.com/r/htmx/comments/15zst5k/not_able_to_download_a_file_using_htmx/). [Handle file download from ajax post](https://stackoverflow.com/questions/16086162/handle-file-download-from-ajax-post).
+
 

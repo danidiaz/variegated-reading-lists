@@ -216,4 +216,6 @@ Things for which I found ChatGPT useful:
 
 [storing data for Assistant](https://twitter.com/simonw/status/1721991569577009489)
 
+[so simple](https://twitter.com/quantian1/status/1723421715391270923)
+
 

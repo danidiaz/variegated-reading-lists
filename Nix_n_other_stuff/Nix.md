@@ -1142,4 +1142,6 @@ What! This does work! How to go in the opposite direction?
 
 [Haskell bindings for the new Nix C API](https://twitter.com/sandy_doo/status/1701219791183249661). [PR](https://github.com/NixOS/nix/pull/8699).
 
+[An overview of Nix in practice](https://www.slice.zone/blog/nix-in-practice). [lobste.rs](https://lobste.rs/s/hhfiyd/overview_nix_practice)
+
 

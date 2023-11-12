@@ -112,4 +112,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [How ready is Linear Haskell for real world use cases?](https://github.com/tweag/linear-base/issues/462)
 
+[diff and infinitesimal types](https://mathstodon.xyz/@dpiponi/111393337635919821). [infinitesimal types](https://twitter.com/sjoerd_visscher/status/1723469417881682307)
+
 

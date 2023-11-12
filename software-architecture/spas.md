@@ -317,4 +317,8 @@
 
 [HTMX. respect content download headers #474](https://github.com/bigskysoftware/htmx/issues/474). [Not able to download a file using htmx](https://www.reddit.com/r/htmx/comments/15zst5k/not_able_to_download_a_file_using_htmx/). [Handle file download from ajax post](https://stackoverflow.com/questions/16086162/handle-file-download-from-ajax-post).
 
+[HTMX: Web 1.0 with the benefits of Web 2.0 without the grift of Web 3.0-at JFall 2023 (slides)](https://martijndashorst.com/blog/2023/11/09/jfall-htmx-presentation)
+
+[enum router that uses htmx and a service worker to intercept /frontend routes and runs rust wasm on the client instead](https://twitter.com/swlkr/status/1723447707560485144)
+
 

@@ -489,4 +489,6 @@ code $(fzf)
 
 [neovim inside tmux inside a tiling wm](https://hachyderm.io/@haskman@functional.cafe/111373395694831212)
 
+[Win-Vind: Vim powers with speed of thought throughout Windows 11](https://news.ycombinator.com/item?id=38236684)
+
 

@@ -491,4 +491,6 @@ code $(fzf)
 
 [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://news.ycombinator.com/item?id=38236684)
 
+[wslview](https://wslutiliti.es/wslu/). [so](https://superuser.com/a/1600972/185034).
+
 

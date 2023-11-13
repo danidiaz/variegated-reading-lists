@@ -1144,4 +1144,6 @@ What! This does work! How to go in the opposite direction?
 
 [An overview of Nix in practice](https://www.slice.zone/blog/nix-in-practice). [lobste.rs](https://lobste.rs/s/hhfiyd/overview_nix_practice)
 
+[package naming conventions in Nix](https://discourse.nixos.org/t/how-to-tell-the-difference-between-wrapped-and-unwrapped-package/6823/5)
+
 

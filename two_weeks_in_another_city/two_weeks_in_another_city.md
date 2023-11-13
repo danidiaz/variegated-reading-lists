@@ -763,6 +763,8 @@ Bernini, his life and his Rome
 
 [the idea of replayable narrative](https://twitter.com/joningold/status/1714391392313569764)
 
+[generating dialogue](https://twitter.com/jesawyer/status/1724141626346340452)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

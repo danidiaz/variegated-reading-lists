@@ -321,4 +321,5 @@
 
 [enum router that uses htmx and a service worker to intercept /frontend routes and runs rust wasm on the client instead](https://twitter.com/swlkr/status/1723447707560485144)
 
+[render close to the data](https://twitter.com/mjackson/status/1724155643152740441)
 

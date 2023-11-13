@@ -493,4 +493,8 @@ code $(fzf)
 
 [wslview](https://wslutiliti.es/wslu/). [so](https://superuser.com/a/1600972/185034).
 
+[cursorless](https://news.ycombinator.com/item?id=38214915). [vscode](https://marketplace.visualstudio.com/items?itemName=pokey.cursorless). [Talon](https://talonvoice.com/).
+
+
+
 

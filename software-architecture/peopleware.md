@@ -235,3 +235,7 @@
 [TVP](https://thenewstack.io/mvp-or-tvp-why-your-internal-developer-platform-needs-both/)
 
 [accidentally convincing yourself](https://twitter.com/ryanflorence/status/1724107518346170394)
+
+[small imprecise ask](https://news.ycombinator.com/item?id=38231160)
+
+

@@ -323,3 +323,6 @@
 
 [render close to the data](https://twitter.com/mjackson/status/1724155643152740441)
 
+[HTML First](https://html-first.com/). [hn](https://news.ycombinator.com/item?id=38241304)
+
+

@@ -748,3 +748,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [What the !#@% is a Passkey?](https://www.eff.org/what-is-a-passkey)
 
+[WAFs](https://news.ycombinator.com/item?id=38255004)
+
+

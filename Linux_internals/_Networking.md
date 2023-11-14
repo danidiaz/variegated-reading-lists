@@ -142,4 +142,6 @@
 
 [Virtual networking 101: Bridging the gap to understanding TAP](https://blog.cloudflare.com/virtual-networking-101-understanding-tap/) 
 
+[Use of HTTPS Resource Records](https://www.netmeister.org/blog/https-rrs.html)
+
 

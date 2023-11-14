@@ -943,3 +943,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [what and when to fetch](https://twitter.com/mjackson/status/1720566067754684787)
 
+[how to use react-query](https://twitter.com/housecor/status/1724066962433528210)
+
+

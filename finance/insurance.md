@@ -65,6 +65,8 @@
 
 > On the morning of August 24, 1857, the president of Ohio Life Insurance and Trust Company announced that its New York branch had suspended payments.
 
+[Insurance and the slave trade](https://open.spotify.com/episode/6ThHjkO8UrTupBiNJTIHnC?si=cb4be1316f984486)
+
 ## Books
 
 [Fundamentals of Risk and Insurance](https://www.goodreads.com/book/show/17628260-fundamentals-of-risk-and-insurance)

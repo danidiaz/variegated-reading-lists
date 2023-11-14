@@ -1054,4 +1054,6 @@ deals with its own properties.
 
 [functors map categories](https://www.reddit.com/r/haskell/comments/17hzl8d/functors_map_categories/)
 
+[Monad = MonoidalOf (~>) Identity Compose](https://www.reddit.com/r/haskell/comments/17v15zt/monad_monoidalof_identity_compose/)
+
 

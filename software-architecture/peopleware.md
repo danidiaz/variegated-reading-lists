@@ -238,4 +238,6 @@
 
 [small imprecise ask](https://news.ycombinator.com/item?id=38231160)
 
+[the waning days](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft). [hn](https://news.ycombinator.com/item?id=38257094).
+
 

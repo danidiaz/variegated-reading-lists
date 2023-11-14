@@ -1146,4 +1146,6 @@ What! This does work! How to go in the opposite direction?
 
 [package naming conventions in Nix](https://discourse.nixos.org/t/how-to-tell-the-difference-between-wrapped-and-unwrapped-package/6823/5)
 
+[notes about Nix flakes](https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/)
+
 

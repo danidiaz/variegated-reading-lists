@@ -389,6 +389,9 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [aot with profile-guided optimizations](https://twitter.com/fniephaus/status/1708019895286313082)
 
+[@PostConstruct](https://quarkus.io/guides/cdi)
+
+> It’s a good practice to keep the logic in the callbacks "without side effects"
 
 
 

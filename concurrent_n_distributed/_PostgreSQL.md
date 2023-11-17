@@ -373,4 +373,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [companion databases — when and why you might want to add another database to your stack](https://postgres.fm/episodes/companion-databases)
 
+[Designing Your Postgres Database for Multi-tenancy](https://www.crunchydata.com/blog/designing-your-postgres-database-for-multi-tenancy)
+
 

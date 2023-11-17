@@ -218,4 +218,6 @@ Things for which I found ChatGPT useful:
 
 [so simple](https://twitter.com/quantian1/status/1723421715391270923)
 
+[a survery of techniques](https://www.youtube.com/watch?v=ahnGLM-RC1Y)
+
 

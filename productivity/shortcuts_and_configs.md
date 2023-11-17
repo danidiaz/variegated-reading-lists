@@ -495,6 +495,8 @@ code $(fzf)
 
 [cursorless](https://news.ycombinator.com/item?id=38214915). [vscode](https://marketplace.visualstudio.com/items?itemName=pokey.cursorless). [Talon](https://talonvoice.com/).
 
+[navigating around your shell](https://lobste.rs/s/0opm7c/navigating_around_your_shell)
+
 
 
 

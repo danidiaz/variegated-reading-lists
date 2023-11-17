@@ -946,3 +946,7 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 [how to use react-query](https://twitter.com/housecor/status/1724066962433528210)
 
 [component slots in react](https://sandroroth.com/blog/react-slots). 
+
+[tying stuff to routes](https://twitter.com/ryanflorence/status/1725564994077761913)
+
+

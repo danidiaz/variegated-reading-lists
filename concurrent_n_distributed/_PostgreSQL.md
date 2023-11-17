@@ -371,4 +371,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 ["Find-or-insert" using a single query](https://twitter.com/samokhvalov/status/1719635712545591630)
 
+[companion databases — when and why you might want to add another database to your stack](https://postgres.fm/episodes/companion-databases)
+
 

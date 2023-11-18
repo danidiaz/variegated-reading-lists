@@ -375,4 +375,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Designing Your Postgres Database for Multi-tenancy](https://www.crunchydata.com/blog/designing-your-postgres-database-for-multi-tenancy)
 
+[Row Level Security with an ARRAY of tenants set in session parameter](https://dev.to/yugabyte/postgresql-row-level-security-with-an-array-of-tenants-2136)
+
 

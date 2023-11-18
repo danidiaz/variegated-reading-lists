@@ -224,4 +224,6 @@ Things for which I found ChatGPT useful:
 
 [an use for it](https://twitter.com/peligrietzer/status/1725932982920229307)
 
+[some papers](https://twitter.com/jxmnop/status/1725949517940294055)
+
 

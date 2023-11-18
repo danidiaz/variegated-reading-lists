@@ -220,4 +220,6 @@ Things for which I found ChatGPT useful:
 
 [a survery of techniques](https://www.youtube.com/watch?v=ahnGLM-RC1Y)
 
+[Catching up on the weird world of LLMs](https://www.youtube.com/watch?v=h8Jth_ijZyY)
+
 

@@ -1056,4 +1056,6 @@ deals with its own properties.
 
 [Monad = MonoidalOf (~>) Identity Compose](https://www.reddit.com/r/haskell/comments/17v15zt/monad_monoidalof_identity_compose/)
 
+[comonads, and how they can be used to unify various concepts in functional programming, category theory, rewriting systems and multicomputation](https://twitter.com/getjonwithit/status/1725914613420573009)
+
 

@@ -325,4 +325,6 @@
 
 [HTML First](https://html-first.com/). [hn](https://news.ycombinator.com/item?id=38241304)
 
+[Why I Tend Not To Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
+
 

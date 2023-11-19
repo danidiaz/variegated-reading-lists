@@ -949,4 +949,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [tying stuff to routes](https://twitter.com/ryanflorence/status/1725564994077761913)
 
+[Why You Want Need React Query](https://tkdodo.eu/blog/why-you-want-react-query)
+
 

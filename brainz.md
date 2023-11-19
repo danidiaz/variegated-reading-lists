@@ -226,4 +226,6 @@ Things for which I found ChatGPT useful:
 
 [some papers](https://twitter.com/jxmnop/status/1725949517940294055)
 
+[The architecture of today’s LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
+
 

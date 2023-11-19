@@ -327,4 +327,6 @@
 
 [Why I Tend Not To Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 
+[the platform should do more](https://twitter.com/luke_warlow/status/1726000865142599707)
+
 

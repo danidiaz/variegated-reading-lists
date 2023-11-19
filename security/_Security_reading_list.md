@@ -750,4 +750,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [WAFs](https://news.ycombinator.com/item?id=38255004)
 
+[Any comprehensive courses on Auth?](https://news.ycombinator.com/item?id=38331501)
+
 

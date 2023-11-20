@@ -826,6 +826,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Mutable Value Semantics Trend vs Immutability](https://discourse.haskell.org/t/mutable-value-semantics-trend-vs-immutability/7619/17)
 
+[How to build a Webshop in Haskell + Nix](https://mangoiv.com/posts/2023-11-15-webshop.html)
+
 
 
 

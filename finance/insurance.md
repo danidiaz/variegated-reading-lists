@@ -67,6 +67,8 @@
 
 [Insurance and the slave trade](https://open.spotify.com/episode/6ThHjkO8UrTupBiNJTIHnC?si=cb4be1316f984486)
 
+[Cuthbert Heath](https://en.wikipedia.org/wiki/Cuthbert_Heath)
+
 ## Books
 
 [Fundamentals of Risk and Insurance](https://www.goodreads.com/book/show/17628260-fundamentals-of-risk-and-insurance)

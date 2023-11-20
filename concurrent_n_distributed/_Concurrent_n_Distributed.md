@@ -739,3 +739,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [Avoiding fallback in distributed systems (AWS builders library)](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/?nc1=h_ls)
 
+[Unlocking Idempotency with Retroactive Tombstones](https://www.warpstream.com/blog/unlocking-idempotency-with-retroactive-tombstones)
+
+

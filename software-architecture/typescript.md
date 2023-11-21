@@ -182,4 +182,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [zod](https://twitter.com/kentcdodds/status/1720420504321044521)
 
+[as const](https://twitter.com/mattpocockuk/status/1623262073244250112)
+
 

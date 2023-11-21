@@ -940,6 +940,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [preventing-lost-update-racecondition in Postgresql](https://github.com/rafaelpontezup/preventing-lost-update-racecondition). [tweet](https://twitter.com/rponte/status/1723032703581262154).
 
+[Triggers in SQL database to extend its declarative data logic (but not business logic)](https://www.linkedin.com/pulse/triggers-sql-databases-extend-its-declarative-data-logic-pachot-szqfe/)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

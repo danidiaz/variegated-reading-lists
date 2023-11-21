@@ -951,4 +951,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Why You Want Need React Query](https://tkdodo.eu/blog/why-you-want-react-query)
 
+[Remix optimistic UIs](https://www.youtube.com/watch?v=d0p95C3Kcsg)
+
 

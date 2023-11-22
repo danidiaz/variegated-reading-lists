@@ -828,6 +828,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [How to build a Webshop in Haskell + Nix](https://mangoiv.com/posts/2023-11-15-webshop.html)
 
+[tiny programming systems](https://twitter.com/tomaspetricek/status/1727412960409387016)
+
 
 
 

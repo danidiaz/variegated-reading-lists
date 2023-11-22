@@ -228,4 +228,6 @@ Things for which I found ChatGPT useful:
 
 [The architecture of today’s LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
 
+[posting screenshots](https://twitter.com/garybernhardt/status/1727441786040373696)
+
 

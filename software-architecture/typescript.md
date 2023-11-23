@@ -184,4 +184,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [as const](https://twitter.com/mattpocockuk/status/1623262073244250112)
 
+[typeguards with mapped types](https://twitter.com/techsavvytravvy/status/1727028867800740322)
+
+
 

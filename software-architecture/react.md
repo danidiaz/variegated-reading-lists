@@ -955,4 +955,10 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [The Menu/MenuItem](https://twitter.com/javierwchavarri/status/1727186763515625602)
 
+[Recursive components conditional on children](https://twitter.com/kentcdodds/status/1727171008757641698)
+
+[How to cope with a fragile React codebase](https://www.reddit.com/r/reactjs/comments/1816e9v/how_to_cope_with_a_fragile_react_codebase/). [tweet](https://twitter.com/DavidKPiano/status/1727481770445045895)
+
+
+
 

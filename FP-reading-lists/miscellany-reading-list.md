@@ -830,6 +830,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [tiny programming systems](https://twitter.com/tomaspetricek/status/1727412960409387016)
 
+[branch and bound](https://en.wikipedia.org/wiki/Branch_and_bound)
+
 
 
 

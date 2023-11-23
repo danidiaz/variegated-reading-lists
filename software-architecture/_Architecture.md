@@ -1407,5 +1407,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Oh my poor business logic](https://news.ycombinator.com/item?id=38159363)
 
+[don't to this with log files](https://twitter.com/gunnarmorling/status/1727586416413077924). [reddit](https://www.reddit.com/r/dataengineering/comments/180q34j/best_way_to_repartition_json_data_in_s3_bucket/).
+
+
+
 
 

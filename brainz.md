@@ -232,4 +232,6 @@ Things for which I found ChatGPT useful:
 
 [intro to LLMs](https://www.reddit.com/r/LocalLLaMA/comments/181wiqg/intro_to_large_language_models_andrew_karpathy/)
 
+[synthetic data and distillation](https://twitter.com/moultano/status/1727813093697474678)
+
 

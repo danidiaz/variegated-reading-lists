@@ -959,6 +959,8 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [How to cope with a fragile React codebase](https://www.reddit.com/r/reactjs/comments/1816e9v/how_to_cope_with_a_fragile_react_codebase/). [tweet](https://twitter.com/DavidKPiano/status/1727481770445045895)
 
+[Thinking in react query](https://tkdodo.eu/blog/thinking-in-react-query)
+
 
 
 

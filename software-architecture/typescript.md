@@ -186,5 +186,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [typeguards with mapped types](https://twitter.com/techsavvytravvy/status/1727028867800740322)
 
+[type level typescritp](https://type-level-typescript.com/)
+
 
 

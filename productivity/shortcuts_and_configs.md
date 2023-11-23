@@ -497,6 +497,8 @@ code $(fzf)
 
 [navigating around your shell](https://lobste.rs/s/0opm7c/navigating_around_your_shell)
 
+[Git Branches: Intuition and Reality](https://news.ycombinator.com/item?id=38393238)
+
 
 
 

@@ -230,4 +230,6 @@ Things for which I found ChatGPT useful:
 
 [posting screenshots](https://twitter.com/garybernhardt/status/1727441786040373696)
 
+[intro to LLMs](https://www.reddit.com/r/LocalLLaMA/comments/181wiqg/intro_to_large_language_models_andrew_karpathy/)
+
 

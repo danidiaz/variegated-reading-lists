@@ -233,4 +233,8 @@ They're all capable of expressing one another in their own terms though, so they
 
 [How to (and how not to) design REST APIs](https://lobste.rs/s/ctifwl/how_how_not_design_rest_apis)
 
+> The problem is that it's very hard to make backwards compatible changes when you return arrays. Objects let you make additive changes.
+
+> I often see map structures used for collections in JSON responses. Return an array of objects instead.
+
 

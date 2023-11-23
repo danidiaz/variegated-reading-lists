@@ -231,4 +231,6 @@ They're all capable of expressing one another in their own terms though, so they
 
 [RHINE-BAYES: A LIBRARY FOR ONLINE REACTIVE BAYESIAN INFERENCE](https://www.tweag.io/blog/2023-10-12-rhine-bayes/#online-reactive-bayesian-machine-learning-in-haskell)
 
+[How to (and how not to) design REST APIs](https://lobste.rs/s/ctifwl/how_how_not_design_rest_apis)
+
 

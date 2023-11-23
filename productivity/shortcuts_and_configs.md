@@ -499,6 +499,8 @@ code $(fzf)
 
 [Git Branches: Intuition and Reality](https://news.ycombinator.com/item?id=38393238)
 
+[stacked branches](https://twitter.com/jjenzz/status/1727398141123817948). [post](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
 
+> git rebase -i --update-refs
 
 

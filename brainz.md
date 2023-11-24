@@ -234,4 +234,5 @@ Things for which I found ChatGPT useful:
 
 [synthetic data and distillation](https://twitter.com/moultano/status/1727813093697474678)
 
+[Generative AI for Beginners (Microsoft)](https://news.ycombinator.com/item?id=38405823)
 

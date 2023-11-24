@@ -1148,4 +1148,6 @@ What! This does work! How to go in the opposite direction?
 
 [notes about Nix flakes](https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/)
 
+[Why you don't need flake-utils](https://ayats.org/blog/no-flake-utils/). [lobsters](https://lobste.rs/s/bx45ly/flaketools_simpler_less_bug_prone_flake).
+
 

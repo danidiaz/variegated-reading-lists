@@ -1411,6 +1411,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [data-oriented development is a lie](https://news.ycombinator.com/item?id=38345843)
 
+[Two Tier Architectures are Anachronistic](https://www.tele-task.de/lecture/video/10304/)
+
 
 
 

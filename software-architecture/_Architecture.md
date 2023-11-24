@@ -1413,6 +1413,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Two Tier Architectures are Anachronistic](https://www.tele-task.de/lecture/video/10304/)
 
+[“Change Data Capture Breaks Encapsulation”. Does it, though?](https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though)
+
 
 
 

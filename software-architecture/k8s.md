@@ -417,4 +417,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Querying data with federated queries in Amazon Redshift](https://docs.aws.amazon.com/redshift/latest/dg/federated-overview.html)
 
+[Sidecar Proxy Pattern - The Basis Of Service Mesh](https://iximiuz.com/en/posts/service-proxy-pod-sidecar-oh-my/)
+
 

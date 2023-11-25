@@ -236,3 +236,6 @@ Things for which I found ChatGPT useful:
 
 [Generative AI for Beginners (Microsoft)](https://news.ycombinator.com/item?id=38405823)
 
+[what the bitter lesson says](https://twitter.com/davidad/status/1728165673786847607)
+
+

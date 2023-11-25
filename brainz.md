@@ -234,8 +234,13 @@ Things for which I found ChatGPT useful:
 
 [synthetic data and distillation](https://twitter.com/moultano/status/1727813093697474678)
 
-[Generative AI for Beginners (Microsoft)](https://news.ycombinator.com/item?id=38405823)
+[Generative AI for Beginners (Microsoft)](https://news.ycombinator.com/item?id=38405823). [hn](https://news.ycombinator.com/item?id=38405823)
+
+>  with chain of thought attention starts being applied to the user input in a fundamentally different way than it normally is
 
 [what the bitter lesson says](https://twitter.com/davidad/status/1728165673786847607)
+
+["chain of thought" is just some weird form of continuation semantics for code written in natural language](https://twitter.com/headinthebox/status/1725336551427883420) ??
+
 
 

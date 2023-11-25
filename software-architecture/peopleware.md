@@ -244,4 +244,6 @@
 
 [Assuming an issue is automatically fixed because a single merged PR mentions it seems very naive - and indeed dangerous. Validation does not stop after merging.](https://github.com/orgs/community/discussions/17308)
 
+[user stories are not requirements?](https://www.youtube.com/watch?v=0HMsh459h5c)
+
 

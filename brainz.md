@@ -242,5 +242,6 @@ Things for which I found ChatGPT useful:
 
 ["chain of thought" is just some weird form of continuation semantics for code written in natural language](https://twitter.com/headinthebox/status/1725336551427883420) ??
 
+[create structured (genealogical) data using unstructured text](https://twitter.com/kishau/status/1728220318031052948)
 
 

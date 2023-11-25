@@ -240,4 +240,6 @@
 
 [the waning days](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft). [hn](https://news.ycombinator.com/item?id=38257094).
 
+[hard problems that aren't central to your business](https://twitter.com/bhurt42/status/1728134198320591267)
+
 

@@ -961,6 +961,8 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Thinking in react query](https://tkdodo.eu/blog/thinking-in-react-query)
 
+[initiate the fetch in the owner component, but await it in the child](https://twitter.com/ryanflorence/status/1728429997072015532)
+
 
 
 

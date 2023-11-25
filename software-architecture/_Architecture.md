@@ -1415,6 +1415,14 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [“Change Data Capture Breaks Encapsulation”. Does it, though?](https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though)
 
+> The contract of the outbox events is kept separated from the internal data model, allowing you to expose the data in exactly the way you want to expose it. 
+
+> But you may also decide to adjust the types of exposed fields, only expose a subset of all your data attributes—giving you the opportunity to omit any sensitive or implementation-specific attributes—and much more. Having a separate contract allows you to evolve it independently from your internal model, too. Say, you rename a column in one of your tables; it’s a conscious decision then to also rename it in the schema of your outbox events (potentially requiring a new major version of the same), or keep it as is.
+
+> From a procedural perspective, it’s important that the team owning and publishing a data contract can apply changes to the contract without having to synchronize with any event consumers, who perhaps may not even be known to the upstream team. At the same time, any changes to the contract should not break existing consumers—after a schema change they should be able to continue to process a change event stream based on the previous schema known to them. 
+
+> This means data contracts for change event streams should be evolved in a forward compatible way, which allows for the addition of new fields and the removal of optional fields, whereas existing non-optional fields may not be removed.
+
 
 
 

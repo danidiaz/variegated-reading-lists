@@ -395,5 +395,7 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Entity Framework Core 8](https://www.youtube.com/watch?v=_8iH5QnkIJo&list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU&index=9). [Quartz.NET 3.8.0](https://github.com/quartznet/quartznet/releases/tag/v3.8.0). [A Complete Guide to all ASP.NET Builtin Middlewares - Part 3](https://adnanrafiq.com/blog/a-complete-guide-to-all-asp-dot-net-builtin-middlewares-part3/).
 
+[spring modulith](https://twitter.com/starbuxman/status/1728199106836013188)
+
 
 

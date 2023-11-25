@@ -246,4 +246,6 @@
 
 [user stories are not requirements?](https://www.youtube.com/watch?v=0HMsh459h5c)
 
+[avoid code, especially your own](https://twitter.com/tonialaribe/status/1728092384209093003)
+
 

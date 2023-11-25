@@ -242,4 +242,6 @@
 
 [hard problems that aren't central to your business](https://twitter.com/bhurt42/status/1728134198320591267)
 
+[Assuming an issue is automatically fixed because a single merged PR mentions it seems very naive - and indeed dangerous. Validation does not stop after merging.](https://github.com/orgs/community/discussions/17308)
+
 

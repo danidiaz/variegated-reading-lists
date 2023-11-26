@@ -1423,6 +1423,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > This means data contracts for change event streams should be evolved in a forward compatible way, which allows for the addition of new fields and the removal of optional fields, whereas existing non-optional fields may not be removed.
 
+[Interceptors Are Functions Too](https://gist.github.com/quad/13e9f8b6e88dec1729e30b270ebf22df)
+
 
 
 

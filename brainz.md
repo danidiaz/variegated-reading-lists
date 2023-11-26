@@ -244,4 +244,6 @@ Things for which I found ChatGPT useful:
 
 [create structured (genealogical) data using unstructured text](https://twitter.com/kishau/status/1728220318031052948)
 
+[What does x mean here?](https://twitter.com/s_r_constantin/status/1728783142578725199).
+
 

@@ -741,4 +741,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [Unlocking Idempotency with Retroactive Tombstones](https://www.warpstream.com/blog/unlocking-idempotency-with-retroactive-tombstones)
 
+[Shedlock](https://twitter.com/maciejwalkowiak/status/1728854453229695217)
+
+
 

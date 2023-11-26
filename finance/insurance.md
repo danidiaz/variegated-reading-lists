@@ -51,6 +51,8 @@
 
 [travel insurance](https://twitter.com/patio11/status/1717931167133860136)
 
+[Who’s who on a life insurance policy](https://www.insure.com/life-insurance/life-insurance-policy-roles.html)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

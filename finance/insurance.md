@@ -53,9 +53,11 @@
 
 [Who’s who on a life insurance policy](https://www.insure.com/life-insurance/life-insurance-policy-roles.html)
 
-[Goodman triangle](https://www.thetaxadviser.com/issues/2016/apr/common-mistakes-in-life-insurance-arrangements.html)
+[Goodman triangle](https://www.thetaxadviser.com/issues/2016/apr/common-mistakes-in-life-insurance-arrangements.html). [more](https://belongingwealth.com/goodman-triangle-the-unholy-trinity-of-life-insurance/)
 
 > In a Goodman triangle three parties are involved: the insured, the policy owner, and a beneficiary of the insurance policy who is not the policy owner. In the event of the insured's death, the death benefit is considered a taxable gift from the policy owner to the beneficiary.
+
+[life insurance consent](https://www.northwesternmutual.com/life-and-money/can-you-take-out-life-insurance-on-someone-without-them-knowing/). [do both the policy holder and the beneficiary need insurable interest?](https://www.valuepenguin.com/insurable-interest-life-insurance)
 
 ## History 
 

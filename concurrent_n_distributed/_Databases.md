@@ -942,6 +942,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Triggers in SQL database to extend its declarative data logic (but not business logic)](https://www.linkedin.com/pulse/triggers-sql-databases-extend-its-declarative-data-logic-pachot-szqfe/)
 
+[Decoupling database migrations from server startup: why and how](https://pythonspeed.com/articles/schema-migrations-server-startup/)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

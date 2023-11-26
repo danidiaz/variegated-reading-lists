@@ -505,4 +505,6 @@ code $(fzf)
 
 > git rebase -i --update-refs
 
+[squash commits considered harmful](https://dev.to/wesen/squash-commits-considered-harmful-ob1)
+
 

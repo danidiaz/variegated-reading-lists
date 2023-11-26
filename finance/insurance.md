@@ -53,6 +53,10 @@
 
 [Who’s who on a life insurance policy](https://www.insure.com/life-insurance/life-insurance-policy-roles.html)
 
+[Goodman triangle](https://www.thetaxadviser.com/issues/2016/apr/common-mistakes-in-life-insurance-arrangements.html)
+
+> In a Goodman triangle three parties are involved: the insured, the policy owner, and a beneficiary of the insurance policy who is not the policy owner. In the event of the insured's death, the death benefit is considered a taxable gift from the policy owner to the beneficiary.
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

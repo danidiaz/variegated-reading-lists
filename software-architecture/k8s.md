@@ -419,4 +419,7 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Sidecar Proxy Pattern - The Basis Of Service Mesh](https://iximiuz.com/en/posts/service-proxy-pod-sidecar-oh-my/)
 
+[Ambassador pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/ambassador)
+
+
 

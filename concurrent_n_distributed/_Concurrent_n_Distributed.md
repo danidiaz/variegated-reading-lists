@@ -743,5 +743,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [Shedlock](https://twitter.com/maciejwalkowiak/status/1728854453229695217)
 
+[Catalog of Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+
 
 

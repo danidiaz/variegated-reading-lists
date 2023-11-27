@@ -359,6 +359,8 @@ or computations blocked by unknowns.
 
 > One way of deciding an equational theory is through normalizing its terms.
 
+[operational semantics slides](https://twitter.com/krismicinski/status/1729242208052695291)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

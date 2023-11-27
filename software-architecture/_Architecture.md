@@ -1427,6 +1427,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Interceptors are functions, too](https://lobste.rs/s/qlvcpm/interceptors_are_functions_too)
 
+[the choice to move their idempotent UUID4 requests to ULID](https://twitter.com/hnasr/status/1729062666621055366)
+
 
 
 

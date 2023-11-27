@@ -246,6 +246,11 @@ Things for which I found ChatGPT useful:
 
 [What does x mean here?](https://twitter.com/s_r_constantin/status/1728783142578725199).
 
-[the "more and more" pattern](https://twitter.com/moultano/status/1729242982589792459)
+[the "more and more" pattern](https://twitter.com/moultano/status/1729242982589792459). [another example](https://twitter.com/TobiasJolly/status/1729061707925069928)
+
+[understanding deep learning](https://news.ycombinator.com/item?id=38424939)
+
+[Synchronizing concurrent teams.](https://blog.ploeh.dk/2023/11/27/synchronizing-concurrent-teams/)
+
 
 

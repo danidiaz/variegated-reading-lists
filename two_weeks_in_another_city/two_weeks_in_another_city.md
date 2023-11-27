@@ -828,7 +828,7 @@ Bernini, his life and his Rome
 
 [Roadwarden review](https://www.rockpapershotgun.com/how-one-of-the-finest-rpgs-ever-made-thinks-about-money-and-magic#comments)
 
-
+[BGIII issue](https://twitter.com/TafferKing451/status/1729183524266418685)
 
 
 

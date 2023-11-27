@@ -223,6 +223,8 @@
 
 [backtraces with strace](https://shane.ai/posts/backtraces-with-strace/)
 
+[storing data in pointers](https://lobste.rs/s/5417dx/storing_data_pointers)
+
 
 
 

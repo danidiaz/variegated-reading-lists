@@ -246,4 +246,6 @@ Things for which I found ChatGPT useful:
 
 [What does x mean here?](https://twitter.com/s_r_constantin/status/1728783142578725199).
 
+[the "more and more" pattern](https://twitter.com/moultano/status/1729242982589792459)
+
 

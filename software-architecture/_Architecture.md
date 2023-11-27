@@ -1211,8 +1211,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Observability with Spring Boot 3](https://spring.io/blog/2022/10/12/observability-with-spring-boot-3). [Tweet](https://twitter.com/MGrzejszczak/status/1580309749215637505?t=EQi2jJXMrZkKAuakmL2J1Q&s=03). [bulding observability](https://www.youtube.com/watch?v=UJA4PGKny2k). [tweet](https://twitter.com/mat4nier/status/1580333644039991298?t=FMWA5LSBsx0yuJW3LWszuQ&s=03)
 
-[YAGNI exceptions](https://lukeplant.me.uk/blog/posts/yagni-exceptions/)
-
 [Real-World Engineering Challenges #6: Migrations](https://newsletter.pragmaticengineer.com/p/real-world-engineering-challenges). [HN](https://news.ycombinator.com/item?id=33232580).
 
 [Using Record Types to Build Better Domain Models](https://www.youtube.com/watch?v=DyJ4_a84Hrs) 
@@ -1409,7 +1407,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [don't to this with log files](https://twitter.com/gunnarmorling/status/1727586416413077924). [reddit](https://www.reddit.com/r/dataengineering/comments/180q34j/best_way_to_repartition_json_data_in_s3_bucket/).
 
-[data-oriented development is a lie](https://news.ycombinator.com/item?id=38345843)
+[data-oriented development is a lie](https://news.ycombinator.com/item?id=38345843). [lobste.rs](https://lobste.rs/s/xw1qcm/data_driven_development_is_lie)
 
 [Two Tier Architectures are Anachronistic](https://www.tele-task.de/lecture/video/10304/)
 
@@ -1425,6 +1423,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Interceptors Are Functions Too](https://gist.github.com/quad/13e9f8b6e88dec1729e30b270ebf22df)
 
+[YAGNI exceptions](https://lukeplant.me.uk/blog/posts/yagni-exceptions/). [You might as well timestamp it](https://changelog.com/posts/you-might-as-well-timestamp-it). [Rule #4: DON'T return arrays as top level responses](https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs#rule-4-dont-return-arrays-as-top-level-responses)
+
+[Interceptors are functions, too](https://lobste.rs/s/qlvcpm/interceptors_are_functions_too)
 
 
 

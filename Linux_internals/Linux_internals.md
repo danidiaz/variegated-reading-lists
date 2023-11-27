@@ -225,7 +225,7 @@
 
 [storing data in pointers](https://lobste.rs/s/5417dx/storing_data_pointers)
 
-
+[How are zlib, gzip and zip related?](https://news.ycombinator.com/item?id=38432127)
 
 
 

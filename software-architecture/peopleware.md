@@ -252,4 +252,5 @@
 
 [avoid code, especially your own](https://twitter.com/tonialaribe/status/1728092384209093003)
 
+[Synchronizing concurrent teams.](https://blog.ploeh.dk/2023/11/27/synchronizing-concurrent-teams/)
 

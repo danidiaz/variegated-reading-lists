@@ -250,7 +250,6 @@ Things for which I found ChatGPT useful:
 
 [understanding deep learning](https://news.ycombinator.com/item?id=38424939)
 
-[Synchronizing concurrent teams.](https://blog.ploeh.dk/2023/11/27/synchronizing-concurrent-teams/)
 
 
 

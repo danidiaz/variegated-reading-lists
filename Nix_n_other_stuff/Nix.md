@@ -1150,4 +1150,6 @@ What! This does work! How to go in the opposite direction?
 
 [Why you don't need flake-utils](https://ayats.org/blog/no-flake-utils/). [lobsters](https://lobste.rs/s/bx45ly/flaketools_simpler_less_bug_prone_flake).
 
+[source filtering with file sets](https://www.tweag.io/blog/2023-11-28-file-sets/)
+
 

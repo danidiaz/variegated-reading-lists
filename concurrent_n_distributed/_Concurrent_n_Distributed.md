@@ -745,5 +745,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [Catalog of Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 
+[It’s About Time!](https://brooker.co.za/blog/2023/11/27/about-time.html)
+
 
 

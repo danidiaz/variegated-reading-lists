@@ -397,5 +397,7 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [spring modulith](https://twitter.com/starbuxman/status/1728199106836013188)
 
+[Do you really need Hibernate by Simon Martinelli @ Spring I/O 2023](https://www.youtube.com/watch?v=ykoUBctblno)
+
 
 

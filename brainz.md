@@ -250,6 +250,8 @@ Things for which I found ChatGPT useful:
 
 [understanding deep learning](https://news.ycombinator.com/item?id=38424939)
 
+[How to tackle unreliability of coding assistants](https://news.ycombinator.com/item?id=38456726)
+
 
 
 

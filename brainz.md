@@ -252,6 +252,8 @@ Things for which I found ChatGPT useful:
 
 [How to tackle unreliability of coding assistants](https://news.ycombinator.com/item?id=38456726)
 
+[Seamless: Meta's New Speech Models](https://news.ycombinator.com/item?id=38487359)
+
 
 
 

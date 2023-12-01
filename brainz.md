@@ -254,6 +254,8 @@ Things for which I found ChatGPT useful:
 
 [Seamless: Meta's New Speech Models](https://news.ycombinator.com/item?id=38487359)
 
+[wishper](https://twitter.com/emollick/status/1730653385206968418)
+
 
 
 

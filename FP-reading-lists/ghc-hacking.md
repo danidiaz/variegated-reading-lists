@@ -375,3 +375,6 @@ Essential reading! Covers:
 - how exporting vs not exporting a function might influence optimizations, because of the above.
 - the importance of using strictness annotations for forbidding unusual, nonsensical usage patterns that harm optimization. 
 
+[really cool use of RULEs for efficient Text use](https://discourse.haskell.org/t/overloadedstringdefault-proposal/8182/27). [higher order patterns in rewrite rules](https://github.com/ghc-proposals/ghc-proposals/blob/master/proposals/0555-template-patterns.rst). [semantics](https://downloads.haskell.org/ghc/latest/docs/users_guide/exts/rewrite_rules.html?highlight=rewrite%20rules#semantics).
+
+

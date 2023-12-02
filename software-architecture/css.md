@@ -639,4 +639,6 @@ https://twitter.com/tailwindcss
 
 [An Interactive Guide to CSS Grid](https://news.ycombinator.com/item?id=38388842)
 
+[A Few Ways CSS Is Easier To Write In 2023](https://www.smashingmagazine.com/2023/11/few-ways-css-easier-write-2023/)
+
 

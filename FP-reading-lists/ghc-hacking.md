@@ -377,4 +377,6 @@ Essential reading! Covers:
 
 [really cool use of RULEs for efficient Text use](https://discourse.haskell.org/t/overloadedstringdefault-proposal/8182/27). [higher order patterns in rewrite rules](https://github.com/ghc-proposals/ghc-proposals/blob/master/proposals/0555-template-patterns.rst). [semantics](https://downloads.haskell.org/ghc/latest/docs/users_guide/exts/rewrite_rules.html?highlight=rewrite%20rules#semantics).
 
+> By using more powerful matching, we solve the long-standing problem of fusing concatMap under stream fusion. In turn, this could potentially make stream fusion general enough to replace foldr/build fusion in base.
+
 

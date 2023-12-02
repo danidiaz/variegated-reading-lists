@@ -399,4 +399,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [until the last moment](https://lobste.rs/s/ljwsvm/tests_are_bad_for_developers_under_time)
 
+[Master API Mocking with MSW](https://www.youtube.com/watch?v=kscedKIEs8c)
+
 

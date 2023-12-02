@@ -114,4 +114,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [diff and infinitesimal types](https://mathstodon.xyz/@dpiponi/111393337635919821). [infinitesimal types](https://twitter.com/sjoerd_visscher/status/1723469417881682307)
 
+[Linear Haskell enables Pure, Parallel, and In-place Fast Fourier Transformation](https://discourse.haskell.org/t/experience-report-linear-haskell-enables-pure-parallel-and-in-place-fast-fourier-transformation/8256)
+
 

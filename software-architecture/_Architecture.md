@@ -1431,4 +1431,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Should you split that file?](https://www.pathsensitive.com/2023/12/should-you-split-that-file.html). [hn](https://news.ycombinator.com/item?id=38489485).
 
+[Stop building databases](https://news.ycombinator.com/item?id=38489307)
+
 

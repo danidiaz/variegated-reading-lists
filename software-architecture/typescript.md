@@ -188,5 +188,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [type level typescritp](https://type-level-typescript.com/)
 
+[How to setup your typescript project for success](https://blog.liblab.com/how-to-set-up-your-typescript-project-for-success/)
+
 
 

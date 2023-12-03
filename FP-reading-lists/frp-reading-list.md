@@ -225,7 +225,7 @@ They're all capable of expressing one another in their own terms though, so they
 
 [Seven GUIs in reflex-vty, Part 1: The Counter](https://twitter.com/HaskellDiscu/status/1561360146793922560)
 
-[The Essence of Reactivity](https://dl.acm.org/doi/pdf/10.1145/3609026.3609727)
+[The Essence of Reactivity](https://dl.acm.org/doi/pdf/10.1145/3609026.3609727). [video](https://www.youtube.com/watch?v=JCy6YYigsog&list=PLyrlk8Xaylp4yIhLI41NHVSovgyYw9pII&index=4)
 
 [Asynchronous Reactive Programming with Modal Types in Haskell](https://bahr.io/pubs/files/asyncrattus-paper.pdf)
 

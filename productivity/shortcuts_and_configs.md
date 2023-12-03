@@ -507,6 +507,8 @@ code $(fzf)
 
 [squash commits considered harmful](https://dev.to/wesen/squash-commits-considered-harmful-ob1)
 
+[vscode anchors plugin](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors)
+
 [Fun with git rebase --interactive](https://gurudas.dev/blog/2023/12/02/git-rebase-interactive.html)
 
 

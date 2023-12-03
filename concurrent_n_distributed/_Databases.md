@@ -944,6 +944,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Decoupling database migrations from server startup: why and how](https://pythonspeed.com/articles/schema-migrations-server-startup/)
 
+[a blog series about Isolation Levels](https://dev.to/franckpachot/isolation-levels-part-i-introduction-bd5)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

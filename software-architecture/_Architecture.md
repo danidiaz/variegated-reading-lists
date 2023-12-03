@@ -1433,4 +1433,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Stop building databases](https://sqlsync.dev/posts/stop-building-databases/) [hn](https://news.ycombinator.com/item?id=38489307)
 
+[FUNARCH 2023](https://www.functional-architecture.org/events/funarch-2023/)
+
 

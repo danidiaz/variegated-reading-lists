@@ -511,4 +511,10 @@ code $(fzf)
 
 [Fun with git rebase --interactive](https://gurudas.dev/blog/2023/12/02/git-rebase-interactive.html)
 
+Chrome inspect pages
+
+```
+chrome://inspect/#pages
+```
+
 

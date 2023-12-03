@@ -256,6 +256,8 @@ Things for which I found ChatGPT useful:
 
 [wishper](https://twitter.com/emollick/status/1730653385206968418)
 
+[the linguistic echo chambers of LLMs](https://lobste.rs/s/suk9dd/multifaceted_linguistic_echo_chambers)
+
 
 
 

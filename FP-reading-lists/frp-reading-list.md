@@ -237,4 +237,6 @@ They're all capable of expressing one another in their own terms though, so they
 
 > I often see map structures used for collections in JSON responses. Return an array of objects instead.
 
+[This Is Driving Me Loopy](https://www.youtube.com/watch?v=d3kzZN9asKM&list=PLyrlk8Xaylp4yIhLI41NHVSovgyYw9pII&index=5)
+
 

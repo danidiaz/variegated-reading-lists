@@ -379,4 +379,6 @@ Essential reading! Covers:
 
 > By using more powerful matching, we solve the long-standing problem of fusing concatMap under stream fusion. In turn, this could potentially make stream fusion general enough to replace foldr/build fusion in base.
 
+[propriocept](https://hachyderm.io/@DiazCarrete/111516126716263577)
+
 

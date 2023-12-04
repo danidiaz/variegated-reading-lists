@@ -517,4 +517,6 @@ Chrome inspect pages
 chrome://inspect/#pages
 ```
 
+[the fn key](https://news.ycombinator.com/item?id=38514388)
+
 

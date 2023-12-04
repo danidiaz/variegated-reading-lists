@@ -381,4 +381,6 @@ Essential reading! Covers:
 
 [propriocept](https://hachyderm.io/@DiazCarrete/111516126716263577)
 
+[More Fixpoints! (Functional Pearl)](https://www.youtube.com/watch?v=MEvSkuWvCO0)
+
 

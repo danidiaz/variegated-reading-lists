@@ -239,4 +239,6 @@ They're all capable of expressing one another in their own terms though, so they
 
 [This Is Driving Me Loopy](https://www.youtube.com/watch?v=d3kzZN9asKM&list=PLyrlk8Xaylp4yIhLI41NHVSovgyYw9pII&index=5)
 
+[The Beauty and Elegance of Functional Reactive Animation](https://www.youtube.com/watch?v=Knl3ee-dSOM)
+
 

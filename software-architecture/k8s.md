@@ -421,5 +421,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Ambassador pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/ambassador)
 
+[Best practices for serverless developers](https://www.youtube.com/watch?v=sdCA0Y7QDrM)
 
 

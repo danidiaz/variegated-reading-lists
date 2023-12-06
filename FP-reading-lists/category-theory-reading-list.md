@@ -1058,4 +1058,6 @@ deals with its own properties.
 
 [comonads, and how they can be used to unify various concepts in functional programming, category theory, rewriting systems and multicomputation](https://twitter.com/getjonwithit/status/1725914613420573009)
 
+[polynomial functors book](https://arxiv.org/abs/2312.00990). [nominal sets](https://twitter.com/aspiwack/status/1732129469094121754)
+
 

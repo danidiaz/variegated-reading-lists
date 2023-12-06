@@ -20,4 +20,6 @@
 
 [You (Probably) Shouldn't use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
 
+[favorite tracing tools](https://news.ycombinator.com/item?id=38538111)
+
 

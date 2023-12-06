@@ -747,5 +747,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [It’s About Time!](https://brooker.co.za/blog/2023/11/27/about-time.html)
 
+[Spanner under the hood: Understanding strict serializability and external consistency](https://cloud.google.com/blog/products/databases/strict-serializability-and-external-consistency-in-spanner)
+
 
 

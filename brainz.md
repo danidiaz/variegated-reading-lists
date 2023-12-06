@@ -258,6 +258,6 @@ Things for which I found ChatGPT useful:
 
 [the linguistic echo chambers of LLMs](https://lobste.rs/s/suk9dd/multifaceted_linguistic_echo_chambers)
 
-
+[Lena](https://news.ycombinator.com/item?id=38538122)
 
 

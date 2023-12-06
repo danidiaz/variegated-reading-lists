@@ -59,6 +59,9 @@
 
 [Database generated columns ⁽¹⁾: Django & SQLite](https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/)
 
+[sqlite has landed](https://news.ycombinator.com/item?id=38540421)
+
+
 
 
 

@@ -834,4 +834,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [pipeworld](https://news.ycombinator.com/item?id=38502089)
 
+[Against do notation](https://pithlessly.github.io/donotation.html)
+
 

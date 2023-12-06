@@ -254,3 +254,7 @@
 
 [Synchronizing concurrent teams.](https://blog.ploeh.dk/2023/11/27/synchronizing-concurrent-teams/)
 
+[Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow). [hn](https://lobste.rs/s/sda7hr/your_github_pull_request_workflow_is).
+
+
+

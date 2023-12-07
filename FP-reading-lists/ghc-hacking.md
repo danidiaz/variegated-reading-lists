@@ -383,4 +383,6 @@ Essential reading! Covers:
 
 [More Fixpoints! (Functional Pearl)](https://www.youtube.com/watch?v=MEvSkuWvCO0)
 
+[Confusion about the operational semantics of the let binding (LET rule) in the STG language](https://discourse.haskell.org/t/confusion-about-the-operational-semantics-of-the-let-binding-let-rule-in-the-stg-language/8286)
+
 

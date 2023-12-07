@@ -260,4 +260,6 @@ Things for which I found ChatGPT useful:
 
 [Lena](https://news.ycombinator.com/item?id=38538122)
 
+[what quants do](https://twitter.com/macrocephalopod/status/1732385664153358474)
+
 

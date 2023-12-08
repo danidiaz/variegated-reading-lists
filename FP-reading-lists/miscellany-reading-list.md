@@ -836,4 +836,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Against do notation](https://pithlessly.github.io/donotation.html)
 
+[Why is Binary Heap Preferred over BST for Priority Queue?](https://www.geeksforgeeks.org/why-is-binary-heap-preferred-over-bst-for-priority-queue/). [library 1](https://hackage.haskell.org/package/PSQueue). [library 2](https://hackage.haskell.org/package/psqueues).
+
+
 

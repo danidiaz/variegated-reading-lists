@@ -641,4 +641,6 @@ https://twitter.com/tailwindcss
 
 [A Few Ways CSS Is Easier To Write In 2023](https://www.smashingmagazine.com/2023/11/few-ways-css-easier-write-2023/)
 
+[border-radius on outline](https://twitter.com/samselikoff/status/1733109208386556214)
+
 

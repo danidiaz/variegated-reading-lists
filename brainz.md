@@ -262,4 +262,6 @@ Things for which I found ChatGPT useful:
 
 [what quants do](https://twitter.com/macrocephalopod/status/1732385664153358474)
 
+[llama 2](https://www.youtube.com/watch?v=NvTSfdeAbnU)
+
 

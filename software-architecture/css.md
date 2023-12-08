@@ -643,4 +643,6 @@ https://twitter.com/tailwindcss
 
 [border-radius on outline](https://twitter.com/samselikoff/status/1733109208386556214)
 
+[full-bleed layout](https://www.joshwcomeau.com/css/full-bleed/)
+
 

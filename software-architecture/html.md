@@ -19,3 +19,7 @@
       > In case a Path Item Object field appears both in the defined object and the referenced object, the behavior is undefined. See the rules for resolving Relative References.
 
     - [schema object](https://spec.openapis.org/oas/v3.1.0#schemaObject)
+
+[The hidden depths of the input element](https://lobste.rs/s/iq3wbg/hidden_depths_input_element)
+
+

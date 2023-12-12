@@ -1435,4 +1435,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [FUNARCH 2023](https://www.functional-architecture.org/events/funarch-2023/)
 
+[What is a cell-based architecture?](https://docs.aws.amazon.com/wellarchitected/latest/reducing-scope-of-impact-with-cell-based-architecture/what-is-a-cell-based-architecture.html)
 

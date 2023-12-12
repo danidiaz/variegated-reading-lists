@@ -645,4 +645,6 @@ https://twitter.com/tailwindcss
 
 [full-bleed layout](https://www.joshwcomeau.com/css/full-bleed/)
 
+[computed values](https://css-tricks.com/computed-values-more-than-meets-the-eye/)
+
 

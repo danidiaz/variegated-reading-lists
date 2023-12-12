@@ -264,4 +264,6 @@ Things for which I found ChatGPT useful:
 
 [llama 2](https://www.youtube.com/watch?v=NvTSfdeAbnU)
 
+[LLMs make Programming Language Learning Curves Shallower](https://lobste.rs/s/67brng/llms_make_programming_language_learning)
+
 

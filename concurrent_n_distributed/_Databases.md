@@ -946,6 +946,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [a blog series about Isolation Levels](https://dev.to/franckpachot/isolation-levels-part-i-introduction-bd5)
 
+[What if an SQL statement returned a database?](https://arxiv.org/abs/2312.00638). [hn](https://news.ycombinator.com/item?id=38606146)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

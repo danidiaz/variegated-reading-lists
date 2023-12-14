@@ -519,4 +519,6 @@ chrome://inspect/#pages
 
 [the fn key](https://news.ycombinator.com/item?id=38514388)
 
+[Reclaiming the Web with a Personal Reader](https://docs.spring.io/spring-framework/reference/core/beans/factory-scopes.html#beans-factory-scopes-other-injection). [hn](https://news.ycombinator.com/item?id=38622404).
+
 

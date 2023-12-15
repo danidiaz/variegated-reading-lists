@@ -399,5 +399,9 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Do you really need Hibernate by Simon Martinelli @ Spring I/O 2023](https://www.youtube.com/watch?v=ykoUBctblno)
 
+[resilience4j](https://resilience4j.readme.io/)
 
+> Resilience4j is a lightweight fault tolerance library inspired by Netflix Hystrix, but designed for functional programming.
+
+> Resilience4j provides higher-order functions (decorators) to enhance any functional interface, lambda expression or method reference with a Circuit Breaker, Rate Limiter, Retry or Bulkhead.
 

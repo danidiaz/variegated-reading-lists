@@ -1437,3 +1437,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [What is a cell-based architecture?](https://docs.aws.amazon.com/wellarchitected/latest/reducing-scope-of-impact-with-cell-based-architecture/what-is-a-cell-based-architecture.html)
 
+[Unnecessary layers](https://dzone.com/articles/simplify-java-reducing-unnecessary-layers-and-inte)
+
+

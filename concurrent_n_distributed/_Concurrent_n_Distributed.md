@@ -749,5 +749,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [Spanner under the hood: Understanding strict serializability and external consistency](https://cloud.google.com/blog/products/databases/strict-serializability-and-external-consistency-in-spanner)
 
+[Thinking above the code](https://twitter.com/DominikTornow/status/1736106419211120862)
+
 
 

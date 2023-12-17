@@ -647,4 +647,6 @@ https://twitter.com/tailwindcss
 
 [computed values](https://css-tricks.com/computed-values-more-than-meets-the-eye/)
 
+[you can't do this without subgrid (old)](https://www.youtube.com/watch?v=R7aHcgIeATE)
+
 

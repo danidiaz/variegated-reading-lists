@@ -523,4 +523,6 @@ chrome://inspect/#pages
 
 [pspg - Postgres Pager](https://github.com/okbob/pspg)
 
+[Hotkeys for Better Window Management in macOS](https://www.youtube.com/watch?v=VBgVaQscIWg)
+
 

@@ -838,6 +838,12 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Why is Binary Heap Preferred over BST for Priority Queue?](https://www.geeksforgeeks.org/why-is-binary-heap-preferred-over-bst-for-priority-queue/). [library 1](https://hackage.haskell.org/package/PSQueue). [library 2](https://hackage.haskell.org/package/psqueues). [SO answer](https://stackoverflow.com/questions/15637446/why-heap-is-better-than-binary-tree-to-represent-a-priority-queue). [Chapter 20 Priority Queues](https://www.cs.cmu.edu/afs/cs/academic/class/15210-s14/www/lectures/pq.pdf)
 
+[Folding left and right matters: Direct style, accumulators, and continuations](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/folding-left-and-right-matters-direct-style-accumulators-and-continuations/55377D4E137AFCF13A7922F3EFBCDCBF)
+
+[A correct-by-construction conversion from lambda calculus to combinatory logic](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/correctbyconstruction-conversion-from-lambda-calculus-to-combinatory-logic/B2A7BCF12A7A5D52B294C78A6F04191F)
+
+[Trace contracts](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/trace-contracts/4AF1C7361751839FF7E2DEBC65A050EE)
+
 
 
 

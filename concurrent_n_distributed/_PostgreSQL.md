@@ -377,4 +377,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Row Level Security with an ARRAY of tenants set in session parameter](https://dev.to/yugabyte/postgresql-row-level-security-with-an-array-of-tenants-2136)
 
+[transaction isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
+
 

@@ -649,4 +649,6 @@ https://twitter.com/tailwindcss
 
 [you can't do this without subgrid (old)](https://www.youtube.com/watch?v=R7aHcgIeATE)
 
+[Custom properties with defaults: 3+1 strategies](https://lea.verou.me/blog/2021/10/custom-properties-with-defaults/)
+
 

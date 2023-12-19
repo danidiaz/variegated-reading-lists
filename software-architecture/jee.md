@@ -405,3 +405,8 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 > Resilience4j provides higher-order functions (decorators) to enhance any functional interface, lambda expression or method reference with a Circuit Breaker, Rate Limiter, Retry or Bulkhead.
 
+[THE “SPRING WAY” OF DOING THINGS: 9 WAYS TO IMPROVE YOUR SPRING BOOT SKILLS](https://digma.ai/blog/the-spring-way-of-doing-things-9-ways-to-improve-your-spring-boot-skills/)
+
+> Another way to utilize Spring Boot to its full potential is to try as much as possible to externalize your configuration instead of hard coding them. Externalizing your configuration will make your application more flexible and easier to manage.
+
+

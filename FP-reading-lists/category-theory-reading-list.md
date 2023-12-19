@@ -1060,4 +1060,7 @@ deals with its own properties.
 
 [polynomial functors book](https://arxiv.org/abs/2312.00990). [nominal sets](https://twitter.com/aspiwack/status/1732129469094121754)
 
+[the microcosm principle](https://twitter.com/tangled_zans/status/1737066119863710119)
+
+> we construct a meta language that lets us be explicit about exactly the properties we want to make explicit, and makes implicit the rest.
 

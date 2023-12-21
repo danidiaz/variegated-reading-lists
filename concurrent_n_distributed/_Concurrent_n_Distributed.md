@@ -751,5 +751,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [Thinking above the code](https://twitter.com/DominikTornow/status/1736106419211120862)
 
+[exactly once—not possible, but you can hack it with idempotence](https://twitter.com/paul_snively/status/1737911146387046448)
+
 
 

@@ -256,5 +256,7 @@
 
 [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow). [hn](https://lobste.rs/s/sda7hr/your_github_pull_request_workflow_is).
 
+[Development slowness in big and legacy applications](https://news.ycombinator.com/item?id=38693200)
+
 
 

@@ -268,4 +268,8 @@ Things for which I found ChatGPT useful:
 
 [prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering/prompt-engineering)
 
+[Pushing ChatGPT's Structured Data Support To Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/). [openai reference](https://platform.openai.com/docs/guides/function-calling)
+
+> OpenAI introduced function calling last June, but what’s *really* the big feature is ChatGPT’s ability to output structured data in, even complex nested schema!
+
 

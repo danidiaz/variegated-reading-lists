@@ -116,4 +116,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Linear Haskell enables Pure, Parallel, and In-place Fast Fourier Transformation](https://discourse.haskell.org/t/experience-report-linear-haskell-enables-pure-parallel-and-in-place-fast-fourier-transformation/8256)
 
+[Destination-passing style programming: a Haskell implementation](https://twitter.com/Iceland_jack/status/1737630661182210217). [paper](https://t.co/TraDzKKWgv).
+
 

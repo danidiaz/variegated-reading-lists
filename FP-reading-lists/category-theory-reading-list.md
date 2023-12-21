@@ -1064,3 +1064,6 @@ deals with its own properties.
 
 > we construct a meta language that lets us be explicit about exactly the properties we want to make explicit, and makes implicit the rest.
 
+[ajdunctions in Haskell](https://twitter.com/viercc/status/1737873285445267593)
+
+

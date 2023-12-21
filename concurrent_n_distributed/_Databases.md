@@ -948,6 +948,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [What if an SQL statement returned a database?](https://arxiv.org/abs/2312.00638). [hn](https://news.ycombinator.com/item?id=38606146)
 
+[do you need foreign keys?](https://news.ycombinator.com/item?id=38723509). [yeah](https://twitter.com/craigkerstiens/status/1737882207602327660).
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

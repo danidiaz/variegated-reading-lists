@@ -525,4 +525,6 @@ chrome://inspect/#pages
 
 [Hotkeys for Better Window Management in macOS](https://www.youtube.com/watch?v=VBgVaQscIWg)
 
+[My macOS keyboard shortcuts](https://news.ycombinator.com/item?id=30876934)
+
 

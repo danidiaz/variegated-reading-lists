@@ -950,6 +950,10 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [do you need foreign keys?](https://news.ycombinator.com/item?id=38723509). [yeah](https://twitter.com/craigkerstiens/status/1737882207602327660).
 
+[Database Isolation Is Broken and You Should Care](https://materializedview.io/p/database-isolation-is-broken-you-should-care). [hn](https://news.ycombinator.com/item?id=38736904).
+
+[A Read-Only Transaction Anomaly Under Snapshot Isolation](https://www.cs.umb.edu/~poneil/ROAnom.pdf). [twitter](https://twitter.com/MarcJBrooker/status/1470946418625896453).
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

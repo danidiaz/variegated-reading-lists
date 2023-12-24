@@ -769,6 +769,8 @@ Bernini, his life and his Rome
 
 [complex games](https://twitter.com/jesawyer/status/1726280631678841168)
 
+[the personal, political art of board-game design](https://news.ycombinator.com/item?id=38719439)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

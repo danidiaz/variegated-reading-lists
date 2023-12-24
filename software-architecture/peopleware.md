@@ -258,5 +258,8 @@
 
 [Development slowness in big and legacy applications](https://news.ycombinator.com/item?id=38693200)
 
+[UI/UX-driven development](https://www.linkedin.com/posts/matko-smoljan_softwareengineering-softwaredevelopment-activity-7140334619991642113-4txL)
+
+
 
 

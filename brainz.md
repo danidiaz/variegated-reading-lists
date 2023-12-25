@@ -272,4 +272,6 @@ Things for which I found ChatGPT useful:
 
 > OpenAI introduced function calling last June, but what’s *really* the big feature is ChatGPT’s ability to output structured data in, even complex nested schema!
 
+[code for code's sake](https://twitter.com/BHolmesDev/status/1739037983334867009)
+
 

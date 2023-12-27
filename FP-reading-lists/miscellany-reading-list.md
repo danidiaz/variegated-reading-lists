@@ -844,9 +844,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Trace contracts](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/trace-contracts/4AF1C7361751839FF7E2DEBC65A050EE)
 
-
-
-
-
+[Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://news.ycombinator.com/item?id=38778386)
 
 

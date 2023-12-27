@@ -176,5 +176,6 @@
 
 [exceptions yay or nay](https://twitter.com/SusanPotter/status/1709933194135613828)
 
+[The dark side of inlining and monomorphization](https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/)
 
 

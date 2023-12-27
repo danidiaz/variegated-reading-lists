@@ -653,4 +653,11 @@ https://twitter.com/tailwindcss
 
 [Equal Columns With Flexbox: It’s More Complicated Than You Might Think](https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/)
 
+[align-items & align-content in flex and grid](https://www.youtube.com/watch?v=WeUEqZQ7ADU)
+
+> justify-content justify-items justify-self
+> align-content align-items align-self
+> text-align text-justfy vertical-align
+
+
 

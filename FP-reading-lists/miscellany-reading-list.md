@@ -846,4 +846,4 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://news.ycombinator.com/item?id=38778386)
 
-
+[edmonds-karp algorithm](https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm). [aoc 2023 day 25](https://www.reddit.com/r/haskell/comments/18qbxgz/advent_of_code_2023_day_25/)

@@ -659,5 +659,7 @@ https://twitter.com/tailwindcss
 > align-content align-items align-self
 > text-align text-justfy vertical-align
 
+[When does a box establish an inline formatting context?](https://stackoverflow.com/questions/16936297/when-does-a-box-establish-an-inline-formatting-context). [9 Visual formatting model](https://www.w3.org/TR/CSS22/visuren.html). [Inline formatting context](https://developer.mozilla.org/en-US/docs/Web/CSS/Inline_formatting_context).
+
 
 

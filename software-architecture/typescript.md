@@ -190,5 +190,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [How to setup your typescript project for success](https://blog.liblab.com/how-to-set-up-your-typescript-project-for-success/)
 
+[type parameters rely other type parameters](https://twitter.com/mattpocockuk/status/1740345906417877388)
+
 
 

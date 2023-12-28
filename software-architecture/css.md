@@ -663,3 +663,9 @@ https://twitter.com/tailwindcss
 
 [The View Transitions API And Delightful UI Animations (Part 1)](https://www.smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/)
 
+[How to make the div fill the height of the remaining screen space](https://www.educative.io/answers/how-to-make-the-div-fill-the-height-of-the-remaining-screen-space)
+
+[Independent column scroll in HTML page](https://stackoverflow.com/questions/15453410/independent-column-scroll-in-html-page)
+
+[scrollbar troubles](https://www.linkedin.com/posts/daniel-d%C3%ADaz-0621a334_css-activity-7146259707848978433-ENQX)
+

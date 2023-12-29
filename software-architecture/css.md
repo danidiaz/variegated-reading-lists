@@ -669,3 +669,7 @@ https://twitter.com/tailwindcss
 
 [scrollbar troubles](https://www.linkedin.com/posts/daniel-d%C3%ADaz-0621a334_css-activity-7146259707848978433-ENQX)
 
+[CSS functions](https://web.dev/learn/css/functions). [tweet](https://twitter.com/argyleink/status/1684579433821372418).   
+
+
+

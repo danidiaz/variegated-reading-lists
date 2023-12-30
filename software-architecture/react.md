@@ -967,4 +967,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [the history of Redux](https://twitter.com/acemarke/status/1740912269796790679)
 
+[React Server Components: the Good, the Bad, and the Ugly](https://www.mayank.co/blog/react-server-components/)
+
 

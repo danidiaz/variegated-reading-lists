@@ -965,4 +965,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [another form library](https://twitter.com/BHolmesDev/status/1732950888996573542)
 
+[the history of Redux](https://twitter.com/acemarke/status/1740912269796790679)
+
 

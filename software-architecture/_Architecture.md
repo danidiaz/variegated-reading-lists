@@ -1441,3 +1441,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Multi-tenant data isolation with PostgreSQL Row Level Security](https://aws.amazon.com/es/blogs/database/multi-tenant-data-isolation-with-postgresql-row-level-security/). [in Haskell](https://www.reddit.com/r/haskell/comments/18s3901/approaching_multi_tenancy_in_haskell/).
 
+[updated data stack](https://news.ycombinator.com/item?id=38813634)
+
+

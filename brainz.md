@@ -274,4 +274,6 @@ Things for which I found ChatGPT useful:
 
 [code for code's sake](https://twitter.com/BHolmesDev/status/1739037983334867009)
 
+[Macondo](https://twitter.com/GrantSlatton/status/1741149378516263243)
+
 

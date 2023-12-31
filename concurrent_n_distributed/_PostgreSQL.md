@@ -379,4 +379,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [transaction isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
 
+[PostgreSQL internals: Things to know about update statements](https://news.ycombinator.com/item?id=38781442)
+
 

@@ -260,6 +260,6 @@
 
 [UI/UX-driven development](https://www.linkedin.com/posts/matko-smoljan_softwareengineering-softwaredevelopment-activity-7140334619991642113-4txL)
 
-
+[Asking your customers what they want doesn't work](https://news.ycombinator.com/item?id=38814152)
 
 

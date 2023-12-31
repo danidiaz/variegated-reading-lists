@@ -262,4 +262,6 @@
 
 [Asking your customers what they want doesn't work](https://news.ycombinator.com/item?id=38814152)
 
+[I'm skeptical of low-code](https://news.ycombinator.com/item?id=38816135)
+
 

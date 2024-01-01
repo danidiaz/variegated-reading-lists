@@ -276,4 +276,6 @@ Things for which I found ChatGPT useful:
 
 [Macondo](https://twitter.com/GrantSlatton/status/1741149378516263243)
 
+[Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
+
 

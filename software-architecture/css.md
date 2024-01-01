@@ -671,7 +671,9 @@ https://twitter.com/tailwindcss
 
 [CSS functions](https://web.dev/learn/css/functions). [tweet](https://twitter.com/argyleink/status/1684579433821372418).   
 
-[Overflow Issues In CSS](https://www.smashingmagazine.com/2021/04/css-overflow-issues/)
+[Overflow Issues In CSS](https://www.smashingmagazine.com/2021/04/css-overflow-issues/). [How to prevent overflow scrolling in CSS](https://blog.logrocket.com/how-to-prevent-overflow-scrolling-css/).
+
+
 
 
 

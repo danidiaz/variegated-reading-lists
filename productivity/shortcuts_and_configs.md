@@ -527,7 +527,7 @@ chrome://inspect/#pages
 
 [My macOS keyboard shortcuts](https://news.ycombinator.com/item?id=30876934)
 
-[Git Things](https://matklad.github.io/2023/12/31/git-things.html#Git-Things). [should every commit compile?](https://alblue.bandlem.com/2013/08/should-every-commit-compile.html). [https://softwareengineering.stackexchange.com/questions/109107/should-every-git-commit-leave-the-project-in-a-working-state](https://softwareengineering.stackexchange.com/questions/109107/should-every-git-commit-leave-the-project-in-a-working-state).
+[Git Things](https://matklad.github.io/2023/12/31/git-things.html#Git-Things). [hn](https://news.ycombinator.com/item?id=38830194). [should every commit compile?](https://alblue.bandlem.com/2013/08/should-every-commit-compile.html). [https://softwareengineering.stackexchange.com/questions/109107/should-every-git-commit-leave-the-project-in-a-working-state](https://softwareengineering.stackexchange.com/questions/109107/should-every-git-commit-leave-the-project-in-a-working-state).
 
 
 

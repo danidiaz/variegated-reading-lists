@@ -278,4 +278,6 @@ Things for which I found ChatGPT useful:
 
 [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 
+[LLMs and Programming in the first days of 2024](http://antirez.com/news/140). [hn](https://news.ycombinator.com/item?id=38840626)
+
 

@@ -753,5 +753,8 @@ https://news.ycombinator.com/item?id=25061901
 
 [exactly once—not possible, but you can hack it with idempotence](https://twitter.com/paul_snively/status/1737911146387046448)
 
+[A CAP tradeoff in the wild](https://decomposition.al/blog/2023/12/31/a-cap-tradeoff-in-the-wild/)
+
+> K8s caching layers on top of etcd end up undermining the correctness guarantees it provides in the first place
 
 

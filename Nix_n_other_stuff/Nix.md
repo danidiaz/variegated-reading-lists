@@ -1152,4 +1152,6 @@ What! This does work! How to go in the opposite direction?
 
 [source filtering with file sets](https://www.tweag.io/blog/2023-11-28-file-sets/)
 
+[Flakes aren't real and can't hurt you](https://lobste.rs/s/exlaeq/flakes_aren_t_real_cannot_hurt_you_guide)
+
 

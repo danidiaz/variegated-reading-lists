@@ -871,6 +871,6 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [A correct-by-construction conversion from lambda calculus to combinatory logic](https://news.ycombinator.com/item?id=38390402). [Microhaskell](https://www.youtube.com/watch?v=Zk5SJ79nOnA).
 
-
+[It's too easy to lean too hard on object-language function spaces](https://hachyderm.io/@pigworker@types.pl/111688001848656137)
 
 

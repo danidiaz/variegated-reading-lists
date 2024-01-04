@@ -381,4 +381,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [PostgreSQL internals: Things to know about update statements](https://news.ycombinator.com/item?id=38781442)
 
+[notify for queues](https://twitter.com/tonialaribe/status/1742924612135198801)
+
 

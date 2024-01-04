@@ -757,4 +757,6 @@ https://news.ycombinator.com/item?id=25061901
 
 > K8s caching layers on top of etcd end up undermining the correctness guarantees it provides in the first place
 
+[Does Your Test Suite Account for Weak Transaction Isolation?](https://news.ycombinator.com/item?id=38867841).
+
 

@@ -529,6 +529,8 @@ chrome://inspect/#pages
 
 [Git Things](https://matklad.github.io/2023/12/31/git-things.html#Git-Things). [hn](https://news.ycombinator.com/item?id=38830194). [should every commit compile?](https://alblue.bandlem.com/2013/08/should-every-commit-compile.html). [https://softwareengineering.stackexchange.com/questions/109107/should-every-git-commit-leave-the-project-in-a-working-state](https://softwareengineering.stackexchange.com/questions/109107/should-every-git-commit-leave-the-project-in-a-working-state).
 
+[Do we think of git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
+
 
 
 

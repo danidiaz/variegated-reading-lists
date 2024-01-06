@@ -21,3 +21,15 @@
     - [schema object](https://spec.openapis.org/oas/v3.1.0#schemaObject)
 
 [The hidden depths of the input element](https://lobste.rs/s/iq3wbg/hidden_depths_input_element)
+
+[Building a Good Download… Button?](https://css-tricks.com/building-good-download-button/). [Links vs. Buttons in Modern Web Applications
+(2016)](https://marcysutton.com/links-vs-buttons-in-modern-web-applications)
+
+> the whole purpose of a link has always been to download content.
+
+> Buttons perform actions, but they don’t inherently “get” documents. While they can be used to get data, it’s often to change state of a current document, not to retrieve and render a new one. They can get data, in regards to the functionality of forms, but it continues to be within the context of updating a web document, not downloading an individual file.
+
+> Long story short, the download attribute is unique to anchor links for a reason. download augments the inherent functionality of the link retrieving data. It side steps the attempt to render the file in the browser and instead says, “You know what? I’m just going to save this for later…”
+
+[What are pros/cons of using buttons instead of plain links to download a document?](https://ux.stackexchange.com/questions/140744/what-are-pros-cons-of-using-buttons-instead-of-plain-links-to-download-a-documen)
+

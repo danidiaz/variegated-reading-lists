@@ -335,3 +335,6 @@
 
 [the subtleties of htmx redirects](https://github.com/bigskysoftware/htmx/issues/2001#issuecomment-1814519590). [Reddit](https://www.reddit.com/r/htmx/comments/18wpe54/comment/kg149ep/).
 
+[htmx archiver example](https://www.youtube.com/watch?v=uLUMM1Y-dd8)
+
+

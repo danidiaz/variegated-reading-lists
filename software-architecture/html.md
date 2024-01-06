@@ -33,3 +33,7 @@
 
 [What are pros/cons of using buttons instead of plain links to download a document?](https://ux.stackexchange.com/questions/140744/what-are-pros-cons-of-using-buttons-instead-of-plain-links-to-download-a-documen)
 
+[HTML Templates Instead of Reactivity](https://guseyn.com/html/posts/templates-instead-of-reactivity.html)
+
+
+

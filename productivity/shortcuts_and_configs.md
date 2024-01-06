@@ -529,7 +529,12 @@ chrome://inspect/#pages
 
 [Git Things](https://matklad.github.io/2023/12/31/git-things.html#Git-Things). [hn](https://news.ycombinator.com/item?id=38830194). [should every commit compile?](https://alblue.bandlem.com/2013/08/should-every-commit-compile.html). [https://softwareengineering.stackexchange.com/questions/109107/should-every-git-commit-leave-the-project-in-a-working-state](https://softwareengineering.stackexchange.com/questions/109107/should-every-git-commit-leave-the-project-in-a-working-state).
 
-[Do we think of git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
+[Do we think of git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/). [hn](https://news.ycombinator.com/item?id=38889100).
+
+> The exact way in which git handles commits is very muddied - it's snapshots on the surface, a bit of diffs when packed
+
+> In my opinion, it's probably good enough to understand the model git is trying to emulate. Commits are stored more or less like snapshot copies of the working tree directory with commit information attached. The fact that there is de-duplication and packing behind the scenes is more a matter of trying to increase storage efficiency than of any practical difference from the directory snapshot model.
+
 
 
 

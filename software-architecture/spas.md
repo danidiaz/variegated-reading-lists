@@ -333,5 +333,5 @@
 
 [In-Place Optimistic UI](https://www.youtube.com/watch?v=Z07vhWKpfXs). [User Feedback with Busy Indicators](https://www.youtube.com/watch?v=agYaOQEFPns). [Optimistic Add](https://www.youtube.com/watch?v=-0Qi0yMyLwQ).
 
-
+[the subtleties of htmx redirects](https://github.com/bigskysoftware/htmx/issues/2001#issuecomment-1814519590). [Reddit](https://www.reddit.com/r/htmx/comments/18wpe54/comment/kg149ep/).
 

@@ -341,6 +341,8 @@
 
 [htmx optimistic update tricks](https://twitter.com/htmx_org/status/1744019425404084453). [htmx and scripting](https://twitter.com/htmx_org/status/1744020227715690874). 
 
+[htmx discord: http errors and surface messages](https://discord.com/channels/725789699527933952/1156332851093065788/1156583068749012992)
+
 
 
 

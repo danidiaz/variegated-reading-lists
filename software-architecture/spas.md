@@ -345,4 +345,6 @@
 
 > error event 
 
+["stateless only on the *server*](https://discord.com/channels/725789699527933952/975839826559508510/1158442937026367498)
+
 

@@ -339,3 +339,8 @@
 
 [Every screen you interact with has multiple personalities](https://www.linkedin.com/feed/update/urn:li:activity:7144604919721783297/). [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/). [The Nine States of Design](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85).
 
+[htmx optimistic update tricks](https://twitter.com/htmx_org/status/1744019425404084453). [htmx and scripting](https://twitter.com/htmx_org/status/1744020227715690874). 
+
+
+
+

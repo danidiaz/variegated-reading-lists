@@ -343,6 +343,6 @@
 
 [htmx discord: http errors and surface messages](https://discord.com/channels/725789699527933952/1156332851093065788/1156583068749012992)
 
-
+> error event 
 
 

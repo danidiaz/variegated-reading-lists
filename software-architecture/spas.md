@@ -337,4 +337,5 @@
 
 [htmx archiver example](https://www.youtube.com/watch?v=uLUMM1Y-dd8). [chapter in the hypermedia systems book](https://hypermedia.systems/a-dynamic-archive-ui/)
 
+[Every screen you interact with has multiple personalities](https://www.linkedin.com/feed/update/urn:li:activity:7144604919721783297/). [How to fix a bad user interface](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/). [The Nine States of Design](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85).
 

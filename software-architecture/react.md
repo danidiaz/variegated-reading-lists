@@ -969,4 +969,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [React Server Components: the Good, the Bad, and the Ugly](https://www.mayank.co/blog/react-server-components/)
 
+[The two Reacts](https://twitter.com/dan_abramov2/status/1743038981002969389). [more](https://overreacted.io/the-two-reacts/). [more](https://twitter.com/dan_abramov2/status/1743441693225988485).
+
 

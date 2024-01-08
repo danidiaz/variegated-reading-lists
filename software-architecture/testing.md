@@ -401,4 +401,8 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Master API Mocking with MSW](https://www.youtube.com/watch?v=kscedKIEs8c)
 
+[always test the intention](https://www.epicweb.dev/the-true-purpose-of-testing)
+
+
+
 

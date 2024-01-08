@@ -385,4 +385,7 @@ Essential reading! Covers:
 
 [Confusion about the operational semantics of the let binding (LET rule) in the STG language](https://discourse.haskell.org/t/confusion-about-the-operational-semantics-of-the-let-binding-let-rule-in-the-stg-language/8286)
 
+[Suggesting Valid Hole Fits for Typed-Holes in Haskell - aka zonk zonkitty zonk](https://www.mpg.is/papers/gissurarson2018suggesting-msc.pdf)
+
+
 

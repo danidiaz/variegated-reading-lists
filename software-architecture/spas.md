@@ -349,4 +349,6 @@
 
 [restful way to handle downloads](https://stackoverflow.com/a/38562708/1364288)
 
+[htmx as a layered api](https://twitter.com/htmx_org/status/1744411538826420403)
+
 

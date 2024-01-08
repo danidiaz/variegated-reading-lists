@@ -347,4 +347,6 @@
 
 ["stateless only on the *server*](https://discord.com/channels/725789699527933952/975839826559508510/1158442937026367498)
 
+[restful way to handle downloads](https://stackoverflow.com/a/38562708/1364288)
+
 

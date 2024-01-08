@@ -192,5 +192,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [type parameters rely other type parameters](https://twitter.com/mattpocockuk/status/1740345906417877388)
 
+[homomorphic mapped types](https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/)
+
 
 

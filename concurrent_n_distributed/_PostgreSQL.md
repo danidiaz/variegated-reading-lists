@@ -383,4 +383,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [notify for queues](https://twitter.com/tonialaribe/status/1742924612135198801)
 
+[The Surprising Impact of Medium-Size Texts on PostgreSQL Performance](https://hakibenita.com/sql-medium-text-performance)
+
 

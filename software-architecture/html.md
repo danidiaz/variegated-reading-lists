@@ -35,5 +35,6 @@
 
 [HTML Templates Instead of Reactivity](https://guseyn.com/html/posts/templates-instead-of-reactivity.html)
 
+[Downloading files from Ajax POST Requests](https://stackoverflow.com/a/67004804/1364288)
 
 

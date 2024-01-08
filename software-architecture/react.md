@@ -971,4 +971,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [The two Reacts](https://twitter.com/dan_abramov2/status/1743038981002969389). [more](https://overreacted.io/the-two-reacts/). [more](https://twitter.com/dan_abramov2/status/1743441693225988485).
 
+[chache invalidation is hard](https://twitter.com/housecor/status/1744449177960992854)
+
 

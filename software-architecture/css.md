@@ -675,5 +675,7 @@ https://twitter.com/tailwindcss
 
 [How I'm writing CSS in 2024](https://news.ycombinator.com/item?id=38904754)
 
+[how to use not in tailwind CSS](https://www.geeksforgeeks.org/how-to-use-not-in-tailwind-css/)
+
 
 

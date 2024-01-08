@@ -754,4 +754,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Someone was breaking into Orange Spain RIPE account](https://news.ycombinator.com/item?id=38858500)
 
+[HTTPonly token without CSRF is safe?](https://security.stackexchange.com/questions/273983/httponly-token-without-csrf-is-safe)
 
+
+
+> XSS (Cross-Site Scripting) for remote control. The HttpOnly flag only prevents script from reading the cookie; it does not prevent script from sending the cookie along with requests

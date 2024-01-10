@@ -403,6 +403,7 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [always test the intention](https://www.epicweb.dev/the-true-purpose-of-testing)
 
+[Should you write tests for entities and repositories](https://www.reddit.com/r/SpringBoot/comments/18ykq5u/comment/kh4wim9/)
 
 
 

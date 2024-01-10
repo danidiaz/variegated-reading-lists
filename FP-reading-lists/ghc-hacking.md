@@ -387,5 +387,7 @@ Essential reading! Covers:
 
 [Suggesting Valid Hole Fits for Typed-Holes in Haskell - aka zonk zonkitty zonk](https://www.mpg.is/papers/gissurarson2018suggesting-msc.pdf)
 
+[When "blocked indefinitely" is not indefinite](https://well-typed.com/blog/2024/01/when-blocked-indefinitely-is-not-indefinite/)
+
 
 

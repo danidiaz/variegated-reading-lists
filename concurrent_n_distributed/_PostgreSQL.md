@@ -385,4 +385,8 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [The Surprising Impact of Medium-Size Texts on PostgreSQL Performance](https://hakibenita.com/sql-medium-text-performance)
 
+[I wish I could have a "weak" or optional foreign key](https://ryanguill.com/postgresql/sql/2024/01/08/postgresql-wishlist.html)
+
+> I want to be able to say that if this key exists, it is in this table, but it might not exist any longer.
+
 

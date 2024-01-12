@@ -677,5 +677,6 @@ https://twitter.com/tailwindcss
 
 [how to use not in tailwind CSS](https://www.geeksforgeeks.org/how-to-use-not-in-tailwind-css/)
 
+[css scopes](https://twitter.com/wesbos/status/1745847941628101119)
 
 

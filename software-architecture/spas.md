@@ -353,4 +353,6 @@
 
 [ the browser event system is basically a built-in pubsub system](https://twitter.com/ralex1993/status/1745790936808837331). [You can scope these custom events to any DOM node.](https://frontendmasters.com/blog/vanilla-javascript-reactivity/#pubsub-pattern-publish-subscriber)
 
+[HATEOAS: absolute or relative URLs?](https://stackoverflow.com/questions/2239405/hateoas-absolute-or-relative-urls). [Building links in Spring MVC](https://docs.spring.io/spring-hateoas/docs/current/reference/html/#server.link-builder.webmvc)
+
 

@@ -351,4 +351,6 @@
 
 [htmx as a layered api](https://twitter.com/htmx_org/status/1744411538826420403)
 
+[ the browser event system is basically a built-in pubsub system](https://twitter.com/ralex1993/status/1745790936808837331). [You can scope these custom events to any DOM node.](https://frontendmasters.com/blog/vanilla-javascript-reactivity/#pubsub-pattern-publish-subscriber)
+
 

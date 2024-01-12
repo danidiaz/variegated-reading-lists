@@ -969,8 +969,10 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [React Server Components: the Good, the Bad, and the Ugly](https://www.mayank.co/blog/react-server-components/)
 
-[The two Reacts](https://twitter.com/dan_abramov2/status/1743038981002969389). [more](https://overreacted.io/the-two-reacts/). [more](https://twitter.com/dan_abramov2/status/1743441693225988485).
+[The two Reacts](https://twitter.com/dan_abramov2/status/1743038981002969389). [more](https://overreacted.io/the-two-reacts/). [more](https://twitter.com/dan_abramov2/status/1743441693225988485). [video](https://www.youtube.com/watch?v=KuhfT6-I3QU).
 
 [chache invalidation is hard](https://twitter.com/housecor/status/1744449177960992854)
+
+[React Server Components does not require a server](https://twitter.com/dan_abramov2/status/1745795274977493317)
 
 

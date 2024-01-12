@@ -771,6 +771,10 @@ Bernini, his life and his Rome
 
 [the personal, political art of board-game design](https://news.ycombinator.com/item?id=38719439)
 
+[Forbidded Desert](https://twitter.com/moultano/status/1745509478282486234)
+
+> Hiding from the sun and managing your water supply to avoid dying is a great mechanic, and very tense.
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

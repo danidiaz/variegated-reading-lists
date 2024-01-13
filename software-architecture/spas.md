@@ -355,5 +355,7 @@
 
 [HATEOAS: absolute or relative URLs?](https://stackoverflow.com/questions/2239405/hateoas-absolute-or-relative-urls). [Building links in Spring MVC](https://docs.spring.io/spring-hateoas/docs/current/reference/html/#server.link-builder.webmvc). [htmx](https://news.ycombinator.com/item?id=38954800).
 
+[HTMX playground](https://lassebomh.github.io/htmx-playground/). [polly.js](https://netflix.github.io/pollyjs). [mock service worker](https://netflix.github.io/pollyjs).
+
 
 

@@ -1443,4 +1443,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [updated data stack](https://news.ycombinator.com/item?id=38813634)
 
+[architecture antipatterns](https://architecture-antipatterns.tech/)
+
 

@@ -61,6 +61,8 @@
 
 [payroll processing](https://www.bitsaboutmoney.com/archive/payroll-providers-power-respect/). [twitter](https://twitter.com/patio11/status/1737659750660051422)
 
+[Kafka](https://techwontsave.us/episode/199_why_tech_makes_us_more_insecure_w_astra_taylor)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

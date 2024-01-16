@@ -759,4 +759,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [Does Your Test Suite Account for Weak Transaction Isolation?](https://news.ycombinator.com/item?id=38867841).
 
+[distributed systems papers](https://twitter.com/eatonphil/status/1747364101758529744)
+
 

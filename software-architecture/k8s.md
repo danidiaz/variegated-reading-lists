@@ -423,4 +423,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Best practices for serverless developers](https://www.youtube.com/watch?v=sdCA0Y7QDrM)
 
+[Managing Asynchronous Workflows with a REST API | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/managing-asynchronous-workflows-with-a-rest-api/). [From Poll to Push: Transform APIs using Amazon API Gateway REST APIs and WebSockets](https://aws.amazon.com/es/blogs/compute/from-poll-to-push-transform-apis-using-amazon-api-gateway-rest-apis-and-websockets/)
+
 

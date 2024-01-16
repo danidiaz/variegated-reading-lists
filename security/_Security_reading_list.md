@@ -762,4 +762,10 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [JSON Web Token for Java - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/JSON_Web_Token_for_Java_Cheat_Sheet.html#token-storage-on-client-side). [token sidehacking](https://cheatsheetseries.owasp.org/cheatsheets/JSON_Web_Token_for_Java_Cheat_Sheet.html#token-sidejacking).
 
+[What is the connection between CORS and SameSite cookie attribute?](https://security.stackexchange.com/questions/232744/what-is-the-connection-between-cors-and-samesite-cookie-attribute). [Bypassing SameSite cookie restrictions](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions). [Demystifying CORS, CSRF tokens, SameSite & Clickjacking - Web Security](https://michaelzanggl.com/articles/web-security-cors-csrf-samesite/). [Web Security: an Overview of SOP, CORS, and CSRF](https://maddevs.io/blog/web-security-an-overview-of-sop-cors-and-csrf/#csrf).
+
+
+
+
+
 

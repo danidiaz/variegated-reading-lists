@@ -764,6 +764,10 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [What is the connection between CORS and SameSite cookie attribute?](https://security.stackexchange.com/questions/232744/what-is-the-connection-between-cors-and-samesite-cookie-attribute). [Bypassing SameSite cookie restrictions](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions). [Demystifying CORS, CSRF tokens, SameSite & Clickjacking - Web Security](https://michaelzanggl.com/articles/web-security-cors-csrf-samesite/). [Web Security: an Overview of SOP, CORS, and CSRF](https://maddevs.io/blog/web-security-an-overview-of-sop-cors-and-csrf/#csrf).
 
+[Multi-tenancy is what’s hard about scaling web services](https://world.hey.com/dhh/multi-tenancy-is-what-s-hard-about-scaling-web-services-dd1e0e81). [multitenancy tweets](https://twitter.com/Sirupsen/status/1746971216995373301). [quotes](https://twitter.com/dhh/status/1746580156779765909/quotes). [Doing multi-tenancy with many single databases](https://twitter.com/tobias_petry/status/1746794190720073850)
+
+> The database-per-tenant approach
+
 
 
 

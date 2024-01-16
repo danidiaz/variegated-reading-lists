@@ -359,5 +359,7 @@
 
 [components (web or otherwise) for htmx should be components for _HTML_ & use the std integration points w/it: events + input values](https://twitter.com/htmx_org/status/1746995079766835503)
 
+[htmx dropdown trick](https://twitter.com/htmx_org/status/1747383145920643283)
+
 
 

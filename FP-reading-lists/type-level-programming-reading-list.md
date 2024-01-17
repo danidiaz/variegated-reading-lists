@@ -431,4 +431,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Instances for type families](https://discourse.haskell.org/t/instances-for-type-families/7773)
 
+[An Intrinsically Typed Compiler for Algebraic Effect Handlers](https://dl.acm.org/doi/pdf/10.1145/3635800.3636968). [tweet](https://twitter.com/Iceland_jack/status/1747604772671103147)
+
 

@@ -983,5 +983,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [RCS from scratch](https://twitter.com/BHolmesDev/status/1747797384946487529)
 
+[starting React apps in 2024](https://twitter.com/housecor/status/1747979474413474075)
 
 

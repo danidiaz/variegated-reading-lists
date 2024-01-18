@@ -264,4 +264,6 @@
 
 [I'm skeptical of low-code](https://news.ycombinator.com/item?id=38816135)
 
+[the importance of gathering requirements](https://hachyderm.io/@mpuckett259/111770273601840371)
+
 

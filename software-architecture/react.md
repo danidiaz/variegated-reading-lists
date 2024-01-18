@@ -977,5 +977,11 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [tweetz](https://twitter.com/dan_abramov2/status/1746117807639609770). [more](https://twitter.com/ryanflorence/status/1746193166259372446). [more](https://twitter.com/dan_abramov2/status/1746283919467487299). [more](https://x.com/AdamRackis/status/1745943372798267600). [more](https://twitter.com/dan_abramov2/status/1746244422092661230). [more](https://twitter.com/dan_abramov2/status/1746250961448763569). [drama](https://twitter.com/AdamRackis/status/1746571911805419987).
 
+[Using TanStack router in preference to React Router](https://twitter.com/housecor/status/1747778158424678437)
+
+[Adding form validation to your React app? Try the "reward early, punish late" pattern](https://twitter.com/BHolmesDev/status/1746911677440774274)
+
+[RCS from scratch](https://twitter.com/BHolmesDev/status/1747797384946487529)
+
 
 

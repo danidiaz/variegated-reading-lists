@@ -987,4 +987,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Remix client loaders](https://twitter.com/ryanflorence/status/1748024678764183620)
 
+[How to REALLY validate React forms](https://www.youtube.com/watch?v=DwEkvie79xI)
+
 

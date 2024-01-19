@@ -985,4 +985,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [starting React apps in 2024](https://twitter.com/housecor/status/1747979474413474075)
 
+[Remix client loaders](https://twitter.com/ryanflorence/status/1748024678764183620)
+
 

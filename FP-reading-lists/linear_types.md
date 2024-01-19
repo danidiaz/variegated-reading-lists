@@ -118,4 +118,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Destination-passing style programming: a Haskell implementation](https://twitter.com/Iceland_jack/status/1737630661182210217). [paper](https://t.co/TraDzKKWgv).
 
+[A LOOK UNDER GHC'S HOOD: DESUGARING LINEAR TYPES](https://www.tweag.io/blog/2024-01-18-linear-desugaring/)
+
 

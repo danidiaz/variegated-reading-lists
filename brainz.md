@@ -282,4 +282,6 @@ Things for which I found ChatGPT useful:
 
 [ReAct-style reasoning is essentially continuation semantics](https://twitter.com/headinthebox/status/1748579429234901248)
 
+[agents](https://twitter.com/revhowardarson/status/1748799648343687301)
+
 

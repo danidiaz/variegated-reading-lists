@@ -71,4 +71,6 @@
 
 [Cache plugin for buildkite?](https://forum.buildkite.community/t/cache-plugin-for-buildkite/1324)
 
+[Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
+
 

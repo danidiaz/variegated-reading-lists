@@ -280,4 +280,6 @@ Things for which I found ChatGPT useful:
 
 [LLMs and Programming in the first days of 2024](http://antirez.com/news/140). [hn](https://news.ycombinator.com/item?id=38840626)
 
+[ReAct-style reasoning is essentially continuation semantics](https://twitter.com/headinthebox/status/1748579429234901248)
+
 

@@ -768,6 +768,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > The database-per-tenant approach
 
+[ssh secrets](https://twitter.com/freebsdfrau/status/1748449153632620767)
+
 
 
 

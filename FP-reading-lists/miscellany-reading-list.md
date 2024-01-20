@@ -850,4 +850,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [How virtualisation came to Apple Silicon Macs](https://news.ycombinator.com/item?id=38958266)
 
+[The Functional Essence of Imperative Binary Search Trees (2023)](https://www.microsoft.com/en-us/research/uploads/prod/2023/07/fiptree-tr-v4.pdf). [zippy compiler (old)](https://www.cs.tufts.edu/~nr/pubs/zipcfg.pdf)
+
 

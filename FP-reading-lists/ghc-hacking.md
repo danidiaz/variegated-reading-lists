@@ -389,5 +389,7 @@ Essential reading! Covers:
 
 [When "blocked indefinitely" is not indefinite](https://well-typed.com/blog/2024/01/when-blocked-indefinitely-is-not-indefinite/)
 
+[get-tested](https://hachyderm.io/@hecate@merveilles.town/111796213904272607) GitHub actions matrix generator
 
+[Haskell checklist](https://hachyderm.io/@DiazCarrete/111767157009948297)
 

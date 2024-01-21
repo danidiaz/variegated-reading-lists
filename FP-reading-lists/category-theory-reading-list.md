@@ -1066,4 +1066,6 @@ deals with its own properties.
 
 [ajdunctions in Haskell](https://twitter.com/viercc/status/1737873285445267593)
 
+[An Introduction to Different Approaches to Initial Semantics](https://arxiv.org/pdf/2401.09366.pdf)
+
 

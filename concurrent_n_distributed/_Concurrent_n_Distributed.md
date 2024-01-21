@@ -761,4 +761,8 @@ https://news.ycombinator.com/item?id=25061901
 
 [distributed systems papers](https://twitter.com/eatonphil/status/1747364101758529744)
 
+[while speaking about frontends](https://timkellogg.me/blog/2024/01/17/htmx)
+
+> I’ve spent a fair amount of time working with distributed systems. It’s just regular programming, just that everything is harder. Exceptions don’t bubble up, errors can be indistinguishable from latency, systems don’t compose, error handling doesn’t have a single best approach, even retries are harder than they should be.
+
 

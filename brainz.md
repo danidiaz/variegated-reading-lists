@@ -284,4 +284,6 @@ Things for which I found ChatGPT useful:
 
 [agents](https://twitter.com/revhowardarson/status/1748799648343687301)
 
+[curating, synthesizing, and organizing knowledge](https://twitter.com/vboykis/status/1748839726470066396)
+
 

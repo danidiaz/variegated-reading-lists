@@ -1445,4 +1445,4 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [architecture antipatterns](https://architecture-antipatterns.tech/)
 
-
+[package by feature, yet again](https://twitter.com/ryanflorence/status/1749906558069395710). [vertical split](https://twitter.com/TkDodo/status/1749717832642736184). [more](https://twitter.com/TkDodo/status/1749737745587503272). 

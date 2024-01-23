@@ -989,4 +989,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [How to REALLY validate React forms](https://www.youtube.com/watch?v=DwEkvie79xI)
 
+[the output of rendering Server Components is a tree of Client Components](https://twitter.com/samselikoff/status/1749829002909401186)
+
 

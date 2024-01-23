@@ -775,6 +775,8 @@ Bernini, his life and his Rome
 
 > Hiding from the sun and managing your water supply to avoid dying is a great mechanic, and very tense.
 
+[world traversal & fast travel](https://twitter.com/NickDCarver/status/1749894605745602714). [post](https://www.pcgamer.com/dragons-dogma-2s-director-didnt-want-his-game-to-rely-on-fast-travel-travel-is-boring-thats-not-true-its-only-an-issue-because-your-game-is-boring/)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

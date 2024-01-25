@@ -393,3 +393,6 @@ Essential reading! Covers:
 
 [Haskell checklist](https://hachyderm.io/@DiazCarrete/111767157009948297)
 
+[Eras profiling for GHC](https://www.well-typed.com/blog/2024/01/ghc-eras-profiling/)
+
+

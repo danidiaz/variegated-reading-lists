@@ -433,4 +433,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [An Intrinsically Typed Compiler for Algebraic Effect Handlers](https://dl.acm.org/doi/pdf/10.1145/3635800.3636968). [tweet](https://twitter.com/Iceland_jack/status/1747604772671103147)
 
+[Aligney](https://www.reddit.com/r/haskell/comments/19f6fbr/viercc_derive_applicative_monad_polynomially/)
+
 

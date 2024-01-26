@@ -765,4 +765,6 @@ https://news.ycombinator.com/item?id=25061901
 
 > I’ve spent a fair amount of time working with distributed systems. It’s just regular programming, just that everything is harder. Exceptions don’t bubble up, errors can be indistinguishable from latency, systems don’t compose, error handling doesn’t have a single best approach, even retries are harder than they should be.
 
+[a primer on write skew](https://twitter.com/justinjaffray/status/979037185084096514)
+
 

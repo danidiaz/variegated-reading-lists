@@ -852,4 +852,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [The Functional Essence of Imperative Binary Search Trees (2023)](https://www.microsoft.com/en-us/research/uploads/prod/2023/07/fiptree-tr-v4.pdf). [zippy compiler (old)](https://www.cs.tufts.edu/~nr/pubs/zipcfg.pdf)
 
+[Dynamic Programming: Finite States](https://arxiv.org/abs/2401.10473)
+
+> This book is about dynamic programming and its applications in economics, finance, and adjacent fields. It brings together recent innovations in the theory of dynamic programming and provides applications and code that can help readers approach the research frontier. 
 

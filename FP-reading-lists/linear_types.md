@@ -120,4 +120,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [A LOOK UNDER GHC'S HOOD: DESUGARING LINEAR TYPES](https://www.tweag.io/blog/2024-01-18-linear-desugaring/)
 
+[linear optics](https://twitter.com/aspiwack/status/1750941510604886029)
+
 

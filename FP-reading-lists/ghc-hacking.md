@@ -395,4 +395,5 @@ Essential reading! Covers:
 
 [Eras profiling for GHC](https://www.well-typed.com/blog/2024/01/ghc-eras-profiling/)
 
+> You might start by looking at what has been allocated: which types of closures and which constructors are contributing significantly to the problem. Then perhaps it’s prudent to look at why a closure has been allocated by the info table provenance information. This will tell you from which point in the source code your allocations are coming from. But if if you then turned to investigate when a closure was allocated during the lifecycle of your program, you end up being stuck.
 

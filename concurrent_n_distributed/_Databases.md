@@ -954,6 +954,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [A Read-Only Transaction Anomaly Under Snapshot Isolation](https://www.cs.umb.edu/~poneil/ROAnom.pdf). [twitter](https://twitter.com/MarcJBrooker/status/1470946418625896453).
 
+[Multi-Database Support in DuckDB](https://duckdb.org/2024/01/26/multi-database-support-in-duckdb). [tweet](https://twitter.com/duckdb/status/1750966537031188768).
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

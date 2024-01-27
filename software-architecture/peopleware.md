@@ -266,4 +266,6 @@
 
 [the importance of gathering requirements](https://hachyderm.io/@mpuckett259/111770273601840371)
 
+[Obviously, that never happened.](https://twitter.com/maciejwalkowiak/status/1751259327900303417)
+
 

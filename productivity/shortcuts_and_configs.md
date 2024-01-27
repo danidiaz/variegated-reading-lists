@@ -535,7 +535,7 @@ chrome://inspect/#pages
 
 > In my opinion, it's probably good enough to understand the model git is trying to emulate. Commits are stored more or less like snapshot copies of the working tree directory with commit information attached. The fact that there is de-duplication and packing behind the scenes is more a matter of trying to increase storage efficiency than of any practical difference from the directory snapshot model.
 
-
+[Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/)
 
 
 

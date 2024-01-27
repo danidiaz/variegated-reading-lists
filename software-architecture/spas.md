@@ -363,5 +363,9 @@
 
 [jsx-for-your-favorite-programming-language](https://twitter.com/htmx_org/status/1750853395831767294)
 
+[presigned POST](https://twitter.com/t3dotgg/status/1750260662042075453)
+
+> What are the advantages of using signed upload URLs to upload files from the browser instead of uploading files through your own backend?
+
 
 

@@ -361,5 +361,7 @@
 
 [htmx dropdown trick](https://twitter.com/htmx_org/status/1747383145920643283)
 
+[jsx-for-your-favorite-programming-language](https://twitter.com/htmx_org/status/1750853395831767294)
+
 
 

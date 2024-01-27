@@ -537,5 +537,6 @@ chrome://inspect/#pages
 
 [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/)
 
+[jscpd](https://twitter.com/housecor/status/1751269325313355971)
 
 

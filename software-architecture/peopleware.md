@@ -268,4 +268,8 @@
 
 [Obviously, that never happened.](https://twitter.com/maciejwalkowiak/status/1751259327900303417)
 
+[long-term refactors](https://lobste.rs/s/bi2b1j/long_term_refactors)
+
+> A counterintuitive result is that replacing one dep with another (foolib -> barlib) is easier than updating one (foolib 1 -> foolib 2)
+
 

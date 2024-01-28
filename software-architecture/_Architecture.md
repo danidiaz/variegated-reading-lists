@@ -1449,4 +1449,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Domain Driven Design and Relational Databases](https://docs.spring.io/spring-data/relational/reference/jdbc/domain-driven-design.html)
 
+[Lessons Learned From Payments Startups](https://pgrs.net/2024/01/26/lessons-learned-from-payemnts-startups/)
+
 

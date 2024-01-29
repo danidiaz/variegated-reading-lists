@@ -411,5 +411,7 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Spring Tips: DataSources](https://www.youtube.com/watch?v=rt_cUtb8LnQ)
 
+[Common Spring Developer Mistakes](https://www.youtube.com/watch?v=nd5JzDIEI6A)
+
 
 

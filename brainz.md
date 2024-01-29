@@ -286,4 +286,6 @@ Things for which I found ChatGPT useful:
 
 [curating, synthesizing, and organizing knowledge](https://twitter.com/vboykis/status/1748839726470066396)
 
+[translation](https://twitter.com/kendrictonn/status/1752004719440994793)
+
 

@@ -63,6 +63,8 @@
 
 [SQLite: Wal2 Mode](https://news.ycombinator.com/item?id=38988949)
 
+[starting with sqlite](https://twitter.com/simonw/status/1752043154445074643)
+
 
 
 

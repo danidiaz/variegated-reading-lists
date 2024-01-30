@@ -367,5 +367,7 @@
 
 > What are the advantages of using signed upload URLs to upload files from the browser instead of uploading files through your own backend?
 
+[post-redirect-get](https://hachyderm.io/@DiazCarrete/111841132226571708)
+
 
 

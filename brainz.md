@@ -288,4 +288,6 @@ Things for which I found ChatGPT useful:
 
 [translation](https://twitter.com/kendrictonn/status/1752004719440994793)
 
+[post-redirect-get](https://twitter.com/colin_fraser/status/1750289872420815087)
+
 

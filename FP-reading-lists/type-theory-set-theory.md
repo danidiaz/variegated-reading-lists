@@ -361,6 +361,8 @@ or computations blocked by unknowns.
 
 [operational semantics slides](https://twitter.com/krismicinski/status/1729242208052695291)
 
+[natural deduction: 3 implications in a trenchcoat](https://hachyderm.io/@rntz@recurse.social/111841554328902498)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

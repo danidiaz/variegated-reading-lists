@@ -956,6 +956,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Multi-Database Support in DuckDB](https://duckdb.org/2024/01/26/multi-database-support-in-duckdb). [tweet](https://twitter.com/duckdb/status/1750966537031188768).
 
+[CTEs vs temp tables](https://twitter.com/tcarpenter216/status/1752852286358089766)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

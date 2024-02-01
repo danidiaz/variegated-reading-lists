@@ -290,6 +290,10 @@ Things for which I found ChatGPT useful:
 
 [post-redirect-get](https://twitter.com/colin_fraser/status/1750289872420815087)
 
-[Prompt Design and Engineering: Introduction and Advanced Methods](https://arxiv.org/abs/2401.14423). [tweet](https://twitter.com/xamat/status/1752565060864704789).
+[Prompt Design and Engineering: Introduction and Advanced Methods](https://arxiv.org/abs/2401.14423). [tweet](https://twitter.com/xamat/status/1752565060864704789). [tweet](https://twitter.com/zswitten/status/1752700765380997591)
+
+[a multilingual paradox](https://twitter.com/Dorialexander/status/1752817852006990050)
+
+
 
 

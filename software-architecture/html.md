@@ -41,11 +41,24 @@
 
 [A Button Per form or One Form with Multiple Buttons](https://kentcdodds.com/calls/04/33/a-button-per-form-or-one-form-with-multiple-buttons). [spotify](https://open.spotify.com/episode/1WvzOGnSSN7GGQiAHnhde7)
 
-[footer](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer). [sectioning content](https://developer.mozilla.org/en-US/docs/Web/HTML/Content_categories#sectioning_content). [from the spec](https://www.w3.org/TR/2010/WD-html5-20101019/content-models.html#sectioning-content-0)
+[footer](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer). [sectioning content](https://developer.mozilla.org/en-US/docs/Web/HTML/Content_categories#sectioning_content). [from the spec](https://www.w3.org/TR/2010/WD-html5-20101019/content-models.html#sectioning-content-0).
 
 > represents a footer for its nearest ancestor sectioning content or sectioning root element
 
 > Sectioning content, a subset of flow content, creates a section in the current outline defining the scope of <header> and <footer> elements.
 
+[main doesn't seem to be sectioning content!](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
+
+> Content categories Flow content, palpable content.
+
+> The content of a <main> element should be unique to the document. Content that is repeated across a set of documents or document sections such as sidebars, navigation links, copyright information, site logos, and search forms shouldn't be included unless the search form is the main function of the page.
+
+[header element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
+
+> The <header> element has an identical meaning to the site-wide banner landmark role, unless nested within sectioning content. Then, the <header> element is not a landmark.
+
+> Otherwise, it is a section in the accessibility tree, and usually contains the surrounding section's heading (an h1 – h6 element) and optional subheading, but this is not required.
+
+[HTML 5: When to use <article>, <aside>, <section> & <DIV>](https://www.sitepoint.com/community/t/html-5-when-to-use-article-aside-section-div/5742)
 
 

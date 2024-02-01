@@ -61,4 +61,10 @@
 
 [HTML 5: When to use <article>, <aside>, <section> & <DIV>](https://www.sitepoint.com/community/t/html-5-when-to-use-article-aside-section-div/5742)
 
+[article element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
+
+> A given document can have multiple articles in it; for example, on a blog that shows the text of each article one after another as the reader scrolls, each post would be contained in an <article> element, possibly with one or more <section>s within.
+
+> When an <article> element is nested, the inner element represents an article related to the outer element. For example, the comments of a blog post can be <article> elements nested in the <article> representing the blog post.
+
 

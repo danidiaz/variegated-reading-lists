@@ -413,5 +413,7 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Common Spring Developer Mistakes](https://www.youtube.com/watch?v=nd5JzDIEI6A)
 
+[basic Java tips](https://twitter.com/maciejwalkowiak/status/1752960760064462888)
+
 
 

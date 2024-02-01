@@ -41,8 +41,11 @@
 
 [A Button Per form or One Form with Multiple Buttons](https://kentcdodds.com/calls/04/33/a-button-per-form-or-one-form-with-multiple-buttons). [spotify](https://open.spotify.com/episode/1WvzOGnSSN7GGQiAHnhde7)
 
-[footer](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
+[footer](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer). [sectioning content](https://developer.mozilla.org/en-US/docs/Web/HTML/Content_categories#sectioning_content). [from the spec](https://www.w3.org/TR/2010/WD-html5-20101019/content-models.html#sectioning-content-0)
 
 > represents a footer for its nearest ancestor sectioning content or sectioning root element
+
+> Sectioning content, a subset of flow content, creates a section in the current outline defining the scope of <header> and <footer> elements.
+
 
 

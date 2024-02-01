@@ -681,6 +681,11 @@ https://twitter.com/tailwindcss
 
 [grid stuff](https://twitter.com/jaffathecake/status/1752993098181804408)
 
-[auto-growing inputs and text areas](https://css-tricks.com/auto-growing-inputs-textareas/)
+[auto-growing inputs and text areas](https://css-tricks.com/auto-growing-inputs-textareas/). [more](https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/). [more](https://phuoc.ng/collection/html-dom/make-a-text-area-auto-expand/). [more](https://chriscoyier.net/2023/09/29/css-solves-auto-expanding-textareas-probably-eventually/). [textarea cols](https://html.com/attributes/textarea-cols/).
+
+> It’s important to note that the width attribute will overrule the cols attribute–even if the cols attribute is specified after the width property
+
+
+
 
 

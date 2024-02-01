@@ -681,4 +681,6 @@ https://twitter.com/tailwindcss
 
 [grid stuff](https://twitter.com/jaffathecake/status/1752993098181804408)
 
+[auto-growing inputs and text areas](https://css-tricks.com/auto-growing-inputs-textareas/)
+
 

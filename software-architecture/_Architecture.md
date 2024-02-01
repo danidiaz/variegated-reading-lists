@@ -1451,4 +1451,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Lessons Learned From Payments Startups](https://pgrs.net/2024/01/26/lessons-learned-from-payemnts-startups/)
 
+[cell architectures](https://twitter.com/gwenshap/status/1752897127863533869). [post](https://www.infoq.com/news/2024/01/doordash-service-mesh/).
+
+
+
 

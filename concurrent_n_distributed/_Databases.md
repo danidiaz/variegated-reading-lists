@@ -956,7 +956,7 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Multi-Database Support in DuckDB](https://duckdb.org/2024/01/26/multi-database-support-in-duckdb). [tweet](https://twitter.com/duckdb/status/1750966537031188768).
 
-[CTEs vs temp tables](https://twitter.com/tcarpenter216/status/1752852286358089766)
+[CTEs vs temp tables](https://twitter.com/tcarpenter216/status/1752852286358089766). [SO question](https://dba.stackexchange.com/questions/13112/whats-the-difference-between-a-cte-and-a-temp-table).
 
 # Podcasts
 

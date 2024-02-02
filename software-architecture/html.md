@@ -69,4 +69,6 @@
 
 > When an <article> element is nested, the inner element represents an article related to the outer element. For example, the comments of a blog post can be <article> elements nested in the <article> representing the blog post.
 
+[section element in the HTML living standard](https://html.spec.whatwg.org/#the-section-element)
+
 

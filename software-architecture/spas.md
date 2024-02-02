@@ -369,5 +369,7 @@
 
 [post-redirect-get](https://hachyderm.io/@DiazCarrete/111841132226571708)
 
+[async auth in HTMX](https://htmx.org/examples/async-auth/)
+
 
 

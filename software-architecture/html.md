@@ -47,7 +47,7 @@
 
 > Sectioning content, a subset of flow content, creates a section in the current outline defining the scope of <header> and <footer> elements.
 
-[main doesn't seem to be sectioning content!](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
+[main doesn't seem to be sectioning content!](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main). [why <main> tag of html is not a sectioning content but <aside> is](https://stackoverflow.com/questions/59762687/why-main-tag-of-html-is-not-a-sectioning-content-but-aside-is)
 
 > Content categories Flow content, palpable content.
 

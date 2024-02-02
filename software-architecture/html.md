@@ -41,11 +41,13 @@
 
 [A Button Per form or One Form with Multiple Buttons](https://kentcdodds.com/calls/04/33/a-button-per-form-or-one-form-with-multiple-buttons). [spotify](https://open.spotify.com/episode/1WvzOGnSSN7GGQiAHnhde7)
 
-[footer](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer). [sectioning content](https://developer.mozilla.org/en-US/docs/Web/HTML/Content_categories#sectioning_content). [from the spec](https://www.w3.org/TR/2010/WD-html5-20101019/content-models.html#sectioning-content-0).
+[footer](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer). [sectioning content](https://developer.mozilla.org/en-US/docs/Web/HTML/Content_categories#sectioning_content). [from the spec](https://www.w3.org/TR/2010/WD-html5-20101019/content-models.html#sectioning-content-0). [Is it ok to have section tag within footer tag in HTML5?](https://stackoverflow.com/questions/25945068/is-it-ok-to-have-section-tag-within-footer-tag-in-html5).
 
 > represents a footer for its nearest ancestor sectioning content or sectioning root element
 
 > Sectioning content, a subset of flow content, creates a section in the current outline defining the scope of <header> and <footer> elements.
+
+> <section> can be a descendant of <footer>, however <header>, <footer>, and <main> cannot.
 
 [main doesn't seem to be sectioning content!](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main). [why <main> tag of html is not a sectioning content but <aside> is](https://stackoverflow.com/questions/59762687/why-main-tag-of-html-is-not-a-sectioning-content-but-aside-is)
 

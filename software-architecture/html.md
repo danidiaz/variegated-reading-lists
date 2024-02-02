@@ -63,7 +63,7 @@
 
 [HTML 5: When to use <article>, <aside>, <section> & <DIV>](https://www.sitepoint.com/community/t/html-5-when-to-use-article-aside-section-div/5742)
 
-[article element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
+[article element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article). [spec](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-article-element.html)
 
 > A given document can have multiple articles in it; for example, on a blog that shows the text of each article one after another as the reader scrolls, each post would be contained in an <article> element, possibly with one or more <section>s within.
 

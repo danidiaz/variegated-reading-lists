@@ -14,4 +14,6 @@
 
 [coasian hell](https://ioc.exchange/@invisv/109984592344963986)    
 
+[send signatures, not secrets](https://twitter.com/ProgrammerDude/status/1753834152523084144)
+
 

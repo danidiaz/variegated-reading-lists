@@ -1453,6 +1453,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [cell architectures](https://twitter.com/gwenshap/status/1752897127863533869). [post](https://www.infoq.com/news/2024/01/doordash-service-mesh/).
 
-
+[modularity is not about reuse](https://hachyderm.io/@jasongorman@mastodon.cloud/111311911352630518)
 
 

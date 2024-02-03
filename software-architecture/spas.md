@@ -373,6 +373,8 @@
 
 [How to check and uncheck all checkboxes by clicking one checkbox using alpine js](https://stackoverflow.com/questions/61470556/how-to-check-and-uncheck-all-checkboxes-by-clicking-one-checkbox-using-alpine-js). [reddit](https://www.reddit.com/r/alpinejs/comments/ptgfpd/selectdeselect_all_checkboxes/)
 
+[presigned url flow in htmx?](https://www.reddit.com/r/htmx/comments/1ahb9mq/can_htmx_support_a_presigned_url_flow/)
+
 
 
 

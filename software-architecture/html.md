@@ -71,4 +71,8 @@
 
 [section element in the HTML living standard](https://html.spec.whatwg.org/#the-section-element)
 
+[cancelling events with `preventDefault`](https://developer.mozilla.org/en-US/docs/Web/API/Event/cancelable). [cancel event (not the same thing)](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/cancel_event)
+
+
+
 

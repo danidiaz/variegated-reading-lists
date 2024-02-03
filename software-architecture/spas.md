@@ -371,5 +371,9 @@
 
 [async auth in HTMX](https://htmx.org/examples/async-auth/)
 
+[How to check and uncheck all checkboxes by clicking one checkbox using alpine js](https://stackoverflow.com/questions/61470556/how-to-check-and-uncheck-all-checkboxes-by-clicking-one-checkbox-using-alpine-js). [reddit](https://www.reddit.com/r/alpinejs/comments/ptgfpd/selectdeselect_all_checkboxes/)
+
+
+
 
 

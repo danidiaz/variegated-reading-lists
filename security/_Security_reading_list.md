@@ -770,7 +770,12 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [ssh secrets](https://twitter.com/freebsdfrau/status/1748449153632620767)
 
-[send signatures, not secrets](https://twitter.com/ProgrammerDude/status/1753834152523084144). [original post](https://www.reddit.com/r/nextjs/comments/1ah3kne/is_there_a_way_to_hide_the_api_key/).
+[send signatures, not secrets](https://twitter.com/ProgrammerDude/status/1753834152523084144). [original post](https://www.reddit.com/r/nextjs/comments/1ah3kne/is_there_a_way_to_hide_the_api_key/). [Next.js server actions](https://nextjs.org/docs/app/building-your-application/data-fetching/patterns#fetching-data-on-the-server).
+
+> Whenever possible, we recommend fetching data on the server with Server Components. This allows you to: Have direct access to backend data resources (e.g. databases).  Keep your application more secure by preventing sensitive information, such as access tokens and API keys, from being exposed to the client.
+
+
+
 
 
 

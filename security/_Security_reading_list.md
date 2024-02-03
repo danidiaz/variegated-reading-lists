@@ -770,6 +770,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [ssh secrets](https://twitter.com/freebsdfrau/status/1748449153632620767)
 
+[send signatures, not secrets](https://twitter.com/ProgrammerDude/status/1753834152523084144). [original post](https://www.reddit.com/r/nextjs/comments/1ah3kne/is_there_a_way_to_hide_the_api_key/).
 
 
 

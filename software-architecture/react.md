@@ -991,4 +991,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [the output of rendering Server Components is a tree of Client Components](https://twitter.com/samselikoff/status/1749829002909401186)
 
+[Here's how to do server-side table filtering like @linear](https://twitter.com/jacobmparis/status/1706469083078709635)
+ 
 

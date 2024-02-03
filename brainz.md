@@ -294,6 +294,7 @@ Things for which I found ChatGPT useful:
 
 [a multilingual paradox](https://twitter.com/Dorialexander/status/1752817852006990050)
 
+[ditching copilot](https://twitter.com/mariofusco/status/1753800199116406968)
 
 
 

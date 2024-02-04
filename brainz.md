@@ -296,5 +296,7 @@ Things for which I found ChatGPT useful:
 
 [ditching copilot](https://twitter.com/mariofusco/status/1753800199116406968)
 
+[what do people use LLMs for](https://twitter.com/vboykis/status/1754225996973158461)
+
 
 

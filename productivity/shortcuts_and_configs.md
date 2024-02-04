@@ -539,4 +539,6 @@ chrome://inspect/#pages
 
 [jscpd](https://twitter.com/housecor/status/1751269325313355971)
 
+[jj init](https://lobste.rs/s/pvvbhm/jj_init)
+
 

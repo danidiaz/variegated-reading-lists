@@ -73,6 +73,12 @@
 
 [cancelling events with `preventDefault`](https://developer.mozilla.org/en-US/docs/Web/API/Event/cancelable). [cancel event (not the same thing)](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/cancel_event)
 
+[indeterminate state checkboxes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox#indeterminate_state_checkboxes). [css tricks](https://css-tricks.com/indeterminate-checkboxes/)
 
+> In addition to the checked and unchecked states, there is a third state a checkbox can be in: indeterminate. This is a state in which it's impossible to say whether the item is toggled on or off. This is set using the HTMLInputElement object's indeterminate property via JavaScript (it cannot be set using an HTML attribute)
+
+> There are not many use cases for this property. The most common is when a checkbox is available that "owns" a number of sub-options (which are also checkboxes). If all of the sub-options are checked, the owning checkbox is also checked, and if they're all unchecked, the owning checkbox is unchecked. If any one or more of the sub-options have a different state than the others, the owning checkbox is in the indeterminate state.
+
+> The indeterminate state is visual only. The checkbox is still either checked or unchecked as a state. That means the visual indeterminate state masks the real value of the checkbox, so that better make sense in your UI!
 
 

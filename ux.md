@@ -8,3 +8,6 @@
 
 [Drag and Drop UX Best Practices](https://twitter.com/devilsblush/status/1745745293113704773)
 
+[41 years in UX](https://news.ycombinator.com/item?id=39173528)
+
+

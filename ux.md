@@ -10,6 +10,6 @@
 
 [41 years in UX](https://news.ycombinator.com/item?id=39173528)
 
-[Why is the mouse cursor slightly tilted and not straight?](https://news.ycombinator.com/item?id=39248225)
+[Why is the mouse cursor slightly tilted and not straight?](https://news.ycombinator.com/item?id=39248667)
 
 

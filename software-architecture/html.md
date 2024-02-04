@@ -73,7 +73,7 @@
 
 [cancelling events with `preventDefault`](https://developer.mozilla.org/en-US/docs/Web/API/Event/cancelable). [cancel event (not the same thing)](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/cancel_event)
 
-[indeterminate state checkboxes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox#indeterminate_state_checkboxes). [css tricks](https://css-tricks.com/indeterminate-checkboxes/)
+[indeterminate state checkboxes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox#indeterminate_state_checkboxes). [css tricks](https://css-tricks.com/indeterminate-checkboxes/). [example helper library](https://npm.io/package/select_all).
 
 > In addition to the checked and unchecked states, there is a third state a checkbox can be in: indeterminate. This is a state in which it's impossible to say whether the item is toggled on or off. This is set using the HTMLInputElement object's indeterminate property via JavaScript (it cannot be set using an HTML attribute)
 

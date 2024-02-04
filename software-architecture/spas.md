@@ -375,7 +375,14 @@
 
 [presigned url flow in htmx?](https://www.reddit.com/r/htmx/comments/1ahb9mq/can_htmx_support_a_presigned_url_flow/)
 
+[persist plugin for Alpine.js](https://alpinejs.dev/plugins/persist)
 
+> Alpine's Persist plugin allows you to persist Alpine state across page loads.
 
+> This is useful for persisting search filters, active tabs, and other features where users will be frustrated if their configuration is reset after refreshing or leaving and revisiting a page.
+
+[How Alpine.js keeps track of x-data/state](https://codewithhugo.com/alpinejs-inspect-component-data-from-js/). [keeping layout state on the client](https://www.reddit.com/r/htmx/comments/1aizay4/keeping_layout_state_on_the_client/).
+
+> The short story of how Alpine.js tracks component state (or “data”) is that when it initialises, it runs the content of x-data, wraps it in a proxy (which allows for reactive view updates) and stores it on the component’s root node.
 
 

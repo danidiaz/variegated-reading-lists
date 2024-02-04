@@ -1455,4 +1455,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [modularity is not about reuse](https://hachyderm.io/@jasongorman@mastodon.cloud/111311911352630518)
 
+[AWS re:Invent 2023 - Application architecture as code (GBL301) - English version](https://www.youtube.com/watch?v=vasvpFRPx9c&list=PLsuboX68NN3DL-sYP16NRyaLFRvSexa_s&index=3)
+
 

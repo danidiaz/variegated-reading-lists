@@ -767,4 +767,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [a primer on write skew](https://twitter.com/justinjaffray/status/979037185084096514)
 
+[Some people say serializability is from the database-y research side of things and linearizability is from the distsys-y research side of things.](https://twitter.com/eatonphil/status/1754215016008389022)
+
 

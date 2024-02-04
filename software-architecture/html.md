@@ -81,4 +81,6 @@
 
 > The indeterminate state is visual only. The checkbox is still either checked or unchecked as a state. That means the visual indeterminate state masks the real value of the checkbox, so that better make sense in your UI!
 
+[Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+
 

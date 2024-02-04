@@ -856,3 +856,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > This book is about dynamic programming and its applications in economics, finance, and adjacent fields. It brings together recent innovations in the theory of dynamic programming and provides applications and code that can help readers approach the research frontier. 
 
+[bending Warp](https://magnus.therning.org/2024-02-03-bending-warp.html)
+
+

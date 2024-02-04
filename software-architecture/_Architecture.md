@@ -1457,4 +1457,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [AWS re:Invent 2023 - Application architecture as code (GBL301) - English version](https://www.youtube.com/watch?v=vasvpFRPx9c&list=PLsuboX68NN3DL-sYP16NRyaLFRvSexa_s&index=3)
 
+[Context Control in Go Best practices for handling context plumbing.](https://zenhorace.dev/blog/context-control-go/)
+
 

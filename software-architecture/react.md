@@ -995,4 +995,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
  
 [RCS spinner](https://twitter.com/crutchcorn/status/1754174851936629225)
 
+[You Need React Query Now More Than Ever](https://www.youtube.com/watch?v=vxkbf5QMA2g)
+
 

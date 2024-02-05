@@ -385,4 +385,6 @@
 
 > The short story of how Alpine.js tracks component state (or “data”) is that when it initialises, it runs the content of x-data, wraps it in a proxy (which allows for reactive view updates) and stores it on the component’s root node.
 
+[Where do you draw the line between doing something on the server vs. client?](https://www.reddit.com/r/htmx/comments/1ajcw51/where_do_you_draw_the_line_between_doing/). [master-detail page situation](https://www.reddit.com/r/htmx/comments/1ajbj13/question_about_master_detail_page_situation/). [Keeping layout state on the client](https://www.reddit.com/r/htmx/comments/1aizay4/keeping_layout_state_on_the_client/).
+
 

@@ -997,4 +997,5 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [You Need React Query Now More Than Ever](https://www.youtube.com/watch?v=vxkbf5QMA2g)
 
+[Zod is for *runtime* validation](https://twitter.com/housecor/status/1754498494067245130).
 

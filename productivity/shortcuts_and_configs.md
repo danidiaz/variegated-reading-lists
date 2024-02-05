@@ -547,6 +547,6 @@ chrome://inspect/#pages
 
 [cool log streaming into VSCode?](https://twitter.com/jamesqquick/status/1754554825864249656)
 
-[sticky scroll in VSCode in Chrome](https://twitter.com/stefanjudis/status/1753114552307224635)
+[sticky scroll in VSCode (available both in editor and Workbench)](https://twitter.com/stefanjudis/status/1753114552307224635)
 
 

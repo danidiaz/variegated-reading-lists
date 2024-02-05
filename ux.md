@@ -16,4 +16,3 @@
 
 [Designing Sticky Menus: UX Guidelines](https://www.smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/)
 
-

@@ -83,4 +83,8 @@
 
 [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
+[matching event listeners for removal](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener#matching_event_listeners_for_removal)
+
+[boolean attributes](https://developer.mozilla.org/en-US/docs/Glossary/Boolean/HTML)
+
 

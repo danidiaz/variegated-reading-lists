@@ -541,4 +541,12 @@ chrome://inspect/#pages
 
 [jj init](https://lobste.rs/s/pvvbhm/jj_init)
 
+[Managing a merge queue](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/managing-a-merge-queue)
+
+> Merge limits: Select the minimum and maximum number of pull requests to merge in a single group (between 1 and 100), and a timeout after which the queue should stop waiting for more entries and merge with fewer than the minimum number of pull requests. 
+
+[cool log streaming into VSCode?](https://twitter.com/jamesqquick/status/1754554825864249656)
+
+[sticky scroll in VSCode in Chrome](https://twitter.com/stefanjudis/status/1753114552307224635)
+
 

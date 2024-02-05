@@ -774,6 +774,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > Whenever possible, we recommend fetching data on the server with Server Components. This allows you to: Have direct access to backend data resources (e.g. databases).  Keep your application more secure by preventing sensitive information, such as access tokens and API keys, from being exposed to the client.
 
+[how to use JWTs with HTTP-only cookies to implement basic session-based auth in the App Router](https://twitter.com/leeerob/status/1754296622664523827)
+
 
 
 

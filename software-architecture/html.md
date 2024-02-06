@@ -87,4 +87,12 @@
 
 [boolean attributes](https://developer.mozilla.org/en-US/docs/Glossary/Boolean/HTML)
 
+[Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events). [event handling attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes#event_handler_attributes).
+
+> The earliest method of registering event handlers found on the Web involved event handler HTML attributes (or inline event handlers) like the one shown above — the attribute value is literally the JavaScript code you want to run when the event occurs. 
+
+> You can find HTML attribute equivalents for many of the event handler properties; however, you shouldn't use these — they are considered bad practice. It might seem easy to use an event handler attribute if you are doing something really quick, but they quickly become unmanageable and inefficient.
+
+> All event handler attributes accept a string. The string will be used to synthesize a JavaScript function like function name(/*args*/) {body}, where name is the attribute's name, and body is the attribute's value. The handler receives the same parameters as its JavaScript event handler counterpart — most handlers receive only one event parameter
+
 

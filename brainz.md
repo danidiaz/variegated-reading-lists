@@ -298,5 +298,7 @@ Things for which I found ChatGPT useful:
 
 [what do people use LLMs for](https://twitter.com/vboykis/status/1754225996973158461)
 
+[just putting in more stuff](https://nostalgebraist.tumblr.com/post/741247180226052096/i-dont-think-youre-drawing-the-right-lesson-from)
+
 
 

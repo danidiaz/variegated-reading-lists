@@ -999,3 +999,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Zod is for *runtime* validation](https://twitter.com/housecor/status/1754498494067245130).
 
+[When to break up a component into multiple components](https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components)
+
+

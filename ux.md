@@ -16,3 +16,5 @@
 
 [Designing Sticky Menus: UX Guidelines](https://www.smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/)
 
+[AS400 green screens](https://twitter.com/htmx_org/status/1754649321725698461)
+

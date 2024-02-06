@@ -551,4 +551,14 @@ chrome://inspect/#pages
 
 [combining branches in Git](https://wizardzines.com/comics/combining-branches/)
 
+[Does git rebase create more conflicts than git merge?](https://stackoverflow.com/questions/34298273/does-git-rebase-create-more-conflicts-than-git-merge). [Git: Why does rebase result in conflicts while merge does not?](https://stackoverflow.com/questions/38391714/git-why-does-rebase-result-in-conflicts-while-merge-does-not?rq=3). [more](https://stackoverflow.com/questions/16283424/is-it-true-that-rebase-leads-to-a-fewer-number-of-conflicts-than-merge?rq=3). [Is merge without conflicts equivalent to rebase without conflicts? (no)](https://stackoverflow.com/questions/44530822/is-merge-without-conflicts-equivalent-to-rebase-without-conflicts?rq=3). [git merge vs git rebase for merge conflict scenarios](https://stackoverflow.com/questions/59622140/git-merge-vs-git-rebase-for-merge-conflict-scenarios?rq=3). [Git conflicts in rebase vs merge](https://stackoverflow.com/questions/66090607/git-conflicts-in-rebase-vs-merge?rq=3). [more](https://stackoverflow.com/a/54824509/1364288). [in one go](https://www.reddit.com/r/ProgrammerHumor/comments/12pp3et/comment/jgqt6x0/)
+
+> With a rebase you run a high risk of having to resolve more conflicts, because two changes to the same codeblock that were done in two different commits might result in two conflicts during rebase, but only one in merge. Think about what happens when H is actually a revert of F.
+Even if you have the same number of conflicts, rebasing is still a more tedious process: You have to open the same file multiple to times to resolve conflicts that happened at different commits.
+
+> In my opinion rebase is actually the worse process and while that might be possible I am having trouble imagining a situation where it actually avoids conflicts. 
+
+> One advantage of rebasing is that you can rebase on a portion of the total commits, stabilize, commit resolutions and you now have an atomic unit of progress that can be resumed later. This can be MUCH less daunting. In fact you can rebase some then merge the rest. More flexible.
+
+
 

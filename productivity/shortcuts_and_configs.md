@@ -549,4 +549,6 @@ chrome://inspect/#pages
 
 [sticky scroll in VSCode (available both in editor and Workbench)](https://twitter.com/stefanjudis/status/1753114552307224635)
 
+[combining branches in Git](https://wizardzines.com/comics/combining-branches/)
+
 

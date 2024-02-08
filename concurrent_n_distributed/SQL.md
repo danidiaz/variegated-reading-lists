@@ -11,4 +11,6 @@
 
 [TSQL Table-Valued Functions And Dynamic M Parameters In Power BI DirectQuery](https://blog.crossjoin.co.uk/2022/02/20/tsql-table-valued-functions-and-dynamic-m-parameters-in-power-bi-directquery/)
 
+[distributed systems reading list](https://ferd.ca/a-distributed-systems-reading-list.html). [hn](https://news.ycombinator.com/item?id=39303160)
+
 

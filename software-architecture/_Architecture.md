@@ -1459,7 +1459,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Context Control in Go Best practices for handling context plumbing.](https://zenhorace.dev/blog/context-control-go/)
 
-[Go queue on postgres](https://github.com/dataddo/pgq)
+[Go queue on postgres](https://github.com/dataddo/pgq). [   River: A fast, robust job queue for Go and Postgres ](https://news.ycombinator.com/item?id=38349716). [tweet](https://twitter.com/samokhvalov/status/1726699397579493382).
 
 - Every queue is the single postgres table.
 

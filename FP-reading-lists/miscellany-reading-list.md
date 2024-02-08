@@ -858,4 +858,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [bending Warp](https://magnus.therning.org/2024-02-03-bending-warp.html)
 
+[first-class records in Haskell with prairie](https://twitter.com/mattoflambda/status/1755653277666967913)
+
 

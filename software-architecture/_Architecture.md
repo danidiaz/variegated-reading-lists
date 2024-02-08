@@ -1465,4 +1465,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 - You maintain the table on your own. You can extend it as you need.
 
+[the issue with repositories](https://twitter.com/chrislpenner/status/1755652305058492856)
+
 

@@ -776,6 +776,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [how to use JWTs with HTTP-only cookies to implement basic session-based auth in the App Router](https://twitter.com/leeerob/status/1754296622664523827)
 
+[auth0 for personal projects](https://twitter.com/tonialaribe/status/1755683304836116745)
+
 
 
 

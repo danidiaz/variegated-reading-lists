@@ -276,6 +276,7 @@
 
 [look for examples in github](https://twitter.com/therealdanvega/status/1753496150282228201)
 
-[to review or not to review](https://twitter.com/bernhardsson/status/1755633103865831679)
+[to review or not to review](https://twitter.com/bernhardsson/status/1755633103865831679). [EAFP bureacracy vs LBYL bureacracy](https://twitter.com/ryxcommar/status/1756001595563643144).
+
 
 

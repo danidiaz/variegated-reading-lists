@@ -389,4 +389,6 @@
 
 [client-side scripting](https://hypermedia.systems/client-side-scripting/)
 
+[Just enough CORS to not get stuck](https://lobste.rs/s/gwlpuu/just_enough_cors_not_get_stuck)
+
 

@@ -769,4 +769,8 @@ https://news.ycombinator.com/item?id=25061901
 
 [Some people say serializability is from the database-y research side of things and linearizability is from the distsys-y research side of things.](https://twitter.com/eatonphil/status/1754215016008389022)
 
+[A distributed systems reading list | Hacker News](https://news.ycombinator.com/item?id=39303160)
+
+[An intuition for distributed consensus in OLTP systems](https://notes.eatonphil.com/2024-02-08-an-intuition-for-distributed-consensus-in-oltp-systems.html)
+
 

@@ -685,6 +685,8 @@ https://twitter.com/tailwindcss
 
 > It’s important to note that the width attribute will overrule the cols attribute–even if the cols attribute is specified after the width property
 
+[Concrete.css](https://news.ycombinator.com/item?id=39297949)
+
 
 
 

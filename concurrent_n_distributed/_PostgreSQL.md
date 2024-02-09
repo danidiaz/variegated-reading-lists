@@ -391,4 +391,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Transactionally Staged Job Drains in Postgres](https://brandur.org/job-drain). [lobsters](https://lobste.rs/s/jtarg2/lessons_learned_from_payments_startups).
 
+[Transforming Postgres into a Fast OLAP Database](https://news.ycombinator.com/item?id=39263760)
+
 

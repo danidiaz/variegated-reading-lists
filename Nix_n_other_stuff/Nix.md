@@ -1154,4 +1154,36 @@ What! This does work! How to go in the opposite direction?
 
 [Flakes aren't real and can't hurt you](https://lobste.rs/s/exlaeq/flakes_aren_t_real_cannot_hurt_you_guide)
 
+[nix upgrade-nix](https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-upgrade-nix)
+
+[Using nixpkgs.legacyPackages.${system} vs import](https://discourse.nixos.org/t/using-nixpkgs-legacypackages-system-vs-import/17462)
+
+[Question regarding flake inputs: Why do they have to be a static set and can not be "calculated"](https://www.reddit.com/r/NixOS/comments/176ygv0/question_regarding_flake_inputs_why_do_they_have/)
+
+[flake inputs](https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-flake#flake-inputs). [indirect inputs (through the flake registry)](https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-flake#types)
+
+> It is also possible to omit an input entirely and only list it as expected function argument to outputs. Thus,
+> 
+> outputs = { self, nixpkgs }: ...;
+> without an inputs.nixpkgs attribute is equivalent to
+> 
+> 
+> inputs.nixpkgs = {
+>   type = "indirect";
+>     id = "nixpkgs";
+>     };
+>
+
+[how to debug flakes](https://discourse.nixos.org/t/debugging-a-flake/14898/2)
+
+> nix-repl> :load-flake .
+
+[Haskell section of the Nixpkgs manual](https://nixos.org/manual/nixpkgs/unstable/#haskell). [incremental builds](https://nixos.org/manual/nixpkgs/unstable/#haskell-incremental-builds)
+
+> when you want to override the arguments passed to haskellPackages.mkDerivation. For this, the function overrideCabal from haskell.lib.compose is used
+
+[derivations](https://nixos.org/manual/nix/stable/language/derivations.html)
+
+> You can refer to each output of a derivation by selecting it as an attribute. The first element of outputs determines the default output and ends up at the top-level.
+
 

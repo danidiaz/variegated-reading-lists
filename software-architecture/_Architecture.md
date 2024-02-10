@@ -1467,6 +1467,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [the issue with repositories](https://twitter.com/chrislpenner/status/1755652305058492856)
 
-[(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://lobste.rs/s/pgahrv/almost_every_infrastructure_decision_i)
+[(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://lobste.rs/s/pgahrv/almost_every_infrastructure_decision_i). [HN](https://news.ycombinator.com/item?id=39313623)
 
 

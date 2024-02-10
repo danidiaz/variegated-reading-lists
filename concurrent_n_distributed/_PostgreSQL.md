@@ -395,4 +395,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [What’s new in the Postgres 16 query planner / optimizer](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
 
+[Postgres as queue](https://news.ycombinator.com/item?id=39323542)
+
 

@@ -391,4 +391,6 @@
 
 [Just enough CORS to not get stuck](https://lobste.rs/s/gwlpuu/just_enough_cors_not_get_stuck)
 
+[How I write HTTP services in Go after 13 years](https://news.ycombinator.com/item?id=39318867)
+
 

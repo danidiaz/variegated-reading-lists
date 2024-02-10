@@ -77,4 +77,12 @@
 
 [GA - RUNNER_TEMP](https://docs.github.com/en/actions/learn-github-actions/variables)
 
+[Buildkite metadata](https://forum.buildkite.community/t/need-clarification-on-meta-data-usage-pattern/762)
+
+> Meta-data is intended for simple pieces of key/value data that you want to use to identify or filter your builds. It can be used to filter results when looking at a list of builds on buildkite.com, when using the builds api, or to transport small values between jobs in the same build using the agent meta-data commands 3.
+
+[How call rest api in command step in buildkite?](https://stackoverflow.com/questions/76983485/how-call-rest-api-in-command-step-in-buildkite)
+
+[Exporting Buildkite settings with environment hooks](https://buildkite.com/docs/pipelines/secrets#exporting-secrets-with-environment-hooks)
+
 

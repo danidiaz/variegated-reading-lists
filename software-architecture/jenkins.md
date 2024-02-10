@@ -85,4 +85,15 @@
 
 [Exporting Buildkite settings with environment hooks](https://buildkite.com/docs/pipelines/secrets#exporting-secrets-with-environment-hooks)
 
+[Run your GitHub Actions workflow on a schedule](https://jasonet.co/posts/scheduled-actions/). [Events that trigger workflows](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows). [the schedule event](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule)
+
+> The schedule event allows you to trigger a workflow at a scheduled time.
+
+> Scheduled workflows run on the latest commit on the default or base branch.
+
+> A single workflow can be triggered by multiple schedule events. You can access the schedule event that triggered the workflow through the github.event.schedule context. 
+
+[GitHub actions contexts](https://docs.github.com/en/actions/learn-github-actions/contexts)
+
+
 

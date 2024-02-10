@@ -425,4 +425,13 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Managing Asynchronous Workflows with a REST API | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/managing-asynchronous-workflows-with-a-rest-api/). [From Poll to Push: Transform APIs using Amazon API Gateway REST APIs and WebSockets](https://aws.amazon.com/es/blogs/compute/from-poll-to-push-transform-apis-using-amazon-api-gateway-rest-apis-and-websockets/)
 
+[Choosing the right solution for AWS Lambda external parameters](https://aws.amazon.com/es/blogs/compute/choosing-the-right-solution-for-aws-lambda-external-parameters/). [Lambda to SSM Parameter Store example](https://serverlessland.com/patterns/lambda-ssm). [AWS Systems Manager Parameter Store](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html)
+
+> Parameter Store provides a centralized store to manage configuration data. This data can be plaintext or encrypted using AWS Key Management Service (KMS). Parameters can be tagged and organized into hierarchies for simpler management. Parameter Store is a good default choice for general-purpose parameters in AWS. The standard version (no additional charge) can store parameters up to 4 KB in size
+
+> Parameter Store, a capability of AWS Systems Manager, provides secure, hierarchical storage for configuration data management and secrets management. You can store data such as passwords, database strings, Amazon Machine Image (AMI) IDs, and license codes as parameter values. 
+
+> A Parameter Store parameter is any piece of data that is saved in Parameter Store, such as a block of text, a list of names, a password, an AMI ID, a license key, and so on. You can centrally and securely reference this data in your scripts, commands, and SSM documents.
+
+
 

@@ -842,7 +842,7 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [What Nix Can Do](https://www.youtube.com/watch?v=6Le0IbPRzOE)
 
-[1000 instances of nixpkgs](https://zimbatm.com/notes/1000-instances-of-nixpkgs). [Using nixpkgs.legacyPackages.${system} vs import](https://discourse.nixos.org/t/using-nixpkgs-legacypackages-system-vs-import/17462/6)
+[1000 instances of nixpkgs](https://zimbatm.com/notes/1000-instances-of-nixpkgs). [Using nixpkgs.legacyPackages.${system} vs import](https://discourse.nixos.org/t/using-nixpkgs-legacypackages-system-vs-import/17462/6). [discourse](https://discourse.nixos.org/t/1000-instances-of-nixpkgs/17347)
 
 > nixpkgs overlays are super useful. They are a mechanism that allows taking nixpkgs, and extending it with your own packages and overrides. In most cases, it’s more manageable than forking nixpkgs and managing your own long-running branch. NixOS also doesn’t provide a standard way to have other package sets so it makes sense to have them all in one. Those two reasons are what made them popular.
 

@@ -393,4 +393,6 @@
 
 [How I write HTTP services in Go after 13 years](https://news.ycombinator.com/item?id=39318867)
 
+[A common case of needless state: Dialog visibility.](https://twitter.com/housecor/status/1756682543624077355)
+
 

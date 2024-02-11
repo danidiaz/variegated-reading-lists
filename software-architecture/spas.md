@@ -395,4 +395,6 @@
 
 [A common case of needless state: Dialog visibility.](https://twitter.com/housecor/status/1756682543624077355)
 
+[CORS-safelisted request header](https://developer.mozilla.org/en-US/docs/Glossary/CORS-safelisted_request_header)
+
 

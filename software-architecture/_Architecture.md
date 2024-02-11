@@ -1469,4 +1469,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://lobste.rs/s/pgahrv/almost_every_infrastructure_decision_i). [HN](https://news.ycombinator.com/item?id=39313623)
 
+[Modular Monolith: Is This the Trend in Software Architecture?](https://arxiv.org/abs/2401.11867)
+
 

@@ -397,4 +397,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Postgres as queue](https://news.ycombinator.com/item?id=39323542)
 
+[Postgres for everything](https://www.amazingcto.com/postgres-for-everything/)
+
 

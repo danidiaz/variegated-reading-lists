@@ -1001,4 +1001,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [When to break up a component into multiple components](https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components)
 
+[RSC internals](https://twitter.com/dan_abramov2/status/1756594513076687323)
+
 

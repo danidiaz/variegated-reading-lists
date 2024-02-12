@@ -778,7 +778,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [auth0 for personal projects](https://twitter.com/tonialaribe/status/1755683304836116745)
 
-
+[Web Security Basics (with htmx)](https://htmx.org/essays/web-security-basics-with-htmx/)
 
 
 

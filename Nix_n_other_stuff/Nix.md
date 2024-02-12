@@ -1156,7 +1156,9 @@ What! This does work! How to go in the opposite direction?
 
 [nix upgrade-nix](https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-upgrade-nix)
 
-[Using nixpkgs.legacyPackages.${system} vs import](https://discourse.nixos.org/t/using-nixpkgs-legacypackages-system-vs-import/17462)
+[Using nixpkgs.legacyPackages.${system} vs import](https://discourse.nixos.org/t/using-nixpkgs-legacypackages-system-vs-import/17462). [more](https://discourse.nixos.org/t/using-nixpkgs-legacypackages-system-vs-import/17462/17?u=danidiaz)
+
+> Note also that the flake registry by default sets nixpkgs to the unstable branch, and updates this automatically when you run nix commands after a time out of - I believe - a few hours. This is also why e.g. nix run nixpkgs#package will almost always download stuff by default (the latest nixpkgs unstable).
 
 [Question regarding flake inputs: Why do they have to be a static set and can not be "calculated"](https://www.reddit.com/r/NixOS/comments/176ygv0/question_regarding_flake_inputs_why_do_they_have/)
 

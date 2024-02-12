@@ -227,6 +227,8 @@
 
 [How are zlib, gzip and zip related?](https://news.ycombinator.com/item?id=38432127)
 
+[bootloader debugging story](https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/)
+
 
 
 

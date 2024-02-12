@@ -300,5 +300,6 @@ Things for which I found ChatGPT useful:
 
 [just putting in more stuff](https://nostalgebraist.tumblr.com/post/741247180226052096/i-dont-think-youre-drawing-the-right-lesson-from)
 
+[self-attention](https://twitter.com/mattecapu/status/1756999384338670067)  
 
 

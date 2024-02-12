@@ -1003,4 +1003,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [RSC internals](https://twitter.com/dan_abramov2/status/1756594513076687323)
 
+[without JS, or before JS? Progressive enhancement](https://twitter.com/TkDodo/status/1757090537255919765). [hydration](https://twitter.com/htmxpert/status/1757077200870736328). [more](https://twitter.com/ryanflorence/status/1689683745258033153).
+
 

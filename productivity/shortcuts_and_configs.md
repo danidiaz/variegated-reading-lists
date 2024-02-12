@@ -566,4 +566,6 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 > In reality, your conflicts can keep popping up because each commit will have its own incompatibilities with your new base commit.
 
+[getting better at the keyboard](https://twitter.com/DaschnerS/status/1757015947909489098).
+
 

@@ -570,4 +570,6 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [gits tips and tricks](https://news.ycombinator.com/item?id=39356042)
 
+[github commit statuses using the API](https://docs.github.com/en/rest/commits/statuses?apiVersion=2022-11-28)
+
 

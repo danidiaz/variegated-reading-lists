@@ -777,6 +777,8 @@ Bernini, his life and his Rome
 
 [world traversal & fast travel](https://twitter.com/NickDCarver/status/1749894605745602714). [post](https://www.pcgamer.com/dragons-dogma-2s-director-didnt-want-his-game-to-rely-on-fast-travel-travel-is-boring-thats-not-true-its-only-an-issue-because-your-game-is-boring/)
 
+[el retrato de la ciudad](https://mastodon.social/@DiazCarrete/111914640835569570). [paper](https://www.academia.edu/35836642/El_nacimiento_de_un_nuevo_g%C3%A9nero_de_representaci%C3%B3n_el_retrato_de_la_ciudad).
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

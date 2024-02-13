@@ -278,6 +278,7 @@
 
 [to review or not to review](https://twitter.com/bernhardsson/status/1755633103865831679). [EAFP bureacracy vs LBYL bureacracy](https://twitter.com/ryxcommar/status/1756001595563643144).
 
-[everything owned by no one will eventually be owned by infrastructure](https://twitter.com/mipsytipsy/status/1757282004658503736)
+[everything owned by no one will eventually be owned by infrastructure](https://twitter.com/mipsytipsy/status/1757282004658503736). [more](https://twitter.com/hipsterelectron/status/1757197512572637600).
+
 
 

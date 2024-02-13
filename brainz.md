@@ -306,5 +306,7 @@ Things for which I found ChatGPT useful:
 
 [how a transformer works](https://twitter.com/revhowardarson/status/1757304946788274391)
 
+[Memory and new controls for ChatGPT](https://openai.com/blog/memory-and-new-controls-for-chatgpt). [hn](https://news.ycombinator.com/item?id=39360724).
+
 
 

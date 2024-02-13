@@ -860,4 +860,11 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [first-class records in Haskell with prairie](https://twitter.com/mattoflambda/status/1755653277666967913)
 
+[parameter order](https://news.ycombinator.com/item?id=34749105)
+
+> Implicit currying turning what should be obvious argument count errors into type errors on unrelated lines.
+
+> Implicit currying making parameter order overly significant. This drives languages to introduce infix pipe operators with unintuitive precedence and to bikeshed forward vs backward piping. This could all be done away with by having a dedicated partial application syntax.
+
+
 

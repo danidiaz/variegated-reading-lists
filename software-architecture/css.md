@@ -687,7 +687,7 @@ https://twitter.com/tailwindcss
 
 [Concrete.css](https://news.ycombinator.com/item?id=39297949)
 
-
+[how to center a div](https://www.joshwcomeau.com/css/center-a-div/)
 
 
 

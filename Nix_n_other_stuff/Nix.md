@@ -1194,7 +1194,12 @@ What! This does work! How to go in the opposite direction?
 
 [Ephemeral Environments with Nix Shell](https://www.youtube.com/watch?v=0ulldVwZiKA)
 
-[RPATH, or why lld doesn’t work on NixOS](https://matklad.github.io/2022/03/14/rpath-or-why-lld-doesnt-work-on-nixos.html) 
+[RPATH, or why lld doesn’t work on NixOS](https://matklad.github.io/2022/03/14/rpath-or-why-lld-doesnt-work-on-nixos.html). [HN](https://news.ycombinator.com/item?id=30688815).
 
 > Curious observation: dynamic linking on NixOS is not entirely dynamic. Because executables expect to find shared libraries in specific locations marked with hashes of the libraries themselves, it’s not possible to just upgrade .so on disk for all the binaries to pick it up.
+
+> `patchelf` solves a different problem: it fixes up an already built binary. Here, I am building the binary myself, so I’d rather make that just work without any extra build steps.
+
+> Patchelf is indispensible for beating sense into third-party closed-source shared objects.
+
 

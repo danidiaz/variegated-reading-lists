@@ -304,5 +304,7 @@ Things for which I found ChatGPT useful:
 
 [describing potential errors](https://twitter.com/patio11/status/1757426785837298055). [language translation](https://twitter.com/tallinzen/status/1757202478683013544).
 
+[how a transformer works](https://twitter.com/revhowardarson/status/1757304946788274391)
+
 
 

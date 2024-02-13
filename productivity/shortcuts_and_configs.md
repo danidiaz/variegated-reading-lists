@@ -568,4 +568,6 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [getting better at the keyboard](https://twitter.com/DaschnerS/status/1757015947909489098).
 
+[gits tips and tricks](https://news.ycombinator.com/item?id=39356042)
+
 

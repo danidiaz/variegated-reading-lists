@@ -1192,8 +1192,9 @@ What! This does work! How to go in the opposite direction?
 
 > You can refer to each output of a derivation by selecting it as an attribute. The first element of outputs determines the default output and ends up at the top-level.
 
+[Ephemeral Environments with Nix Shell](https://www.youtube.com/watch?v=0ulldVwZiKA)
+
 [RPATH, or why lld doesn’t work on NixOS](https://matklad.github.io/2022/03/14/rpath-or-why-lld-doesnt-work-on-nixos.html) 
 
 > Curious observation: dynamic linking on NixOS is not entirely dynamic. Because executables expect to find shared libraries in specific locations marked with hashes of the libraries themselves, it’s not possible to just upgrade .so on disk for all the binaries to pick it up.
-
 

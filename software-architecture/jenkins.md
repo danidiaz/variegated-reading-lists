@@ -95,5 +95,30 @@
 
 [GitHub actions contexts](https://docs.github.com/en/actions/learn-github-actions/contexts)
 
+[Buildkite - defining your pipeline steps](https://buildkite.com/docs/pipelines/defining-steps). [file](https://buildkite.com/docs/pipelines/defining-steps#step-defaults-pipeline-dot-yml-file).
+
+> Pipeline steps are defined in YAML and are either stored in Buildkite or in your repository using a pipeline.yml file.
+
+[Buildkite - Trigger step](https://buildkite.com/docs/pipelines/trigger-step)
+
+> A trigger step creates a build on another pipeline.
+
+[Buildkite - Shallow clones? (2019)](https://forum.buildkite.community/t/shallow-clones/282). [blobless clones, treeless clones, shallow clones](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/). 
+
+> BUILDKITE_GIT_CLONE_FLAGS
+
+> it seems that the clone process is only in the beginning when our yml gets loaded and after that its only fetching the repo.
+
+> Blobless clones definitely feel much faster than full clones, and don’t have the broken-history problem that a shallow clone has (blobs are fetched on-demand, but the full commit history is present).
+
+> Treeless clones are mentioned as being useful for CI builds in which you’re throwing away the clone after the build
+
+> git clone --filter=tree:0 <url> creates a treeless clone. These clones download all reachable commits while fetching trees and blobs on-demand. These clones are best for build environments where the repository will be deleted after a single build, but you still need access to commit history.
+
+[cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin)
+
+[Git clone flags in the agent configuration](https://buildkite.com/docs/agent/v3/configuration#git-clone-flags)
+
+[Buildkite - Pre-checkout. clone another repo](https://forum.buildkite.community/t/pre-checkout-clone-another-repo/2053)
 
 

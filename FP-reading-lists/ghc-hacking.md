@@ -397,3 +397,6 @@ Essential reading! Covers:
 
 > You might start by looking at what has been allocated: which types of closures and which constructors are contributing significantly to the problem. Then perhaps it’s prudent to look at why a closure has been allocated by the info table provenance information. This will tell you from which point in the source code your allocations are coming from. But if if you then turned to investigate when a closure was allocated during the lifecycle of your program, you end up being stuck.
 
+[time-ghc-modules can draw treemaps](https://www.reddit.com/r/haskell/comments/1aqg2q6/ann_timeghcmodules_can_draw_treemaps_now/)
+
+

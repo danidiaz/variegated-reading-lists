@@ -1007,5 +1007,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [nothing new under the sun](https://twitter.com/dan_abramov2/status/1758121064360497192)
 
+[status feb 2024](https://twitter.com/reactjs/status/1758203342545961001). [new apis](https://twitter.com/acdlite/status/1758229889595977824).
 
 

@@ -1009,4 +1009,5 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [status feb 2024](https://twitter.com/reactjs/status/1758203342545961001). [new apis](https://twitter.com/acdlite/status/1758229889595977824).
 
+[Javascript - inline code considered harmful](https://web.dev/articles/csp#inline-code-considered-harmful). No explicit onclicks!
 

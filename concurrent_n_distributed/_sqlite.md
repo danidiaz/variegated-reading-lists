@@ -65,10 +65,5 @@
 
 [starting with sqlite](https://twitter.com/simonw/status/1752043154445074643)
 
-
-
-
-
-
-
+[Optimizing SQLite for servers](https://kerkour.com/sqlite-for-servers)
 

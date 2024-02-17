@@ -397,4 +397,9 @@
 
 [CORS-safelisted request header](https://developer.mozilla.org/en-US/docs/Glossary/CORS-safelisted_request_header)
 
+[a bad idea: query params in cookie](https://twitter.com/t3dotgg/status/1758300512955560322)
+
+> when I open a new tab to search for things on this site, it breaks the other tabs
+
+
 

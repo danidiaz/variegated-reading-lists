@@ -1471,4 +1471,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Modular Monolith: Is This the Trend in Software Architecture?](https://arxiv.org/abs/2401.11867)
 
+[Give me /events, not webhooks](https://news.ycombinator.com/item?id=27823109)
+
 

@@ -780,7 +780,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Web Security Basics (with htmx)](https://htmx.org/essays/web-security-basics-with-htmx/)
 
-
+[Cloud cryptography demystified: Amazon Web Services](https://lobste.rs/s/ke89vp/cloud_cryptography_demystified_amazon)
 
 
 

@@ -1202,4 +1202,17 @@ What! This does work! How to go in the opposite direction?
 
 > Patchelf is indispensible for beating sense into third-party closed-source shared objects.
 
+[How to know whether evaluation is (im)pure during runtime?](https://discourse.nixos.org/t/how-to-know-whether-evaluation-is-im-pure-during-runtime/20795). [How to tell what's making a flake impure?](https://discourse.nixos.org/t/how-to-tell-whats-making-a-flake-impure-inherit-macos-security/26105). [How to use builtins.currentSystem in flake output?](https://discourse.nixos.org/t/how-to-use-builtins-currentsystem-in-flake-output/10489). [Mastodon](https://hachyderm.io/@DiazCarrete/111948405408131247).
 
+```
+~$ env FOO=foo nix eval --expr 'builtins.getEnv "FOO"'
+""
+~$ env FOO=foo nix eval --impure --expr 'builtins.getEnv "FOO"'
+"foo"
+```
+
+[How can we pass argument to flake.nix?](https://discourse.nixos.org/t/how-can-we-pass-argument-to-flake-nix/30833). [Override flakes inputs transitively ](https://discourse.nixos.org/t/override-flakes-inputs-transitively/16903). [Allow plain Nix expressions as flake inputs](https://github.com/NixOS/nix/issues/5663).
+
+[Dirty Nix flake quality-of-life hacks](https://siraben.dev/2022/02/13/nix-flake-hacks.html)
+
+[nix/readTree](https://code.tvl.fyi/about/nix/readTree)

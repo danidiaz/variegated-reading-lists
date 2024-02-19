@@ -308,5 +308,7 @@ Things for which I found ChatGPT useful:
 
 [Memory and new controls for ChatGPT](https://openai.com/blog/memory-and-new-controls-for-chatgpt). [hn](https://news.ycombinator.com/item?id=39360724).
 
+[Representation Engineering: Mistral-7B on Acid](https://news.ycombinator.com/item?id=39414532)
+
 
 

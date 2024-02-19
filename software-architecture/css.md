@@ -691,4 +691,10 @@ https://twitter.com/tailwindcss
 
 [:has, scope, layer, colors, scrolling stuff, popovers, container units, ...](https://twitter.com/chriscoyier/status/1757826338722058444)
 
+[more Tailwind drama](https://lobste.rs/s/wxcprx/tailwind_semantics_vs_utility). [more](https://lobste.rs/s/wxcprx/tailwind_css_marketing_misinformation).
+
+[fouc](https://twitter.com/ascorbic/status/1758434364117991914). [more](https://twitter.com/htmx_org/status/1671247823235432449). [more](https://twitter.com/sebastienlorber/status/1325710626149310465).
+
+
+
 

@@ -574,4 +574,6 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [git - trees vs. blobs](https://stackoverflow.com/questions/39400848/in-github-urls-what-is-the-difference-between-a-tree-and-a-blob)
 
+[never-ending txt file](https://news.ycombinator.com/item?id=39432876)
+
 

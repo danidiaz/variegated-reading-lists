@@ -1216,3 +1216,7 @@ What! This does work! How to go in the opposite direction?
 [Dirty Nix flake quality-of-life hacks](https://siraben.dev/2022/02/13/nix-flake-hacks.html)
 
 [nix/readTree](https://code.tvl.fyi/about/nix/readTree)
+
+[Managing dotfiles on macOS with Nix](https://lobste.rs/s/usq8dk/managing_dotfiles_on_macos_with_nix)
+
+

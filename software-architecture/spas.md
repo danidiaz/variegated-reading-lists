@@ -401,5 +401,6 @@
 
 > when I open a new tab to search for things on this site, it breaks the other tabs
 
+[Easily add authentication for users to your website using Auth0](https://www.youtube.com/watch?v=KN80fZjjzpk). [100 things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/).
 
 

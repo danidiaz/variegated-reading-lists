@@ -280,5 +280,6 @@
 
 [everything owned by no one will eventually be owned by infrastructure](https://twitter.com/mipsytipsy/status/1757282004658503736). [more](https://twitter.com/hipsterelectron/status/1757197512572637600).
 
+[professional programming](https://github.com/charlax/professional-programming). [tweet](https://twitter.com/GergelyOrosz/status/1759575572173176871).
 
 

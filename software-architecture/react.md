@@ -1011,3 +1011,8 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Javascript - inline code considered harmful](https://web.dev/articles/csp#inline-code-considered-harmful). No explicit onclicks!
 
+[react-strict-dom](https://twitter.com/dan_abramov2/status/1760245165703184516)
+
+[remix + vite](https://twitter.com/kentcdodds/status/1760070643142512873)
+
+

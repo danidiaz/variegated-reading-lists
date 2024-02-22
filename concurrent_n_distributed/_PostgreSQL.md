@@ -399,4 +399,11 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Postgres for everything](https://www.amazingcto.com/postgres-for-everything/)
 
+[My Notes on Gitlab's Postgres Schema Design ](https://news.ycombinator.com/item?id=39413972)
+
+> It is generally a good practice to not expose your primary keys to the external world. This is especially important when you use sequential auto-incrementing identifiers with type integer or bigint since they are guessable.
+
+> In my work I have made the mistake of standardizing on primary key types. This means standardizing on either bigint or uuid so all tables will have the same type irrespective of their structure, access patterns, and growth rate.
+
+
 

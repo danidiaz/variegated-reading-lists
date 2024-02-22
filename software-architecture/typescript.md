@@ -194,5 +194,19 @@ const conforms: OnlyBoolsAndHorses = {
 
 [homomorphic mapped types](https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/)
 
+[How To Set The Value Of A File Input](https://pqina.nl/blog/set-value-to-file-input/)
+
+> It’s always been impossible to set the value of a file input element with JavaScript, but this has changed last year 
+
+> When we’re in control of the backend we can create an API to handle asynchronous file uploads or convert base64 encoded files back to file ojects. But there are a lot of situations where we don’t control the backend.
+
+> We built a web component and don’t know where it’s going to be used.
+
+> In all these situations there’s no way to upload File objects created in the browser.
+
+> The moment we can set the value of a file input the backend seizes to be part of the equation, meaning we can finally progressively enhance the file input element.
+
+[CustomEvent](https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent).
+
 
 

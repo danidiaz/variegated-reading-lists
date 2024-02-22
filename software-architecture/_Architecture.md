@@ -1473,4 +1473,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Give me /events, not webhooks](https://news.ycombinator.com/item?id=27823109)
 
+["Anatomy of a Spring Boot App with Clean Architecture"](https://twitter.com/sergialmar/status/1760594547661279508)
+
+[Why are non-DRY specs more maintainable?](https://lobste.rs/s/mu2c6n/why_are_non_dry_specs_more_maintainable)
+
 

@@ -403,4 +403,8 @@
 
 [Easily add authentication for users to your website using Auth0](https://www.youtube.com/watch?v=KN80fZjjzpk). [100 things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/).
 
+[Alpine and CSPs](https://news.ycombinator.com/item?id=34366454)
+
+[GET forms are awesome](https://twitter.com/ryanflorence/status/1759947521521041880?s=03)
+
 

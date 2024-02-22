@@ -363,6 +363,8 @@ or computations blocked by unknowns.
 
 [natural deduction: 3 implications in a trenchcoat](https://hachyderm.io/@rntz@recurse.social/111841554328902498)
 
+[Unification-free ("keyword") type checking](https://www.haskellforall.com/2024/02/unification-free-keyword-type-checking.html)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

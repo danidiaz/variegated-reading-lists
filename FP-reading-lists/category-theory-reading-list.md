@@ -1068,4 +1068,6 @@ deals with its own properties.
 
 [An Introduction to Different Approaches to Initial Semantics](https://arxiv.org/pdf/2401.09366.pdf)
 
+[Iteration with Optics](https://cybercat.institute/2024/02/22/iteration-optics/)
+
 

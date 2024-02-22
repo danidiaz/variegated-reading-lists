@@ -232,6 +232,8 @@
 
 [indexed recursion schemes](https://www.reddit.com/r/haskell/comments/13vv6ns/indexed_recursion_schemes_or_finding_your_way/)
 
+[Ergonomic folds: generics-sop recursion schemes, without "base functor"](https://www.reddit.com/r/haskell/comments/1axa7sq/ergonomic_folds_genericssop_recursion_schemes/)
+
 ## videos
 
 [Unifying Structured Recursion Schemes](https://www.youtube.com/watch?v=9EGYSb9vov8)
@@ -257,5 +259,4 @@
 [Hnix](https://www.reddit.com/r/haskell/comments/nstig5/hnix_nix_in_haskell_about_the_project_meeting/)
 
 [jet cli - structural json editor](https://www.reddit.com/r/haskell/comments/r4ec10/jet_cli_structural_editor_for_json/)
-
 

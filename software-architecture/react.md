@@ -1015,4 +1015,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [remix + vite](https://twitter.com/kentcdodds/status/1760070643142512873)
 
+[more useEffect drama](https://twitter.com/housecor/status/1760476588716544202). [more](https://twitter.com/housecor/status/1760664085161533906).
+
 

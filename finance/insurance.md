@@ -79,7 +79,10 @@
 
 [Insurance and the slave trade](https://open.spotify.com/episode/6ThHjkO8UrTupBiNJTIHnC?si=cb4be1316f984486)
 
+[Privilege, Economy and State in Old Regime France: Marine Insurance, War and the Atlantic Empire Under Louis XIV](https://open.spotify.com/episode/1oCX05B8vD5JAPJF0fLSaU?si=yVHxHFn8T56ZtJz1XBlYsw)
+
 [Cuthbert Heath](https://en.wikipedia.org/wiki/Cuthbert_Heath)
+
 
 ## Books
 

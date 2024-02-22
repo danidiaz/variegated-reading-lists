@@ -144,4 +144,6 @@
 
 [Use of HTTPS Resource Records](https://www.netmeister.org/blog/https-rrs.html)
 
+[WireGuard vs. Tailscale · Tailscale](https://tailscale.com/compare/wireguard)
+
 

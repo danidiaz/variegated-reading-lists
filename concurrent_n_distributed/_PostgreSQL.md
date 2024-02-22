@@ -405,5 +405,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 > In my work I have made the mistake of standardizing on primary key types. This means standardizing on either bigint or uuid so all tables will have the same type irrespective of their structure, access patterns, and growth rate.
 
+[When to use JSON data type in database schema design?](https://shekhargulati.com/2022/01/08/when-to-use-json-data-type-in-database-schema-design/)
 
 

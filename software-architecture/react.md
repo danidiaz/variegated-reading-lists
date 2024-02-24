@@ -1017,4 +1017,10 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [more useEffect drama](https://twitter.com/housecor/status/1760476588716544202). [more](https://twitter.com/housecor/status/1760664085161533906). [more](https://twitter.com/kentcdodds/status/1760810857490010182).
 
+[useFormStatus() and useFormState() and composition](https://twitter.com/dan_abramov2/status/1761123741898047631). [suspense](https://twitter.com/kentcdodds/status/1761116484552770012). [react evolution](https://twitter.com/i/bookmarks?post_id=1761135636697022787)
+
+
+
+
+
 

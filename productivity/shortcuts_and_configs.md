@@ -576,4 +576,6 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [never-ending txt file](https://news.ycombinator.com/item?id=39432876)
 
+[git show --remerge-diff](https://hachyderm.io/@b0rk@jvns.ca/112003877785470280)
+
 

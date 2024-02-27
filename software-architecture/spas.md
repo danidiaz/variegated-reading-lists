@@ -407,4 +407,6 @@
 
 [GET forms are awesome](https://twitter.com/ryanflorence/status/1759947521521041880?s=03)
 
+[Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering](https://www.smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/)
+
 

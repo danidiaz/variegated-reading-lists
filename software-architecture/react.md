@@ -1023,6 +1023,12 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [testing question](https://twitter.com/srsholmes/status/1762515519876313313)
 
+[useSyncExternalStore can help prevent hydration mismatches](https://twitter.com/sebastienlorber/status/1762551977832067295)
+
+[waterfall optimization](https://twitter.com/kentcdodds/status/1762515631755411776)
+
+[wtf is use](https://twitter.com/kentcdodds/status/1762316889269960996)
+
 
 
 

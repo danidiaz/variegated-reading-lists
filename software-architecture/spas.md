@@ -409,4 +409,11 @@
 
 [Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering](https://www.smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/)
 
+[I don't care how fast your servers are, don't ignore pending UI.](https://twitter.com/kentcdodds/status/1762554375900430797)
+
+[use](https://twitter.com/kentcdodds/status/1762553022574645372)
+
+[No Outer margin](https://kyleshevlin.com/no-outer-margin/)
+
+
 

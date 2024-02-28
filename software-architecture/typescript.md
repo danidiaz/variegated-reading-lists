@@ -208,5 +208,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [CustomEvent](https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent).
 
+[typeof](https://twitter.com/JoshWComeau/status/1762501164824666492)
+
 
 

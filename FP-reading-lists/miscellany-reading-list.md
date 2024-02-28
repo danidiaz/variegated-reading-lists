@@ -866,5 +866,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > Implicit currying making parameter order overly significant. This drives languages to introduce infix pipe operators with unintuitive precedence and to bikeshed forward vs backward piping. This could all be done away with by having a dedicated partial application syntax.
 
+[Cats-Effect's `Resource`](https://twitter.com/alexelcu/status/1762487268629975063)
+
+
 
 

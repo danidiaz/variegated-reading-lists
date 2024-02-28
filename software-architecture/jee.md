@@ -415,5 +415,9 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [basic Java tips](https://twitter.com/maciejwalkowiak/status/1752960760064462888)
 
+[Spring Application Events subsystem](https://www.youtube.com/watch?v=5YdjBWSGtbE)
+
+
+
 
 

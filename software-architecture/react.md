@@ -1019,6 +1019,10 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [useFormStatus() and useFormState() and composition](https://twitter.com/dan_abramov2/status/1761123741898047631). [suspense](https://twitter.com/kentcdodds/status/1761116484552770012). [react evolution](https://twitter.com/i/bookmarks?post_id=1761135636697022787)
 
+[react-query doesn't do data-fetching](https://twitter.com/TkDodo/status/1762544165211050236)
+
+[testing question](https://twitter.com/srsholmes/status/1762515519876313313)
+
 
 
 

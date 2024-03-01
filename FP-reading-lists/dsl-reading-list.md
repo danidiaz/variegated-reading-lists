@@ -579,5 +579,7 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [Building Search DSLs with Django](https://danlamanna.com/posts/building-search-dsls-with-django/)
 
+[.](https://www.reddit.com/r/haskell/comments/1b33c1d/the_siren_song_of_domainspecific_languages/)
+
 
 

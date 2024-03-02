@@ -417,7 +417,7 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Spring Application Events subsystem](https://www.youtube.com/watch?v=5YdjBWSGtbE)
 
-
+[Spring MVC Http Interfaces](https://www.youtube.com/watch?v=aR580OCEp7w)
 
 
 

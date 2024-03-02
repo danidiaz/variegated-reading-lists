@@ -1029,7 +1029,7 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [wtf is use](https://twitter.com/kentcdodds/status/1762316889269960996)
 
-
+[React state in 2024](https://twitter.com/housecor/status/1763919937481973801)
 
 
 

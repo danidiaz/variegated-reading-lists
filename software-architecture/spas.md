@@ -415,5 +415,7 @@
 
 [No Outer margin](https://kyleshevlin.com/no-outer-margin/)
 
+[How Shadcn/ui ACTUALLY Works](https://www.youtube.com/watch?v=AqmMx_JidGo)
+
 
 

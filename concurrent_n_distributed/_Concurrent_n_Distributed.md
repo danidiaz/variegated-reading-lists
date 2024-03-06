@@ -773,4 +773,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [An intuition for distributed consensus in OLTP systems](https://notes.eatonphil.com/2024-02-08-an-intuition-for-distributed-consensus-in-oltp-systems.html)
 
+[You Might Not Need a CRDT: Document Sync in the Wild by Paul Butler](https://www.youtube.com/watch?v=0d73MdQkJOk)
+
+
 

@@ -868,6 +868,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Cats-Effect's `Resource`](https://twitter.com/alexelcu/status/1762487268629975063)
 
-
+[the missing [graph] datatype](https://news.ycombinator.com/item?id=39592444). [lobste.rs](https://lobste.rs/s/uhmhum/hunt_for_missing_data_type).
 
 

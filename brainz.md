@@ -310,5 +310,7 @@ Things for which I found ChatGPT useful:
 
 [Representation Engineering: Mistral-7B on Acid](https://news.ycombinator.com/item?id=39414532)
 
+[Claude 3's system prompt](https://twitter.com/AmandaAskell/status/1765207842993434880)
+
 
 

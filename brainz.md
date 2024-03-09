@@ -312,5 +312,7 @@ Things for which I found ChatGPT useful:
 
 [Claude 3's system prompt](https://twitter.com/AmandaAskell/status/1765207842993434880)
 
+[The GPT-4 barrier has finally been broken](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
+
 
 

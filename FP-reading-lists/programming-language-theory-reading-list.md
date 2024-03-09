@@ -873,4 +873,6 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [It's too easy to lean too hard on object-language function spaces](https://hachyderm.io/@pigworker@types.pl/111688001848656137)
 
+[I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
+
 

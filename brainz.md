@@ -314,5 +314,7 @@ Things for which I found ChatGPT useful:
 
 [The GPT-4 barrier has finally been broken](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
 
+[Claude for vuln analysis](https://twitter.com/ShriramKMurthi/status/1766484834841436227)
+
 
 

@@ -875,4 +875,9 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 
+[Abstracting Denotational Interpreters](https://arxiv.org/abs/2403.02778)
+
+> We explore denotational interpreters: denotational semantics that produce coinductive traces of a corresponding
+small-step operational semantics
+
 

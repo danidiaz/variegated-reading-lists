@@ -405,5 +405,7 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Should you write tests for entities and repositories](https://www.reddit.com/r/SpringBoot/comments/18ykq5u/comment/kh4wim9/)
 
+[nesting while testing](https://twitter.com/kentcdodds/status/1767188313058759140)
+
 
 

@@ -886,3 +886,12 @@ small-step operational semantics
 
 > big-step semantics are the closest possible analogues to interpreters
 
+[Functional Big-step Semantics](https://cakeml.org/esop16.pdf). [Architectures for interpreters: Substitutional, denotational, big-step and small-step](https://matt.might.net/articles/writing-an-interpreter-substitution-denotational-big-step-small-step/).
+
+> A functional big-step semantics is essentially an interpreter written in a purely functional style and equipped with a clock to ensure that the function is total, even when run on diverging programs
+
+>  It's accurate enough to say that a semantics is just an interpreter that's not allowed to use side effects. (Or, you could think of an interpreter as a semantics that's allowed to use side effects.)
+
+[Why is defunctionalization good?](https://www.michaelpj.com/blog/2024/03/11/defunctionalization-thoughts.html)
+
+

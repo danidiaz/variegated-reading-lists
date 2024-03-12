@@ -892,9 +892,7 @@ small-step operational semantics
 
 >  It's accurate enough to say that a semantics is just an interpreter that's not allowed to use side effects. (Or, you could think of an interpreter as a semantics that's allowed to use side effects.)
 
-[Normalization and Partial Evaluation](http://hjemmesider.diku.dk/~andrzej/papers/NaPE.pdf)
-
-
+[The precise definition of Normalization By Evaluation?](https://cstheory.stackexchange.com/questions/52149/the-precise-definition-of-normalization-by-evaluation). [Normalization and Partial Evaluation](http://hjemmesider.diku.dk/~andrzej/papers/NaPE.pdf)
 
 [Why is defunctionalization good?](https://www.michaelpj.com/blog/2024/03/11/defunctionalization-thoughts.html)
 

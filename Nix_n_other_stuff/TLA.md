@@ -24,5 +24,9 @@ On HN: https://news.ycombinator.com/item?id=18163470 https://news.ycombinator.co
 
 [HasCal — A promising embedding of pluscal in haskell.](https://twitter.com/MenschOhneMusil/status/1515736571328495617). [tweet](https://twitter.com/GabriellaG439/status/1510715275385061377).
 
+[flake and system drama](https://twitter.com/ProgrammerDude/status/1767443302092075133)
+
+
+
 
 

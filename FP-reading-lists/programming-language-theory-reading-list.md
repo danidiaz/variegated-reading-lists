@@ -875,9 +875,14 @@ Implementing a Dependently Typed Language [1](https://www.youtube.com/watch?v=Aw
 
 [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 
-[Abstracting Denotational Interpreters](https://arxiv.org/abs/2403.02778)
+[Abstracting Denotational Interpreters](https://arxiv.org/abs/2403.02778). [reddit](https://www.reddit.com/r/haskell/comments/1bbx3dq/comment/kudkh58/). [Difference Between Small and Big-step Operational Semantics](https://cs.stackexchange.com/questions/43294/difference-between-small-and-big-step-operational-semantics).
 
 > We explore denotational interpreters: denotational semantics that produce coinductive traces of a corresponding
 small-step operational semantics
+
+> Big-step semantics are kind of in the middle [of small step and denotational semantics]. it abstracts away the details of the evaluation but retains the syntactic nature of the result. 
+
+> Operationally speaking, small-step semantics corresponds to looking at each operation performed by an interpreter for the language. Big-step semantics only looks at the resulting value. Denotational semantics looks at a mathematical interpretation which may or may not have anything to do with what happens on a computer.
+
 
 

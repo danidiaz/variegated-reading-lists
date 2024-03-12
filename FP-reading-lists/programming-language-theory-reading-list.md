@@ -886,7 +886,7 @@ small-step operational semantics
 
 > big-step semantics are the closest possible analogues to interpreters
 
-[Functional Big-step Semantics](https://cakeml.org/esop16.pdf). [Architectures for interpreters: Substitutional, denotational, big-step and small-step](https://matt.might.net/articles/writing-an-interpreter-substitution-denotational-big-step-small-step/). [A Meta-theory for Big-step Semantics](https://dl.acm.org/doi/abs/10.1145/3522729)
+[Functional Big-step Semantics](https://cakeml.org/esop16.pdf). [Architectures for interpreters: Substitutional, denotational, big-step and small-step](https://matt.might.net/articles/writing-an-interpreter-substitution-denotational-big-step-small-step/). [A Meta-theory for Big-step Semantics](https://dl.acm.org/doi/abs/10.1145/3522729). [Big-step normalisation](https://www.researchgate.net/publication/220676608_Big-step_normalisation)
 
 > A functional big-step semantics is essentially an interpreter written in a purely functional style and equipped with a clock to ensure that the function is total, even when run on diverging programs
 

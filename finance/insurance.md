@@ -63,6 +63,8 @@
 
 [Kafka](https://techwontsave.us/episode/199_why_tech_makes_us_more_insecure_w_astra_taylor)
 
+[Automakers Are Sharing Consumers’ Driving Behavior With Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

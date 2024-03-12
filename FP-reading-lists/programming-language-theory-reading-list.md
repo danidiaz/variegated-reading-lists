@@ -884,5 +884,5 @@ small-step operational semantics
 
 > Operationally speaking, small-step semantics corresponds to looking at each operation performed by an interpreter for the language. Big-step semantics only looks at the resulting value. Denotational semantics looks at a mathematical interpretation which may or may not have anything to do with what happens on a computer.
 
-
+> big-step semantics are the closest possible analogues to interpreters
 

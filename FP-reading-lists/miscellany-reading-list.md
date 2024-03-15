@@ -870,4 +870,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [the missing [graph] datatype](https://news.ycombinator.com/item?id=39592444). [lobste.rs](https://lobste.rs/s/uhmhum/hunt_for_missing_data_type).
 
+[how geometric intuition fails miserably in high dimensions](https://twitter.com/mariotelfig/status/1768213175583769076)
 

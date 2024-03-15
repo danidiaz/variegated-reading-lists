@@ -1070,4 +1070,6 @@ deals with its own properties.
 
 [Iteration with Optics](https://cybercat.institute/2024/02/22/iteration-optics/)
 
+[The Para(Optic) pattern](https://twitter.com/bgavran3/status/1768053628558831929). [Fundamental Components of Deep Learning A category-theoretic approach](https://www.brunogavranovic.com/assets/FundamentalComponentsOfDeepLearning.pdf)
+
 

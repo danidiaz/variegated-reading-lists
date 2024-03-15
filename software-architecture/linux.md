@@ -34,3 +34,6 @@ http://www.i3s.unice.fr/~urvoy/docs/VICC/3_vicc.pdf
 
 [   A Journey into the Linux Scheduler](https://news.ycombinator.com/item?id=31975901)
 
+[eBPF vs Java Bytecode Instrumentation](https://twitter.com/richardstartin/status/1768397634534768839)
+
+

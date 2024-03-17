@@ -316,5 +316,7 @@ Things for which I found ChatGPT useful:
 
 [Claude for vuln analysis](https://twitter.com/ShriramKMurthi/status/1766484834841436227)
 
+[#Claude3 does function calling purely in "user space".](https://twitter.com/headinthebox/status/1769187308006527135).
+
 
 

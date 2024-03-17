@@ -872,3 +872,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [how geometric intuition fails miserably in high dimensions](https://twitter.com/mariotelfig/status/1768213175583769076)
 
+[understanding the Phases applicative](https://gist.github.com/kbridge/00f2e155acdc8d50270aa322caa26be3)
+
+

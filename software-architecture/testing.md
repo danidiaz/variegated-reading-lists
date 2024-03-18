@@ -407,5 +407,8 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [nesting while testing](https://twitter.com/kentcdodds/status/1767188313058759140)
 
+[types of tests](https://twitter.com/housecor/status/1769725974134882444)
+
+[skyvern: Automate browser-based workflows with LLMs and Computer Vision](https://github.com/Skyvern-AI/skyvern)
 
 

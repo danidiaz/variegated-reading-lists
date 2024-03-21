@@ -1477,4 +1477,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Why are non-DRY specs more maintainable?](https://lobste.rs/s/mu2c6n/why_are_non_dry_specs_more_maintainable)
 
+[Managing change with Rollout Flags](https://tech.scrive.com/2024-03-19-managing-change-with-rollout-flags/)
+
 

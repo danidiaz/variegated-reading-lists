@@ -95,4 +95,6 @@
 
 > All event handler attributes accept a string. The string will be used to synthesize a JavaScript function like function name(/*args*/) {body}, where name is the attribute's name, and body is the attribute's value. The handler receives the same parameters as its JavaScript event handler counterpart — most handlers receive only one event parameter
 
+[Why you should say HTML classes, CSS class selectors, or CSS pseudo-classes, but not CSS classes](https://tantek.com/2012/353/b1/why-html-classes-css-class-selectors)
+
 

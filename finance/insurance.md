@@ -65,6 +65,8 @@
 
 [Automakers Are Sharing Consumers’ Driving Behavior With Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html)
 
+[Why Home Insurance Markets in California and Florida Imploded](https://open.spotify.com/episode/3bID77Da4Dxxrpnd5PZEdF). [tweet](https://twitter.com/TheStalwart/status/1770889377075372504).
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

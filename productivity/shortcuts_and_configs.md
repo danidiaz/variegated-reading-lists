@@ -578,4 +578,6 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [git show --remerge-diff](https://hachyderm.io/@b0rk@jvns.ca/112003877785470280)
 
+[DuckDB as the New jq](https://lobste.rs/s/x5immj/duckdb_as_new_jq). [hn](https://news.ycombinator.com/item?id=39782356).
+
 

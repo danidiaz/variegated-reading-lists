@@ -67,6 +67,8 @@
 
 [Why Home Insurance Markets in California and Florida Imploded](https://open.spotify.com/episode/3bID77Da4Dxxrpnd5PZEdF). [tweet](https://twitter.com/TheStalwart/status/1770889377075372504).
 
+[ACORD forms](https://acord.org/forms-pages/acord-forms)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

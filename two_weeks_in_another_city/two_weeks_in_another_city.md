@@ -779,6 +779,8 @@ Bernini, his life and his Rome
 
 [el retrato de la ciudad](https://mastodon.social/@DiazCarrete/111914640835569570). [paper](https://www.academia.edu/35836642/El_nacimiento_de_un_nuevo_g%C3%A9nero_de_representaci%C3%B3n_el_retrato_de_la_ciudad).
 
+[fast travel and monetization](https://twitter.com/TafferKing451/status/1772411770897879110)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

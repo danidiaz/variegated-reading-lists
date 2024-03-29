@@ -1031,6 +1031,8 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [React state in 2024](https://twitter.com/housecor/status/1763919937481973801)
 
+[RSC stale-while-revalidate](https://twitter.com/kentcdodds/status/1773569164902277544)
+
 
 
 

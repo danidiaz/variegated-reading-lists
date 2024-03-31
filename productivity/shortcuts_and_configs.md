@@ -588,4 +588,6 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [Git as a debugging tool](https://news.ycombinator.com/item?id=39877637)
 
+[rebase drama](https://twitter.com/AdamRackis/status/1774471119501660221).
+
 

@@ -290,4 +290,6 @@
 
 [Dealing with surprising human emotions: desk moves (2017)](https://news.ycombinator.com/item?id=39531101)
 
+[Step by Step: Thinking through and beyond the repair manual](https://news.ycombinator.com/item?id=39740654)
+
 

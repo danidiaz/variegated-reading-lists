@@ -882,6 +882,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [AST vs bytecode interpreters](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters/)
 
-
+[types are specifications](https://twitter.com/ShriramKMurthi/status/1774414472414687702). [more](https://twitter.com/rg9119/status/1774488943033221229).
 
 

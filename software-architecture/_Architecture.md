@@ -1479,4 +1479,26 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Managing change with Rollout Flags](https://tech.scrive.com/2024-03-19-managing-change-with-rollout-flags/)
 
+[Uncovering the Seams in Mainframes for Incremental Modernisation](https://martinfowler.com/articles/uncovering-mainframe-seams.html).
+
+[Implementing Stripe-like Idempotency Keys in Postgres](https://brandur.org/idempotency-keys)
+
+[All you need is Wide Events](https://lobste.rs/s/4a7sxq/all_you_need_is_wide_events_not_metrics)
+
+[Event Modeling from Beginner to Expert](https://www.youtube.com/watch?v=Pin_B-AbdXE)
+
+[The data model behind Notion's flexibility](https://news.ycombinator.com/item?id=39805744)
+
+[Why I prefer trunk-based development](https://trishagee.com/2023/05/29/why-i-prefer-trunk-based-development/)
+
+[The High-Risk Refactoring](https://news.ycombinator.com/item?id=39735570)
+
+[A Taxonomy Of Data Change Events](https://twitter.com/gunnarmorling/status/1768185698064978033)
+
+[You Don't Need a Dedicated Cache Service – PostgreSQL as a Cache](https://news.ycombinator.com/item?id=39619204)
+
+[Inheriting a C++ codebase](https://news.ycombinator.com/item?id=39549486)
+
+[API design is difficult](https://twitter.com/satnam6502/status/1762166553095852155)
+
 

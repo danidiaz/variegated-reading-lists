@@ -229,8 +229,8 @@
 
 [bootloader debugging story](https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/)
 
+[Anatomy of a system call, part 1](https://lwn.net/Articles/604287/)
 
-
-
+[Linux crisis tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 
 

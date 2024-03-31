@@ -411,4 +411,10 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [skyvern: Automate browser-based workflows with LLMs and Computer Vision](https://github.com/Skyvern-AI/skyvern)
 
+[never test with shallow rendering](https://x.com/kentcdodds/status/1770226657737273808)
+
+[losing the faith on testing](https://lobste.rs/s/5xeuew/losing_faith_on_testing)
+
+[Use weird tests to capture tacit knowledge](https://lobste.rs/s/zncgdf/use_weird_tests_capture_tacit_knowledge)
+
 

@@ -409,4 +409,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Introduction to 'WITH' Queries and their Materialization](https://www.youtube.com/watch?v=0zf4HmWsISI). [slides](https://pgconf.in/files/presentations/2023/Divya_Sharma_CTE-pgconfInd2023.pdf). [rel8](https://hackage.haskell.org/package/rel8-1.5.0.0/docs/Rel8.html#v:materialize).
 
+[JIT](https://news.ycombinator.com/item?id=39742916)
+
 

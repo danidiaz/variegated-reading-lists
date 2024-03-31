@@ -958,6 +958,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [CTEs vs temp tables](https://twitter.com/tcarpenter216/status/1752852286358089766). [SO question](https://dba.stackexchange.com/questions/13112/whats-the-difference-between-a-cte-and-a-temp-table).
 
+[Building a streaming SQL engine with Arrow and DataFusion](https://news.ycombinator.com/item?id=39745993). [2](https://news.ycombinator.com/item?id=39741600).
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

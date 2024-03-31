@@ -435,5 +435,13 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [SSDs Have Become Ridiculously Fast, Except in the Cloud](https://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
 
+[Graceful shutdowns with ECS](https://aws.amazon.com/blogs/containers/graceful-shutdowns-with-ecs/)
+
+[Speeding up Azure development by not using Terraform](https://news.ycombinator.com/item?id=39820432)
+
+[S3 is files, but not a filesystem](https://news.ycombinator.com/item?id=39656657)
+
+[K8s Service Meshes: The Bill Comes Due](https://news.ycombinator.com/item?id=39569671)
+
 
 

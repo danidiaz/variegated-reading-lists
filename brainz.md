@@ -324,4 +324,26 @@ Things for which I found ChatGPT useful:
 
 [put the question last](https://twitter.com/emollick/status/1774255147960430931)
 
+[inhuman errors](https://twitter.com/qntm/status/1773779967521780169)
+
+[RAG vs. finetuning](https://twitter.com/jerryjliu0/status/1772677211545543094)
+
+[how self-attention & multi-head attention in transformers work](https://twitter.com/DanAkarca/status/1772565907350372651)
+
+[better crap is worse](https://twitter.com/Lucretiel/status/1772763504577028119)
+
+[A Very Gentle Introduction to Large Language Models without the Hype](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
+
+[standard transformer architecture](https://twitter.com/Muhtasham9/status/1772469982485438485)
+
+[training a model vs building a RAG system](https://twitter.com/simonw/status/1772273715851473337)
+
+[Compile from withing ChatGPT](https://twitter.com/simonw/status/1771684378990522575)
+
+["hard to overstate the impact of LoRas"](https://twitter.com/francoisfleuret/status/1770704814910898630).
+
+[When will LLMs be able to interrupt or interject?](https://news.ycombinator.com/item?id=39659087)
+
+[offering a tip](https://news.ycombinator.com/item?id=39495476)
+
 

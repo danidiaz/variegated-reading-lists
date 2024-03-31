@@ -844,4 +844,6 @@ Bernini, his life and his Rome
 
 [cyberpunk metro system](https://www.rockpapershotgun.com/cyberpunk-2077-is-getting-a-fully-functional-metro-system-next-week)
 
+[Pinnacle – a modern tribute to the 1986 classic, The Sentinel](https://news.ycombinator.com/item?id=39827972)
+
 

@@ -1033,6 +1033,8 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [RSC stale-while-revalidate](https://twitter.com/kentcdodds/status/1773569164902277544)
 
+[React suspense](https://twitter.com/BenLesh/status/1762181879728402746)
 
+[Instant Search Params with React Server Components](https://twitter.com/samselikoff/status/1762140463979503630)
 
 

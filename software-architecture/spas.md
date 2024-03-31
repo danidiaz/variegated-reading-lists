@@ -417,5 +417,9 @@
 
 [How Shadcn/ui ACTUALLY Works](https://www.youtube.com/watch?v=AqmMx_JidGo)
 
+[htmx templating languages](https://twitter.com/david_syer/status/1771182660347412975)
+
+[RFC 7578 - Returning Values from Forms: multipart/form-data](https://datatracker.ietf.org/doc/html/rfc7578#section-4.3)
+
 
 

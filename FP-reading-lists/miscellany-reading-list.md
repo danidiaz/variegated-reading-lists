@@ -874,4 +874,14 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [understanding the Phases applicative](https://gist.github.com/kbridge/00f2e155acdc8d50270aa322caa26be3)
 
+[bobgate](https://twitter.com/rohn_jawls/status/1770129140827451550). [original puzzle](https://twitter.com/littmath/status/1769410729176674791).
+
+[Let should not be generalized the MonoLocalBinds extension to GHC](https://www.youtube.com/watch?v=nowEdz3ZpLU). [let-generalisation](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/let_generalisation.html).
+
+[Haskell implementation of Cubical Type Theory](https://twitter.com/Iceland_jack/status/1761464618218655863)
+
+[AST vs bytecode interpreters](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters/)
+
+
+
 

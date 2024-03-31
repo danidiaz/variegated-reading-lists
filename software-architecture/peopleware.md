@@ -282,4 +282,12 @@
 
 [professional programming](https://github.com/charlax/professional-programming). [tweet](https://twitter.com/GergelyOrosz/status/1759575572173176871).
 
+[Onboarding roulette](https://lobste.rs/s/mlek1h/onboarding_roulette_deleting_our)
+
+[ embrace asynchronous communication for remote work](https://news.ycombinator.com/item?id=39701427)
+
+[Why Programming Languages Need a Style Czar](https://lobste.rs/s/ngdrbc/montreal_problem_why_programming)
+
+[Dealing with surprising human emotions: desk moves (2017)](https://news.ycombinator.com/item?id=39531101)
+
 

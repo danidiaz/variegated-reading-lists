@@ -782,6 +782,14 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Cloud cryptography demystified: Amazon Web Services](https://lobste.rs/s/ke89vp/cloud_cryptography_demystified_amazon)
 
+[IAM is the worst](https://lobste.rs/s/gwsilq/iam_is_worst).
 
+[Spring Tips: the Spring Authorization Server: durability of data](https://youtu.be/GVsKQ4dp_pQ)
+
+[You cannot simply publicly access private secure links, can you?](https://news.ycombinator.com/item?id=39630985)
+
+[hateoas](https://news.ycombinator.com/item?id=39582788)
+
+[Spring authorization server](https://twitter.com/starbuxman/status/1762176770277790122)
 
 

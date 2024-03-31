@@ -695,6 +695,8 @@ https://twitter.com/tailwindcss
 
 [fouc](https://twitter.com/ascorbic/status/1758434364117991914). [more](https://twitter.com/htmx_org/status/1671247823235432449). [more](https://twitter.com/sebastienlorber/status/1325710626149310465).
 
+[CSS performance](https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/)
+
 
 
 

@@ -419,5 +419,16 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Spring MVC Http Interfaces](https://www.youtube.com/watch?v=aR580OCEp7w)
 
+[LaunchDarkly Java Testing and Local Development Hints](https://rieckpil.de/launchdarkly-java-testing-and-local-development-hints/)
+
+[Spring Boot failure analyzer](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#howto.application.failure-analyzer)
+
+[Distributed Job Scheduling with Jobrunr](https://www.youtube.com/watch?v=e9POHS0BjEg)
+
+[Notes on debugging HotSpot's JIT compilation](https://news.ycombinator.com/item?id=39813626)
+
+[Automate the process of upgrading your #Java & #SpringBoot applications with OpenRewrite](https://www.youtube.com/watch?v=e4R6AZHpAD8)
+
+[epbf & java?](https://x.com/richardstartin/status/1768397634534768839)
 
 

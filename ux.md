@@ -20,4 +20,6 @@
 
 [disclosure widget](https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/). [more](https://adrianroselli.com/2020/05/disclosure-widgets.html). [details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
 
+[Please Make Your Table Headings Sticky](https://lobste.rs/s/dghv8d/please_make_your_table_headings_sticky)
+
 

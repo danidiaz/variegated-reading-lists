@@ -580,4 +580,10 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [DuckDB as the New jq](https://lobste.rs/s/x5immj/duckdb_as_new_jq). [hn](https://news.ycombinator.com/item?id=39782356).
 
+[Maybe the easiest way to share HTML, CSS, and JS?](https://youtube.com/shorts/8Pbfxsq1ZN8)
+
+[Double dollar $$() vs Dollar sign $() in Chrome console behavior](https://stackoverflow.com/questions/35682890/double-dollar-vs-dollar-sign-in-chrome-console-behavior)
+
+[how I use git worktrees](https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html)
+
 

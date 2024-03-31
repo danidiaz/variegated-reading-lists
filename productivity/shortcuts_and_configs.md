@@ -586,4 +586,6 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [how I use git worktrees](https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html)
 
+[Git as a debugging tool](https://news.ycombinator.com/item?id=39877637)
+
 

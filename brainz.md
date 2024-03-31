@@ -318,5 +318,10 @@ Things for which I found ChatGPT useful:
 
 [#Claude3 does function calling purely in "user space".](https://twitter.com/headinthebox/status/1769187308006527135).
 
+[overparameterization](https://twitter.com/revhowardarson/status/1774221186232369611)
+
+> the idea of overparameterization beating any sort of domain understanding is genuinely embittering 
+
+[put the question last](https://twitter.com/emollick/status/1774255147960430931)
 
 

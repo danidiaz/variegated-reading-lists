@@ -210,5 +210,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [typeof](https://twitter.com/JoshWComeau/status/1762501164824666492)
 
+[Write OpenAPI with TypeSpec](https://news.ycombinator.com/item?id=39833321)
+
 
 

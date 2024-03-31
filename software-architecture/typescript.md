@@ -212,5 +212,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Write OpenAPI with TypeSpec](https://news.ycombinator.com/item?id=39833321)
 
+[This TypeScript type haunted my dreams](https://amir.rachum.com/typescript-oneof/)
+
 
 

@@ -413,4 +413,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [vector similarity](https://twitter.com/denismagda/status/1775929905101877398)
 
+[generated columns](https://www.postgresql.org/docs/current/ddl-generated-columns.html)
+
 

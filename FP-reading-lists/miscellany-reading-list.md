@@ -890,5 +890,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 >  There's a very nice W3 spec for deep references to documents of various kinds, including epubs! And an isbn:// URN would be portable. Just missing at the UI layer
 
+[Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599). [hn](https://news.ycombinator.com/item?id=39913616).
+
 
 

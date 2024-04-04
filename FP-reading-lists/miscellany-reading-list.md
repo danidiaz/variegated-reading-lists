@@ -886,4 +886,9 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [down with arr](https://twitter.com/elvecent_not/status/1774828320817033523)
 
+[portable refrences](https://twitter.com/andy_matuschak/status/1775710179201626510). [Web Annotation Model](https://www.w3.org/TR/annotation-model/).
+
+>  There's a very nice W3 spec for deep references to documents of various kinds, including epubs! And an isbn:// URN would be portable. Just missing at the UI layer
+
+
 

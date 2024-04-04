@@ -411,4 +411,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [JIT](https://news.ycombinator.com/item?id=39742916)
 
+[vector similarity](https://twitter.com/denismagda/status/1775929905101877398)
+
 

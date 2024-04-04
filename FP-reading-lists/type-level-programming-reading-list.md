@@ -435,4 +435,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Aligney](https://www.reddit.com/r/haskell/comments/19f6fbr/viercc_derive_applicative_monad_polynomially/)
 
+[Implicit arguments](https://oleg.fi/gists/posts/2024-04-01-implicit-arguments.html)
+
 

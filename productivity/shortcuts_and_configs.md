@@ -590,4 +590,6 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [rebase drama](https://twitter.com/AdamRackis/status/1774471119501660221). [more](https://twitter.com/JLarky/status/1773864713224609800).
 
+[call hierarchy in IDEs](https://twitter.com/peter_a_goodman/status/1316917602934022145)
+
 

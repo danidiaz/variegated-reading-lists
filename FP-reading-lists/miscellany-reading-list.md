@@ -884,4 +884,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [types are specifications](https://twitter.com/ShriramKMurthi/status/1774414472414687702). [more](https://twitter.com/rg9119/status/1774488943033221229).
 
+[down with arr](https://twitter.com/elvecent_not/status/1774828320817033523)
+
 

@@ -415,4 +415,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [generated columns](https://www.postgresql.org/docs/current/ddl-generated-columns.html)
 
+[Designing one-to-one relationships in PostgreSQL](https://gajus.com/blog/designing-one-to-one-relationships-in-postgresql)
+
 

@@ -1501,4 +1501,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [API design is difficult](https://twitter.com/satnam6502/status/1762166553095852155)
 
+[claim-check pattern](https://twitter.com/dunithd/status/1776240114726846691)
+
 

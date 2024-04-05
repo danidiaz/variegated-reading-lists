@@ -697,6 +697,8 @@ https://twitter.com/tailwindcss
 
 [CSS performance](https://nolanlawson.com/2023/01/17/my-talk-on-css-runtime-performance/)
 
+[Tailwind colors change](https://twitter.com/BHolmesDev/status/1776264219203076212)
+
 
 
 

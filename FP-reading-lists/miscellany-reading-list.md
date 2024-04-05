@@ -892,5 +892,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599). [hn](https://news.ycombinator.com/item?id=39913616).
 
+[forms with HKD](https://twitter.com/Savlambda/status/1776293129869574311)
+
 
 

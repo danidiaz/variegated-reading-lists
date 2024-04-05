@@ -346,6 +346,8 @@ Things for which I found ChatGPT useful:
 
 [offering a tip](https://news.ycombinator.com/item?id=39495476)
 
-[function calling support in Claude](https://twitter.com/simonw/status/1775981308856193354)
+[function calling support in Claude](https://twitter.com/simonw/status/1775981308856193354). [hn](https://news.ycombinator.com/item?id=39936048).
+
+
 
 

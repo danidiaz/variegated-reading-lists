@@ -348,6 +348,6 @@ Things for which I found ChatGPT useful:
 
 [function calling support in Claude](https://twitter.com/simonw/status/1775981308856193354). [hn](https://news.ycombinator.com/item?id=39936048).
 
-
+[tutorial on the self-attention mechanism used in transformers.](https://twitter.com/aprilkhademi/status/1776346652241977375)
 
 

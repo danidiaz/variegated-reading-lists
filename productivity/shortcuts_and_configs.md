@@ -592,4 +592,6 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [call hierarchy in IDEs](https://twitter.com/peter_a_goodman/status/1316917602934022145)
 
+[Why Don't I Like Git More?](https://lobste.rs/s/mtyqib/why_don_t_i_like_git_more)
+
 

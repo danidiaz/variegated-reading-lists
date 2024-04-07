@@ -594,4 +594,6 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [Why Don't I Like Git More?](https://lobste.rs/s/mtyqib/why_don_t_i_like_git_more)
 
+[automatic scene switcher in OBS](https://obsproject.com/forum/threads/how-to-record-multiple-windows-and-switch-automatically-between-them.162906/#post-597724) (regular expressions are allowed)
+
 

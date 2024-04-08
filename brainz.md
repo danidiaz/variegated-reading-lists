@@ -350,4 +350,6 @@ Things for which I found ChatGPT useful:
 
 [tutorial on the self-attention mechanism used in transformers.](https://twitter.com/aprilkhademi/status/1776346652241977375)
 
+[stream-of-search](https://twitter.com/headinthebox/status/1777387903666246028)
+
 

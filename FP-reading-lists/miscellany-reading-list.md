@@ -894,5 +894,9 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [forms with HKD](https://twitter.com/Savlambda/status/1776293129869574311)
 
+[composable errors in parsers](https://twitter.com/_julesh_/status/1777382074799862240). [post](https://cybercat.institute/2024/04/08/modular-error-reporting/).
+
+
+
 
 

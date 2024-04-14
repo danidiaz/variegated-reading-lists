@@ -900,6 +900,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [TH tricks](https://twitter.com/sjoerd_visscher/status/1779215720305275066)
 
+[prairie, a library for Haskell records](https://twitter.com/mattoflambda/status/1778553273898676320)
+
 
 
 

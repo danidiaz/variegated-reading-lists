@@ -896,4 +896,7 @@ small-step operational semantics
 
 [Why is defunctionalization good?](https://www.michaelpj.com/blog/2024/03/11/defunctionalization-thoughts.html)
 
+[the common semantic core of many languages](https://twitter.com/ShriramKMurthi/status/1778814394304024800)
+
+
 

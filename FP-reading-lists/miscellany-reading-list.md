@@ -896,6 +896,10 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [composable errors in parsers](https://twitter.com/_julesh_/status/1777382074799862240). [post](https://cybercat.institute/2024/04/08/modular-error-reporting/).
 
+[deforestation is complicated](https://twitter.com/kmett/status/1777267501916676563)
+
+[TH tricks](https://twitter.com/sjoerd_visscher/status/1779215720305275066)
+
 
 
 

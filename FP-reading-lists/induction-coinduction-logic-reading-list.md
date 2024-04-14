@@ -123,6 +123,8 @@ Predicative and Classical Systems of Analysis](https://math.stanford.edu/~feferm
 
 [not about infinity](https://twitter.com/typeswitch/status/1488552266642698246)
 
+[tau nodes](https://twitter.com/alpha_convert/status/1778442416481280309)
+
 # Videos
 
 [2017 04 28 - Andreas Lochbihler - Functional Programming and Proving in Isabelle/HOL](https://www.youtube.com/watch?v=cIX3WVO48RY)

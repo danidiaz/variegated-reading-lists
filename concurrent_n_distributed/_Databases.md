@@ -960,6 +960,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Building a streaming SQL engine with Arrow and DataFusion](https://news.ycombinator.com/item?id=39745993). [2](https://news.ycombinator.com/item?id=39741600).
 
+[unpopular opinions about databases (started by the JOOQ guy)](https://twitter.com/lukaseder/status/1779493563484565584)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

@@ -399,6 +399,8 @@ Essential reading! Covers:
 
 [time-ghc-modules can draw treemaps](https://www.reddit.com/r/haskell/comments/1aqg2q6/ann_timeghcmodules_can_draw_treemaps_now/)
 
+[-fprefer-byte-code](https://twitter.com/mattoflambda/status/1780273199000744208)
+
 [Choreographing a dance with the GHC specializer (Part 1)](https://well-typed.com/blog/2024/04/choreographing-specialization-pt1/)
 
 

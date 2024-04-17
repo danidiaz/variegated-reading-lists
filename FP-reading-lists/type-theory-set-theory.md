@@ -511,6 +511,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [RZK: Experimental proof assistant for synthetic ∞-categories](https://github.com/rzk-lang/rzk). [hn](https://news.ycombinator.com/item?id=37692166)
 
+[the usability of tactics](https://twitter.com/ilyasergey/status/1780563141258355041)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)
@@ -823,5 +825,4 @@ regress of beliefs.
 [self-verifying theries](https://twitter.com/JDHamkins/status/1676368067423621120)
 
 > t seems questionable to me to regard these theories as proving their own consistency, since they are (necessarily) unable to prove basic facts about the encoding of the consistency statements. They cannot perform proper arithmetization. Ultimately one can see them as proving their own consistency only by the lights of much stronger theories.
-
 

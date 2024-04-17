@@ -417,4 +417,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Use weird tests to capture tacit knowledge](https://lobste.rs/s/zncgdf/use_weird_tests_capture_tacit_knowledge)
 
+[prefer narrow assertions](https://testing.googleblog.com/2024/04/prefer-narrow-assertions-in-unit-tests.html)
+
 

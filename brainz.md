@@ -352,4 +352,6 @@ Things for which I found ChatGPT useful:
 
 [stream-of-search](https://twitter.com/headinthebox/status/1777387903666246028)
 
+[Embeddings are a good starting point ](https://news.ycombinator.com/item?id=40067486)
+
 

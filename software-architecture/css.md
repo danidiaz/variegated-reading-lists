@@ -699,6 +699,8 @@ https://twitter.com/tailwindcss
 
 [Tailwind colors change](https://twitter.com/BHolmesDev/status/1776264219203076212)
 
+[centering things](https://news.ycombinator.com/item?id=40069599)
+
 
 
 

@@ -433,5 +433,7 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [dynamic projections with Spring Data JPA](https://maciejwalkowiak.com/blog/spring-data-jpa-dynamic-projections/) [tweet](https://twitter.com/maciejwalkowiak/status/1779948952269279396)
 
+[how open rewrite happened](https://open.spotify.com/episode/0kR28LMf6P9xB9vwokfnYU)
+
 
 

@@ -775,5 +775,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [You Might Not Need a CRDT: Document Sync in the Wild by Paul Butler](https://www.youtube.com/watch?v=0d73MdQkJOk)
 
+[fetch-and-add-based queues](https://news.ycombinator.com/item?id=40058253)
 
 

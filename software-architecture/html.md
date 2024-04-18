@@ -101,4 +101,8 @@
 
 [demystifying the shadow DOM](https://news.ycombinator.com/item?id=39967685)
 
+[popovertarget](https://twitter.com/jdevalk/status/1780511519941300474)
+
+[Page Structure Tutorial](https://www.w3.org/WAI/tutorials/page-structure/)
+
 

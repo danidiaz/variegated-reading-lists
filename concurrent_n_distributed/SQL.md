@@ -13,4 +13,6 @@
 
 [distributed systems reading list](https://ferd.ca/a-distributed-systems-reading-list.html). [hn](https://news.ycombinator.com/item?id=39303160)
 
+[Composite Primary Keys : Good or Bad?](https://stackoverflow.com/questions/26078535/composite-primary-keys-good-or-bad). [Are composite primary keys bad practice?](https://dba.stackexchange.com/questions/188995/are-composite-primary-keys-bad-practice)
+
 

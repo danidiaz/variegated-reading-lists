@@ -1503,4 +1503,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [claim-check pattern](https://twitter.com/dunithd/status/1776240114726846691)
 
+[first steps towards feature flags](https://twitter.com/housecor/status/1781019085062488366)
+
 

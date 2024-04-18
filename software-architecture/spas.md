@@ -421,5 +421,7 @@
 
 [RFC 7578 - Returning Values from Forms: multipart/form-data](https://datatracker.ietf.org/doc/html/rfc7578#section-4.3)
 
+[url with multiple forward slashes](https://stackoverflow.com/questions/10161177/url-with-multiple-forward-slashes-does-it-break-anything). [RFC3986](https://datatracker.ietf.org/doc/html/rfc3986).
+
 
 

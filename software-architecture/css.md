@@ -701,6 +701,8 @@ https://twitter.com/tailwindcss
 
 [centering things](https://news.ycombinator.com/item?id=40069599)
 
+[avoid tooltips](https://twitter.com/jh3yy/status/1781387420690203019). [more](https://sarahmhigley.com/writing/tooltips-in-wcag-21/#best-practices-summary)
+
 
 
 

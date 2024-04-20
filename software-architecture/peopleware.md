@@ -292,4 +292,6 @@
 
 [Step by Step: Thinking through and beyond the repair manual](https://news.ycombinator.com/item?id=39740654)
 
+[code reviews](https://www.piglei.com/articles/3-important-things-I-overlooked-during-cr/)
+
 

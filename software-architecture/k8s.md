@@ -443,5 +443,7 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [K8s Service Meshes: The Bill Comes Due](https://news.ycombinator.com/item?id=39569671)
 
+[API gateway](https://twitter.com/theburningmonk/status/1781669345204043948)
+
 
 

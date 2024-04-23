@@ -354,4 +354,10 @@ Things for which I found ChatGPT useful:
 
 [Embeddings are a good starting point ](https://news.ycombinator.com/item?id=40067486)
 
+[Weeknotes Apr 23 2024: Llama 3, AI for Data Journalism, llm-evals and datasette-secrets](https://simonwillison.net/2024/Apr/23/weeknotes/)
+
+[A guidance language for controlling large language models](https://github.com/guidance-ai/guidance). [video](https://www.youtube.com/watch?v=4Wz61w5zbCk)
+
+
+
 

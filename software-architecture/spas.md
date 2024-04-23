@@ -423,5 +423,7 @@
 
 [url with multiple forward slashes](https://stackoverflow.com/questions/10161177/url-with-multiple-forward-slashes-does-it-break-anything). [RFC3986](https://datatracker.ietf.org/doc/html/rfc3986).
 
+[protocol deflation](https://twitter.com/myrrlyn/status/1782395245163876714)
+
 
 

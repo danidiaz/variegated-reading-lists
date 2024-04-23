@@ -1072,4 +1072,6 @@ deals with its own properties.
 
 [The Para(Optic) pattern](https://twitter.com/bgavran3/status/1768053628558831929). [Fundamental Components of Deep Learning A category-theoretic approach](https://www.brunogavranovic.com/assets/FundamentalComponentsOfDeepLearning.pdf)
 
+[Partial orders are the free conservative cocompletion of total orders](https://arxiv.org/abs/2404.12924)
+
 

@@ -67,3 +67,8 @@
 
 [Optimizing SQLite for servers](https://kerkour.com/sqlite-for-servers)
 
+[Best practices for in-app database migration for Sqlite](https://stackoverflow.com/questions/989558/best-practices-for-in-app-database-migration-for-sqlite). [related](https://stackoverflow.com/questions/752298/database-migrations-manage-with-build-script-or-automatic-on-app-startup).
+
+> When the app starts, I check the current user-version, apply any changes that are needed to bring the schema up to date, and then update the user-version. I wrap the updates in a transaction so that if anything goes wrong, the changes aren't committed.
+
+

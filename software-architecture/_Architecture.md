@@ -1505,4 +1505,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [first steps towards feature flags](https://twitter.com/housecor/status/1781019085062488366)
 
+[code vs. architecture](https://twitter.com/rickasaurus/status/1781872569819230422)
+
 

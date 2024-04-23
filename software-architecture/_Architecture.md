@@ -1507,4 +1507,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [code vs. architecture](https://twitter.com/rickasaurus/status/1781872569819230422)
 
+[Always rest?](https://twitter.com/housecor/status/1782764241071546765)
+
 

@@ -362,6 +362,9 @@ Things for which I found ChatGPT useful:
 
 [ LMSYS Chatbot Arena Leaderboard](https://chat.lmsys.org/?leaderboard). [tweet](https://twitter.com/simonw/status/1782872174967287999).
 
-[llama 3](https://llama.meta.com/llama3/)
+[llama 3](https://llama.meta.com/llama3/). [github](https://github.com/meta-llama/llama3)
+
+[hugging face](https://huggingface.co/). [llama on hf](https://huggingface.co/meta-llama).
+
 
 

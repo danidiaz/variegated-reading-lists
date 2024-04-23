@@ -366,5 +366,6 @@ Things for which I found ChatGPT useful:
 
 [hugging face](https://huggingface.co/). [llama on hf](https://huggingface.co/meta-llama).
 
+[Getting access to Claude](https://docs.anthropic.com/claude/docs/getting-access-to-claude)
 
 

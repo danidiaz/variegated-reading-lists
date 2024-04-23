@@ -425,5 +425,7 @@
 
 [protocol deflation](https://twitter.com/myrrlyn/status/1782395245163876714)
 
+[A relative reference that begins with a single slash character is termed an absolute-path reference.](https://webmasters.stackexchange.com/questions/56840/what-is-the-purpose-of-leading-slash-in-html-urls)
+
 
 

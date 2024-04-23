@@ -358,6 +358,10 @@ Things for which I found ChatGPT useful:
 
 [A guidance language for controlling large language models](https://github.com/guidance-ai/guidance). [video](https://www.youtube.com/watch?v=4Wz61w5zbCk)
 
+[tokenizer playground](https://twitter.com/simonw/status/1782862006095343757)
 
+[ LMSYS Chatbot Arena Leaderboard](https://chat.lmsys.org/?leaderboard). [tweet](https://twitter.com/simonw/status/1782872174967287999).
+
+[llama 3](https://llama.meta.com/llama3/)
 
 

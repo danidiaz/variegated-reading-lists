@@ -785,6 +785,7 @@ Bernini, his life and his Rome
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)
 
+- [a pattern in classic interactive fiction / text adventure development systems](https://twitter.com/nothings/status/1782705616961872124)
 
 ## Software
 

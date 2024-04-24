@@ -368,4 +368,6 @@ Things for which I found ChatGPT useful:
 
 [Getting access to Claude](https://docs.anthropic.com/claude/docs/getting-access-to-claude)
 
+[Apple CoreNet](https://twitter.com/simonw/status/1782970554611593683). [HN](https://github.com/apple/corenet/blob/main/projects/openelm/README-pretraining.md). [hn](https://news.ycombinator.com/item?id=40139398).
+
 

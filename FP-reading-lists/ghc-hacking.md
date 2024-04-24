@@ -403,4 +403,6 @@ Essential reading! Covers:
 
 [Choreographing a dance with the GHC specializer (Part 1)](https://well-typed.com/blog/2024/04/choreographing-specialization-pt1/)
 
+[Improvements to the ghc-debug terminal interface](https://www.well-typed.com/blog/2024/04/ghc-debug-improvements/)
+
 

@@ -232,7 +232,7 @@ Insurance premiums may be affected and adjusted as a result.
 
 > to contrast with h(t) which, at every time t is conditional on subjects being alive at time t. Those which have already failed are no longer considered
 
-[Title insurance](https://en.wikipedia.org/wiki/Title_insurance)
+[Title insurance](https://en.wikipedia.org/wiki/Title_insurance). [tweet](https://twitter.com/patio11/status/1783187498895646886).
 
 ## Questions
 

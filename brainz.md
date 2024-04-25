@@ -370,4 +370,7 @@ Things for which I found ChatGPT useful:
 
 [Apple CoreNet](https://twitter.com/simonw/status/1782970554611593683). [HN](https://github.com/apple/corenet/blob/main/projects/openelm/README-pretraining.md). [hn](https://news.ycombinator.com/item?id=40139398).
 
+[getting unstuck](https://twitter.com/GergelyOrosz/status/1783124079844770045)
+
+[ollama](https://ollama.com/library/llama3). [llamafile](https://twitter.com/JustineTunney/status/1783318018317271241)
 

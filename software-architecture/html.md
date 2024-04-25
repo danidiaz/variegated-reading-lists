@@ -105,7 +105,7 @@
 
 [Page Structure Tutorial](https://www.w3.org/WAI/tutorials/page-structure/)
 
-[HTML attributes vs DOM properties](https://jakearchibald.com/2024/attributes-vs-properties/)
+[HTML attributes vs DOM properties](https://jakearchibald.com/2024/attributes-vs-properties/). [HN](https://news.ycombinator.com/item?id=40152682).
 
 > Attributes serialise to HTML, whereas properties don't
 

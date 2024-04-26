@@ -435,5 +435,7 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [how open rewrite happened](https://open.spotify.com/episode/0kR28LMf6P9xB9vwokfnYU)
 
+[modern Java practices](https://github.com/binkley/modern-java-practices)
+
 
 

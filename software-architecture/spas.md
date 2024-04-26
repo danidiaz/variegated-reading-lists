@@ -429,5 +429,7 @@
 
 [No Abstractions: our API design principle](https://news.ycombinator.com/item?id=40161794)
 
+[the problems of compiled languages for quick feedback while developing](https://twitter.com/htmx_org/status/1783916750339448900)
+
 
 

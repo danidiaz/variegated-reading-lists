@@ -365,6 +365,10 @@ or computations blocked by unknowns.
 
 [Unification-free ("keyword") type checking](https://www.haskellforall.com/2024/02/unification-free-keyword-type-checking.html)
 
+["course of values induction on the value of a function"](https://hachyderm.io/@MartinEscardo@mathstodon.xyz/112339259536005520)
+
+> Induction on the length of a list is just the above with f = length.
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

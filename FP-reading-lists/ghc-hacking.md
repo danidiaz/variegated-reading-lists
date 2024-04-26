@@ -407,6 +407,6 @@ Essential reading! Covers:
 
 [Getting your Haskell executable statically linked without Nix](https://hasufell.github.io/posts/2024-04-21-static-linking.html)
 
-[Multiple Component support for cabal repl](https://well-typed.com/blog/2023/03/cabal-multi-unit/)
+[Multiple Component support for cabal repl](https://well-typed.com/blog/2023/03/cabal-multi-unit/). [motivation](https://jade.fyi/blog/cabal-test-dev-trick/). [more](https://stackoverflow.com/questions/67312833/fast-haskell-rebuildtest-with-file-watch-using-cabal-ghcid).
 
 

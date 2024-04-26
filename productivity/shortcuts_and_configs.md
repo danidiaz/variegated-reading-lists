@@ -596,7 +596,13 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [automatic scene switcher in OBS](https://obsproject.com/forum/threads/how-to-record-multiple-windows-and-switch-automatically-between-them.162906/#post-597724) (regular expressions are allowed)
 
-[Quick VS Code tip: skip selections when using Ctrl|Cmd + D](https://dev.to/codepo8/quick-vs-code-tip-skip-selections-when-using-ctrlcmd-d-36me). [tweet](https://twitter.com/kentcdodds/status/1783213095307128972).
+[Quick VS Code tip: skip selections when using Ctrl|Cmd + D](https://dev.to/codepo8/quick-vs-code-tip-skip-selections-when-using-ctrlcmd-d-36me). [tweet](https://twitter.com/kentcdodds/status/1783213095307128972). [vscode speed tips](https://twitter.com/syntaxfm/status/1783169384040878296)
+
+[region folding plugin for VSCode](https://marketplace.visualstudio.com/items?itemName=maptz.regionfolder). [should you split that file?](https://news.ycombinator.com/item?id=38489485)
+
+
+
+
 
 
 

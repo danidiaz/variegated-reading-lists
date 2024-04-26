@@ -405,4 +405,6 @@ Essential reading! Covers:
 
 [Improvements to the ghc-debug terminal interface](https://www.well-typed.com/blog/2024/04/ghc-debug-improvements/)
 
+[Getting your Haskell executable statically linked without Nix](https://hasufell.github.io/posts/2024-04-21-static-linking.html)
+
 

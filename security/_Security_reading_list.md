@@ -792,4 +792,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Spring authorization server](https://twitter.com/starbuxman/status/1762176770277790122)
 
+[secrets should be avoided at all cost](https://twitter.com/ProgrammerDude/status/1783449818045579463)
+
+[Passkeys: A Shattered Dream](https://news.ycombinator.com/item?id=40165998)
+
 

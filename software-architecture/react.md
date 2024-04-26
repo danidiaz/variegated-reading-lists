@@ -1039,4 +1039,8 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [more about React-aria](https://twitter.com/devongovett/status/1776308304337314286)
 
+[React 19 new stuff](https://twitter.com/wesbos/status/1783864009030070515)
+
+[HTML-first, framework-agnostic implementation of shadcn/UI](https://news.ycombinator.com/item?id=40122999)
+
 

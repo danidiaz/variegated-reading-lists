@@ -902,7 +902,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [prairie, a library for Haskell records](https://twitter.com/mattoflambda/status/1778553273898676320)
 
-
+[coroutines and effects](https://news.ycombinator.com/item?id=40097681)
 
 
 

@@ -1509,4 +1509,10 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Always rest?](https://twitter.com/housecor/status/1782764241071546765)
 
+[applications vs. library programming](https://lobste.rs/s/shksoq/good_essays_on_application_vs_library)
+
+[The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/). [hn](https://news.ycombinator.com/item?id=40112282).
+
+[Design patterns for extracting from REST APIs](https://blog.sequin.io/design-patterns-for-extracting-from-rest-apis/)
+
 

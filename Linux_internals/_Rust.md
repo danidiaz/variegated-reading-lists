@@ -180,3 +180,6 @@
 
 [Some useful types for database-using Rust web apps](https://boinkor.net/2024/04/some-useful-types-for-database-using-rust-web-apps/)
 
+[Rust stream API](https://news.ycombinator.com/item?id=40156890)
+
+

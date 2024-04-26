@@ -427,5 +427,7 @@
 
 [A relative reference that begins with a single slash character is termed an absolute-path reference.](https://webmasters.stackexchange.com/questions/56840/what-is-the-purpose-of-leading-slash-in-html-urls)
 
+[No Abstractions: our API design principle](https://news.ycombinator.com/item?id=40161794)
+
 
 

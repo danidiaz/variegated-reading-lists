@@ -374,3 +374,6 @@ Things for which I found ChatGPT useful:
 
 [ollama](https://ollama.com/library/llama3). [llamafile](https://twitter.com/JustineTunney/status/1783318018317271241)
 
+[the little book of deep learning](https://fleuret.org/francois/lbdl.html)
+
+

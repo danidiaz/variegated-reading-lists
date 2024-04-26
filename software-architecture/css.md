@@ -703,6 +703,8 @@ https://twitter.com/tailwindcss
 
 [avoid tooltips](https://twitter.com/jh3yy/status/1781387420690203019). [more](https://sarahmhigley.com/writing/tooltips-in-wcag-21/#best-practices-summary)
 
+[gems of tailwind CSS](https://news.ycombinator.com/item?id=40171383)
+
 
 
 

@@ -182,4 +182,6 @@
 
 [Rust stream API](https://news.ycombinator.com/item?id=40156890)
 
+[issues with Rust](https://news.ycombinator.com/item?id=40172033)
+
 

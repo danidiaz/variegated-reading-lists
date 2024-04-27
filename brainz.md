@@ -376,4 +376,6 @@ Things for which I found ChatGPT useful:
 
 [the little book of deep learning](https://fleuret.org/francois/lbdl.html)
 
+[Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html). [tweet](https://twitter.com/shishirpatil_/status/1783960177051627706). [tweet](https://twitter.com/HamelHusain/status/1783999121927598369).
+
 

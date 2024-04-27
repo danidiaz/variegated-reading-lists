@@ -380,3 +380,6 @@ Things for which I found ChatGPT useful:
 
 [different uses](https://twitter.com/vboykis/status/1784279327250485595)
 
+[pydantic all you need?](https://twitter.com/latentspacepod/status/1781400226793673137)
+
+

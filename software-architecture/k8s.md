@@ -445,5 +445,9 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [API gateway](https://twitter.com/theburningmonk/status/1781669345204043948)
 
+[basic design question](https://twitter.com/gunnarmorling/status/1784174304084546046)
+
+> "How do you build a service which needs to persist a record in a database and store a corresponding file in S3?
+
 
 

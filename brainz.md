@@ -378,4 +378,5 @@ Things for which I found ChatGPT useful:
 
 [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html). [tweet](https://twitter.com/shishirpatil_/status/1783960177051627706). [tweet](https://twitter.com/HamelHusain/status/1783999121927598369).
 
+[different uses](https://twitter.com/vboykis/status/1784279327250485595)
 

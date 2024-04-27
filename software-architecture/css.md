@@ -705,6 +705,8 @@ https://twitter.com/tailwindcss
 
 [gems of tailwind CSS](https://news.ycombinator.com/item?id=40171383)
 
+[tailwind as a programming language](https://twitter.com/tonialaribe/status/1784170476975128889)
+
 
 
 

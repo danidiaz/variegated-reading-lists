@@ -600,6 +600,8 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [region folding plugin for VSCode](https://marketplace.visualstudio.com/items?itemName=maptz.regionfolder). [should you split that file?](https://news.ycombinator.com/item?id=38489485)
 
+[how I search in 2024](https://newsletter.vickiboykis.com/archive/how-i-search-in-2024/)
+
 
 
 

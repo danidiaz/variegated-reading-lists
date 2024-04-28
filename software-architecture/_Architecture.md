@@ -1515,4 +1515,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Design patterns for extracting from REST APIs](https://blog.sequin.io/design-patterns-for-extracting-from-rest-apis/)
 
+[consumer-driven contracts](https://martinfowler.com/articles/consumerDrivenContracts.html). [mastodon](https://hachyderm.io/@odrotbohm@chaos.social/112350905696144423).
+
 

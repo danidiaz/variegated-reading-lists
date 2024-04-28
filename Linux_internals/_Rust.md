@@ -182,7 +182,7 @@
 
 [Rust stream API](https://news.ycombinator.com/item?id=40156890)
 
-[issues with Rust](https://news.ycombinator.com/item?id=40172033)
+[issues with Rust](https://news.ycombinator.com/item?id=40172033). [tweet](https://twitter.com/khyperia/status/1784234032827371921)
 
 >  one thing I found quite neat is how a very large portion of issues can be solved by reserving entity ids ahead of time (e.g. World::reserve in hecs, note the &world and not &mut world), combined with a command buffer. 
 

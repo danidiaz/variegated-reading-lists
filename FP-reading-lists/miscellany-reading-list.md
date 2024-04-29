@@ -904,5 +904,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [coroutines and effects](https://news.ycombinator.com/item?id=40097681)
 
+[Personal Library Science](https://www.bramadams.dev/issue-55/). [hn](https://news.ycombinator.com/item?id=40192359).
+
 
 

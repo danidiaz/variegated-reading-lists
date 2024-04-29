@@ -606,6 +606,8 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [vscode: tab key moves focus](https://stackoverflow.com/questions/77167764/why-is-vs-code-using-the-tab-key-to-move-focus-from-the-integrated-terminal-inst). [github](https://github.com/microsoft/vscode/issues/128858).
 
+[markers in the minimap](https://code.visualstudio.com/docs/getstarted/userinterface#_minimap)
+
 
 
 

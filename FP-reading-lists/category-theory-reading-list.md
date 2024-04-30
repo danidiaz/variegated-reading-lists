@@ -1076,4 +1076,6 @@ deals with its own properties.
 
 [Pattern runs on matter](https://arxiv.org/abs/2404.16321)
 
+[applicative as n-ary lifting](https://twitter.com/Iceland_jack/status/1785094768160117230)
+
 

@@ -906,5 +906,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Personal Library Science](https://www.bramadams.dev/issue-55/). [hn](https://news.ycombinator.com/item?id=40192359).
 
+[I made a new backplane for my consumer NAS](https://news.ycombinator.com/item?id=40199967)
 
+[☞ The Spreadsheet is a Simulation Machine](https://arbesman.substack.com/p/the-spreadsheet-is-a-simulation-machine)
 

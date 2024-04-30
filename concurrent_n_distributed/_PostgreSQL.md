@@ -417,4 +417,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Designing one-to-one relationships in PostgreSQL](https://gajus.com/blog/designing-one-to-one-relationships-in-postgresql)
 
+[Crunchy Bridge for Analytics: Your Data Lake in PostgreSQL](https://news.ycombinator.com/item?id=40212811)
+
 

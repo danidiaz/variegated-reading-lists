@@ -608,6 +608,8 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [markers in the minimap](https://code.visualstudio.com/docs/getstarted/userinterface#_minimap)
 
+[Principles for Keyboard Layouts](https://news.ycombinator.com/item?id=40186819)
+
 
 
 

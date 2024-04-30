@@ -431,5 +431,12 @@
 
 [the problems of compiled languages for quick feedback while developing](https://twitter.com/htmx_org/status/1783916750339448900)
 
+[TypeSpec: A new language for API-centric development](https://news.ycombinator.com/item?id=40206124)
+
+[Service compatibility is determined based on policy](https://blog.ploeh.dk/2024/04/29/service-compatibility-is-determined-based-on-policy/).
+
+[disadvantages of file-based routing](https://twitter.com/housecor/status/1784757498207154436)
+
+[why your framework doesn't matter](https://news.ycombinator.com/item?id=40155294)
 
 

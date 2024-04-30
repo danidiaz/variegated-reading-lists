@@ -449,5 +449,5 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 > "How do you build a service which needs to persist a record in a database and store a corresponding file in S3?
 
-
+[mutable configmaps](https://twitter.com/ProgrammerDude/status/1785361630789812693)
 

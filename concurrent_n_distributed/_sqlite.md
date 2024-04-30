@@ -71,4 +71,6 @@
 
 > When the app starts, I check the current user-version, apply any changes that are needed to bring the schema up to date, and then update the user-version. I wrap the updates in a transaction so that if anything goes wrong, the changes aren't committed.
 
+[Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html). [hn](https://news.ycombinator.com/item?id=40206752).
+
 

@@ -1043,4 +1043,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [HTML-first, framework-agnostic implementation of shadcn/UI](https://news.ycombinator.com/item?id=40122999)
 
+[RSC + react-query](https://x.com/AdamRackis/status/1784763673006743821)
+
 

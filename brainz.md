@@ -382,4 +382,12 @@ Things for which I found ChatGPT useful:
 
 [pydantic all you need?](https://twitter.com/latentspacepod/status/1781400226793673137)
 
+[code assistance](https://twitter.com/vboykis/status/1785028286017368289)
+
+[ differentiable wonderland](https://www.sscardapane.it/alice-book). [arxiv](https://arxiv.org/abs/2404.17625).
+
+[System prompts are adding unnecessary complexity, change my mind!](https://www.reddit.com/r/LocalLLaMA/comments/19dscer/system_prompts_are_adding_unnecessary_complexity/). [ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts).
+
+[LoRA+](https://news.ycombinator.com/item?id=40188511)
+
 

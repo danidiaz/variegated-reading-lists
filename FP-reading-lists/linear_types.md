@@ -122,4 +122,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [linear optics](https://twitter.com/aspiwack/status/1750941510604886029)
 
+[Functional Ownership through Fractional Uniqueness](https://dl.acm.org/doi/10.1145/3649848). [tweet](https://twitter.com/starsandspirals/status/1785273479140376878).
+
 

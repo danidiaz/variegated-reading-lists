@@ -616,7 +616,9 @@ VSCode simple config for recordings:
     "haskell.plugin.importLens.globalOn": false,
     "editor.hover.enabled": false,
 
+[Zen Mode content no longer displays at full screen width](https://github.com/Microsoft/vscode/issues/44794)
 
+>  "zenMode.centerLayout": false
 
 
 

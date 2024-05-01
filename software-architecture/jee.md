@@ -439,4 +439,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Modern Testing Tools for Java Developers](https://speakerdeck.com/eliasnogueira/modern-testing-tools-for-java-developers)
 
+[Spring Tips: Beans, Beans: What's in a Spring bean?](https://www.youtube.com/watch?v=Z5hxolai4Tk)
+
 

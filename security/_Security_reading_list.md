@@ -796,4 +796,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Passkeys: A Shattered Dream](https://news.ycombinator.com/item?id=40165998)
 
+[env vars suck for secrets](https://hachyderm.io/@pid_eins@mastodon.social/112359218681065941)
+
+> Environment variables after all suck for passing secrets, since they are by default inherited down the process tree, even across privilege changes, are placed in swappable memory, cannot be recalled, have no access control concept (i.e. not locked to the UID/GID) and so on
+
 

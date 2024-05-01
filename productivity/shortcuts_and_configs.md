@@ -610,8 +610,11 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [Principles for Keyboard Layouts](https://news.ycombinator.com/item?id=40186819)
 
+VSCode simple config for recordings:
 
-
+    "haskell.plugin.ghcide-completions.config.snippetsOn": false,
+    "haskell.plugin.importLens.globalOn": false,
+    "editor.hover.enabled": false,
 
 
 

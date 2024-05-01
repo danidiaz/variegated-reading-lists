@@ -146,4 +146,6 @@
 
 [WireGuard vs. Tailscale · Tailscale](https://tailscale.com/compare/wireguard)
 
+[Investigation of a Cross-regional Network Performance Issue](https://netflixtechblog.medium.com/investigation-of-a-cross-regional-network-performance-issue-422d6218fdf1)
+
 

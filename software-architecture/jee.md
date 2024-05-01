@@ -437,5 +437,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [modern Java practices](https://github.com/binkley/modern-java-practices)
 
+[Modern Testing Tools for Java Developers](https://speakerdeck.com/eliasnogueira/modern-testing-tools-for-java-developers)
 
 

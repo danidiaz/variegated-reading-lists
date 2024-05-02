@@ -626,4 +626,6 @@ VSCode simple config for recordings:
 
 - [timeline](https://docs.kdenlive.org/en/user_interface/timeline.html#timeline)
 
+- [track header](https://docs.kdenlive.org/en/user_interface/timeline.html#track-header)
+
 

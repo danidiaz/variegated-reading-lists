@@ -624,4 +624,6 @@ VSCode simple config for recordings:
 
 - [monitors](https://docs.kdenlive.org/en/user_interface/monitors.html)
 
+- [timeline](https://docs.kdenlive.org/en/user_interface/timeline.html#timeline)
+
 

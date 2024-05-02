@@ -294,4 +294,6 @@
 
 [code reviews](https://www.piglei.com/articles/3-important-things-I-overlooked-during-cr/)
 
+[taking turns](https://hachyderm.io/@grimalkina@mastodon.social/112372287642535262)
+
 

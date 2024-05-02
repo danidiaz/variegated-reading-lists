@@ -620,6 +620,8 @@ VSCode simple config for recordings:
 
 >  "zenMode.centerLayout": false
 
+[kdenlive](https://docs.kdenlive.org/)
 
+- [monitors](https://docs.kdenlive.org/en/user_interface/monitors.html)
 
 

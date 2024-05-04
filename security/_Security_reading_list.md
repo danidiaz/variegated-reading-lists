@@ -800,4 +800,4 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > Environment variables after all suck for passing secrets, since they are by default inherited down the process tree, even across privilege changes, are placed in swappable memory, cannot be recalled, have no access control concept (i.e. not locked to the UID/GID) and so on
 
-
+[endorsement key](https://twitter.com/ProgrammerDude/status/1786736352823800224)

@@ -296,6 +296,7 @@
 
 [taking turns](https://hachyderm.io/@grimalkina@mastodon.social/112372287642535262)
 
-[creating videos](https://twitter.com/mattpocockuk/status/1590313564992339969)
+[creating videos](https://twitter.com/mattpocockuk/status/1590313564992339969). [in one go?](https://www.reddit.com/r/youtubers/comments/p3vy48/question_do_you_record_your_audiovideo_all_in_one/). [how to record](https://www.youtube.com/watch?v=fgOZq6Ouu_o)
+
 
 

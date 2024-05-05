@@ -628,4 +628,8 @@ VSCode simple config for recordings:
 
 - [track header](https://docs.kdenlive.org/en/user_interface/timeline.html#track-header)
 
+[Youtube video chapters](https://support.google.com/youtube/answer/9884579?hl=en)
+
+
+
 

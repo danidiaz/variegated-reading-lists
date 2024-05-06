@@ -409,4 +409,6 @@ Essential reading! Covers:
 
 [Multiple Component support for cabal repl](https://well-typed.com/blog/2023/03/cabal-multi-unit/). [motivation](https://jade.fyi/blog/cabal-test-dev-trick/). [more](https://stackoverflow.com/questions/67312833/fast-haskell-rebuildtest-with-file-watch-using-cabal-ghcid).
 
+[Fault-tolerant GHC compiler pipeline](https://github.com/haskellfoundation/tech-proposals/blob/f79c2940f36e05bf587fb6b9b7ee0dce09f041f0/proposals/0000-fault-tolerant-ghc.md)
+
 

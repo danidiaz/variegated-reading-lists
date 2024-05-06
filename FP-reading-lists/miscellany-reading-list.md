@@ -910,3 +910,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [☞ The Spreadsheet is a Simulation Machine](https://arbesman.substack.com/p/the-spreadsheet-is-a-simulation-machine)
 
+[effects and continuations](https://twitter.com/etorreborre/status/1787559009202884981)
+
+
+

@@ -369,6 +369,7 @@ or computations blocked by unknowns.
 
 > Induction on the length of a list is just the above with f = length.
 
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)
@@ -516,6 +517,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 [RZK: Experimental proof assistant for synthetic ∞-categories](https://github.com/rzk-lang/rzk). [hn](https://news.ycombinator.com/item?id=37692166)
 
 [the usability of tactics](https://twitter.com/ilyasergey/status/1780563141258355041)
+
+[Guided equality saturation](https://hachyderm.io/@Jose_A_Alonso@mathstodon.xyz/112393186451023137)
 
 # set theory
 

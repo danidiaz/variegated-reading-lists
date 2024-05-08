@@ -1078,4 +1078,6 @@ deals with its own properties.
 
 [applicative as n-ary lifting](https://twitter.com/Iceland_jack/status/1785094768160117230)
 
+[every distributive is representable](https://duplode.github.io/posts/every-distributive-is-representable.html)
+
 

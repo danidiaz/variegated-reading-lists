@@ -419,4 +419,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Crunchy Bridge for Analytics: Your Data Lake in PostgreSQL](https://news.ycombinator.com/item?id=40212811)
 
+[psql's \d](https://news.ycombinator.com/item?id=40299761)
+
 

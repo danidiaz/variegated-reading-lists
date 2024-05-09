@@ -73,4 +73,6 @@
 
 [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html). [hn](https://news.ycombinator.com/item?id=40206752).
 
+[generated columns](https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns)
+
 

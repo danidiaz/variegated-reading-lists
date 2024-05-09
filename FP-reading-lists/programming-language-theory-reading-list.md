@@ -898,5 +898,7 @@ small-step operational semantics
 
 [the common semantic core of many languages](https://twitter.com/ShriramKMurthi/status/1778814394304024800)
 
+[Compiling higher order functions with GADTs](https://injuly.in/blog/defunct/)
+
 
 

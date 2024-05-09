@@ -632,4 +632,8 @@ VSCode simple config for recordings:
 
 [multi-root workspaces in vscode](https://code.visualstudio.com/docs/editor/multi-root-workspaces)
 
+[code actions](https://code.visualstudio.com/api/references/vscode-api#CodeActionProvider&lt;T&gt;). [code lenses](https://code.visualstudio.com/api/references/vscode-api#CodeLens).
+
+> code actions typically either fix problems or beautify/refactor code.
+
 

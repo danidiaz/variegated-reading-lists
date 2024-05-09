@@ -632,9 +632,16 @@ VSCode simple config for recordings:
 
 [multi-root workspaces in vscode](https://code.visualstudio.com/docs/editor/multi-root-workspaces)
 
-[code actions](https://code.visualstudio.com/api/references/vscode-api#CodeActionProvider&lt;T&gt;). [code lenses](https://code.visualstudio.com/api/references/vscode-api#CodeLens).
+[code actions](https://code.visualstudio.com/api/references/vscode-api#CodeActionProvider&lt;T&gt;). [code lenses](https://code.visualstudio.com/api/references/vscode-api#CodeLens). [more about code lenses](https://code.visualstudio.com/blogs/2017/02/12/code-lens-roundup). [in hls](https://haskell-language-server.readthedocs.io/en/latest/features.html#refine-import-code-lens)
 
 > code actions typically either fix problems or beautify/refactor code.
 
 > A code lens represents a Command that should be shown along with source text, like the number of references, a way to run tests, etc.
+
+> CodeLens is a popular feature in Visual Studio Code. The essence of the
+> feature is "actionable contextual information interspersed" in your source
+> code. 
+
+> Shows refined imports and applies them with a click (same as the code action).
+
 

@@ -636,4 +636,5 @@ VSCode simple config for recordings:
 
 > code actions typically either fix problems or beautify/refactor code.
 
+> A code lens represents a Command that should be shown along with source text, like the number of references, a way to run tests, etc.
 

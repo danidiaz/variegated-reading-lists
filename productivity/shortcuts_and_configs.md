@@ -644,4 +644,8 @@ VSCode simple config for recordings:
 
 > Shows refined imports and applies them with a click (same as the code action).
 
+[Code Actions = Quick Fixes and refactorings](https://code.visualstudio.com/docs/editor/refactoring#_code-actions-quick-fixes-and-refactorings)
+
+> If you prefer to only see refactorings without Quick Fixes, then you can use the Refactor command (Ctrl+Shift+R).
+
 

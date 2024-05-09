@@ -411,4 +411,8 @@ Essential reading! Covers:
 
 [Fault-tolerant GHC compiler pipeline](https://github.com/haskellfoundation/tech-proposals/blob/f79c2940f36e05bf587fb6b9b7ee0dce09f041f0/proposals/0000-fault-tolerant-ghc.md)
 
+[GHC notes (there's an HLS plugin for them)](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes)
+
+> A commit message describes a change; a comment or a Note describes a state
+
 

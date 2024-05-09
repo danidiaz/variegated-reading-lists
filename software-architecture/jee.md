@@ -441,4 +441,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Spring Tips: Beans, Beans: What's in a Spring bean?](https://www.youtube.com/watch?v=Z5hxolai4Tk)
 
+[http webserver utilities](https://hachyderm.io/@java_discussions@mastodon.social/112411328057966270)
+
 

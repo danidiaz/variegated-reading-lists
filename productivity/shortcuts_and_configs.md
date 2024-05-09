@@ -630,6 +630,6 @@ VSCode simple config for recordings:
 
 [Youtube video chapters](https://support.google.com/youtube/answer/9884579?hl=en)
 
-
+[multi-root workspaces in vscode](https://code.visualstudio.com/docs/editor/multi-root-workspaces)
 
 

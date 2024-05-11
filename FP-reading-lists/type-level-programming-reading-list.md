@@ -437,4 +437,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Implicit arguments](https://oleg.fi/gists/posts/2024-04-01-implicit-arguments.html)
 
+[Playing with Visible Forall in GHC 9.10](https://discourse.haskell.org/t/playing-with-visible-forall-in-ghc-9-10/9528)
+
 

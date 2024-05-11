@@ -415,4 +415,6 @@ Essential reading! Covers:
 
 > A commit message describes a change; a comment or a Note describes a state
 
+[GHC’s type checker can operate either in checking mode or inference mode.](https://discourse.haskell.org/t/typeabstractions-in-ghc-9-10/9530/7)
+
 

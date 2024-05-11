@@ -326,4 +326,6 @@ Identity, Parametrically](https://jesper.sikanda.be/files/leibniz-equality.pdf)
 
 [opaque definitions](https://agda.readthedocs.io/en/latest/language/opaque-definitions.html)
 
+[Agda Core: The Dream and the Reality](https://jesper.cx/posts/agda-core.html)
+
 

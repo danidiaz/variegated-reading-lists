@@ -390,4 +390,6 @@ is not a problem)
 
 [Is it possible, using PHOAS, to evaluate a term to normal form, and then stringify it?](https://stackoverflow.com/questions/77332495/is-it-possible-using-phoas-to-evaluate-a-term-to-normal-form-and-then-stringi)
 
+[Operations On Syntax Should Not Inspect The Scope](https://jesper.cx/files/scopes.pdf)
+
 

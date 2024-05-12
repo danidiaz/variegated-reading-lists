@@ -124,4 +124,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Functional Ownership through Fractional Uniqueness](https://dl.acm.org/doi/10.1145/3649848). [tweet](https://twitter.com/starsandspirals/status/1785273479140376878).
 
+[Reference Counting with Linear Types](https://discourse.haskell.org/t/reference-counting-with-linear-types/9535)
+
 

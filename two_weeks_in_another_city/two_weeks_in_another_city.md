@@ -781,6 +781,8 @@ Bernini, his life and his Rome
 
 [fast travel and monetization](https://twitter.com/TafferKing451/status/1772411770897879110)
 
+[cover in level design](https://book.leveldesignbook.com/process/combat/cover)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

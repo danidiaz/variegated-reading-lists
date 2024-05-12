@@ -912,5 +912,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [effects and continuations](https://twitter.com/etorreborre/status/1787559009202884981)
 
+[The ultimate guide to Haskell Strings](https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html)
+
 
 

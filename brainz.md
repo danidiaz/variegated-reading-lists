@@ -390,4 +390,6 @@ Things for which I found ChatGPT useful:
 
 [LoRA+](https://news.ycombinator.com/item?id=40188511)
 
+[GPT-4o](https://news.ycombinator.com/item?id=40345775)
+
 

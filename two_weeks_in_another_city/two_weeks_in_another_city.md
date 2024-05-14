@@ -783,6 +783,11 @@ Bernini, his life and his Rome
 
 [cover in level design](https://book.leveldesignbook.com/process/combat/cover)
 
+[DnD 4E](https://twitter.com/JazzElves/status/1789889667644424386)
+
+[Lords of Midnight](https://twitter.com/lorenschmidt/status/1789865222796144899)
+
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

@@ -392,4 +392,6 @@ Things for which I found ChatGPT useful:
 
 [GPT-4o](https://news.ycombinator.com/item?id=40345775)
 
+[GPUs Go Brrr](https://news.ycombinator.com/item?id=40337936)
+
 

@@ -394,4 +394,6 @@ Things for which I found ChatGPT useful:
 
 [GPUs Go Brrr](https://news.ycombinator.com/item?id=40337936)
 
+[replaced](https://twitter.com/BlancaWrites/status/1790403709119414321)
+
 

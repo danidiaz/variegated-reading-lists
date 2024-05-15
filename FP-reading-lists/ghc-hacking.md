@@ -417,4 +417,6 @@ Essential reading! Covers:
 
 [GHC’s type checker can operate either in checking mode or inference mode.](https://discourse.haskell.org/t/typeabstractions-in-ghc-9-10/9530/7)
 
+[Live Reloading GUI From Scratch](https://discourse.haskell.org/t/live-reloading-gui-from-scratch/9569)
+
 

@@ -439,4 +439,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Playing with Visible Forall in GHC 9.10](https://discourse.haskell.org/t/playing-with-visible-forall-in-ghc-9-10/9528)
 
+[reifying type-level parsers](https://twitter.com/raehik/status/1790803790448226524)
+
 

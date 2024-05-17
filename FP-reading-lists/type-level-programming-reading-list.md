@@ -441,4 +441,8 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [reifying type-level parsers](https://twitter.com/raehik/status/1790803790448226524)
 
+[optics better than generic-lens](https://discourse.haskell.org/t/what-are-you-supposed-to-do-about-wambiguous-fields/9545/6)
+
+[GADT and type indices](https://discourse.haskell.org/t/type-level-indexing-type-classes-or-something-else/9570/7)
+
 

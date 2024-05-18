@@ -791,6 +791,8 @@ Bernini, his life and his Rome
 
 [tales of the crystals](https://x.com/riseupcomus/status/1791448865846984988)
 
+[text files and reloads](https://x.com/TylerGlaiel/status/1791184497985323108)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

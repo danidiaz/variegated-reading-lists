@@ -789,6 +789,8 @@ Bernini, his life and his Rome
 
 [Overboard!](https://twitter.com/joningold/status/1790691340092580075)
 
+[tales of the crystals](https://x.com/riseupcomus/status/1791448865846984988)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

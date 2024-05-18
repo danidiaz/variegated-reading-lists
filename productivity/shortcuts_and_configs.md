@@ -602,7 +602,7 @@ Even if you have the same number of conflicts, rebasing is still a more tedious 
 
 [how I search in 2024](https://newsletter.vickiboykis.com/archive/how-i-search-in-2024/)
 
-[vscode: skip ctrl-p in terminal](https://github.com/microsoft/vscode/issues/100292). [also ctrl-f](https://stackoverflow.com/questions/68421287/how-to-send-ctrlf-to-shell-in-vs-codes-integrated-terminal). [Terminal basics](https://code.visualstudio.com/docs/terminal/basics).
+[vscode: skip ctrl-p in terminal](https://github.com/microsoft/vscode/issues/100292). [also ctrl-f](https://stackoverflow.com/questions/68421287/how-to-send-ctrlf-to-shell-in-vs-codes-integrated-terminal). [Terminal basics](https://code.visualstudio.com/docs/terminal/basics). [advanced terminal tricks](https://code.visualstudio.com/docs/terminal/advanced).
 
 [vscode: tab key moves focus](https://stackoverflow.com/questions/77167764/why-is-vs-code-using-the-tab-key-to-move-focus-from-the-integrated-terminal-inst). [github](https://github.com/microsoft/vscode/issues/128858).
 

@@ -396,4 +396,6 @@ Things for which I found ChatGPT useful:
 
 [replaced](https://twitter.com/BlancaWrites/status/1790403709119414321)
 
+[function calling vs. ReAct](https://x.com/headinthebox/status/1791575481709707653)
+
 

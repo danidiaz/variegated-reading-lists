@@ -419,4 +419,6 @@ Essential reading! Covers:
 
 [Live Reloading GUI From Scratch](https://discourse.haskell.org/t/live-reloading-gui-from-scratch/9569)
 
+[Objects with special collection routines in GHC's GC](https://well-typed.com/blog/2018/05/ghc-special-gc-objects/)
+
 

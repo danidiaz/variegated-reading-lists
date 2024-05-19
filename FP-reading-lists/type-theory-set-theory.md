@@ -520,6 +520,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [Guided equality saturation](https://hachyderm.io/@Jose_A_Alonso@mathstodon.xyz/112393186451023137)
 
+[Bridging syntax and semantics of Lean expressions in E-Graphs](https://arxiv.org/abs/2405.10188)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

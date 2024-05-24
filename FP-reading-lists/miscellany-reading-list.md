@@ -914,5 +914,5 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [The ultimate guide to Haskell Strings](https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html)
 
-
+[Queueing An interactive study of queueing strategies](https://encore.dev/blog/queueing)
 

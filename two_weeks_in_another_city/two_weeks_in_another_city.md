@@ -793,6 +793,8 @@ Bernini, his life and his Rome
 
 [text files and reloads](https://x.com/TylerGlaiel/status/1791184497985323108)
 
+[cutting](https://x.com/juliemuncy23/status/1793383090573701239)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

@@ -398,4 +398,6 @@ Things for which I found ChatGPT useful:
 
 [function calling vs. ReAct](https://x.com/headinthebox/status/1791575481709707653)
 
+[golden gate claude](https://www.anthropic.com/news/golden-gate-claude). [twitter](https://x.com/i/bookmarks?post_id=1793844076972015733). [twitter](https://x.com/raphaelmilliere/status/1793832549472743551).
+
 

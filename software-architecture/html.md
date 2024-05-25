@@ -109,4 +109,5 @@
 
 > Attributes serialise to HTML, whereas properties don't
 
+[Switching It Up With HTML’s Latest Control](https://www.smashingmagazine.com/2024/05/switching-it-up-html-latest-control/)
 

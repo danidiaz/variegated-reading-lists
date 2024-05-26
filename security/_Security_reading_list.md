@@ -804,3 +804,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey)
 
+[2 OAuth providers, magic link, credential login, account joining](https://x.com/webdevcody/status/1794123071932015079)
+
+

@@ -421,4 +421,6 @@ Essential reading! Covers:
 
 [Objects with special collection routines in GHC's GC](https://well-typed.com/blog/2018/05/ghc-special-gc-objects/)
 
+[TH compilation](https://discord.com/channels/280033776820813825/280036215477239809/1244366119473647647)
+
 

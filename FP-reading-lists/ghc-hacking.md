@@ -423,4 +423,6 @@ Essential reading! Covers:
 
 [TH compilation](https://discord.com/channels/280033776820813825/280036215477239809/1244366119473647647)
 
+["running typed splices in the zonker"](https://discord.com/channels/280033776820813825/280036215477239809/1244366377645637763)
+
 

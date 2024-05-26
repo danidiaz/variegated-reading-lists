@@ -648,4 +648,6 @@ VSCode simple config for recordings:
 
 > If you prefer to only see refactorings without Quick Fixes, then you can use the Refactor command (Ctrl+Shift+R).
 
+[ublock origin](https://x.com/SwiftOnSecurity/status/1794748936969715946)
+
 

@@ -795,6 +795,8 @@ Bernini, his life and his Rome
 
 [cutting](https://x.com/juliemuncy23/status/1793383090573701239)
 
+[meaning in the mechanics](https://x.com/BretDevereaux/status/1794839347105267937)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

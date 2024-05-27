@@ -806,4 +806,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [2 OAuth providers, magic link, credential login, account joining](https://x.com/webdevcody/status/1794123071932015079)
 
+[   Should I use JWTs for authentication tokens? ](https://news.ycombinator.com/item?id=40491694)
+
 

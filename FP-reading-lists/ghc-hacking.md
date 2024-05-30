@@ -425,4 +425,8 @@ Essential reading! Covers:
 
 ["running typed splices in the zonker"](https://discord.com/channels/280033776820813825/280036215477239809/1244366377645637763)
 
+[th improvements](https://discourse.haskell.org/t/what-is-your-recent-ghc-9-4-experience-using-template-haskell/9615/18). [reification](https://gitlab.haskell.org/ghc/ghc/-/issues/24021#reification)
+
+[LIQUID HASKELL THROUGH THE COMPILERS](https://www.tweag.io/blog/2024-05-30-lh-upgrades/)
+
 

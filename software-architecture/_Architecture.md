@@ -1517,4 +1517,5 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [consumer-driven contracts](https://martinfowler.com/articles/consumerDrivenContracts.html). [mastodon](https://hachyderm.io/@odrotbohm@chaos.social/112350905696144423).
 
+[event architectures: orchestration vs. choreography](https://news.ycombinator.com/item?id=40497602)
 

@@ -300,5 +300,6 @@
 
 ["large, complex codebases"](https://www.reddit.com/r/cscareerquestions/s/4pALYpRYzO)
 
+[agile pull requests](https://blog.ploeh.dk/2021/06/21/agile-pull-requests/)
 
 

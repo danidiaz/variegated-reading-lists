@@ -22,6 +22,6 @@
 
 [Functional programming in Lean](https://www.reddit.com/r/programming/comments/v8lkl0/functional_programming_in_lean_an_inprogress_book/). [tweet](https://twitter.com/d_christiansen/status/1534944263129251840).
 
-
+[intro to lean](https://media.ccc.de/v/gpn22-483-intro-to-lean-4-a-language-at-the-intersection-of-programming-and-mathematics)
 
 

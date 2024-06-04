@@ -439,4 +439,6 @@
 
 [why your framework doesn't matter](https://news.ycombinator.com/item?id=40155294)
 
+[avoid SDKs?](https://x.com/kentcdodds/status/1798018124769640492). [post](https://www.epicweb.dev/skip-sdks-in-simple-integrations)
+
 

@@ -814,4 +814,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > As an additional confounder to our topic, an OAuth process does usually include several kinds of authentication in its process: the resource owner authenticates to the authorization server in the authorization step, the client authenticates to the authorization server in the token endpoint, and there may be others. The existence of these authentication events within the OAuth protocol does not translate to the Oauth protocol itself being able to reliably convey authentication.
 
+> An additional (and very dangerous) threat occurs when clients accept access tokens from sources other than the return call from the token endpoint. This can occur for a client that uses the implicit flow (where the token is passed directly as a parameter in the URL hash) and don't properly use the OAuth state parameter. This issue can also occur if different parts of an application pass the access token between components in order to "share" access among them. 
+
 

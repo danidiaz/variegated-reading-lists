@@ -445,4 +445,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [GADT and type indices](https://discourse.haskell.org/t/type-level-indexing-type-classes-or-something-else/9570/7)
 
+[TypeRep is effectively the Sing for Type, and Typeable is its SingI.](https://discourse.haskell.org/t/singi-and-datakinds/9691/11)
+
 

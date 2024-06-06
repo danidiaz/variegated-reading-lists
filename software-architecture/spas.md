@@ -441,4 +441,6 @@
 
 [avoid SDKs?](https://x.com/kentcdodds/status/1798018124769640492). [post](https://www.epicweb.dev/skip-sdks-in-simple-integrations)
 
+[edge servers and databases](https://x.com/kentcdodds/status/1798798692843229588)
+
 

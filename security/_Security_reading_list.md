@@ -816,4 +816,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > An additional (and very dangerous) threat occurs when clients accept access tokens from sources other than the return call from the token endpoint. This can occur for a client that uses the implicit flow (where the token is passed directly as a parameter in the URL hash) and don't properly use the OAuth state parameter. This issue can also occur if different parts of an application pass the access token between components in order to "share" access among them. 
 
+> This problem occurs because the mechanisms for conveying authentication information discussed here are explicitly left out of scope for OAuth. OAuth defines no specific token format, defines no common set of scopes for the access token, and does not at all address how a protected resource validates an access token.
+
 

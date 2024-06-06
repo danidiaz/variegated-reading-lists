@@ -808,4 +808,10 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [   Should I use JWTs for authentication tokens? ](https://news.ycombinator.com/item?id=40491694)
 
+[User Authentication with OAuth 2.0](https://oauth.net/articles/authentication/)
+
+> As it turns out, though, there are a handful of things that can be used along with OAuth to create an authentication and identity protocol on top of this delegation and authorization protocol. In nearly all of these cases, the core functionality of OAuth remains intact, and what's happening is that the user is delegating access to their identity to the application they're trying to log in to. The client application then becomes a consumer of the identity API, thereby finding out who authorized the client in the first place. One major benefit of building authentication on top of authorization in this way is that it allows for management of end-user consent, which is very important in cross-domain identity federation at internet scale. Another important benefit is that the user can delegate access to other protected APIs along side their identity at the same time, making it much simpler for both application developers and end users to manage.
+
+> As an additional confounder to our topic, an OAuth process does usually include several kinds of authentication in its process: the resource owner authenticates to the authorization server in the authorization step, the client authenticates to the authorization server in the token endpoint, and there may be others. The existence of these authentication events within the OAuth protocol does not translate to the Oauth protocol itself being able to reliably convey authentication.
+
 

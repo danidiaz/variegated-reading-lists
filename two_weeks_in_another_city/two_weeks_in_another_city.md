@@ -797,6 +797,8 @@ Bernini, his life and his Rome
 
 [meaning in the mechanics](https://x.com/BretDevereaux/status/1794839347105267937)
 
+[immersion](https://x.com/chthonstone/status/1798503833997606937)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

@@ -443,6 +443,8 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [http webserver utilities](https://hachyderm.io/@java_discussions@mastodon.social/112411328057966270)
 
-[Distributed Scheduling with JobRunr and Spring Boot](https://www.youtube.com/watch?v=jxNTpfVft-M). [Distributed Scheduling with Spring Boot: the challenges & pitfalls of implementing a background job](https://x.com/spring_io/status/1799063492860977371).
+[Distributed Scheduling with JobRunr and Spring Boot](https://www.youtube.com/watch?v=jxNTpfVft-M). [Distributed Scheduling with Spring Boot: the challenges & pitfalls of implementing a background job](https://x.com/spring_io/status/1799063492860977371). [Getting Started with JobRunr: Powerful Background Job Processing Library](https://foojay.io/today/getting-started-with-jobrunr-a-powerful-task-scheduler-in-ja/).
+
+
 
 

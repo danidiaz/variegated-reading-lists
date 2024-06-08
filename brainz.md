@@ -400,4 +400,6 @@ Things for which I found ChatGPT useful:
 
 [golden gate claude](https://www.anthropic.com/news/golden-gate-claude). [twitter](https://x.com/i/bookmarks?post_id=1793844076972015733). [twitter](https://x.com/raphaelmilliere/status/1793832549472743551). [tweet](https://x.com/zswitten/status/1793748330796978589).
 
+[compile C code](https://x.com/simonw/status/1799465170198310961)
+
 

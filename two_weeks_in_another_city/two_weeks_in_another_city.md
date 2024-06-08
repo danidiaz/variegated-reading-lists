@@ -799,6 +799,8 @@ Bernini, his life and his Rome
 
 [immersion](https://x.com/chthonstone/status/1798503833997606937)
 
+[Making content before you've figured out your systemic foundation is ass-backwards](https://x.com/jesawyer/status/1799098664939561373)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

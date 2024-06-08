@@ -126,4 +126,10 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Reference Counting with Linear Types](https://discourse.haskell.org/t/reference-counting-with-linear-types/9535)
 
+[Linear types issues in GHC](https://gitlab.haskell.org/ghc/ghc/-/issues/?label_name%5B%5D=LinearTypes)
+
+[GADT record syntax does not accept linearity annotations](https://gitlab.haskell.org/ghc/ghc/-/issues/24097)
+
+[lazy pattern matches not considered linear](https://gitlab.haskell.org/ghc/ghc/-/issues/23461)
+
 

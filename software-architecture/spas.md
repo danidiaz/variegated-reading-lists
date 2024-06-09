@@ -443,4 +443,6 @@
 
 [edge servers and databases](https://x.com/kentcdodds/status/1798798692843229588)
 
+[Building a SaaS product with Htmx](https://news.ycombinator.com/item?id=40618841)
+
 

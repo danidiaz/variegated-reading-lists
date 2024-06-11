@@ -818,4 +818,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > This problem occurs because the mechanisms for conveying authentication information discussed here are explicitly left out of scope for OAuth. OAuth defines no specific token format, defines no common set of scopes for the access token, and does not at all address how a protected resource validates an access token.
 
+[A Passwordless Future! Passkeys for Spring Developers](https://www.youtube.com/watch?v=7R81uwxv1k0)
+
 

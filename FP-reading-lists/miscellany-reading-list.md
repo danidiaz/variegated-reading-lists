@@ -916,3 +916,9 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Queueing An interactive study of queueing strategies](https://encore.dev/blog/queueing)
 
+[Milner's LFC tactics, VL lenses, and Alternative](https://x.com/aspiwack/status/1800137098877661679). [tactic library in van Laarhoven form](https://x.com/aspiwack/status/1800138156102324640). [peppermint](https://github.com/aspiwack/peppermint-prover/blob/master/lensy-f/src/Control/Tactic.hs)
+
+
+
+
+

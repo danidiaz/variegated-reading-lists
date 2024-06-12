@@ -1045,6 +1045,7 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [RSC + react-query](https://x.com/AdamRackis/status/1784763673006743821)
 
-[React 19 suspense change & trouble with react-query](https://x.com/AdamRackis/status/1800588094560772224)
+[React 19 suspense change & trouble with react-query](https://x.com/AdamRackis/status/1800588094560772224). [another tweet](https://x.com/TkDodo/status/1800941853572764015).
+
 
 

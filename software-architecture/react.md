@@ -1047,5 +1047,8 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [React 19 suspense change & trouble with react-query](https://x.com/AdamRackis/status/1800588094560772224). [another tweet](https://x.com/TkDodo/status/1800941853572764015).
 
+[Goodbye, forwardRef](https://www.youtube.com/watch?v=m4QbeS9BTNU)
+
+[global vs. local modals](https://www.youtube.com/watch?v=iMoAviG_ZUE)
 
 

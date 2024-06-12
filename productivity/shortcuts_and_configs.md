@@ -650,4 +650,6 @@ VSCode simple config for recordings:
 
 [ublock origin](https://x.com/SwiftOnSecurity/status/1794748936969715946)
 
+[Demystifying git submodules](https://www.cyberdemon.org/2024/03/20/submodules.html)
+
 

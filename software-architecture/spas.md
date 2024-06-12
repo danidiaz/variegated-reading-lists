@@ -445,4 +445,6 @@
 
 [Building a SaaS product with Htmx](https://news.ycombinator.com/item?id=40618841)
 
+[datalist and options bug](https://x.com/htmx_org/status/1800580638644519361)
+
 

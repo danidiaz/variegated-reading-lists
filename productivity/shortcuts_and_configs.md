@@ -652,4 +652,6 @@ VSCode simple config for recordings:
 
 [Demystifying git submodules](https://www.cyberdemon.org/2024/03/20/submodules.html)
 
+[throw away Git submodule state](https://hachyderm.io/@jyn@tech.lgbt/112604949366154042)
+
 

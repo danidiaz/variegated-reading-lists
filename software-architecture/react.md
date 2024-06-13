@@ -1051,4 +1051,7 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [global vs. local modals](https://www.youtube.com/watch?v=iMoAviG_ZUE)
 
+[react trouble](https://x.com/AdamRackis/status/1800932992161841590). [need to move to routes](https://x.com/dan_abramov2/status/1801210001760858367). [when to fetch?](https://www.youtube.com/watch?v=95B8mnhzoCM&t=66s). [tweet](https://x.com/ryanflorence/status/1801240878000034265).
+
+["Mind The Gap" by Ryan Florence](https://www.youtube.com/watch?v=zqhE-CepH2g)
 

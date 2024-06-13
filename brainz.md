@@ -402,5 +402,6 @@ Things for which I found ChatGPT useful:
 
 [power users](https://x.com/max_paperclips/status/1799462483163332773). [compile C code](https://x.com/simonw/status/1799465170198310961)
 
+[tool calling prompts](https://x.com/lgrammel/status/1801213236081004809). [page](https://sdk.vercel.ai/docs/ai-sdk-core/tools-and-tool-calling#prompt-engineering-with-tools).
 
 

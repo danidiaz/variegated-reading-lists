@@ -429,4 +429,6 @@ Essential reading! Covers:
 
 [LIQUID HASKELL THROUGH THE COMPILERS](https://www.tweag.io/blog/2024-05-30-lh-upgrades/)
 
+[Choreographing a dance with the GHC specializer (Part 2)](https://well-typed.com/blog/2024/06/choreographing-specialization-pt2/)
+
 

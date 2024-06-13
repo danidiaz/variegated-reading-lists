@@ -1055,3 +1055,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 ["Mind The Gap" by Ryan Florence](https://www.youtube.com/watch?v=zqhE-CepH2g)
 
+[don't start fetches on render](https://x.com/kentcdodds/status/1801322705804759548)
+
+

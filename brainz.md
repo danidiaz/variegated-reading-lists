@@ -404,4 +404,8 @@ Things for which I found ChatGPT useful:
 
 [tool calling prompts](https://x.com/lgrammel/status/1801213236081004809). [page](https://sdk.vercel.ai/docs/ai-sdk-core/tools-and-tool-calling#prompt-engineering-with-tools).
 
+[A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608). [tweet](https://x.com/sophiamyang/status/1801340351447203917). [a prompt](https://x.com/teej_m/status/1801388306627969126).
+
+
+
 

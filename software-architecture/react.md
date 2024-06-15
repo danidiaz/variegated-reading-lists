@@ -1057,4 +1057,10 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [don't start fetches on render](https://x.com/kentcdodds/status/1801322705804759548)
 
+[introducing React compiler](https://www.reddit.com/r/reactjs/comments/1css9xs/introducing_react_compiler_react/). 
+
+[Remix announces merge with React Router](https://www.reddit.com/r/reactjs/comments/1csu6ic/remix_announces_merge_with_react_router/). [react query meets react router (2022)](https://tkdodo.eu/blog/react-query-meets-react-router). [RR vs RQ](https://blog.stackademic.com/react-router-vs-react-query-there-will-be-blood-105f6b52d1e7). [do it all with RR](https://x.com/kentcdodds/status/1801402877556178971). [React Data Fetching Library Summit - 2023-02-16](https://gist.github.com/markerikson/a1ee95e36300109c76dfb788cb6ea8b6). [importance of preloading](https://x.com/ryanflorence/status/1801383836250739057). [v7 will be a non-breaking upgrade](https://x.com/ryanflorence/status/1801279163091046640). ["Use a framework, server render, fetch in router"](https://x.com/housecor/status/1801276956509389152). [React 19 broke suspense parallel rendering and component encapsulation](https://www.reddit.com/r/reactjs/comments/1deoxkp/comment/l8fqaas/).
+
+
+
 

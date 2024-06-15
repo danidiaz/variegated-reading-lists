@@ -447,6 +447,10 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Spring core container revisited](https://www.youtube.com/watch?v=GzX3C0sTFbw). 
 
+[Creating Future-Proof Spring Applications with Event Sourcing](https://www.youtube.com/watch?v=xr6Gq3Cn4UQ).
+
+[Migrating from (Spring Data) JPA to Spring Data JDBC](https://www.youtube.com/watch?v=WYa9n0F4CRM).
+
 
 
 

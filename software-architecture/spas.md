@@ -447,4 +447,8 @@
 
 [datalist and options bug](https://x.com/htmx_org/status/1800580638644519361)
 
+[HTMX drama](https://x.com/AdamRackis/status/1801291309107269904)
+
+[The Life & Death of htmx](https://www.youtube.com/watch?v=inRB6ull5WQ)
+
 

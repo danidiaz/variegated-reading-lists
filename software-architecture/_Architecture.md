@@ -1519,3 +1519,4 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [event architectures: orchestration vs. choreography](https://news.ycombinator.com/item?id=40497602)
 
+[Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482). [ls](https://lobste.rs/s/ssg6q3/before_you_try_do_something_make_sure_you). 

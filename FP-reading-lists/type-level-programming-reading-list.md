@@ -447,4 +447,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [TypeRep is effectively the Sing for Type, and Typeable is its SingI.](https://discourse.haskell.org/t/singi-and-datakinds/9691/11)
 
+[Unordered Homogeneous N-tuples for Guaranteed Commutativity](https://danryba253.github.io/danirybeblog/posts/unordered-n-tuples/)
+
 

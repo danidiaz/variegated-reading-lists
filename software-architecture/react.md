@@ -1065,4 +1065,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [render-as-you-fetch](https://x.com/tannerlinsley/status/1803520594060910836)
 
+> give up the amazing DX that is data colocation.
+
 

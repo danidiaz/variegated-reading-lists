@@ -451,4 +451,6 @@
 
 [The Life & Death of htmx](https://www.youtube.com/watch?v=inRB6ull5WQ)
 
+[how to design complex tables](https://www.linkedin.com/pulse/how-design-complex-data-tables-figma-kits-vitaly-friedman-spaue/)
+
 

@@ -1523,4 +1523,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Architecturally evident Spring applications with jMolecules](https://www.youtube.com/watch?v=-I7KiV_6f-s)
 
+[not a fan of the hexagon](https://x.com/sivalabs/status/1803756156331982954)
+
 

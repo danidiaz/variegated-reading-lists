@@ -962,6 +962,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [unpopular opinions about databases (started by the JOOQ guy)](https://twitter.com/lukaseder/status/1779493563484565584)
 
+[talk about database isolation levels](https://x.com/asatarin/status/1766910396202709451). [video1](https://www.youtube.com/watch?v=0PalC3X3x2A). [video2](https://www.youtube.com/watch?v=3rYF2Rhlli4).
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

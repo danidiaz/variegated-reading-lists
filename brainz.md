@@ -406,5 +406,7 @@ Things for which I found ChatGPT useful:
 
 [A Systematic Survey of Prompting Techniques](https://arxiv.org/abs/2406.06608). [tweet](https://x.com/sophiamyang/status/1801340351447203917). [a prompt](https://x.com/teej_m/status/1801388306627969126).
 
-[Claude 3.5 Sonnet](https://x.com/simonw/status/1803819993416466573)
+[Claude 3.5 Sonnet](https://x.com/simonw/status/1803819993416466573). [for coding](https://x.com/AndyMasley/status/1803981639736869108).
+
+[Every Way To Get Structured Output From LLMs](https://www.boundaryml.com/blog/structured-output-from-llms). ["declarative prompting"](https://www.iqvia.com/blogs/2024/04/prompt-and-proper-how-iqvia-is-using-declarative-llm).
 

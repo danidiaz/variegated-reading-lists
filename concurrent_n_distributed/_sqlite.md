@@ -75,4 +75,6 @@
 
 [generated columns](https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns)
 
+[Why does SQLite (in production) have such a bad rep?](https://lobste.rs/s/fxkk7v/why_does_sqlite_production_have_such_bad)
+
 

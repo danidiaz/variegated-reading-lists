@@ -453,4 +453,6 @@
 
 [how to design complex tables](https://www.linkedin.com/pulse/how-design-complex-data-tables-figma-kits-vitaly-friedman-spaue/)
 
+[the demise of the mildly dynamic website](https://news.ycombinator.com/item?id=40729671)
+
 

@@ -241,4 +241,6 @@ They're all capable of expressing one another in their own terms though, so they
 
 [The Beauty and Elegance of Functional Reactive Animation](https://www.youtube.com/watch?v=Knl3ee-dSOM)
 
+[Rhine, FRP with type-level clocks](https://www.youtube.com/watch?v=2oJtZs0XFlU&list=PLOvRW_utVPVkQvYyluvXK4rpRMirb--M1&index=3)
+
 

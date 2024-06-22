@@ -69,6 +69,8 @@
 
 [ACORD forms](https://acord.org/forms-pages/acord-forms)
 
+[India experiments with parametric insurance to mitigate costs of disasters](https://india.mongabay.com/2024/06/india-experiments-with-parametric-insurance-to-mitigate-costs-of-disasters/)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

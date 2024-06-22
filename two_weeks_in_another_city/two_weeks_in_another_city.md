@@ -801,6 +801,8 @@ Bernini, his life and his Rome
 
 [Making content before you've figured out your systemic foundation is ass-backwards](https://x.com/jesawyer/status/1799098664939561373)
 
+[From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/). [hn](https://news.ycombinator.com/item?id=40749426)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

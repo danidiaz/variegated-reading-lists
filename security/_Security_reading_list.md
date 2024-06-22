@@ -820,4 +820,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [A Passwordless Future! Passkeys for Spring Developers](https://www.youtube.com/watch?v=7R81uwxv1k0)
 
+[things not to do](https://x.com/dcuthbert/status/1804068527013241023)
+
 

@@ -414,4 +414,6 @@ Things for which I found ChatGPT useful:
 
 [claude Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
 
+[Building search-based RAG using Claude, Datasette and Val Town ](https://lobste.rs/s/iyq4pf/building_search_based_rag_using_claude). [tweet](https://x.com/sh_reya/status/1804572296855830602).
+
 

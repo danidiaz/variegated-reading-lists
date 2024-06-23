@@ -418,7 +418,7 @@ Things for which I found ChatGPT useful:
 
 [LLM101n: Let's build a Storyteller](https://github.com/karpathy/LLM101n?tab=readme-ov-file)
 
-[using artifacts with Claude](https://x.com/emollick/status/1804928079048946157). [cot](https://arxiv.org/html/2401.04925v3)
+[using artifacts with Claude](https://x.com/emollick/status/1804928079048946157). [cot](https://arxiv.org/html/2401.04925v3). [moar claude](https://x.com/BHolmesDev/status/1804530759165702594).
 
 - 1) Ask it to create a design document first, it serves a CoT function
 - 2) Just talk to it and ask for improvements

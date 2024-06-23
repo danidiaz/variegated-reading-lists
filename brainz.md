@@ -412,3 +412,6 @@ Things for which I found ChatGPT useful:
 
 [Every Way To Get Structured Output From LLMs](https://www.boundaryml.com/blog/structured-output-from-llms). ["declarative prompting"](https://www.iqvia.com/blogs/2024/04/prompt-and-proper-how-iqvia-is-using-declarative-llm).
 
+[claude Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
+
+

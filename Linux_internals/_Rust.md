@@ -188,5 +188,7 @@
 
 [references are like jumps](https://www.reddit.com/r/haskell/comments/1crzvcn/references_are_like_jumps/)
 
+[high-level rust](https://dioxus.notion.site/Dioxus-Labs-High-level-Rust-5fe1f1c9c8334815ad488410d948f05e)
+
 
 

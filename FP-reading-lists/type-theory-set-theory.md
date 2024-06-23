@@ -522,6 +522,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [Bridging syntax and semantics of Lean expressions in E-Graphs](https://arxiv.org/abs/2405.10188)
 
+[stream types](https://hachyderm.io/@DiazCarrete/112667650183406606)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

@@ -132,4 +132,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [lazy pattern matches not considered linear](https://gitlab.haskell.org/ghc/ghc/-/issues/23461)
 
+[Notes on ownership and substructural types](https://without.boats/blog/ownership/).
+
 

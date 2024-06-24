@@ -524,6 +524,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [stream types](https://hachyderm.io/@DiazCarrete/112667650183406606)
 
+[Deriving Dependently-Typed OOP from First Principles](https://arxiv.org/abs/2403.06707). [hn](https://news.ycombinator.com/item?id=40769867).
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

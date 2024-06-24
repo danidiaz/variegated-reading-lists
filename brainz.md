@@ -410,7 +410,7 @@ Things for which I found ChatGPT useful:
 
 [LLMs for financial applications](https://arxiv.org/abs/2406.11903).
 
-[Every Way To Get Structured Output From LLMs](https://www.boundaryml.com/blog/structured-output-from-llms). ["declarative prompting"](https://www.iqvia.com/blogs/2024/04/prompt-and-proper-how-iqvia-is-using-declarative-llm).
+[Every Way To Get Structured Output From LLMs](https://www.boundaryml.com/blog/structured-output-from-llms). ["declarative prompting"](https://www.iqvia.com/blogs/2024/04/prompt-and-proper-how-iqvia-is-using-declarative-llm). [some notes](https://methexis.substack.com/p/some-llm-framework-lessons). [lmql constraints](https://lmql.ai/docs/language/constraints.html).
 
 [claude Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
 

@@ -1529,4 +1529,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [overcomplicated?](https://x.com/sivalabs/status/1804007181752164753)
 
+[Stop your (business rules) engines](https://lobste.rs/s/isc1qn/stop_your_business_rules_engines)
+
 

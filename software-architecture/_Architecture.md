@@ -1527,7 +1527,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Why do message queue-based architectures seem less popular now?](https://news.ycombinator.com/item?id=40723302)
 
-[overcomplicated?](https://x.com/sivalabs/status/1804007181752164753)
+[overcomplicated?](https://x.com/sivalabs/status/1804007181752164753). [tweet](https://x.com/1ovthafew/status/1805287714826170721).
 
 [Stop your (business rules) engines](https://lobste.rs/s/isc1qn/stop_your_business_rules_engines)
 

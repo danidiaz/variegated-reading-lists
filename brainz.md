@@ -416,7 +416,7 @@ Things for which I found ChatGPT useful:
 
 [Building search-based RAG using Claude, Datasette and Val Town ](https://lobste.rs/s/iyq4pf/building_search_based_rag_using_claude). [tweet](https://x.com/sh_reya/status/1804572296855830602). [rag](https://x.com/sh_reya/status/1804572296855830602).
 
-[LLM101n: Let's build a Storyteller](https://github.com/karpathy/LLM101n?tab=readme-ov-file)
+[LLM101n: Let's build a Storyteller](https://github.com/karpathy/LLM101n?tab=readme-ov-file). [generative AI for beginners](https://github.com/microsoft/generative-ai-for-beginners/tree/main).
 
 [using artifacts with Claude](https://x.com/emollick/status/1804928079048946157). [cot](https://arxiv.org/html/2401.04925v3). [moar claude](https://x.com/BHolmesDev/status/1804530759165702594).
 

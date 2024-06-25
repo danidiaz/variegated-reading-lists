@@ -1069,4 +1069,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [RCS doubts](https://x.com/zeeg/status/1804821983609213173)
 
+[TanStack Query 🤝 OpenAPI](https://x.com/ruanmartinelli/status/1805528400901067152)
+
 

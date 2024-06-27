@@ -654,4 +654,6 @@ VSCode simple config for recordings:
 
 [throw away Git submodule state](https://hachyderm.io/@jyn@tech.lgbt/112604949366154042)
 
+[VSCode - using multi cursors like a boss](https://www.youtube.com/watch?v=1V4Lj8Eqdvc)
+
 

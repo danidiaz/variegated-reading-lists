@@ -115,4 +115,6 @@
 
 [Custom HTML Has Levels To It](https://unplannedobsolescence.com/blog/custom-html-has-levels/)
 
+[microfeatures in blogs](https://lobste.rs/s/ju9yby/microfeatures_i_love_blogs_personal)
+
 

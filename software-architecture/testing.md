@@ -419,4 +419,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [prefer narrow assertions](https://testing.googleblog.com/2024/04/prefer-narrow-assertions-in-unit-tests.html)
 
+[vertical tests](https://x.com/odrotbohm/status/1806067040181993645)
+
 

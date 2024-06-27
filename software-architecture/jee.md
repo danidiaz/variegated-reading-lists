@@ -453,4 +453,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [What's cooking in Maven 4?](https://www.youtube.com/watch?v=vXeE-qHrp90).
 
+[spring security integration testing](https://www.youtube.com/watch?v=5u2havNL5hU)
+
 

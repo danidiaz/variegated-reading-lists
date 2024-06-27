@@ -1080,4 +1080,8 @@ deals with its own properties.
 
 [every distributive is representable](https://duplode.github.io/posts/every-distributive-is-representable.html)
 
+[function extensionality](https://ncatlab.org/nlab/show/function%20extensionality)
+
+
+
 

@@ -1067,7 +1067,7 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 > give up the amazing DX that is data colocation.
 
-[RCS doubts](https://x.com/zeeg/status/1804821983609213173)
+[RCS doubts](https://x.com/zeeg/status/1804821983609213173). [more](https://x.com/tannerlinsley/status/1805711175323468135). [more](https://x.com/ScriptedAlchemy/status/1805715022238335114).
 
 [TanStack Query 🤝 OpenAPI](https://x.com/ruanmartinelli/status/1805528400901067152)
 

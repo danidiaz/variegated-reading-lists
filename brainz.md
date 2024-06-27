@@ -424,4 +424,8 @@ Things for which I found ChatGPT useful:
 - 2) Just talk to it and ask for improvements
 - 3) Show it screenshots
 
- 
+[suspicious lists](https://x.com/whitequark/status/1805543290185376244) 
+
+["Explain it with gradually increasing complexity."](https://www.reddit.com/r/LocalLLaMA/comments/1dp378t/very_powerful_prompt_explain_it_with_gradually/)
+
+

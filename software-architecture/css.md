@@ -711,6 +711,6 @@ https://twitter.com/tailwindcss
 
 [Animate HTML Details & Summary Elements Using Pure CSS](https://www.youtube.com/watch?v=idoaw75xjhU)
 
-[Web Design Engineering With the New CSS](https://www.youtube.com/watch?v=su6WA0kUUJE)
+[Web Design Engineering With the New CSS](https://www.youtube.com/watch?v=su6WA0kUUJE). [cool view transitions](https://x.com/k_grajeda/status/1805347369799541069).
 
 

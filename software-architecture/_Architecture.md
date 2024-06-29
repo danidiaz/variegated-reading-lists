@@ -1531,4 +1531,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Stop your (business rules) engines](https://lobste.rs/s/isc1qn/stop_your_business_rules_engines)
 
+[return the resource upon PATCH](https://x.com/WarrenInTheBuff/status/1806820934109597775)
+
 

@@ -421,4 +421,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [vertical tests](https://x.com/odrotbohm/status/1806067040181993645)
 
+[use LLMs or not?](https://lobste.rs/s/xeyjdo/why_you_shouldn_t_use_ai_write_your_tests)
+
 

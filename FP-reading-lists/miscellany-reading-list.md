@@ -920,7 +920,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [UUIDv7](https://x.com/mitsuhiko/status/1805167387064275190)
 
-
+[giving hardware what it wants](https://x.com/satnam6502/status/1806825345997500877). [video](https://youtu.be/66oKqvwoIv0?t=1266).
 
 
 

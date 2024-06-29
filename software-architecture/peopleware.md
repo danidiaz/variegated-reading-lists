@@ -302,4 +302,6 @@
 
 [agile pull requests](https://blog.ploeh.dk/2021/06/21/agile-pull-requests/)
 
+[programming advice](https://news.ycombinator.com/item?id=40829607)
+
 

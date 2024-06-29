@@ -1533,4 +1533,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [return the resource upon PATCH](https://x.com/WarrenInTheBuff/status/1806820934109597775)
 
+[Qualities of a Highly Effective Architect](https://www.youtube.com/watch?v=QeKheNfO3Yg)
+
 

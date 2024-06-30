@@ -803,6 +803,10 @@ Bernini, his life and his Rome
 
 [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/). [hn](https://news.ycombinator.com/item?id=40749426)
 
+[resources on game design](https://x.com/middock/status/1807066912255303771)
+
+[somes types of games](https://x.com/kendrictonn/status/1807083064788439198)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

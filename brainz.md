@@ -428,4 +428,6 @@ Things for which I found ChatGPT useful:
 
 ["Explain it with gradually increasing complexity."](https://www.reddit.com/r/LocalLLaMA/comments/1dp378t/very_powerful_prompt_explain_it_with_gradually/)
 
+[asking questions from code](https://x.com/penberg/status/1807064051966419338)
+
 

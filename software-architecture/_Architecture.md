@@ -1535,4 +1535,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Qualities of a Highly Effective Architect](https://www.youtube.com/watch?v=QeKheNfO3Yg)
 
+[the tomato architecture](https://www.sivalabs.in/tomato-architecture-pragmatic-approach-to-software-design/)
+
 

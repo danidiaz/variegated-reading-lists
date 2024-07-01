@@ -214,5 +214,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [This TypeScript type haunted my dreams](https://amir.rachum.com/typescript-oneof/)
 
+[more composable type guards](https://x.com/mattpocockuk/status/1807723123468308664)
+
 
 

@@ -1071,4 +1071,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [TanStack Query 🤝 OpenAPI](https://x.com/ruanmartinelli/status/1805528400901067152)
 
+[top level use server](https://x.com/RhysSullivan/status/1808039883350704372)
+
 

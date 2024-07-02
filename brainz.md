@@ -430,4 +430,6 @@ Things for which I found ChatGPT useful:
 
 [asking questions from code](https://x.com/penberg/status/1807064051966419338)
 
+[building a web UI](https://x.com/simonw/status/1808233468175999127)
+
 

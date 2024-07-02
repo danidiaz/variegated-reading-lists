@@ -1073,4 +1073,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [top level use server](https://x.com/RhysSullivan/status/1808039883350704372)
 
+[what React 19 offers SPAs](https://x.com/samselikoff/status/1808135631924556085)
+
 

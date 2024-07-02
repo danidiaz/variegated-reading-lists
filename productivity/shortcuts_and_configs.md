@@ -656,4 +656,6 @@ VSCode simple config for recordings:
 
 [VSCode - using multi cursors like a boss](https://www.youtube.com/watch?v=1V4Lj8Eqdvc)
 
+[why use job control when you have tmux?](https://hachyderm.io/@b0rk@jvns.ca/112716879660246971)
+
 

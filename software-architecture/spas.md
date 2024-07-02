@@ -455,4 +455,6 @@
 
 [the demise of the mildly dynamic website](https://news.ycombinator.com/item?id=40729671)
 
+[HTMX and CSP](https://news.ycombinator.com/item?id=40855122)
+
 

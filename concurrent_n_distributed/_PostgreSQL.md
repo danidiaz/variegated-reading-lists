@@ -423,4 +423,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [transaction isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
 
+[PostgreSQL and UUID as Primary Key](https://news.ycombinator.com/item?id=40884878)
+
 

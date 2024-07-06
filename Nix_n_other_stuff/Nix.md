@@ -1219,5 +1219,7 @@ What! This does work! How to go in the opposite direction?
 
 [Managing dotfiles on macOS with Nix](https://lobste.rs/s/usq8dk/managing_dotfiles_on_macos_with_nix)
 
+[Practical Nix flake anatomy: a guided tour of flake.nix](https://vtimofeenko.com/posts/practical-nix-flake-anatomy-a-guided-tour-of-flake.nix/)
+
 
 

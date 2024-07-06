@@ -1075,4 +1075,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [what React 19 offers SPAs](https://x.com/samselikoff/status/1808135631924556085)
 
+[signals](https://x.com/BHolmesDev/status/1808870518801478110)
+
 

@@ -117,4 +117,6 @@
 
 [microfeatures in blogs](https://lobste.rs/s/ju9yby/microfeatures_i_love_blogs_personal)
 
+[HTML5 Differences from HTML4 (2014)](https://news.ycombinator.com/item?id=40887480)
+
 

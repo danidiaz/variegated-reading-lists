@@ -658,4 +658,6 @@ VSCode simple config for recordings:
 
 [why use job control when you have tmux?](https://hachyderm.io/@b0rk@jvns.ca/112716879660246971)
 
+[Extracting and Propagating Multiple Values With #jq](https://x.com/gunnarmorling/status/1809979688670167188)
+
 

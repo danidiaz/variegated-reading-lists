@@ -922,5 +922,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [giving hardware what it wants](https://x.com/satnam6502/status/1806825345997500877). [video](https://youtu.be/66oKqvwoIv0?t=1266).
 
+[The Jacobian vs. the Hessian vs. the Gradient](https://carmencincotti.com/2022-08-15/the-jacobian-vs-the-hessian-vs-the-gradient/)
+
+
 
 

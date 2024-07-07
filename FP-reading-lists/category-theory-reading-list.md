@@ -1082,6 +1082,6 @@ deals with its own properties.
 
 [function extensionality](https://ncatlab.org/nlab/show/function%20extensionality)
 
-
+[Monads, Comonads, and Transducers](https://arxiv.org/abs/2407.02704)
 
 

@@ -459,4 +459,5 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Transactions and Serverless are Made for Each Other](https://queue.acm.org/detail.cfm?id=3674952)
 
+[Choose an API Gateway API integration type](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-api-integration-types.html)
 

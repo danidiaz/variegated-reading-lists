@@ -459,5 +459,7 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Transactions and Serverless are Made for Each Other](https://queue.acm.org/detail.cfm?id=3674952)
 
-[Choose an API Gateway API integration type](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-api-integration-types.html)
+[Choose an API Gateway API integration type](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-api-integration-types.html). [Servant on AWS Lambda, and Two New Libraries](https://discourse.haskell.org/t/servant-on-aws-lambda-and-two-new-libraries/9919)
+
+
 

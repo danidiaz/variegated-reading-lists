@@ -457,4 +457,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [S3 + cloudflare as cdn combo](https://x.com/pepegombos/status/1809680767275905116?s=03)
 
+[Transactions and Serverless are Made for Each Other](https://queue.acm.org/detail.cfm?id=3674952)
+
 

@@ -822,4 +822,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [things not to do](https://x.com/dcuthbert/status/1804068527013241023)
 
+[TOTP Secret Extraction from QR codes](https://cavalloj.medium.com/totp-secret-extraction-from-qr-codes-ee097b4c687f)
+
+> TL;DR: TOTP secrets are used to generate the OTP codes that your Authenticator app provides. In other words they are like a master key that can generate unlimited mini keys.
+
 

@@ -432,4 +432,6 @@ Things for which I found ChatGPT useful:
 
 [building a web UI](https://x.com/simonw/status/1808233468175999127)
 
+[home-cooked software](https://x.com/simonw/status/1810335524017877240)
+
 

@@ -660,4 +660,7 @@ VSCode simple config for recordings:
 
 [Extracting and Propagating Multiple Values With #jq](https://x.com/gunnarmorling/status/1809979688670167188)
 
+[Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
+
+
 

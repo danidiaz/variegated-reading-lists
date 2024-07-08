@@ -451,3 +451,10 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [mutable configmaps](https://twitter.com/ProgrammerDude/status/1785361630789812693)
 
+[Using the AWS access portal](https://docs.aws.amazon.com/singlesignon/latest/userguide/using-the-portal.html). [AWS Organizations terminology and concepts](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_getting-started_concepts.html). [account](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_getting-started_concepts.html#account). [Design principles for your multi-account strategy](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/design-principles-for-your-multi-account-strategy.html). [best practices](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_best-practices.html). [What is AWS Sign-In?](https://docs.aws.amazon.com/signin/latest/userguide/what-is-sign-in.html). [user types](https://docs.aws.amazon.com/signin/latest/userguide/user-types-list.html). 
+
+> An AWS account isn't the same thing as a user account. An AWS user is an identity that you create using AWS Identity and Access Management (IAM) and takes the form of either an IAM user with long-term credentials, or an IAM role with short-term credentials. A single AWS account can, and typically does contain many users and roles.
+
+[S3 + cloudflare as cdn combo](https://x.com/pepegombos/status/1809680767275905116?s=03)
+
+

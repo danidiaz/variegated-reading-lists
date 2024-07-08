@@ -461,6 +461,12 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Choose an API Gateway API integration type](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-api-integration-types.html). [Servant on AWS Lambda, and Two New Libraries](https://discourse.haskell.org/t/servant-on-aws-lambda-and-two-new-libraries/9919). [Saving Money By Replacing API Gateway With Application Load Balancer's Lambda Integration](https://serverless-training.com/articles/save-money-by-replacing-api-gateway-with-application-load-balancer/).
 
+[SQS vs. EventBridge](https://www.svix.com/resources/faq/sqs-vs-eventbridge/)
+
+[API gateway](https://aws.amazon.com/api-gateway/)
+
+> API Gateway has no minimum fees or startup costs. You pay for the API calls you receive and the amount of data transferred out and, with the API Gateway tiered pricing model, you can reduce your cost as your API usage scales.
+
 
 
 

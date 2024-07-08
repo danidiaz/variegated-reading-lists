@@ -425,4 +425,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [PostgreSQL and UUID as Primary Key](https://news.ycombinator.com/item?id=40884878)
 
+[PostgreSQL is enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
+
 

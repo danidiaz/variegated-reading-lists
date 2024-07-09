@@ -505,8 +505,22 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 > Data Transfer Charge: This is the standard EC2 Data Transfer charge. 1 GB data was transferred from the EC2 instance to S3 via the NAT gateway. There was no charge for the data transfer from the EC2 instance to S3, as it is Data Transfer Out to Amazon EC2 to S3 in the same region. There was also no charge for the data transfer between the NAT gateway and the EC2 instance since the traffic stays in the same Availability Zone using private IP addresses. There will be data transfer charges between your NAT gateway and EC2 instance if they are in a different Availability Zone.
 
+[Configure the AWS CLI to use AWS IAM Identity Center authentication](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-sso.html). [Single sign-on access to AWS accounts](https://docs.aws.amazon.com/singlesignon/latest/userguide/useraccess.html).
+
 [AWS Resource Explorer Pricing](https://aws.amazon.com/resourceexplorer/pricing/)
 
 > AWS Resource Explorer is offered at no additional charge. There are no set-up fees or upfront commitments. You may incur charges if a service that is being called charges for List or Describe API call such as Amazon Simple Queue Service (SQS).
+
+> aws resource-explorer-2 search --query-string arn --output text
+
+> nix shell nixpkgs#awscli2
+
+[Creating access keys for the root user (NOT RECOMMENDED)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user_manage_add-key.html)
+
+> On July 26, 2022, AWS Single Sign-On was renamed to AWS IAM Identity Center.
+
+> We strongly recommend that you do not create access key pairs for your root user. Because only a few tasks require the root user and you typically perform those tasks infrequently, we recommend signing in to the AWS Management Console to perform the root user tasks. Before creating access keys, review the alternatives to long-term access keys.
+
+
 
 

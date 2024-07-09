@@ -467,7 +467,46 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 > API Gateway has no minimum fees or startup costs. You pay for the API calls you receive and the amount of data transferred out and, with the API Gateway tiered pricing model, you can reduce your cost as your API usage scales.
 
+[Create a serverless file-processing app](https://docs.aws.amazon.com/lambda/latest/dg/file-processing-app.html)
 
+[The confused deputy problem](https://docs.aws.amazon.com/IAM/latest/UserGuide/confused-deputy.html). [Preventing cross-service confused deputy problems](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/cross-service-confused-deputy-prevention.html)
 
+[feature flags](https://x.com/wesbos/status/1810687151794962558). [more](https://x.com/BillSourour/status/1810771938694025461). [more](https://x.com/andrewdmaclean/status/1810742502099743094). [more](https://x.com/ryands1701/status/1810688759211450442). [Evidently](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-Evidently.html). [Amazon AppConfig from Spring Boot](https://stackoverflow.com/questions/63751913/amazon-appconfig-from-spring-boot). [more](https://apurvsheth.medium.com/aws-appconfig-with-spring-boot-8ad0ce774b95).
+
+[default VPC](https://docs.aws.amazon.com/vpc/latest/userguide/default-vpc.html)
+
+[Private networking with VPC](https://docs.aws.amazon.com/lambda/latest/dg/foundation-networking.html)
+
+> A Lambda function always runs inside a VPC owned by the Lambda service. Lambda applies network access and security rules to this VPC and Lambda maintains and monitors the VPC automatically. If your Lambda function needs to access the resources in your account VPC, configure the function to access the VPC.
+
+[S3 buckets are not residing in VPCs?](https://stackoverflow.com/questions/52093540/s3-buckets-are-not-residing-in-vpcs). [Gateway endpoints for Amazon S3](https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-s3.html)
+
+> "It lives on the Internet" 
+
+> S3 as a PaaS service, fully managed by AWS, lives outside of any custom VPC.
+
+> Amazon S3 supports both gateway endpoints and interface endpoints. With a gateway endpoint, you can access Amazon S3 from your VPC, without requiring an internet gateway or NAT device for your VPC, and with no additional cost. However, gateway endpoints do not allow access from on-premises networks, from peered VPCs in other AWS Regions, or through a transit gateway.
+
+[Your Amazon Web Services account has a default VPC in each AWS Region.](https://repost.aws/questions/QU5Q_zR2nORd235SrsDtrzbw/new-account-has-subnets-security-groups-and-vpcs-in-17-regions). [Subnets for your VPC](https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html). [AWS Regions and Availability Zones](https://docs.aws.amazon.com/whitepapers/latest/get-started-documentdb/aws-regions-and-availability-zones.html). [Example: VPC with servers in private subnets and NAT](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html).
+
+> Each subnet must reside entirely within one Availability Zone and cannot span zones. 
+
+> Public subnet – The subnet has a direct route to an internet gateway. Resources in a public subnet can access the public internet.
+
+> Private subnet – The subnet does not have a direct route to an internet gateway. Resources in a private subnet require a NAT device to access the public internet.
+
+> The default VPC includes a default public subnet in each Availability Zone and an internet gateway that is attached to your VPC. 
+
+> Your Amazon Web Services account has a default VPC in each AWS Region. The default VPC includes a default public subnet in each Availability Zone and an internet gateway that is attached to your VPC. The VPC also includes a default security group. 
+
+[Is there a way to list all resources in AWS](https://stackoverflow.com/questions/44391817/is-there-a-way-to-list-all-resources-in-aws)
+
+[Amazon VPC pricing](https://aws.amazon.com/vpc/pricing/)
+
+> Data Transfer Charge: This is the standard EC2 Data Transfer charge. 1 GB data was transferred from the EC2 instance to S3 via the NAT gateway. There was no charge for the data transfer from the EC2 instance to S3, as it is Data Transfer Out to Amazon EC2 to S3 in the same region. There was also no charge for the data transfer between the NAT gateway and the EC2 instance since the traffic stays in the same Availability Zone using private IP addresses. There will be data transfer charges between your NAT gateway and EC2 instance if they are in a different Availability Zone.
+
+[AWS Resource Explorer Pricing](https://aws.amazon.com/resourceexplorer/pricing/)
+
+> AWS Resource Explorer is offered at no additional charge. There are no set-up fees or upfront commitments. You may incur charges if a service that is being called charges for List or Describe API call such as Amazon Simple Queue Service (SQS).
 
 

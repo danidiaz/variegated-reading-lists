@@ -926,4 +926,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Refined Input, Degraded Output: The Counterintuitive World of Compiler Behavior](https://dl.acm.org/doi/10.1145/3656404)
 
+[some form](https://x.com/lcamtuf/status/1811073661916663860)
+
 

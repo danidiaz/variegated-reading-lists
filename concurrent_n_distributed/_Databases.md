@@ -966,7 +966,10 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [last 20 years in databases](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
 
-[Parquet, Arrow dataframes, and DuckDB](https://x.com/ethanf_17/status/1809835395695407529)
+[Parquet, Arrow dataframes, and DuckDB](https://x.com/ethanf_17/status/1809835395695407529). [@duckdb , Arrow, or @IbisData](https://x.com/i/bookmarks?post_id=1811045184656003559)
+.
+
+
 
 # Podcasts
 

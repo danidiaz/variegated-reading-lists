@@ -434,6 +434,6 @@ Things for which I found ChatGPT useful:
 
 [home-cooked software](https://x.com/simonw/status/1810335524017877240)
 
-[Long context windows don't replace RAG](https://x.com/simonw/status/1811060073806090742)
+[Long context windows don't replace RAG](https://x.com/simonw/status/1811060073806090742). [more](https://x.com/HamelHusain/status/1811413934420926970).
 
 

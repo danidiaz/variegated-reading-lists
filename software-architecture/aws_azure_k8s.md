@@ -386,9 +386,6 @@ AWS [VPN](https://aws.amazon.com/es/vpn/) vs [VPC](https://aws.amazon.com/es/vpc
 
 [Should I commit .tfstate files to Git?](https://stackoverflow.com/questions/38486335/should-i-commit-tfstate-files-to-git)
 
-
-
-
 [terraform tutorials](https://developer.hashicorp.com/terraform/tutorials)
 
 terraform [data sources](https://developer.hashicorp.com/terraform/language/data-sources). [argument](https://developer.hashicorp.com/terraform/docs/glossary#argument). [attribute](https://developer.hashicorp.com/terraform/docs/glossary#attribute).
@@ -520,6 +517,10 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 > On July 26, 2022, AWS Single Sign-On was renamed to AWS IAM Identity Center.
 
 > We strongly recommend that you do not create access key pairs for your root user. Because only a few tasks require the root user and you typically perform those tasks infrequently, we recommend signing in to the AWS Management Console to perform the root user tasks. Before creating access keys, review the alternatives to long-term access keys.
+
+[User types](https://docs.aws.amazon.com/signin/latest/userguide/user-types-list.html)
+
+> Root users sign in with the AWS Management Console [implying that they can't use sso?]
 
 
 

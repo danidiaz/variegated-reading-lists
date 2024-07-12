@@ -826,4 +826,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > TL;DR: TOTP secrets are used to generate the OTP codes that your Authenticator app provides. In other words they are like a master key that can generate unlimited mini keys.
 
+[OTP vs TOTP vs HOPT](https://supertokens.com/blog/otp-vs-totp-vs-hotp/#understanding-multi-factor-authentication-and-otp). [more](https://en.wikipedia.org/wiki/Time-based_one-time_password).
+
+
 

@@ -304,4 +304,6 @@
 
 [programming advice](https://news.ycombinator.com/item?id=40829607)
 
+[do not waffle](https://x.com/simonw/status/1812123492097363979)
+
 

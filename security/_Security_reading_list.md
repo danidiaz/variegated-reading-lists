@@ -828,5 +828,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [OTP vs TOTP vs HOPT](https://supertokens.com/blog/otp-vs-totp-vs-hotp/#understanding-multi-factor-authentication-and-otp). [more](https://en.wikipedia.org/wiki/Time-based_one-time_password).
 
+[MFA factors](https://x.com/MalwareJake/status/1811403706321039528). [network segmentation vs. zero-trust](https://x.com/MalwareJake/status/1811417242393043278).
+
 
 

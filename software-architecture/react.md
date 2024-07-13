@@ -1079,4 +1079,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [state approaches for each case](https://x.com/housecor/status/1810670643379368275?t=9P415CLtKHzwWHLAHDE2KA&s=03)
 
+[more focused](https://x.com/housecor/status/1812196239083282626)
+
 

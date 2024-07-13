@@ -522,6 +522,7 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 > Root users sign in with the AWS Management Console [implying that they can't use sso?]
 
+[everything AI](https://lucvandonkersgoed.com/2024/07/13/dear-aws-please-let-me-be-a-cloud-engineer-again/)
 
 
 

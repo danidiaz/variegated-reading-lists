@@ -134,4 +134,6 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Notes on ownership and substructural types](https://without.boats/blog/ownership/).
 
+[linear temporal logic](https://x.com/ShriramKMurthi/status/1812200730469789734). [Misconceptions In Finite-Trace and Infinite-Trace Linear Temporal Logic](https://blog.brownplt.org/2024/07/07/little-tricky-logics-2.html).
+
 

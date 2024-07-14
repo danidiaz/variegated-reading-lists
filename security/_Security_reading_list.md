@@ -830,5 +830,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [MFA factors](https://x.com/MalwareJake/status/1811403706321039528). [network segmentation vs. zero-trust](https://x.com/MalwareJake/status/1811417242393043278).
 
+[presigned URLs](https://security.stackexchange.com/questions/218447/are-aws-signed-urls-crawled-by-google)
 
+> A presigned URL is like a temporary password included in the URL. Everybody which knows this URL can have access to it as long as the URL is not expired.
 

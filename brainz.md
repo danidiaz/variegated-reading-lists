@@ -438,4 +438,6 @@ Things for which I found ChatGPT useful:
 
 [art experiments](https://x.com/revhowardarson/status/1812388631996477691)
 
+[Imitation Intelligence](https://x.com/simonw/status/1812498751535419742)
+
 

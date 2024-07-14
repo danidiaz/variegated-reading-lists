@@ -436,4 +436,6 @@ Things for which I found ChatGPT useful:
 
 [Long context windows don't replace RAG](https://x.com/simonw/status/1811060073806090742). [more](https://x.com/HamelHusain/status/1811413934420926970).
 
+[art experiments](https://x.com/revhowardarson/status/1812388631996477691)
+
 

@@ -524,5 +524,9 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [everything AI](https://lucvandonkersgoed.com/2024/07/13/dear-aws-please-let-me-be-a-cloud-engineer-again/). [more](https://x.com/QuinnyPig/status/1811872509693952133)
 
+[nat gateway costs and transit gateways](https://x.com/RDarrylR/status/1812306074034212921). [medium](https://medium.com/@marcchristianp.gregorio/automating-centralized-nat-gateways-in-aws-vpcs-and-region-with-terraform-69a6f90d60da).
+
+
+
 
 

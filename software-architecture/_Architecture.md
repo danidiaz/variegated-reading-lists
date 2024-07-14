@@ -1537,4 +1537,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [the tomato architecture](https://www.sivalabs.in/tomato-architecture-pragmatic-approach-to-software-design/)
 
+[How to organize large Rust codebases](https://kerkour.com/rust-how-to-organize-large-workspaces)
+
 

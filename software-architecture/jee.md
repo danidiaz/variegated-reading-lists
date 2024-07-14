@@ -455,4 +455,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [spring security integration testing](https://www.youtube.com/watch?v=5u2havNL5hU)
 
+["Supercharging Hypermedia Driven Application with Spring ViewComponent"](https://hachyderm.io/@mamund@mastodon.social/112784729888475936)
+
 

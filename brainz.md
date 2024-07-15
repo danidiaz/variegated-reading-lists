@@ -440,4 +440,10 @@ Things for which I found ChatGPT useful:
 
 [Imitation Intelligence](https://x.com/simonw/status/1812498751535419742)
 
+[role prompting superstition](https://x.com/simonw/status/1812699159625138543).
+
+[promting useinstructor](https://python.useinstructor.com/prompting/).
+
+[Awesome-LLM-Constrained-Decoding](https://github.com/Saibo-creator/Awesome-LLM-Constrained-Decoding)
+
 

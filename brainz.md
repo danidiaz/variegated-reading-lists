@@ -446,4 +446,6 @@ Things for which I found ChatGPT useful:
 
 [Awesome-LLM-Constrained-Decoding](https://github.com/Saibo-creator/Awesome-LLM-Constrained-Decoding)
 
+[AI Search: The Bitter-er Lesson](https://www.reddit.com/r/reinforcementlearning/comments/1dgxmnj/ai_search_the_bitterer_lesson_mclaughlin/)
+
 

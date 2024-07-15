@@ -1221,5 +1221,6 @@ What! This does work! How to go in the opposite direction?
 
 [Practical Nix flake anatomy: a guided tour of flake.nix](https://vtimofeenko.com/posts/practical-nix-flake-anatomy-a-guided-tour-of-flake.nix/)
 
+[cabal2nix and system libraries](https://www.reddit.com/r/haskell/comments/1e3615y/cabal2nix_and_system_libraries_a_short_quirk/)
 
 

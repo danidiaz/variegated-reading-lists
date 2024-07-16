@@ -528,5 +528,5 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [serverless spend cap](https://x.com/t3dotgg/status/1812591963801358561)
 
-
+[Best AWS Gateway + Lambda architecture for handling async long jobs](https://www.reddit.com/r/aws/comments/1e437g5/best_aws_gateway_lambda_architecture_for_handling/)
 

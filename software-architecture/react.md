@@ -1081,4 +1081,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [more focused](https://x.com/housecor/status/1812196239083282626)
 
+[React 19 hooks](https://x.com/housecor/status/1812826304984588580)
+
 

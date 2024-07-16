@@ -457,4 +457,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 ["Supercharging Hypermedia Driven Application with Spring ViewComponent"](https://hachyderm.io/@mamund@mastodon.social/112784729888475936)
 
+[HotSwap agent](https://x.com/JavaDiscussions/status/1812774669214236942)
+
 

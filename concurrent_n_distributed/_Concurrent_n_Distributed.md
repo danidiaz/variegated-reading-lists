@@ -777,4 +777,17 @@ https://news.ycombinator.com/item?id=25061901
 
 [fetch-and-add-based queues](https://news.ycombinator.com/item?id=40058253)
 
+[Fault Tolerance via Idempotence (2013)](https://x.com/DominikTornow/status/1812978230959481083)
+
+> To handle idempotence of arbitrary actions correctly end to end, every upstream component has to cooperate
+
+[Exactly-Once Processing vs. Exactly-Once Delivery](https://ssudan16.medium.com/exactly-once-processing-in-kafka-explained-66ecc41a8548). [more](‘Exactly Once’ processing with Spark Structured Streaming). [polemic](https://www.reddit.com/r/programming/comments/6kh65f/comment/djnjywk/). [so question](https://stackoverflow.com/questions/58894281/difference-between-idempotence-and-exactly-once-in-kafka-stream). [Exactly Once = At least once + Idempotence](https://news.ycombinator.com/item?id=34986995). [more](https://news.ycombinator.com/item?id=15602841). [in Spring Cloud Stream](https://spring.io/blog/2023/10/16/apache-kafkas-exactly-once-semantics-in-spring-cloud-stream-kafka). [more](https://www.felpfe.com/2023/10/03/exactly-once-processing-guarantees-with-kafka-streams/). [pulsar](https://streamnative.io/blog/exactly-once-semantics-transactions-pulsar). [Do you really need exactly-once delivery?](https://streamingdata.substack.com/p/do-you-really-need-exactly-once-delivery).
+
+
+
+
+
+
+
+
 

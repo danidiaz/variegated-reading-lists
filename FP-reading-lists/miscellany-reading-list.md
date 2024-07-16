@@ -928,4 +928,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [some form](https://x.com/lcamtuf/status/1811073661916663860)
 
+[BFS tree relabelling & Phases in Software Architecture](https://discourse.haskell.org/t/breadth-first-tree-relabelling-or-the-power-of-lazyness/9961/6)
+
 

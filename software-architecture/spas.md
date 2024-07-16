@@ -457,4 +457,6 @@
 
 [HTMX and CSP](https://news.ycombinator.com/item?id=40855122)
 
+[Django + Alpine.js + htmx Ups & Downs](https://www.youtube.com/watch?v=AVqjbUqT8ck)
+
 

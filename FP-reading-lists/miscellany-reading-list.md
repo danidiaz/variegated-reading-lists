@@ -930,4 +930,21 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [BFS tree relabelling & Phases in Software Architecture](https://discourse.haskell.org/t/breadth-first-tree-relabelling-or-the-power-of-lazyness/9961/6)
 
+> The large-scale structure of executing a computation can
+> often be thought of as being separated into distinct phases.
+> But the most natural form in which to specify that computation may well have a different and conflicting structure. For
+> example, the computation might consist of gathering data
+> from some locations, processing it, then distributing the results back to the same locations; it may be executed in three
+> phases—gather, process, distribute—but mostly conveniently
+> specified orthogonally—by location.
+
+> Nearly fifty years ago, Jackson’s influential book [8] argued
+> that programs are clearest when they follow the structure of
+> the data they consume and produce; and consequently, that
+> the knottiest problems in software architecture are when
+> these structures clash. A rather canonical instance of that
+> phenomenon is provided by breadth-first traversal, which
+> very much goes “against the grain” of the tree structure.
+> We expect that there are other thorny problems in software
+> architecture that may be susceptible to this multi-phase approach.
 

@@ -807,6 +807,8 @@ Bernini, his life and his Rome
 
 [somes types of games](https://x.com/kendrictonn/status/1807083064788439198)
 
+[Deconstructing the Role-Playing Video Game](https://news.ycombinator.com/item?id=40977834)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

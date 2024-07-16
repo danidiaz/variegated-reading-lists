@@ -448,4 +448,6 @@ Things for which I found ChatGPT useful:
 
 [AI Search: The Bitter-er Lesson](https://www.reddit.com/r/reinforcementlearning/comments/1dgxmnj/ai_search_the_bitterer_lesson_mclaughlin/)
 
+[EVALUATING RETRIEVAL IN RAGS: A PRACTICAL FRAMEWORK](https://www.tweag.io/blog/2024-03-21-evaluating-retrieval-in-rag-framework/)
+
 

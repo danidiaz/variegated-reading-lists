@@ -431,4 +431,6 @@ Essential reading! Covers:
 
 [Choreographing a dance with the GHC specializer (Part 2)](https://well-typed.com/blog/2024/06/choreographing-specialization-pt2/)
 
+[GHC and Cabal: the big picture](https://discourse.haskell.org/t/ghc-and-cabal-the-big-picture/9968)
+
 

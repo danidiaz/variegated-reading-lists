@@ -459,4 +459,5 @@
 
 [Django + Alpine.js + htmx Ups & Downs](https://www.youtube.com/watch?v=AVqjbUqT8ck)
 
+[Following up "Mother of all htmx demos"](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
 

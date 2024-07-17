@@ -216,5 +216,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [more composable type guards](https://x.com/mattpocockuk/status/1807723123468308664)
 
+[Typescript's Immediately Indexed Mapped Type](https://graficos.net/blog/2024-05-07-typescript-immediately-indexed-mapped-types-iimt)
+
 
 

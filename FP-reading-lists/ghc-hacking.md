@@ -433,4 +433,6 @@ Essential reading! Covers:
 
 [GHC and Cabal: the big picture](https://discourse.haskell.org/t/ghc-and-cabal-the-big-picture/9968)
 
+["packages and components are concept relative to how source code is distributed; while all GHC ever loads are units"](https://discourse.haskell.org/t/ghc-and-cabal-the-big-picture/9968/13)
+
 

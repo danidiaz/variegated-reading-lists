@@ -713,4 +713,6 @@ https://twitter.com/tailwindcss
 
 [Web Design Engineering With the New CSS](https://www.youtube.com/watch?v=su6WA0kUUJE). [cool view transitions](https://x.com/k_grajeda/status/1805347369799541069).
 
+[Typed CSS Variables](https://x.com/ChallengesCss/status/1813529908456681717)
+
 

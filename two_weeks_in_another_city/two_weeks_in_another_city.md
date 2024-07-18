@@ -809,6 +809,8 @@ Bernini, his life and his Rome
 
 [Deconstructing the Role-Playing Video Game](https://news.ycombinator.com/item?id=40977834)
 
+[collision detection](https://x.com/reduzio/status/1813493598320484833)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

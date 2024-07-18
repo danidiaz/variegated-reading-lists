@@ -435,4 +435,6 @@ Essential reading! Covers:
 
 ["packages and components are concept relative to how source code is distributed; while all GHC ever loads are units"](https://discourse.haskell.org/t/ghc-and-cabal-the-big-picture/9968/13)
 
+[See the GHC team's working conventions regarding how to contribute a patch to GHC. First time contributors are encouraged to get started by just sending a Merge Request.](https://gitlab.haskell.org/ghc/ghc#getting-the-source). [How to contribute a patch to GHC](https://gitlab.haskell.org/ghc/ghc/-/wikis/working-conventions/fixing-bugs). [documentation changes](https://gitlab.haskell.org/ghc/ghc/-/wikis/working-conventions/documentation-changes).
+
 

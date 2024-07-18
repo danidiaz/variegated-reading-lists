@@ -715,4 +715,7 @@ https://twitter.com/tailwindcss
 
 [Typed CSS Variables](https://x.com/ChallengesCss/status/1813529908456681717)
 
+[CSS Classes Considered Harmful](https://news.ycombinator.com/item?id=40983709)
+
+
 

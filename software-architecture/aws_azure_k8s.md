@@ -530,3 +530,32 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Best AWS Gateway + Lambda architecture for handling async long jobs](https://www.reddit.com/r/aws/comments/1e437g5/best_aws_gateway_lambda_architecture_for_handling/)
 
+[What’s the most serverless way to wait for a slow HTTP response?](https://theburningmonk.com/2023/08/whats-the-most-serverless-way-to-wait-for-a-slow-http-response/). [tweet](https://x.com/theburningmonk/status/1813725533311562194).
+
+[(cdk-assets): support building Docker images with Podman](https://github.com/aws/aws-cdk/issues/16209)
+
+> Podman allows me to build and run containers locally without any elevated privileges while maintaining basically the same command line interface as regular Docker. 
+
+[View AWS account identifiers](https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-identifiers.html)
+
+> $ aws sts get-caller-identity \
+>    --query Account \
+>        --output text
+
+[Templates overview](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/gettingstarted.templatebasics.html). [AWS CloudFormation stack updates](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-updating-stacks.html). [update-stack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/update-stack.html). [Working with CloudFormation templates](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-guide.html).
+
+> One of the greatest benefits of templates and CloudFormation is the ability to create a set of resources that work together to create an application or solution. The name used for a resource within the template is a logical name. When CloudFormation creates the resource, it generates a physical name that's based on the combination of the logical name, the stack name, and a unique ID.
+
+[AWS (SAM) X AWS CloudFormation](https://repost.aws/questions/QU19cXwaDjRniuSCRSEPB1yQ/aws-sam-x-aws-cloudformation). [CDK is the new hotness](https://www.reddit.com/r/aws/comments/1cjzgv2/comment/l2kf4tk/). [The AWS SAM project and AWS SAM template](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification.html). [Is AWS SAM viable in the long run?](https://www.reddit.com/r/aws/comments/1cjzgv2/is_aws_sam_viable_in_the_long_run). [AWS SAM support for HashiCorp Terraform now generally available](https://aws.amazon.com/blogs/compute/aws-sam-support-for-hashicorp-terraform-now-generally-available/). [SAM](https://aws.amazon.com/es/serverless/sam/). [what is SAM?](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html). [AWS SAM prerequisites](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/prerequisites.html). [Getting started with AWS SAM and the AWS CDK](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-cdk-getting-started.html). [Is AWS SAM viable in the long run?](https://www.reddit.com/r/aws/comments/1cjzgv2/comment/l2jjk6i/). [SAM vs. Terraform](https://www.reddit.com/r/devops/comments/18y2zzt/sam_vs_terraform/)
+
+> For real, if using a typed language, CDK is amazing. Many less deployment errors for malformed CF and less need to look up docs.
+
+[Why use AWS Step Functions?](https://www.reddit.com/r/aws/comments/pmc1o2/why_use_aws_step_functions/). [AWS Step Functions Use Cases](https://aws.amazon.com/step-functions/use-cases/). [How to use, and NOT use, AWS Step Functions](https://www.linkedin.com/pulse/how-use-aws-step-functions-raphael-bottino). [Maybe Step Functions are not what I need](https://andresmijares25.medium.com/maybe-step-functions-are-not-what-i-needed-f64dd05c9979). [Best practices for Step Functions](https://docs.aws.amazon.com/step-functions/latest/dg/sfn-best-practices.html). [Step Functions para no morir. Parte 5: Step Manual](https://dev.to/giulianaolmos/step-functions-para-no-morir-parte-5-step-manual-15ah). 
+
+[Create a Lambda function using a container image](https://docs.aws.amazon.com/lambda/latest/dg/images-create.html)
+
+[AWS Lambda applications](https://docs.aws.amazon.com/lambda/latest/dg/deploying-lambda-apps.html)
+
+
+
+

@@ -450,4 +450,9 @@ Things for which I found ChatGPT useful:
 
 [EVALUATING RETRIEVAL IN RAGS: A PRACTICAL FRAMEWORK](https://www.tweag.io/blog/2024-03-21-evaluating-retrieval-in-rag-framework/)
 
+[Prover-Verifier Games](https://openai.com/index/prover-verifier-games-improve-legibility/)
+
+[guide to the Transformer architecture, with Keras code examples](https://x.com/fchollet/status/1813362217020219587)
+
+
 

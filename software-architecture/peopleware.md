@@ -306,4 +306,7 @@
 
 [do not waffle](https://x.com/simonw/status/1812123492097363979)
 
+[Story Points are Pointless](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
+
+
 

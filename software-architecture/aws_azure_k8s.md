@@ -554,7 +554,9 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Create a Lambda function using a container image](https://docs.aws.amazon.com/lambda/latest/dg/images-create.html)
 
-[AWS Lambda applications](https://docs.aws.amazon.com/lambda/latest/dg/deploying-lambda-apps.html)
+[AWS Lambda applications](https://docs.aws.amazon.com/lambda/latest/dg/deploying-lambda-apps.html). [What is difficult about using Step Functions?](https://www.reddit.com/r/aws/comments/ju0uqg/what_is_difficult_about_using_step_functions/). 
+
+[External endpoints and testing of task states now available in AWS Step Functions](https://aws.amazon.com/es/blogs/aws/external-endpoints-and-testing-of-task-states-now-available-in-aws-step-functions/). [What’s the most serverless way to wait for a slow HTTP response?](https://theburningmonk.com/2023/08/whats-the-most-serverless-way-to-wait-for-a-slow-http-response/).
 
 
 

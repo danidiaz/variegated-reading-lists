@@ -1223,4 +1223,6 @@ What! This does work! How to go in the opposite direction?
 
 [cabal2nix and system libraries](https://www.reddit.com/r/haskell/comments/1e3615y/cabal2nix_and_system_libraries_a_short_quirk/)
 
+[Making a dev shell with nix flakes](https://fasterthanli.me/series/building-a-rust-service-with-nix/part-10)
+
 

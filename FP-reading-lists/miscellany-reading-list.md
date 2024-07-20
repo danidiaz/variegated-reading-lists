@@ -948,3 +948,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 > We expect that there are other thorny problems in software
 > architecture that may be susceptible to this multi-phase approach.
 
+[Functional Leetcode 100 – Permutations](https://ayayaya.org/en/posts/fp-lc100-001-permutation#next-permutation)
+
+

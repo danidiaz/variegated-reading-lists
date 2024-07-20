@@ -148,4 +148,6 @@
 
 [Investigation of a Cross-regional Network Performance Issue](https://netflixtechblog.medium.com/investigation-of-a-cross-regional-network-performance-issue-422d6218fdf1)
 
+[#vibr and #vnet](https://hachyderm.io/@brokenix@emacs.ch/112813219092015649)
+
 

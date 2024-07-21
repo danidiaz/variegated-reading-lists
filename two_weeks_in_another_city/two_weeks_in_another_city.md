@@ -811,6 +811,8 @@ Bernini, his life and his Rome
 
 [collision detection](https://x.com/reduzio/status/1813493598320484833)
 
+[terse directions](https://www.tbray.org/ongoing/When/202x/2024/07/19/Short-Directions)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

@@ -449,4 +449,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Unordered Homogeneous N-tuples for Guaranteed Commutativity](https://danryba253.github.io/danirybeblog/posts/unordered-n-tuples/)
 
+[arbitrary instances for dependent types](https://discourse.haskell.org/t/how-to-create-quickcheck-tests-for-dependently-typed-matrix-addition-without-specifying-each-dimension-statically/9993)
+
 

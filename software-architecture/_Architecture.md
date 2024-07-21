@@ -1539,4 +1539,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [How to organize large Rust codebases](https://kerkour.com/rust-how-to-organize-large-workspaces)
 
+[vent-driven = Loosely coupled? Not so fast!](https://www.enterpriseintegrationpatterns.com/ramblings/eventdriven_coupling.html). [tweet](https://x.com/ghohpe/status/1814993924974621163)
+
+
+
 

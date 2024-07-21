@@ -454,5 +454,9 @@ Things for which I found ChatGPT useful:
 
 [guide to the Transformer architecture, with Keras code examples](https://x.com/fchollet/status/1813362217020219587)
 
+[SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://news.ycombinator.com/item?id=40985017)
+
+[Converting Codebases with LLMs](https://news.ycombinator.com/item?id=41014052)
+
 
 

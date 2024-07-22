@@ -558,6 +558,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [External endpoints and testing of task states now available in AWS Step Functions](https://aws.amazon.com/es/blogs/aws/external-endpoints-and-testing-of-task-states-now-available-in-aws-step-functions/). [What’s the most serverless way to wait for a slow HTTP response?](https://theburningmonk.com/2023/08/whats-the-most-serverless-way-to-wait-for-a-slow-http-response/).
 
-
+[AWS CDK bootstrapping](https://docs.aws.amazon.com/cdk/v2/guide/bootstrapping.html)
 
 

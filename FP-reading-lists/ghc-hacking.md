@@ -437,4 +437,8 @@ Essential reading! Covers:
 
 [See the GHC team's working conventions regarding how to contribute a patch to GHC. First time contributors are encouraged to get started by just sending a Merge Request.](https://gitlab.haskell.org/ghc/ghc#getting-the-source). [How to contribute a patch to GHC](https://gitlab.haskell.org/ghc/ghc/-/wikis/working-conventions/fixing-bugs). [documentation changes](https://gitlab.haskell.org/ghc/ghc/-/wikis/working-conventions/documentation-changes).
 
+[Object linking and GHC explained](https://discourse.haskell.org/t/object-linking-and-ghc-explained/9999)    
+
+[diff-package-api](https://discourse.haskell.org/t/maintain-a-golden-test-of-your-packages-api-with-diff-package-api-and-print-api/9997/3)
+
 

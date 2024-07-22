@@ -834,3 +834,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > A presigned URL is like a temporary password included in the URL. Everybody which knows this URL can have access to it as long as the URL is not expired.
 
+[own your user data](https://x.com/kentcdodds/status/1815500325358653683)
+
+

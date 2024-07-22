@@ -441,4 +441,6 @@ Essential reading! Covers:
 
 [diff-package-api](https://discourse.haskell.org/t/maintain-a-golden-test-of-your-packages-api-with-diff-package-api-and-print-api/9997/3)
 
+[haskell-ci](https://github.com/haskell-CI/haskell-ci)
+
 

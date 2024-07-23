@@ -443,4 +443,6 @@ Essential reading! Covers:
 
 [haskell-ci](https://github.com/haskell-CI/haskell-ci)
 
+[ghciwatch](https://www.reddit.com/r/haskell/comments/1eaca5d/announcing_ghciwatch_10_a_ghcid_successor/)
+
 

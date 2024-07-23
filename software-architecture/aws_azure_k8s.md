@@ -560,4 +560,18 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [AWS CDK bootstrapping](https://docs.aws.amazon.com/cdk/v2/guide/bootstrapping.html)
 
+[View API Gateway log events in the CloudWatch console ](https://docs.aws.amazon.com/apigateway/latest/developerguide/view-cloudwatch-log-events-in-cloudwatch-console.html)
+
+[Trace full-request / response bodies in AWS ApiGateway (not truncated) ](https://stackoverflow.com/questions/50365298/trace-full-request-response-bodies-in-aws-apigateway-not-truncated)
+
+[Stages for HTTP APIs in API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-stages.html)
+
+[Custom domain name for REST APIs in API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-custom-domains.html)
+
+[GetBasePathMapping - Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/api/API_GetBasePathMapping.html)
+
+[Map API stages to a custom domain name for HTTP APIs](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-mappings.html)
+
+[Set up VPC links for HTTP APIs in API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vpc-links.html)
+
 

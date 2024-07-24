@@ -1541,6 +1541,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [vent-driven = Loosely coupled? Not so fast!](https://www.enterpriseintegrationpatterns.com/ramblings/eventdriven_coupling.html). [tweet](https://x.com/ghohpe/status/1814993924974621163)
 
-
+[Do not pass DTOs to UI components](https://darios.blog/posts/do-not-pass-dtos-to-ui-components)
 
 

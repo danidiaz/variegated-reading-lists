@@ -1225,4 +1225,7 @@ What! This does work! How to go in the opposite direction?
 
 [Making a dev shell with nix flakes](https://fasterthanli.me/series/building-a-rust-service-with-nix/part-10)
 
+[NixOS available WSL2?](https://x.com/tritlo/status/1816455336426975533). [repo](https://github.com/nix-community/NixOS-WSL).
+
+
 

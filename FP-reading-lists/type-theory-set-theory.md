@@ -843,4 +843,10 @@ regress of beliefs.
 
 [How the continuum hypothesis could have been a fundamental axiom](https://arxiv.org/abs/2407.02463). [universe](https://ncatlab.org/nlab/show/universe).
 
+[nLabreflection principle](https://ncatlab.org/nlab/show/reflection+principle)
+
+[ZF(C): Model or Inner Model](https://math.stackexchange.com/questions/2993674/zfc-model-or-inner-model). [Model theory is really meta, so you will have to pay attention here.](https://blog.evanchen.cc/2015/12/02/models-of-zfc/)
+
+
+
 

@@ -596,5 +596,10 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [[r/aws] CodeCommit future?](https://www.reddit.com/r/aws/comments/1ecrlke/codecommit_future/)
 
+[Creating shortcut links to AWS Management Console destinations](https://docs.aws.amazon.com/singlesignon/latest/userguide/createshortcutlink.html?icmpid=docs_sso_console)
+
+[Part 2: Create an administrative user in IAM Identity Center](https://docs.aws.amazon.com/SetUp/latest/UserGuide/setup-configadminuser.html). [IAM Get Started confusion - IAM User Vs IAM Identity Centre User ?](https://repost.aws/questions/QUkC_9SFrHRwG0DMo9TXpaEA/iam-get-started-confusion-iam-user-vs-iam-identity-centre-user)
+
+
 
 

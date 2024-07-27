@@ -662,5 +662,7 @@ VSCode simple config for recordings:
 
 [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 
+[how I use Git worktrees](https://lobste.rs/s/rvqez7/how_i_use_git_worktrees)
+
 
 

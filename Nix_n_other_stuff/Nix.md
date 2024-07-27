@@ -1227,5 +1227,9 @@ What! This does work! How to go in the opposite direction?
 
 [NixOS available WSL2?](https://x.com/tritlo/status/1816455336426975533). [repo](https://github.com/nix-community/NixOS-WSL).
 
+[transitive models of ZFC](https://math.stackexchange.com/questions/4654388/difference-between-transitive-and-non-transitive-models)
+
+[specialisations](https://www.reddit.com/r/NixOS/comments/1ec9xwm/specialisations_are_pretty_dope/)
+
 
 

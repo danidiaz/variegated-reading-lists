@@ -783,6 +783,18 @@ https://news.ycombinator.com/item?id=25061901
 
 [Exactly-Once Processing vs. Exactly-Once Delivery](https://ssudan16.medium.com/exactly-once-processing-in-kafka-explained-66ecc41a8548). [more](‘Exactly Once’ processing with Spark Structured Streaming). [polemic](https://www.reddit.com/r/programming/comments/6kh65f/comment/djnjywk/). [so question](https://stackoverflow.com/questions/58894281/difference-between-idempotence-and-exactly-once-in-kafka-stream). [Exactly Once = At least once + Idempotence](https://news.ycombinator.com/item?id=34986995). [more](https://news.ycombinator.com/item?id=15602841). [in Spring Cloud Stream](https://spring.io/blog/2023/10/16/apache-kafkas-exactly-once-semantics-in-spring-cloud-stream-kafka). [more](https://www.felpfe.com/2023/10/03/exactly-once-processing-guarantees-with-kafka-streams/). [pulsar](https://streamnative.io/blog/exactly-once-semantics-transactions-pulsar). [Do you really need exactly-once delivery?](https://streamingdata.substack.com/p/do-you-really-need-exactly-once-delivery).
 
+[CAP is eventually boring](https://x.com/HenryR/status/1816509962173993428). [tweet](https://x.com/MarcJBrooker/status/1816503977577721913). [Let’s Consign CAP to the Cabinet of Curiosities](https://brooker.co.za/blog/2024/07/25/cap-again.html). [rethinking eventual consistency](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/sigtt611-bernstein.pdf). [Availability and availability](https://brooker.co.za/blog/2018/02/25/availability-liveness.html) 
+
+> Where CAP goes off the rails is the second box: if a quorum of replicas is available to the client, they can still get both strong consistency, and uncompromised availability.
+
+> It’s well known that the term Availability in the CAP theorem (as formally defined by Gilbert and Lynch) means something different from the term availability that’s commonly used by the designers, builders and operators of distributed systems
+
+> It also doesn’t mean that there aren’t interesting trade-offs to be considered. Interesting ones include trade-offs between on-disk durability and write latency, between read latency and write latency, between consistency and latency, between latency and throughput, between consistency and throughput2, between isolation and throughput, and many others.
+
+
+
+
+
 
 
 

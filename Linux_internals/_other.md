@@ -22,4 +22,6 @@
 
 [favorite tracing tools](https://news.ycombinator.com/item?id=38538111)
 
+[strlcpy and how CPUs can defy common sense](https://lobste.rs/s/bjx13v/strlcpy_how_cpus_can_defy_common_sense).
+
 

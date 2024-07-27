@@ -572,6 +572,29 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Map API stages to a custom domain name for HTTP APIs](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-mappings.html)
 
-[Set up VPC links for HTTP APIs in API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vpc-links.html)
+[Set up VPC links for HTTP APIs in API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vpc-links.html). [Is a NAT Gateway needed when configuring an AWS API Gateway?](https://stackoverflow.com/questions/69328962/is-a-nat-gateway-needed-when-configuring-an-aws-api-gateway). [Why can't an AWS lambda function inside a public subnet in a VPC connect to the internet?](https://stackoverflow.com/questions/52992085/why-cant-an-aws-lambda-function-inside-a-public-subnet-in-a-vpc-connect-to-the). [Enable VPC internet access using internet gateways](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html). [Architecture with an internet gateway and a NAT gateway](https://docs.aws.amazon.com/network-firewall/latest/developerguide/arch-igw-ngw.html). [Simple single zone architecture with an internet gateway ](https://docs.aws.amazon.com/network-firewall/latest/developerguide/arch-single-zone-igw.html)
+
+[What exactly are NAT gateway and Internet gateway on AWS?](https://stackoverflow.com/questions/74455063/what-exactly-are-nat-gateway-and-internet-gateway-on-aws). [Enable VPC internet access using internet gateways](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html). [Does the AWS Internet Gateway NAT IP Address Originating From the Public Subnet?](https://www.reddit.com/r/aws/comments/17w45qp/does_the_aws_internet_gateway_nat_ip_address/). [Subnets for your VPC](https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html). [not two exclusive](https://stackoverflow.com/a/71770810/1364288). [Elastic IP address concepts and rules](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-eip-overview.html). [Do you need or you don't need an IGW to get access to the internet if you create a EC2 instance with an EIP](https://serverfault.com/a/929042/152225).
+
+> An Internet Gateway is a logical connection between a VPC and the Internet. 
+
+> Think of the Internet Gateway as the wire that you use to connect your home router to the Internet. Pull out that wire and your home network won't be connected to the Internet.
+
+> A subnet is a 'public subnet' if it has a Route Table that references an Internet Gateway.
+
+> The NAT Gateway only connects to one VPC -- it is not a 'shared service' like Amazon S3, which is available to many AWS users simultaneously.
+
+> An internet gateway provides a target in your VPC route tables for internet-routable traffic.
+
+> Public subnet – The subnet has a direct route to an internet gateway. Resources in a public subnet can access the public internet.
+
+> A NAT Gateway still uses an Internet Gateway to access the Internet. So they are not two exclusive, separate things like you indicate in your question.
+
+>  If you try to assign an Elastic IP to your instance when the VPC doesn't have an Internet Gateway it won't let you [...] If you try to detach an internet gateway from a VPC that has an instance with an EIP you get this error message.
+
+> I just tested all this to be double sure. It only took ten minutes to create a VPC and mess around a bit. That's the great thing about cloud / AWS, it's generally easy to work things out by trying them. It probably cost me $0.05.
+
+[[r/aws] CodeCommit future?](https://www.reddit.com/r/aws/comments/1ecrlke/codecommit_future/)
+
 
 

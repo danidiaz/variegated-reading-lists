@@ -950,4 +950,11 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Functional Leetcode 100 – Permutations](https://ayayaya.org/en/posts/fp-lc100-001-permutation#next-permutation)
 
+[Rivers: eventually constant streams in Haskell](https://byorgey.github.io/blog/posts/2024/07/18/River.html)
+
+[linear time median finding](https://news.ycombinator.com/item?id=41066536)
+
+
+
+
 

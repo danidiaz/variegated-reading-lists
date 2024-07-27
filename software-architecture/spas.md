@@ -461,3 +461,7 @@
 
 [Following up "Mother of all htmx demos"](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
 
+[Demystifying Cookies and Tokens](https://news.ycombinator.com/item?id=41033042)
+
+
+

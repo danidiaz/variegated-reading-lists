@@ -836,4 +836,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [own your user data](https://x.com/kentcdodds/status/1815500325358653683)
 
+[Visual explanation of saml authentication ](https://news.ycombinator.com/item?id=41057814)
+
+[why use isolated VMs](https://news.ycombinator.com/item?id=41070870)
+
 

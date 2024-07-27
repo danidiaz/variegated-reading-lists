@@ -813,6 +813,8 @@ Bernini, his life and his Rome
 
 [terse directions](https://www.tbray.org/ongoing/When/202x/2024/07/19/Short-Directions)
 
+[Dungeons and Dragons taught me how to write alt text](https://news.ycombinator.com/item?id=41061755)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

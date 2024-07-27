@@ -458,5 +458,7 @@ Things for which I found ChatGPT useful:
 
 [Converting Codebases with LLMs](https://news.ycombinator.com/item?id=41014052)
 
+[Solving the out-of-context chunk problem for RAG](https://news.ycombinator.com/item?id=41034297)
+
 
 

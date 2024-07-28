@@ -604,12 +604,18 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Custom permissions](https://docs.aws.amazon.com/singlesignon/latest/userguide/permissionsetcustom.html?icmpid=docs_sso_console)
 
-[Permission sets](https://docs.aws.amazon.com/singlesignon/latest/userguide/permissionsetsconcept.html)
+[Permission sets](https://docs.aws.amazon.com/singlesignon/latest/userguide/permissionsetsconcept.html). [IAM policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html).
 
 > When you assign a permission set, IAM Identity Center creates corresponding IAM Identity Center-controlled IAM roles in each account, and attaches the policies specified in the permission set to those roles. 
 
 > Permission sets define the level of access that users and groups in IAM Identity Center have to an AWS account. You can assign more than one permission set to a user. To ensure least privilege access to AWS accounts, users in IAM Identity Center with multiple permission sets on an AWS account must pick a specific permission set when selecting the account and then return to the AWS access portal to pick a different set when necessary
 
+> You manage access in AWS by creating policies and attaching them to IAM identities (users, groups of users, or roles) or AWS resources.
+
+[IAM user groups (different from account groups in organizations)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html)
+
 [Management account](https://docs.aws.amazon.com/managedservices/latest/userguide/management-account.html). [Root user best practices for your AWS account ](https://docs.aws.amazon.com/IAM/latest/UserGuide/root-user-best-practices.html).
 
 > The account you use to create your organization is the management account and the rest of the accounts in your organization are member accounts.
+
+

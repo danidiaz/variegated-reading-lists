@@ -664,5 +664,7 @@ VSCode simple config for recordings:
 
 [how I use Git worktrees](https://lobste.rs/s/rvqez7/how_i_use_git_worktrees)
 
+[compare with VSCode](https://x.com/housecor/status/1817554130782568927)
+
 
 

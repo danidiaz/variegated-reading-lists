@@ -150,4 +150,6 @@
 
 [#vibr and #vnet](https://hachyderm.io/@brokenix@emacs.ch/112813219092015649)
 
+[The New Internet](https://tailscale.com/blog/new-internet)
+
 

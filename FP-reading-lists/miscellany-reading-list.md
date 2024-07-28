@@ -954,6 +954,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [linear time median finding](https://news.ycombinator.com/item?id=41066536)
 
+[CSV parsing](https://x.com/fredine/status/1817261497200021846)
+
 
 
 

@@ -528,6 +528,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [egraphs as ground completion](https://www.philipzucker.com/egraph2024_talk_done/)
 
+[Co-Egraphs: Streams, Unification, PEGs, Rational Lambdas](https://www.philipzucker.com/coegraph/)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

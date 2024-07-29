@@ -626,4 +626,18 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 > Callback Patterns Let You Wait for User Input
 
+[Managing access keys for IAM users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html)
+
+> As a best practice, use temporary security credentials (such as IAM roles) instead of creating long-term credentials like access keys. Before creating access keys, review the alternatives to long-term access keys.
+
+[AWS security credentials](https://docs.aws.amazon.com/IAM/latest/UserGuide/security-creds.html)
+
+> There are different types of users in AWS. All AWS users have security credentials. There is the account owner (root user), users in AWS IAM Identity Center, federated users, and IAM users.
+
+> Users have either long-term or temporary security credentials. Root user, IAM user, and access keys have long-term security credentials that do not expire. To protect long-term credentials have processes in place to manage access keys, change passwords, and enable MFA.
+
+> IAM roles, users in AWS IAM Identity Center, and federated users have temporary security credentials. Temporary security credentials expire after a defined period of time or when the user ends their session. Temporary credentials work almost identically to long-term credentials, with the following differences:
+
+[Working with .zip file archives for Python Lambda functions](https://docs.aws.amazon.com/lambda/latest/dg/python-package.html)
+
 

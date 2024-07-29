@@ -618,4 +618,12 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 > The account you use to create your organization is the management account and the rest of the accounts in your organization are member accounts.
 
+[Choreography vs Orchestration in the land of serverless (2020)](https://theburningmonk.com/2020/08/choreography-vs-orchestration-in-the-land-of-serverless/)
+
+> The TL;DR is that, when it comes to implementing workflows, you should prefer orchestration within the bounded context of a microservice, but prefer choreography between bounded contexts.
+
+[Building a Real-World Use Case with Step Functions and the Callback Pattern](https://blog.awsfundamentals.com/building-a-real-world-use-case-with-step-functions-and-the-callback-pattern)
+
+> Callback Patterns Let You Wait for User Input
+
 

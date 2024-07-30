@@ -1543,4 +1543,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Do not pass DTOs to UI components](https://darios.blog/posts/do-not-pass-dtos-to-ui-components)
 
+[Control Flow—The Other Half of Integration Patterns](https://www.enterpriseintegrationpatterns.com/ramblings/queues_control_flow.html)
+
 

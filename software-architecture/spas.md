@@ -463,5 +463,7 @@
 
 [Demystifying Cookies and Tokens](https://news.ycombinator.com/item?id=41033042)
 
+[Third-party cookies have got to go](https://lobste.rs/s/hat2if/third_party_cookies_have_got_go)
 
+[What we got wrong about HTTP imports](https://lobste.rs/s/vfnby3/what_we_got_wrong_about_http_imports)
 

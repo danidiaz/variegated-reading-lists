@@ -459,4 +459,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [HotSwap agent](https://x.com/JavaDiscussions/status/1812774669214236942)
 
+[Good luck storing Spring Cloud Config configurations in GitHub when GitHub goes down. ](https://x.com/maciejwalkowiak/status/1818297607841534358)
+
 

@@ -640,4 +640,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Working with .zip file archives for Python Lambda functions](https://docs.aws.amazon.com/lambda/latest/dg/python-package.html)
 
+[How to List Stacks in AWS CDK](https://blog.mikaeels.com/how-to-list-stacks-in-aws-cdk)
+
 

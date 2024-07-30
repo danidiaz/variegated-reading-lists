@@ -460,5 +460,7 @@ Things for which I found ChatGPT useful:
 
 [Solving the out-of-context chunk problem for RAG](https://news.ycombinator.com/item?id=41034297)
 
+[How do you automate your life using LLMs?](https://www.reddit.com/r/ClaudeAI/comments/1eflgf5/how_do_you_automate_your_life_using_llms/)
+
 
 

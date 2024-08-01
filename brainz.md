@@ -462,5 +462,7 @@ Things for which I found ChatGPT useful:
 
 [How do you automate your life using LLMs?](https://www.reddit.com/r/ClaudeAI/comments/1eflgf5/how_do_you_automate_your_life_using_llms/)
 
+[llama workflows (like Rx?)](https://x.com/llama_index/status/1819048068798616058). 
+
 
 

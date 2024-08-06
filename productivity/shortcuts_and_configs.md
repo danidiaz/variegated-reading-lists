@@ -666,5 +666,6 @@ VSCode simple config for recordings:
 
 [compare with VSCode](https://x.com/housecor/status/1817554130782568927)
 
+[Raycast quick links](https://x.com/therealdanvega/status/1820805452193554720)
 
 

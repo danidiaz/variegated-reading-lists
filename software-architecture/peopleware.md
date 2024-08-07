@@ -310,7 +310,7 @@
 
 [over-enumeration](https://x.com/SwiftOnSecurity/status/1820901688921735650)
 
-[How I Use "AI"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
+[How I Use "AI"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html). [tweet](https://x.com/peteskomoroch/status/1820274161329332359).
 
 
 

@@ -642,4 +642,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [How to List Stacks in AWS CDK](https://blog.mikaeels.com/how-to-list-stacks-in-aws-cdk)
 
+[[r/aws] Cloudfront WAF bypass resulted in a 9k bill](https://www.reddit.com/r/aws/comments/1eit69p/cloudfront_waf_bypass_resulted_in_a_9k_bill/)
+
 

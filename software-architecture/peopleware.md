@@ -308,5 +308,9 @@
 
 [Story Points are Pointless](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
 
+[over-enumeration](https://x.com/SwiftOnSecurity/status/1820901688921735650)
+
+[How I Use "AI"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
+
 
 

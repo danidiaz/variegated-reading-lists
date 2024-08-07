@@ -644,4 +644,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [[r/aws] Cloudfront WAF bypass resulted in a 9k bill](https://www.reddit.com/r/aws/comments/1eit69p/cloudfront_waf_bypass_resulted_in_a_9k_bill/)
 
+[Painful bill for image pulls from ECR ?](https://www.reddit.com/r/aws/comments/12elm9w/painful_bill_for_image_pulls_from_ecr/)
+
 

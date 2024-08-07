@@ -791,6 +791,8 @@ https://news.ycombinator.com/item?id=25061901
 
 > It also doesn’t mean that there aren’t interesting trade-offs to be considered. Interesting ones include trade-offs between on-disk durability and write latency, between read latency and write latency, between consistency and latency, between latency and throughput, between consistency and throughput2, between isolation and throughput, and many others.
 
+[Apache Iceberg consistency model](https://x.com/eatonphil/status/1821145093409017858)
+
 
 
 

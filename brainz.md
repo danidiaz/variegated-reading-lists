@@ -464,7 +464,7 @@ Things for which I found ChatGPT useful:
 
 [llama workflows (like Rx?)](https://x.com/llama_index/status/1819048068798616058). 
 
-[open ai structured outputs](https://simonwillison.net/2024/Aug/6/openai-structured-outputs/). [official post](https://openai.com/index/introducing-structured-outputs-in-the-api/). [tweet](https://x.com/simonw/status/1820926836135678409). [jsonformer](https://x.com/Yampeleg/status/1820890368457806065). [ast](https://x.com/headinthebox/status/1820968680135774554). [hn](https://news.ycombinator.com/item?id=41173223).
+[open ai structured outputs](https://simonwillison.net/2024/Aug/6/openai-structured-outputs/). [official post](https://openai.com/index/introducing-structured-outputs-in-the-api/). [tweet](https://x.com/simonw/status/1820926836135678409). [jsonformer](https://x.com/Yampeleg/status/1820890368457806065). [ast](https://x.com/headinthebox/status/1820968680135774554). [hn](https://news.ycombinator.com/item?id=41173223). [three solutions](https://x.com/burkov/status/1821759647994236943).
 
 [pockets](https://x.com/GergelyOrosz/status/1821453959598313946)
 

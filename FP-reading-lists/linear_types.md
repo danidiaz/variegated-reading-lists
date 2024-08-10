@@ -140,5 +140,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [linear comonoids](https://x.com/aspiwack/status/1821926177352585279)
 
+[linear temporal logic (LTL)](https://blog.brownplt.org/2024/08/08/ltltutor.html). [tweet](https://x.com/ShriramKMurthi/status/1821961147672887339).
+
 
 

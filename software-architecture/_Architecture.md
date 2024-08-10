@@ -1551,4 +1551,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Queues invert control flow but require flow control](https://x.com/ghohpe/status/1821155314105757779)
 
+[Are You Done Yet? Mastering Long-Running Processes in Modern Architectures](https://www.infoq.com/articles/mastering-long-running-processes/)
+
 

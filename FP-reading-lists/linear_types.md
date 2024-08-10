@@ -138,5 +138,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [pattern matching vs. projections wrt linearity](https://x.com/aspiwack/status/1821835765451460714). [spotify part III](https://open.spotify.com/episode/08KP3oElnpN1rBetDKw1oG).
 
+[linear comonoids](https://x.com/aspiwack/status/1821926177352585279)
+
 
 

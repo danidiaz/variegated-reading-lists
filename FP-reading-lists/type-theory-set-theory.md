@@ -369,6 +369,7 @@ or computations blocked by unknowns.
 
 > Induction on the length of a list is just the above with f = length.
 
+[graded modal types in Granule](https://granule-project.github.io/granule.html)
 
 ## Proof assistants
 

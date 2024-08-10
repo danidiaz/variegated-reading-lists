@@ -425,4 +425,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [how uber tests payments in production](https://news.ycombinator.com/item?id=41178959)
 
+[Tracking supermarket prices with Playwright](https://news.ycombinator.com/item?id=41173335)
+
 

@@ -1083,4 +1083,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [React 19 hooks](https://x.com/housecor/status/1812826304984588580)
 
+[Deep dive on forms in React 19](https://www.epicreact.dev/react-forms)
+
 

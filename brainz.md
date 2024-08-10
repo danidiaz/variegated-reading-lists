@@ -468,6 +468,8 @@ Things for which I found ChatGPT useful:
 
 [pockets](https://x.com/GergelyOrosz/status/1821453959598313946)
 
-[RLHF is just barely RL](https://news.ycombinator.com/item?id=41188647)
+[RLHF is just barely RL](https://news.ycombinator.com/item?id=41188647). [tweet](https://x.com/karpathy/status/1821277264996352246).
+
+[how I program in 2024](https://news.ycombinator.com/item?id=41157494)
 
 

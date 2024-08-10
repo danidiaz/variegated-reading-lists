@@ -427,4 +427,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [PostgreSQL is enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
 
+[the uses of ARRAY types in Postgres](https://x.com/gunnarmorling/status/1821480966554100009)
+
 

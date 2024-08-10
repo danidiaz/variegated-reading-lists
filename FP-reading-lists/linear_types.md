@@ -136,4 +136,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [linear temporal logic](https://x.com/ShriramKMurthi/status/1812200730469789734). [Misconceptions In Finite-Trace and Infinite-Trace Linear Temporal Logic](https://blog.brownplt.org/2024/07/07/little-tricky-logics-2.html).
 
+[pattern matching vs. projections wrt linearity](https://x.com/aspiwack/status/1821835765451460714). [spotify part III](https://open.spotify.com/episode/08KP3oElnpN1rBetDKw1oG).
+
+
 

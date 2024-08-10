@@ -1547,4 +1547,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [DTOs yet again](https://x.com/VaughnVernon/status/1819004089771975164)
 
+[append-only code?](https://x.com/smarr/status/1821857748570546314)
+
+[Queues invert control flow but require flow control](https://x.com/ghohpe/status/1821155314105757779)
+
 

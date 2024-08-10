@@ -1231,5 +1231,8 @@ What! This does work! How to go in the opposite direction?
 
 [specialisations](https://www.reddit.com/r/NixOS/comments/1ec9xwm/specialisations_are_pretty_dope/)
 
+[congruent configuration](https://github.com/cachix/devenv/issues/1362)
+
+
 
 

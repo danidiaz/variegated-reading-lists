@@ -968,8 +968,7 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Parquet, Arrow dataframes, and DuckDB](https://x.com/ethanf_17/status/1809835395695407529). [@duckdb , Arrow, or @IbisData](https://x.com/i/bookmarks)
 
-
-
+[documenting your database schema](https://mercury.com/blog/documenting-your-database-schema)
 
 # Podcasts
 

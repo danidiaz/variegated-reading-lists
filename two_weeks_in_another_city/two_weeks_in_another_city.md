@@ -815,6 +815,12 @@ Bernini, his life and his Rome
 
 [Dungeons and Dragons taught me how to write alt text](https://news.ycombinator.com/item?id=41061755)
 
+[Four Types of Dungeon Design & How To Combine Them](https://dicegoblin.blog/four-types-of-dungeon-design-how-to-combine-them/)
+
+[rail tracks](https://x.com/SprintingOwl/status/1821693426787668270)
+
+
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

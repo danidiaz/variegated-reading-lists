@@ -190,5 +190,7 @@
 
 [high-level rust](https://dioxus.notion.site/Dioxus-Labs-High-level-Rust-5fe1f1c9c8334815ad488410d948f05e)
 
+[Don't write Rust like it's Java](https://lobste.rs/s/nunnw3/don_t_write_rust_like_it_s_java) (?)
+
 
 

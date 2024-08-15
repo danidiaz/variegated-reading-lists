@@ -893,4 +893,5 @@ Bernini, his life and his Rome
 
 [Pinnacle – a modern tribute to the 1986 classic, The Sentinel](https://news.ycombinator.com/item?id=39827972)
 
+[The Crimson Diamond review: an enthralling retro-inspired EGA game with modern mystery style](https://www.rockpapershotgun.com/the-crimson-diamond-review)
 

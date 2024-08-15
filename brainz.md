@@ -472,4 +472,6 @@ Things for which I found ChatGPT useful:
 
 [how I program in 2024](https://news.ycombinator.com/item?id=41157494)
 
+[Generative AI may be more useful to understand code rather than generate it](https://martinfowler.com/articles/exploring-gen-ai.html#memo-09)
+
 

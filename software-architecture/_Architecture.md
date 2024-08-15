@@ -1563,4 +1563,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [The gains from fixing something are much smaller than the possible losses from breaking something](https://x.com/d_feldman/status/1823424913929068955)
 
+[Using only a Domain Model to persist restaurant table configurations](https://blog.ploeh.dk/2024/08/12/using-only-a-domain-model-to-persist-restaurant-table-configurations/)
+
 

@@ -650,4 +650,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [good retry, bad retry](https://lobste.rs/s/efs7lh/good_retry_bad_retry_incident_story)
 
+[Understanding AWS Network Traffic Costs](https://medium.com/@lynnpen/understanding-aws-network-traffic-costs-8e95542e1d84)
+
 

@@ -825,6 +825,8 @@ Bernini, his life and his Rome
 
 [Sort, sweep, and prune: Collision detection algorithms (2023)](https://news.ycombinator.com/item?id=41241942)
 
+[romances](https://x.com/Discourse_Stu/status/1823823082869678253)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

@@ -1565,4 +1565,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Using only a Domain Model to persist restaurant table configurations](https://blog.ploeh.dk/2024/08/12/using-only-a-domain-model-to-persist-restaurant-table-configurations/). [tweet](https://x.com/ploeh/status/1822982482452508788).
 
+>  the goal is to being able to design Domain Models unconstrained by serialization concerns, but also being able to format external data unconstrained by Reflection-based serializers
+
 

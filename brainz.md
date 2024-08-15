@@ -474,4 +474,6 @@ Things for which I found ChatGPT useful:
 
 [Generative AI may be more useful to understand code rather than generate it](https://martinfowler.com/articles/exploring-gen-ai.html#memo-09)
 
+[Language Models as Models of Language](https://arxiv.org/abs/2408.07144). [tweet](https://x.com/raphaelmilliere/status/1824116401893773700).
+
 

@@ -821,6 +821,10 @@ Bernini, his life and his Rome
 
 [positions](https://x.com/wldenning/status/1821969456542916762)
 
+[asset reuse](https://x.com/jesawyer/status/1823783227842326833)
+
+[Sort, sweep, and prune: Collision detection algorithms (2023)](https://news.ycombinator.com/item?id=41241942)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

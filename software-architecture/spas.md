@@ -467,3 +467,6 @@
 
 [What we got wrong about HTTP imports](https://lobste.rs/s/vfnby3/what_we_got_wrong_about_http_imports)
 
+[great URL design](https://news.ycombinator.com/item?id=41243992)
+
+

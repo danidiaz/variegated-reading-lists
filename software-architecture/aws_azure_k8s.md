@@ -646,4 +646,8 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Painful bill for image pulls from ECR ?](https://www.reddit.com/r/aws/comments/12elm9w/painful_bill_for_image_pulls_from_ecr/)
 
+[Build a Serverless Web Application on Fargate ECS with AWS CDK](https://dev.to/aws-heroes/build-a-serverless-web-application-on-fargate-ecs-with-aws-cdk-451m)
+
+[good retry, bad retry](https://lobste.rs/s/efs7lh/good_retry_bad_retry_incident_story)
+
 

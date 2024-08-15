@@ -1553,4 +1553,14 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Are You Done Yet? Mastering Long-Running Processes in Modern Architectures](https://www.infoq.com/articles/mastering-long-running-processes/)
 
+[The Perils of Future-Coding](https://lobste.rs/s/gomjcb/perils_future_coding)
+
+[How event-driven architecture solves modern web app problems](https://stackoverflow.blog/2020/03/16/how-event-driven-architecture-solves-modern-web-app-problems/).
+
+[Truth First, or Why You Should Mostly Implement Database First Designs](https://blog.jooq.org/truth-first-or-why-you-should-mostly-implement-database-first-designs/)
+
+[Event-Driven Architectures: Anti-Patterns](https://www.panos.tech/event-driven-2/). [Queues invert control flow but require flow control ](https://news.ycombinator.com/item?id=41195805). [Best practices for delayed actions in event-driven architecture](https://softwareengineering.stackexchange.com/questions/445645/best-practices-for-delayed-actions-in-event-driven-architecture). [Idempotency and ordering in event-driven systems](https://www.cockroachlabs.com/blog/idempotency-and-ordering-in-event-driven-systems/).
+
+[The gains from fixing something are much smaller than the possible losses from breaking something](https://x.com/d_feldman/status/1823424913929068955)
+
 

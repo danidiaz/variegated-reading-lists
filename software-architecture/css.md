@@ -717,5 +717,7 @@ https://twitter.com/tailwindcss
 
 [CSS Classes Considered Harmful](https://news.ycombinator.com/item?id=40983709)
 
+[“Smart” Layouts With Container Queries](https://css-tricks.com/smart-layouts-with-container-queries/). [tweet](https://x.com/KevinJPowell/status/1824129337974722611).
+
 
 

@@ -1567,4 +1567,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 >  the goal is to being able to design Domain Models unconstrained by serialization concerns, but also being able to format external data unconstrained by Reflection-based serializers
 
+[Modular Monolith: A Primer](https://www.kamilgrzybek.com/blog/posts/modular-monolith-primer)
+
 

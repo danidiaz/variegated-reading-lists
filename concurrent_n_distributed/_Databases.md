@@ -970,6 +970,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [documenting your database schema](https://mercury.com/blog/documenting-your-database-schema)
 
+[CDC and outages](https://x.com/craigkerstiens/status/1824114371737616794)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

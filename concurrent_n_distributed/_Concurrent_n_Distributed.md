@@ -793,7 +793,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [Apache Iceberg consistency model](https://x.com/eatonphil/status/1821145093409017858)
 
-
+[Understanding Delta Lake's consistency model + TLA+ proof](https://jack-vanlightly.com/analyses/2024/4/29/understanding-delta-lakes-consistency-model)
 
 
 

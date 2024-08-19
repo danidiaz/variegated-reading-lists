@@ -795,6 +795,8 @@ https://news.ycombinator.com/item?id=25061901
 
 [Understanding Delta Lake's consistency model + TLA+ proof](https://jack-vanlightly.com/analyses/2024/4/29/understanding-delta-lakes-consistency-model)
 
+[thinking above the code](https://x.com/DominikTornow/status/1824536730860655090)
+
 
 
 

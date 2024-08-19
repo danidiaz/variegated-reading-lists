@@ -895,3 +895,6 @@ Bernini, his life and his Rome
 
 [The Crimson Diamond review: an enthralling retro-inspired EGA game with modern mystery style](https://www.rockpapershotgun.com/the-crimson-diamond-review)
 
+[playtesting](https://x.com/hexcrawl/status/1825365333818978752)
+
+

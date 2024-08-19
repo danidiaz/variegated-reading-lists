@@ -652,4 +652,10 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Understanding AWS Network Traffic Costs](https://medium.com/@lynnpen/understanding-aws-network-traffic-costs-8e95542e1d84)
 
+[Debating EC2 vs Fargate for EKS](https://www.reddit.com/r/aws/s/sRujLYoxoD)
+
+[Should I embrace the shift to CDK?](https://www.reddit.com/r/aws/s/bDDxrNKryb)
+
+[Secure Your APIs with Cognito Authorizers for AWS API Gateway](https://medium.com/@shivkaundal/secure-your-apis-with-cognito-authorizers-for-aws-api-gateway-ba15914b64b2)
+
 

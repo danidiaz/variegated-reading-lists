@@ -1085,4 +1085,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Deep dive on forms in React 19](https://www.epicreact.dev/react-forms)
 
+[Issues with RSCs](https://x.com/AdamRackis/status/1824977845363355750)
+
 

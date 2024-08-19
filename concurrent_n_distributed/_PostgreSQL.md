@@ -429,4 +429,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [the uses of ARRAY types in Postgres](https://x.com/gunnarmorling/status/1821480966554100009)
 
+[Just use Postgres](https://lobste.rs/s/hcjxaa/just_use_postgres)
+
 

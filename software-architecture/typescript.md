@@ -218,5 +218,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Typescript's Immediately Indexed Mapped Type](https://graficos.net/blog/2024-05-07-typescript-immediately-indexed-mapped-types-iimt)
 
+[Effect example](https://x.com/MichaelArnaldi/status/1825612990013649300)
+
 
 

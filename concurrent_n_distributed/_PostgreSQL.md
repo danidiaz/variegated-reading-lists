@@ -431,4 +431,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Just use Postgres](https://lobste.rs/s/hcjxaa/just_use_postgres)
 
+[ORMs in Production PostgreSQL: Friend or Foe?](https://www.timescale.com/blog/orms-in-production-postgresql-friend-or-foe/)
+
 

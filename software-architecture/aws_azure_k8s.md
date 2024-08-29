@@ -658,4 +658,8 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Secure Your APIs with Cognito Authorizers for AWS API Gateway](https://medium.com/@shivkaundal/secure-your-apis-with-cognito-authorizers-for-aws-api-gateway-ba15914b64b2)
 
+ [Why are lambda cloudwatch logs.. so dumb?](https://bit.kevinslin.com/p/how-real-time-is-amazon-cloudwatch). [How Real-Time is Amazon Cloudwatch Logs Live Tail?](https://bit.kevinslin.com/p/how-real-time-is-amazon-cloudwatch).
+
+[ How important is AWS CLI for an AWS admin ?](https://www.reddit.com/r/aws/comments/1b31xzx/how_important_is_aws_cli_for_an_aws_admin/)
+
 

@@ -461,4 +461,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Good luck storing Spring Cloud Config configurations in GitHub when GitHub goes down. ](https://x.com/maciejwalkowiak/status/1818297607841534358)
 
+[logging HTTP requests with Spring Boot](https://x.com/therealdanvega/status/1829249974783352940)
+
 

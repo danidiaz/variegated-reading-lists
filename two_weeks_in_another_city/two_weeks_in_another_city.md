@@ -827,6 +827,8 @@ Bernini, his life and his Rome
 
 [romances](https://x.com/Discourse_Stu/status/1823823082869678253). [video](https://www.youtube.com/watch?v=aKDTNzgG_MI).
 
+[against worldbuilding](https://x.com/TheLincoln/status/1828525753417269278)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

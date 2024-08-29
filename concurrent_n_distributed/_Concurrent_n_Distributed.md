@@ -797,7 +797,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [thinking above the code](https://x.com/DominikTornow/status/1824536730860655090)
 
-
+[Leader Election With S3 Conditional Writes](https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/)
 
 
 

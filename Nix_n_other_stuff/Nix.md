@@ -1233,6 +1233,6 @@ What! This does work! How to go in the opposite direction?
 
 [congruent configuration](https://github.com/cachix/devenv/issues/1362)
 
-
+[An unordered list of hidden gems inside NixOS](https://kokada.dev/blog/an-unordered-list-of-hidden-gems-inside-nixos/)
 
 

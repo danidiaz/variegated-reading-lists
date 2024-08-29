@@ -469,4 +469,13 @@
 
 [great URL design](https://news.ycombinator.com/item?id=41243992)
 
+[CORS is Stupid](https://lobste.rs/s/98rp8f/cors_is_stupid)
+
+[table sorting in HTMX](https://x.com/htmx_org/status/1827708511188640179)
+
+[The Life & Death of htmx](https://www.youtube.com/watch?v=inRB6ull5WQ)
+
+[the cost of JS-heavy frameworks](https://x.com/htmx_org/status/1825571929882816837)
+
+
 

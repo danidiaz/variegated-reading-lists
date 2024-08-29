@@ -371,6 +371,8 @@ or computations blocked by unknowns.
 
 [graded modal types in Granule](https://granule-project.github.io/granule.html)
 
+[Well-Typed Substructural Languages](https://zanzix.github.io/posts/4-substructural.html)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

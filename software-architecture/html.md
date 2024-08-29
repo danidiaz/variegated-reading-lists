@@ -119,4 +119,6 @@
 
 [HTML5 Differences from HTML4 (2014)](https://news.ycombinator.com/item?id=40887480)
 
+[the UX of HTML](https://news.ycombinator.com/item?id=41310921)
+
 

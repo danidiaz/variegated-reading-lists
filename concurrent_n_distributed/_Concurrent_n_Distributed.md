@@ -799,9 +799,9 @@ https://news.ycombinator.com/item?id=25061901
 
 [Leader Election With S3 Conditional Writes](https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/)
 
+[prefix consistency](https://x.com/vanlightly/status/1826954250083033525)
 
-
-
+[ implemented SERIALIZABLE transactions with optimistic concurrency control](https://x.com/eatonphil/status/1826359437243941320)
 
 
 

@@ -22,4 +22,8 @@
 
 [Please Make Your Table Headings Sticky](https://lobste.rs/s/dghv8d/please_make_your_table_headings_sticky)
 
+[toasts are bad UX](https://news.ycombinator.com/item?id=41298794)
+
+[constant downgrades](https://x.com/GrantSlatton/status/1825621998367813709)
+
 

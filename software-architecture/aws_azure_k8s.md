@@ -662,4 +662,16 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [ How important is AWS CLI for an AWS admin ?](https://www.reddit.com/r/aws/comments/1b31xzx/how_important_is_aws_cli_for_an_aws_admin/)
 
+[set up the AWS cli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-quickstart.html)
+
+[An AWS IAM Security Tooling Reference [2024]](https://ramimac.me/aws-iam-tools-2024)
+
+[Understand the AWS SSO login configuration](https://dev.to/slsbytheodo/understand-the-aws-sso-login-configuration-4am7)
+
+[Continuous reinvention: A brief history of block storage at AWS](https://news.ycombinator.com/item?id=41321063)
+
+[DynamoDB: Best Practices for Developers (2024)](https://medium.com/@pooyan_razian/dynamodb-best-practices-for-developers-2024-a31d76235537)
+
+
+
 

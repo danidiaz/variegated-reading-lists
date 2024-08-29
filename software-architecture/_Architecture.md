@@ -1569,4 +1569,19 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Modular Monolith: A Primer](https://www.kamilgrzybek.com/blog/posts/modular-monolith-primer)
 
+[Wrap your dependencies (or not)](https://lobste.rs/s/9nnrjw/wrap_your_dependencies)
+
+[There can’t be only one (highlander problem)](https://www.b-list.org/weblog/2024/aug/27/highlander-problem/)
+
+[The failed promise of Domain-Driven Design - part 1](https://x.com/sivalabs/status/1828020900933124397)
+
+[Removing stuff is never obvious yet often better ](https://news.ycombinator.com/item?id=41353328)
+
+[is the 12-factor app obsolete?](https://x.com/mipsytipsy/status/1827080981632971060). [article](https://www.lekko.com/blogs/twelve-factor-app-config-is-obsolete).
+
+[coupling or no coupling](https://explaining.software/archive/coupling-as-co-explanation/)
+
+[Don't Repeat Yourself and the Strong Law of Small Numbers](https://lobste.rs/s/yw7jgq/don_t_repeat_yourself_strong_law_small)
+
+
 

@@ -668,4 +668,6 @@ VSCode simple config for recordings:
 
 [Raycast quick links](https://x.com/therealdanvega/status/1820805452193554720)
 
+[ svgl raycast extension](https://x.com/t3dotgg/status/1826503098011189268)
+
 

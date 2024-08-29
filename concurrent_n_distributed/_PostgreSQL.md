@@ -433,4 +433,8 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [ORMs in Production PostgreSQL: Friend or Foe?](https://www.timescale.com/blog/orms-in-production-postgresql-friend-or-foe/)
 
+[postgres vs. S3](https://x.com/reneeshah123/status/1825956989106794832)
+
+[ PgQueuer – Transform PostgreSQL into a Job Queue](https://news.ycombinator.com/item?id=41284703)
+
 

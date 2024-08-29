@@ -152,4 +152,8 @@
 
 [The New Internet](https://tailscale.com/blog/new-internet)
 
+[   How I learned to stop worrying and love userspace networking ](https://news.ycombinator.com/item?id=41390412)
+
+[Optimizing global message transit latency: a journey through TCP configuration](https://news.ycombinator.com/item?id=41291470)
+
 

@@ -312,5 +312,7 @@
 
 [How I Use "AI"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html). [tweet](https://x.com/peteskomoroch/status/1820274161329332359).
 
+[real requirements](https://x.com/isthelaststop/status/1826010619524559330)
+
 
 

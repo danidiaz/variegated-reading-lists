@@ -1087,4 +1087,11 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Issues with RSCs](https://x.com/AdamRackis/status/1824977845363355750)
 
+[side effects in events](https://x.com/rickhanlonii/status/1826453498256302143)
+
+[https://x.com/housecor/status/1825519506338308300](https://x.com/housecor/status/1825519506338308300)
+
+> 1. No event.preventDefault needed.
+
+
 

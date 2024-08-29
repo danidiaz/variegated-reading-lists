@@ -15,4 +15,6 @@
 
 [Composite Primary Keys : Good or Bad?](https://stackoverflow.com/questions/26078535/composite-primary-keys-good-or-bad). [Are composite primary keys bad practice?](https://dba.stackexchange.com/questions/188995/are-composite-primary-keys-bad-practice)
 
+[tricky](https://x.com/lukaseder/status/1826555342844494255)
+
 

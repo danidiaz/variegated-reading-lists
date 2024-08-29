@@ -476,4 +476,37 @@ Things for which I found ChatGPT useful:
 
 [Language Models as Models of Language](https://arxiv.org/abs/2408.07144). [tweet](https://x.com/raphaelmilliere/status/1824116401893773700).
 
+[good an unminifying](https://news.ycombinator.com/item?id=41389185)
+
+[inherently unreliable ](https://x.com/simonw/status/1828074949330030893)
+
+[joker or not](https://x.com/housecor/status/1827787642081329420). [cursor](https://x.com/chrisalbon/status/1827890375903809661). [more](https://x.com/Afinetheorem/status/1827406013739495724). [k](https://x.com/karpathy/status/1827192004117458973). [more](https://x.com/burkov/status/1827027880490016959). [more](https://x.com/fchollet/status/1826743094194438420). [more](https://x.com/ShengwuLi/status/1826392080517922962). [shared understanding](https://x.com/mipsytipsy/status/1826298635514208409). [tired of fixing](https://news.ycombinator.com/item?id=41315138).
+
+[fast edit mode](https://x.com/simonw/status/1826022466319430098)
+
+[Prompt Caching (beta)](https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching). [hn](https://news.ycombinator.com/item?id=41284639).
+
+> Prompt Caching is a powerful feature that optimizes your API usage by allowing resuming from specific prefixes in your prompts. This approach significantly reduces processing time and costs for repetitive tasks or prompts with consistent elements.
+
+[debugging machine learning workflows](https://x.com/vboykis/status/1826045614452519261)
+
+[base models](https://x.com/thesephist/status/1825404436828635494)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

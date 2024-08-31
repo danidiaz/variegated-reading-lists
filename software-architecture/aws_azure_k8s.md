@@ -686,5 +686,7 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Specifying state output using ResultPath in Step Functions workflows](https://docs.aws.amazon.com/step-functions/latest/dg/input-output-resultpath.html)
 
+[What is serverless development?](https://docs.aws.amazon.com/serverless/latest/devguide/welcome.html)
+
 
 

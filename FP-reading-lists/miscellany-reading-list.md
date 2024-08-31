@@ -956,7 +956,10 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [CSV parsing](https://x.com/fredine/status/1817261497200021846)
 
+[parsers are relative bimonads (?)](https://dev.to/artemisyo/parsers-are-relative-bimonads-20cd)
 
+> This process of using functors to 'preprocess' our inputs is what relative monads are.
 
+> I called the construct "relative bimonads", while in the literature bimonads are actually a different thing to what I describe. 
 
 

@@ -1089,9 +1089,11 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [side effects in events](https://x.com/rickhanlonii/status/1826453498256302143)
 
-[https://x.com/housecor/status/1825519506338308300](https://x.com/housecor/status/1825519506338308300)
+[useActionState ](https://x.com/housecor/status/1825519506338308300)
 
 > 1. No event.preventDefault needed.
+
+[TanStack Start + RSCs](https://x.com/tannerlinsley/status/1829273889698197842)
 
 
 

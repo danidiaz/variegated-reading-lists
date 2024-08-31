@@ -26,7 +26,7 @@ On HN: https://news.ycombinator.com/item?id=18163470 https://news.ycombinator.co
 
 [flake and system drama](https://twitter.com/ProgrammerDude/status/1767443302092075133)
 
-
+[the future of TLA+](https://news.ycombinator.com/item?id=41382828)
 
 
 

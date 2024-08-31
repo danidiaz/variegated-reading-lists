@@ -492,7 +492,13 @@ Things for which I found ChatGPT useful:
 
 [base models](https://x.com/thesephist/status/1825404436828635494)
 
+[ Anthropic interactive prompting tutorial ](https://x.com/simonw/status/1829352666142757365). [hn](https://news.ycombinator.com/item?id=41395921). [more](https://fedi.simonwillison.net/@simon/113049088115251541)
 
+[Based on this documentation...](https://fedi.simonwillison.net/@simon/113049462303201018)
+
+[Llama adoption](https://news.ycombinator.com/item?id=41391267)
+
+[also for the questions](https://x.com/freganmitts/status/1828796730634330593)
 
 
 

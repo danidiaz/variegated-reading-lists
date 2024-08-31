@@ -156,4 +156,6 @@
 
 [Optimizing global message transit latency: a journey through TCP configuration](https://news.ycombinator.com/item?id=41291470)
 
+[the journey of an internet packet](https://news.ycombinator.com/item?id=41327394)
+
 

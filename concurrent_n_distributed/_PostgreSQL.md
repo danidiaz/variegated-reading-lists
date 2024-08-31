@@ -437,4 +437,5 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [ PgQueuer – Transform PostgreSQL into a Job Queue](https://news.ycombinator.com/item?id=41284703)
 
+[moddeling tagging tables](https://www.reddit.com/r/PostgreSQL/comments/1f3xeyu/how_to_model_a_tagging_table/)
 

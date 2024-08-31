@@ -842,4 +842,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [secure your SSH connection](https://noratrieb.dev/blog/posts/ssh-security/)
 
+[Firewall rules: not as secure as you think](https://news.ycombinator.com/item?id=41396206)
+
+
 

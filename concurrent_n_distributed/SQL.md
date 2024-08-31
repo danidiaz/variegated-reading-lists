@@ -17,4 +17,6 @@
 
 [tricky](https://x.com/lukaseder/status/1826555342844494255)
 
+[Bypassing airport security via SQL injection ](https://news.ycombinator.com/item?id=41392128)
+
 

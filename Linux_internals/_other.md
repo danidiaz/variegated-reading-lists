@@ -24,4 +24,6 @@
 
 [strlcpy and how CPUs can defy common sense](https://lobste.rs/s/bjx13v/strlcpy_how_cpus_can_defy_common_sense).
 
+[DDR4 memory organization and how it affects memory bandwidth](https://blog.cloudflare.com/ddr4-memory-organization-and-how-it-affects-memory-bandwidth/)
+
 

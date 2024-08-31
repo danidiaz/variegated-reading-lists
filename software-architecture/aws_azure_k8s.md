@@ -672,6 +672,19 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [DynamoDB: Best Practices for Developers (2024)](https://medium.com/@pooyan_razian/dynamodb-best-practices-for-developers-2024-a31d76235537)
 
+[AWS SQS Deep Dive](https://medium.com/metalab-tech/aws-sqs-deep-dive-dfed03c8b640)
+
+[Is there a way to delay a lambda S3 uploaded trigger?](https://www.reddit.com/r/aws/comments/1f4sdh0/is_there_a_way_to_delay_a_lambda_s3_uploaded/)
+
+[Viewing workflow execution details in Step Functions](https://docs.aws.amazon.com/step-functions/latest/dg/diff-standard-express-exec-details-ui.html)
+
+> The history of Standard workflow executions are recorded in Step Functions, while the history of Express workflow executions aren't recorded in Step Functions. To record the history of an Express workflow execution, you must configure it to send logs to Amazon CloudWatch. 
+
+[Using CloudWatch Logs to log execution history in Step Functions](https://docs.aws.amazon.com/step-functions/latest/dg/cw-logs.html)
+
+> Standard Workflows record execution history in AWS Step Functions, although you can optionally configure logging to Amazon CloudWatch Logs.
+
+[Specifying state output using ResultPath in Step Functions workflows](https://docs.aws.amazon.com/step-functions/latest/dg/input-output-resultpath.html)
 
 
 

@@ -123,4 +123,6 @@
 
 [Hypermedia Controls: Feral to Formal](https://dl.acm.org/doi/10.1145/3648188.3675127)
 
+[insertAdjacentHTML](https://x.com/WebReflection/status/1829556513469321564)
+
 

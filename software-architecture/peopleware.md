@@ -314,5 +314,7 @@
 
 [real requirements](https://x.com/isthelaststop/status/1826010619524559330)
 
+[stakeholder management](https://x.com/0xCharlota/status/1829134764969746567)
+
 
 

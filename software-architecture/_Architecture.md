@@ -1573,7 +1573,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [There can’t be only one (highlander problem)](https://www.b-list.org/weblog/2024/aug/27/highlander-problem/)
 
-[The failed promise of Domain-Driven Design - part 1](https://x.com/sivalabs/status/1828020900933124397)
+[The failed promise of Domain-Driven Design - part 1](https://x.com/sivalabs/status/1828020900933124397). [part 3](https://no-kill-switch.ghost.io/the-failed-promise-of-domain-driven-design-part-3/)
 
 [Removing stuff is never obvious yet often better ](https://news.ycombinator.com/item?id=41353328)
 

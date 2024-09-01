@@ -844,5 +844,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Firewall rules: not as secure as you think](https://news.ycombinator.com/item?id=41396206)
 
+[PQC for non-cryptographers](https://keymaterial.net/2024/08/30/pqc-for-non-cryptographers/)
 
 

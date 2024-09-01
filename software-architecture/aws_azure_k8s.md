@@ -688,5 +688,11 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [What is serverless development?](https://docs.aws.amazon.com/serverless/latest/devguide/welcome.html)
 
+[What is AWS Billing and Cost Management?](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html)
+
+[Tracking your AWS Free Tier usage](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/tracking-free-tier-usage.html). [Avoiding unexpected charges after Free Tier](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/avoid-charges-after-free-tier.html)
+
+> Billing and Cost Management > Billing Preferences > Alert preferences > AWS Free Tier alerts
+
 
 

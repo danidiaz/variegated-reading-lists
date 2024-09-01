@@ -477,5 +477,9 @@
 
 [the cost of JS-heavy frameworks](https://x.com/htmx_org/status/1825571929882816837)
 
+[spas with TanStack](https://x.com/AdamRackis/status/1830069281146495267)
+
+[ "fetch on render" vs "render as you fetch"](https://x.com/t3dotgg/status/1829988532489793957)
+
 
 

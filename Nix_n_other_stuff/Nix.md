@@ -1245,4 +1245,6 @@ What! This does work! How to go in the opposite direction?
 
 > NixOS can only manage system-level configuration. To manage user-level configuration in the Home directory, we need to install Home Manager
 
+> There are many software packages or configurations that can be set up using either NixOS Modules (configuration.nix) or Home Manager (home.nix), which brings about a choice dilemma: What is the difference between placing software packages or configuration files in NixOS Modules versus Home Manager, and how should one make a decision?
+
 

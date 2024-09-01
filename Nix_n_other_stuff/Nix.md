@@ -1241,7 +1241,7 @@ What! This does work! How to go in the opposite direction?
 
 [My NixOS Dotfiles Explained](https://haseebmajid.dev/posts/2023-09-12-how-i-configure-nixos-as-part-of-my-development-workflow/)
 
-[NixOS as home-manager](https://nixos-and-flakes.thiscute.world/nixos-with-flakes/start-using-home-manager)
+[NixOS with Home Manager](https://nixos-and-flakes.thiscute.world/nixos-with-flakes/start-using-home-manager). [Home Manager Manual](https://nix-community.github.io/home-manager/index.xhtml)
 
 > NixOS can only manage system-level configuration. To manage user-level configuration in the Home directory, we need to install Home Manager
 

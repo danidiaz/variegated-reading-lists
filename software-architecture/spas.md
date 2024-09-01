@@ -481,5 +481,7 @@
 
 [ "fetch on render" vs "render as you fetch"](https://x.com/t3dotgg/status/1829988532489793957)
 
+[web components and encapsulation](https://x.com/justinfagnani/status/1829949589153345564)
+
 
 

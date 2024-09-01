@@ -1235,4 +1235,11 @@ What! This does work! How to go in the opposite direction?
 
 [An unordered list of hidden gems inside NixOS](https://kokada.dev/blog/an-unordered-list-of-hidden-gems-inside-nixos/)
 
+[NixOS & Flakes Book. An unofficial book for beginners](https://nixos-and-flakes.thiscute.world/introduction/)
+
+[NixOS-wsl](https://nix-community.github.io/NixOS-WSL/install.html). [repo](https://github.com/nix-community/NixOS-WSL). [How to configure NixOS-WSL with flakes](https://nix-community.github.io/NixOS-WSL/how-to/nix-flakes.html).
+
+[My NixOS Dotfiles Explained](https://haseebmajid.dev/posts/2023-09-12-how-i-configure-nixos-as-part-of-my-development-workflow/)
+
+
 

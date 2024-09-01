@@ -1583,5 +1583,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Don't Repeat Yourself and the Strong Law of Small Numbers](https://lobste.rs/s/yw7jgq/don_t_repeat_yourself_strong_law_small)
 
+[OpenTelemetry in 180 seconds](https://www.youtube.com/watch?v=vnE_DfNB97w)
+
 
 

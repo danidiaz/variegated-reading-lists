@@ -12,4 +12,6 @@
 
 [ldd(1) and untrusted binaries](https://jmmv.dev/2023/07/ldd-untrusted-binaries.html)
 
+[opaque binary with no symbols](https://hachyderm.io/@whitequark@mastodon.social/113061553634970962)
+
 

@@ -1243,6 +1243,8 @@ What! This does work! How to go in the opposite direction?
 
 [NixOS with Home Manager](https://nixos-and-flakes.thiscute.world/nixos-with-flakes/start-using-home-manager). [Home Manager Manual](https://nix-community.github.io/home-manager/index.xhtml)
 
+> NixOS primarily focuses on managing the static portion of the system state in a declarative manner. Dynamic data, along with the contents in the user's home directory, remain unaffected by NixOS when rolling back to a previous generation.
+
 > NixOS can only manage system-level configuration. To manage user-level configuration in the Home directory, we need to install Home Manager
 
 > There are many software packages or configurations that can be set up using either NixOS Modules (configuration.nix) or Home Manager (home.nix), which brings about a choice dilemma: What is the difference between placing software packages or configuration files in NixOS Modules versus Home Manager, and how should one make a decision?

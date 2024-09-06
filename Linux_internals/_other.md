@@ -26,4 +26,6 @@
 
 [DDR4 memory organization and how it affects memory bandwidth](https://blog.cloudflare.com/ddr4-memory-organization-and-how-it-affects-memory-bandwidth/)
 
+[Is IaC the right model for databases?](https://x.com/jer_s/status/1831941459211391347)
+
 

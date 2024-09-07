@@ -316,5 +316,7 @@
 
 [stakeholder management](https://x.com/0xCharlota/status/1829134764969746567)
 
+[code quirks](https://x.com/sclv/status/1832249322861170962)
+
 
 

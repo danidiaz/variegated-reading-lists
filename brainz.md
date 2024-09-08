@@ -508,7 +508,7 @@ Things for which I found ChatGPT useful:
 
 [Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://news.ycombinator.com/item?id=41412256)
 
-
+[How to Read Deep Learning Paper as a Software Engineer](https://news.ycombinator.com/item?id=41457206)
 
 
 

@@ -445,4 +445,6 @@ Essential reading! Covers:
 
 [ghciwatch](https://www.reddit.com/r/haskell/comments/1eaca5d/announcing_ghciwatch_10_a_ghcid_successor/)
 
+[combinator compiler](https://www.youtube.com/watch?v=uMurx1a6Zck)
+
 

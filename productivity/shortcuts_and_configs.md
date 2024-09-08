@@ -672,4 +672,6 @@ VSCode simple config for recordings:
 
 [Using jq to parse and display multiple fields in a json serially](https://stackoverflow.com/questions/28164849/using-jq-to-parse-and-display-multiple-fields-in-a-json-serially)
 
+[git merges and you](https://hackmd.io/@jMIQR1RjR1Sc6kLS4FhQ0w/SJNYSYssi)
+
 

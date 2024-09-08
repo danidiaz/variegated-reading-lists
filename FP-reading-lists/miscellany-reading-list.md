@@ -956,3 +956,12 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [CSV parsing](https://x.com/fredine/status/1817261497200021846)
 
+[e-graphs for program optimization](https://youtu.be/SivQplf4OkE?t=1392)
+
+> every AST can be lifted to a certain very simple e-graph
+
+[LSP: The good, the bad, and the ugly](https://news.ycombinator.com/item?id=41440275)
+
+[Dynamic scoping is an effect, implicit parameters are a coeffect](http://blog.ezyang.com/2020/08/dynamic-scoping-is-an-effect-implicit-parameters-are-a-coeffect/)
+
+

@@ -798,7 +798,7 @@ These are the "leaves" of any build closure, in that, they do not refer to other
 
 [devenv 0.6](https://lobste.rs/s/a1jo3a/devenv_0_6_generating_containers_instant)
 
-[NixOS in production](https://lobste.rs/s/bbbjfz/nixos_production)
+[NixOS in production](https://lobste.rs/s/bbbjfz/nixos_production). [update (Terraform, Integration Testing, CI/CD](https://x.com/GabriellaG439/status/1832494289982820731).
 
 [Quick VMs with NixOS](https://galowicz.de/2023/03/13/quick-vms-with-nixos/)
 
@@ -1248,5 +1248,8 @@ What! This does work! How to go in the opposite direction?
 > NixOS can only manage system-level configuration. To manage user-level configuration in the Home directory, we need to install Home Manager
 
 > There are many software packages or configurations that can be set up using either NixOS Modules (configuration.nix) or Home Manager (home.nix), which brings about a choice dilemma: What is the difference between placing software packages or configuration files in NixOS Modules versus Home Manager, and how should one make a decision?
+
+[Docker on NixOS](https://nixos.wiki/wiki/Docker)
+
 
 

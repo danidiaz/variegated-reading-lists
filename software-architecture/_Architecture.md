@@ -1585,5 +1585,11 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [OpenTelemetry in 180 seconds](https://www.youtube.com/watch?v=vnE_DfNB97w)
 
+[The Elements of APIs](https://johnholdun.com/apis/). [hn](https://news.ycombinator.com/item?id=41432101). [returning bare arrays](https://medium.com/epignosis-engineering/rest-api-development-tips-and-best-practices-part-2-d3ae4a13cbb7). [more](https://softwareengineering.stackexchange.com/questions/286293/whats-the-best-way-to-return-an-array-as-a-response-in-a-restful-api).
+
+[Event-Driven Core, Request-Response Shell](https://www.reactivesystems.eu/2024/08/31/event-driven-core-request-response-shell.html). [twitter](https://x.com/gunnarmorling/status/1830328460675543323).
+
+
+
 
 

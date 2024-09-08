@@ -1095,5 +1095,7 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [TanStack Start + RSCs](https://x.com/tannerlinsley/status/1829273889698197842)
 
+[table virtualization for very large datasets](https://www.reddit.com/r/reactjs/comments/1fb9poc/need_help_with_table_virtualization_for_large/)
+
 
 

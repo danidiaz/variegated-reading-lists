@@ -318,5 +318,7 @@
 
 [code quirks](https://x.com/sclv/status/1832249322861170962)
 
+[being up-to-date](https://x.com/rakyll/status/1831429417245237457)
+
 
 

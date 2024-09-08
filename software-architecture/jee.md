@@ -465,4 +465,10 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [ RestTemplate, WebClient, & FeignClient](https://dev.to/nullvoidkage/webclient-vs-resttemplate-vs-feignclient-a-comparative-guide-4028)
 
+[JEP 429: Scoped Values (Incubator)]()
+
+> Introduce scoped values, which enable the sharing of immutable data within and across threads. They are preferred to thread-local variables, especially when using large numbers of virtual threads. 
+
+> Make the lifetime of shared data visible from the syntactic structure of code.
+
 

@@ -500,9 +500,13 @@ Things for which I found ChatGPT useful:
 
 [also for the questions](https://x.com/freganmitts/status/1828796730634330593)
 
+[RHLF](https://x.com/yugu_nlp/status/1832138441657872436)
 
+["a signal of seriousness"](https://x.com/fchollet/status/1831029432653599226)
 
+[I already have approval from my ethics board](https://x.com/simonw/status/1830272530646708224)
 
+[Building LLMs from the Ground Up: A 3-Hour Coding Workshop](https://news.ycombinator.com/item?id=41412256)
 
 
 

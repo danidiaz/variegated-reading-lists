@@ -694,5 +694,41 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 > Billing and Cost Management > Billing Preferences > Alert preferences > AWS Free Tier alerts
 
+[Pre-Signed URLs can be a good choice to Overcome API Gateway Pay Load Limit?](https://www.reddit.com/r/aws/comments/1fb6kwm/presigned_urls_can_be_a_good_choice_to_overcome)
+
+> The URL is self-contained authn/authz. Anyone who has it can use it.
+
+[Building a Multi-Account, Multi-VPC Architecture for Client Onboarding – Feedback Welcome!](https://www.reddit.com/r/aws/comments/1fagkbt/building_a_multiaccount_multivpc_architecture_for/)
+
+[Separate stack for Frontend and Backend?](https://www.reddit.com/r/aws/comments/1f8o40c/separate_stack_for_frontend_and_backend/). [How are CloudFormation nested stacks these days?](https://www.reddit.com/r/aws/comments/15gzwjr/how_are_cloudformation_nested_stacks_these_days/)
+
+> This is what nested stacks are for. One stack for frontend, one for backend, and one to nest both of those. 
+
+> I quite like working with a separate stateful stack and a stateless one
+
+> Atomic deployments. A deployment of the root stack means all apps are being brought up to the most recent version. And we get a single button to do production deploys, whether it's updating one app or ten.
+
+> The CloudFormation services has improved over time, and even with the introduction of CDK (or perhaps because of, since that's CFN behind the scenes)
+
+[For this example architecture, is the EventBridge here redundant? Can't the CloudWatch alarm trigger the Lambda function by itself?](https://www.reddit.com/r/aws/s/RubRoKs0mK)
+
+> It's the same reason many people will almost always put SNS in front of SQS.  We can always fan out later w/o touching the existing arch or code.
+
+[Three time-saving AWS command-line tricks](https://claudiajs.com/tutorials/aws-cli-tricks.html)
+
+[Managing duplicate objects in Amazon S3](https://aws.amazon.com/es/blogs/storage/managing-duplicate-objects-in-amazon-s3/). [How to check if file already uploaded to AWS S3?](https://stackoverflow.com/questions/67703889/how-to-check-if-file-already-uploaded-to-aws-s3)
+
+[remote-exec provisioner](https://developer.hashicorp.com/terraform/language/resources/provisioners/remote-exec)
+
+> Use provisioners as a last resort. There are better alternatives for most situations.
+
+[S3 public buckets](https://www.reddit.com/r/aws/comments/99ird9/is_it_safe_to_have_an_s3_bucket_with_private/)
+
+[Should data stored in S3 be indexed in a SQL database so it can be easily found later?](https://www.reddit.com/r/dataengineering/comments/ush2fu/should_data_stored_in_s3_be_indexed_in_a_sql/)
+
+[AWS S3 and Single Page Applications](https://zirkelc.dev/posts/aws-hosting-s3-single-page-applications)
+
+[presigned S3 urls and large files](https://www.reddit.com/r/aws/comments/1f68zlx/comment/lkyvizt/)
+
 
 

@@ -245,4 +245,6 @@ They're all capable of expressing one another in their own terms though, so they
 
 [Yampa 14](https://www.reddit.com/r/haskell/comments/1ep49uq/ann_yampa_01410/)
 
+[Functional Reactive Programming, Rearranged](https://dl.acm.org/doi/10.1145/3677999.3678278). [video](https://www.youtube.com/watch?v=uMurx1a6Zck).
+
 

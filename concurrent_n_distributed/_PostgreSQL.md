@@ -439,3 +439,10 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [moddeling tagging tables](https://www.reddit.com/r/PostgreSQL/comments/1f3xeyu/how_to_model_a_tagging_table/)
 
+[editing queries in psql](https://x.com/craigkerstiens/status/1832436091070324758)
+
+[json_build_object](https://stackoverflow.com/questions/72240953/interpolating-variables-in-json-string)
+
+[Postgres webhooks with pgstream](https://xata.io/blog/postgres-webhooks-with-pgstream)
+
+

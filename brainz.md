@@ -510,9 +510,7 @@ Things for which I found ChatGPT useful:
 
 [How to Read Deep Learning Paper as a Software Engineer](https://news.ycombinator.com/item?id=41457206)
 
-
-
-
+["I just throw my notes into chat"](https://x.com/tylerangert/status/1833168728327950481). [grug?](https://x.com/_deepfates/status/1832958028418855306)
 
 
 

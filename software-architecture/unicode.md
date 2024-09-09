@@ -280,3 +280,9 @@ The rules for grapheme clusters can be easily converted into a regular expressio
 https://hackage.haskell.org/package/text
 
 Currently the text library uses UTF-16 as its internal representation which is neither a fixed-width nor always the most dense representation for Unicode text. We're currently investigating the feasibility of changing Text's internal representation to UTF-8 and if you need such a Text type right now you might be interested in using the spin-off packages text-utf8 and text-short.
+
+[Cases, Code Points and Collations](https://www.youtube.com/watch?v=j64acCeati4). [The Mötley Crüe Guide to Unicode Normalization](https://www.youtube.com/watch?v=yoyhwPCq5Fg). [Code Pages and Kohuepts: The Chaos of 8 Bit Extended ASCII](https://www.youtube.com/watch?v=uTA3DOL8AfE). [From NUL to DEL: Why 7 Bit ASCII IS Actually Really Clever](https://www.youtube.com/watch?v=9rJO3vptblU).
+
+
+
+

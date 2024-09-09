@@ -846,4 +846,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [PQC for non-cryptographers](https://keymaterial.net/2024/08/30/pqc-for-non-cryptographers/)
 
+[secrets in node](https://x.com/threepointone/status/1833120161676574846)
+
 

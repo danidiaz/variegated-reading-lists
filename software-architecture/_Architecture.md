@@ -1589,7 +1589,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Event-Driven Core, Request-Response Shell](https://www.reactivesystems.eu/2024/08/31/event-driven-core-request-response-shell.html). [twitter](https://x.com/gunnarmorling/status/1830328460675543323).
 
+[Disentangling Transactions in Legacy Systems](https://www.youtube.com/watch?v=lwcnCW4AFkc). [Modern Trade-off Analysis for Software Architecture ](https://www.youtube.com/watch?v=uQ_sSC9gAsU)
 
+[the challenges of large codebases](https://x.com/gunnarmorling/status/1833136528228315335)
 
 
 

@@ -964,4 +964,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Dynamic scoping is an effect, implicit parameters are a coeffect](http://blog.ezyang.com/2020/08/dynamic-scoping-is-an-effect-implicit-parameters-are-a-coeffect/)
 
+[Data-Oriented Design Revisited: Type Safety in the Zig Compiler ](https://lobste.rs/s/8bhptf/data_oriented_design_revisited_type)
+
 

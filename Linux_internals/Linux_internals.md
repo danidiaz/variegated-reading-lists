@@ -233,4 +233,6 @@
 
 [Linux crisis tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 
+["Unstripping" binaries: Restoring debugging information in GDB](https://news.ycombinator.com/item?id=41481682)
+
 

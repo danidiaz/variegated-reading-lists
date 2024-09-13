@@ -848,4 +848,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [secrets in node](https://x.com/threepointone/status/1833120161676574846)
 
+[the "email is authentication" pattern](https://lobste.rs/s/uooaw4/email_is_authentication_pattern)
+
 

@@ -533,6 +533,10 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [Co-Egraphs: Streams, Unification, PEGs, Rational Lambdas](https://www.philipzucker.com/coegraph/)
 
+[Reflecting away from definitions in Liquid Haskell](https://www.tweag.io/blog/2024-09-12-lh-reflection/)
+
+[Using Isabelle (a non-dependently typed proof assistant) to verify Haskell code](https://www.reddit.com/r/haskell/comments/1fftqt6/using_isabelle_a_nondependently_typed_proof/).
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

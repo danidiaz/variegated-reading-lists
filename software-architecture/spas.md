@@ -483,5 +483,7 @@
 
 [web components and encapsulation](https://x.com/justinfagnani/status/1829949589153345564)
 
+[htmx drama](https://x.com/code_department/status/1833477948676182408)
+
 
 

@@ -966,4 +966,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Data-Oriented Design Revisited: Type Safety in the Zig Compiler ](https://lobste.rs/s/8bhptf/data_oriented_design_revisited_type)
 
+[Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
+
 

@@ -678,6 +678,10 @@ VSCode simple config for recordings:
 
 [Git hygiene](https://x.com/axboe/status/1834295657923825927). [repo](https://github.com/axboe/liburing/blob/master/CONTRIBUTING.md).
 
+> . If you find yourself, in the commit message, adding phrases like "Also do [...]" or "While in here [...]", then that's a sign that the change should have been split into multiple commits.
+
+>  If your change includes some refactoring of code to make your change possible, then that refactoring should be a separate commit, done first. That means this preparatory commit won't have any functional changes, and hence should be a no-op. It also means that your main commit, with the change that you actually care about, will be smaller and easier to review.
+
 [Ultorg](https://www.ultorg.com/)
 
 [cat script.R | llm "what does this code do?"](https://x.com/MarcJBrooker/status/1831731866527039615)

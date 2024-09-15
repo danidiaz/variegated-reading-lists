@@ -489,5 +489,9 @@
 
 [Who uses Accept-Language header?](https://news.ycombinator.com/item?id=41497139)
 
+[htmx - Having trouble with how to structure the backend](https://www.reddit.com/r/htmx/comments/1fdrqnt/having_trouble_with_how_to_structure_the_backend/)
+
+> The problem is when the user wants to navigate directly to a specific page. For example, if the user types "site.com/page/projects" into their browser, I then have to use a templating engine to pre-render the entire page and send it as one big chunk of HTML. In my current implementation, this leads to really messy code on the backend really fast, as I have to have two separate routes: one for the full webpage, and one for the snippet for HTMX to swap out. This also leads to some gross code duplication that I'd just rather not deal with.
+
 
 

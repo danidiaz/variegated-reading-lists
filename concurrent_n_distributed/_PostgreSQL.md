@@ -447,4 +447,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [parquet/CSV materialized view](https://x.com/marcoslot/status/1831359323186016338)
 
+[managing denormalization](https://www.reddit.com/r/PostgreSQL/comments/1fhgj6d/managing_postgresql_denormalization/)
+
 

@@ -125,4 +125,6 @@
 
 [insertAdjacentHTML](https://x.com/WebReflection/status/1829556513469321564)
 
+[web components. yay or nay?](https://x.com/JLarky/status/1830283524760621456)
+
 

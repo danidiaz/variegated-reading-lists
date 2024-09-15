@@ -158,4 +158,5 @@
 
 [the journey of an internet packet](https://news.ycombinator.com/item?id=41327394)
 
+[Noisy neighbor detection with eBPF](https://news.ycombinator.com/item?id=41513860)
 

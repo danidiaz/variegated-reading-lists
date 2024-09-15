@@ -485,5 +485,9 @@
 
 [htmx drama](https://x.com/code_department/status/1833477948676182408)
 
+[Hypermedia Controls: From Feral to Formal](https://dl.acm.org/doi/pdf/10.1145/3648188.3675127)
+
+[Who uses Accept-Language header?](https://news.ycombinator.com/item?id=41497139)
+
 
 

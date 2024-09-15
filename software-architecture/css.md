@@ -721,4 +721,6 @@ https://twitter.com/tailwindcss
 
 > Because of how important media queries were for ushering in the era of responsive web design I don’t want to say anything mean about them… but media queries are dumb. Not dumb in terms of the concept, but dumb in that they don’t know very much. In fact, most people assume that they know more than they do.
 
+[CSS @property and the New Style](https://news.ycombinator.com/item?id=41448740)
+
 

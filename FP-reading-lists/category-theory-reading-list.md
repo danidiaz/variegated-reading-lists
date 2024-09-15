@@ -1084,4 +1084,6 @@ deals with its own properties.
 
 [Monads, Comonads, and Transducers](https://arxiv.org/abs/2407.02704)
 
+[Foundations of Bidirectional Programming III: The Logic of Lenses](https://cybercat.institute/2024/09/12/bidirectional-programming-iii/)
+
 

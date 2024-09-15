@@ -1097,5 +1097,9 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [table virtualization for very large datasets](https://www.reddit.com/r/reactjs/comments/1fb9poc/need_help_with_table_virtualization_for_large/)
 
+[react 19 cheat sheet](https://www.epicreact.dev/react-19-cheatsheet)
+
+[Modern Practices for handling A LOT of UI conditional logic](https://www.reddit.com/r/reactjs/s/8mRloFc0dy)
+
 
 

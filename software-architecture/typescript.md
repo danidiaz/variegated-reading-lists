@@ -220,5 +220,7 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Effect example](https://x.com/MichaelArnaldi/status/1825612990013649300)
 
+[Claude n' Typescript](https://x.com/BHolmesDev/status/1834391842747490723)
+
 
 

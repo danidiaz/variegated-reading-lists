@@ -471,4 +471,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 > Make the lifetime of shared data visible from the syntactic structure of code.
 
+[Building server-side web applications with htmx and Spring](https://vimeo.com/1006536145)
+
 

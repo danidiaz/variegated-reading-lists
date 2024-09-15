@@ -850,4 +850,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [the "email is authentication" pattern](https://lobste.rs/s/uooaw4/email_is_authentication_pattern)
 
+[oauth from first principles](https://news.ycombinator.com/item?id=41420783)
+
 

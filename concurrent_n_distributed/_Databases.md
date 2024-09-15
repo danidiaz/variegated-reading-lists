@@ -972,6 +972,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [CDC and outages](https://x.com/craigkerstiens/status/1824114371737616794)
 
+[time series indexing at scale](https://news.ycombinator.com/item?id=41415634)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

@@ -320,5 +320,11 @@
 
 [being up-to-date](https://x.com/rakyll/status/1831429417245237457)
 
+[hot/cold](https://x.com/GabriellaG439/status/1834599514759655646)
+
+[newbs](https://x.com/terrajobst/status/1834289286096847172)
+
+[Greppability is an underrated code metric](https://news.ycombinator.com/item?id=41430772)
+
 
 

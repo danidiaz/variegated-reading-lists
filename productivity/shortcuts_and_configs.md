@@ -676,4 +676,11 @@ VSCode simple config for recordings:
 
 [ jq: how to filter an array of objects based on values in an inner array?](https://stackoverflow.com/questions/26701538/jq-how-to-filter-an-array-of-objects-based-on-values-in-an-inner-array)
 
+[Git hygiene](https://x.com/axboe/status/1834295657923825927). [repo](https://github.com/axboe/liburing/blob/master/CONTRIBUTING.md).
+
+[Ultorg](https://www.ultorg.com/)
+
+[cat script.R | llm "what does this code do?"](https://x.com/MarcJBrooker/status/1831731866527039615)
+
+
 

@@ -968,4 +968,12 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
 
+[Conservative GC can be faster than precise GC](https://news.ycombinator.com/item?id=41473061)
+
+[Asynchronous IO: the next billion-dollar mistake? ](https://news.ycombinator.com/item?id=41471707)
+
+[intuiting monty hall](https://lobste.rs/s/dfxa7y/intuiting_monty_hall)
+
+[Behavior Sanitizers in Elixir](https://lobste.rs/s/ui9kvb/behavior_sanitizers_elixir)
+
 

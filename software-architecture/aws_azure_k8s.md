@@ -730,5 +730,46 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [presigned S3 urls and large files](https://www.reddit.com/r/aws/comments/1f68zlx/comment/lkyvizt/)
 
+[Hacking misconfigured AWS S3 buckets: A complete guide](https://blog.intigriti.com/hacking-tools/hacking-misconfigured-aws-s3-buckets-a-complete-guide). [hn](https://news.ycombinator.com/item?id=41489644)
+
+[huge bills by mistake](https://www.reddit.com/r/aws/comments/1ffgaqt/could_someone_give_an_example_situation_where_you/)
+
+[S3 Lifecycles and importing data that is already partially aged](https://www.reddit.com/r/aws/comments/1ffcdh8/s3_lifecycles_and_importing_data_that_is_already/)
+
+[AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+
+[(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://www.reddit.com/r/devops/comments/1am3aug/almost_every_infrastructure_decision_i_endorse_or/)
+
+[CloudFormation outputs](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/outputs-section-structure.html)
+
+[Embed stacks within other stacks using nested stacks](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-nested-stacks.html). [CDK Nested Stacks — The “Why” and “How”](https://blog.serverlessadvocate.com/cdk-nested-stacks-the-why-and-how-3f836528045d). 
+
+[AWS CDK Constructs](https://docs.aws.amazon.com/cdk/v2/guide/constructs.html). [What are the tradeoffs between NestedStacks and Constructs?](https://stackoverflow.com/questions/72872863/what-are-the-tradeoffs-between-nestedstacks-and-constructs)
+
+[How do you compose your CDK projects?](https://www.reddit.com/r/aws/comments/12wd6ot/comment/kekoldw/). [Best practices for developing and deploying cloud infrastructure with the AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/best-practices.html). [Stateful infra doesn't even make sense in the same stack](https://www.reddit.com/r/aws/comments/1at8msc/stateful_infra_doesnt_even_make_sense_in_the_same/). [Keeping Stateful and Stateless Resources in Separate Stacks in CDK](https://www.pachamamita.de/posts/best-practices/cdk-stateful-resources/). [This is why you should keep stateful and stateless resources together](https://theburningmonk.com/2023/01/this-is-why-you-should-keep-stateful-and-stateless-resources-together/)
+
+[Does your startup need complex cloud infrastructure?](https://news.ycombinator.com/item?id=41527564)
+
+[cdk synthesize](https://docs.aws.amazon.com/cdk/v2/guide/cli.html#cli-synth)
+
+[Is IaC the right model for databases?](https://x.com/jer_s/status/1831941459211391347)
+
+[Why is Secrets Manager considered safe?](https://www.reddit.com/r/aws/comments/1fc2990/why_is_secrets_manager_considered_safe/)
+
+[Filter AWS CLI output](https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-filter.html). [JMESpath vs jq](https://news.ycombinator.com/item?id=34657916)   
+
+[is EventBridge here redundant?](https://www.reddit.com/r/aws/comments/1f713b8/comment/ll493uh/)
+
+> Flexibility.  Sending the alarm to EventBridge and catching it there to invoke Lambda rather than invoking directly allows future actions to be attached simply by adding another Event Rule.   For example sending a slack notification, counting the events as a metric to track, etc all might be asks that come later.
+
+[How to Upload to a Private S3 Bucket from the Browser](https://youtu.be/_0xZoh-F-A8?si=iRVAu5k350Bblyi_)
+
+[Store each AWS S3 file in a database as a separate row?](https://stackoverflow.com/questions/13096313/store-each-aws-s3-file-in-a-database-as-a-separate-row)
+
+[Uploading to Amazon S3 directly from a web or mobile application](https://aws.amazon.com/es/blogs/compute/uploading-to-amazon-s3-directly-from-a-web-or-mobile-application/)
+
+[Host Single Page Applications (SPA) with Tiered TTLs on CloudFront and S3](https://aws.amazon.com/es/blogs/networking-and-content-delivery/host-single-page-applications-spa-with-tiered-ttls-on-cloudfront-and-s3/)
+
+[Identify AWS resources with Amazon Resource Names (ARNs)](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference-arns.html)
 
 

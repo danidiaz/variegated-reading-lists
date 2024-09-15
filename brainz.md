@@ -512,9 +512,30 @@ Things for which I found ChatGPT useful:
 
 ["I just throw my notes into chat"](https://x.com/tylerangert/status/1833168728327950481). [grug?](https://x.com/_deepfates/status/1832958028418855306)
 
+[autoregressive](https://x.com/karpathy/status/1835024197506187617)
 
+[Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/). [Notes on OpenAI’s new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/). [hn](https://news.ycombinator.com/item?id=41527143). [lobsters](https://lobste.rs/s/sktjxk/openai_o1_model). [bitter-er lesson](https://x.com/dioscuri/status/1834291979355598980). [AI Search: The Bitter-er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d). [thoughts](https://x.com/Miles_Brundage/status/1834291595648377091). [scaling](https://x.com/lateinteraction/status/1834553612921446485).
 
+[Is telling a model to "not hallucinate" absurd?](https://news.ycombinator.com/item?id=41497619). [tweet](https://x.com/yoavgo/status/1833240454617567630)
 
+[Any RL approach is only as good as its environment/reward model.](https://x.com/pfau/status/1834362105811915184)
 
+[LLM Evaluation Metrics: The Ultimate LLM Evaluation Guide ](https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation)
+
+[instead of taking screenshots](https://x.com/RealGeneKim/status/1833298959890321503)
+
+[how to prompt](https://x.com/alexalbert__/status/1831767526377963546)
+
+[cat script.R | llm "what does this code do?"](https://x.com/MarcJBrooker/status/1831731866527039615)
+
+[history | tail -n 2000 | llm -s "Write aliases for my zshrc based on my terminal history. Only do this for most common features. Don't use any specific files or directories"](https://x.com/__anjor/status/1830972847759729124)
+
+[How to Read Deep Learning Paper as a Software Engineer ](https://news.ycombinator.com/item?id=41457206)
+
+[In Defense of RAG in the Era of Long-Context Language Models](https://arxiv.org/abs/2409.01666)
+
+[claude's prefilling](https://eugeneyan.com/writing/prompting/#prefill-claudes-responses)
+
+[structuralism](https://x.com/jonothingEB/status/1830652235774394461)
 
 

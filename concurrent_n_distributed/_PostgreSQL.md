@@ -445,4 +445,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Postgres webhooks with pgstream](https://xata.io/blog/postgres-webhooks-with-pgstream)
 
+[parquet/CSV materialized view](https://x.com/marcoslot/status/1831359323186016338)
+
 

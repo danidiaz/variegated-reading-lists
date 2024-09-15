@@ -144,5 +144,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [functional ownership through fractional uniqueness](https://dl.acm.org/doi/10.1145/3649848). [tweet](https://x.com/starsandspirals/status/1832161457552621671).
 
+[linearity vs. uniqueness in Ocaml](https://x.com/kc_srk/status/1831957278549053866)
+
 
 

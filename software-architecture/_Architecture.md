@@ -1593,5 +1593,19 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [the challenges of large codebases](https://x.com/gunnarmorling/status/1833136528228315335)
 
+[How Slack Re-Architected itself from single-workspace  to multiple workspace model](https://slack.engineering/unified-grid-how-we-re-architected-slack-for-our-largest-customers/)
+
+[Multi-Tenant: Database Per Tenant or Shared?](https://www.youtube.com/watch?v=YaSPB2uNLYg)
+
+[implicit parameters in Haskell's IHP](https://github.com/digitallyinduced/ihp/wiki/Troubleshooting). [more](https://discourse.haskell.org/t/records-of-functions-and-implicit-parameters/747). [reddit](https://www.reddit.com/r/haskell/comments/z9t40d/implicit_parameters_vs_readert/).
+
+[prefer deep modules](https://x.com/housecor/status/1830710582082781542)
+
+[Spring modulith example](https://x.com/sivalabs/status/1830625778989477890)
+
+> * Using a separate db schema for each module 
+
+
+
 
 

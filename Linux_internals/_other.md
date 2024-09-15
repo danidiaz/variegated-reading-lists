@@ -26,6 +26,8 @@
 
 [DDR4 memory organization and how it affects memory bandwidth](https://blog.cloudflare.com/ddr4-memory-organization-and-how-it-affects-memory-bandwidth/)
 
-[Is IaC the right model for databases?](https://x.com/jer_s/status/1831941459211391347)
+[What is the best pointer tagging method?](https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/)
+
+[Make Your Own CDN with NetBSD](https://news.ycombinator.com/item?id=41432245)
 
 

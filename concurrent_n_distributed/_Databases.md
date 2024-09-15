@@ -974,6 +974,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [time series indexing at scale](https://news.ycombinator.com/item?id=41415634)
 
+[OLTP through the looking glass](https://x.com/petereliaskraft/status/1835349915280818518)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

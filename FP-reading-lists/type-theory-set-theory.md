@@ -537,6 +537,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [Using Isabelle (a non-dependently typed proof assistant) to verify Haskell code](https://www.reddit.com/r/haskell/comments/1fftqt6/using_isabelle_a_nondependently_typed_proof/).
 
+[Acyclic Egraphs and Smart Constructors](https://www.philipzucker.com/smart_constructor_aegraph/)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

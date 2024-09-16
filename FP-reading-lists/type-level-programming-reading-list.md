@@ -451,4 +451,8 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [arbitrary instances for dependent types](https://discourse.haskell.org/t/how-to-create-quickcheck-tests-for-dependently-typed-matrix-addition-without-specifying-each-dimension-statically/9993)
 
+[Programming is about information not data, or: you might not need dependent types](https://gist.github.com/Innf107/15ba3a1f95534a00177189bfb49d3c92). [tweet](https://x.com/welltypedwitch/status/1835492118451675156). [Encoding Dependently-Typed Constructions into Simple Type Theory](https://doi.org/10.1145/3573105.3575679). [video](https://youtu.be/fU8Z-3FI2jg)
+
+[Defining a recursive datatype by its differences with another recursive datatype](https://gist.github.com/gelisam/176181aacda7f41fa643b50965ff2424)
+
 

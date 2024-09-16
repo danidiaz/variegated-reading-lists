@@ -1251,5 +1251,7 @@ What! This does work! How to go in the opposite direction?
 
 [Docker on NixOS](https://nixos.wiki/wiki/Docker)
 
+[Dropping Home-Manager](https://ayats.org/blog/no-home-manager)
+
 
 

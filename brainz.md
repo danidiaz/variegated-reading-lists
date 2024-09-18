@@ -540,4 +540,6 @@ Things for which I found ChatGPT useful:
 
 [how to use LLMs](https://x.com/albrgr/status/1836100835719499799)
 
+[generating tests](https://stackoverflow.blog/2024/09/10/gen-ai-llm-create-test-developers-coding-software-code-quality/)
+
 

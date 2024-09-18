@@ -1605,6 +1605,10 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > * Using a separate db schema for each module 
 
+[DDD trilemma](https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/). [should the DB be used more?](https://www.linkedin.com/posts/vb-software_a-day-before-yesterday-i-shared-an-article-ugcPost-7242077824398856192-He2d)
+
+
+
 
 
 

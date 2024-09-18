@@ -686,5 +686,7 @@ VSCode simple config for recordings:
 
 [cat script.R | llm "what does this code do?"](https://x.com/MarcJBrooker/status/1831731866527039615)
 
+[Chrome dev tools "emulate focused page"](https://x.com/jacobmparis/status/1836424211365282086).
+
 
 

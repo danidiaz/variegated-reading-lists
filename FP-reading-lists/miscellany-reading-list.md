@@ -976,4 +976,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Behavior Sanitizers in Elixir](https://lobste.rs/s/ui9kvb/behavior_sanitizers_elixir)
 
+[What is entropy?](https://arxiv.org/abs/2409.09232)
+
 

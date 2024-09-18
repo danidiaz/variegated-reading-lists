@@ -538,4 +538,6 @@ Things for which I found ChatGPT useful:
 
 [structuralism](https://x.com/jonothingEB/status/1830652235774394461)
 
+[how to use LLMs](https://x.com/albrgr/status/1836100835719499799)
+
 

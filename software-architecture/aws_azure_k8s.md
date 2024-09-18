@@ -772,4 +772,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Identify AWS resources with Amazon Resource Names (ARNs)](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference-arns.html)
 
+[Stop using SSH-How to use port forwarding in AWS SSM to connect to remote hosts](https://systemweakness.com/stop-using-ssh-how-to-use-port-forwarding-in-aws-ssm-to-connect-to-remote-hosts-6c5fcea43b7c)
+
 

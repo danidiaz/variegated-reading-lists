@@ -542,4 +542,6 @@ Things for which I found ChatGPT useful:
 
 [generating tests](https://stackoverflow.blog/2024/09/10/gen-ai-llm-create-test-developers-coding-software-code-quality/)
 
+[Awesome LLM Strawberry (OpenAI o1)](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
+
 

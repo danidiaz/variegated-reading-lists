@@ -160,3 +160,6 @@
 
 [Noisy neighbor detection with eBPF](https://news.ycombinator.com/item?id=41513860)
 
+[How Raw sockets behave differently in macOS and Linux ](https://news.ycombinator.com/item?id=41537426)
+
+

@@ -544,4 +544,26 @@ Things for which I found ChatGPT useful:
 
 [Awesome LLM Strawberry (OpenAI o1)](https://github.com/hijkzzz/Awesome-LLM-Strawberry)
 
+[Contextual Retrieval (Anthropic)](https://news.ycombinator.com/item?id=41598119)
+
+[podcasts from code with @GoogleAI NotebookLM](https://x.com/rseroter/status/1836519803802259732). [more](https://x.com/rakyll/status/1836955176911200719)
+
+[hot takes about embedding-based RAG](https://x.com/sh_reya/status/1836427763605258384)
+
+[Legacy Modernization meets GenAI](https://martinfowler.com/articles/legacy-modernization-gen-ai.html)
+
+[Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://news.ycombinator.com/item?id=41564611)
+
+[You can tell the RL is done properly when the models cease to speak English ](https://x.com/karpathy/status/1835561952258723930)
+
+[I hate language now](https://x.com/QiaochuYuan/status/1835811003453612345). [a machine called language](https://x.com/QiaochuYuan/status/1836157189070950554).
+
+[g1: Using Llama-3.1 70B on Groq to create o1-like reasoning chains](https://news.ycombinator.com/item?id=41550364)
+
+[experiences with a base model](https://x.com/GabriellaG439/status/1837736939791044895)
+
+[OpenAI has released a new o1 prompting guide.](https://x.com/dr_cintas/status/1837192765555245384)
+
+[poking around with the OpenAI, Anthropic and Google Gemini streaming APIs](https://x.com/simonw/status/1837604162453876873)
+
 

@@ -774,4 +774,34 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Stop using SSH-How to use port forwarding in AWS SSM to connect to remote hosts](https://systemweakness.com/stop-using-ssh-how-to-use-port-forwarding-in-aws-ssm-to-connect-to-remote-hosts-6c5fcea43b7c)
 
+[Should you create AWS accounts using IAC or console?](https://www.reddit.com/r/aws/comments/1fkixdo/should_you_create_aws_accounts_using_iac_or/)
 
+[How to choose between AWS Application Load Balancer and API Gateway](https://awstip.com/how-to-choose-between-aws-application-load-balancer-or-api-gateway-441a34f2cc29)
+
+[Identifiers and the AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/identifiers.html)
+
+> AWS CloudFormation requires that all logical IDs in a template be unique. Because of this, the AWS CDK must be able to generate a unique identifier for each construct in an application. Resources have paths that are globally unique (the names of all scopes from the stack to a specific resource). Therefore, the AWS CDK generates the necessary unique identifiers by concatenating the elements of the path and adding an 8-digit hash. (The hash is necessary to distinguish distinct paths, such as A/B/C and A/BC, that would result in the same AWS CloudFormation identifier. AWS CloudFormation identifiers are alphanumeric and cannot contain slashes or other separator characters.) The AWS CDK calls this string the unique ID of the construct.
+
+> In general, your AWS CDK app should not need to know about unique IDs
+
+> The address is another kind of unique identifier that uniquely distinguishes CDK resources. Derived from the SHA-1 hash of the path, it is not human-readable. However, its constant, relatively short length (always 42 hexadecimal characters) makes it useful in situations where the "traditional" unique ID might be too long. Some constructs may use the address in the synthesized AWS CloudFormation template instead of the unique ID. Again, your app generally should not need to know about its constructs' addresses
+
+> Unique IDs serve as the logical identifiers (or logical names) of resources in the generated AWS CloudFormation templates for constructs that represent AWS resources.
+
+> Avoid changing the logical ID of a resource after it has been created. AWS CloudFormation identifies resources by their logical ID. Therefore, if you change the logical ID of a resource, AWS CloudFormation creates a new resource with the new logical ID, then deletes the existing one. Depending on the type of resource, this might cause service interruption, data loss, or both.
+
+["Terraform Best Practices For AWS"](https://awstip.com/terraform-best-practices-for-aws-44c53b90b951)
+
+[Cutting CloudWatch Costs: How We Reduced RDS Audit Log Expenses by Over 90%](https://medium.com/@saurabh.khandelwal_fibe/cutting-cloudwatch-costs-how-we-reduced-rds-audit-log-expenses-by-over-90-a2479d527658)
+
+[Why Isn't There a Single-Click Solution to Delete All AWS Services? For Rookies like me](https://www.reddit.com/r/aws/comments/1fitwcl/why_isnt_there_a_singleclick_solution_to_delete/)
+
+[aws drama](https://x.com/QuinnyPig/status/1835399344478122074)
+
+[How does a AWS diagram relate to the codebase?](https://www.reddit.com/r/aws/comments/1fm5zov/how_does_a_aws_diagram_relate_to_the_codebase/)
+
+[Logging Bedrock](https://www.reddit.com/r/aws/comments/1fmnpha/logging_bedrock/)
+
+[Roast my architecture E-Commerce website](https://www.reddit.com/r/aws/comments/1fld7ev/roast_my_architecture_ecommerce_website/)
+
+[Manage Lambda function versions](https://docs.aws.amazon.com/lambda/latest/dg/configuration-versions.html)

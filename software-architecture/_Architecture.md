@@ -1607,9 +1607,13 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [DDD trilemma](https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/). [should the DB be used more?](https://www.linkedin.com/posts/vb-software_a-day-before-yesterday-i-shared-an-article-ugcPost-7242077824398856192-He2d)
 
+[DRY or no DRY](https://x.com/SergiiShymko/status/1836397745386508547)
 
+[Constraints and guarantees](https://jfmengels.net/constraints-and-guarantees/)
 
+[Always use an enum for your status field](https://lobste.rs/s/o5obyc/always_use_enum_for_your_status_field)
 
+[is persistence ignorance a fool's errand?](https://x.com/kellabyte/status/1837249870265991349)
 
 
 

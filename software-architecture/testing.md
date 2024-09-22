@@ -427,4 +427,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [Tracking supermarket prices with Playwright](https://news.ycombinator.com/item?id=41173335)
 
+[why tests](https://x.com/einarwh/status/1835728306173304970)
+
 

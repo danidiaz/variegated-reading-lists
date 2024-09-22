@@ -688,5 +688,21 @@ VSCode simple config for recordings:
 
 [Chrome dev tools "emulate focused page"](https://x.com/jacobmparis/status/1836424211365282086).
 
+[Notes on using Linear](https://macwright.com/2024/04/09/linear-notes)
 
+[Disable background transparency in (neo)vim](https://stackoverflow.com/questions/46570644/disable-background-transparency-in-neovim)
+
+[In bash how can I change the color of my command prompt?](https://unix.stackexchange.com/questions/16120/in-bash-how-can-i-change-the-color-of-my-command-prompt)
+
+[tput: Portable Terminal Control](https://www.gnu.org/software/termutils/manual/termutils-2.0/html_chapter/tput_1.html). [tput setaf color table? How to determine color codes?](https://unix.stackexchange.com/questions/269077/tput-setaf-color-table-how-to-determine-color-codes)
+
+> The tput command allows shell scripts to do things like clear the screen, underline text, and center text no matter how wide the screen is. To do these things, it translates the terminal-independent name of a terminal capability into its actual value for the terminal type being used.
+
+> The count of colors available to tput is given by tput colors.
+
+[What is the best way now to make super long term backup? (low budget)](https://www.reddit.com/r/DataHoarder/comments/ltryd6/what_is_the_best_way_now_to_make_super_long_term/)
+
+> Keep buying new drives is the easiest way (along with bit rot protection in the meantime). Asking for the same medium to last that long is just adding layers of complexity.
+
+[TIL |& in bash](https://x.com/samwhoo/status/1836679992685584665). [What does "|&" mean in Bash?](https://stackoverflow.com/questions/35384999/what-does-mean-in-bash)
 

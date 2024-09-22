@@ -36,4 +36,6 @@ http://www.i3s.unice.fr/~urvoy/docs/VICC/3_vicc.pdf
 
 [eBPF vs Java Bytecode Instrumentation](https://twitter.com/richardstartin/status/1768397634534768839)
 
+[User-space interrupts](https://lwn.net/Articles/871113/)
+
 

@@ -1101,5 +1101,26 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Modern Practices for handling A LOT of UI conditional logic](https://www.reddit.com/r/reactjs/s/8mRloFc0dy)
 
+[unspoken rules of react hooks](https://lobste.rs/s/zckrxd/unspoken_rules_react_hooks)
+
+[filtered data doesn't need to be stateful](https://x.com/kyleshevlin/status/1836543235373858930)
+
+[conditional renderings in react (no matter if you do them with && or with ? : null) don't evolve well](https://x.com/TkDodo/status/1836419595709653483). [more](https://x.com/TkDodo/status/1836431516500410433).
+
+> the solution is actually early returns + component composition. 
+
+[abort controller](https://x.com/jacobmparis/status/1836364148688707585)
+
+[Stick with Styled Components or migrate to Tailwind?](https://www.reddit.com/r/reactjs/comments/1fiqnzn/stick_with_styled_components_or_migrate_to/)
+
+[Best Practice for Updating UI After Sending Data to the Server](https://www.reddit.com/r/reactjs/comments/1fliuqr/best_practice_for_updating_ui_after_sending_data/)
+
+[React Router v7 feels like a scramble to match TanStack Router?](https://www.reddit.com/r/reactjs/comments/1fmkvcy/react_router_v7_feels_like_a_scramble_to_match/)
+
+[TanStack Query and fetching](https://x.com/KevinVanCott/status/1837598095351468354)
+
+[Component Composition is great btw](https://tkdodo.eu/blog/component-composition-is-great-btw). [tweet](https://x.com/TkDodo/status/1837532050967925114).
+
+[getting started with React (epic react)](https://www.epicreact.dev/tutorials/get-started-with-react)
 
 

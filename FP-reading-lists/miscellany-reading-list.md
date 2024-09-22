@@ -978,4 +978,12 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [What is entropy?](https://arxiv.org/abs/2409.09232)
 
+[When you’re not Data-Oriented, even just snapshotting the game state can be a Herculean task](https://x.com/phillip_trudeau/status/1836475342019530788)
+
+[spreadsheet and debugger](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
+
+[mental models for modern program tuning](https://x.com/ludwigABAP/status/1835122133162234156)
+
+[Possibly all the ways to get loop-finding in graphs wrong](https://news.ycombinator.com/item?id=41508355)
+
 

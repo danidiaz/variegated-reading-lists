@@ -447,4 +447,6 @@ Essential reading! Covers:
 
 [combinator compiler](https://www.youtube.com/watch?v=uMurx1a6Zck)
 
+[record update drama](https://discord.com/channels/280033776820813825/280036215477239809/1285881240334897174)
+
 

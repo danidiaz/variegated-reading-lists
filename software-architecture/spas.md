@@ -493,5 +493,15 @@
 
 > The problem is when the user wants to navigate directly to a specific page. For example, if the user types "site.com/page/projects" into their browser, I then have to use a templating engine to pre-render the entire page and send it as one big chunk of HTML. In my current implementation, this leads to really messy code on the backend really fast, as I have to have two separate routes: one for the full webpage, and one for the snippet for HTMX to swap out. This also leads to some gross code duplication that I'd just rather not deal with.
 
+[How to send partial form data back to user if validation fails?](https://www.reddit.com/r/htmx/comments/1fhy5ks/how_to_send_partial_form_data_back_to_user_if/)
+
+[all local](https://x.com/BHolmesDev/status/1835437914479841744)
+
+[Analyzing the OpenAPI Tooling Ecosystem](https://news.ycombinator.com/item?id=41612002)
+
+[PerformanceObserver](https://x.com/kentcdodds/status/1837633389475909716)
+
+[All my projects are published to CDNs because most of them don't require a real server.](https://x.com/nullvoxpopuli/status/1837499779514835216)
+
 
 

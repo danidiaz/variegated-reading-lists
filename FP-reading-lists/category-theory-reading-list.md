@@ -1086,4 +1086,6 @@ deals with its own properties.
 
 [Foundations of Bidirectional Programming III: The Logic of Lenses](https://cybercat.institute/2024/09/12/bidirectional-programming-iii/)
 
+[Fix fidgeting](https://x.com/Iceland_jack/status/1837032560016138279)
+
 

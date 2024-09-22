@@ -1253,5 +1253,9 @@ What! This does work! How to go in the opposite direction?
 
 [Dropping Home-Manager](https://ayats.org/blog/no-home-manager)
 
+[nix develop doesn't remove the environment by default](https://nix.dev/manual/nix/2.22/command-ref/new-cli/nix3-develop#opt-ignore-environment)   
+
+[lightweight Nix flake template for Haskell repositories](https://github.com/Gabriella439/haskell-flake)
+
 
 

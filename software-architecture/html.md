@@ -125,6 +125,8 @@
 
 [insertAdjacentHTML](https://x.com/WebReflection/status/1829556513469321564)
 
-[web components. yay or nay?](https://x.com/JLarky/status/1830283524760621456)
+[web components. yay or nay?](https://x.com/JLarky/status/1830283524760621456). [reddit](https://www.reddit.com/r/reactjs/comments/1fjhxte/are_you_using_web_componentsor_have_you_given_up/).
+
+
 
 

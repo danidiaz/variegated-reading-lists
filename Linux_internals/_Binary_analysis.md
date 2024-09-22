@@ -14,4 +14,8 @@
 
 [opaque binary with no symbols](https://hachyderm.io/@whitequark@mastodon.social/113061553634970962)
 
+[A overview of binaries, ELF, and NoMMU on Linux](https://news.ycombinator.com/item?id=41539841)
+
+[Friendly Introduction to Assembly for High-Level Programmers](https://news.ycombinator.com/item?id=41571971)
+
 

@@ -326,5 +326,9 @@
 
 [Greppability is an underrated code metric](https://news.ycombinator.com/item?id=41430772)
 
+[when to write code](https://x.com/kelseyhightower/status/1836419074441777468)
+
+[when it comes to code reviews](https://x.com/gunnarmorling/status/1835550691043017013)
+
 
 

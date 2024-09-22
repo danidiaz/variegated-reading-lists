@@ -77,4 +77,6 @@
 
 [Why does SQLite (in production) have such a bad rep?](https://lobste.rs/s/fxkk7v/why_does_sqlite_production_have_such_bad)
 
+[Yggdrasil - Schema migrations made easy, in Haskell](https://www.reddit.com/r/haskell/comments/1fk3pw0/yggdrasil_schema_migrations_made_easy_in_haskell/)
+
 

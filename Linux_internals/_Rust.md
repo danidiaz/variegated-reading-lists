@@ -192,5 +192,9 @@
 
 [Don't write Rust like it's Java](https://lobste.rs/s/nunnw3/don_t_write_rust_like_it_s_java) (?)
 
+[nesting arena allocators](https://lobste.rs/s/scrue4/nesting_arena_allocators_rust)
+
+[shadcdn yay or nay](https://x.com/phuctm97/status/1835352805483352525)
+
 
 

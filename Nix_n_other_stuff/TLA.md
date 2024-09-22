@@ -28,5 +28,12 @@ On HN: https://news.ycombinator.com/item?id=18163470 https://news.ycombinator.co
 
 [the future of TLA+](https://news.ycombinator.com/item?id=41382828)
 
+[Modelling the archetype of a message-passing bug](https://medium.com/@polyglot_factotum/modelling-a-message-passing-bug-with-tla-baaf090a688d)
+
+[examples of o1 chains of thought](https://x.com/tszzl/status/1836649329207185908). [tweet](https://x.com/teortaxesTex/status/1836801962253402522).
+
+[TLA⁺ is more than a DSL for breadth-first search](https://lobste.rs/s/zl0e71/tla_is_more_than_dsl_for_breadth_first)
+
+
 
 

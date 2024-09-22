@@ -449,4 +449,10 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [managing denormalization](https://www.reddit.com/r/PostgreSQL/comments/1fhgj6d/managing_postgresql_denormalization/)
 
+[stop using SERIAL](https://lobste.rs/s/ydcu6l/stop_using_serial_postgres)
+
+[postgresql - How to get information about the sequence behind the new Identity Column in Postgres 10? (GENERATED { ALWAYS | BY DEFAULT } AS IDENTITY)](https://dba.stackexchange.com/questions/187708/how-to-get-information-about-the-sequence-behind-the-new-identity-column-in-post)
+
+[When to use normalized tables vs denormalized jsonb columns?](https://www.reddit.com/r/PostgreSQL/comments/1fjlbjv/when_to_use_normalized_tables_vs_denormalized/)
+
 

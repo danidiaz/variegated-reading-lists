@@ -222,5 +222,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Claude n' Typescript](https://x.com/BHolmesDev/status/1834391842747490723)
 
+[template string converter](https://www.youtube.com/shorts/CHIzjkTuUmg)
 
 

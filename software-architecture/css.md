@@ -723,4 +723,12 @@ https://twitter.com/tailwindcss
 
 [CSS @property and the New Style](https://news.ycombinator.com/item?id=41448740)
 
+[The Undeniable Utility Of CSS :has](https://lobste.rs/s/gery1i/undeniable_utility_css_has)
+
+[animating height: auto](https://x.com/JoshWComeau/status/1837115029142839356)
+
+[field-sizing: content](https://x.com/destroytoday/status/1835405977316655563)
+
+[A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
+
 

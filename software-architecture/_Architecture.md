@@ -1615,5 +1615,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [is persistence ignorance a fool's errand?](https://x.com/kellabyte/status/1837249870265991349)
 
+[idempotence: upstream must play ball](https://x.com/DominikTornow/status/1837914947055243456). [Exactly Once Processing Semantics = At-Least Once Processing + Idempotence](https://x.com/DominikTornow/status/1837884582966055088). [idempotence is not a medical condition](https://queue.acm.org/detail.cfm?id=2187821).
+
+[information leakage](https://x.com/housecor/status/1838201460250575330).
+
 
 

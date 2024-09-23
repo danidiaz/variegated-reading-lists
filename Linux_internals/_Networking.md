@@ -162,4 +162,8 @@
 
 [How Raw sockets behave differently in macOS and Linux ](https://news.ycombinator.com/item?id=41537426)
 
+[A terrible way to jump into colocating your own stuff](https://rachelbythebay.com/w/2024/09/22/colo/). [hn](https://news.ycombinator.com/item?id=41622653).
+
+[reducing WebSocket traffic by 40%:](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
+
 

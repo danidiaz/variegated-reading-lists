@@ -978,6 +978,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Why is UPSERT so complicated?](https://www.depesz.com/2012/06/10/why-is-upsert-so-complicated/).[IODKU,  but only if condition met](https://dba.stackexchange.com/questions/315701/mariadb-iodku-but-only-if-condition-met). [Insert, on duplicate update in PostgreSQL?](https://stackoverflow.com/questions/1109061/insert-on-duplicate-update-in-postgresql)
 
+[The Apache Iceberg post on change query support (including CDC) is out. Delta is next.](https://x.com/vanlightly/status/1838213596813107482)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

@@ -805,3 +805,23 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 [Roast my architecture E-Commerce website](https://www.reddit.com/r/aws/comments/1fld7ev/roast_my_architecture_ecommerce_website/)
 
 [Manage Lambda function versions](https://docs.aws.amazon.com/lambda/latest/dg/configuration-versions.html)
+
+[How S3 really works](https://x.com/petereliaskraft/status/1837515983252345206)
+
+[Pass workflow state](https://docs.aws.amazon.com/step-functions/latest/dg/state-pass.html)
+
+> You can also use a Pass state to transform JSON state input using filters, and then pass the transformed data to the next state in your workflows.
+
+[Is it possible to rename an AWS Lambda function?](https://stackoverflow.com/questions/36684520/is-it-possible-to-rename-an-aws-lambda-function). [Manage Lambda function versions](https://docs.aws.amazon.com/lambda/latest/dg/configuration-versions.html). [Are ARN names of Lambda static or do they change?](https://stackoverflow.com/questions/53775194/are-arn-names-of-lambda-static-or-do-they-change)
+
+> They are static - in case it not obvious, the ARN is built from: a static prefix + the region it is in + your account number + your function name.
+
+[Creating and managing Lambda function URLs](https://docs.aws.amazon.com/lambda/latest/dg/urls-configuration.html). [more](https://cloudash.dev/blog/guide-to-lambda-function-urls).
+
+>  a new feature in AWS Lambda that allows you to call a Lambda function without an API Gateway.
+
+[Examining state machine executions in Step Functions](https://docs.aws.amazon.com/step-functions/latest/dg/debug-sm-exec-using-ui.html)
+
+[[r/aws] Is it actually possible to stay in the free tier?](https://www.reddit.com/r/aws/comments/1fn6047/is_it_actually_possible_to_stay_in_the_free_tier/)
+
+

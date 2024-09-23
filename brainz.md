@@ -566,4 +566,6 @@ Things for which I found ChatGPT useful:
 
 [poking around with the OpenAI, Anthropic and Google Gemini streaming APIs](https://x.com/simonw/status/1837604162453876873)
 
+[how Cursor prompts were created](https://x.com/tom_doerr/status/1838001895207510380)
+
 

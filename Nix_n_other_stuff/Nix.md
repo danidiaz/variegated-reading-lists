@@ -1257,5 +1257,7 @@ What! This does work! How to go in the opposite direction?
 
 [lightweight Nix flake template for Haskell repositories](https://github.com/Gabriella439/haskell-flake)
 
+[Nix diagram](https://x.com/GabriellaG439/status/1838126507568558182)
+
 
 

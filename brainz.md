@@ -572,4 +572,6 @@ Things for which I found ChatGPT useful:
 
 [regularization](https://x.com/maksym_andr/status/1838530434793099617)
 
+[generating lecture slides from a book](https://x.com/_alice_evans/status/1839199838367326378)
+
 

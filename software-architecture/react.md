@@ -1123,4 +1123,8 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [getting started with React (epic react)](https://www.epicreact.dev/tutorials/get-started-with-react)
 
+[How to control a React component with the URL](https://buildui.com/posts/how-to-control-a-react-component-with-the-url). [tweet](https://x.com/TkDodo/status/1839199644728918509).
+
+[[r/reactjs] Best way to handle large-scale library updates/migrations?](https://www.reddit.com/r/reactjs/comments/1fpcy8t/best_way_to_handle_largescale_library/)
+
 

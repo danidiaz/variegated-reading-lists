@@ -731,4 +731,12 @@ https://twitter.com/tailwindcss
 
 [A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
 
+[Better Tables With Grid CSS (and Subgrid)](https://frontendengineering.substack.com/p/better-tables-with-grid-css-and-subgrid). [Building a Resizable and Sortable HTML Table with Ease](https://dev.to/sohrabzia/building-a-resizable-and-sortable-html-table-with-ease-2a0e).
 
+[If you need truly dynamic styles with Tailwind](https://x.com/adamwathan/status/1838936902084247968). [no CVA?](https://x.com/edgarasben/status/1838939328296177944)
+
+> This is easy for Tailwind to statically analyze, and produces less CSS too.
+
+[tailwind alternative to conditional classes](https://x.com/adamwathan/status/1838938627289583764)
+
+>  instead of conditionally adding classes, conditionally set a data attribute and use the `data-*` variant to add styles

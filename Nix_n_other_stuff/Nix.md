@@ -1259,5 +1259,7 @@ What! This does work! How to go in the opposite direction?
 
 [Nix diagram](https://x.com/GabriellaG439/status/1838126507568558182)
 
+[[r/NixOS] Agenix + Passage Secrets management](https://www.reddit.com/r/NixOS/comments/1foipsn/agenix_passage_secrets_management/)
+
 
 

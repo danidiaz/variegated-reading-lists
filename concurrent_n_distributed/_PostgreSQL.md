@@ -455,4 +455,10 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [When to use normalized tables vs denormalized jsonb columns?](https://www.reddit.com/r/PostgreSQL/comments/1fjlbjv/when_to_use_normalized_tables_vs_denormalized/)
 
+[Zero-downtime Postgres schema migrations need this: lock_timeout and retries](https://postgres.ai/blog/20210923-zero-downtime-postgres-schema-migrations-lock-timeout-and-retries)
+
+> It’s very dangerous to deploy DDL without lock_timeout and retries 
+
+[PostgreSQL: Documentation: 16: 7.2. Table Expressions](https://www.postgresql.org/docs/current/queries-table-expressions.html)
+
 

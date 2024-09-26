@@ -123,4 +123,6 @@
 
 [timeouts and CI](https://twitter.com/joseph_h_garvin/status/1784380166342332657)
 
+[[r/devops] How Do You Handle Rollbacks in CI/CD Pipelines?](https://www.reddit.com/r/devops/comments/1fnh7qp/how_do_you_handle_rollbacks_in_cicd_pipelines/)
+
 

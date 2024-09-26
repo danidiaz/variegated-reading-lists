@@ -455,4 +455,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Defining a recursive datatype by its differences with another recursive datatype](https://gist.github.com/gelisam/176181aacda7f41fa643b50965ff2424)
 
+[Tagged Union Subsets with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-tagged-union-subset)
+
 

@@ -824,4 +824,10 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [[r/aws] Is it actually possible to stay in the free tier?](https://www.reddit.com/r/aws/comments/1fn6047/is_it_actually_possible_to_stay_in_the_free_tier/)
 
+[ Cloudformation stack and template](https://www.reddit.com/r/aws/comments/1foc5y5/struggling_to_understand_the_differences_between/)
+
+[ Is there a point for S3 website hosting?](https://www.reddit.com/r/aws/comments/1fo4nve/is_there_a_point_for_s3_website_hosting/)
+
+[AWS Secrets Manager vs. Parameter Store: Which is Better for Managing Secrets?](https://www.reddit.com/r/aws/comments/1fppsw7/aws_secrets_manager_vs_parameter_store_which_is/)
+
 

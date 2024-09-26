@@ -568,4 +568,8 @@ Things for which I found ChatGPT useful:
 
 [how Cursor prompts were created](https://x.com/tom_doerr/status/1838001895207510380)
 
+[issues with declarative composition](https://x.com/sh_reya/status/1838641761419432365)
+
+[regularization](https://x.com/maksym_andr/status/1838530434793099617)
+
 

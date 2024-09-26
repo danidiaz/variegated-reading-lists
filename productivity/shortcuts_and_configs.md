@@ -632,7 +632,7 @@ VSCode simple config for recordings:
 
 [multi-root workspaces in vscode](https://code.visualstudio.com/docs/editor/multi-root-workspaces)
 
-[code actions](https://code.visualstudio.com/api/references/vscode-api#CodeActionProvider&lt;T&gt;). [code lenses](https://code.visualstudio.com/api/references/vscode-api#CodeLens). [more about code lenses](https://code.visualstudio.com/blogs/2017/02/12/code-lens-roundup). [in hls](https://haskell-language-server.readthedocs.io/en/latest/features.html#refine-import-code-lens)
+[code actions](https://code.visualstudio.com/api/references/vscode-api#CodeActionProvider&lt;T&gt;). [code lenses](https://code.visualstudio.com/api/references/vscode-api#CodeLens). [more about code lenses](https://code.visualstudio.com/blogs/2017/02/12/code-lens-roundup). [in hls](https://haskell-language-server.readthedocs.io/en/latest/features.html#refine-import-code-lens). [short code lenses video](https://www.youtube.com/shorts/A_ggMC7XM8Q).
 
 > code actions typically either fix problems or beautify/refactor code.
 
@@ -705,4 +705,7 @@ VSCode simple config for recordings:
 > Keep buying new drives is the easiest way (along with bit rot protection in the meantime). Asking for the same medium to last that long is just adding layers of complexity.
 
 [TIL |& in bash](https://x.com/samwhoo/status/1836679992685584665). [What does "|&" mean in Bash?](https://stackoverflow.com/questions/35384999/what-does-mean-in-bash)
+
+[vscode advanced search options](https://code.visualstudio.com/docs/editor/codebasics#_advanced-search-options)
+
 

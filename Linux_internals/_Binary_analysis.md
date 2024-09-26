@@ -18,4 +18,6 @@
 
 [Friendly Introduction to Assembly for High-Level Programmers](https://news.ycombinator.com/item?id=41571971)
 
+[Overview of cross-architecture portability problems](https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/). [hn](https://news.ycombinator.com/item?id=41624510).
+
 

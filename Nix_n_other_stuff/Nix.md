@@ -1261,5 +1261,7 @@ What! This does work! How to go in the opposite direction?
 
 [[r/NixOS] Agenix + Passage Secrets management](https://www.reddit.com/r/NixOS/comments/1foipsn/agenix_passage_secrets_management/)
 
+[Nix hashes in Nix](https://wastedintel.ca/2024/09/23/git-hashes-in-nix/)
+
 
 

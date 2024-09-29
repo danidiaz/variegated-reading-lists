@@ -578,4 +578,6 @@ Things for which I found ChatGPT useful:
 
 [I'm tired of AI](https://www.ontestautomation.com/i-am-tired-of-ai/). [hn](https://news.ycombinator.com/item?id=41667652)
 
+[experience with Cursor](https://x.com/SebAaltonen/status/1840347984094994658)
+
 

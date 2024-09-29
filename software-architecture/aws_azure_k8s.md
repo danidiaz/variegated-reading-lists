@@ -830,4 +830,10 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [AWS Secrets Manager vs. Parameter Store: Which is Better for Managing Secrets?](https://www.reddit.com/r/aws/comments/1fppsw7/aws_secrets_manager_vs_parameter_store_which_is/)
 
+[EC2+ (S3+Cloudfront) based application](https://www.reddit.com/r/aws/comments/1fqonw1/ec2_s3cloudfront_based_application/)
+
+[[r/aws] Processing a bunch of financial documents, architecture suggestings?](https://www.reddit.com/r/aws/comments/1fqwbu2/processing_a_bunch_of_financial_documents/)
+
+[When are read replicas preferable over ElastiCache for RDS?](https://www.reddit.com/r/aws/comments/1fpqtw6/when_are_read_replicas_preferable_over/)
+
 

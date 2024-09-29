@@ -986,4 +986,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Possibly all the ways to get loop-finding in graphs wrong](https://news.ycombinator.com/item?id=41508355)
 
+[control structures](https://xavierleroy.org/CdF/2023-2024/)
+
 

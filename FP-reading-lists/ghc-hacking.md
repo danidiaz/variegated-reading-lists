@@ -449,4 +449,6 @@ Essential reading! Covers:
 
 [record update drama](https://discord.com/channels/280033776820813825/280036215477239809/1285881240334897174)
 
+[Static-ls v1.0 announcement](https://www.reddit.com/r/haskell/comments/1fqs6r8/staticls_v10_announcement_mercury/)
+
 

@@ -803,7 +803,9 @@ https://news.ycombinator.com/item?id=25061901
 
 [ implemented SERIALIZABLE transactions with optimistic concurrency control](https://x.com/eatonphil/status/1826359437243941320)
 
+[Linearizability! Refinement! Prophecy!](https://surfingcomplexity.blog/2024/09/22/linearizability-refinement-prophecy/)
 
+> When we move from sequential programs to concurrent ones, we need to extend our concept of what “correct” means to account for the fact that operations from different threads can overlap in time. Linearizability is the strongest consistency model for single-object systems, which means that it’s the one that aligns closest to our intuitions. Other models are weaker and, hence, will permit anomalies that violate human intuition about how systems should behave.
 
 
 

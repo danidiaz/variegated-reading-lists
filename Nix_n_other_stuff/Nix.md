@@ -1263,5 +1263,9 @@ What! This does work! How to go in the opposite direction?
 
 [Nix hashes in Nix](https://wastedintel.ca/2024/09/23/git-hashes-in-nix/)
 
+[example-static-haskell-nix](https://github.com/cdepillabout/example-static-haskell-nix). [twitter](https://x.com/cdepillabout/status/1840357879863464188).
+
+> an example repo of how to build a fully statically-linked x86-64 Linux #Haskell binary using #Nix
+
 
 

@@ -30,4 +30,7 @@
 
 [Make Your Own CDN with NetBSD](https://news.ycombinator.com/item?id=41432245)
 
+[terminal escape sequences](https://x.com/mitchellh/status/1839762056486281618)
+
+> I should add that this is implemented using standard (but modern) escape sequences. 
 

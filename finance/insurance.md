@@ -73,6 +73,8 @@
 
 [canary](https://x.com/amyliztweets/status/1817650080024826199)
 
+[Money-Laundering Practices in the Online Scam Industry](https://news.ycombinator.com/item?id=41669934)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

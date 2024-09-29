@@ -503,5 +503,10 @@
 
 [All my projects are published to CDNs because most of them don't require a real server.](https://x.com/nullvoxpopuli/status/1837499779514835216)
 
+[Building a robust frontend using progressive enhancement](https://news.ycombinator.com/item?id=41686715). [Do not build your Gov.uk service as a single-page application](https://news.ycombinator.com/item?id=41686715)
+
+[web components are not the future](https://lobste.rs/s/1jj1er/web_components_are_not_future)
+
+
 
 

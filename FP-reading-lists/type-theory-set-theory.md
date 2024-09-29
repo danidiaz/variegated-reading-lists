@@ -373,6 +373,8 @@ or computations blocked by unknowns.
 
 [Well-Typed Substructural Languages](https://zanzix.github.io/posts/4-substructural.html)
 
+[ two level type theory ](https://x.com/welltypedwitch/status/1839830148935291173)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

@@ -574,4 +574,8 @@ Things for which I found ChatGPT useful:
 
 [generating lecture slides from a book](https://x.com/_alice_evans/status/1839199838367326378)
 
+[how much miscellany is worth](https://x.com/peligrietzer/status/1840158458890383559)
+
+[I'm tired of AI](https://www.ontestautomation.com/i-am-tired-of-ai/). [hn](https://news.ycombinator.com/item?id=41667652)
+
 

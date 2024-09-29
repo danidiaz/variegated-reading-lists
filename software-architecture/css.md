@@ -740,3 +740,7 @@ https://twitter.com/tailwindcss
 [tailwind alternative to conditional classes](https://x.com/adamwathan/status/1838938627289583764)
 
 >  instead of conditionally adding classes, conditionally set a data attribute and use the `data-*` variant to add styles
+
+[display: contents](https://x.com/awesomekling/status/1840297086949916962)
+
+

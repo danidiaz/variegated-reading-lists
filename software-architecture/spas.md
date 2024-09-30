@@ -507,6 +507,8 @@
 
 [web components are not the future](https://lobste.rs/s/1jj1er/web_components_are_not_future)
 
+[REST API design pitfalls](https://speakerdeck.com/victorrentea/rest-api-design-pitfalls)
+
 
 
 

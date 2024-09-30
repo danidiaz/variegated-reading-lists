@@ -451,4 +451,6 @@ Essential reading! Covers:
 
 [Static-ls v1.0 announcement](https://www.reddit.com/r/haskell/comments/1fqs6r8/staticls_v10_announcement_mercury/)
 
+[Hell](https://discourse.haskell.org/t/hell-shell-scripting-in-haskell-based-language/8339/7)
+
 

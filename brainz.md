@@ -580,6 +580,8 @@ Things for which I found ChatGPT useful:
 
 [experience with Cursor](https://x.com/SebAaltonen/status/1840347984094994658)
 
-[creepy](https://hachyderm.io/@simon@simonwillison.net/113223718312619516). [recursion](https://fedi.simonwillison.net/@simon/113224231076888065).
+[creepy](https://hachyderm.io/@simon@simonwillison.net/113223718312619516). [recursion](https://fedi.simonwillison.net/@simon/113224231076888065). [fried rice](https://hachyderm.io/@simon@simonwillison.net/113228023656225911)
+
+
 
 

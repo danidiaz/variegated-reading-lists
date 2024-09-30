@@ -127,6 +127,8 @@
 
 [web components. yay or nay?](https://x.com/JLarky/status/1830283524760621456). [reddit](https://www.reddit.com/r/reactjs/comments/1fjhxte/are_you_using_web_componentsor_have_you_given_up/).
 
+[web components are ok](https://nolanlawson.com/2024/09/28/web-components-are-okay/). [hn](https://news.ycombinator.com/item?id=41686722).
+
 
 
 

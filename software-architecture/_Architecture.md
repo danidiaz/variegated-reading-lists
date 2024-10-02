@@ -1619,5 +1619,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [information leakage](https://x.com/housecor/status/1838201460250575330).
 
+[decoupling in depth](https://explaining.software/archive/decoupling-in-depth/)
+
 
 

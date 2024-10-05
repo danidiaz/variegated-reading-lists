@@ -34,6 +34,6 @@ On HN: https://news.ycombinator.com/item?id=18163470 https://news.ycombinator.co
 
 [TLA⁺ is more than a DSL for breadth-first search](https://lobste.rs/s/zl0e71/tla_is_more_than_dsl_for_breadth_first)
 
-
+[Why I use TLA+ and not(TLA+): Episode 1](https://protocols-made-fun.com/specification/modelchecking/tlaplus/quint/2024/10/05/tla-and-not-tla.html)
 
 

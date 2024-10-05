@@ -582,6 +582,11 @@ Things for which I found ChatGPT useful:
 
 [creepy](https://hachyderm.io/@simon@simonwillison.net/113223718312619516). [recursion](https://fedi.simonwillison.net/@simon/113224231076888065). [fried rice](https://hachyderm.io/@simon@simonwillison.net/113228023656225911)
 
+[Rhetoric as Codec: Machine Learning and the Facilitation of Reading and Writing](https://hannesbajohr.de/en/2024/10/03/rhetoric-as-codec-machine-learning-and-the-facilitation-of-reading-and-writing-with-an-aside-about-surfing-and-riding/)
+
+[meta movie gen](https://x.com/Andrew__Brown__/status/1842262328617672725)
+
+[partner to converse](https://x.com/_xjdr/status/1842329162402648338)
 
 
 

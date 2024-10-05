@@ -330,5 +330,7 @@
 
 [when it comes to code reviews](https://x.com/gunnarmorling/status/1835550691043017013)
 
+[discourse](https://x.com/welltypedwitch/status/1842148369323450600)
+
 
 

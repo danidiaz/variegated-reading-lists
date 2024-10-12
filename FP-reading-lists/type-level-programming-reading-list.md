@@ -457,4 +457,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Tagged Union Subsets with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-tagged-union-subset)
 
+[Newtypes Are Better Than Abstract Type Synonyms](https://prophetlabs.de/posts/newtypes.html)
+
 

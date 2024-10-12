@@ -475,4 +475,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Java and what else](https://x.com/NiestrojRobert/status/1836666981375738268)
 
+[Event-driven architecture on the modern stack of Java technologies](https://www.reddit.com/r/java/comments/1g1vln7/eventdriven_architecture_on_the_modern_stack_of/)
+
 

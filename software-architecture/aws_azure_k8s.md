@@ -836,4 +836,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [When are read replicas preferable over ElastiCache for RDS?](https://www.reddit.com/r/aws/comments/1fpqtw6/when_are_read_replicas_preferable_over/)
 
+[S3: The greatest AWS service ever, is not a Live Media Origin](https://www.gomomento.com/blog/s3-the-greatest-aws-service-ever-is-not-a-live-media-origin/)
+
 

@@ -594,5 +594,5 @@ Things for which I found ChatGPT useful:
 
 > The way you add order awareness in a Transformer is at the *feature* level. You literally add to your token embeddings a position embedding / encoding that corresponds to its place in a sequence. The architecture itself just treats the input tokens as a set.
 
-
+[scrapping gmail to json](https://x.com/simonw/status/1846300324392571107)
 

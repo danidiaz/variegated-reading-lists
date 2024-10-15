@@ -588,5 +588,11 @@ Things for which I found ChatGPT useful:
 
 [partner to converse](https://x.com/_xjdr/status/1842329162402648338)
 
+[They're a *set-processing* architecture](https://x.com/fchollet/status/1846263128801378616)
+
+> Transformers are 100% order-agnostic (which was the big innovation compared to RNNs, back in late 2016 -- you compute the full matrix of pairwise token interactions instead of processing one token at a time)
+
+> The way you add order awareness in a Transformer is at the *feature* level. You literally add to your token embeddings a position embedding / encoding that corresponds to its place in a sequence. The architecture itself just treats the input tokens as a set.
+
 
 

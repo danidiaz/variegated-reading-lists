@@ -596,3 +596,6 @@ Things for which I found ChatGPT useful:
 
 [scrapping gmail to json](https://x.com/simonw/status/1846300324392571107)
 
+[giving notes to the hosts](https://x.com/raiza_abubakar/status/1846944566689353838)
+
+

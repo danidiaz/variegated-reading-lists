@@ -541,6 +541,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [Acyclic Egraphs and Smart Constructors](https://www.philipzucker.com/smart_constructor_aegraph/)
 
+[Towards an AC Egraph: Groebner, Graver and Ground Multiset Rewriting](https://www.philipzucker.com/multiset_rw/)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

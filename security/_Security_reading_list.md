@@ -854,4 +854,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Visual guide to SSH tunneling and port forwarding ](https://news.ycombinator.com/item?id=41596818)
 
+[Attacking APIs using JSON Injection](https://danaepp.com/attacking-apis-using-json-injection)
+
 

@@ -988,4 +988,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [control structures](https://xavierleroy.org/CdF/2023-2024/)
 
+[intensional functions](https://dl.acm.org/doi/abs/10.1145/3689714)
+
 

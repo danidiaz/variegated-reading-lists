@@ -598,4 +598,8 @@ Things for which I found ChatGPT useful:
 
 [giving notes to the hosts](https://x.com/raiza_abubakar/status/1846944566689353838)
 
+[RAG with SpringAI](https://x.com/sergialmar/status/1847232223121957099)
+
+[temperature, top_p and top_k](https://x.com/simonw/status/1847513454825132337)
+
 

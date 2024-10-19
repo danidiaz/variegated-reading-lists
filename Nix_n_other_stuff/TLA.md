@@ -36,4 +36,6 @@ On HN: https://news.ycombinator.com/item?id=18163470 https://news.ycombinator.co
 
 [Why I use TLA+ and not(TLA+): Episode 1](https://protocols-made-fun.com/specification/modelchecking/tlaplus/quint/2024/10/05/tla-and-not-tla.html)
 
+[Designing software with complex configurations](https://www.youtube.com/watch?v=2i-SLPv7giQ)
+
 

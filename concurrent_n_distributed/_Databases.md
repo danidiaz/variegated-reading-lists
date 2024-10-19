@@ -980,6 +980,10 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [The Apache Iceberg post on change query support (including CDC) is out. Delta is next.](https://x.com/vanlightly/status/1838213596813107482)
 
+[The Doctor's On-Call Shift example and a Normalized Relational Schema to Avoid Write Skew](https://dev.to/yugabyte/the-doctors-on-call-shift-example-in-a-normalized-relational-schema-to-avoid-write-skew-4hhf)
+
+> Two possibilities to avoid write-skew anomalies are serializable isolation level (with implicit range locks) and read committed (with explicit locking). Both are scalable if the SQL schema is normalized 
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

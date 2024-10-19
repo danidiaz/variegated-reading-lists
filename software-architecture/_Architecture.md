@@ -1621,5 +1621,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [decoupling in depth](https://explaining.software/archive/decoupling-in-depth/)
 
+[Hot takes in Hibernate Data Repository documentation](https://x.com/maciejwalkowiak/status/1847616310911381639)
 
 

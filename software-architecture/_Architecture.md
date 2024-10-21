@@ -1623,6 +1623,10 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Hot takes in Hibernate Data Repository documentation](https://x.com/maciejwalkowiak/status/1847616310911381639)
 
-[What are DDD aggregates?](https://www.jamesmichaelhickey.com/domain-driven-design-aggregates/)
+[What are DDD aggregates?](https://www.jamesmichaelhickey.com/domain-driven-design-aggregates/). [2](https://www.jamesmichaelhickey.com/how-do-i-persist-ddd-aggregates/)
+
+> data duplication vs. conceptual duplication.
+
+
 
 

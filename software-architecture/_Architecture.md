@@ -1623,4 +1623,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Hot takes in Hibernate Data Repository documentation](https://x.com/maciejwalkowiak/status/1847616310911381639)
 
+[What are DDD aggregates?](https://www.jamesmichaelhickey.com/domain-driven-design-aggregates/)
+
 

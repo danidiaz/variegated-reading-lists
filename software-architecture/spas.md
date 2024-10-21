@@ -509,6 +509,8 @@
 
 [REST API design pitfalls](https://speakerdeck.com/victorrentea/rest-api-design-pitfalls)
 
+[fast site](https://x.com/ethanniser/status/1848442717925171658)
+
 
 
 

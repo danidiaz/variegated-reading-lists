@@ -602,4 +602,8 @@ Things for which I found ChatGPT useful:
 
 [temperature, top_p and top_k](https://x.com/simonw/status/1847513454825132337)
 
+[plateauing or not?](https://x.com/emollick/status/1848410341778035030)
+
+[mini-apps with Claude Artifacts](https://x.com/simonw/status/1848372319548240371)
+
 

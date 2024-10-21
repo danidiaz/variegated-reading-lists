@@ -838,4 +838,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [S3: The greatest AWS service ever, is not a Live Media Origin](https://www.gomomento.com/blog/s3-the-greatest-aws-service-ever-is-not-a-live-media-origin/)
 
+[Splitting SQS Queues to Concurrently Develop on your Staging Environment](https://www.reddit.com/r/aws/comments/1g8tef3/splitting_sqs_queues_to_concurrently_develop_on/)
+
 

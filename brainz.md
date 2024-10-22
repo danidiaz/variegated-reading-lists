@@ -610,14 +610,5 @@ Things for which I found ChatGPT useful:
 
 [Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 
-[Managing Asynchronous Workflows with a REST API](https://aws.amazon.com/es/blogs/architecture/managing-asynchronous-workflows-with-a-rest-api/). [Asynchronous Request-Reply pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/async-request-reply). [Perform long-running tasks with the webhook action pattern](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-create-api-app#perform-long-running-tasks-with-the-webhook-action-pattern). [Webhooks and Callbacks in WireMock](https://wiremock.org/docs/webhooks-and-callbacks/).
-
-> WireMock can make asynchronous outbound HTTP calls when an incoming request is matched to a specific stub. This pattern is commonly referred to as webhooks or callbacks and is a common design in APIs that need to proactively notify their clients of events or perform long-running processing asynchronously without blocking.
-
-
-
-
-
-
-
 > A concise overview of building a ChatGPT-like model, covering both pretraining (language modeling) and post-training (SFT/RLHF).
+

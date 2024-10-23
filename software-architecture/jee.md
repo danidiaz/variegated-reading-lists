@@ -477,4 +477,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Event-driven architecture on the modern stack of Java technologies](https://www.reddit.com/r/java/comments/1g1vln7/eventdriven_architecture_on_the_modern_stack_of/)
 
+[A Sneak Peek at StableValue and SegmentMapper](https://www.reddit.com/r/java/comments/1ga9e0v/a_sneak_peek_at_stablevalue_and_segmentmapper/)
+
 

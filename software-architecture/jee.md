@@ -479,4 +479,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [A Sneak Peek at StableValue and SegmentMapper](https://www.reddit.com/r/java/comments/1ga9e0v/a_sneak_peek_at_stablevalue_and_segmentmapper/)
 
+[Hibernate 6](https://docs.jboss.org/hibernate/orm/6.6/introduction/html_single/Hibernate_Introduction.html)
+
 

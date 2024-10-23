@@ -1623,23 +1623,13 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Hot takes in Hibernate Data Repository documentation](https://x.com/maciejwalkowiak/status/1847616310911381639)
 
-[What are DDD aggregates?](https://www.jamesmichaelhickey.com/domain-driven-design-aggregates/). [2](https://www.jamesmichaelhickey.com/how-do-i-persist-ddd-aggregates/)
+[What are DDD aggregates?](https://www.jamesmichaelhickey.com/domain-driven-design-aggregates/). [2](https://www.jamesmichaelhickey.com/how-do-i-persist-ddd-aggregates/). [more aggregate drama](https://x.com/maciejwalkowiak/status/1849037884801646641). [aggregate design rules](https://x.com/maciejwalkowiak/status/1848788458350784974). [new hibernate guide](https://x.com/maciejwalkowiak/status/1849065038490783844).
 
 > data duplication vs. conceptual duplication.
 
-[Managing Asynchronous Workflows with a REST API](https://aws.amazon.com/es/blogs/architecture/managing-asynchronous-workflows-with-a-rest-api/). [Asynchronous Request-Reply pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/async-request-reply). [Perform long-running tasks with the webhook action pattern](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-create-api-app#perform-long-running-tasks-with-the-webhook-action-pattern). [Webhooks and Callbacks in WireMock](https://wiremock.org/docs/webhooks-and-callbacks/). [Why You Should Stop Processing Your Webhooks Synchronously](https://hookdeck.com/webhooks/guides/why-you-should-stop-processing-your-webhooks-synchronously). [Asynchronous Batch Job Webhook](https://docs.onfleet.com/reference/asynchronous-batch-job-webhook)
+[Managing Asynchronous Workflows with a REST API](https://aws.amazon.com/es/blogs/architecture/managing-asynchronous-workflows-with-a-rest-api/). [Asynchronous Request-Reply pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/async-request-reply). [Perform long-running tasks with the webhook action pattern](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-create-api-app#perform-long-running-tasks-with-the-webhook-action-pattern). [Webhooks and Callbacks in WireMock](https://wiremock.org/docs/webhooks-and-callbacks/). [Why You Should Stop Processing Your Webhooks Synchronously](https://hookdeck.com/webhooks/guides/why-you-should-stop-processing-your-webhooks-synchronously). [Asynchronous Batch Job Webhook](https://docs.onfleet.com/reference/asynchronous-batch-job-webhook). [How an Asynchronous Approach to Managing Webhooks Mitigates Scalability Concerns](https://hookdeck.com/webhooks/guides/how-an-asynchronous-approach-mitigates-scalability-concerns)
 
 > This webhook is intended to be used with the Create tasks in batch - async to automatically respond when all the Tasks in the batch are processed by the backend. Instead of having to check back on whether or not the Batch Job Status is completed. This webhook will update automatically once the job is completed.
 
-
-
 > WireMock can make asynchronous outbound HTTP calls when an incoming request is matched to a specific stub. This pattern is commonly referred to as webhooks or callbacks and is a common design in APIs that need to proactively notify their clients of events or perform long-running processing asynchronously without blocking.
-
-
-
-
-
-
-
-
 

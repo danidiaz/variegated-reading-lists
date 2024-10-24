@@ -612,3 +612,6 @@ Things for which I found ChatGPT useful:
 
 > A concise overview of building a ChatGPT-like model, covering both pretraining (language modeling) and post-training (SFT/RLHF).
 
+[Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
+
+

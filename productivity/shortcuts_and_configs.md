@@ -710,7 +710,7 @@ VSCode simple config for recordings:
 
 [youtube shorts links](https://www.reddit.com/r/PartneredYoutube/comments/15q25f8/exciting_update_on_youtube_shorts_now_you_can/). [more](https://www.youtube.com/watch?v=IyOv7Yhxaaw). [more](https://www.youtube.com/watch?v=rffQb5N8c7s).
 
-
+[btop for process inspection](https://x.com/thorstenball/status/1849800830809145479)
 
 
 

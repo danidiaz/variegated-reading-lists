@@ -134,4 +134,6 @@
 
 [Squeeze the hell out of the system you have](https://news.ycombinator.com/item?id=37091983)
 
+[lambdas vs. cloudflare workers](https://x.com/RozenMD/status/1849687818437538198)
+
 

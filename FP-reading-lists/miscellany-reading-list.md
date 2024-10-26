@@ -994,5 +994,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [problems with defer](https://x.com/pcwalton/status/1847174986878095848)
 
+[performance fallacies](https://x.com/bhurt42/status/1849489592140923367)
+
 
 

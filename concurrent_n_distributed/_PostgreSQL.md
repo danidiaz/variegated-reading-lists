@@ -461,4 +461,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [PostgreSQL: Documentation: 16: 7.2. Table Expressions](https://www.postgresql.org/docs/current/queries-table-expressions.html)
 
+[request-reply in postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
+
 

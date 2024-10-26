@@ -614,4 +614,6 @@ Things for which I found ChatGPT useful:
 
 [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
 
+[generative games](https://x.com/natanielruizg/status/1849807021131874583)
+
 

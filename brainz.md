@@ -628,4 +628,6 @@ Things for which I found ChatGPT useful:
 
 [Copilot's new multi-file edits with @AnthropicAI 's Claude 3.5 Sonnet ](https://x.com/ashtom/status/1851316495336554663)
 
+[github spark](https://x.com/ashtom/status/1851333075374051725)
+
 

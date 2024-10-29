@@ -626,4 +626,6 @@ Things for which I found ChatGPT useful:
 > conversational flow of Copilot Chat and fast feedback from Inline Chat
 > together in one experience.
 
+[Copilot's new multi-file edits with @AnthropicAI 's Claude 3.5 Sonnet ](https://x.com/ashtom/status/1851316495336554663)
+
 

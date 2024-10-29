@@ -616,4 +616,14 @@ Things for which I found ChatGPT useful:
 
 [generative games](https://x.com/natanielruizg/status/1849807021131874583)
 
+[XML vs JSON mixup](https://x.com/headinthebox/status/1851053618579063022)
+
+[Unlock GitHub Copilot’s Full Potential](https://www.youtube.com/watch?v=SLMfhuptCo8). 
+
+[copilot edits](https://x.com/code/status/1851336106588950817).
+
+> Quickly iterate on large changes across multiple files, bringing the
+> conversational flow of Copilot Chat and fast feedback from Inline Chat
+> together in one experience.
+
 

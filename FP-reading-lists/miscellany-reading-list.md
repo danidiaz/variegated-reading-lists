@@ -996,5 +996,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [performance fallacies](https://x.com/bhurt42/status/1849489592140923367)
 
+[Going REPLing with Haskeline](https://abhinavsarkar.net/posts/repling-with-haskeline/)
+
 
 

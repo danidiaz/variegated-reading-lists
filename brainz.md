@@ -632,7 +632,7 @@ Things for which I found ChatGPT useful:
 
 [Embeddings are underrated ](https://news.ycombinator.com/item?id=42013762)
 
-[Oasis: A Universe in a Transformer ](https://news.ycombinator.com/item?id=42014650).
+[Oasis: A Universe in a Transformer ](https://news.ycombinator.com/item?id=42014650). [tweet](https://x.com/mtrc/status/1852322790679965890).
 
 [   What I've learned building with AI ](https://news.ycombinator.com/item?id=42008005)
 

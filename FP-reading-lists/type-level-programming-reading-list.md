@@ -459,4 +459,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Newtypes Are Better Than Abstract Type Synonyms](https://prophetlabs.de/posts/newtypes.html)
 
+[The Universe Design Pattern](https://lean-lang.org/functional_programming_in_lean/dependent-types/universe-pattern.html)
+
 

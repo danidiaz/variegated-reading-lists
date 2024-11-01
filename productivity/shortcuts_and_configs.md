@@ -712,5 +712,7 @@ VSCode simple config for recordings:
 
 [btop for process inspection](https://x.com/thorstenball/status/1849800830809145479)
 
+[Bluesky blocks are public](https://blueskyweb.zendesk.com/hc/en-us/articles/15835264007693-Data-Privacy)
+
 
 

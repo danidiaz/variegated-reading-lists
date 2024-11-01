@@ -630,4 +630,12 @@ Things for which I found ChatGPT useful:
 
 [github spark](https://x.com/ashtom/status/1851333075374051725)
 
+[Embeddings are underrated ](https://news.ycombinator.com/item?id=42013762)
+
+[Oasis: A Universe in a Transformer ](https://news.ycombinator.com/item?id=42014650).
+
+[   What I've learned building with AI ](https://news.ycombinator.com/item?id=42008005)
+
+[   ChatGPT Search](https://news.ycombinator.com/item?id=42008569)
+
 

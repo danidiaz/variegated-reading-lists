@@ -75,6 +75,8 @@
 
 [Money-Laundering Practices in the Online Scam Industry](https://news.ycombinator.com/item?id=41669934)
 
+[Such is life insurance](https://theunravel.com.au/such-is-life-insurance)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

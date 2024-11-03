@@ -642,4 +642,6 @@ Things for which I found ChatGPT useful:
 
 [ how to create prompts that create prompts](https://x.com/emollick/status/1852842990655455522)
 
+["do not hallucinate" doesn't work](https://x.com/GaryMarcus/status/1852500409572794816)
+
 

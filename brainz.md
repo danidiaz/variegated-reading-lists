@@ -636,6 +636,8 @@ Things for which I found ChatGPT useful:
 
 [   What I've learned building with AI ](https://news.ycombinator.com/item?id=42008005)
 
-[   ChatGPT Search](https://news.ycombinator.com/item?id=42008569)
+[   ChatGPT Search](https://news.ycombinator.com/item?id=42008569). [but why](https://x.com/biblioracle/status/1852369013914870060).
+
+[overfitting on small data sets](https://x.com/milos_ai/status/1852404429720330741)
 
 

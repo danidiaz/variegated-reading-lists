@@ -463,4 +463,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [request-reply in postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
 
+[test all schema changes on full-size (dozens of TiB) thin Postgres clones provisioned in seconds](https://x.com/samokhvalov/status/1852544339857277010)
+
 

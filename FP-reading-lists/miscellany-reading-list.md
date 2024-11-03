@@ -998,4 +998,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Going REPLing with Haskeline](https://abhinavsarkar.net/posts/repling-with-haskeline/)
 
+[1brc](https://www.infoq.com/presentations/1brc/)
+
 

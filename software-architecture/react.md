@@ -1127,4 +1127,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [[r/reactjs] Best way to handle large-scale library updates/migrations?](https://www.reddit.com/r/reactjs/comments/1fpcy8t/best_way_to_handle_largescale_library/)
 
+[React Query API Design - Lessons Learned](https://es.pornhub.com/view_video.php?viewkey=64221b4b46bcb)
+
 

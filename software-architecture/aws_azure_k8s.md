@@ -840,4 +840,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Splitting SQS Queues to Concurrently Develop on your Staging Environment](https://www.reddit.com/r/aws/comments/1g8tef3/splitting_sqs_queues_to_concurrently_develop_on/)
 
+[Pop an SQS queue in between, set its MaxConcurrency to 2](https://x.com/donkersgood/status/1852625182801666190)
+
 

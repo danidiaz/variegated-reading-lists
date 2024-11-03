@@ -640,4 +640,6 @@ Things for which I found ChatGPT useful:
 
 [overfitting on small data sets](https://x.com/milos_ai/status/1852404429720330741)
 
+[ how to create prompts that create prompts](https://x.com/emollick/status/1852842990655455522)
+
 

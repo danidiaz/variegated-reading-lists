@@ -644,4 +644,6 @@ Things for which I found ChatGPT useful:
 
 ["do not hallucinate" doesn't work](https://x.com/GaryMarcus/status/1852500409572794816)
 
+[the advantage of having evaluations](https://x.com/simonw/status/1853526689734852693)
+
 

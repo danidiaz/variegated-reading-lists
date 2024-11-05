@@ -1633,3 +1633,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > WireMock can make asynchronous outbound HTTP calls when an incoming request is matched to a specific stub. This pattern is commonly referred to as webhooks or callbacks and is a common design in APIs that need to proactively notify their clients of events or perform long-running processing asynchronously without blocking.
 
+[against early returns](https://x.com/ryanjfleury/status/1850237108008648864). [more](https://x.com/RyanCarniato/status/1853533477981016305).
+
+

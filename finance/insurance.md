@@ -77,6 +77,8 @@
 
 [Such is life insurance](https://theunravel.com.au/such-is-life-insurance)
 
+[focus on reinsurance](https://insurancelibrary.org/2021/08/09/reinsurance/)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

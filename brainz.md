@@ -646,4 +646,6 @@ Things for which I found ChatGPT useful:
 
 [the advantage of having evaluations](https://x.com/simonw/status/1853526689734852693)
 
+[prompt patterns](https://x.com/headinthebox/status/1854267151894630630)
+
 

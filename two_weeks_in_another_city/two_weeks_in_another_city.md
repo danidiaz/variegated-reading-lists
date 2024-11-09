@@ -829,6 +829,8 @@ Bernini, his life and his Rome
 
 [against worldbuilding](https://x.com/TheLincoln/status/1828525753417269278)
 
+["you need to look away in order for the universe to hold together"](https://www.youtube.com/watch?v=W-mBGhzF_jU&t=447s)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

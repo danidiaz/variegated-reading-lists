@@ -714,5 +714,9 @@ VSCode simple config for recordings:
 
 [Bluesky blocks are public](https://blueskyweb.zendesk.com/hc/en-us/articles/15835264007693-Data-Privacy)
 
+[macos cmd utilities](https://weiyen.net/articles/useful-macos-cmd-line-utilities)
+
+[MacBook Pro M4 Max (14-inch, 2024) Setup Guide](https://github.com/danvega/new-macbook-setup/blob/master/2024/README.md)
+
 
 

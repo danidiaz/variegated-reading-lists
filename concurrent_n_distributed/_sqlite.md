@@ -81,4 +81,7 @@
 
 [one sqlite database per user](https://x.com/iavins/status/1850036886938497410)
 
+[PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
+
+
 

@@ -984,6 +984,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 > Two possibilities to avoid write-skew anomalies are serializable isolation level (with implicit range locks) and read committed (with explicit locking). Both are scalable if the SQL schema is normalized 
 
+[2NF: The Missing Use Case](https://datademythed.com/posts/2nf_missing_use_case/)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

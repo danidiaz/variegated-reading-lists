@@ -465,4 +465,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [test all schema changes on full-size (dozens of TiB) thin Postgres clones provisioned in seconds](https://x.com/samokhvalov/status/1852544339857277010)
 
+[What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres). [lobsters](https://lobste.rs/s/zgtiib/what_i_wish_someone_told_me_about_postgres).
+
 

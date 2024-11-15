@@ -1129,4 +1129,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [React Query API Design - Lessons Learned](https://es.pornhub.com/view_video.php?viewkey=64221b4b46bcb)
 
+[tanstack Router example](https://x.com/gfox1984/status/1857384247822041400)
+
 

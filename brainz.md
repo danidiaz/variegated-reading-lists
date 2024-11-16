@@ -648,4 +648,8 @@ Things for which I found ChatGPT useful:
 
 [prompt patterns](https://x.com/headinthebox/status/1854267151894630630)
 
+[NuExtract 1.5](https://simonwillison.net/2024/Nov/16/nuextract-15/)
+
+> Structured extraction - where an LLM helps turn unstructured text (or image content) into structured data - remains one of the most directly useful applications of LLMs.
+
 

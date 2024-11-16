@@ -743,4 +743,6 @@ https://twitter.com/tailwindcss
 
 [display: contents](https://x.com/awesomekling/status/1840297086949916962)
 
+[Use CSS :has() and :is() to create layouts based on contents.](https://x.com/wesbos/status/1857507809337729447)
+
 

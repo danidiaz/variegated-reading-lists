@@ -1635,4 +1635,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [against early returns](https://x.com/ryanjfleury/status/1850237108008648864). [more](https://x.com/RyanCarniato/status/1853533477981016305).
 
+[Revisiting the Outbox Pattern](https://www.decodable.co/blog/revisiting-the-outbox-pattern)
+
 

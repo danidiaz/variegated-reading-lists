@@ -511,6 +511,6 @@
 
 [fast site](https://x.com/ethanniser/status/1848442717925171658)
 
-
+[You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths](https://htmx.org/essays/you-cant/). [HN](https://news.ycombinator.com/item?id=42164154).
 
 

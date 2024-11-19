@@ -1000,4 +1000,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [1brc](https://www.infoq.com/presentations/1brc/)
 
+[the Collapse monad](https://www.reddit.com/r/haskell/comments/1gu476s/the_collapse_monad/)
+
 

@@ -455,6 +455,7 @@ Essential reading! Covers:
 
 [ghc wasm TH ghci](https://www.tweag.io/blog/2024-11-21-ghc-wasm-th-ghci/). [previous explanation of cross-compilation issues](https://www.tweag.io/blog/2020-11-25-asterius-th/). [the external interpreter](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/compiler/external-interpreter). [-fexternal-interpreter](https://downloads.haskell.org/ghc/latest/docs/users_guide/ghci.html#ghc-flag--fexternal-interpreter).
 
-[ghc splices proposal](https://github.com/ghc-proposals/ghc-proposals/pull/682)
+[ghc splices proposal](https://github.com/ghc-proposals/ghc-proposals/pull/682). [why not run splices on the host?](https://github.com/ghc-proposals/ghc-proposals/pull/682#issuecomment-2481123324). [gitlab](https://gitlab.haskell.org/ghc/ghc/-/issues/24339).
+
 
 

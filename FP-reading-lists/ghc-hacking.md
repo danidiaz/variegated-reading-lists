@@ -453,4 +453,8 @@ Essential reading! Covers:
 
 [Hell](https://discourse.haskell.org/t/hell-shell-scripting-in-haskell-based-language/8339/7)
 
+[ghc wasm TH ghci](https://www.tweag.io/blog/2024-11-21-ghc-wasm-th-ghci/). [previous explanation of cross-compilation issues](https://www.tweag.io/blog/2020-11-25-asterius-th/).
+
+[ghc splices proposal](https://github.com/ghc-proposals/ghc-proposals/pull/682)
+
 

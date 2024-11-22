@@ -453,7 +453,7 @@ Essential reading! Covers:
 
 [Hell](https://discourse.haskell.org/t/hell-shell-scripting-in-haskell-based-language/8339/7)
 
-[ghc wasm TH ghci](https://www.tweag.io/blog/2024-11-21-ghc-wasm-th-ghci/). [previous explanation of cross-compilation issues](https://www.tweag.io/blog/2020-11-25-asterius-th/). [the external interpreter](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/compiler/external-interpreter).
+[ghc wasm TH ghci](https://www.tweag.io/blog/2024-11-21-ghc-wasm-th-ghci/). [previous explanation of cross-compilation issues](https://www.tweag.io/blog/2020-11-25-asterius-th/). [the external interpreter](https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/compiler/external-interpreter). [-fexternal-interpreter](https://downloads.haskell.org/ghc/latest/docs/users_guide/ghci.html#ghc-flag--fexternal-interpreter).
 
 [ghc splices proposal](https://github.com/ghc-proposals/ghc-proposals/pull/682)
 

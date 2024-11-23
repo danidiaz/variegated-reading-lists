@@ -842,4 +842,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Pop an SQS queue in between, set its MaxConcurrency to 2](https://x.com/donkersgood/status/1852625182801666190)
 
+[S3 glacier for backups](https://www.reddit.com/r/aws/comments/vxzdk3/does_anyone_use_glacier_to_backup_personal_stuff/)
+
 

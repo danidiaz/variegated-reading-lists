@@ -844,4 +844,5 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [S3 glacier for backups](https://www.reddit.com/r/aws/comments/vxzdk3/does_anyone_use_glacier_to_backup_personal_stuff/)
 
+[appending to S3](https://x.com/rbranson/status/1860118476389777651)
 

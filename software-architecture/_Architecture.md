@@ -1545,7 +1545,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Control Flow—The Other Half of Integration Patterns](https://www.enterpriseintegrationpatterns.com/ramblings/queues_control_flow.html)
 
-[DTOs yet again](https://x.com/VaughnVernon/status/1819004089771975164)
+[DTOs yet again](https://x.com/VaughnVernon/status/1819004089771975164). [and yet again](https://x.com/simas_ch/status/1854176104820445357).
 
 [append-only code?](https://x.com/smarr/status/1821857748570546314)
 

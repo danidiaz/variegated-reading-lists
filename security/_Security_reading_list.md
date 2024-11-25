@@ -856,4 +856,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Attacking APIs using JSON Injection](https://danaepp.com/attacking-apis-using-json-injection)
 
+[Refresh vs. Long-lived Access Tokens](https://grayduck.mn/2023/04/17/refresh-vs-long-lived-access-tokens/)
+
 

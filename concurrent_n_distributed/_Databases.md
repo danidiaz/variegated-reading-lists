@@ -986,6 +986,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [2NF: The Missing Use Case](https://datademythed.com/posts/2nf_missing_use_case/)
 
+[localtime - timestamp without time zone](https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set#c_xjj8ci)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

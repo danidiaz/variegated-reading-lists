@@ -652,4 +652,6 @@ Things for which I found ChatGPT useful:
 
 > Structured extraction - where an LLM helps turn unstructured text (or image content) into structured data - remains one of the most directly useful applications of LLMs.
 
+[Model Context Protocol (MCP)](https://x.com/simonw/status/1861082804228108717)
+
 

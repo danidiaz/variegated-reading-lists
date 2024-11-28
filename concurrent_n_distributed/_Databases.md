@@ -988,6 +988,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [localtime - timestamp without time zone](https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set#c_xjj8ci)
 
+[storing dates for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

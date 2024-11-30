@@ -457,5 +457,12 @@ Essential reading! Covers:
 
 [ghc splices proposal](https://github.com/ghc-proposals/ghc-proposals/pull/682). [why not run splices on the host?](https://github.com/ghc-proposals/ghc-proposals/pull/682#issuecomment-2481123324). [gitlab](https://gitlab.haskell.org/ghc/ghc/-/issues/24339).
 
+[experience with modern TH](https://discourse.haskell.org/t/what-is-your-recent-ghc-9-4-experience-using-template-haskell/9615/4)
+
+[Interface Files with Core Definitions for faster TH](https://well-typed.com/blog/2023/02/interface-files-with-core/)
+
+> Adding Core definitions to interface files makes it possible to defer the choice of backend (between no code, static object code, dynamic object code, bytecode) until more is known about the necessary targets. In particular:
+
+> Cabal pessimises build times by building both static and dynamic objects under the assumption that you will eventually need dynamic objects to run Template Haskell splices. With the Core definitions at hand, we can delay this choice until we know for sure we need to do the work.
 
 

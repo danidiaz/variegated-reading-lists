@@ -654,4 +654,6 @@ Things for which I found ChatGPT useful:
 
 [Model Context Protocol (MCP)](https://x.com/simonw/status/1861082804228108717)
 
+[structured data extraction running on an LLM that executes entirely in the browser](https://simonwillison.net/2024/Nov/29/structured-generation-smollm2-webgpu/). [tweet](https://x.com/simonw/status/1862605223791141362).
+
 

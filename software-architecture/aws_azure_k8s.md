@@ -846,3 +846,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [appending to S3](https://x.com/rbranson/status/1860118476389777651)
 
+[Understand CPU allocation in Amazon ECS](https://repost.aws/knowledge-center/ecs-cpu-allocation)
+
+

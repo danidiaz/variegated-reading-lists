@@ -465,4 +465,8 @@ Essential reading! Covers:
 
 > Cabal pessimises build times by building both static and dynamic objects under the assumption that you will eventually need dynamic objects to run Template Haskell splices. With the Core definitions at hand, we can delay this choice until we know for sure we need to do the work.
 
+> Linking many large object files, which happens once per splice, can be very expensive compared to linking bytecode.
+
+[let-bind more types to save space](https://gitlab.haskell.org/ghc/ghc/-/issues/20264)
+
 

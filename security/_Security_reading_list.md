@@ -858,4 +858,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Refresh vs. Long-lived Access Tokens](https://grayduck.mn/2023/04/17/refresh-vs-long-lived-access-tokens/)
 
+[oauth implementation](https://bsky.app/profile/ed3d.net/post/3lcow4jqhvk2d)
+
 

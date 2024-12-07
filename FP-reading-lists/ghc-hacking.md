@@ -469,4 +469,6 @@ Essential reading! Covers:
 
 [let-bind more types to save space](https://gitlab.haskell.org/ghc/ghc/-/issues/20264)
 
+[debuggable](https://www.well-typed.com/blog/2024/12/debuggable/)
+
 

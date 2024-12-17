@@ -471,4 +471,6 @@ Essential reading! Covers:
 
 [debuggable](https://www.well-typed.com/blog/2024/12/debuggable/)
 
+[Multiple home units and Backpack together](https://gitlab.haskell.org/ghc/ghc/-/issues/20890). [driver: Do not store indefinite backpack instantiations in the EPS](https://gitlab.haskell.org/ghc/ghc/-/merge_requests/13735).
+
 

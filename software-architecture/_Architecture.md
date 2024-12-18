@@ -1637,4 +1637,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Revisiting the Outbox Pattern](https://www.decodable.co/blog/revisiting-the-outbox-pattern)
 
+[Aggregating Change Data Capture Events based on Transactional Boundaries](https://www.decodable.co/blog/aggregating-change-data-capture-events-based-on-transactional-boundaries)
+
 

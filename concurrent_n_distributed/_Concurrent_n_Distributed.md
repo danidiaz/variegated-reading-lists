@@ -809,3 +809,6 @@ https://news.ycombinator.com/item?id=25061901
 
 > What I love about consistency models is that they aren’t treated as correctness models. Instead, they’re weirdness models
 
+[Snapshot Isolation vs Serializability](https://brooker.co.za/blog/2024/12/17/occ-and-isolation.html)
+
+

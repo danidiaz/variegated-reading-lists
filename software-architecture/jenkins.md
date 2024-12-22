@@ -125,4 +125,10 @@
 
 [[r/devops] How Do You Handle Rollbacks in CI/CD Pipelines?](https://www.reddit.com/r/devops/comments/1fnh7qp/how_do_you_handle_rollbacks_in_cicd_pipelines/)
 
+[GH actions: running jobs in a container](https://docs.github.com/en/actions/writing-workflows/choosing-where-your-workflow-runs/running-jobs-in-a-container).
+
+> Use jobs.<job_id>.container to create a container to run any steps in a job that don't already specify a container. If you have steps that use both script and container actions, the container actions will run as sibling containers on the same network with the same volume mounts.
+
+> If you do not set a container, all steps will run directly on the host specified by runs-on unless a step refers to an action configured to run in a container.
+
 

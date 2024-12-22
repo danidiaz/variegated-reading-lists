@@ -20,4 +20,6 @@
 
 [Overview of cross-architecture portability problems](https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/). [hn](https://news.ycombinator.com/item?id=41624510).
 
+[What is the relation between Linux kernel and GNU C library?](https://stackoverflow.com/questions/59737199/what-is-the-relation-between-linux-kernel-and-gnu-c-library)
+
 

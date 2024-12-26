@@ -473,4 +473,6 @@ Essential reading! Covers:
 
 [Multiple home units and Backpack together](https://gitlab.haskell.org/ghc/ghc/-/issues/20890). [driver: Do not store indefinite backpack instantiations in the EPS](https://gitlab.haskell.org/ghc/ghc/-/merge_requests/13735).
 
+doctests: semember that the command can have a --build-depends argument.
+
 

@@ -718,5 +718,7 @@ VSCode simple config for recordings:
 
 [MacBook Pro M4 Max (14-inch, 2024) Setup Guide](https://github.com/danvega/new-macbook-setup/blob/master/2024/README.md)
 
+[Jujutsu Megamerges and jj absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
+
 
 

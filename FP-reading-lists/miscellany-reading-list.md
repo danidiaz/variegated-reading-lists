@@ -1002,4 +1002,10 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [the Collapse monad](https://www.reddit.com/r/haskell/comments/1gu476s/the_collapse_monad/)
 
+[Is flip a code smell?](https://www.reddit.com/r/haskell/comments/16diti/is_flip_a_code_smell/)
+
+>  there is one annoyance here: record accessors are routinely used as the shortcut to define functions like runReader or runState, which I believe then end up with the wrong argument order,
+
+>  the "heavy" argument to any function "wants" to be the last one
+
 

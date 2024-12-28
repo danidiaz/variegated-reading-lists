@@ -720,5 +720,7 @@ VSCode simple config for recordings:
 
 [Jujutsu Megamerges and jj absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
 
+[What's like OSX's pbcopy for Linux](https://superuser.com/questions/288320/whats-like-osxs-pbcopy-for-linux#_=_)
+
 
 

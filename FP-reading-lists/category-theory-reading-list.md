@@ -1088,4 +1088,6 @@ deals with its own properties.
 
 [Fix fidgeting](https://x.com/Iceland_jack/status/1837032560016138279)
 
+[Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
+
 

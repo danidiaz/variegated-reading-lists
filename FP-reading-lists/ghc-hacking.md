@@ -484,4 +484,9 @@ cabal haddock --haddock-for-hackage --haddock-hyperlink-source --haddock-quickju
 cabal upload -d --publish /home/danidiaz/cauldron/dist-newstyle/cauldron-0.6.1.0-docs.tar.gz
 ```
 
+Oromolu
+
+```
+ormolu --mode inplace $(git ls-files '*.hs')
+```
 

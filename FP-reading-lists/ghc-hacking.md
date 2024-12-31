@@ -477,4 +477,11 @@ doctests: semember that the command can have a --build-depends argument.
 
 [Exported for tests only: Precise control over API visibility with custom warnings](https://www.reddit.com/r/haskell/comments/1hqdpu3/exported_for_tests_only_precise_control_over_api/)
 
+[Uploading](https://hackage.haskell.org/upload) Haddocks manually:
+
+```
+cabal haddock --haddock-for-hackage --haddock-hyperlink-source --haddock-quickjump --enable-documentation    
+cabal upload -d --publish /home/danidiaz/cauldron/dist-newstyle/cauldron-0.6.1.0-docs.tar.gz
+```
+
 

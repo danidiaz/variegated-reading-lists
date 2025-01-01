@@ -658,4 +658,8 @@ Things for which I found ChatGPT useful:
 
 [second thoughts](https://simonwillison.net/2024/Nov/29/llm-flowbreaking/)
 
+[Things we learned about LLMs in 2024](https://news.ycombinator.com/item?id=42560558)
+
+> Drop your files in the context window; ask very precise questions explaining the background. They work great to explore what is at the borders of your knowledge.
+
 

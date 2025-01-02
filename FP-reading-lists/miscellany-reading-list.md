@@ -1008,4 +1008,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 >  the "heavy" argument to any function "wants" to be the last one
 
+[awesome-dataframes](https://github.com/jcmkk3/awesome-dataframes)
+
 

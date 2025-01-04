@@ -722,5 +722,7 @@ VSCode simple config for recordings:
 
 [What's like OSX's pbcopy for Linux](https://superuser.com/questions/288320/whats-like-osxs-pbcopy-for-linux#_=_)
 
+[Developing inside a virtual machine](https://news.ycombinator.com/item?id=42541508)
+
 
 

@@ -22,4 +22,6 @@
 
 [What is the relation between Linux kernel and GNU C library?](https://stackoverflow.com/questions/59737199/what-is-the-relation-between-linux-kernel-and-gnu-c-library)
 
+[testing a linker](https://lobste.rs/s/spsw8z/testing_linker)
+
 

@@ -749,5 +749,7 @@ https://twitter.com/tailwindcss
 
 [tailwind z-index](https://x.com/BHolmesDev/status/1861432275482583169). [Designing a Component Library](https://www.youtube.com/watch?v=MrzrSFbxW7M).
 
+[content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/articles/content-visibility)
+
 
 

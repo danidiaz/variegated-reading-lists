@@ -583,5 +583,6 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [Which Interpreters are Faster, AST or Bytecode?](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters/). [hn](https://news.ycombinator.com/item?id=37951343).
 
+[Simple and compositional reification of monadic embedded languages](https://dl.acm.org/doi/10.1145/2544174.2500611)
 
 

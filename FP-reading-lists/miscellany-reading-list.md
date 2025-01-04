@@ -1008,6 +1008,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 >  the "heavy" argument to any function "wants" to be the last one
 
-[awesome-dataframes](https://github.com/jcmkk3/awesome-dataframes)
+[awesome-dataframes](https://github.com/jcmkk3/awesome-dataframes). [DataFrames in Haskell](https://www.reddit.com/r/haskell/comments/1hrdddo/design_dataframes_in_haskell/).
+
+
 
 

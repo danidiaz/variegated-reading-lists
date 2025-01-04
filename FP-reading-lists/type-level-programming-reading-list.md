@@ -461,4 +461,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [The Universe Design Pattern](https://lean-lang.org/functional_programming_in_lean/dependent-types/universe-pattern.html)
 
+[How are types constructed in dependent type theory](https://www.reddit.com/r/haskell/comments/1hswg6q/comment/m5b9nfb/)
+
 

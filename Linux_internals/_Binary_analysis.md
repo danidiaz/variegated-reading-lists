@@ -24,4 +24,6 @@
 
 [testing a linker](https://lobste.rs/s/spsw8z/testing_linker)
 
+[coredumpctl debug](https://hachyderm.io/@laria@duclaria.com/113771971183199080)
+
 

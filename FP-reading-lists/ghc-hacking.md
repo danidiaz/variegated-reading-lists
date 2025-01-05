@@ -490,3 +490,6 @@ Oromolu
 ormolu --mode inplace $(git ls-files '*.hs')
 ```
 
+[running TH decls in ghci](https://www.reddit.com/r/haskell/comments/1hqrafl/comment/m5drvg8/)
+
+

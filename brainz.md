@@ -662,4 +662,8 @@ Things for which I found ChatGPT useful:
 
 > Drop your files in the context window; ask very precise questions explaining the background. They work great to explore what is at the borders of your knowledge.
 
+[How I run LLMs locally](https://lobste.rs/s/kcjd1w/how_i_run_llms_locally)
+
+
+
 

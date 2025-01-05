@@ -492,4 +492,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [running TH decls in ghci](https://www.reddit.com/r/haskell/comments/1hqrafl/comment/m5drvg8/)
 
+[we have build-foldr fusion that can't fuse zip, and stream fusion that can't fuse concatMap](https://discord.com/channels/280033776820813825/280036215477239809/1325576477013708882)
+
+
 

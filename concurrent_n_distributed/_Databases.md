@@ -990,6 +990,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [storing dates for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 
+> It is not forbidden to put a UNIQUE constraint on a FOREIGN KEY if you're modelling a 0-1 relationship, i.e. if there's at most 1 child per parent.
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

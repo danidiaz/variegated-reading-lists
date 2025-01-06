@@ -585,4 +585,6 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [Simple and compositional reification of monadic embedded languages](https://dl.acm.org/doi/10.1145/2544174.2500611)
 
+[YulCat is a symmetric monoidal category (SMC), using linear-smc package 1, one can convert between linear functions and YuLCat:](https://discourse.haskell.org/t/ann-yolc-a-haskell-powered-safe-expressive-fun-language-for-ethereum/11145)
+
 

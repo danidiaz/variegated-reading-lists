@@ -666,6 +666,6 @@ Things for which I found ChatGPT useful:
 
 [Example of searching for info and finding slop](https://www.youtube.com/watch?v=-opBifFfsMY)
 
-
+["How I program with LLMs"](https://news.ycombinator.com/item?id=42617645)
 
 

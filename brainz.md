@@ -664,6 +664,8 @@ Things for which I found ChatGPT useful:
 
 [How I run LLMs locally](https://lobste.rs/s/kcjd1w/how_i_run_llms_locally)
 
+[Example of searching for info and finding slop](https://www.youtube.com/watch?v=-opBifFfsMY)
+
 
 
 

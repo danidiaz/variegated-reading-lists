@@ -831,6 +831,8 @@ Bernini, his life and his Rome
 
 ["you need to look away in order for the universe to hold together"](https://www.youtube.com/watch?v=W-mBGhzF_jU&t=447s)
 
+[Fast travel](https://www.youtube.com/watch?v=hyj6X7EaBsY)
+
 ## Lists & Bibliographies
 
 - [Exploring visual landscapes – Introduction](http://rius.tudelft.nl/article/view/205)

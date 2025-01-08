@@ -668,4 +668,10 @@ Things for which I found ChatGPT useful:
 
 ["How I program with LLMs"](https://news.ycombinator.com/item?id=42617645)
 
+[for spreadsheets](https://www.reddit.com/r/ClaudeAI/s/menuwo11bG)
+
+[chat with codebase in Cursor](https://docs.cursor.com/chat/codebase)
+
+[Github copilot overview](https://code.visualstudio.com/docs/copilot/overview)
+
 

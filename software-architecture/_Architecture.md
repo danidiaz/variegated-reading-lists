@@ -1639,6 +1639,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Aggregating Change Data Capture Events based on Transactional Boundaries](https://www.decodable.co/blog/aggregating-change-data-capture-events-based-on-transactional-boundaries)
 
-[Mistakes engineers make in large established codebases](https://lobste.rs/s/yklx7y/mistakes_engineers_make_large)
+[Mistakes engineers make in large established codebases](https://lobste.rs/s/yklx7y/mistakes_engineers_make_large). [hn](https://news.ycombinator.com/item?id=42627227)
 
 

@@ -1267,5 +1267,7 @@ What! This does work! How to go in the opposite direction?
 
 > an example repo of how to build a fully statically-linked x86-64 Linux #Haskell binary using #Nix
 
+[NixOs and Flakes](https://nixos-and-flakes.thiscute.world/other-usage-of-flakes/inputs)
+
 
 

@@ -1010,6 +1010,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [awesome-dataframes](https://github.com/jcmkk3/awesome-dataframes). [DataFrames in Haskell](https://www.reddit.com/r/haskell/comments/1hrdddo/design_dataframes_in_haskell/).
 
+[Designing Code For Forward Progress](https://lobste.rs/s/o4y0vy/designing_code_for_forward_progress)
+
 
 
 

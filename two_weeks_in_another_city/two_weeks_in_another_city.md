@@ -831,7 +831,7 @@ Bernini, his life and his Rome
 
 ["you need to look away in order for the universe to hold together"](https://www.youtube.com/watch?v=W-mBGhzF_jU&t=447s)
 
-[Fast travel](https://www.youtube.com/watch?v=hyj6X7EaBsY). [NPC reactions](https://www.youtube.com/watch?v=OXdyfCNcahw).
+[Fast travel](https://www.youtube.com/watch?v=hyj6X7EaBsY). [NPC reactions](https://www.youtube.com/watch?v=OXdyfCNcahw). [Wiz War](https://www.youtube.com/watch?v=6Nu6okKdL2M).
 
 ## Lists & Bibliographies
 

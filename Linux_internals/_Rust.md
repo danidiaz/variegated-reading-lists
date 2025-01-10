@@ -196,5 +196,7 @@
 
 [shadcdn yay or nay](https://x.com/phuctm97/status/1835352805483352525)
 
+[flattening ASTs](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
+
 
 

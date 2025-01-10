@@ -724,5 +724,19 @@ VSCode simple config for recordings:
 
 [Developing inside a virtual machine](https://news.ycombinator.com/item?id=42541508)
 
+Back and forward in vscode
+
+```
+{
+  "key": "alt+]",
+  "command": "workbench.action.navigateForward",
+  "when": "canNavigateForward && activeWebviewPanelId != 'GitHub Copilot Suggestions'"
+}
+{
+  "key": "alt+[",
+  "command": "workbench.action.navigateBack",
+  "when": "canNavigateBack && activeWebviewPanelId != 'GitHub Copilot Suggestions'"
+}
+```
 
 

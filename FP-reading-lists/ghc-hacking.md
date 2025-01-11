@@ -494,5 +494,8 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [we have build-foldr fusion that can't fuse zip, and stream fusion that can't fuse concatMap](https://discord.com/channels/280033776820813825/280036215477239809/1325576477013708882)
 
+[naming newtype accessors after the data they hold](https://bsky.app/profile/fullmoon.id/post/3lf6b43fq3c24)
+
+
 
 

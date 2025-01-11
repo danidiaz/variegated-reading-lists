@@ -739,4 +739,6 @@ Back and forward in vscode
 }
 ```
 
+[What's involved in getting a "modern" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/)
+
 

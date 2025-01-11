@@ -589,7 +589,7 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [Shallowly Embedded Functions](https://trendsfp.github.io/abstracts/paper-007.pdf). [Functional programs: conversions between deep and shallow embeddings](https://www.cl.cam.ac.uk/~mom22/itp12-embeddings.pdf)
 
-[hell](https://github.com/chrisdone/hell)
+[hell](https://github.com/chrisdone/hell). [a tour of Hell](https://chrisdone.com/posts/tour-of-hell/)
 
 
 

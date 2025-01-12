@@ -860,4 +860,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [oauth implementation](https://bsky.app/profile/ed3d.net/post/3lcow4jqhvk2d)
 
+[SSH Kill la Killed](https://bsky.app/profile/swiftonsecurity.com/post/3lfifzanxes2g)
+
 

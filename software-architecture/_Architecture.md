@@ -1641,4 +1641,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Mistakes engineers make in large established codebases](https://lobste.rs/s/yklx7y/mistakes_engineers_make_large). [hn](https://news.ycombinator.com/item?id=42627227)
 
+[Commands, Not Queries](https://www.youtube.com/watch?v=xwgnQSoVWy4)
+
 

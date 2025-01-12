@@ -676,4 +676,21 @@ Things for which I found ChatGPT useful:
 
 [AI founders will learn The Bitter Lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
 
+Example of Copilot prompt that worked well in the `Copilot Edits` pane:
 
+> In the file PagilaRel8, there are some data type and schema datatypes for interfacing with database tables. I want to fill the file PagilaEsqueleto with analogous definitions. But the ones in PagilaEsqueleto are different, they are in the form of a Template Haskell quasiquoter with a particular syntax. Nevertheless, the definitions in PagilaRel8 are relevant, because the list record field names and the database table and column names that we want to use (these in the schema definitions).
+
+> There are a few definitions that have already been added to the PagilaEsqueleto file: author, address, city. You can guide yourself by these in order to translate the rest. Good luck!
+
+Another one:
+
+> In the PagilaEsqueleto file, I have a bunch of Esqueleto entity definitions
+> in a quasiquotes. Entities like author, address, city. 
+
+> I also have query definitions for some of these entities. Like
+> "selectSomeActors" for actor, "selectSomeAddresses", "selectSomeCategories"
+> and "selectSomeCities" for other entities.
+
+> But there are still a lot of entities without a sample query. Please generate the queries for the missing entities. They all follow the same structure, so it should be easy.
+
+ 

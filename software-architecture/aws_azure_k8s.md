@@ -848,4 +848,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Understand CPU allocation in Amazon ECS](https://repost.aws/knowledge-center/ecs-cpu-allocation)
 
+[CORS in AWS](https://medium.com/@dyavanapellisujal7/understanding-and-configuring-cors-in-aws-s3-with-examples-c9698ad686b3)
+
 

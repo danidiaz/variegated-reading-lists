@@ -992,6 +992,22 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 > It is not forbidden to put a UNIQUE constraint on a FOREIGN KEY if you're modelling a 0-1 relationship, i.e. if there's at most 1 child per parent.
 
+[prepared statements and their surprising performance implications (2020)](https://news.ycombinator.com/item?id=22399425)
+
+[unicode smuggling](https://www.reddit.com/r/Database/comments/z1ib9b/comment/ixbz750/)
+
+[PostgreSQL JDBC Statement Caching](https://vladmihalcea.com/postgresql-jdbc-statement-caching/)
+
+[Hasura caching issue](https://hasura.io/blog/fast-graphql-execution-with-query-caching-prepared-statements#postgresql-prepared-statements)
+
+> Making some query optimization expensive (ie parsing the query in GraphQL, parsing SQL statement, calculating resource with HTTP call) to make it flexible but then caching the results to recognize that even with flexible API any (sanely designed) application will have finite actual queries is oft-recurring pattern in software engineering.
+
+[prepared statements and SQL injection](https://security.stackexchange.com/questions/15214/are-prepared-statements-100-safe-against-sql-injection). [anonymous prepared statements](https://www.reddit.com/r/PostgreSQL/comments/v5bm0f/comment/ib9ntw3/)
+
+> Note that PostgreSQL (my db of choice) has an option to bind parameters to ad hoc statements which saves a round trip regarding prepared statements if you don't need certain features of these.
+
+[Unnamed prepared statements are only supported on the wire protocol.](https://stackoverflow.com/questions/46810606/postgres-can-i-prepare-unnamed-statement-from-sql)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

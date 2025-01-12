@@ -674,4 +674,6 @@ Things for which I found ChatGPT useful:
 
 [Github copilot overview](https://code.visualstudio.com/docs/copilot/overview)
 
+[AI founders will learn The Bitter Lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
+
 

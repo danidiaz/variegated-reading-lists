@@ -1008,6 +1008,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Unnamed prepared statements are only supported on the wire protocol.](https://stackoverflow.com/questions/46810606/postgres-can-i-prepare-unnamed-statement-from-sql)
 
+[unnamed prepared statement](https://news.ycombinator.com/item?id=35511823)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

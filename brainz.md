@@ -693,4 +693,6 @@ Another one:
 
 > But there are still a lot of entities without a sample query. Please generate the queries for the missing entities. They all follow the same structure, so it should be easy.
 
- 
+[The prompt report](https://arxiv.org/abs/2406.06608). [blog](https://www.aihero.dev/the-prompt-report).
+
+

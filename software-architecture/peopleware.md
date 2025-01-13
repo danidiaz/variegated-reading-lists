@@ -338,5 +338,7 @@
 
 [How Do You Like What You’ve Built?](https://morrisbrodersen.de/how-do-you-like-what-you-built/)
 
+[Document Your Progress at Work](https://shivamrana.me/2025/01/document-your-progress/)
+
 
 

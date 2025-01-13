@@ -903,4 +903,6 @@ Bernini, his life and his Rome
 
 [playtesting](https://x.com/hexcrawl/status/1825365333818978752)
 
+[Standard patterns in choice-based games (2015) ](https://news.ycombinator.com/item?id=42678647)
+
 

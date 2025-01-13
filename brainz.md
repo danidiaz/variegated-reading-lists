@@ -695,4 +695,6 @@ Another one:
 
 [The prompt report](https://arxiv.org/abs/2406.06608). [blog](https://www.aihero.dev/the-prompt-report).
 
+[The 2025 AI Engineer Reading List](https://www.latent.space/p/2025-papers)
+
 

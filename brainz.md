@@ -697,4 +697,7 @@ Another one:
 
 [The 2025 AI Engineer Reading List](https://www.latent.space/p/2025-papers)
 
+[comparison](https://x.com/theo/status/1879121809850929583)
+
+[I don't remember what my code does](https://www.youtube.com/shorts/4Q5ceNbNdew)
 

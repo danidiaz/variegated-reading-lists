@@ -1269,5 +1269,7 @@ What! This does work! How to go in the opposite direction?
 
 [NixOs and Flakes](https://nixos-and-flakes.thiscute.world/other-usage-of-flakes/inputs)
 
+[Nix - Death by a thousand cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
+
 
 

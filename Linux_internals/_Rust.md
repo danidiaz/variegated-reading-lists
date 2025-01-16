@@ -198,5 +198,8 @@
 
 [flattening ASTs](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 
+[Tracing Large Memory Allocations in Rust with BPFtrace](https://readyset.io/blog/tracing-large-memory-allocations-in-rust-with-bpftrace)
+
+
 
 

@@ -1010,6 +1010,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [unnamed prepared statement](https://news.ycombinator.com/item?id=35511823)
 
+[Database Building Blocks Seminar Series (Fall 2024)](https://youtube.com/playlist?list=PLSE8ODhjZXjZc2AdXq_Lc1JS62R48UX2L&si=7njaVQeyd2nscTq1)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

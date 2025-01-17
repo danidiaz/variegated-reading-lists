@@ -711,4 +711,6 @@ Another one:
 
 > As LLMs do better with exam-style questions, more and smaller packages make it easier to give a complete and yet isolated context for a piece of work. This is true for humans too, which is why we use packages at all, but we trade off package size against the extra typing/plumbing/filing to make more readable code. With an LLM both doing and benefiting from a big chunk of that extra work, the tradeoff shifts. (As a bonus, we humans get more readable code!)
 
+[better prompts = better code](https://www.youtube.com/shorts/NoWqPZIZnG4)
+
 

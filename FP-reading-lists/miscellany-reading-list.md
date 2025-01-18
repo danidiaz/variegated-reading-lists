@@ -1012,6 +1012,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Designing Code For Forward Progress](https://lobste.rs/s/o4y0vy/designing_code_for_forward_progress)
 
-
+[Data evolution with set-theoretic types](https://dashbit.co/blog/data-evolution-with-set-theoretic-types). [hn](https://news.ycombinator.com/item?id=42695232)
 
 

@@ -496,6 +496,10 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [naming newtype accessors after the data they hold](https://bsky.app/profile/fullmoon.id/post/3lf6b43fq3c24)
 
+[when to be strict](https://www.reddit.com/r/haskell/comments/1i2w4iq/comment/m7jmgse/)
+
+> You never know when someone might want to write code that ties a knot someplace you didn't anticipate.
+
 
 
 

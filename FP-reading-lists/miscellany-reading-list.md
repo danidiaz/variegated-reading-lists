@@ -1014,4 +1014,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Data evolution with set-theoretic types](https://dashbit.co/blog/data-evolution-with-set-theoretic-types). [hn](https://news.ycombinator.com/item?id=42695232)
 
+[typed stack traces in F#](https://rm4n0s.github.io/posts/7-the-untouched-goldmine-of-fsharp/#tst). [Lobsters](https://lobste.rs/s/gzf0ic/typed_stack_traces_f).
+
 

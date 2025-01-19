@@ -168,7 +168,7 @@
 
 [Connect to colleagues' local servers from anywhere](https://tailscale.com/kb/1034/local-team-server). [video](https://www.youtube.com/watch?v=YzBJSiBezCs). [Easily Access Your Self-Hosted Apps Remotely Using Tailscale](https://www.youtube.com/watch?v=d8FyQKAVJtQ). [Remotely access and share your self-hosted services](https://www.youtube.com/watch?v=Vt4PDUXB_fg). [Self Hosting with Tailscale and Caddy](https://dev.to/dracarys18/self-hosting-with-tailscale-and-caddy-4o94). [own domains?](https://www.reddit.com/r/Tailscale/comments/1fbl03x/is_it_possible_to_use_my_own_domains_for/). [Is HTTPs necessary?](https://www.reddit.com/r/Tailscale/comments/18dy2qa/is_https_necessary/). [enabling HTTPs](https://tailscale.com/kb/1153/enabling-https). [Tailscale on Android](https://tailscale.com/kb/1079/install-android). [Why Tailscale?](https://tailscale.com/why-tailscale). [Make Service accessible externally through tailscale?](https://www.reddit.com/r/Tailscale/comments/14b4qym/make_service_accessible_externally_through/). [Tailscale Funnel](https://tailscale.com/kb/1223/funnel). [Tailscale to the rescue](https://www.ajfriesen.com/tailscale-to-the-rescue/). [Tailscale HTTPs](https://www.reddit.com/r/Tailscale/comments/18dy2qa/comment/kcoojm0/). [Using HTTPS in your homelab](https://grumpy.systems/2023/using-https-in-your-homelab-and-why-its-important/). [machine names](https://tailscale.com/kb/1098/machine-names). [Solutions](https://tailscale.com/kb/1355/solutions).
 
-
+[Confused about the definition of self hosting](https://www.reddit.com/r/selfhosted/comments/191er2j/confused_about_the_definition_of_self_hosting/). [why self-host](https://news.ycombinator.com/item?id=41440855).
 
 
 

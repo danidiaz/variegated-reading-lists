@@ -713,4 +713,6 @@ Another one:
 
 [better prompts = better code](https://www.youtube.com/shorts/NoWqPZIZnG4)
 
+[Best practices for using GitHub Copilot](https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot/best-practices-for-using-github-copilot)
+
 

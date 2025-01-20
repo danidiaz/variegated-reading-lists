@@ -431,4 +431,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [thoughts on debugging](https://lobste.rs/s/lvrctm/thoughts_on_debugging)
 
+[the testing pyramid is outdated (wiremock)](https://www.wiremock.io/post/rethinking-the-testing-pyramid)
+
 

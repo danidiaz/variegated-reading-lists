@@ -224,4 +224,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [template string converter](https://www.youtube.com/shorts/CHIzjkTuUmg)
 
+[TypeScript enums](https://news.ycombinator.com/item?id=42766729)
+
 

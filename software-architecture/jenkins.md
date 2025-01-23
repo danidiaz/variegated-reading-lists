@@ -131,4 +131,6 @@
 
 > If you do not set a container, all steps will run directly on the host specified by runs-on unless a step refers to an action configured to run in a container.
 
+[GH actions drama](https://lobste.rs/s/55tzej/i_ll_think_twice_before_using_github)
+
 

@@ -170,7 +170,9 @@
 
 [Confused about the definition of self hosting](https://www.reddit.com/r/selfhosted/comments/191er2j/confused_about_the_definition_of_self_hosting/). [why self-host](https://news.ycombinator.com/item?id=41440855).
 
-[CGNAT and self-hosting](https://www.reddit.com/r/selfhosted/comments/170ku6z/has_anyone_been_able_to_successfully_self_host/). [video](https://www.youtube.com/watch?v=aAzdn9cqYRY). [video](https://www.youtube.com/watch?v=7TOwr1Hs9fk).
+[CGNAT and self-hosting](https://www.reddit.com/r/selfhosted/comments/170ku6z/has_anyone_been_able_to_successfully_self_host/). [video](https://www.youtube.com/watch?v=aAzdn9cqYRY). [video](https://www.youtube.com/watch?v=7TOwr1Hs9fk). [DDOSing](https://bsky.app/profile/tef.bsky.social/post/3lgfvodmdrs2u)
+
+
 
 
 

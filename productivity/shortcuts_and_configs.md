@@ -743,4 +743,6 @@ Back and forward in vscode
 
 [Beware tab trapping in VSCode!](https://code.visualstudio.com/docs/editor/accessibility#_tab-trapping)
 
+[self-hosted bookmarks and link sharing](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#bookmarks-and-link-sharing)
+
 

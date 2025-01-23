@@ -751,5 +751,7 @@ https://twitter.com/tailwindcss
 
 [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/articles/content-visibility)
 
+[Tailwind CSS v4.0](https://news.ycombinator.com/item?id=42799136)
+
 
 

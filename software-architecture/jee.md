@@ -481,4 +481,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Hibernate 6](https://docs.jboss.org/hibernate/orm/6.6/introduction/html_single/Hibernate_Introduction.html)
 
+[JEP 502: Stable Values](https://www.reddit.com/r/java/s/ng56wHx2bS)
+
 

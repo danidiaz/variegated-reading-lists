@@ -715,4 +715,6 @@ Another one:
 
 [Best practices for using GitHub Copilot](https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot/best-practices-for-using-github-copilot)
 
+[on the DeepSeek models](https://x.com/kmett/status/1882859216802902207)
+
 

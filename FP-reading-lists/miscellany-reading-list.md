@@ -1018,4 +1018,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [celestial navigation for drones](https://news.ycombinator.com/item?id=42767797)
 
+[Job Queues Are Different](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
+
+
 

@@ -463,4 +463,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [How are types constructed in dependent type theory](https://www.reddit.com/r/haskell/comments/1hswg6q/comment/m5b9nfb/)
 
+[dependent left fold](https://stackoverflow.com/questions/79382657/can-i-write-a-dependent-left-fold-in-terms-of-a-dependent-right-fold)
+
 

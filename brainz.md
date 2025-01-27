@@ -717,4 +717,6 @@ Another one:
 
 [on the DeepSeek models](https://x.com/kmett/status/1882859216802902207)
 
+[chain-of-thought](https://mastodon.gal/@Rataunderground@paquita.masto.host/113899626998205458)
+
 

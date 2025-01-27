@@ -715,7 +715,7 @@ Another one:
 
 [Best practices for using GitHub Copilot](https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot/best-practices-for-using-github-copilot)
 
-[on the DeepSeek models](https://x.com/kmett/status/1882859216802902207)
+[on the DeepSeek models](https://x.com/kmett/status/1882859216802902207). [for coding](https://bsky.app/profile/simonwillison.net/post/3lgqlbme7nk22).
 
 [chain-of-thought](https://mastodon.gal/@Rataunderground@paquita.masto.host/113899626998205458)
 

@@ -19,4 +19,8 @@
 
 [Bypassing airport security via SQL injection ](https://news.ycombinator.com/item?id=41392128)
 
+[Composable SQL](https://borretti.me/article/composable-sql). [hn](https://news.ycombinator.com/item?id=42828883).
+
+[Similar functionality already exists in some SQL implementations, notably DuckDB](https://news.ycombinator.com/item?id=42828883)
+
 

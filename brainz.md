@@ -719,4 +719,6 @@ Another one:
 
 [chain-of-thought](https://mastodon.gal/@Rataunderground@paquita.masto.host/113899626998205458)
 
+[Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/)
+
 

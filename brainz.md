@@ -721,4 +721,6 @@ Another one:
 
 [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/)
 
+[You could have invented transformers](https://hachyderm.io/@dpiponi@mathstodon.xyz/113909280494993298)
+
 

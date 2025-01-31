@@ -500,6 +500,8 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 > You never know when someone might want to write code that ties a knot someplace you didn't anticipate.
 
+[cabal-hooks](https://www.well-typed.com/blog/2025/01/cabal-hooks/)
+
 
 
 

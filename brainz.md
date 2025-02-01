@@ -725,4 +725,6 @@ Another one:
 
 [paradox](https://bsky.app/profile/peligrietzer.bsky.social/post/3lh53odbbuk2k)
 
+[a farewell to manual prompting](https://news.ycombinator.com/item?id=42861815)
+
 

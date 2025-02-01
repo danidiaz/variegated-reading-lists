@@ -723,4 +723,6 @@ Another one:
 
 [You could have invented transformers](https://hachyderm.io/@dpiponi@mathstodon.xyz/113909280494993298)
 
+[paradox](https://bsky.app/profile/peligrietzer.bsky.social/post/3lh53odbbuk2k)
+
 

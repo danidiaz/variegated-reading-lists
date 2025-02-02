@@ -727,4 +727,6 @@ Another one:
 
 [a farewell to manual prompting](https://news.ycombinator.com/item?id=42861815)
 
+[demystifying deepseq](https://www.thoughtworks.com/insights/blog/generative-ai/demystifying-deepseek)
+
 

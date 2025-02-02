@@ -850,4 +850,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [CORS in AWS](https://medium.com/@dyavanapellisujal7/understanding-and-configuring-cors-in-aws-s3-with-examples-c9698ad686b3)
 
+[API gateway deep dive](https://medium.com/@joudwawad/aws-api-gateway-deep-dive-rest-apis-5ae16a326b3a)
+
 

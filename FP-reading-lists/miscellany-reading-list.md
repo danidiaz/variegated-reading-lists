@@ -1020,5 +1020,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Job Queues Are Different](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
 
+[fixing left recursion in grammars](https://news.ycombinator.com/item?id=42907139)
+
 
 

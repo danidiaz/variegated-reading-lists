@@ -729,4 +729,8 @@ Another one:
 
 [demystifying deepseq](https://www.thoughtworks.com/insights/blog/generative-ai/demystifying-deepseek)
 
+[(WIP) A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/). [hn](https://news.ycombinator.com/item?id=42902936).
+
+[compositional tasks](https://news.ycombinator.com/item?id=42905453).
+
 

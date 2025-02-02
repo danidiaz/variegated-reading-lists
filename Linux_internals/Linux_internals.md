@@ -239,5 +239,7 @@
 
 [ECS 150: Operating Systems and System Programming](https://lupteach.gitlab.io/courses/ucd-ecs150/online/)
 
+[Exploring the mild oddity that Unix pipes are buffered](https://utcc.utoronto.ca/~cks/space/blog/unix/BufferedPipes)
+
 
 

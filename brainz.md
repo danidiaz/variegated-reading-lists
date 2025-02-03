@@ -733,4 +733,8 @@ Another one:
 
 [compositional tasks](https://news.ycombinator.com/item?id=42905453).
 
+[Chiang interview](https://news.ycombinator.com/item?id=42907268)
+
+[LLMs: harmful to technical innovation?](https://evanhahn.com/llms-and-technical-innovation/)
+
 

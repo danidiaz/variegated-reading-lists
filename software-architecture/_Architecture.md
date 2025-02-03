@@ -1643,4 +1643,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Commands, Not Queries](https://www.youtube.com/watch?v=xwgnQSoVWy4)
 
+[It’s OK to hardcode feature flags](https://code.mendhak.com/hardcode-feature-flags/)
+
 

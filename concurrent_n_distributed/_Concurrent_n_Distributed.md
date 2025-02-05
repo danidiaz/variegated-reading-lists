@@ -811,4 +811,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [Snapshot Isolation vs Serializability](https://brooker.co.za/blog/2024/12/17/occ-and-isolation.html)
 
+[Versioning versus Coordination](https://brooker.co.za/blog/2025/02/04/versioning.html)
+
 

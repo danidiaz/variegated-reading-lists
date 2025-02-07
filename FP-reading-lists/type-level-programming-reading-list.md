@@ -465,4 +465,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [dependent left fold](https://stackoverflow.com/questions/79382657/can-i-write-a-dependent-left-fold-in-terms-of-a-dependent-right-fold)
 
+[how clash signal type works](https://www.reddit.com/r/haskell/comments/1ijqfsu/tricking_haskell_into_state_how_clashs_signal/)
+
 

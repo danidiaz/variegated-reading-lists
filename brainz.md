@@ -737,4 +737,6 @@ Another one:
 
 [LLMs: harmful to technical innovation?](https://evanhahn.com/llms-and-technical-innovation/)
 
+[Chat is a bad UI pattern for development tools](https://news.ycombinator.com/item?id=42934190)
+
 

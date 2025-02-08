@@ -483,4 +483,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [JEP 502: Stable Values](https://www.reddit.com/r/java/s/ng56wHx2bS)
 
+[Spring Sweets: Use Logging in EnvironmentPostProcessor Implementation](https://blog.mrhaki.com/2025/02/spring-sweets-use-logging-in.html)
+
 

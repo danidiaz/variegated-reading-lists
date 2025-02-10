@@ -753,4 +753,8 @@ Another one:
 
 [The DeepSeek Series: A Technical Overview](https://martinfowler.com/articles/deepseek-papers.html)
 
+[GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/). [agent mode](https://youtu.be/KSxUr0BU9ig).
+
+[LIMO: Less Is More for Reasoning](https://news.ycombinator.com/item?id=42991676)
+
 

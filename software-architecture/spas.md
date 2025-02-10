@@ -515,4 +515,15 @@
 
 [Handling cookies is a minefield](https://news.ycombinator.com/item?id=42206556)
 
+[to slash or not to slash](https://developers.google.com/search/blog/2010/04/to-slash-or-not-to-slash). [RESTful URI trailing slash or no trailing slash](https://stackoverflow.com/questions/61547014/restful-uri-trailing-slash-or-no-trailing-slash)
+
+```
+The following urls:
+
+http://example/foo
+http://example/foo/
+Are NOT the same url. Caches will store them separately. So in that sense there is a real difference. Normalizing URLs will not strip them.
+```
+
+
 

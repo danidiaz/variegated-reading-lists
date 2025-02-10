@@ -525,5 +525,9 @@ http://example/foo/
 Are NOT the same url. Caches will store them separately. So in that sense there is a real difference. Normalizing URLs will not strip them.
 ```
 
+```
+/users/
+This URI has a path /users/ which includes two segments: "users" and an empty segment.
+```
 
 

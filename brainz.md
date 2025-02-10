@@ -739,4 +739,18 @@ Another one:
 
 [Chat is a bad UI pattern for development tools](https://news.ycombinator.com/item?id=42934190)
 
+[Why LLMs still have problems with OCR](https://news.ycombinator.com/item?id=42966958)
+
+[The LLM Curve of Impact on Software Engineers](https://news.ycombinator.com/item?id=42969100)
+
+[Classic Data science pipelines built with LLMs](https://news.ycombinator.com/item?id=42990036)
+
+[o'reilly](https://www.reddit.com/r/programming/comments/1ijlqpd/tim_oreilly_has_good_news_and_bad_news_about_your/)
+
+[Rant about Language Mixing in <think> ... </think>](https://www.reddit.com/r/LocalLLaMA/comments/1iioooo/rant_about_language_mixing_in_think_think/)
+
+[Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/)
+
+[The DeepSeek Series: A Technical Overview](https://martinfowler.com/articles/deepseek-papers.html)
+
 

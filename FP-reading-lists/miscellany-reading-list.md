@@ -1022,5 +1022,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [fixing left recursion in grammars](https://news.ycombinator.com/item?id=42907139)
 
+[do-nothing script](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
+
 
 

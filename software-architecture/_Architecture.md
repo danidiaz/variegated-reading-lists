@@ -1645,4 +1645,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [It’s OK to hardcode feature flags](https://code.mendhak.com/hardcode-feature-flags/)
 
+[Feature flags: Theory meets reality](https://stackoverflow.blog/2025/01/31/feature-flags-theory-meets-reality/)
+
+
 

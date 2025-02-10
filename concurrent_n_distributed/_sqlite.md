@@ -83,5 +83,7 @@
 
 [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 
+[SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/en-us/blog/sqlite-postgresql-complicated). [rs](https://lobste.rs/s/2etd7f/sqlite_postgresql_it_s_complicated).
+
 
 

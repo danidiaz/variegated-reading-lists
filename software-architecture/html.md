@@ -129,6 +129,5 @@
 
 [web components are ok](https://nolanlawson.com/2024/09/28/web-components-are-okay/). [hn](https://news.ycombinator.com/item?id=41686722).
 
-
-
+[Make Your Own Website](https://web.pixelshannon.com/make/). [hn](https://news.ycombinator.com/item?id=43008315).
 

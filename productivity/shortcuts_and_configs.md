@@ -745,4 +745,6 @@ Back and forward in vscode
 
 [self-hosted bookmarks and link sharing](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#bookmarks-and-link-sharing)
 
+[terminal weirdness](https://hachyderm.io/@b0rk@jvns.ca/113986551269806331)
+
 

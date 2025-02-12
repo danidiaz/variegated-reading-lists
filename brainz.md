@@ -757,4 +757,6 @@ Another one:
 
 [LIMO: Less Is More for Reasoning](https://news.ycombinator.com/item?id=42991676)
 
+[A Gentle Introduction to Positional Encoding in Transformer Models, Part 1](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/)
+
 

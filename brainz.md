@@ -759,4 +759,6 @@ Another one:
 
 [A Gentle Introduction to Positional Encoding in Transformer Models, Part 1](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/)
 
+[Making Copilot Chat an expert in your workspace](https://code.visualstudio.com/docs/copilot/workspace-context)
+
 

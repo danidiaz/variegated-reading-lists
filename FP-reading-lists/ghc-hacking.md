@@ -502,6 +502,8 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [cabal-hooks](https://www.well-typed.com/blog/2025/01/cabal-hooks/)
 
+[church encoding](https://old.reddit.com/r/haskell/comments/1b1c71b/how_does_church_encoding_in_parser_combinator/ksey0dn/)
+
 
 
 

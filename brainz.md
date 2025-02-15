@@ -761,4 +761,14 @@ Another one:
 
 [Making Copilot Chat an expert in your workspace](https://code.visualstudio.com/docs/copilot/workspace-context)
 
+[Introducing GitHub Copilot Next Edit Suggestions](https://www.youtube.com/watch?v=mbUnwaSllTY)
+
+[Making Tea While AI Codes: A Practical Guide to AI-assisted programming (with Cursor Composer Agent in YOLO mode)](https://www.makingdatamistakes.com/making-tea-while-ai-codes-a-practical-guide-to-2024s-development-revolution/)
+
+[stifling tech adoption?](https://www.reddit.com/r/programming/comments/1ioclg8/ai_is_stifling_tech_adoption/)
+
+[is mathematics obsolete?](https://www.andrew.cmu.edu/user/avigad/Papers/obsolete.pdf)
+
+[llm patterns: reranker](https://martinfowler.com/articles/gen-ai-patterns/#reranker)
+
 

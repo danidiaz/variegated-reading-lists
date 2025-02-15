@@ -85,5 +85,7 @@
 
 [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/en-us/blog/sqlite-postgresql-complicated). [rs](https://lobste.rs/s/2etd7f/sqlite_postgresql_it_s_complicated).
 
+[Siren Call of SQLite on the Server](https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/)
+
 
 

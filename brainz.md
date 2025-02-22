@@ -771,4 +771,6 @@ Another one:
 
 [llm patterns: reranker](https://martinfowler.com/articles/gen-ai-patterns/#reranker)
 
+[My LLM codegen workflow](https://news.ycombinator.com/item?id=43094006)
+
 

@@ -485,4 +485,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Spring Sweets: Use Logging in EnvironmentPostProcessor Implementation](https://blog.mrhaki.com/2025/02/spring-sweets-use-logging-in.html)
 
+[Java to Go](https://news.ycombinator.com/item?id=43092003)
+
 

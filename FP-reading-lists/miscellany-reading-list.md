@@ -1024,5 +1024,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [do-nothing script](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
 
+[Compiler Engineering for Substructural Languages I: The Problem with Polymorphism](https://zanzix.github.io/posts/5-substructural-polymorphism.html)
+
+
 
 

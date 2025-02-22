@@ -241,5 +241,11 @@
 
 [Exploring the mild oddity that Unix pipes are buffered](https://utcc.utoronto.ca/~cks/space/blog/unix/BufferedPipes)
 
+[0+0 > 0: C++ thread-local storage performance](https://news.ycombinator.com/item?id=43077675)
+
+[Debugging an Undebuggable App](https://news.ycombinator.com/item?id=43081713). [How setup a React project with Vite, Typescript and Tailwind](https://www.reddit.com/r/reactjs/comments/1irl9pc/how_setup_a_react_project_with_vite_typescript/).
+
+
+
 
 

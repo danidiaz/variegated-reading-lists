@@ -1133,6 +1133,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [parallel routes in TanStack start](https://x.com/tannerlinsley/status/1860183217678283001). [more](https://github.com/TanStack/router/discussions/605). [in next.js](https://nextjs.org/docs/app/building-your-application/routing/parallel-routes)
 
-
+[nice-looking frontends quickly (2025)](https://www.reddit.com/r/reactjs/comments/1irxr5l/how_do_you_guys_make_nicelooking_frontends/)
 
 

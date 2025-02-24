@@ -905,4 +905,8 @@ Bernini, his life and his Rome
 
 [Standard patterns in choice-based games (2015) ](https://news.ycombinator.com/item?id=42678647)
 
+[Ultima VII: Revisited](https://news.ycombinator.com/item?id=43150217)
+
+
+
 

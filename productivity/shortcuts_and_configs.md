@@ -747,4 +747,8 @@ Back and forward in vscode
 
 [terminal weirdness](https://hachyderm.io/@b0rk@jvns.ca/113986551269806331)
 
+[AutoHotKey window switching](https://www.hillelwayne.com/post/ahk/)
+
+[remap vs. send in AutoHotKey](https://www.autohotkey.com/boards/viewtopic.php?style=7&t=69117). [more](https://www.autohotkey.com/docs/v2/misc/Remap.htm#Remap).
+
 

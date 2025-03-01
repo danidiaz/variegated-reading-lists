@@ -504,6 +504,8 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [church encoding](https://old.reddit.com/r/haskell/comments/1b1c71b/how_does_church_encoding_in_parser_combinator/ksey0dn/)
 
+[entity component system](https://discourse.haskell.org/t/aztecs-v0-6-a-modular-game-engine-and-ecs-for-haskell/11447/7?u=danidiaz)
+
 
 
 

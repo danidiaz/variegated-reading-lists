@@ -751,4 +751,8 @@ Back and forward in vscode
 
 [remap vs. send in AutoHotKey](https://www.autohotkey.com/boards/viewtopic.php?style=7&t=69117). [more](https://www.autohotkey.com/docs/v2/misc/Remap.htm#Remap).
 
+[A mouseless tale: trying for a keyboard-driven desktop](https://lwn.net/Articles/1005332/)
+
+[mouseless Windows](https://lobste.rs/s/nzz7an/mouseless_tale_trying_for_keyboard#c_e6yzm6)
+
 

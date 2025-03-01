@@ -907,6 +907,10 @@ Bernini, his life and his Rome
 
 [Ultima VII: Revisited](https://news.ycombinator.com/item?id=43150217)
 
+[NPCs triggering each other](https://www.youtube.com/watch?v=2tfhirqSito)
+
+
+
 
 
 

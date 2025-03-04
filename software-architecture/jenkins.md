@@ -133,4 +133,6 @@
 
 [GH actions drama](https://lobste.rs/s/55tzej/i_ll_think_twice_before_using_github)
 
+[Environment Branches Harm Quality](https://thinkinglabs.io/articles/2025/03/03/environment-branches-harm-quality.html)
+
 

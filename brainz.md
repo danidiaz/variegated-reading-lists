@@ -773,4 +773,12 @@ Another one:
 
 [My LLM codegen workflow](https://news.ycombinator.com/item?id=43094006)
 
+[vibe coding](https://mastodon.gal/@GossiTheDog@cyberplace.social/114088093941507129)
+
+[ai patterns: fine-tuning](https://martinfowler.com/articles/gen-ai-patterns/#fine-tuning)
+
+[MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://news.ycombinator.com/item?id=43238893)
+
+[Getting the most out of GitHub Copilot's free tier](https://www.youtube.com/watch?v=z7JVTxiVcNk)
+
 

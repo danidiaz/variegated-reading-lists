@@ -900,5 +900,7 @@ small-step operational semantics
 
 [Compiling higher order functions with GADTs](https://injuly.in/blog/defunct/)
 
+[On the State of Coherence in the Land of Type Classes](https://arxiv.org/abs/2502.20546). [bsky](https://bsky.app/profile/cspl-bot.bsky.social/post/3ljhbrckuwp2o).
+
 
 

@@ -781,4 +781,6 @@ Another one:
 
 [Getting the most out of GitHub Copilot's free tier](https://www.youtube.com/watch?v=z7JVTxiVcNk)
 
+[Cursor experience](https://hachyderm.io/@testobsessed@ruby.social/114111592141545153)
+
 

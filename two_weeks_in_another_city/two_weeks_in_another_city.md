@@ -909,6 +909,7 @@ Bernini, his life and his Rome
 
 [NPCs triggering each other](https://www.youtube.com/watch?v=2tfhirqSito)
 
+[Wie spielen eigentlich Blinde?](https://www.youtube.com/watch?v=zDu2IZ1CZ1U)
 
 
 

@@ -36,4 +36,23 @@
 
 [ASM lessons](https://github.com/FFmpeg/asm-lessons)
 
+[Entity Component System Framework that is CPU cache friendly](https://stackoverflow.com/questions/23473783/entity-component-system-framework-that-is-cpu-cache-friendly). [How to benefit from cpu cache in a entity component system game engine?](https://gamedev.stackexchange.com/questions/66786/how-to-benefit-from-cpu-cache-in-a-entity-component-system-game-engine). [How are entity systems cache-efficient?](https://gamedev.stackexchange.com/questions/82030/how-are-entity-systems-cache-efficient)
+
+> He basically used global, pre-allocated arrays for each distinct type of entity data (position, score and whatnot) and references each array in a distinct phase of his system-wide update() function. You can assume that the data for each entity would be at the same array index in each of these global arrays, so for instance, if the player is created first, it might have its data at [0] in each array.
+
+> If you have interdependencies between components (data) such that you absolutely cannot afford to have some data separated from it's associated data (eg. Transform + Physics, Transform + Renderer) then you may opt to replicate Transform data in both the Physics and Renderer arrays, assuring that all pertinent data fits the cache line width for each performance-critical operation.
+
+> Note on writing data Writing does not call out to main memory. By default, today's systems have write-back caching enabled: writing a value only writes it to cache (initially), not to main memory, so you will not be bottlenecked by this. It is only when data is requested from main memory (won't happen while it's in cache) and is stale, that main memory will be updated from cache.
+
+> This is similar to how you have the Structure Of Arrays (SOA) being the recommended approach for HPC. The CPU and cache can deal with multiple linear arrays almost as well as it can deal with a single linear array, and far better than it can deal with random memory access.
+
+> Another strategy used in some ECS implementations - including Unity ECS - is to allocate Components based on the Archetype of their corresponding Entity. That is, all Entities with precisely the set of Components (PhysicsBody, Transform) will be allocated separately from the Entities with different Components (e.g. PhysicsBody, Transform, and Renderable).
+
+> Systems in such designs work by first finding all Archetypes that match their requirements (that have the required set of Components), iterating that list of Archetypes, and iterating the Components stored within each matching Archetype. This allows for completely linear and true O(1) component access within an Archetype and allows Systems to find compatible Entities with very low overhead (by searching a small list of Archetypes rather than searching potentially hundreds of thousands of Entities).
+
+> — You could interleave your entity array instead of keeping separate arrays, but you're still wasting memory
+> — This is antithetical to good cache usage. If all you care about are the transforms and graphics data, why make the machine spend time pulling in all that other data for physics and AI and input and debug and so on? For what it's worth, most "production-grade" ECS implementations of which I'm aware use interleaved storage. The popular Archetype approach I mentioned earlier (used in Unity ECS, for example) is very explicitly build to use interleaved storage for Components associated with an Archetype.
+
+> I'm personally a relatively recent convert to the true power of ECS myself. Though for me, the deciding factor was something rarely mentioned about ECS: it makes writing tests for game systems and logic almost trivial compared to the tightly-coupled logic-laden component-based designs I've worked with in the past. Since ECS architectures put all logic in Systems, which just consume Components and produce Component updates, building a "mock" set of Components to test System behaviour is quite eas
+
 

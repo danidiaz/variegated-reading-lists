@@ -530,4 +530,6 @@ Are NOT the same url. Caches will store them separately. So in that sense there 
 This URI has a path /users/ which includes two segments: "users" and an empty segment.
 ```
 
+[lots of little html pages](https://lobste.rs/s/csr4mw/building_websites_with_lots_little_html)
+
 

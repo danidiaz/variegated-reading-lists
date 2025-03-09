@@ -1028,4 +1028,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [seams](https://adactio.com/journal/6786)
 
+[Pixelpusher](https://gitlab.com/-/snippets/4817016). [circular obstacle pathfinding](https://redblobgames.github.io/circular-obstacle-pathfinding/)
+
 

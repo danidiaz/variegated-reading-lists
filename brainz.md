@@ -783,4 +783,7 @@ Another one:
 
 [Cursor experience](https://hachyderm.io/@testobsessed@ruby.social/114111592141545153)
 
+[a ton of time-consuming chaos](https://hachyderm.io/@tao@mathstodon.xyz/114145014868441058)
+
+[Here’s how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/)
 

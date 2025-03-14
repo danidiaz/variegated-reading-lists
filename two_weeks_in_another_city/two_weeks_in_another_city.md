@@ -911,7 +911,11 @@ Bernini, his life and his Rome
 
 [Wie spielen eigentlich Blinde?](https://www.youtube.com/watch?v=zDu2IZ1CZ1U)
 
+[lo-fi](https://www.youtube.com/watch?v=zmumeCflFeQ)
 
+[relationships in Farlands](https://www.youtube.com/watch?v=lfWs7mhlZZ4)
+
+[Mechanisms as Metaphors: How Board Games Create Meaning](https://www.youtube.com/watch?v=wG4zLcKsCiA)
 
 
 

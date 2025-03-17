@@ -26,4 +26,8 @@
 
 [coredumpctl debug](https://hachyderm.io/@laria@duclaria.com/113771971183199080)
 
+[The Atrocious State Of Binary Compatability on Linux and How To Address It.](https://jangafx.com/insights/linux-binary-compatibility)
+
+[Picking Glibc Versions at Runtime](https://news.ycombinator.com/item?id=41609771)
+
 

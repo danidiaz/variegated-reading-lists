@@ -852,4 +852,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [API gateway deep dive](https://medium.com/@joudwawad/aws-api-gateway-deep-dive-rest-apis-5ae16a326b3a)
 
+[Handling billions of invocations – best practices from AWS Lambda](https://aws.amazon.com/es/blogs/compute/handling-billions-of-invocations-best-practices-from-aws-lambda/)
+
 

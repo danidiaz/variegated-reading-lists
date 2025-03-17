@@ -1135,4 +1135,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [nice-looking frontends quickly (2025)](https://www.reddit.com/r/reactjs/comments/1irxr5l/how_do_you_guys_make_nicelooking_frontends/)
 
+[current React](https://www.reddit.com/r/reactjs/comments/1jdd1xy/whats_is_the_most_used_way_to_work_with_react_now/)
+
 

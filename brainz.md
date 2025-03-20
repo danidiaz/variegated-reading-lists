@@ -791,4 +791,6 @@ Another one:
 
 [from screenshot to code](https://youtube.com/shorts/QjvGFMTrHeQ?si=i2yx7SiLR6GkiHoL)
 
+[AI Blindspots](https://ezyang.github.io/ai-blindspots/). [hn](https://news.ycombinator.com/item?id=43414393).
+
 

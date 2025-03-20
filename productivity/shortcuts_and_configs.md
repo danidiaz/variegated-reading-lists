@@ -755,4 +755,6 @@ Back and forward in vscode
 
 [mouseless Windows](https://lobste.rs/s/nzz7an/mouseless_tale_trying_for_keyboard#c_e6yzm6)
 
+[a cursor conf bit](https://bsky.app/profile/heyandras.dev/post/3lkshmu3g452h)
+
 

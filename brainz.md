@@ -793,4 +793,6 @@ Another one:
 
 [AI Blindspots](https://ezyang.github.io/ai-blindspots/). [hn](https://news.ycombinator.com/item?id=43414393).
 
+> agentic LLMs like Sonnet will proactively load files into its context, read them, and do planning based on what it sees
+
 

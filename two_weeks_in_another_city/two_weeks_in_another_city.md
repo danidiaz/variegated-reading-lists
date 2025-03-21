@@ -917,5 +917,7 @@ Bernini, his life and his Rome
 
 [Mechanisms as Metaphors: How Board Games Create Meaning](https://www.youtube.com/watch?v=wG4zLcKsCiA)
 
+[Why You Should Play Hex-and-Counter Wargames](https://www.goonhammer.com/the-games-of-our-fathers-why-you-should-play-hex-and-counter-wargames/)
+
 
 

@@ -534,4 +534,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [Why Do We Have a Cache-Control Request Header?](https://csswizardry.com/2025/03/why-do-we-have-a-cache-control-request-header/)
 
+[cache rules everything about me](https://speakerdeck.com/csswizardry/cache-rules-everything)
+
 

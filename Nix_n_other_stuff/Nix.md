@@ -1271,5 +1271,9 @@ What! This does work! How to go in the opposite direction?
 
 [Nix - Death by a thousand cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
 
+[Towards a content-addressed model for Nix](https://www.tweag.io/blog/2020-09-10-nix-cas/)
+
+> Most distributions, by default, don’t rebuild packages when their dependencies change, and have a (more-or-less automated) process to detect changes that require rebuilding reverse dependencies. For example, Debian tries to detect ABI changes automatically and Fedora has a more manual process. But Nix doesn’t.
+
 
 

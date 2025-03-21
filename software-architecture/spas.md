@@ -536,6 +536,8 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [cache rules everything about me](https://speakerdeck.com/csswizardry/cache-rules-everything). [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Cache-Control).
 
+> cache-control : public exposes cacheability to cdns
+
 
 
 

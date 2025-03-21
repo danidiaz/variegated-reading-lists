@@ -467,4 +467,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres). [lobsters](https://lobste.rs/s/zgtiib/what_i_wish_someone_told_me_about_postgres). [HN](https://news.ycombinator.com/item?id=42111896).
 
+[Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
+
 

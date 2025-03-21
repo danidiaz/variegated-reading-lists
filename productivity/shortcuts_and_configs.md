@@ -757,4 +757,6 @@ Back and forward in vscode
 
 [a cursor conf bit](https://bsky.app/profile/heyandras.dev/post/3lkshmu3g452h)
 
+[3-20-25: Tiling Window Managers on macOS](https://lilysthings.org/blog/tiling-macos/)
+
 

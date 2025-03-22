@@ -1647,7 +1647,4 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Feature flags: Theory meets reality](https://stackoverflow.blog/2025/01/31/feature-flags-theory-meets-reality/)
 
-[minimum reviewable unit](https://gieseanw.wordpress.com/2025/03/21/minimum-reviewable-unit/)
-
-
 

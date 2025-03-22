@@ -795,4 +795,6 @@ Another one:
 
 > agentic LLMs like Sonnet will proactively load files into its context, read them, and do planning based on what it sees
 
+[Prompting Isn't Enough: What I Learned When Switching from ChatGPT to Claude's MCP](https://www.reddit.com/r/ClaudeAI/comments/1jgmrvi/prompting_isnt_enough_what_i_learned_when/)
+
 

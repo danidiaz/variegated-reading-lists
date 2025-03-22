@@ -340,7 +340,7 @@
 
 [Document Your Progress at Work](https://shivamrana.me/2025/01/document-your-progress/)
 
-[minimum reviewable unit](https://gieseanw.wordpress.com/2025/03/21/minimum-reviewable-unit/)
+[minimum reviewable unit](https://gieseanw.wordpress.com/2025/03/21/minimum-reviewable-unit/). [be proactive](https://gieseanw.wordpress.com/2020/06/25/cracking-the-code-review-part-3-be-proactive/)
 
 > It’s not uncommon for her pull requests to take an entire week to get merged into the main branch. It has become impractical for her to split her pull requests into very small pieces, because the overhead of maintaining stacked branches and multiple in-flight pull requests is just too much to cope with. As a result, each of her pull requests becomes about as large as they can reasonably be.
 

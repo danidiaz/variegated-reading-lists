@@ -759,4 +759,6 @@ Back and forward in vscode
 
 [3-20-25: Tiling Window Managers on macOS](https://lilysthings.org/blog/tiling-macos/)
 
+[KVM vs. remote access](https://lobste.rs/s/hrounk/how_share_mouse_keyboard_monitors)
+
 

@@ -1647,4 +1647,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Feature flags: Theory meets reality](https://stackoverflow.blog/2025/01/31/feature-flags-theory-meets-reality/)
 
+[Don't Be Afraid Of Types](https://lmika.org/2025/03/18/dont-be-afraid-of-types.html)
+
 

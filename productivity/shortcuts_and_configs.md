@@ -761,7 +761,9 @@ Back and forward in vscode
 
 [KVM vs. remote access](https://lobste.rs/s/hrounk/how_share_mouse_keyboard_monitors)
 
-[Use system clipboard in vi-copy mode in tmux](https://unix.stackexchange.com/questions/131011/use-system-clipboard-in-vi-copy-mode-in-tmux). It seems to work automatically in WSL for me?. [Clipboard](https://github.com/tmux/tmux/wiki/Clipboard).
+[Use system clipboard in vi-copy mode in tmux](https://unix.stackexchange.com/questions/131011/use-system-clipboard-in-vi-copy-mode-in-tmux). It seems to work automatically in WSL for me?. [Clipboard](https://github.com/tmux/tmux/wiki/Clipboard). [set-clipboard in Tmux](https://github.com/tmux/tmux/wiki/Clipboard#the-set-clipboard-option). [clipboard-read in Ghosttty](https://ghostty.org/docs/config/reference#clipboard-read)
+
+[how to paste into tmux from system clipboard](https://superuser.com/questions/1540118/how-to-paste-into-tmux-from-system-clipboard)
 
 
 

@@ -761,4 +761,6 @@ Back and forward in vscode
 
 [KVM vs. remote access](https://lobste.rs/s/hrounk/how_share_mouse_keyboard_monitors)
 
+[Use system clipboard in vi-copy mode in tmux](https://unix.stackexchange.com/questions/131011/use-system-clipboard-in-vi-copy-mode-in-tmux). It seems to work automatically in WSL for me?
+
 

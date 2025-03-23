@@ -23,4 +23,8 @@
 
 [Similar functionality already exists in some SQL implementations, notably DuckDB](https://news.ycombinator.com/item?id=42828883)
 
+[https://softwareengineering.stackexchange.com/questions/114728/why-is-naming-a-tables-primary-key-column-id-considered-bad-practice](https://www.reddit.com/r/Database/comments/1e6ezk/is_naming_a_tables_primary_key_column_id/)
+
+[surrogate keys](https://softwareengineering.stackexchange.com/questions/114728/why-is-naming-a-tables-primary-key-column-id-considered-bad-practice#comment865670_170703)
+
 

@@ -1275,5 +1275,15 @@ What! This does work! How to go in the opposite direction?
 
 > Most distributions, by default, don’t rebuild packages when their dependencies change, and have a (more-or-less automated) process to detect changes that require rebuilding reverse dependencies. For example, Debian tries to detect ABI changes automatically and Fedora has a more manual process. But Nix doesn’t.
 
+[nix repl and flakes](https://hachyderm.io/@DiazCarrete/114229083591211399). [learn to use the Nix repl effectively](https://aldoborrero.com/posts/2022/12/02/learn-how-to-use-the-nix-repl-effectively/). 
+
+[Should you have every flake follow nixpkgs?](https://www.reddit.com/r/NixOS/comments/1jbgmqw/should_you_have_every_flake_follow_nixpkgs/). [1000-instances-of-nixpkgs](https://zimbatm.com/notes/1000-instances-of-nixpkgs). [and technically doesn't help prevent incompatibilities from occurring, but I could be wrong about this as I am still a relative Nix newbie)](https://discourse.nixos.org/t/recommendations-for-use-of-flakes-input-follows/17413). [What is the purpose of input follows in a flake?](https://www.reddit.com/r/NixOS/comments/1bt8gfq/what_is_the_purpose_of_input_follows_in_a_flake/). [Automatic Nix flake follows](https://fzakaria.com/2024/07/31/automatic-nix-flake-follows.html)
+
+> What pinning inputs.follows essentially does is to reuse the same instance of that pinned input, instead of managing a separate dependency for that flake input. This speeds up evaluation times 
+
+> I depends on the flake, if the rust overlay for instance just exposes an overlay then you won’t need the follows since the overlay will be applied to your “main” nixpkgs input anyways, I don’t think flake-compat depends on nixpkgs at all, flake-utils claims to be pure nix and thus shouldn’t require nixpkgs either.
+
+
+
 
 

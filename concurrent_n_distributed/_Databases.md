@@ -1012,6 +1012,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Database Building Blocks Seminar Series (Fall 2024)](https://youtube.com/playlist?list=PLSE8ODhjZXjZc2AdXq_Lc1JS62R48UX2L&si=7njaVQeyd2nscTq1). [Apache DataFusion](https://news.ycombinator.com/item?id=42675804)
 
+[MySQL transactions per second vs. fsyncs per second (2020)](https://news.ycombinator.com/item?id=43440920)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)
@@ -1027,4 +1029,5 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 # Books
 
 [Foundations of Databases A book published by Addison Wesley](http://webdam.inria.fr/Alice/)
+
 

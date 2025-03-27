@@ -773,7 +773,7 @@ Back and forward in vscode
 
 OJO! Raycast has support for hyperkey!!! Notion also installs some global always-on shortcuts (possible interference?)
 
-
+[connecting subgraphs in graphviz](https://stackoverflow.com/questions/2012036/graphviz-how-to-connect-subgraphs). [It is possible to group nodes in graphviz by putting them into a cluster.](https://stackoverflow.com/questions/8366314/drawing-a-border-around-a-set-of-vertices-in-graphviz)
 
 
 

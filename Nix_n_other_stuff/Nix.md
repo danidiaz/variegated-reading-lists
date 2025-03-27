@@ -1283,7 +1283,9 @@ What! This does work! How to go in the opposite direction?
 
 > I depends on the flake, if the rust overlay for instance just exposes an overlay then you won’t need the follows since the overlay will be applied to your “main” nixpkgs input anyways, I don’t think flake-compat depends on nixpkgs at all, flake-utils claims to be pure nix and thus shouldn’t require nixpkgs either.
 
+[installables docs](https://nix.dev/manual/nix/2.26/command-ref/new-cli/nix#installables). [document the "installable" concept](https://github.com/NixOS/nix/issues/11105)  
 
+> If attrpath is omitted, Nix tries some default values; for most subcommands, the default is packages.system.default (e.g. packages.x86_64-linux.default), but some subcommands have other defaults. If attrpath is specified, attrpath is interpreted as relative to one or more prefixes; for most subcommands, these are packages.system, legacyPackages.*system* and the empty prefix. Thus, on x86_64-linux nix build nixpkgs#hello will try to build the attributes packages.x86_64-linux.hello, legacyPackages.x86_64-linux.hello and hello.
 
-
+> If attrpath begins with . then no prefixes or defaults are attempted. This allows the form flakeref[#.attrpath], such as github:NixOS/nixpkgs#.lib.fakeSha256 to avoid a search of packages.*system*.lib.fakeSha256
 

@@ -797,4 +797,6 @@ Another one:
 
 [Prompting Isn't Enough: What I Learned When Switching from ChatGPT to Claude's MCP](https://www.reddit.com/r/ClaudeAI/comments/1jgmrvi/prompting_isnt_enough_what_i_learned_when/)
 
+[Latest Memo: The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
+
 

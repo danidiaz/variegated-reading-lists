@@ -765,6 +765,13 @@ Back and forward in vscode
 
 [how to paste into tmux from system clipboard](https://superuser.com/questions/1540118/how-to-paste-into-tmux-from-system-clipboard)
 
+[better shell history search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
+
+[Copy last terminal command to clipboard in Linux and macOS](https://hachyderm.io/@DiazCarrete/114236061013435794)
+
+OJO! Raycast has support for hyperkey!!! Notion also installs some global always-on shortcuts (possible interference?)
+
+
 
 
 

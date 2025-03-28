@@ -1289,3 +1289,6 @@ What! This does work! How to go in the opposite direction?
 
 > If attrpath begins with . then no prefixes or defaults are attempted. This allows the form flakeref[#.attrpath], such as github:NixOS/nixpkgs#.lib.fakeSha256 to avoid a search of packages.*system*.lib.fakeSha256
 
+[flake outputs](https://nixos-and-flakes.thiscute.world/other-usage-of-flakes/outputs#flake-outputs)
+
+

@@ -919,5 +919,8 @@ Bernini, his life and his Rome
 
 [Why You Should Play Hex-and-Counter Wargames](https://www.goonhammer.com/the-games-of-our-fathers-why-you-should-play-hex-and-counter-wargames/)
 
+[Taking Composition in Godot A little Far](https://www.youtube.com/watch?v=lWyUC7BTqXA)
+
+
 
 

@@ -1291,4 +1291,8 @@ What! This does work! How to go in the opposite direction?
 
 [flake outputs](https://nixos-and-flakes.thiscute.world/other-usage-of-flakes/outputs#flake-outputs)
 
+[vscode in nixos](https://www.reddit.com/r/NixOS/comments/14p3q7t/comment/jqgh5x0/). [wiki](https://nixos.wiki/wiki/Visual_Studio_Code). [unfree software](https://nixos.wiki/wiki/Unfree_Software).
+
+> With VS Code on Nix you’ve got two options. You can manage everything, including plugins and version declaratively (i.e. the Nix-iest way of doing it) or alternatively use the VSCode-FHS wrapper that essentially hides your filesystem from the application and makes it think it’s running on a traditional system, thereby allowing you to set plugins, version, etc. in the way you might be more accustomed to. There’s also a Flatpak version which may see slightly faster updates and similar performance to the -FHS wrapper.
+
 

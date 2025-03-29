@@ -1301,8 +1301,8 @@ What! This does work! How to go in the opposite direction?
 
 > Also, to wrap it [configuration.nix], from the flake you call nixpkgs.lib.nixosSystem and import the module that way
 
+[`nix store gc` equivalent to `–delete-older-than`?](https://discourse.nixos.org/t/nix-store-gc-equivalent-to-delete-older-than/31767). [nix profile wipe-history](https://nix.dev/manual/nix/2.25/command-ref/new-cli/nix3-profile-wipe-history)
 
-
-
+> nix-collect-garbage --delete-old
 
 

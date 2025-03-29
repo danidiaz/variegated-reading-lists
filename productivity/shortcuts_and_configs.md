@@ -775,5 +775,13 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [connecting subgraphs in graphviz](https://stackoverflow.com/questions/2012036/graphviz-how-to-connect-subgraphs). [It is possible to group nodes in graphviz by putting them into a cluster.](https://stackoverflow.com/questions/8366314/drawing-a-border-around-a-set-of-vertices-in-graphviz)
 
+[Neovim providers](https://neovim.io/doc/user/provider.html)
+
+> :h providers
+
+[WSL paste to terminal](https://stackoverflow.com/a/38925880/1364288)
+
+> Actions > Ctrl+Shift+v
+
 
 

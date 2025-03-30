@@ -1315,4 +1315,12 @@ What! This does work! How to go in the opposite direction?
 
 > trying to do a complex user-focused nixos without home manager essentially ends up being rewriting home manager, because you need to sort the problem of writing files from a nix build into $HOME and handling user services. Neither is trivial
 
+[Home manager flake NixOS module](https://nix-community.github.io/home-manager/index.xhtml#sec-flakes-nixos-module). [Getting Started with Home Manager](https://nixos-and-flakes.thiscute.world/nixos-with-flakes/start-using-home-manager)
+
+> According to the official Home Manager Manual, to install Home Manager as a module of NixOS, we first need to create /etc/nixos/home.nix. 
+
+> There are many software packages or configurations that can be set up using either NixOS Modules (configuration.nix) or Home Manager (home.nix), which brings about a choice dilemma: What is the difference between placing software packages or configuration files in NixOS Modules versus Home Manager, and how should one make a decision?
+
+
+
 

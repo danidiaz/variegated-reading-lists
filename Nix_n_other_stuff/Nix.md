@@ -1311,4 +1311,8 @@ What! This does work! How to go in the opposite direction?
 
 [home.file, home-manager](https://discourse.nixos.org/t/deploy-files-into-home-directory-with-home-manager/24018/2). [docs](https://nix-community.github.io/home-manager/options.xhtml#opt-home.file). [reddit](https://www.reddit.com/r/NixOS/comments/1c3tgs2/comment/kzj529x/). 
 
+[How to manage user configuration with flakes without home manager on nixos-21.05?](https://discourse.nixos.org/t/how-to-manage-user-configuration-with-flakes-without-home-manager-on-nixos-21-05/16102/11).
+
+> trying to do a complex user-focused nixos without home manager essentially ends up being rewriting home manager, because you need to sort the problem of writing files from a nix build into $HOME and handling user services. Neither is trivial
+
 

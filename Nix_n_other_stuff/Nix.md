@@ -1351,9 +1351,12 @@ What! This does work! How to go in the opposite direction?
 
 [How to run non-nix executables on NixOS?](https://nix.dev/guides/faq#how-to-run-non-nix-executables)
 
-[home-manager: Using the same home-manager config across multiple machines with different usernames](https://www.reddit.com/r/NixOS/comments/10tu984/using_the_same_homemanager_config_across_multiple/). [How to set up a configuration for multiple users/machines?](https://nix-community.github.io/home-manager/index.xhtml#_how_to_set_up_a_configuration_for_multiple_users_machines).
+[home-manager: Using the same home-manager config across multiple machines with different usernames](https://www.reddit.com/r/NixOS/comments/10tu984/using_the_same_homemanager_config_across_multiple/). [How to set up a configuration for multiple users/machines?](https://nix-community.github.io/home-manager/index.xhtml#_how_to_set_up_a_configuration_for_multiple_users_machines). [modularizing home.nix](https://discourse.nixos.org/t/is-this-a-good-way-to-modularize-home-manager-home-nix-for-home-work/5817)
+
+> Optionally, use home-manager.extraSpecialArgs to pass arguments to home.nix
 
 [home manager: dotfiles management](https://gvolpe.com/blog/home-manager-dotfiles-management/)
 
+[home-manager.extraSpecialArgs](https://nix-community.github.io/home-manager/nixos-options.xhtml#nixos-opt-home-manager.extraSpecialArgs)
 
 

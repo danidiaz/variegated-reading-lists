@@ -1359,4 +1359,20 @@ What! This does work! How to go in the opposite direction?
 
 [home-manager.extraSpecialArgs](https://nix-community.github.io/home-manager/nixos-options.xhtml#nixos-opt-home-manager.extraSpecialArgs)
 
+Example of how to substitute home-manager defined variables:
+
+```
+home.sessionPath = ["${config.home.homeDirectory}zzz"]
+```
+
+[home.username and home.homeDirectory in home.nix, mandatory for NixOS?](https://discord.com/channels/568306982717751326/570351771336310804/1356010317632635132) 
+
+> only mandatory for standalone, as home manager's nixos module can grab those values from the nixos options set
+
+> and as such, for the hm nixos module, you do not need to set programs.home-manager.enable in HM, as that only adds the CLI which is for managing standalone installations
+
+[Appendix A. Home Manager Configuration Options](https://nix-community.github.io/home-manager/options.xhtml)
+
+> Whereas option values can generally depend on other option values thanks to laziness, this does not apply to imports, which must be computed statically before anything else.
+
 

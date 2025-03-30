@@ -1309,6 +1309,6 @@ What! This does work! How to go in the opposite direction?
 
 > nix-collect-garbage --delete-old
 
-[home.file vs. home-manager](https://discourse.nixos.org/t/deploy-files-into-home-directory-with-home-manager/24018/2). [docs](https://nix-community.github.io/home-manager/options.xhtml#opt-home.file). [reddit](https://www.reddit.com/r/NixOS/comments/1c3tgs2/comment/kzj529x/). 
+[home.file, home-manager](https://discourse.nixos.org/t/deploy-files-into-home-directory-with-home-manager/24018/2). [docs](https://nix-community.github.io/home-manager/options.xhtml#opt-home.file). [reddit](https://www.reddit.com/r/NixOS/comments/1c3tgs2/comment/kzj529x/). 
 
 

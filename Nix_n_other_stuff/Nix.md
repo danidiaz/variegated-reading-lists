@@ -1321,6 +1321,20 @@ What! This does work! How to go in the opposite direction?
 
 > There are many software packages or configurations that can be set up using either NixOS Modules (configuration.nix) or Home Manager (home.nix), which brings about a choice dilemma: What is the difference between placing software packages or configuration files in NixOS Modules versus Home Manager, and how should one make a decision?
 
+[managing configurations with Git](https://nixos-and-flakes.thiscute.world/nixos-with-flakes/other-useful-tips#managing-the-configuration-with-git)
+
+[runCommand](https://nixos-and-flakes.thiscute.world/development/intro#creating-a-development-environment-with-pkgs-runcommand). [trivial builders](https://ryantm.github.io/nixpkgs/builders/trivial-builders/). [why the need of makeWrapper](https://gist.github.com/CMCDragonkai/9b65cbb1989913555c203f4fa9c23374). [more](https://discourse.nixos.org/t/makewrapper-vs-buildinputs/21474). [more on inputs](https://gist.github.com/CMCDragonkai/45359ee894bc0c7f90d562c4841117b5). [nativeBuildInputs and cross-compiling (old)](https://github.com/NixOS/nixpkgs/issues/19370). [more](https://nixos.wiki/wiki/Development_environment_with_nix-shell)
+
+> buildInputs simply make the listed packages available to the build environment. It is up to the individual build systems to ensure that runtime dependencies are available at runtime. The ld wrapper included in the standard environment does this automatically for ELF libraries but for programs, you may need to do it manually using a wrapper or by hardcoding the path into the executable using a patch.
+
+> The comments in the code snippets on nativeBuildInputs and buildInputs above might seem pedantic --- who cares about build-time vs run-time when we're just making a dev environment, not a real package! However, the distinction becomes of practical importance if one wants a cross compilation development environment [...] nativeBuildInputs would be for the native platform, while buildInputs would be for the foreign platform
+
+[the official docs for nativeBuildInputs](https://nixos.org/manual/nixpkgs/stable/#variables-specifying-dependencies)
+
+
+
+
+
 
 
 

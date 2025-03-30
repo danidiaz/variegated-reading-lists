@@ -1331,10 +1331,29 @@ What! This does work! How to go in the opposite direction?
 
 [the official docs for nativeBuildInputs](https://nixos.org/manual/nixpkgs/stable/#variables-specifying-dependencies)
 
+> [nativeBuildInputs] This could be called depsBuildHost but nativeBuildInputs is used for historical continuity.
 
+> [buildInputs] This would be called depsHostTarget but for historical continuity.
 
+> buildInputs [...] are often programs and libraries used by the new derivation at run-time, but that isn’t always the case. For example, the machine code in a statically-linked library is only used at run-time, but the derivation containing the library is only needed at build-time.
 
+[cross-compilation at nix.dev](https://nix.dev/tutorials/cross-compilation.html)
 
+[Setting up tmux with nix home-manager](https://haseebmajid.dev/posts/2023-07-10-setting-up-tmux-with-nix-home-manager/). [programs.tmux.extraConfig](https://nix-community.github.io/home-manager/options.xhtml#opt-programs.tmux.extraConfig). [readFile](https://nix.dev/manual/nix/2.25/language/builtins.html#builtins-readFile) [In configuration.nix can I read a value from a file?](https://discourse.nixos.org/t/in-configuration-nix-can-i-read-a-value-from-a-file/4809/1)
+
+[units of composition: recipes, overlays, and packages](https://archive.fosdem.org/2024/events/attachments/fosdem-2024-3107-units-of-composition-recipes-overlays-and-packages/slides/22506/flox_VEN2Zai.pdf). [video](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-3107-units-of-composition-recipes-overlays-and-packages/).
+
+[Package parameters and overrides with callPackage](https://nix.dev/tutorials/callpackage.html)
+
+[home.sessionPath](https://nix-community.github.io/home-manager/options.xhtml#opt-home.sessionPath)
+
+[home-manager flake in a standalone setup in non-NixOS systems](https://nix-community.github.io/home-manager/index.xhtml#sec-flakes-standalone)
+
+[How to run non-nix executables on NixOS?](https://nix.dev/guides/faq#how-to-run-non-nix-executables)
+
+[home-manager: Using the same home-manager config across multiple machines with different usernames](https://www.reddit.com/r/NixOS/comments/10tu984/using_the_same_homemanager_config_across_multiple/). [How to set up a configuration for multiple users/machines?](https://nix-community.github.io/home-manager/index.xhtml#_how_to_set_up_a_configuration_for_multiple_users_machines).
+
+[home manager: dotfiles management](https://gvolpe.com/blog/home-manager-dotfiles-management/)
 
 
 

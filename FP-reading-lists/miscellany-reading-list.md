@@ -1030,4 +1030,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Pixelpusher](https://gitlab.com/-/snippets/4817016). [circular obstacle pathfinding](https://redblobgames.github.io/circular-obstacle-pathfinding/)
 
+[Unfolding trees breadth-first in Haskell](https://blog.poisson.chat/posts/2025-03-30-breadth-first-unfolds.html)
+
 

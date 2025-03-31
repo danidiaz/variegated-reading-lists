@@ -1375,4 +1375,19 @@ home.sessionPath = ["${config.home.homeDirectory}zzz"]
 
 > Whereas option values can generally depend on other option values thanks to laziness, this does not apply to imports, which must be computed statically before anything else.
 
+A possible example of importing something into home.nix?
+
+```
+{ config, pkgs, ... }:
+
+{
+ imports = [ ./foo.nix ];
+  programs.home-manager.enable = true;
+  }
+```
+
+[NixOS modules (Nixwiki)](https://nixos.wiki/wiki/NixOS_modules). [modules — NixOS quickstart](https://bits.raccoon.fun/nixos-quickstart/modules/modules.html). [Writing NixOS modules](https://nixos.org/manual/nixos/stable/index.html#sec-writing-modules).
+
+
+
 

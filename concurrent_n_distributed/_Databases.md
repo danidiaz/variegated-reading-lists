@@ -1014,6 +1014,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [MySQL transactions per second vs. fsyncs per second (2020)](https://news.ycombinator.com/item?id=43440920)
 
+[petabyte clickhouse stores](https://www.tinybird.co/blog-posts/what-i-learned-operating-clickhouse)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

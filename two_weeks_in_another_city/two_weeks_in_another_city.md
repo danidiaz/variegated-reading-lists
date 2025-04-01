@@ -921,6 +921,9 @@ Bernini, his life and his Rome
 
 [Taking Composition in Godot A little Far](https://www.youtube.com/watch?v=lWyUC7BTqXA)
 
+[The case against conversational interfaces](https://news.ycombinator.com/item?id=43542131)
+
+
 
 
 

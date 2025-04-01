@@ -799,4 +799,10 @@ Another one:
 
 [Latest Memo: The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
 
+[AI agents: Less capability, more reliability, please](https://news.ycombinator.com/item?id=43535653)
+
+[mcp servers explained](https://www.youtube.com/watch?v=Wp0p7iKH6ho).
+
+[why I stopped](https://www.reddit.com/r/programming/s/c5elM8asNf)
+
 

@@ -245,7 +245,7 @@
 
 [Debugging an Undebuggable App](https://news.ycombinator.com/item?id=43081713). [How setup a React project with Vite, Typescript and Tailwind](https://www.reddit.com/r/reactjs/comments/1irl9pc/how_setup_a_react_project_with_vite_typescript/).
 
-
+[Giving up the dylib dream](https://lobste.rs/s/ybbhxp/giving_up_dylib_dream)
 
 
 

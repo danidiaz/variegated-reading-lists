@@ -1388,6 +1388,15 @@ A possible example of importing something into home.nix?
 
 [NixOS modules (Nixwiki)](https://nixos.wiki/wiki/NixOS_modules). [modules — NixOS quickstart](https://bits.raccoon.fun/nixos-quickstart/modules/modules.html). [Writing NixOS modules](https://nixos.org/manual/nixos/stable/index.html#sec-writing-modules).
 
+[Making NixOS modules for fun and (hopefully) profit](https://xeiaso.net/talks/asg-2023-nixos/). [video](https://www.youtube.com/watch?v=SzyuLVzS5Fg). [](). [Basic NixOS Modules](https://www.youtube.com/watch?v=-Bfo3Byjwyg). [NixOS videos](https://www.youtube.com/watch?v=a67Sv4Mbxmc&list=PLko9chwSoP-15ZtZxu64k_CuTzXrFpxPE) [about modules](https://www.youtube.com/watch?v=vYc6IzKvAJQ&list=PLko9chwSoP-15ZtZxu64k_CuTzXrFpxPE&index=22). [A basic module](https://nix.dev/tutorials/module-system/a-basic-module/index.html).
+
+[Understanding NixOS Modules and Declaring Options](https://discourse.nixos.org/t/understanding-nixos-modules-and-declaring-options-blog-post/58932)
+
+[`lib` could be a supported output in flakes](https://github.com/NixOS/nix/issues/4744)
+
+[Difference between a module’s config property and directly defining](https://discourse.nixos.org/t/difference-between-a-modules-config-property-and-directly-defining-options/14972/2)
+
+> As for the difference between putting definitions under config or not, it’s just because doing so is optional if you’re not also declaring options. Just makes config-only files (like a typical beginner’s configuration.nix) a little cleaner looking. Once you want to declare some new options though, you have to put your config definitions under config.
 
 
 

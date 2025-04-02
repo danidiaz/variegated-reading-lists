@@ -1400,5 +1400,7 @@ A possible example of importing something into home.nix?
 
 [nixosOptionsDoc](https://bmcgee.ie/posts/2023/03/til-how-to-generate-nixos-module-docs/)
 
+[Handling Secrets in NixOS: An Overview (git-crypt, agenix, sops-nix, and when to use them)](https://discourse.nixos.org/t/handling-secrets-in-nixos-an-overview-git-crypt-agenix-sops-nix-and-when-to-use-them/35462)
+
 
 

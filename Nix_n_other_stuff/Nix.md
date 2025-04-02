@@ -1422,7 +1422,16 @@ A possible example of importing something into home.nix?
 
 [nix-sops repo](https://github.com/Mic92/sops-nix)
 
+[Sops-nix safe enough to commit id_rsa?](https://discourse.nixos.org/t/sops-nix-safe-enough-to-commit-id-rsa/34354/1). [threat model](https://github.com/getsops/sops#threat-model).
 
+> It should be noted that you can carry the secrets outside your repository 94 if you are concerned about this, sops-nix has support for that.
 
+> Upstream recommends keeping your secrets “reasonably private”, and I’d be a fool to suggest otherwise
+
+> I think “publish on a public GitHub repo” is probably not “reasonably private”. While this wouldn’t result in your secrets immediately leaking, someone may in the future break the encryption used for it. Don’t panic if you’ve shared them already, but maybe consider pulling them offline and changing the secrets and keys involved.
+
+> defaultSopsFile = "/etc/sops/secrets.yaml"; (outside the repo)
+
+[private repositories for an extra layer of security - NixOS Secrets Management - Part 3/3](https://www.youtube.com/watch?v=HnmpYp1_aKo)
 
 

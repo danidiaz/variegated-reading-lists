@@ -1402,5 +1402,27 @@ A possible example of importing something into home.nix?
 
 [Handling Secrets in NixOS: An Overview (git-crypt, agenix, sops-nix, and when to use them)](https://discourse.nixos.org/t/handling-secrets-in-nixos-an-overview-git-crypt-agenix-sops-nix-and-when-to-use-them/35462)
 
+> I’d be much more careful with this statement. Security without a threat model is somewhat vague, of course, but a lot of measures that NixOS as well as pretty much all services that deal with secrets provide depend on it being difficult to cross the user barrier.
+
+> Most services will have their own users - not just humans - to prevent other (potentially exploited) services from being able to interfere with them. If you add secrets to your nix store, all systemd “hardening” becomes basically useless at protecting those secrets, and if user passwords are some of those secrets all other on-host security measures break down.
+
+> sops is pretty explicit about public repos being a threat in the eyes of their threat model 246. I imagine similar things apply to agenix.
+
+> A vulnerability in AES256_GCM could potentially leak the data key or the KMS master key used by a SOPS encrypted file. While no such vulnerability exists today, we recommend that users keep their encrypted files reasonably private.
+
+[agenix threat model](https://github.com/ryantm/agenix/blob/main/README.md#threat-modelwarnings). [Harvest now, decrypt later](https://en.wikipedia.org/wiki/Harvest_now,_decrypt_later).
+
+>  Additionally you should only encrypt secrets that you are able to make useless in the event that they are decrypted in the future and be ready to rotate them periodically as age is as of 19th June 2024 NOT Post-Quantum Safe and so in case the threat actor can access your encrypted keys e.g. via their use in a public repository then they can utilize the strategy of Harvest Now, Decrypt Later
+
+[secrix](https://journal.platonic.systems/introducing-secrix/)
+
+> Agenix is great at managing secrets until a system restart is needed or a wild power outage strikes—in which case, by default, you’ll need to redeploy to get your secrets back. 
+
+[sops post](https://konradmalik.com/posts/2023/02/sops-nix-simple-secrets-management-for-nix/). [another](https://zohaib.me/managing-secrets-in-nixos-home-manager-with-sops/)
+
+[nix-sops repo](https://github.com/Mic92/sops-nix)
+
+
+
 
 

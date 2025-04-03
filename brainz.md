@@ -805,4 +805,6 @@ Another one:
 
 [why I stopped](https://www.reddit.com/r/programming/s/c5elM8asNf)
 
+[Reasoning models don't always say what they think](https://news.ycombinator.com/item?id=43572374)
+
 

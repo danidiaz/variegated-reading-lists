@@ -250,6 +250,8 @@
 
 [Structured Traversals for (Mutually) Recursive Algebraic Data Types](https://www.youtube.com/watch?v=Xk_inDd0Pgk&t=1s)
 
+[Language-Integrated Recursive Queries](https://bsky.app/profile/cspl-bot.bsky.social/post/3llxqfhoh4k2s). [arxiv](https://arxiv.org/abs/2504.02443).
+
 ## software
 
 [recursion-schemes](http://hackage.haskell.org/package/recursion-schemes). [recursion-schemes-5.1](https://twitter.com/haskell_cat/status/1073935341944537089).

@@ -1434,4 +1434,6 @@ A possible example of importing something into home.nix?
 
 [private repositories for an extra layer of security - NixOS Secrets Management - Part 3/3](https://www.youtube.com/watch?v=HnmpYp1_aKo)
 
+[nixos-anywhere guide](https://www.youtube.com/watch?v=4sypfTBuEbA&t=5s)
+
 

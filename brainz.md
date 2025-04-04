@@ -807,4 +807,8 @@ Another one:
 
 [Reasoning models don't always say what they think](https://news.ycombinator.com/item?id=43572374)
 
+[d on natural language programmign](https://news.ycombinator.com/item?id=43564386)
+
+[fixing llm code](https://www.reddit.com/r/ExperiencedDevs/comments/1jqp3s3/i_now_spend_most_of_my_time_debugging_and_fixing/)
+
 

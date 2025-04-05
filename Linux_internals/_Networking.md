@@ -172,6 +172,14 @@
 
 [CGNAT and self-hosting](https://www.reddit.com/r/selfhosted/comments/170ku6z/has_anyone_been_able_to_successfully_self_host/). [video](https://www.youtube.com/watch?v=aAzdn9cqYRY). [video](https://www.youtube.com/watch?v=7TOwr1Hs9fk). [DDOSing](https://bsky.app/profile/tef.bsky.social/post/3lgfvodmdrs2u)
 
+[How netcat can listen to the same port on the same host from two different terminals?](https://stackoverflow.com/questions/37570647/how-netcat-can-listen-to-the-same-port-on-the-same-host-from-two-different-termi). [two apps on the same port](https://stackoverflow.com/questions/1694144/can-two-applications-listen-to-the-same-port)
+
+[Unshare and port forwarding into namespace](https://serverfault.com/questions/1151515/unshare-and-port-forwarding-into-namespace). [Is it possible to run 'unshare -n [program]' as an unprivileged user?](https://unix.stackexchange.com/questions/252714/is-it-possible-to-run-unshare-n-program-as-an-unprivileged-user). [Network namespace & slirp4netns - access namespaced network from host](https://unix.stackexchange.com/questions/637159/network-namespace-slirp4netns-access-namespaced-network-from-host). [Network namespaces to the Internet with veth and NAT](https://josephmuia.ca/2018-05-16-net-namespaces-veth-nat/)
+
+
+
+
+
 
 
 

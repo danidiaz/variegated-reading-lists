@@ -1436,4 +1436,6 @@ A possible example of importing something into home.nix?
 
 [nixos-anywhere guide](https://www.youtube.com/watch?v=4sypfTBuEbA&t=5s)
 
+[Just, Nix Shell and Podman are a Killer Combo](https://www.reddit.com/r/NixOS/comments/xwmx6o/just_nix_shell_and_podman_are_a_killer_combo/)
+
 

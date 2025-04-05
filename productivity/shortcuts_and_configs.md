@@ -783,5 +783,12 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 > Actions > Ctrl+Shift+v
 
+[unshare](https://man7.org/linux/man-pages/man1/unshare.1.html). [MacOS's counterpart to Linux's unshare(2)](https://unix.stackexchange.com/questions/504030/macoss-counterpart-to-linuxs-unshare2)
+
+[podman on macos](https://podman.io/docs/installation)
+
+> While "containers are Linux," Podman also runs on Mac and Windows, where it provides a native podman CLI and embeds a guest Linux system to launch your containers. This guest is referred to as a Podman machine and is managed with the podman machine command. Podman on Mac and Windows also listens for Docker API clients, supporting direct usage of Docker-based tools and programmatic access from your language of choice.
+
+> On Mac, each Podman machine is backed by a virtual machine.
 
 

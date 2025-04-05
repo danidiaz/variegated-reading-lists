@@ -811,4 +811,6 @@ Another one:
 
 [fixing llm code](https://www.reddit.com/r/ExperiencedDevs/comments/1jqp3s3/i_now_spend_most_of_my_time_debugging_and_fixing/)
 
+[Why you should maintain a personal LLM coding benchmark](https://bsky.app/profile/jalonso.bsky.social/post/3llyfwpbnwk2o)
+
 

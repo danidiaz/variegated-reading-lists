@@ -27,4 +27,5 @@
 
 [surrogate keys](https://softwareengineering.stackexchange.com/questions/114728/why-is-naming-a-tables-primary-key-column-id-considered-bad-practice#comment865670_170703)
 
+[5 Ways to Better Understand SQL by Adding Optional Parentheses](https://blog.jooq.org/better-understand-sql-by-adding-optional-parentheses/)
 

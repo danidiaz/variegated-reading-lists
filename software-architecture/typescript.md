@@ -226,4 +226,9 @@ const conforms: OnlyBoolsAndHorses = {
 
 [TypeScript enums](https://news.ycombinator.com/item?id=42766729)
 
+[TypeScript 5.0 decorators](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/#decorators). [A practical guide to TypeScript decorators
+](https://blog.logrocket.com/practical-guide-typescript-decorators/)
+
+
+
 

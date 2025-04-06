@@ -793,4 +793,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [ANSI escape code](https://en.wikipedia.org/wiki/ANSI_escape_code)
 
+[Min/Maxxing VS Code by Stripping the UI and Adding Vim](https://www.youtube.com/watch?v=F7ZEKjDia1c)
+
 

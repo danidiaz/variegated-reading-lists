@@ -29,3 +29,6 @@
 
 [5 Ways to Better Understand SQL by Adding Optional Parentheses](https://blog.jooq.org/better-understand-sql-by-adding-optional-parentheses/)
 
+[naming conventions best practices](https://emergentsoftware.github.io/SQL-Server-Development-Assessment/best-practices-and-potential-findings/naming-conventions#naming-conventions)
+
+

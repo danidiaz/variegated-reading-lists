@@ -1032,4 +1032,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Unfolding trees breadth-first in Haskell](https://blog.poisson.chat/posts/2025-03-30-breadth-first-unfolds.html)
 
+[Compilers: Incrementally and Extensibly](https://okmij.org/ftp/tagless-final/Compiler/)
+
+
 

@@ -31,4 +31,14 @@
 
 [naming conventions best practices](https://emergentsoftware.github.io/SQL-Server-Development-Assessment/best-practices-and-potential-findings/naming-conventions#naming-conventions)
 
+[problems with ON DELETE CASCADE](https://dba.stackexchange.com/questions/275212/disadvantages-to-using-on-delete-cascade-on-every-foreign-key). [style guide against it](https://emergentsoftware.github.io/SQL-Server-Development-Assessment/best-practices-and-potential-findings/table-conventions#using-cascading-actions-on-foreign-key). [post](https://www.brentozar.com/archive/2018/11/adventures-in-foreign-keys-a-cascade-of-badness/). [dba se](https://dba.stackexchange.com/questions/254605/is-it-a-good-or-bad-idea-to-use-on-update-cascade-on-delete-cascade-for-foreig). [another](https://stackoverflow.com/questions/12096790/why-to-use-foreign-keys-with-no-action-on-delete-or-update). [another](https://stackoverflow.com/questions/2204792/is-it-bad-to-rely-on-foreign-key-cascading).
+
+> Also, in a lot of cases with real data you don't actually want a cascaded delete. For example, if a manager leaves a company, you don't want to delete their sub-ordinates because assigning a new manager first was forgotten or prevented by a bug.
+
+
+
+
+
+
+
 

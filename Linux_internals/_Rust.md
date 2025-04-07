@@ -200,6 +200,6 @@
 
 [Tracing Large Memory Allocations in Rust with BPFtrace](https://readyset.io/blog/tracing-large-memory-allocations-in-rust-with-bpftrace)
 
-
+[Thinking like a compiler: places and values in Rust](https://steveklabnik.com/writing/thinking-like-a-compiler-places-and-values-in-rust/)
 
 

@@ -35,6 +35,8 @@
 
 > Also, in a lot of cases with real data you don't actually want a cascaded delete. For example, if a manager leaves a company, you don't want to delete their sub-ordinates because assigning a new manager first was forgotten or prevented by a bug.
 
+[What are good migration libraries alternatives to Flyway?](https://www.reddit.com/r/java/comments/1jtt38e/what_are_good_migration_libraries_alternatives_to/)
+
 
 
 

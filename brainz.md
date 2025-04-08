@@ -813,4 +813,8 @@ Another one:
 
 [Why you should maintain a personal LLM coding benchmark](https://bsky.app/profile/jalonso.bsky.social/post/3llyfwpbnwk2o)
 
+[Latest Memo: The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
+
+
+
 

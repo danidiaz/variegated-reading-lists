@@ -1090,4 +1090,9 @@ deals with its own properties.
 
 [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
 
+[Equivalence Hypergraphs: E-Graphs for Monoidal Theories](https://arxiv.org/abs/2406.15882)
+
+> The technique of equipping graphs with an equivalence relation, called equality saturation, has recently proved both powerful and practical in program optimisation, particularly for satisfiability modulo theory solvers. We give a categorical semantics to these structures, called e-graphs, in terms of Cartesian categories enriched over a semilattice.
+
+
 

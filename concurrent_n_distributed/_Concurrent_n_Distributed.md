@@ -813,4 +813,6 @@ https://news.ycombinator.com/item?id=25061901
 
 [Versioning versus Coordination](https://brooker.co.za/blog/2025/02/04/versioning.html)
 
+[The Synchrony Budget](https://www.morling.dev/blog/the-synchrony-budget/)
+
 

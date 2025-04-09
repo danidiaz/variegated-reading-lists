@@ -817,6 +817,8 @@ Another one:
 
 [talking with your logs](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3lmezt5wjoc23)
 
+[Obituary for Cyc | Lobsters](https://lobste.rs/s/ab6qap/obituary_for_cyc). [hn](https://news.ycombinator.com/item?id=43625474).
+
 
 
 

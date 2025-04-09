@@ -38,4 +38,6 @@ http://www.i3s.unice.fr/~urvoy/docs/VICC/3_vicc.pdf
 
 [User-space interrupts](https://lwn.net/Articles/871113/)
 
+[the chroot technique](https://news.ycombinator.com/item?id=43632379)
+
 

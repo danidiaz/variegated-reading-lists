@@ -815,6 +815,8 @@ Another one:
 
 [Latest Memo: The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
 
+[talking with your logs](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3lmezt5wjoc23)
+
 
 
 

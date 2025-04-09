@@ -819,6 +819,10 @@ Another one:
 
 [Obituary for Cyc | Lobsters](https://lobste.rs/s/ab6qap/obituary_for_cyc). [hn](https://news.ycombinator.com/item?id=43625474).
 
+[VS Code Agent Mode](https://www.youtube.com/watch?v=dutyOc_cAEU)
+
+
+
 
 
 

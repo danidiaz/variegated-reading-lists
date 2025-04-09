@@ -819,7 +819,9 @@ Another one:
 
 [Obituary for Cyc | Lobsters](https://lobste.rs/s/ab6qap/obituary_for_cyc). [hn](https://news.ycombinator.com/item?id=43625474).
 
-[VS Code Agent Mode](https://www.youtube.com/watch?v=dutyOc_cAEU)
+[VS Code Agent Mode](https://www.youtube.com/watch?v=dutyOc_cAEU). [Incorporación de instrucciones personalizadas del repositorio para GitHub Copilot](https://docs.github.com/es/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot).
+
+
 
 
 

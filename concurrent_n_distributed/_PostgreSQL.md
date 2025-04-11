@@ -469,4 +469,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
 
+[Some of my favorite PostgreSQLisms](https://www.postgresonline.com/journal/index.php?/archives/414-Some-of-my-favorite-PostgreSQLisms.html)
+
 

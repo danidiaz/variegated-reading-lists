@@ -823,6 +823,14 @@ Another one:
 
 > Custom instructions are not visible in the Chat view or inline chat, but you can verify that they are being used by Copilot by looking at the References list of a response in the Chat view. 
 
+[Ask questions about your project](https://docs.github.com/en/copilot/using-github-copilot/copilot-chat/getting-started-with-prompts-for-copilot-chat#ask-questions-about-your-project)
+
+> To give Copilot the correct context, try some of these strategies:
+>
+> Highlight relevant lines of code.
+> Use chat variables like #selection, #file, #editor, #codebase, or #git.
+> Use the @workspace chat participant.
+
 [How People Are Really Using Gen AI in 2025](https://hbr.org/2025/04/how-people-are-really-using-gen-ai-in-2025?ab=HP-hero-latest-2)
 
 [we already copy-pasted a lot](https://bsky.app/profile/moultano.bsky.social/post/3lml55eprt22a)

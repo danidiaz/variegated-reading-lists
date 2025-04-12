@@ -797,4 +797,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [How git cherry-pick and revert use 3-way merge](https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/)
 
+[better shell history search](https://news.ycombinator.com/item?id=43476793). [example](https://bsky.app/profile/apoorvalal.com/post/3lml33vmlyc2f).
+
 

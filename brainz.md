@@ -823,6 +823,8 @@ Another one:
 
 [How People Are Really Using Gen AI in 2025](https://hbr.org/2025/04/how-people-are-really-using-gen-ai-in-2025?ab=HP-hero-latest-2)
 
+[we already copy-pasted a lot](https://bsky.app/profile/moultano.bsky.social/post/3lml55eprt22a)
+
 
 
 

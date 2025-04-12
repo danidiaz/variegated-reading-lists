@@ -821,6 +821,8 @@ Another one:
 
 [VS Code Agent Mode](https://www.youtube.com/watch?v=dutyOc_cAEU). [Incorporación de instrucciones personalizadas del repositorio para GitHub Copilot](https://docs.github.com/es/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot).
 
+[How People Are Really Using Gen AI in 2025](https://hbr.org/2025/04/how-people-are-really-using-gen-ai-in-2025?ab=HP-hero-latest-2)
+
 
 
 

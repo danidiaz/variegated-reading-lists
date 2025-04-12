@@ -864,4 +864,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [security treadmills](https://www.macchaffee.com/blog/2025/security-treadmill/)
 
+[HOTP & TOTP from scratch](https://www.reddit.com/r/programming/comments/1jwq9c2/i_implemented_hotp_totp_from_scratch_to/)
+
 

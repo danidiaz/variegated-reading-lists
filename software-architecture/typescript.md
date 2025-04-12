@@ -229,6 +229,6 @@ const conforms: OnlyBoolsAndHorses = {
 [TypeScript 5.0 decorators](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/#decorators). [A practical guide to TypeScript decorators
 ](https://blog.logrocket.com/practical-guide-typescript-decorators/)
 
-
+[zod 4](https://www.youtube.com/watch?v=xcm53k0ePmY)
 
 

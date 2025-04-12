@@ -489,6 +489,8 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Voxxed Days Amsterdam 2025 recording](https://www.reddit.com/r/java/comments/1jw8jau/voxxed_days_amsterdam_2025_recordings_have_just/)
 
+[XML to File with a Transformer](https://www.youtube.com/shorts/K1TPQOZaRiU)
+
 
 
 

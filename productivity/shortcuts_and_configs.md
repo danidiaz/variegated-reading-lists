@@ -795,4 +795,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [Min/Maxxing VS Code by Stripping the UI and Adding Vim](https://www.youtube.com/watch?v=F7ZEKjDia1c)
 
+[How git cherry-pick and revert use 3-way merge](https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/)
+
 

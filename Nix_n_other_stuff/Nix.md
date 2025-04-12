@@ -1438,4 +1438,6 @@ A possible example of importing something into home.nix?
 
 [Just, Nix Shell and Podman are a Killer Combo](https://www.reddit.com/r/NixOS/comments/xwmx6o/just_nix_shell_and_podman_are_a_killer_combo/)
 
+[private keys in Nixos](https://hachyderm.io/@nobodyinperson@fosstodon.org/113698395612510425)
+
 

@@ -491,6 +491,8 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [XML to File with a Transformer](https://www.youtube.com/shorts/K1TPQOZaRiU)
 
+[valueOf, of](https://www.youtube.com/shorts/YB6b1mxg-cY)
+
 
 
 

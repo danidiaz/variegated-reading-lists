@@ -819,7 +819,9 @@ Another one:
 
 [Obituary for Cyc | Lobsters](https://lobste.rs/s/ab6qap/obituary_for_cyc). [hn](https://news.ycombinator.com/item?id=43625474).
 
-[VS Code Agent Mode](https://www.youtube.com/watch?v=dutyOc_cAEU). [Incorporación de instrucciones personalizadas del repositorio para GitHub Copilot](https://docs.github.com/es/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot).
+[VS Code Agent Mode](https://www.youtube.com/watch?v=dutyOc_cAEU). [Incorporación de instrucciones personalizadas del repositorio para GitHub Copilot](https://docs.github.com/es/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot). [references (how they differ from context?)](). [@workspace](https://code.visualstudio.com/docs/copilot/reference/workspace-context).
+
+> Custom instructions are not visible in the Chat view or inline chat, but you can verify that they are being used by Copilot by looking at the References list of a response in the Chat view. 
 
 [How People Are Really Using Gen AI in 2025](https://hbr.org/2025/04/how-people-are-really-using-gen-ai-in-2025?ab=HP-hero-latest-2)
 

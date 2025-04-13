@@ -1016,6 +1016,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [petabyte clickhouse stores](https://www.tinybird.co/blog-posts/what-i-learned-operating-clickhouse)
 
+[resources to understand normalisation](https://www.reddit.com/r/Database/comments/1jwpge7/i_want_to_understand_normalisation_in_detail_can/)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

@@ -835,6 +835,8 @@ Another one:
 
 [we already copy-pasted a lot](https://bsky.app/profile/moultano.bsky.social/post/3lml55eprt22a)
 
+[the bitter prediction](https://news.ycombinator.com/item?id=43662686)
+
 
 
 

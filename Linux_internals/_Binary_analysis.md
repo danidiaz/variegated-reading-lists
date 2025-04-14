@@ -30,4 +30,6 @@
 
 [Picking Glibc Versions at Runtime](https://news.ycombinator.com/item?id=41609771)
 
+[a way of obfuscating](https://hachyderm.io/@whitequark@mastodon.social/114335809914963541)
+
 

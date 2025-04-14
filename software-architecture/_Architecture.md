@@ -1649,4 +1649,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Don't Be Afraid Of Types](https://lmika.org/2025/03/18/dont-be-afraid-of-types.html)
 
+[Stop Just Loosening Coupling — Start Strengthening Cohesion Too](https://www.reddit.com/r/programming/comments/1jy57q7/stop_just_loosening_coupling_start_strengthening/)
+
+[Ship Software That Does Nothing](https://lobste.rs/s/ns3ugs/ship_software_does_nothing)
+
 

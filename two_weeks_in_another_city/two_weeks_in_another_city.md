@@ -923,6 +923,8 @@ Bernini, his life and his Rome
 
 [The case against conversational interfaces](https://news.ycombinator.com/item?id=43542131)
 
+[Amnesia restored](https://amnesia-restored.com/). [post](https://bsky.app/profile/konstantinosd.bsky.social/post/3lmrjcoo62c2w).
+
 
 
 

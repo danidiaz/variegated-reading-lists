@@ -1137,4 +1137,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [current React](https://www.reddit.com/r/reactjs/comments/1jdd1xy/whats_is_the_most_used_way_to_work_with_react_now/)
 
+[JSX Over The Wire](https://overreacted.io/jsx-over-the-wire/)
+
 

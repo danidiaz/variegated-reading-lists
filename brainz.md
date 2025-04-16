@@ -837,6 +837,8 @@ Another one:
 
 [the bitter prediction](https://news.ycombinator.com/item?id=43662686)
 
+[The Only 3 Videos You Need to Get Started with MCP!](https://www.youtube.com/watch?v=YRfOiB0Im64)
+
 
 
 

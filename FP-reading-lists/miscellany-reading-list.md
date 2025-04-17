@@ -1034,5 +1034,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Compilers: Incrementally and Extensibly](https://okmij.org/ftp/tagless-final/Compiler/)
 
+[Really, ShowS should have been an abstract type.](https://www.hedonisticlearning.com/posts/functional-lists-are-not-difference-lists.html)
+
 
 

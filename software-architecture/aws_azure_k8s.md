@@ -854,4 +854,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Handling billions of invocations – best practices from AWS Lambda](https://aws.amazon.com/es/blogs/compute/handling-billions-of-invocations-best-practices-from-aws-lambda/)
 
+[avoid costly loops in AWS functions](https://aws.plainenglish.io/avoid-costly-loops-in-aws-step-functions-3de36347c9ab)
+
 

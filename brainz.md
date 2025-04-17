@@ -839,6 +839,7 @@ Another one:
 
 [The Only 3 Videos You Need to Get Started with MCP!](https://www.youtube.com/watch?v=YRfOiB0Im64)
 
+[Guiding an LLM for Robust Java ByteBuffer Code](https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html)
 
 
 

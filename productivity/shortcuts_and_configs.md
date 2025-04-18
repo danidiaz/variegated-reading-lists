@@ -799,6 +799,8 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [better shell history search](https://news.ycombinator.com/item?id=43476793). [example](https://bsky.app/profile/apoorvalal.com/post/3lml33vmlyc2f). [but what if history big](https://www.reddit.com/r/zsh/comments/x7uj9e/measuring_the_best_value_of_histsize/)
 
+[Kitty graphical protocol (supported by Ghosttty)](https://sw.kovidgoyal.net/kitty/graphics-protocol/)
+
 
 
 

@@ -841,6 +841,8 @@ Another one:
 
 [Guiding an LLM for Robust Java ByteBuffer Code](https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html)
 
+[mcp 3 of 3](https://youtube.com/shorts/kcE14wp1qZQ?si=PTEqlI4f4kKJGqVc)
+
 
 
 

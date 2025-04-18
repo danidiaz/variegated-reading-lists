@@ -843,6 +843,7 @@ Another one:
 
 [mcp 3 of 3](https://youtube.com/shorts/kcE14wp1qZQ?si=PTEqlI4f4kKJGqVc)
 
+[VS Code Live: Coding with Gemini in GitHub Copilot](https://www.youtube.com/watch?v=anVJ3tktOh4)
 
 
 

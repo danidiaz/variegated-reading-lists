@@ -815,4 +815,9 @@ https://news.ycombinator.com/item?id=25061901
 
 [The Synchrony Budget](https://www.morling.dev/blog/the-synchrony-budget/)
 
+[Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
+
+[Decomposing Aurora DSQL](https://brooker.co.za/blog/2025/04/17/decomposing.html).
+
+
 

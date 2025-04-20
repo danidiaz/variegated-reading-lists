@@ -231,4 +231,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [zod 4](https://www.youtube.com/watch?v=xcm53k0ePmY)
 
+[types vs. interfaces, 2025](https://www.youtube.com/watch?v=e0AIkYrXAYE)
+
 

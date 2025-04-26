@@ -845,7 +845,7 @@ Another one:
 
 [VS Code Live: Coding with Gemini in GitHub Copilot](https://www.youtube.com/watch?v=anVJ3tktOh4)
 
-
+[Watching o3 guess a photo’s location is surreal, dystopian and wildly entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)   
 
 
 

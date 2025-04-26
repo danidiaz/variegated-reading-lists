@@ -847,6 +847,6 @@ Another one:
 
 [Watching o3 guess a photo’s location is surreal, dystopian and wildly entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)   
 
-
+[Avoiding skill atrophy in the age of AI](https://news.ycombinator.com/item?id=43791474)
 
 

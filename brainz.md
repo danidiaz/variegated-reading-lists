@@ -849,4 +849,6 @@ Another one:
 
 [Avoiding skill atrophy in the age of AI](https://news.ycombinator.com/item?id=43791474)
 
+[overbuilding evals](https://softwaredoug.com/blog/2025/04/26/stop-overbuilding-evals)
+
 

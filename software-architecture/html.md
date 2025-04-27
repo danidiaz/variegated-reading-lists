@@ -131,3 +131,6 @@
 
 [Make Your Own Website](https://web.pixelshannon.com/make/). [hn](https://news.ycombinator.com/item?id=43008315).
 
+[remove tags from HEAD](https://lobste.rs/s/hnqkhk/remove_these_tags_from_head)
+
+

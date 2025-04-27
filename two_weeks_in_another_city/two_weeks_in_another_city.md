@@ -925,7 +925,7 @@ Bernini, his life and his Rome
 
 [Amnesia restored](https://amnesia-restored.com/). [post](https://bsky.app/profile/konstantinosd.bsky.social/post/3lmrjcoo62c2w).
 
-
+[How to program a text adventure in C](https://news.ycombinator.com/item?id=43809638)
 
 
 

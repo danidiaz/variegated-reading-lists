@@ -851,4 +851,8 @@ Another one:
 
 [overbuilding evals](https://softwaredoug.com/blog/2025/04/26/stop-overbuilding-evals)
 
+[Chain-of-Vibes](https://blog.thepete.net/blog/2025/04/14/chain-of-vibes/)
+
+[Sycophancy in GPT-4o](https://news.ycombinator.com/item?id=43840842)
+
 

@@ -506,6 +506,6 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [entity component system](https://discourse.haskell.org/t/aztecs-v0-6-a-modular-game-engine-and-ecs-for-haskell/11447/7?u=danidiaz)
 
-
+[Explicit Level Imports awarded best paper at TFP 2025](https://www.well-typed.com/blog/2025/04/explicit-level-imports/)
 
 

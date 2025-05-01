@@ -855,4 +855,8 @@ Another one:
 
 [Sycophancy in GPT-4o](https://news.ycombinator.com/item?id=43840842)
 
+[DeepSeek-Prover-V2](https://news.ycombinator.com/item?id=43847432)
+
+[Ask, Edit, & Agent - In-depth Overview of GitHub Copilot Chat Modes](https://www.youtube.com/watch?v=s7Qzq0ejhjg)
+
 

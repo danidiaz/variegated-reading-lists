@@ -859,4 +859,6 @@ Another one:
 
 [Ask, Edit, & Agent - In-depth Overview of GitHub Copilot Chat Modes](https://www.youtube.com/watch?v=s7Qzq0ejhjg)
 
+[claude integrations](https://news.ycombinator.com/item?id=43859536)
+
 

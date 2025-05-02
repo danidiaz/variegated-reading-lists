@@ -471,4 +471,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Some of my favorite PostgreSQLisms](https://www.postgresonline.com/journal/index.php?/archives/414-Some-of-my-favorite-PostgreSQLisms.html)
 
+[Why Your Workflows Should Be Postgres Rows](https://www.dbos.dev/blog/why-workflows-should-be-postgres-rows)
+
 

@@ -1139,4 +1139,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [JSX Over The Wire](https://overreacted.io/jsx-over-the-wire/)
 
+[Server components give you optionality](https://www.reddit.com/r/reactjs/comments/1kbmi79/server_components_give_you_optionality/)
+
 

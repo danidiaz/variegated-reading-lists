@@ -856,4 +856,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [avoid costly loops in AWS functions](https://aws.plainenglish.io/avoid-costly-loops-in-aws-step-functions-3de36347c9ab)
 
+[step functions deep dive](https://medium.com/@joudwawad/aws-step-functions-deep-dive-f66ea367df6a)
+
 

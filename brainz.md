@@ -853,7 +853,7 @@ Another one:
 
 [Chain-of-Vibes](https://blog.thepete.net/blog/2025/04/14/chain-of-vibes/)
 
-[Sycophancy in GPT-4o](https://news.ycombinator.com/item?id=43840842)
+[Sycophancy in GPT-4o](https://news.ycombinator.com/item?id=43840842). [more](https://news.ycombinator.com/item?id=43870819)
 
 [DeepSeek-Prover-V2](https://news.ycombinator.com/item?id=43847432)
 

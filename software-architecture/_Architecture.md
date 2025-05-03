@@ -1653,4 +1653,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Ship Software That Does Nothing](https://lobste.rs/s/ns3ugs/ship_software_does_nothing)
 
+[settling the file structure debate](https://muhammedsari.me/settling-the-file-structure-debate). [hn](https://news.ycombinator.com/item?id=43869045). 
+
 

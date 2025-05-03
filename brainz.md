@@ -861,4 +861,7 @@ Another one:
 
 [claude integrations](https://news.ycombinator.com/item?id=43859536)
 
+[Cursor vs VSCode Copilot (May 2025 edition)](https://www.reddit.com/r/vscode/comments/1kd58ct/cursor_vs_vscode_copilot_may_2025_edition/)
+
+
 

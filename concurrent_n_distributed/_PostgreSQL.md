@@ -473,4 +473,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Why Your Workflows Should Be Postgres Rows](https://www.dbos.dev/blog/why-workflows-should-be-postgres-rows)
 
+[Understanding transaction visibility in PostgreSQL clusters with read replicas](https://aws.amazon.com/es/blogs/database/understanding-transaction-visibility-in-postgresql-clusters-with-read-replicas/)
+
 

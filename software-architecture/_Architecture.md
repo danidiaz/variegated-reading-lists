@@ -1655,4 +1655,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [settling the file structure debate](https://muhammedsari.me/settling-the-file-structure-debate). [hn](https://news.ycombinator.com/item?id=43869045). 
 
+[example of overkill](https://softwareengineering.stackexchange.com/questions/457245/is-the-separation-of-a-database-process-from-the-main-backend-process-really-go)
+
 

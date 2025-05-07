@@ -1038,5 +1038,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [the extendable records problem](https://www.reddit.com/r/haskell/comments/1k3g2ls/comment/mo2jy1a/)
 
+[driving compilers](https://fabiensanglard.net/dc/index.php)
+
 
 

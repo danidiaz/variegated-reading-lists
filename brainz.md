@@ -863,5 +863,9 @@ Another one:
 
 [Cursor vs VSCode Copilot (May 2025 edition)](https://www.reddit.com/r/vscode/comments/1kd58ct/cursor_vs_vscode_copilot_may_2025_edition/)
 
+[What are tools in agent mode?](https://www.youtube.com/shorts/Nsc1hI2wp7M)
+
+[Transformer Circuits Thread](https://transformer-circuits.pub/). [post](https://bsky.app/profile/theophite.bsky.social/post/3lolzxgd3ks25).
+
 
 

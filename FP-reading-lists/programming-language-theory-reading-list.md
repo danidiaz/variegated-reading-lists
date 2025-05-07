@@ -902,5 +902,7 @@ small-step operational semantics
 
 [On the State of Coherence in the Land of Type Classes](https://arxiv.org/abs/2502.20546). [bsky](https://bsky.app/profile/cspl-bot.bsky.social/post/3ljhbrckuwp2o).
 
+[not-provably-equal proofs of equality](https://hachyderm.io/@robinadams@mathstodon.xyz/114466453196287111)
+
 
 

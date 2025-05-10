@@ -867,5 +867,8 @@ Another one:
 
 [Transformer Circuits Thread](https://transformer-circuits.pub/). [post](https://bsky.app/profile/theophite.bsky.social/post/3lolzxgd3ks25).
 
+[would it still be worth it?](https://bsky.app/profile/opinionhaver.bsky.social/post/3lorqadet422m)
+
+
 
 

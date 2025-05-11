@@ -927,5 +927,7 @@ Bernini, his life and his Rome
 
 [How to program a text adventure in C](https://news.ycombinator.com/item?id=43809638)
 
+[split parties](https://bsky.app/profile/felipepepe.bsky.social/post/3louzthpfws2w)
+
 
 

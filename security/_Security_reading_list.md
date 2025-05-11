@@ -866,4 +866,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [HOTP & TOTP from scratch](https://www.reddit.com/r/programming/comments/1jwq9c2/i_implemented_hotp_totp_from_scratch_to/)
 
+[The State of SSL Stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
+
 

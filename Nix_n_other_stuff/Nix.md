@@ -1440,4 +1440,7 @@ A possible example of importing something into home.nix?
 
 [private keys in Nixos](https://hachyderm.io/@nobodyinperson@fosstodon.org/113698395612510425)
 
+[Nix Remote Builds](https://docs.nixbuild.net/remote-builds/). [podcast](https://open.spotify.com/episode/3NJTpW6pnIrU408iEHt9jc).
+
+
 

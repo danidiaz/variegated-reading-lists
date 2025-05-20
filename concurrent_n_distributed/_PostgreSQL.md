@@ -475,4 +475,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Understanding transaction visibility in PostgreSQL clusters with read replicas](https://aws.amazon.com/es/blogs/database/understanding-transaction-visibility-in-postgresql-clusters-with-read-replicas/)
 
+[Databricks and Neon](https://news.ycombinator.com/item?id=43982777)
+
 

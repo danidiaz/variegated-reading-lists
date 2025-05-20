@@ -869,6 +869,16 @@ Another one:
 
 [would it still be worth it?](https://bsky.app/profile/opinionhaver.bsky.social/post/3lorqadet422m)
 
+[The Unreasonable Effectiveness of an LLM Agent Loop with Tool Use](https://sketch.dev/blog/agent-loop). [hn](https://news.ycombinator.com/item?id=43998472). [fomo](https://x.com/thorstenball/status/1922950526234226917). [moar fomo]().
 
+[ai evals](https://x.com/sh_reya/status/1917274841440477335). [evaluation guidebook](https://github.com/huggingface/evaluation-guidebook).
+
+[Embeddings are underrated (2024)](https://news.ycombinator.com/item?id=43963868)
+
+[Writing an LLM from scratch, part 13 – attention heads are dumb](https://news.ycombinator.com/item?id=43931366)
+
+[Build a Weather App with Agent Mode](https://youtu.be/uG5Vcjr5vxQ)
+
+[VS Code, Live — Straight from Microsoft Build!](https://www.youtube.com/live/DH-5LuvRFqA). [2](https://www.youtube.com/watch?v=7DxfZFjHCCE). 
 
 

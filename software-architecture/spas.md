@@ -538,6 +538,8 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 > cache-control : public exposes cacheability to cdns
 
+[Stop using REST for state synchronization](https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/). [lb](https://lobste.rs/s/ot7gbr/stop_using_rest_for_state).
+
 
 
 

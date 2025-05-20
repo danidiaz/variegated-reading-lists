@@ -133,4 +133,7 @@
 
 [remove tags from HEAD](https://lobste.rs/s/hnqkhk/remove_these_tags_from_head)
 
+[plain vanilla web](https://plainvanillaweb.com/index.html)
+
+
 

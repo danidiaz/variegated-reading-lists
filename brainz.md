@@ -893,6 +893,8 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [ow much the big Other is synonymous with language itself](https://bsky.app/profile/jjoque.bsky.social/post/3lpxjqdc33k22)
 
+[Using Veo 3 to create fictional product reviews](https://bsky.app/profile/emollick.bsky.social/post/3lpxx7g6hwk2y)
+
 
 
 

@@ -881,4 +881,18 @@ Another one:
 
 [VS Code, Live — Straight from Microsoft Build!](https://www.youtube.com/live/DH-5LuvRFqA). [2](https://www.youtube.com/watch?v=7DxfZFjHCCE). 
 
+[Stop Building AI Tools Backwards](https://hazelweakly.me/blog/stop-building-ai-tools-backwards/)
+
+[Claude Code SDK](https://docs.anthropic.com/en/docs/claude-code/sdk) [HN](https://news.ycombinator.com/item?id=44032777)
+
+[LLM function calls don't scale; code orchestration is simpler, more effective](https://news.ycombinator.com/item?id=44053744)
+
+A pattern: resort to RAG when a document is too big for the supported context.
+
+[The Backstory of Backpropagation](https://yuxi-liu-wired.github.io/essays/posts/backstory-of-backpropagation/)
+
+[ow much the big Other is synonymous with language itself](https://bsky.app/profile/jjoque.bsky.social/post/3lpxjqdc33k22)
+
+
+
 

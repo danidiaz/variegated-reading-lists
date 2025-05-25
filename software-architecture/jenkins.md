@@ -137,6 +137,8 @@
 
 [any program can be a Github Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/). [hn](https://news.ycombinator.com/item?id=43617493).
 
+[The Ingredients of a Productive Monorepo](https://blog.swgillespie.me/posts/monorepo-ingredients/)
+
 
 
 

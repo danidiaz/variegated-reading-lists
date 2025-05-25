@@ -895,6 +895,8 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [Using Veo 3 to create fictional product reviews](https://bsky.app/profile/emollick.bsky.social/post/3lpxx7g6hwk2y)
 
+[Claude 4 System Cards Highlights](https://news.ycombinator.com/item?id=44085920). [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/).
+
 
 
 

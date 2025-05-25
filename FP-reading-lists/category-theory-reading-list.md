@@ -1094,5 +1094,7 @@ deals with its own properties.
 
 > The technique of equipping graphs with an equivalence relation, called equality saturation, has recently proved both powerful and practical in program optimisation, particularly for satisfiability modulo theory solvers. We give a categorical semantics to these structures, called e-graphs, in terms of Cartesian categories enriched over a semilattice.
 
+[F for functor](https://www.cs.ox.ac.uk/people/daniel.james/functor/functor.pdf)
+
 
 

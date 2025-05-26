@@ -1663,6 +1663,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [design pressure](https://hynek.me/talks/design-pressure/). [integrated tests](https://www.youtube.com/watch?v=fhFa4tkFUFw).
 
+[more DI drama](https://www.reddit.com/r/programming/comments/1kv0y2l/you_probably_dont_need_a_di_framework/)
+
 
 
 

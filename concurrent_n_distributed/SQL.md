@@ -37,7 +37,7 @@
 
 [What are good migration libraries alternatives to Flyway?](https://www.reddit.com/r/java/comments/1jtt38e/what_are_good_migration_libraries_alternatives_to/)
 
-
+[Systematic design of multi-join GROUP BY queries](https://kb.databasedesignbook.com/posts/systematic-design-of-join-queries/)
 
 
 

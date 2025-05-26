@@ -1661,6 +1661,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Scalar Select Anti-Pattern](https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html). [lr](https://lobste.rs/s/o15bge/scalar_select_anti_pattern).
 
+[design pressure](https://hynek.me/talks/design-pressure/). [integrated tests](https://www.youtube.com/watch?v=fhFa4tkFUFw).
+
 
 
 

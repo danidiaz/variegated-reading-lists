@@ -897,6 +897,12 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [Claude 4 System Cards Highlights](https://news.ycombinator.com/item?id=44085920). [Highlights from the Claude 4 system prompt](https://simonwillison.net/2025/May/25/claude-4-system-prompt/).
 
+[My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/). [claude code does our releases now](https://news.ycombinator.com/item?id=44093675).
+
+[Infinite Tool Use](https://news.ycombinator.com/item?id=44086094)
+
+[the genie has terrible timing for design](https://www.linkedin.com/posts/kentbeck_a-problem-im-having-augmented-coding-is-activity-7328422517025452032-Fwxi)
+
 
 
 

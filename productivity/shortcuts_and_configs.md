@@ -801,6 +801,7 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [Kitty graphical protocol (supported by Ghosttty)](https://sw.kovidgoyal.net/kitty/graphics-protocol/)
 
+[timeout in Bash scripts](https://news.ycombinator.com/item?id=44096395)
 
 
 

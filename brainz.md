@@ -903,6 +903,15 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [the genie has terrible timing for design](https://www.linkedin.com/posts/kentbeck_a-problem-im-having-augmented-coding-is-activity-7328422517025452032-Fwxi)
 
+[What even is a small language model now?](https://news.ycombinator.com/item?id=44048751)
+
+[Why Your AI Coding Assistant Keeps Doing It Wrong, and How To Fix It](https://blog.thepete.net/blog/2025/05/22/why-your-ai-coding-assistant-keeps-doing-it-wrong-and-how-to-fix-it/)
+
+[A Survey on Mixture of Experts in Large Language Models](https://arxiv.org/abs/2407.06204).
+
+[custom instrunctions in vscode](https://bsky.app/profile/vscode.dev/post/3lqfzyz3r7n2c)
+
+[interacting with raw models](https://bsky.app/profile/theophite.bsky.social/post/3lqjadgijsk2w). [in your own voice](https://bsky.app/profile/theophite.bsky.social/post/3lqky37vfbk2w).
 
 
 

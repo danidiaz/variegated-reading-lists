@@ -913,5 +913,19 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [interacting with raw models](https://bsky.app/profile/theophite.bsky.social/post/3lqjadgijsk2w). [in your own voice](https://bsky.app/profile/theophite.bsky.social/post/3lqky37vfbk2w).
 
+[reasoningGym](https://news.ycombinator.com/item?id=44157077)
+
+[vibe coding example](https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/)
+
+[Claude Code Is My Computer](https://news.ycombinator.com/item?id=44170967).
+
+[all nutz](https://news.ycombinator.com/item?id=44163063).
+
+[ai & humanities](https://news.ycombinator.com/item?id=44166102)
+
+[Video scraping: extracting JSON from a 35s screen capture for 1/10th of a cent](https://news.ycombinator.com/item?id=41869128)
+
+[commit_delay for better performance: a PostgreSQL benchmark](https://www.cybertec-postgresql.com/en/commit_delay-performance-postgresql-benchmark/).
+
 
 

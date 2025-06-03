@@ -868,4 +868,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [The State of SSL Stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
 
+[Magic/tragic email links: don't make them the only option ](https://news.ycombinator.com/item?id=42627453)
+
+
 

@@ -32,4 +32,7 @@
 
 [a way of obfuscating](https://hachyderm.io/@whitequark@mastodon.social/114335809914963541)
 
+[incident debugging](https://hachyderm.io/@phoenixx@infosec.exchange/114618085917372780)
+
+
 

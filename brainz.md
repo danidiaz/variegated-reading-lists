@@ -927,5 +927,11 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [commit_delay for better performance: a PostgreSQL benchmark](https://www.cybertec-postgresql.com/en/commit_delay-performance-postgresql-benchmark/).
 
+[agents example with Codex](https://martinfowler.com/articles/exploring-gen-ai/autonomous-agents-codex-example.html)
+
+[the illusion of thinking](https://garymarcus.substack.com/p/a-knockout-blow-for-llms). [reddit](https://www.reddit.com/r/MachineLearning/comments/1l5hzhs/r_apple_research_the_illusion_of_thinking/).
+
+
+
 
 

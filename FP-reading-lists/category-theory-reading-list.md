@@ -1096,5 +1096,9 @@ deals with its own properties.
 
 [F for functor](https://www.cs.ox.ac.uk/people/daniel.james/functor/functor.pdf)
 
+[Kan extensins shift Compose](https://www.reddit.com/r/haskell/comments/1l4tnsa/kan_extensions_shifting_compose/). [tweet](https://x.com/tangled_zans/status/1930766361938030847).
+
+
+
 
 

@@ -540,6 +540,8 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [Stop using REST for state synchronization](https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/). [lb](https://lobste.rs/s/ot7gbr/stop_using_rest_for_state).
 
+[AI crawlers are wrecking the open internet.](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3llco5l2zsk23)
+
 
 
 

@@ -904,5 +904,8 @@ small-step operational semantics
 
 [not-provably-equal proofs of equality](https://hachyderm.io/@robinadams@mathstodon.xyz/114466453196287111)
 
+[Typing the futamura projections](https://www.reddit.com/r/haskell/comments/1l5yzcn/typing_the_futamura_projections/)
+
+
 
 

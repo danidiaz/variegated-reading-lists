@@ -1665,6 +1665,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [more DI drama](https://www.reddit.com/r/programming/comments/1kv0y2l/you_probably_dont_need_a_di_framework/)
 
+[OTel complaints](https://news.ycombinator.com/item?id=42655102)
 
+[baggage vs. attributes in OpenTelemetry ](https://opentelemetry.io/docs/concepts/signals/baggage/#baggage-is-not-the-same-as-attributes). [babbage signal](https://opentelemetry.io/docs/specs/otel/overview/#baggage-signal). [w3c](https://www.w3.org/TR/baggage/).
 
 

@@ -807,5 +807,7 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [vscode local history in timeline view](https://bsky.app/profile/vscode.dev/post/3lrbjrr3trv2r)
 
+[macos containers](https://github.com/apple/container). [hn](https://news.ycombinator.com/item?id=44226978).
+
 
 

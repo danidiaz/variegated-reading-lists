@@ -935,7 +935,7 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [Extending agent mode in VScode](https://www.youtube.com/watch?v=T44T55wvDD0)
 
-
+[Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance](https://news.ycombinator.com/item?id=44188839)
 
 
 

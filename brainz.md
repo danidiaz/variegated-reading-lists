@@ -929,7 +929,11 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [agents example with Codex](https://martinfowler.com/articles/exploring-gen-ai/autonomous-agents-codex-example.html)
 
-[the illusion of thinking](https://garymarcus.substack.com/p/a-knockout-blow-for-llms). [reddit](https://www.reddit.com/r/MachineLearning/comments/1l5hzhs/r_apple_research_the_illusion_of_thinking/).
+[the illusion of thinking](https://garymarcus.substack.com/p/a-knockout-blow-for-llms). [reddit](https://www.reddit.com/r/MachineLearning/comments/1l5hzhs/r_apple_research_the_illusion_of_thinking/). [more](https://x.com/BlackHC/status/1932193272484819345).
+
+[mcp-server (Haskell)](https://www.reddit.com/r/haskell/comments/1l7eipe/ann_mcpserver_an_awesome_framework_for_building/). [langchain-hs](https://hackage.haskell.org/package/langchain-hs).
+
+[Extending agent mode in VScode](https://www.youtube.com/watch?v=T44T55wvDD0)
 
 
 

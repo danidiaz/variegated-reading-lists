@@ -542,6 +542,8 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [AI crawlers are wrecking the open internet.](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3llco5l2zsk23)
 
+[Reverse proxy setups (e.g. Traefik + oauth2-proxy + Keycloak)](https://discourse.haskell.org/t/the-state-of-authentication-authorisation-in-the-haskell-ecosystem/12243/3?u=danidiaz)
+
 
 
 

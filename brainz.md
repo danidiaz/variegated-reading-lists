@@ -937,5 +937,7 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance](https://news.ycombinator.com/item?id=44188839)
 
+[content creation apocalypse](https://bsky.app/profile/zachweinersmith.bsky.social/post/3lrfv4ftw2k2g)
+
 
 

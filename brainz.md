@@ -939,5 +939,9 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [content creation apocalypse](https://bsky.app/profile/zachweinersmith.bsky.social/post/3lrfv4ftw2k2g)
 
+[debezium for RAG](https://debezium.io/blog/2025/05/19/debezium-as-part-of-your-ai-solution/)
+
+[TDD agents and coding with Beck](https://newsletter.pragmaticengineer.com/p/tdd-ai-agents-and-coding-with-kent)
+
 
 

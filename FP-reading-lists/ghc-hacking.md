@@ -510,4 +510,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Quasiquoting for Fun, Profit, Expressions and Patterns](https://www.reddit.com/r/haskell/comments/1khryl8/quasiquoting_for_fun_profit_expressions_and/)
 
+[You should be using Hackage tokens](https://taylor.fausak.me/2025/06/11/hackage-tokens/)
+
+
 

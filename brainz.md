@@ -943,5 +943,10 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [TDD agents and coding with Beck](https://newsletter.pragmaticengineer.com/p/tdd-ai-agents-and-coding-with-kent)
 
+[weird o3](https://bsky.app/profile/theophite.bsky.social/post/3lrjb7clqrc2b)
+
+[Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/). [hn](https://news.ycombinator.com/item?id=44279850).
+
+
 
 

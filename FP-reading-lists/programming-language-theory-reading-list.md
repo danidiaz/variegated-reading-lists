@@ -906,6 +906,8 @@ small-step operational semantics
 
 [Typing the futamura projections](https://www.reddit.com/r/haskell/comments/1l5yzcn/typing_the_futamura_projections/)
 
+[input-subject-output discipline](https://lipn.info/@mevenlennonbertrand/114681580607515358)
+
 
 
 

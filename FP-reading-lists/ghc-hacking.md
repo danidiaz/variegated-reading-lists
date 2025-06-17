@@ -407,7 +407,7 @@ Essential reading! Covers:
 
 [Getting your Haskell executable statically linked without Nix](https://hasufell.github.io/posts/2024-04-21-static-linking.html)
 
-[Multiple Component support for cabal repl](https://well-typed.com/blog/2023/03/cabal-multi-unit/). [motivation](https://jade.fyi/blog/cabal-test-dev-trick/). [more](https://stackoverflow.com/questions/67312833/fast-haskell-rebuildtest-with-file-watch-using-cabal-ghcid).
+[Multiple Component support for cabal repl](https://well-typed.com/blog/2023/03/cabal-multi-unit/). [motivation](https://jade.fyi/blog/cabal-test-dev-trick/). [more](https://stackoverflow.com/questions/67312833/fast-haskell-rebuildtest-with-file-watch-using-cabal-ghcid). [multiple home units](https://discourse.haskell.org/t/well-typed-blog-making-ghci-compatible-with-multiple-home-units/12328).
 
 [Fault-tolerant GHC compiler pipeline](https://github.com/haskellfoundation/tech-proposals/blob/f79c2940f36e05bf587fb6b9b7ee0dce09f041f0/proposals/0000-fault-tolerant-ghc.md)
 

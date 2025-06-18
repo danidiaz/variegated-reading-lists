@@ -1141,4 +1141,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Server components give you optionality](https://www.reddit.com/r/reactjs/comments/1kbmi79/server_components_give_you_optionality/)
 
+[bools vs slot props](https://bsky.app/profile/tkdodo.eu/post/3lrvffnwvks2t). [post](https://sandroroth.com/blog/react-slots/).
+
 

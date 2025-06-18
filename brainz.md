@@ -949,6 +949,8 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [Writing documentation for AI: best practices](https://docs.kapa.ai/improving/writing-best-practices). [about comments](https://bsky.app/profile/tonofcrates.bsky.social/post/3lrt6jgu5ic2m)
 
+[MCP library and server for Haskell (by Claude)](https://www.reddit.com/r/haskell/comments/1lerjf4/mcp_library_and_server_for_haskell_by_claude/)
+
 
 
 

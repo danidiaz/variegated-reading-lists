@@ -947,6 +947,10 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/). [hn](https://news.ycombinator.com/item?id=44279850).
 
+[Writing documentation for AI: best practices](https://docs.kapa.ai/improving/writing-best-practices). [about comments](https://bsky.app/profile/tonofcrates.bsky.social/post/3lrt6jgu5ic2m)
+
+
+
 
 
 

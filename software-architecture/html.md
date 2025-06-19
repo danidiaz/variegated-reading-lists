@@ -135,5 +135,7 @@
 
 [plain vanilla web](https://plainvanillaweb.com/index.html)
 
+[The Server Doesn't Render Anything](https://unplannedobsolescence.com/blog/the-server-doesnt-render/). [Who's Afraid of a Hard Page Load?](https://unplannedobsolescence.com/blog/hard-page-load/). [word](https://unplannedobsolescence.com/blog/why-insist-on-a-word/).
+
 
 

@@ -55,4 +55,6 @@
 
 > I'm personally a relatively recent convert to the true power of ECS myself. Though for me, the deciding factor was something rarely mentioned about ECS: it makes writing tests for game systems and logic almost trivial compared to the tightly-coupled logic-laden component-based designs I've worked with in the past. Since ECS architectures put all logic in Systems, which just consume Components and produce Component updates, building a "mock" set of Components to test System behaviour is quite eas
 
+[The plight of the misunderstood memory ordering](https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/)
+
 

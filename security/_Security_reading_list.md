@@ -870,5 +870,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Magic/tragic email links: don't make them the only option ](https://news.ycombinator.com/item?id=42627453)
 
+[beekem protocol](https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/)
+
 
 

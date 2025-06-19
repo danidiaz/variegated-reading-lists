@@ -34,5 +34,7 @@
 
 [incident debugging](https://hachyderm.io/@phoenixx@infosec.exchange/114618085917372780)
 
+[GCC, glibc, stack unwinding and relocations – A war story](https://blog.sergiodj.net/posts/gcc-glibc-stack-unwinding-relocations-bug/)
+
 
 

@@ -951,6 +951,9 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [MCP library and server for Haskell (by Claude)](https://www.reddit.com/r/haskell/comments/1lerjf4/mcp_library_and_server_for_haskell_by_claude/)
 
+[ai curmudgeon](https://lobste.rs/s/imjzlb/why_i_won_t_use_ai)
+
+[Programming Language Design in the Era of LLMs: A Return to Mediocrity?](https://kirancodes.me/posts/log-lang-design-llms.html)
 
 
 

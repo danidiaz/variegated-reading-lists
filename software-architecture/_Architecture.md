@@ -1669,4 +1669,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [baggage vs. attributes in OpenTelemetry ](https://opentelemetry.io/docs/concepts/signals/baggage/#baggage-is-not-the-same-as-attributes). [babbage signal](https://opentelemetry.io/docs/specs/otel/overview/#baggage-signal). [w3c](https://www.w3.org/TR/baggage/).
 
+[Scaling our Observability platform beyond 100 Petabytes by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel). [hn](https://news.ycombinator.com/item?id=44336015).
+
 

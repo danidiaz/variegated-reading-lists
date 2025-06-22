@@ -346,4 +346,6 @@
 
 [doubt](https://news.ycombinator.com/item?id=44256499)
 
+[LLMs and PMs](https://bsky.app/profile/carnage4life.bsky.social/post/3lry3gl35q22j)
+
 

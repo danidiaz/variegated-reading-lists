@@ -955,7 +955,11 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [Programming Language Design in the Era of LLMs: A Return to Mediocrity?](https://kirancodes.me/posts/log-lang-design-llms.html)
 
+[LLMs and PMs](https://bsky.app/profile/carnage4life.bsky.social/post/3lry3gl35q22j)
 
+[well, hopefully](https://bsky.app/profile/hikikomorphism.bsky.social/post/3lryhqugsfc2o)
+
+[Remote MCP Support in Claude Code](https://news.ycombinator.com/item?id=44312363)
 
 
 

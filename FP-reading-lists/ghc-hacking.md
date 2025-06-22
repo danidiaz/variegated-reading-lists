@@ -512,5 +512,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [You should be using Hackage tokens](https://taylor.fausak.me/2025/06/11/hackage-tokens/)
 
+[Draft: introduce cast zapping as an alternative to coercion zapping](https://gitlab.haskell.org/ghc/ghc/-/merge_requests/14387)
+
 
 

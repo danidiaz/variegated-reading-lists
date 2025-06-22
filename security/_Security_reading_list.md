@@ -872,5 +872,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [beekem protocol](https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/)
 
+[The state of authentication/authorisation in the Haskell ecosystem](https://discourse.haskell.org/t/the-state-of-authentication-authorisation-in-the-haskell-ecosystem/12243/8)
+
 
 

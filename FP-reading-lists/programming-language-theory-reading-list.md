@@ -908,6 +908,9 @@ small-step operational semantics
 
 [input-subject-output discipline](https://lipn.info/@mevenlennonbertrand/114681580607515358)
 
+[type inference zoo](https://zoo.cuichen.cc/)
+
+
 
 
 

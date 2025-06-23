@@ -753,5 +753,7 @@ https://twitter.com/tailwindcss
 
 [Tailwind CSS v4.0](https://news.ycombinator.com/item?id=42799136)
 
+[intersection and mutation](https://css-tricks.com/a-better-api-for-the-intersection-and-mutation-observers/)
+
 
 

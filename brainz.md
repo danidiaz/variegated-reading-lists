@@ -963,5 +963,8 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [opinion](https://bsky.app/profile/eva.town/post/3ls7pnr2ug22m). [opinion](https://bsky.app/profile/theophite.bsky.social/post/3lsaxi4jgjk2a).
 
+My success cases:
+    - adding the skeleton of a tasty testsuite to a Haskell program.
+
 
 

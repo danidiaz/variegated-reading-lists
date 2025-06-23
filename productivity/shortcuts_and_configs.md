@@ -809,5 +809,7 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [macos containers](https://github.com/apple/container). [hn](https://news.ycombinator.com/item?id=44226978).
 
+[how i use my terminal](https://jyn.dev/how-i-use-my-terminal/). [hn](https://news.ycombinator.com/item?id=44356646).
+
 
 

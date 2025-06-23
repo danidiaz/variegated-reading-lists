@@ -1098,6 +1098,8 @@ deals with its own properties.
 
 [Kan extensins shift Compose](https://www.reddit.com/r/haskell/comments/1l4tnsa/kan_extensions_shifting_compose/). [tweet](https://x.com/tangled_zans/status/1930766361938030847).
 
+[homotopy equivalences](https://bartoszmilewski.com/2025/06/20/weak-homotopy-equivalences/)
+
 
 
 

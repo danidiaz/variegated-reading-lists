@@ -961,5 +961,7 @@ A pattern: resort to RAG when a document is too big for the supported context.
 
 [Remote MCP Support in Claude Code](https://news.ycombinator.com/item?id=44312363)
 
+[opinion](https://bsky.app/profile/eva.town/post/3ls7pnr2ug22m). [opinion](https://bsky.app/profile/theophite.bsky.social/post/3lsaxi4jgjk2a).
+
 
 

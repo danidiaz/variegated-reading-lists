@@ -139,6 +139,10 @@
 
 [The Ingredients of a Productive Monorepo](https://blog.swgillespie.me/posts/monorepo-ingredients/)
 
+[git notes](https://www.reddit.com/r/programming/comments/1lil78s/comment/mzdcpk3/)
+
+> Git notes makes using git as a deployment history tool very convenient cause you can add structured metadata to a sha
+
 
 
 

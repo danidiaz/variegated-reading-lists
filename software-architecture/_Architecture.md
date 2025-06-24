@@ -1671,4 +1671,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Scaling our Observability platform beyond 100 Petabytes by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel). [hn](https://news.ycombinator.com/item?id=44336015).
 
+[A Deep Dive into Solid Queue for Ruby on Rails](https://news.ycombinator.com/item?id=44326382)
+
+
+
 

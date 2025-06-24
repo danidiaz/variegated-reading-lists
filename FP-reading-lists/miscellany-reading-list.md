@@ -1040,5 +1040,9 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [driving compilers](https://fabiensanglard.net/dc/index.php)
 
+[range queries, classified](https://byorgey.github.io/blog/posts/2025/06/23/range-queries-classified.html)
+
+[LinkedIn queens](https://news.ycombinator.com/item?id=44363696)
+
 
 

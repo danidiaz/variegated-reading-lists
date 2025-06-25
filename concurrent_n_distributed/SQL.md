@@ -39,7 +39,7 @@
 
 [Systematic design of multi-join GROUP BY queries](https://kb.databasedesignbook.com/posts/systematic-design-of-join-queries/). [ls](https://lobste.rs/s/jpxyx9/systematic_design_multi_join_group_by).
 
-
+[Data History Table vs Using a Current Record Flag](https://dba.stackexchange.com/questions/61815/data-history-table-vs-using-a-current-record-flag)
 
 
 

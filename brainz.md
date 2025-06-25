@@ -972,5 +972,8 @@ My success cases:
 
 [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/). [hn](https://news.ycombinator.com/item?id=44365320).
 
+[LLMs bring new nature of abstraction](https://martinfowler.com/articles/2025-nature-abstraction.html)
+
+[Gemini CLI](https://news.ycombinator.com/item?id=44376919).
 
 

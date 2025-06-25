@@ -1044,5 +1044,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [LinkedIn queens](https://news.ycombinator.com/item?id=44363696)
 
+[how to think about time in programming](https://news.ycombinator.com/item?id=44370426)
+
 
 

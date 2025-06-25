@@ -544,6 +544,8 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [Reverse proxy setups (e.g. Traefik + oauth2-proxy + Keycloak)](https://discourse.haskell.org/t/the-state-of-authentication-authorisation-in-the-haskell-ecosystem/12243/3?u=danidiaz)
 
+[web translator API](https://news.ycombinator.com/item?id=44374748)
+
 
 
 

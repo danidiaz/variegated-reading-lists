@@ -978,5 +978,8 @@ My success cases:
 
 [anthropomorphize](https://bsky.app/profile/steveklabnik.com/post/3lsjnncpaes23)
 
+[normalizing flows](https://news.ycombinator.com/item?id=44400105)
+
+
 
 

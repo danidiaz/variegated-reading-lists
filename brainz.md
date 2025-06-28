@@ -974,9 +974,9 @@ My success cases:
 
 [LLMs bring new nature of abstraction](https://martinfowler.com/articles/2025-nature-abstraction.html)
 
-[Gemini CLI](https://news.ycombinator.com/item?id=44376919). [SW thoughts](https://hachyderm.io/@simon@simonwillison.net/114745287942496470).
+[Gemini CLI](https://news.ycombinator.com/item?id=44376919). [SW thoughts](https://hachyderm.io/@simon@simonwillison.net/114745287942496470). [the prompt](https://hachyderm.io/@simon@simonwillison.net/114745293831690891).
 
-
+[anthropomorphize](https://bsky.app/profile/steveklabnik.com/post/3lsjnncpaes23)
 
 
 

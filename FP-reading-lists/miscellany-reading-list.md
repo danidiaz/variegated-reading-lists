@@ -1040,11 +1040,10 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [driving compilers](https://fabiensanglard.net/dc/index.php)
 
-[range queries, classified](https://byorgey.github.io/blog/posts/2025/06/23/range-queries-classified.html)
+[range queries, classified](https://byorgey.github.io/blog/posts/2025/06/23/range-queries-classified.html). [Computing fixed-width monoidal sliding windows with chunked partial sums](https://gist.github.com/rampion/eceee188101ded7501b0601e4dbadb04)
 
 [LinkedIn queens](https://news.ycombinator.com/item?id=44363696)
 
 [how to think about time in programming](https://news.ycombinator.com/item?id=44370426)
-
 
 

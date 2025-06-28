@@ -348,4 +348,6 @@
 
 [LLMs and PMs](https://bsky.app/profile/carnage4life.bsky.social/post/3lry3gl35q22j)
 
+[interruptor](https://www.theguardian.com/lifeandstyle/2025/jun/26/i-was-one-of-those-men-who-couldnt-stop-talking-heres-how-i-learned-to-shut-up-and-listen#Echobox=1750928932)
+
 

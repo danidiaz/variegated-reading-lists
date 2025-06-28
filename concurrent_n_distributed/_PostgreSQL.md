@@ -477,4 +477,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Databricks and Neon](https://news.ycombinator.com/item?id=43982777)
 
+[scaling Postgres](https://www.reddit.com/r/softwarearchitecture/comments/1llkoar/looking_for_expert_guidance_on_scaling_postgres/)
+
 

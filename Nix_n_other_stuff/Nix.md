@@ -1442,5 +1442,7 @@ A possible example of importing something into home.nix?
 
 [Nix Remote Builds](https://docs.nixbuild.net/remote-builds/). [podcast](https://open.spotify.com/episode/3NJTpW6pnIrU408iEHt9jc).
 
+[Build against an older libc, keep the newest in the runtime closure](https://github.com/NixOS/nixpkgs/issues/303405). [Libc version is different before and after nix-shell -p](https://discourse.nixos.org/t/libc-version-is-different-before-and-after-nix-shell-p/43946).
+
 
 

@@ -247,5 +247,15 @@
 
 [Giving up the dylib dream](https://lobste.rs/s/ybbhxp/giving_up_dylib_dream)
 
+[vdso](https://man7.org/linux/man-pages/man7/vdso.7.html). [How does ld load itself?](https://stackoverflow.com/questions/53786527/how-does-ld-load-itself). [How to run programs with ld-linux.so?](https://unix.stackexchange.com/questions/467999/how-to-run-programs-with-ld-linux-so). [What is the .interp section in an ELF and how do custom loaders work?](https://stackoverflow.com/questions/70648681/what-is-the-interp-section-in-an-elf-and-how-do-custom-loaders-work)
+
+[sonames](https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html)
+
+> Every shared library has a special name called the ``soname''. The soname has the prefix ``lib'', the name of the library, the phrase ``.so'', followed by a period and a version number that is incremented whenever the interface changes (as a special exception, the lowest-level C libraries don't start with ``lib''). A fully-qualified soname includes as a prefix the directory it's in; on a working system a fully-qualified soname is simply a symbolic link to the shared library's ``real name''.
+
+> Every shared library also has a ``real name'', which is the filename containing the actual library code. The real name adds to the soname a period, a minor number, another period, and the release number. The last period and release number are optional. The minor number and release number support configuration control by letting you know exactly what version(s) of the library are installed. Note that these numbers might not be the same as the numbers used to describe the library in documentation, although that does make things easier.
+
+
+
 
 

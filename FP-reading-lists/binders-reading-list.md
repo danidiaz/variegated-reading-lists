@@ -392,4 +392,3 @@ is not a problem)
 
 [Operations On Syntax Should Not Inspect The Scope](https://jesper.cx/files/scopes.pdf)
 
-

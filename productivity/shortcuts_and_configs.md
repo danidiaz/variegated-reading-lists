@@ -811,5 +811,7 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [how i use my terminal](https://jyn.dev/how-i-use-my-terminal/). [hn](https://news.ycombinator.com/item?id=44356646).
 
+[How to install Linux on Windows with WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
+
 
 

@@ -255,6 +255,14 @@
 
 > Every shared library also has a ``real name'', which is the filename containing the actual library code. The real name adds to the soname a period, a minor number, another period, and the release number. The last period and release number are optional. The minor number and release number support configuration control by letting you know exactly what version(s) of the library are installed. Note that these numbers might not be the same as the numbers used to describe the library in documentation, although that does make things easier.
 
+[Understanding Linux readelf "program interpreter"](https://stackoverflow.com/questions/72933760/understanding-linux-readelf-program-interpreter-how-is-this-set-at-compile-t). [overwrite default /lib64/ld-linux-x86-64.so.2 to call executables](https://superuser.com/questions/1144758/overwrite-default-lib64-ld-linux-x86-64-so-2-to-call-executables) 
+
+[glibc backward compat](https://www.linuxquestions.org/questions/linux-general-1/glibc-backward-compatibility-4175445005/)
+
+[How programs get run: ELF binaries](https://lwn.net/Articles/631631/). [Debug with gdb an application running with different libc (ld-linux.so)](https://stackoverflow.com/questions/66376921/debug-with-gdb-an-application-running-with-different-libc-ld-linux-so). [How to deal with `/lib64/ld-linux-x86-64.so.2` missing on NixOS?](https://discourse.nixos.org/t/how-to-deal-with-lib64-ld-linux-x86-64-so-2-missing-on-nixos/11401). [overwrite default /lib64/ld-linux-x86-64.so.2 to call executables](https://superuser.com/questions/1144758/overwrite-default-lib64-ld-linux-x86-64-so-2-to-call-executables)
+
+
+
 
 
 

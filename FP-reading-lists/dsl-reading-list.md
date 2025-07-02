@@ -591,5 +591,7 @@ Interpretable Haskell EDSLs](http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2
 
 [hell](https://github.com/chrisdone/hell). [a tour of Hell](https://chrisdone.com/posts/tour-of-hell/)
 
+[resources on normalization by evaluation (NbE)](https://www.reddit.com/r/haskell/comments/1lnfbmd/a_collection_of_resources_about/)
+
 
 

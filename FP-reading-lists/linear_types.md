@@ -146,5 +146,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [linearity vs. uniqueness in Ocaml](https://x.com/kc_srk/status/1831957278549053866)
 
+[LeanLTL: A unifying framework for linear temporal logics in Lean](https://arxiv.org/abs/2507.01780)
+
 
 

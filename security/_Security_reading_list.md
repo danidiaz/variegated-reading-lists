@@ -874,5 +874,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [The state of authentication/authorisation in the Haskell ecosystem](https://discourse.haskell.org/t/the-state-of-authentication-authorisation-in-the-haskell-ecosystem/12243/8)
 
+[Keycloak, Angular, and the BFF Pattern ](https://news.ycombinator.com/item?id=42829315). [The Backend for Frontend Pattern](https://auth0.com/blog/the-backend-for-frontend-pattern-bff/). [micro](https://learn.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends). [spa best practices](https://curity.io/resources/learn/spa-best-practices/).
+
 
 

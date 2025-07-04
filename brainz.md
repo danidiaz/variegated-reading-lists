@@ -982,6 +982,8 @@ My success cases:
 
 [life of an inference request](https://news.ycombinator.com/item?id=44407058)
 
+[good or bad analogy?](https://bsky.app/profile/simonwillison.net/post/3lt2xbayttk2h)
+
 
 
 

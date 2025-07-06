@@ -813,5 +813,10 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [How to install Linux on Windows with WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 
+[OBS encoding overloaded](https://obsproject.com/forum/threads/how-to-debug-encoding-overloaded.168625/). [perf troubleshotting](https://obsproject.com/kb/encoding-performance-troubleshooting). [suddenly started having encoder overload issues, even with it at ultrafast.](https://www.reddit.com/r/obs/comments/12lcy2u/comment/jxdfmr1/)
+
+[What clever tools/workflows do you use to manage development environments?](https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use)
+
+
 
 

@@ -1673,6 +1673,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [A Deep Dive into Solid Queue for Ruby on Rails](https://news.ycombinator.com/item?id=44326382)
 
+[persistence issues](https://www.reddit.com/r/softwarearchitecture/comments/1ls9xbl/architecture_concern_domain_model_persistence/)
+
 
 
 

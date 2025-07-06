@@ -876,5 +876,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Keycloak, Angular, and the BFF Pattern ](https://news.ycombinator.com/item?id=42829315). [The Backend for Frontend Pattern](https://auth0.com/blog/the-backend-for-frontend-pattern-bff/). [micro](https://learn.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends). [spa best practices](https://curity.io/resources/learn/spa-best-practices/).
 
+[easy to make Spring security mistakes](https://medium.com/@adityav170920/secure-spring-boot-rest-apis-pitfalls-and-best-practices-cb53a7c26933)
+
 
 

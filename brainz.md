@@ -984,6 +984,8 @@ My success cases:
 
 [good or bad analogy?](https://bsky.app/profile/simonwillison.net/post/3lt2xbayttk2h)
 
+[baba is eval](https://news.ycombinator.com/item?id=44455124)
+
 
 
 

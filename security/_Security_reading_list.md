@@ -888,6 +888,17 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > Don't store access or refresh tokens in cookies or sessions. Keep them on the client in secure storage like some vault provided by the operation system. If you have local user accounts, then you can tie the tokens to those accounts (e.g., via the user ID). But they must be independent from the current authentication status of the user.
 
+[What's the concrete case for code flow being more secure than implicit flow?](https://security.stackexchange.com/questions/213964/whats-the-concrete-case-for-code-flow-being-more-secure-than-implicit-flow).
 
+> [Code Grant] code is in browser history—but key is still secret, so we're ok!
+
+> Let me briefly return to the notion of a backend-for-frontend (BFF) since it was mentioned by the OP. With such an architecture, using code grant, it is possible to use a "client secret" instead of the "proof key" that was used in PKCE. This is possible because the server, being on the backend, can keep secrets, while a static webpage, being served publicly, cannot. However, the BFF could also use PKCE server side. Another choice with this architecture is whether you want the tokens sent to the client browser or not. For example, in this SO blog, the tokens are sent by the BFF to the frontend client (on the browser) as cookies & are used directly by the frontend client thereafter. But as I mentioned earlier you could also have the BFF securely store those tokens and then keep a session alive with the client frontend; all requests would then need to go through the BFF.
+
+> This means that any attacker is forced to steal and use your code before you do so. This makes their attack extra tricky because they need to race with you or else try to cut you off.
+
+
+
+
+> What a client backend would typically use to authenticate a client frontend would be a session cookie
 
 

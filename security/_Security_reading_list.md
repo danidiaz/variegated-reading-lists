@@ -878,5 +878,16 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [easy to make Spring security mistakes](https://medium.com/@adityav170920/secure-spring-boot-rest-apis-pitfalls-and-best-practices-cb53a7c26933)
 
+[Why use OpenID Connect instead of plain OAuth2?](https://security.stackexchange.com/questions/37818/why-use-openid-connect-instead-of-plain-oauth2). [OAuth2 authorization code grant: how does redirection work for mobile applications?](https://security.stackexchange.com/questions/279770/oauth2-authorization-code-grant-how-does-redirection-work-for-mobile-applicatio)
+
+[PKCE is not a replacement for a client secret, and PKCE is recommended even if a client is using a client secret](https://security.stackexchange.com/questions/215071/in-oauth-2-0-how-is-the-client-secret-supposed-to-be-kept-secret#comment587170_255843)
+
+[Using the authorization code grant without using cookies?](https://security.stackexchange.com/questions/170843/using-the-authorization-code-grant-without-using-cookies). [How to map refresh token, stored server side in the client app, to a specific user?](https://security.stackexchange.com/questions/281057/how-to-map-refresh-token-stored-server-side-in-the-client-app-to-a-specific-us)
+
+> Access or refresh tokens do not belong to the end user and should not be stored in cookies or sessions. You can of course link the tokens to your local user accounts. [...] Again, the user doesn't have to be present for this, nor is it their job to supply a lookup key for the tokens. The client manages the tokens all by itself.
+
+> Don't store access or refresh tokens in cookies or sessions. Keep them on the client in secure storage like some vault provided by the operation system. If you have local user accounts, then you can tie the tokens to those accounts (e.g., via the user ID). But they must be independent from the current authentication status of the user.
+
+
 
 

@@ -1100,7 +1100,8 @@ deals with its own properties.
 
 [homotopy equivalences](https://bartoszmilewski.com/2025/06/20/weak-homotopy-equivalences/)
 
+[Category Theory: Introducing The Perfect Language (Talk At ZuriHac 2025)](https://www.youtube.com/watch?v=H32kyA4BMz4&t=1207s)
 
-
+> 10:50 "one should get into the habit of trying to look at things without directly referring to them"
 
 

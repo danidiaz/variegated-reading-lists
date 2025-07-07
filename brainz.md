@@ -986,6 +986,6 @@ My success cases:
 
 [baba is eval](https://news.ycombinator.com/item?id=44455124)
 
-
+[A non-anthropomorphized view of LLMs](https://news.ycombinator.com/item?id=44484682)
 
 

@@ -896,6 +896,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > This means that any attacker is forced to steal and use your code before you do so. This makes their attack extra tricky because they need to race with you or else try to cut you off.
 
+[Implement the OAuth 2.0 Authorization Code with PKCE Flow](https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce)
 
 
 

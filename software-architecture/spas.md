@@ -546,6 +546,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [web translator API](https://news.ycombinator.com/item?id=44374748)
 
-
+[Local First Software Is Easier to Scale](https://www.reddit.com/r/programming/s/DpF6K9wYPX)
 
 

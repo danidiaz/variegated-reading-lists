@@ -988,4 +988,8 @@ My success cases:
 
 [A non-anthropomorphized view of LLMs](https://news.ycombinator.com/item?id=44484682)
 
+[Buenas prácticas para dominar GitHub Copilot Chat](https://www.youtube.com/watch?v=KRh1_ZU2g8E)
+
+[example of debugging with Claude](https://bsky.app/profile/utopia-defer.red/post/3ltgbvflyvc25)
+
 

@@ -902,4 +902,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > What a client backend would typically use to authenticate a client frontend would be a session cookie
 
+[Google OpenID](https://developers.google.com/identity/openid-connect/openid-connect). [What is OpenID Connect](https://openid.net/developers/how-connect-works/). [OAuth2, OpenID: SSO under the hood](https://www.youtube.com/watch?v=bH5PxcJzwME).
 
+
+
+> Google's OAuth 2.0 APIs can be used for both authentication and authorization. This document describes our OAuth 2.0 implementation for authentication, which conforms to the OpenID Connect specification, and is OpenID Certified. 

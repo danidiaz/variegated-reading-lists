@@ -1444,5 +1444,7 @@ A possible example of importing something into home.nix?
 
 [Build against an older libc, keep the newest in the runtime closure](https://github.com/NixOS/nixpkgs/issues/303405). [Libc version is different before and after nix-shell -p](https://discourse.nixos.org/t/libc-version-is-different-before-and-after-nix-shell-p/43946).
 
+[stop using nix-env](https://stop-using-nix-env.privatevoid.net/)
+
 
 

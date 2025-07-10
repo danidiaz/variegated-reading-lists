@@ -548,4 +548,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [Local First Software Is Easier to Scale](https://www.reddit.com/r/programming/s/DpF6K9wYPX)
 
+[Astro is a return to the fundamentals of the web](https://news.ycombinator.com/item?id=44507854) 
+
 

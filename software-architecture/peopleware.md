@@ -350,4 +350,6 @@
 
 [interruptor](https://www.theguardian.com/lifeandstyle/2025/jun/26/i-was-one-of-those-men-who-couldnt-stop-talking-heres-how-i-learned-to-shut-up-and-listen#Echobox=1750928932)
 
+[The growth and collapse of autonomy at work](https://www.pnas.org/doi/abs/10.1073/pnas.2504419122)
+
 

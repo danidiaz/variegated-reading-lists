@@ -992,4 +992,6 @@ My success cases:
 
 [example of debugging with Claude](https://bsky.app/profile/utopia-defer.red/post/3ltgbvflyvc25)
 
+[how I build software quickly](https://lobste.rs/s/zlm4fp/how_i_build_software_quickly)
 
+[role-playing in llms](https://bsky.app/profile/aelkus.bsky.social/post/3ltkdf26zy22m). [Role play with large language models](https://www.nature.com/articles/s41586-023-06647-8).

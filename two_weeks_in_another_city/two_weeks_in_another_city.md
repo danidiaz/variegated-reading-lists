@@ -929,5 +929,8 @@ Bernini, his life and his Rome
 
 [split parties](https://bsky.app/profile/felipepepe.bsky.social/post/3louzthpfws2w)
 
+[Rise of the Dragon](https://en.wikipedia.org/wiki/Rise_of_the_Dragon)
+
+[role-playing in llms](https://bsky.app/profile/aelkus.bsky.social/post/3ltkdf26zy22m). [Role play with large language models](https://www.nature.com/articles/s41586-023-06647-8).
 
 

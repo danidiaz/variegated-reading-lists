@@ -550,4 +550,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [Astro is a return to the fundamentals of the web](https://news.ycombinator.com/item?id=44507854) 
 
+[token vs cookies](https://auth0.com/docs/secure/tokens/token-best-practices#tokens-vs-cookies)
+
 

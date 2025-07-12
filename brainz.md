@@ -995,3 +995,7 @@ My success cases:
 [how I build software quickly](https://lobste.rs/s/zlm4fp/how_i_build_software_quickly)
 
 [role-playing in llms](https://bsky.app/profile/aelkus.bsky.social/post/3ltkdf26zy22m). [Role play with large language models](https://www.nature.com/articles/s41586-023-06647-8).
+
+[ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html). [hn](https://news.ycombinator.com/item?id=44535637).
+
+

@@ -1675,6 +1675,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [persistence issues](https://www.reddit.com/r/softwarearchitecture/comments/1ls9xbl/architecture_concern_domain_model_persistence/)
 
+[tell a story](https://www.reddit.com/r/softwarearchitecture/comments/1lxz1ej/mental_models_in_modern_software_your_code_should/)
+
 
 
 

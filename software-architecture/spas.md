@@ -554,4 +554,8 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 >  Take into account that cookies will work just fine if the web app and the API are served from the same domain, so you might not need token based authentication. 
 
+[status codes](https://news.ycombinator.com/item?id=44507078)
+
+[proper RESTful](https://news.ycombinator.com/item?id=44507076)
+
 

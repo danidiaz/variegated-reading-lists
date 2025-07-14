@@ -392,3 +392,6 @@ is not a problem)
 
 [Operations On Syntax Should Not Inspect The Scope](https://jesper.cx/files/scopes.pdf)
 
+[binding application in Idris](https://news.ycombinator.com/item?id=44526728)
+
+

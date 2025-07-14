@@ -933,4 +933,6 @@ Bernini, his life and his Rome
 
 [role-playing in llms](https://bsky.app/profile/aelkus.bsky.social/post/3ltkdf26zy22m). [Role play with large language models](https://www.nature.com/articles/s41586-023-06647-8).
 
+[Lessons From Creating My First Text Adventure | Lobsters](https://lobste.rs/s/0yqrym/lessons_from_creating_my_first_text)
+
 

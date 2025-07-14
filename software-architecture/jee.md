@@ -493,6 +493,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [valueOf, of](https://www.youtube.com/shorts/YB6b1mxg-cY)
 
-
+[JobRunr v8 released: Java job scheduler now with Carbon Aware Jobs](https://www.reddit.com/r/java/s/R23fV9rgYr)
 
 

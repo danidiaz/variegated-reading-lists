@@ -1048,6 +1048,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [SBV (v12.0)](https://www.reddit.com/r/haskell/comments/1lrk600/announce_a_new_release_of_sbv_v120_is_released_on/). [post](https://hachyderm.io/@DiazCarrete/114838759786287250).
 
+[Functions Are Vectors (2023)](https://news.ycombinator.com/item?id=44481464).
+
 
 
 

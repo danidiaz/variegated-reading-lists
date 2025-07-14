@@ -79,6 +79,8 @@
 
 [focus on reinsurance](https://insurancelibrary.org/2021/08/09/reinsurance/)
 
+[GLP-1s Are Breaking Life Insurance](https://news.ycombinator.com/item?id=44552414)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

@@ -998,4 +998,22 @@ My success cases:
 
 [ETH Zurich and EPFL to release a LLM developed on public infrastructure](https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html). [hn](https://news.ycombinator.com/item?id=44535637).
 
+[Leading your engineers towards an AI-assisted future](https://blog.thepete.net/blog/2025/06/26/leading-your-engineers-towards-an-ai-assisted-future/)
+
+[Best way to share project structure with the LLMs?](https://www.reddit.com/r/softwarearchitecture/s/Npu9ZbSoCf)
+
+[Understanding Tool/Function Calling in LLMs (Step-by-Step Examples in REST and Spring AI)](https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b)
+
+[claude code for debugging](https://www.reddit.com/r/ClaudeAI/s/GfuPtz4A7k)
+
+[LLM Inference Handbook](https://news.ycombinator.com/item?id=44527947)
+
+[[r/ClaudeAI] Claude Code Tip Straight from Anthropic: Go Slow to Go Smart](https://www.reddit.com/r/ClaudeAI/s/mqMxRoSSG7)
+
+[VScode custom chat mode](https://youtube.com/shorts/AbtzkXIkwCE)
+
+[Is the doc bot docs, or not?](https://lobste.rs/s/iq4abk/is_doc_bot_docs_not)
+
+[Adding a feature because ChatGPT incorrectly thinks it exists](https://news.ycombinator.com/item?id=44491071)
+
 

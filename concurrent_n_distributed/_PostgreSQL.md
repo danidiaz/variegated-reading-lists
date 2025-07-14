@@ -479,4 +479,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [scaling Postgres](https://www.reddit.com/r/softwarearchitecture/comments/1llkoar/looking_for_expert_guidance_on_scaling_postgres/)
 
+[Postgres LISTEN/NOTIFY does not scale](https://news.ycombinator.com/item?id=44490510)
+
+
 

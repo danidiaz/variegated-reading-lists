@@ -26,4 +26,6 @@
 
 [constant downgrades](https://x.com/GrantSlatton/status/1825621998367813709)
 
+[Hidden interface controls that affect usability](https://news.ycombinator.com/item?id=44476297)
+
 

@@ -817,6 +817,8 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [What clever tools/workflows do you use to manage development environments?](https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use)
 
+[Should I commit the .vscode folder to source control?](https://stackoverflow.com/questions/32964920/should-i-commit-the-vscode-folder-to-source-control)
 
+[What clever tools/workflows do you use to manage development environments?](https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use)
 
 

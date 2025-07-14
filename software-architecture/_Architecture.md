@@ -1677,6 +1677,15 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [tell a story](https://www.reddit.com/r/softwarearchitecture/comments/1lxz1ej/mental_models_in_modern_software_your_code_should/)
 
+[My tech lead uses a "single DTO" used multiple times everywhere. Is this red flag?](https://www.reddit.com/r/ExperiencedDevs/s/7l01mCKJtX)
+
+[Can we test it? Yes, we can!](https://youtu.be/MqC3tudPH6w)
+
+[Say Hello to Self-Contained Systems](https://youtu.be/jdxxgHcAjf8)
+
+[Dealing with Eventual Consistency, and Causal Consistency using Predictable Identifiers](https://www.reddit.com/r/softwarearchitecture/s/NyhBcg6mJf)
+
+[placing functions](https://www.reddit.com/r/programming/s/2GwnvMfpoO)
 
 
 

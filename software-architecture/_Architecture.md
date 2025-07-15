@@ -1687,5 +1687,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [placing functions](https://www.reddit.com/r/programming/s/2GwnvMfpoO)
 
+[the hard part about feature toggles](https://www.reddit.com/r/softwarearchitecture/comments/1m0chly/the_hard_part_about_feature_toggles_is_writing/). [injection](https://www.reddit.com/r/TrunkbasedDevelopment/comments/1m0ch07/comment/n38klmg/)
+
+
+
 
 

@@ -821,4 +821,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [What clever tools/workflows do you use to manage development environments?](https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use)
 
+[how to freeze frame in kdenlive](https://www.reddit.com/r/kdenlive/comments/pkdoc7/comment/hc3y1oj/)
+
 

@@ -514,5 +514,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Draft: introduce cast zapping as an alternative to coercion zapping](https://gitlab.haskell.org/ghc/ghc/-/merge_requests/14387)
 
+[rename modules in cabal-add](https://discourse.haskell.org/t/cabal-add-extend-cabal-build-depends-from-the-command-line/7911/21)
+
 
 

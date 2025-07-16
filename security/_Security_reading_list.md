@@ -906,4 +906,20 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [token vs cookies](https://auth0.com/docs/secure/tokens/token-best-practices#tokens-vs-cookies)
 
+[Stop. Using. Loopback. Sockets. For. IPC!](https://security.stackexchange.com/questions/264487/ca-signed-certificate-for-localhost-production-app#comment547799_264487)
+
+> One can only get a publicly signed certificate for a domain which one controls. The domain localhost is not controlled by somebody, it is on every computer, i.e. controlled by everybody. Therefore it is not possible to get a publicly signed certificate for it.
+
+[The Dangers of Self-Signed SSL Certificates](https://www.globalsign.com/en/ssl-information-center/dangers-self-signed-certificates)
+
+> Many organizations are tempted to use self-signed SSL Certificates instead of those issued and verified by a trusted Certificate Authority mainly because of the price difference. Unlike CA issued certificates, self-signed certificates are free of charge. 
+
+> While self-signed SSL Certificates also encrypt customers' log in and other personal account credentials, they prompt most web servers to display a security alert because the certificate was not verified by a trusted Certificate Authority.
+
+[TLS Certificate Secrets are dynamically injected into Helm templates for manifest-driven deployments.](https://medium.com/@python-javascript-php-html-css/tls-certificate-secrets-are-dynamically-injected-into-helm-templates-for-manifest-driven-d2eaefb4c355). [Kubernetes Secret TLS Certificate P12 and Spring Boot Deployment doesn't work](https://stackoverflow.com/questions/50020701/kubernetes-secret-tls-certificate-p12-and-spring-boot-deployment-doesnt-work)
+
+[Best long term advice is to install and learn how to use cert-manager. It comes with built-in support for Lets Encrypt another project worth investigating. ](https://www.reddit.com/r/kubernetes/comments/14cis62/renewing_tls_certificate_on_a_sops_secret/)
+
+
+
 

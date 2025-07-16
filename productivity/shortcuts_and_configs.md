@@ -823,4 +823,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [how to freeze frame in kdenlive](https://www.reddit.com/r/kdenlive/comments/pkdoc7/comment/hc3y1oj/)
 
+[Youtube: add info cards to videos](https://support.google.com/youtube/answer/6140493).
+
 

@@ -926,7 +926,9 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > The values in a self-signed certificate can only be trusted when the values were verified out-of-band during the acceptance of the certificate, and there is a method to verify the self-signed certificate has not changed after it was trusted.
 
+[the CA private key](https://security.stackexchange.com/a/198766/23918)
 
+[As the low assurance requirements allow domain validated certificates to be issued quickly without requiring human intervention, domain validated certificates have a number of unique characteristics](https://en.wikipedia.org/wiki/Domain-validated_certificate)
 
 
 

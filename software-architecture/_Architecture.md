@@ -1689,7 +1689,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [the hard part about feature toggles](https://www.reddit.com/r/softwarearchitecture/comments/1m0chly/the_hard_part_about_feature_toggles_is_writing/). [injection](https://www.reddit.com/r/TrunkbasedDevelopment/comments/1m0ch07/comment/n38klmg/)
 
+[DI or not DI](https://softwareengineering.stackexchange.com/questions/458787/is-dependency-injection-useful-when-implementations-are-never-expected-to-change)
 
+[Feature-Sliced Design](https://feature-sliced.github.io/documentation/docs)
 
 
 

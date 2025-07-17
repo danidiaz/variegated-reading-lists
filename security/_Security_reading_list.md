@@ -930,6 +930,19 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [As the low assurance requirements allow domain validated certificates to be issued quickly without requiring human intervention, domain validated certificates have a number of unique characteristics](https://en.wikipedia.org/wiki/Domain-validated_certificate)
 
+[security in sliced design](https://feature-sliced.github.io/documentation/docs/guides/examples/auth)
+
+> The ideal token storage for a web app is a cookie — it requires no manual token storage or handling. As such, cookie storage needs almost no consideration from the frontend architecture side. If your frontend framework has a server side (for example, Remix), then you should store the server-side cookie infrastructure in shared/api. There is an example in the Authentication section of the tutorial of how to do that with Remix.
+
+[openssl-req](https://docs.openssl.org/master/man1/openssl-req/). [certificate request](https://knowledge.digicert.com/general-information/openssl-quick-reference-guide).
+
+> This command primarily creates and processes certificate requests (CSRs) in PKCS#10 format. It can additionally create self-signed certificates for use as root CAs for example.
+
+[How to Generate CSR With OpenSSL](https://phoenixnap.com/kb/generate-openssl-certificate-signing-request)
+
+> A Certificate Signing Request (CSR) is a cryptographic file generated on the server where you plan to install a certificate. It is the first step in setting up an SSL Certificate on your website.
+
+> The CSR contains information (such as the common name, organization, country, etc.) that the Certificate Authority (CA) uses to create the certificate. It also contains the public key that will be included in the certificate, and it is signed with the corresponding private key.
 
 
 

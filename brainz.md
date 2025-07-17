@@ -1016,4 +1016,6 @@ My success cases:
 
 [Adding a feature because ChatGPT incorrectly thinks it exists](https://news.ycombinator.com/item?id=44491071)
 
+[there's no file](https://www.reddit.com/r/OpenAI/comments/1lyx6gj/how_to_download_a_487_mb_file_that_chatgpt_helped/)
+
 

@@ -920,6 +920,14 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Best long term advice is to install and learn how to use cert-manager. It comes with built-in support for Lets Encrypt another project worth investigating. ](https://www.reddit.com/r/kubernetes/comments/14cis62/renewing_tls_certificate_on_a_sops_secret/)
 
+[it is not a „self signed“ warning, it’s a warning about „not trusted (issuer)](https://security.stackexchange.com/questions/213687/is-encryption-still-applied-if-you-ignore-the-ssl-certificate-warning-for-self-s). [Wikipedia](https://en.wikipedia.org/wiki/Self-signed_certificate).
+
+> With a self-signed certificate by contrast, trust of the values in the certificate are more complicated because the entity possesses the signing key, and can always generate a new certificate with different values.
+
+> The values in a self-signed certificate can only be trusted when the values were verified out-of-band during the acceptance of the certificate, and there is a method to verify the self-signed certificate has not changed after it was trusted.
+
+
+
 
 
 

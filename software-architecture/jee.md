@@ -495,4 +495,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [JobRunr v8 released: Java job scheduler now with Carbon Aware Jobs](https://www.reddit.com/r/java/s/R23fV9rgYr)
 
+[Converting Future to CompletableFuture With Java Virtual Threads](https://www.morling.dev/blog/future-to-completablefuture-with-java-virtual-threads/)
+
 

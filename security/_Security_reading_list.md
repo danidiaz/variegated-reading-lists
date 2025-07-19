@@ -944,5 +944,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > The CSR contains information (such as the common name, organization, country, etc.) that the Certificate Authority (CA) uses to create the certificate. It also contains the public key that will be included in the certificate, and it is signed with the corresponding private key.
 
+[How Certificate Chains Work](https://knowledge.digicert.com/solution/how-certificate-chains-work)
+
 
 

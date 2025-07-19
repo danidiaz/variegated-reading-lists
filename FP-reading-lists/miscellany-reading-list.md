@@ -1050,6 +1050,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Functions Are Vectors (2023)](https://news.ycombinator.com/item?id=44481464).
 
+[The Big OOPs: Anatomy of a Thirty-five-year Mistake](https://www.youtube.com/watch?v=wo84LFzx5nI). [lobsters](https://lobste.rs/s/rnnpqm/big_oops_anatomy_thirty_five_year_mistake).
+
 
 
 

@@ -1020,6 +1020,8 @@ My success cases:
 
 [Veo 3 community theather](https://bsky.app/profile/emollick.bsky.social/post/3lubybw6q2c2z). [o3](https://bsky.app/profile/theophite.bsky.social/post/3lubrfntq5c25).
 
+[explain jokes](https://bsky.app/profile/whstancil.bsky.social/post/3ludewldzy22w)
+
 
 
 

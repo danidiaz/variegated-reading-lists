@@ -1104,4 +1104,6 @@ deals with its own properties.
 
 > 10:50 "one should get into the habit of trying to look at things without directly referring to them"
 
+[optics and proarrows](https://hachyderm.io/@sjoerd_visscher@types.pl/114881107762746711)
+
 

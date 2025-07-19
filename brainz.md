@@ -1018,4 +1018,8 @@ My success cases:
 
 [there's no file](https://www.reddit.com/r/OpenAI/comments/1lyx6gj/how_to_download_a_487_mb_file_that_chatgpt_helped/)
 
+[Veo 3 community theather](https://bsky.app/profile/emollick.bsky.social/post/3lubybw6q2c2z). [o3](https://bsky.app/profile/theophite.bsky.social/post/3lubrfntq5c25).
+
+
+
 

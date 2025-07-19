@@ -1020,7 +1020,9 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 > Only in rare situations does a 4NF table not conform to 5NF; for instance, when the decomposed tables are cyclic. These are situations in which a complex real-world constraint governing the valid combinations of attribute values in the 4NF table is not implicit in the structure of that table. If such a table is not normalized to 5NF, the burden of maintaining the logical consistency of the data within the table must be carried partly by the application responsible for insertions, deletions, and updates to it; and there is a heightened risk that the data within the table will become inconsistent. In contrast, the 5NF design excludes the possibility of such inconsistencies.
 
-[How to Get Foreign Keys Horribly Wrong](https://news.ycombinator.com/item?id=44570089)
+[How to Get Foreign Keys Horribly Wrong](https://news.ycombinator.com/item?id=44570089). [hn](https://news.ycombinator.com/item?id=44609225)
+
+> migration tools are 100% about data loss prevention.
 
 # Podcasts
 

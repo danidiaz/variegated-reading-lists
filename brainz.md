@@ -1024,6 +1024,10 @@ My success cases:
 
 [using ai right now—a guide](https://bsky.app/profile/emollick.bsky.social/post/3luftax6aw22a). [ai agents](https://news.ycombinator.com/item?id=44623207).
 
+[Coding with LLMs in the summer of 2025 – an update](https://antirez.com/news/154). [hn](https://news.ycombinator.com/item?id=44623953).
+
+> Frontier LLMs such as Gemini 2.5 PRO, with their vast understanding of many topics and their ability to grasp thousands of lines of code in a few seconds, are able to extend and amplify the programmer capabilities. If you are able to describe problems in a clear way and, if you are able to accept the back and forth needed in order to work with LLMs, you can reach incredible results
+
 
 
 

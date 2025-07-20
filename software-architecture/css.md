@@ -755,5 +755,7 @@ https://twitter.com/tailwindcss
 
 [intersection and mutation](https://css-tricks.com/a-better-api-for-the-intersection-and-mutation-observers/)
 
+[attr()](https://youtube.com/shorts/zn8NQJr-Llg?si=04DvACMykel2Yo5p)
+
 
 

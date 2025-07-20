@@ -825,4 +825,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [Youtube: add info cards to videos](https://support.google.com/youtube/answer/6140493).
 
+[gimp for background removal](https://www.reddit.com/r/photography/comments/1l7y6wh/comment/mxa0y0h/)
+
 

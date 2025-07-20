@@ -1022,6 +1022,10 @@ My success cases:
 
 [explain jokes](https://bsky.app/profile/whstancil.bsky.social/post/3ludewldzy22w)
 
+[using ai right now—a guide](https://bsky.app/profile/emollick.bsky.social/post/3luftax6aw22a). [ai agents](https://news.ycombinator.com/item?id=44623207).
+
+
+
 
 
 

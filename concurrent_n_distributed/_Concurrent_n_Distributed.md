@@ -819,5 +819,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [Decomposing Aurora DSQL](https://brooker.co.za/blog/2025/04/17/decomposing.html).
 
+[Consensus algorithms at scale: Part 1 - Introduction](https://planetscale.com/blog/consensus-algorithms-at-scale-part-1)
+
 
 

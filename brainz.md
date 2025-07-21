@@ -1028,7 +1028,9 @@ My success cases:
 
 > Frontier LLMs such as Gemini 2.5 PRO, with their vast understanding of many topics and their ability to grasp thousands of lines of code in a few seconds, are able to extend and amplify the programmer capabilities. If you are able to describe problems in a clear way and, if you are able to accept the back and forth needed in order to work with LLMs, you can reach incredible results
 
+[A real-world AI coding case sample](https://blog.korny.info/2025/07/18/a-real-world-ai-coding-case-sample)
 
+[debugging example](https://bsky.app/profile/mitsuhiko.at/post/3luhznwdrx22k)
 
 
 

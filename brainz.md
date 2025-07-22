@@ -1032,6 +1032,9 @@ My success cases:
 
 [debugging example](https://bsky.app/profile/mitsuhiko.at/post/3luhznwdrx22k)
 
+[Subliminal Learning: Language Models Transmit Behavioral Traits via Hidden Signals in Data](https://alignment.anthropic.com/2025/subliminal-learning/). [post](https://bsky.app/profile/peligrietzer.bsky.social/post/3lukyktlrkk2y).
+
+
 
 
 

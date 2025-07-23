@@ -516,5 +516,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [rename modules in cabal-add](https://discourse.haskell.org/t/cabal-add-extend-cabal-build-depends-from-the-command-line/7911/21)
 
+[inlining experiments](https://era.ed.ac.uk/handle/1842/43690)
+
 
 

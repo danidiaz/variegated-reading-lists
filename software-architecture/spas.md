@@ -558,4 +558,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [proper RESTful](https://news.ycombinator.com/item?id=44507076)
 
+[forms are still a mess](https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/)
+
 

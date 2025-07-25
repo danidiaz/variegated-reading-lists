@@ -1693,5 +1693,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Feature-Sliced Design](https://feature-sliced.github.io/documentation/docs)
 
+[Wie erreicht man Functional Cohesion? ](https://www.youtube.com/watch?v=ApJeDr49K-Y)
+
 
 

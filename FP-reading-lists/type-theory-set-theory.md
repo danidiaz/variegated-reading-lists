@@ -545,6 +545,8 @@ V2, . . . , with V0 ∈ V1 ∈ V2 ∈ · · ·
 
 [sets types and type-checking](https://kaleidawave.github.io/posts/sets-types-and-type-checking/)
 
+[Lectures on Principles of Dependent Type Theory](https://www.danielgratzer.com/courses/type-theory-f-2024/)
+
 # set theory
 
 - [ZFC](https://www.youtube.com/watch?v=R7pMHqIIdbc)

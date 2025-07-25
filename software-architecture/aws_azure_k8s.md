@@ -858,4 +858,7 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [step functions deep dive](https://medium.com/@joudwawad/aws-step-functions-deep-dive-f66ea367df6a)
 
+[AWS Introduces New Risk-Free Account Plan with Enhanced Free Credits](https://www.infoq.com/news/2025/07/aws-risk-free-account-credits/). [reddit](https://www.reddit.com/r/programming/comments/1m7x7xi/aws_introduces_new_riskfree_account_plan_with/).
+
+
 

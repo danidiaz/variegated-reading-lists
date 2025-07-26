@@ -394,4 +394,6 @@ is not a problem)
 
 [binding application in Idris](https://news.ycombinator.com/item?id=44526728)
 
+[what is syntax](https://mastodon.social/@trebor@types.pl/109801509951740296)
+
 

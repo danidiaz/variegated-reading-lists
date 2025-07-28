@@ -1446,5 +1446,7 @@ A possible example of importing something into home.nix?
 
 [stop using nix-env](https://stop-using-nix-env.privatevoid.net/)
 
+[Development shells with Nix: four quick examples](https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/)
+
 
 

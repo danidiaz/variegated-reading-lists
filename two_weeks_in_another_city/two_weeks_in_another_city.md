@@ -935,4 +935,6 @@ Bernini, his life and his Rome
 
 [Lessons From Creating My First Text Adventure | Lobsters](https://lobste.rs/s/0yqrym/lessons_from_creating_my_first_text)
 
+[Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
+
 

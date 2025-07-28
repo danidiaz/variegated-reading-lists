@@ -757,5 +757,7 @@ https://twitter.com/tailwindcss
 
 [attr()](https://youtube.com/shorts/zn8NQJr-Llg?si=04DvACMykel2Yo5p)
 
+[tailwind drama](https://lobste.rs/s/5u6ydr/tailwind_is_worst_all_worlds)
+
 
 

@@ -827,4 +827,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [gimp for background removal](https://www.reddit.com/r/photography/comments/1l7y6wh/comment/mxa0y0h/)
 
+[Using fortune to reinforce habits](https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/)
+
 

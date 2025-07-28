@@ -1034,9 +1034,9 @@ My success cases:
 
 [Subliminal Learning: Language Models Transmit Behavioral Traits via Hidden Signals in Data](https://alignment.anthropic.com/2025/subliminal-learning/). [post](https://bsky.app/profile/peligrietzer.bsky.social/post/3lukyktlrkk2y). [post](https://bsky.app/profile/bill-of-lefts.bsky.social/post/3lul7vdgjc22i).
 
+[LLMs are bad at returning code in JSON](https://aider.chat/2024/08/14/code-in-json.html)
 
-
-
+[experiment management/hygiene](https://x.com/ezyang/status/1949660080057507944)
 
 
 

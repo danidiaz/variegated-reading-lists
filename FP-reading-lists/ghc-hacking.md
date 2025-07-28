@@ -518,5 +518,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [inlining experiments](https://era.ed.ac.uk/handle/1842/43690)
 
+[GADTs That Can Be Newtypes and How to Roll 'Em](https://gist.github.com/LSLeary/dd52b3086eb153e3c99e578f19eec1ee)
+
 
 

@@ -1143,4 +1143,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [bools vs slot props](https://bsky.app/profile/tkdodo.eu/post/3lrvffnwvks2t). [post](https://sandroroth.com/blog/react-slots/).
 
+[react component servers](https://bsky.app/profile/devongovett.bsky.social/post/3luvqf362mk2h)
+
 

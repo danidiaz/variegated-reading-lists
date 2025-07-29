@@ -1038,5 +1038,7 @@ My success cases:
 
 [experiment management/hygiene](https://x.com/ezyang/status/1949660080057507944)
 
+[Tao on "blue team" vs. "red team" LLMs](https://news.ycombinator.com/item?id=44711306)
+
 
 

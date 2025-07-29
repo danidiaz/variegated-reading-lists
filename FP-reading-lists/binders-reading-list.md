@@ -396,4 +396,6 @@ is not a problem)
 
 [what is syntax](https://mastodon.social/@trebor@types.pl/109801509951740296)
 
+[nominal sets: yay or nay?](https://hachyderm.io/@AndrasKovacs@types.pl/114938134707235913)
+
 

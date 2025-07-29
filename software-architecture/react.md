@@ -1145,4 +1145,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [react component servers](https://bsky.app/profile/devongovett.bsky.social/post/3luvqf362mk2h)
 
+[The Useless useCallback](https://tkdodo.eu/blog/the-useless-use-callback). [hn](https://news.ycombinator.com/item?id=44715391).
+
 

@@ -937,4 +937,7 @@ Bernini, his life and his Rome
 
 [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
 
+[ai: turn any book into a text adventure](https://news.ycombinator.com/item?id=44725202)
+
+
 

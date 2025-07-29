@@ -1040,5 +1040,7 @@ My success cases:
 
 [Tao on "blue team" vs. "red team" LLMs](https://news.ycombinator.com/item?id=44711306)
 
+[ChatGPT study mode](https://news.ycombinator.com/item?id=44725764)
+
 
 

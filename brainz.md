@@ -1042,5 +1042,7 @@ My success cases:
 
 [ChatGPT study mode](https://news.ycombinator.com/item?id=44725764)
 
+[Gemini Deep Think](https://news.ycombinator.com/item?id=44755279)
+
 
 

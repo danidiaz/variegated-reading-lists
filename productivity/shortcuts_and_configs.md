@@ -829,4 +829,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [Using fortune to reinforce habits](https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/)
 
+[replacing tmux](https://news.ycombinator.com/item?id=44754492)
+
 

@@ -872,7 +872,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [how geometric intuition fails miserably in high dimensions](https://twitter.com/mariotelfig/status/1768213175583769076)
 
-[understanding the Phases applicative](https://gist.github.com/kbridge/00f2e155acdc8d50270aa322caa26be3)
+[understanding the Phases applicative](https://gist.github.com/kbridge/00f2e155acdc8d50270aa322caa26be3). [phases with keys](https://www.reddit.com/r/haskell/comments/1meepp6/phase_applicative_f_key_f_phases_key_f/).
 
 [bobgate](https://twitter.com/rohn_jawls/status/1770129140827451550). [original puzzle](https://twitter.com/littmath/status/1769410729176674791).
 

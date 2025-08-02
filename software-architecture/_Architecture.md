@@ -1695,5 +1695,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Wie erreicht man Functional Cohesion? ](https://www.youtube.com/watch?v=ApJeDr49K-Y)
 
+[Elixir job runner](https://iamkonstantin.eu/blog/less-glue-more-product-why-elixir-shrinks-architectural-complexity/)
+
 
 

@@ -1044,5 +1044,7 @@ My success cases:
 
 [Gemini Deep Think](https://news.ycombinator.com/item?id=44755279)
 
+[It's rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
+
 
 

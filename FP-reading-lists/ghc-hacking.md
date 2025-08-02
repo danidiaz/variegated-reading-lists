@@ -520,5 +520,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [GADTs That Can Be Newtypes and How to Roll 'Em](https://gist.github.com/LSLeary/dd52b3086eb153e3c99e578f19eec1ee)
 
+[Intensional Analysis of Typed Template Haskell Quotations](https://www.youtube.com/watch?v=RbBoLq8AmAA)
+
 
 

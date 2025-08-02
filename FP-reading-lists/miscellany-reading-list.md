@@ -1052,6 +1052,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [The Big OOPs: Anatomy of a Thirty-five-year Mistake](https://www.youtube.com/watch?v=wo84LFzx5nI). [lobsters](https://lobste.rs/s/rnnpqm/big_oops_anatomy_thirty_five_year_mistake).
 
+[compressed sensing](https://mathoverflow.net/questions/178139/examples-of-unexpected-mathematical-images/178210)
+
 
 
 

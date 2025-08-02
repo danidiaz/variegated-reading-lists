@@ -524,5 +524,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [What we have learned about memory profiling in the last 5 years](https://www.youtube.com/watch?v=8i8HJiBI0lo)
 
+[Template Haskell, a case study in (in)stability](https://www.youtube.com/watch?v=TCvDq6ScaDg)
+
 
 

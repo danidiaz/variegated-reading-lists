@@ -398,4 +398,6 @@ is not a problem)
 
 [nominal sets: yay or nay?](https://hachyderm.io/@AndrasKovacs@types.pl/114938134707235913)
 
+[Intensional Analysis of Typed Template Haskell Quotations (mentions PHOAS)](https://www.youtube.com/watch?v=RbBoLq8AmAA)
+
 

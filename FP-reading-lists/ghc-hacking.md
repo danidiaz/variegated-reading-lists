@@ -522,5 +522,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Intensional Analysis of Typed Template Haskell Quotations](https://www.youtube.com/watch?v=RbBoLq8AmAA)
 
+[What we have learned about memory profiling in the last 5 years](https://www.youtube.com/watch?v=8i8HJiBI0lo)
+
 
 

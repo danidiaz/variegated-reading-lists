@@ -1697,5 +1697,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Elixir job runner](https://iamkonstantin.eu/blog/less-glue-more-product-why-elixir-shrinks-architectural-complexity/)
 
+[more DTO hate](https://www.reddit.com/r/golang/comments/1mek1jm/why_i_hate_dtos_and_many_clean_architecture/)
 
 
+ 

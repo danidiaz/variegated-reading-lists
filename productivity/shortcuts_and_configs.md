@@ -831,4 +831,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [replacing tmux](https://news.ycombinator.com/item?id=44754492)
 
+[:ref: in Sphinx](https://www.sphinx-doc.org/en/master/usage/referencing.html#role-ref)
+
 

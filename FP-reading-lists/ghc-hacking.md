@@ -526,5 +526,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Template Haskell, a case study in (in)stability](https://www.youtube.com/watch?v=TCvDq6ScaDg)
 
+[Making GHCi compatible with multiple home units](https://www.youtube.com/watch?v=0tOciI7lMEE)
+
 
 

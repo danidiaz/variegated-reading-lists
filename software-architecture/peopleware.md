@@ -352,4 +352,6 @@
 
 [The growth and collapse of autonomy at work](https://www.pnas.org/doi/abs/10.1073/pnas.2504419122)
 
+[If you're remote, ramble](https://stephango.com/ramblings). [hn](https://news.ycombinator.com/item?id=44775563).
+
 

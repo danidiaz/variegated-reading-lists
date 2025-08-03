@@ -528,5 +528,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Making GHCi compatible with multiple home units](https://www.youtube.com/watch?v=0tOciI7lMEE)
 
+[henforcer](https://www.youtube.com/watch?v=PEAiqBHVHC0&t=2589s)
+
 
 

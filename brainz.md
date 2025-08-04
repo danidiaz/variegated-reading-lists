@@ -1046,5 +1046,9 @@ My success cases:
 
 [It's rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/). [lobsters](https://lobste.rs/s/mlnvoy/it_s_rude_show_ai_output_people).
 
+[LLMs for search](https://bsky.app/profile/opinionhaver.bsky.social/post/3lvlriixal22r)
+
+[partner with the AI](https://martinfowler.com/articles/exploring-gen-ai/partner-with-ai-and-throw-away-the-code.html)
+
 
 

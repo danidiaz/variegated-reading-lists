@@ -562,4 +562,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [to SPA or not to SPA](https://lobste.rs/s/zditcp/it_s_time_for_modern_css_kill_spa)
 
+[HTMX is hard, so let's get it right](https://news.ycombinator.com/item?id=44783266)
+
 

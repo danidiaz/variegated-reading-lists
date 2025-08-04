@@ -833,4 +833,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [:ref: in Sphinx](https://www.sphinx-doc.org/en/master/usage/referencing.html#role-ref)
 
+[The Future is NOT Self-Hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
+
 

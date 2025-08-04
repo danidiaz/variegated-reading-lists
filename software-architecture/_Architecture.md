@@ -1699,5 +1699,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [more DTO hate](https://www.reddit.com/r/golang/comments/1mek1jm/why_i_hate_dtos_and_many_clean_architecture/)
 
-
+[Soft delete vs hard delete in multitenancy with GDPR and audit trail](https://www.reddit.com/r/softwarearchitecture/s/6CmBJxUusk)
  
+

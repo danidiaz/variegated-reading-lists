@@ -204,5 +204,7 @@
 
 [The Tree Borrows paper is finally published](https://www.ralfj.de/blog/2025/07/07/tree-borrows-paper.html). [hn](https://news.ycombinator.com/item?id=44510600).
 
+[The Generativity Pattern](https://arhan.sh/blog/the-generativity-pattern-in-rust/)
+
 
 

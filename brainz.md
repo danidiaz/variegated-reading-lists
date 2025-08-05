@@ -1052,4 +1052,6 @@ My success cases:
 
 [the new normal](https://bsky.app/profile/segyges.bsky.social/post/3lvmu2rwi6k2u). [super IC](https://bsky.app/profile/carnage4life.bsky.social/post/3lvmml2q4ks25).
 
+[How far can we push AI autonomy in code generation?](https://martinfowler.com/articles/pushing-ai-autonomy.html)
+
 

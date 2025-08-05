@@ -1054,6 +1054,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [compressed sensing](https://mathoverflow.net/questions/178139/examples-of-unexpected-mathematical-images/178210)
 
-
+[One Weird Trick to Untie Landin's Knot](https://arxiv.org/abs/2507.21317)
 
 

@@ -137,5 +137,7 @@
 
 [The Server Doesn't Render Anything](https://unplannedobsolescence.com/blog/the-server-doesnt-render/). [Who's Afraid of a Hard Page Load?](https://unplannedobsolescence.com/blog/hard-page-load/). [word](https://unplannedobsolescence.com/blog/why-insist-on-a-word/).
 
+[list vs. table](https://ux.stackexchange.com/questions/119962/confused-with-what-to-use-list-vs-table). [more](https://stackoverflow.com/questions/51636238/confused-with-what-to-use-list-vs-table).
+
 
 

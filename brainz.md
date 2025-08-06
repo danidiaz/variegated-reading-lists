@@ -1080,7 +1080,9 @@ My success cases:
 
 > Copilot Chat can infer relevant chat participants based on your natural language prompt, improving discovery of advanced capabilities without you having to explicitly specify the participant you want to use in your prompt.
 
-[Copilot Slash commands](https://docs.github.com/es/copilot/how-tos/use-chat/use-chat-in-ide#slash-commands)
+[Copilot Slash commands](https://docs.github.com/es/copilot/how-tos/use-chat/use-chat-in-ide#slash-commands). [cheat sheet](https://docs.github.com/en/enterprise-cloud@latest/copilot/reference/cheat-sheet?tool=vscode).
+
+> /fixTestFailure
 
 [Using GitHub skills for Copilot](https://docs.github.com/es/copilot/how-tos/use-chat/use-chat-in-ide#using-github-skills-for-copilot)
 

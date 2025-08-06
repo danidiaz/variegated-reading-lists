@@ -1090,4 +1090,8 @@ My success cases:
 
 > You can generate a list of currently available skills by asking Copilot: @github What skills are available?
 
+[Ask, Edit, & Agent - In-depth Overview of GitHub Copilot Chat Modes](https://youtu.be/s7Qzq0ejhjg?si=-th2FlbuQe1eoZGX). [GitHub Copilot: Chat Participants & Extensions](https://youtube.com/shorts/wP5JeYTl13s?si=eIIS9-ZEhvuNhQjo).
+
+[asynchronous coding agent](https://simonwillison.net/2025/Aug/6/asynchronous-coding-agents/). [post](https://bsky.app/profile/simonwillison.net/post/3lvr22w26mk22).
+
 

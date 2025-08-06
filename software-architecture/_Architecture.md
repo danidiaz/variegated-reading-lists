@@ -1701,4 +1701,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Soft delete vs hard delete in multitenancy with GDPR and audit trail](https://www.reddit.com/r/softwarearchitecture/s/6CmBJxUusk)
  
+[The ambiguity, the curse and the fallacy of domain model](https://www.reddit.com/r/softwarearchitecture/s/dqgyZu6NWT)
+
 

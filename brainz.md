@@ -1054,4 +1054,38 @@ My success cases:
 
 [How far can we push AI autonomy in code generation?](https://martinfowler.com/articles/pushing-ai-autonomy.html)
 
+[almost every commit includes a link to either a ChatGPT or Claude share URL or a GitHub Gist with a transcript copied from one of those](https://lobste.rs/s/ztiaan/when_vibe_coding_isn_t_source_code_prompt#c_juthu3)
+
+[Copilot @workspace vs #codebase](https://github.com/orgs/community/discussions/114471). [explanation](https://github.com/orgs/community/discussions/114471#discussioncomment-13053118). [Copilot Chat does not use relevant open files as context](https://github.com/orgs/community/discussions/84161). [Guide Copilot towards helpful outputs](https://docs.github.com/en/copilot/get-started/best-practices#guide-copilot-towards-helpful-outputs). [use keywords in your prompt](https://docs.github.com/en/copilot/how-tos/use-chat/use-chat-in-ide#using-keywords-in-your-prompt).
+
+> If you are using Copilot in your IDE, open relevant files and close irrelevant files.
+
+> If you are using Copilot Chat in your IDE, use keywords to focus Copilot on a specific task or piece of context.
+
+> @workspace how are notifications scheduled
+
+> #file:gameReducer.js #file:gameInit.js how are these files related
+
+> Highlight relevant lines of code.
+
+> Use chat variables like #selection, #file, #editor, #codebase, or #git.
+
+> Use the @workspace chat participant
+
+> In this example, you can think of #codebase as asking @workspace the question first, and then adding that response to the question you're asking @terminal.
+
+[Copilot Chat participants](https://docs.github.com/es/copilot/how-tos/use-chat/use-chat-in-ide#chat-participants)
+
+> Chat participants are like domain experts who have a specialty that they can help you with.
+
+> Copilot Chat can infer relevant chat participants based on your natural language prompt, improving discovery of advanced capabilities without you having to explicitly specify the participant you want to use in your prompt.
+
+[Copilot Slash commands](https://docs.github.com/es/copilot/how-tos/use-chat/use-chat-in-ide#slash-commands)
+
+[Using GitHub skills for Copilot](https://docs.github.com/es/copilot/how-tos/use-chat/use-chat-in-ide#using-github-skills-for-copilot)
+
+> To specifically invoke a web search you can include the #web variable in your question. For example, @github #web What is the latest LTS of Node.js?
+
+> You can generate a list of currently available skills by asking Copilot: @github What skills are available?
+
 

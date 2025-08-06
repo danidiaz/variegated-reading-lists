@@ -835,4 +835,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [The Future is NOT Self-Hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
 
+[less known features of Git](https://www.reddit.com/r/git/comments/1mi00ef/what_are_some_lesser_known_features_of_git_that/)
+
 

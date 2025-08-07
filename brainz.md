@@ -1094,4 +1094,8 @@ My success cases:
 
 [asynchronous coding agent](https://simonwillison.net/2025/Aug/6/asynchronous-coding-agents/). [post](https://bsky.app/profile/simonwillison.net/post/3lvr22w26mk22).
 
+[LLMs and Git, instead of SO questions](https://bsky.app/profile/shriram.bsky.social/post/3lvsrfy3q7c2h)
+
+
+
 

@@ -1096,6 +1096,12 @@ My success cases:
 
 [LLMs and Git, instead of SO questions](https://bsky.app/profile/shriram.bsky.social/post/3lvsrfy3q7c2h)
 
+[GPT-5: Key characteristics, pricing and model card](https://news.ycombinator.com/item?id=44827794). [GPT-5 is here | Lobsters](https://lobste.rs/s/vn29xx/gpt_5_is_here). [GPT-5 for Developers](https://news.ycombinator.com/item?id=44827101). [GPT-5 leaked system prompt](https://news.ycombinator.com/item?id=44832990). [vscode](https://youtu.be/wqc85X2rpEY?si=BR5LErvs4_NQpBUm). [hn](https://news.ycombinator.com/item?id=44826997).
+
+
+
+
+
 
 
 

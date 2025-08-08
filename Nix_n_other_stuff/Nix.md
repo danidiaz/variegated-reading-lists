@@ -1448,5 +1448,8 @@ A possible example of importing something into home.nix?
 
 [Development shells with Nix: four quick examples](https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/)
 
+[Nixpkgs module system config modules graph](https://discourse.nixos.org/t/nixpkgs-module-system-config-modules-graph/67722).
+
+
 
 

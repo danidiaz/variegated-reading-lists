@@ -1450,6 +1450,8 @@ A possible example of importing something into home.nix?
 
 [Nixpkgs module system config modules graph](https://discourse.nixos.org/t/nixpkgs-module-system-config-modules-graph/67722).
 
+[New AI Coding Teammate: Gemini CLI GitHub Actions](https://news.ycombinator.com/item?id=44822389)
+
 
 
 

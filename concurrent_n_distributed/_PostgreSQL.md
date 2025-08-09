@@ -481,5 +481,9 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Postgres LISTEN/NOTIFY does not scale](https://news.ycombinator.com/item?id=44490510)
 
+[Why You Should Build Durable Workflows With Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution). [hn](https://news.ycombinator.com/item?id=44840693).
+
+
+
 
 

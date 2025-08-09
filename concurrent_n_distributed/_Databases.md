@@ -1024,6 +1024,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 > migration tools are 100% about data loss prevention.
 
+[Virtual 6NF](https://minimalmodeling.substack.com/p/virtual-6nf)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

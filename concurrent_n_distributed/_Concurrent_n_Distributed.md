@@ -821,5 +821,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [Consensus algorithms at scale: Part 1 - Introduction](https://planetscale.com/blog/consensus-algorithms-at-scale-part-1)
 
+[What even is distributed systems](https://notes.eatonphil.com/2025-08-09-what-even-is-distributed-systems.html)
+
 
 

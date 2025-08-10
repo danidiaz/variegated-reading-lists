@@ -1100,7 +1100,17 @@ My success cases:
 
 [An LLM does not need to understand MCP](https://hackteam.io/blog/your-llm-does-not-care-about-mcp/)
 
+[GPTs and feeling left behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/). [hn](https://news.ycombinator.com/item?id=44851214). [lobsters](https://lobste.rs/s/tvdgb4/gpts_feeling_left_behind).
 
+> , I’ve found that people just can’t write specs very well. They’ll ask the machine for something that can be interpreted in 50 different ways, or include long irrelevant parts of their thought process with relatively little detail about the desired solution. 
+
+> I found it incredibly helpful at saving time implementing all the bullshit involved in starting a new code base - setting up a build system, looking up libraries and APIs, implementing a framework for configuration and I/O, etc.
+
+> As the project got more complicated, I found it super useful to write tests for behaviors I wanted, and just tell it “make this test pass”. It really does a decent job of understanding the codebase and adding onto it like a junior developer would.
+
+> Using an IDE that gives it access to your whole codebase (including build system and tests) is key. Using ChatGPT standalone and pasting stuff in is not where the value is.
+
+[How I code with AI on a budget/free](https://news.ycombinator.com/item?id=44850913)
 
 
 

@@ -530,5 +530,9 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [henforcer](https://www.youtube.com/watch?v=PEAiqBHVHC0&t=2589s)
 
+[RFC: Introduce a serialisable bytecode format and corresponding “bytecode” way](https://discourse.haskell.org/t/rfc-introduce-a-serialisable-bytecode-format-and-corresponding-bytecode-way/12678). [link](https://gitlab.haskell.org/ghc/ghc/-/issues/26298).
+
+
+
 
 

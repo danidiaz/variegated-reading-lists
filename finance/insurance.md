@@ -81,6 +81,8 @@
 
 [GLP-1s Are Breaking Life Insurance](https://news.ycombinator.com/item?id=44552414)
 
+[an uninsurable world](https://www.cnbc.com/2025/08/08/climate-insurers-are-worried-the-world-could-soon-become-uninsurable-.html). [post](https://bsky.app/profile/olufemiotaiwo.bsky.social/post/3lvzzjtm3ms2w). [post](https://bsky.app/profile/lastpositivist.bsky.social/post/3lw2dnams2s2i). [paper](https://philpapers.org/rec/BRACIDl).
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

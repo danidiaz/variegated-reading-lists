@@ -1112,6 +1112,8 @@ My success cases:
 
 [How I code with AI on a budget/free](https://news.ycombinator.com/item?id=44850913)
 
+[what if writing is itself thinking](https://bsky.app/profile/rosactrl.bsky.social/post/3lw4raxnhnc2a)
+
 
 
 

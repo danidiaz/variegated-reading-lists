@@ -354,4 +354,6 @@
 
 [If you're remote, ramble](https://stephango.com/ramblings). [hn](https://news.ycombinator.com/item?id=44775563).
 
+[contacts](https://bsky.app/profile/mekka.mekka-tech.com/post/3lw32utrpek2l)
+
 

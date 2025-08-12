@@ -1056,4 +1056,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [One Weird Trick to Untie Landin's Knot](https://arxiv.org/abs/2507.21317)
 
+[unsafePartsOf](https://chrispenner.ca/posts/traversals-for-batching)
+
 

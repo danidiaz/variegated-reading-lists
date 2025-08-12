@@ -1114,7 +1114,20 @@ My success cases:
 
 [what if writing is itself thinking](https://bsky.app/profile/rosactrl.bsky.social/post/3lw4raxnhnc2a)
 
+[claude code experiment](https://news.ycombinator.com/item?id=44864185). [claude code agents](https://www.anthropic.com/solutions/agents). [video](https://www.youtube.com/watch?v=Pif98jOScYc).
 
+[llms n Haskell](https://www.reddit.com/r/haskell/comments/1mo197o/whats_your_ai_coding_approach/)
 
+[serfdom of the self](https://bsky.app/profile/eliothiggins.bsky.social/post/3lw5jzikgzk2r)
+
+[Evaluating LLMs Playing Text Adventures](https://entropicthoughts.com/evaluating-llms-playing-text-adventures)
+
+[Claude memoria conversaciones](https://hipertextual.com/tecnologia/claude-anthropic-memoria-conversaciones/). [reddit](https://www.reddit.com/r/ClaudeAI/s/aY0CpG0bKT).
+
+[LLMs as Parts of Systems](https://brooker.co.za/blog/2025/08/12/llms-as-components.html)
+
+[GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://news.ycombinator.com/item?id=44871337)
+
+[Use entire codebase as Claude's context](https://www.reddit.com/r/ClaudeAI/s/828Q4Blaro)
 
 

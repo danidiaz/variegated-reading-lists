@@ -1147,4 +1147,10 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [The Useless useCallback](https://tkdodo.eu/blog/the-useless-use-callback). [hn](https://news.ycombinator.com/item?id=44715391).
 
+[React Anti-Pattern: Stop Passing Setters Down the Components Tree](https://matanbobi.dev/posts/stop-passing-setter-functions-to-components). [antipattern](https://www.perssondennis.com/articles/react-anti-patterns-and-best-practices-dos-and-donts). [more](https://medium.com/@samwyndhamii/react-hooks-an-antipattern-in-the-wild-c1409f463012).
+
+
+
+
+
 

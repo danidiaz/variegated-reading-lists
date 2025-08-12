@@ -759,5 +759,13 @@ https://twitter.com/tailwindcss
 
 [tailwind drama](https://lobste.rs/s/5u6ydr/tailwind_is_worst_all_worlds)
 
+[Use this instead of white-space: nowrap](https://www.youtube.com/shorts/4GR_lE1W09o). [min-content, max-content, fit-content - intrinsic sizing with CSS](https://www.youtube.com/watch?v=DM244V9KvNs). [fit-content in CSS - LogRocket Blog](https://blog.logrocket.com/understanding-min-content-max-content-fit-content-css/). [post](https://nikolasbarwicki.com/articles/min-max-fit-content-width). [CSS fit-content: How to Size Elements Easily and Quickly ](https://blogs.purecode.ai/blogs/css-fit-content).
+
+[overflow-wrap](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap). [white-space in Tailwind](https://tailwindcss.com/docs/white-space).
+
+[Container queries aren't about size anymore](https://bsky.app/profile/ishadeed.com/post/3lw43uzon3c2w)
+
+
+
 
 

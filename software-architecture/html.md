@@ -139,5 +139,7 @@
 
 [list vs. table](https://ux.stackexchange.com/questions/119962/confused-with-what-to-use-list-vs-table). [more](https://stackoverflow.com/questions/51636238/confused-with-what-to-use-list-vs-table).
 
+[breakpoints directly on DOM elements](https://www.youtube.com/shorts/NqCFDLr5sJE)
+
 
 

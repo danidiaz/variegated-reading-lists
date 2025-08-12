@@ -564,4 +564,8 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [HTMX is hard, so let's get it right](https://news.ycombinator.com/item?id=44783266)
 
+[REST API Design: 18 Proven Best Practices for Clean and Efficient Endpoints](https://medium.com/@js_9757/rest-api-design-18-proven-best-practices-for-clean-and-efficient-endpoints-a295ba46c514)
+
+[UI vs. API. vs. UAI](https://news.ycombinator.com/item?id=44865916)
+
 

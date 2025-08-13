@@ -568,4 +568,8 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [UI vs. API. vs. UAI](https://news.ycombinator.com/item?id=44865916)
 
+[Cross-Site Request Forgery (CSRF) is a confused deputy attack](https://words.filippo.io/csrf/)
+
+> Unlike Cross-Origin Resource Sharing (CORS), which is about sharing responses across origins, CSRF is about accepting state-changing requests, even if the attacker will not see the response.
+
 

@@ -1130,4 +1130,4 @@ My success cases:
 
 [Use entire codebase as Claude's context](https://www.reddit.com/r/ClaudeAI/s/828Q4Blaro)
 
-
+It seems that using git worktree with Claude Code is A Thing.

@@ -532,7 +532,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [RFC: Introduce a serialisable bytecode format and corresponding “bytecode” way](https://discourse.haskell.org/t/rfc-introduce-a-serialisable-bytecode-format-and-corresponding-bytecode-way/12678). [link](https://gitlab.haskell.org/ghc/ghc/-/issues/26298).
 
-
+[Save memory and CPU with an interning cache](https://www.reddit.com/r/haskell/comments/1mou96j/save_memory_and_cpu_with_an_interning_cache/)
 
 
 

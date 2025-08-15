@@ -765,7 +765,10 @@ https://twitter.com/tailwindcss
 
 [Container queries aren't about size anymore](https://bsky.app/profile/ishadeed.com/post/3lw43uzon3c2w)
 
+[Wrapping and breaking text](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_text/Wrapping_breaking_text). [What's the deal with white-space and text-wrap?](https://stackoverflow.com/questions/24081024/whats-the-deal-with-white-space-and-text-wrap). [overflow-wrap](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap). [tailwind](https://tailwindcss.com/docs/overflow-wrap). [What is the difference between "word-break: break-all" versus "word-wrap: break-word" in CSS?](https://stackoverflow.com/questions/1795109/what-is-the-difference-between-word-break-break-all-versus-word-wrap-break). [word-break](https://developer.mozilla.org/en-US/docs/Web/CSS/word-break). [tailwind](https://tailwindcss.com/docs/word-break). [A complete guide to CSS word-wrap, overflow-wrap, and word-break](https://blog.logrocket.com/guide-css-word-wrap-overflow-wrap-word-break/). [Difference between overflow-wrap and word-break?](https://stackoverflow.com/questions/17259916/difference-between-overflow-wrap-and-word-break). [CSS word-break vs word-wrap (Overflow Wrap) : What's the Difference ?](https://www.geeksforgeeks.org/css/what-is-the-difference-between-word-break-break-all-versus-word-wrap-break-word-in-css/). [overflow-wrap csstricks](https://css-tricks.com/almanac/properties/o/overflow-wrap/). [particion css](https://elcssar.com/css/word-break-word-wrap-hyphens)
 
+> Note: In contrast to word-break, overflow-wrap will only create a break if an entire word cannot be placed on its own line without overflowing.
 
+> Note: The property [overflow-wrap] was originally a nonstandard and unprefixed Microsoft extension called word-wrap, and was implemented by most browsers with the same name. It has since been renamed to overflow-wrap, with word-wrap being an alias.
 
 

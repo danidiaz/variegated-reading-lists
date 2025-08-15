@@ -946,5 +946,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [How Certificate Chains Work](https://knowledge.digicert.com/solution/how-certificate-chains-work)
 
+[csrf](https://words.filippo.io/csrf/). [xl-leaks](https://xsleaks.dev/).  
+
 
 

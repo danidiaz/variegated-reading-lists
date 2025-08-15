@@ -572,4 +572,8 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 > Unlike Cross-Origin Resource Sharing (CORS), which is about sharing responses across origins, CSRF is about accepting state-changing requests, even if the attacker will not see the response.
 
+[Is CORS helping in anyway against Cross-Site Forgery?](https://security.stackexchange.com/questions/97825/is-cors-helping-in-anyway-against-cross-site-forgery)
+
+> Some of the up-voted answers already here are stating that the Same Origin Policy prevents cross-site requests, and therefore prevents CSRF. This is not the case. All the SOP does is prevent the response from being read by another domain (aka origin). This is irrelevant to whether a "classic" CSRF attack is successful or not.
+
 

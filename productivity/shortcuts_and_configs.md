@@ -839,4 +839,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [filen.io](https://filen.io/). [filen](https://xarxa.cloud/@Argyle13/114999499825789511)
 
+[Using Git Hooks When Creating Worktrees](https://mskelton.dev/bytes/20230906143340).
+
 

@@ -771,4 +771,26 @@ https://twitter.com/tailwindcss
 
 > Note: The property [overflow-wrap] was originally a nonstandard and unprefixed Microsoft extension called word-wrap, and was implemented by most browsers with the same name. It has since been renamed to overflow-wrap, with word-wrap being an alias.
 
+[Traps to Developers (CSS)](https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers). [hn](https://news.ycombinator.com/item?id=44922020).
+
+[Another article about centering in CSS](https://piccalil.li/blog/another-article-about-centering-in-css/)
+
+>  It’s worth noting here that the boxes parent — the <body> — is filling the viewport height,
+
+[every layout](https://every-layout.dev/)
+
+> It’s better to treat layout as a composable skeleton that doesn’t really care what child elements it has
+
+> place-items: center is a shorthand for align-items: center and justify-items: center?
+
+> You can also instruct your child element to center itself in a grid parent.
+
+>  We can’t use justify-items in a flex layout because it’s a grid property.
+
+[web-dev layout](https://web.dev/learn/css/layout)
+
+[How Exactly Is The Containing Block Determined](https://stackoverflow.com/questions/69988861/how-exactly-is-the-containing-block-determined). [ref](https://drafts.csswg.org/css-sizing-3/#cyclic-percentage-contribution).
+
+> Sometimes the size of a percentage-sized box’s containing block depends on the intrinsic size contribution of the box itself, creating a cyclic dependency. When calculating the intrinsic size contribution of such a box (including any calculations for a content-based automatic minimum size), a percentage value that resolves against a size in the same axis as the intrinsic size contribution (a cyclic percentage size) is resolved specially
+
 

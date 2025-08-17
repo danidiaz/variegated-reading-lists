@@ -433,4 +433,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [the testing pyramid is outdated (wiremock)](https://www.wiremock.io/post/rethinking-the-testing-pyramid)
 
+[better vocabulary for testing](https://alperenkeles.com/posts/vocab-for-testing/)
+
 

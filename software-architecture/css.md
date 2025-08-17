@@ -813,4 +813,8 @@ https://twitter.com/tailwindcss
 
 [Use these instead of vh](https://www.youtube.com/watch?v=ru3U8MHbFFI)
 
+[5 CSS tips every developer should know](https://www.youtube.com/watch?v=bssZTv3BgkE).
+
+[Form Styling Essentials | The basics to modern CSS tips & tricks](https://www.youtube.com/watch?v=nuDpLN2dazU)
+
 

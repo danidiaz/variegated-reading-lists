@@ -576,4 +576,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 > Some of the up-voted answers already here are stating that the Same Origin Policy prevents cross-site requests, and therefore prevents CSRF. This is not the case. All the SOP does is prevent the response from being read by another domain (aka origin). This is irrelevant to whether a "classic" CSRF attack is successful or not.
 
+[TRACE request method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/TRACE)
+
 

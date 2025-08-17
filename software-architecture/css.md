@@ -817,4 +817,8 @@ https://twitter.com/tailwindcss
 
 [Form Styling Essentials | The basics to modern CSS tips & tricks](https://www.youtube.com/watch?v=nuDpLN2dazU)
 
+[Breakpoint-Free CSS Grid Layouts](https://www.youtube.com/watch?v=bj0Z_GncIwY)
+
+[CSS Debugging Tips](https://www.youtube.com/watch?v=2ThuIqMMJJc)
+
 

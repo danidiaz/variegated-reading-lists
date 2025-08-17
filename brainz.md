@@ -1134,4 +1134,6 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [vibe coding and abstraction](https://bsky.app/profile/fullmoon.id/post/3lwhgr4zwcc2g). [building software](https://www.reddit.com/r/programming/s/vi3Wrn6KI5).
 
+[rlhf](https://news.ycombinator.com/item?id=44929424)
+
 

@@ -793,4 +793,22 @@ https://twitter.com/tailwindcss
 
 > Sometimes the size of a percentage-sized box’s containing block depends on the intrinsic size contribution of the box itself, creating a cyclic dependency. When calculating the intrinsic size contribution of such a box (including any calculations for a content-based automatic minimum size), a percentage value that resolves against a size in the same axis as the intrinsic size contribution (a cyclic percentage size) is resolved specially
 
+[Layout and the containing block](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_display/Containing_block)
+
+> Most often, the containing block is the content area of an element's nearest block-level ancestor, but this is not always the case.
+
+[Intrinsic size](https://developer.mozilla.org/en-US/docs/Glossary/Intrinsic_Size).  
+
+[initial value](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascade/Value_processing#initial_value). [computed value](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascade/Value_processing#computed_value). [used value](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascade/Value_processing#used_value). [actual value](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascade/Value_processing#actual_value).
+
+> A property's initial value is the default value as listed in its definition table in the specification. 
+
+> The computed value of a property is the value transferred from parent to child during inheritance. It is the result after resolving things like relative units and custom properties into absolute values, but before considering layout-specific information.
+
+> The used value is the property's value after all calculations have been performed on the computed value and it has been refined with layout-specific details (e.g., percentages resolved to actual pixel values).
+
+[Master CSS Overflow/Text Wrapping Like A Senior Developer](https://www.youtube.com/watch?v=6m3ZmlgfZlA)
+
+[4 ways to deal with overflowing text](https://www.youtube.com/watch?v=6Nv0weHy7t0)
+
 

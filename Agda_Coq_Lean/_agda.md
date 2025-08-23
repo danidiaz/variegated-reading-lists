@@ -328,4 +328,6 @@ Identity, Parametrically](https://jesper.sikanda.be/files/leibniz-equality.pdf)
 
 [Agda Core: The Dream and the Reality](https://jesper.cx/posts/agda-core.html)
 
+[Decidable equality for indexed data types, take 2](https://byorgey.github.io/blog/posts/2025/08/22/OneLevelTypesIndexed2.lagda.html)
+
 

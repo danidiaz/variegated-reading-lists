@@ -1136,4 +1136,10 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [rlhf](https://news.ycombinator.com/item?id=44929424)
 
+[One of the quickest ways to start playing with a good local LLM on macOS](https://bsky.app/profile/simonwillison.net/post/3lwrokngwtk2x).
+
+[My tips for using LLM agents to create software](https://news.ycombinator.com/item?id=44991884)
+
+[ChatGPT release notes: Project-only memory](https://simonwillison.net/2025/Aug/22/project-memory/)
+
 

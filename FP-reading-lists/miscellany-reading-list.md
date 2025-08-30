@@ -1058,4 +1058,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [unsafePartsOf](https://chrispenner.ca/posts/traversals-for-batching)
 
+[against Hyrum's law](https://news.ycombinator.com/item?id=39404991)
+
 

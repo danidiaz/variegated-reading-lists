@@ -1142,4 +1142,12 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [ChatGPT release notes: Project-only memory](https://simonwillison.net/2025/Aug/22/project-memory/)
 
+[“empathize” with the machine](https://bsky.app/profile/irhottakes.bsky.social/post/3lx5rpekn522l)
+
+[attention](https://hachyderm.io/@dpiponi@mathstodon.xyz/114577100000878486). [paper](https://arxiv.org/abs/2408.09624).
+
+[LLM Evaluators Recognize and Favor Their Own Generations](https://arxiv.org/abs/2404.13076)
+
+[The personhood trap](https://arstechnica.com/information-technology/2025/08/the-personhood-trap-how-ai-fakes-human-personality/). [AI Consciousness: A Centrist Manifesto](https://philpapers.org/rec/BIRACA-4).
+
 

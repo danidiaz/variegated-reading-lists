@@ -141,5 +141,7 @@
 
 [breakpoints directly on DOM elements](https://www.youtube.com/shorts/NqCFDLr5sJE)
 
+[Just fucking use HTML](https://justfuckingusehtml.com/)
+
 
 

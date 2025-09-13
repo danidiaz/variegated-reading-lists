@@ -1106,7 +1106,7 @@ deals with its own properties.
 
 [optics and proarrows](https://hachyderm.io/@sjoerd_visscher@types.pl/114881107762746711)
 
-[In applied category theory symmetric monoidal categories are *the* unifying concept](https://hachyderm.io/@julesh@mathstodon.xyz/115021148755507430). [Evaluating Linear Functions to Symmetric Monoidal Categories](https://arxiv.org/abs/2103.06195). [linear-smc](https://hackage.haskell.org/package/linear-smc).
+[In applied category theory symmetric monoidal categories are *the* unifying concept](https://hachyderm.io/@julesh@mathstodon.xyz/115021148755507430). [Evaluating Linear Functions to Symmetric Monoidal Categories](https://arxiv.org/abs/2103.06195). [linear-smc](https://hackage.haskell.org/package/linear-smc). [Example of a non-closed cocomplete symmetric monoidal category](https://mathoverflow.net/questions/118099/example-of-a-non-closed-cocomplete-symmetric-monoidal-category). [Shulman’s Practical Type Theory for Symmetric Monoidal Categories](https://golem.ph.utexas.edu/category/2021/09/shulmans_practical_type_theory.html)
 
 > In applied category theory symmetric monoidal categories are *the* unifying concept, virtually all kinds of open systems/networks/processes/etc collect into morphisms of symmetric monoidal categories
 

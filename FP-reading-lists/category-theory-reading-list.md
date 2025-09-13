@@ -1106,4 +1106,10 @@ deals with its own properties.
 
 [optics and proarrows](https://hachyderm.io/@sjoerd_visscher@types.pl/114881107762746711)
 
+[In applied category theory symmetric monoidal categories are *the* unifying concept](https://hachyderm.io/@julesh@mathstodon.xyz/115021148755507430). [Evaluating Linear Functions to Symmetric Monoidal Categories](https://arxiv.org/abs/2103.06195). [linear-smc](https://hackage.haskell.org/package/linear-smc).
+
+> In applied category theory symmetric monoidal categories are *the* unifying concept, virtually all kinds of open systems/networks/processes/etc collect into morphisms of symmetric monoidal categories
+
+> I have a low level explanation too. Operads describe patterns of compositionality, but operads are technically very difficult to work with (here I'm technically talking about 2-operads and their pseudo-algebras). In a wild coincidence, lots of useful operads turn out to be representable by structured monoidal categories, which are much more tractable to work with. An important example is hypergraph categories (symmetric monoidal categories in which every object is a special commutative frobenius algebra), which are equivalent to algebras of an operad that describes a very common sort of many-to-many composition
+
 

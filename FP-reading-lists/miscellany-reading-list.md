@@ -1060,4 +1060,10 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [against Hyrum's law](https://news.ycombinator.com/item?id=39404991)
 
+[The Parallelism Mesh Zoo](https://blog.ezyang.com/2025/08/the-parallelism-mesh-zoo/)
+
+[distributors](https://github.com/morphismtech/distributors/blob/main/blog.md). [reddit](https://www.reddit.com/r/haskell/comments/1n7kpq4/new_blog_post_distributors/).
+
+
+
 

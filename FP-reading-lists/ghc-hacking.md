@@ -534,5 +534,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Save memory and CPU with an interning cache](https://www.reddit.com/r/haskell/comments/1mou96j/save_memory_and_cpu_with_an_interning_cache/)
 
+[Embedding Microhs](https://www.reddit.com/r/haskell/comments/1n5kawz/new_blog_post_embedding_microhs/)
+
 
 

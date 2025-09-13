@@ -1150,4 +1150,10 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [The personhood trap](https://arstechnica.com/information-technology/2025/08/the-personhood-trap-how-ai-fakes-human-personality/). [AI Consciousness: A Centrist Manifesto](https://philpapers.org/rec/BIRACA-4).
 
+[I really don’t like ChatGPT’s new memory dossier](https://simonwillison.net/2025/May/21/chatgpt-new-memory/)
+
+[The maths you need to start understanding LLMs](https://news.ycombinator.com/item?id=45110311). [ Build a Large Language Model (from Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch). [k video](https://www.youtube.com/watch?v=7xTGNNLPyMI) 
+
+[origin of hallucinations](https://bsky.app/profile/timkellogg.me/post/3ly6lnlkyik2r)
+
 

@@ -1106,10 +1106,12 @@ deals with its own properties.
 
 [optics and proarrows](https://hachyderm.io/@sjoerd_visscher@types.pl/114881107762746711)
 
-[In applied category theory symmetric monoidal categories are *the* unifying concept](https://hachyderm.io/@julesh@mathstodon.xyz/115021148755507430). [Evaluating Linear Functions to Symmetric Monoidal Categories](https://arxiv.org/abs/2103.06195). [linear-smc](https://hackage.haskell.org/package/linear-smc). [Example of a non-closed cocomplete symmetric monoidal category](https://mathoverflow.net/questions/118099/example-of-a-non-closed-cocomplete-symmetric-monoidal-category). [Shulman’s Practical Type Theory for Symmetric Monoidal Categories](https://golem.ph.utexas.edu/category/2021/09/shulmans_practical_type_theory.html)
+[In applied category theory symmetric monoidal categories are *the* unifying concept](https://hachyderm.io/@julesh@mathstodon.xyz/115021148755507430). [Evaluating Linear Functions to Symmetric Monoidal Categories](https://arxiv.org/abs/2103.06195). [linear-smc](https://hackage.haskell.org/package/linear-smc). [Example of a non-closed cocomplete symmetric monoidal category](https://mathoverflow.net/questions/118099/example-of-a-non-closed-cocomplete-symmetric-monoidal-category). [Shulman’s Practical Type Theory for Symmetric Monoidal Categories](https://golem.ph.utexas.edu/category/2021/09/shulmans_practical_type_theory.html). [Braided monoidal category](https://en.wikipedia.org/wiki/Braided_monoidal_category). [Braid group](https://en.wikipedia.org/wiki/Braid_group)
 
 > In applied category theory symmetric monoidal categories are *the* unifying concept, virtually all kinds of open systems/networks/processes/etc collect into morphisms of symmetric monoidal categories
 
 > I have a low level explanation too. Operads describe patterns of compositionality, but operads are technically very difficult to work with (here I'm technically talking about 2-operads and their pseudo-algebras). In a wild coincidence, lots of useful operads turn out to be representable by structured monoidal categories, which are much more tractable to work with. An important example is hypergraph categories (symmetric monoidal categories in which every object is a special commutative frobenius algebra), which are equivalent to algebras of an operad that describes a very common sort of many-to-many composition
+
+> In this case the action of ...-fold tensor product factors through the symmetric group.
 
 

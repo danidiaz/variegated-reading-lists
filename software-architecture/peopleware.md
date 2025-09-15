@@ -356,4 +356,6 @@
 
 [contacts](https://bsky.app/profile/mekka.mekka-tech.com/post/3lw32utrpek2l)
 
+[Gall’s Law](https://nordicapis.com/what-is-galls-law-and-how-could-it-direct-api-design/)
+
 

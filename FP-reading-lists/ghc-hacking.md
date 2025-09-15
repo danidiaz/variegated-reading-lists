@@ -536,5 +536,10 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Embedding Microhs](https://www.reddit.com/r/haskell/comments/1n5kawz/new_blog_post_embedding_microhs/)
 
+[typed template haskell ~ staged programming](https://discourse.haskell.org/t/microhs-and-hackage/12916/42?u=danidiaz)
+
+> Staged Programming: Ability to separate a program into different stages, where prior stages generate later stages.
+
+> “Template Haskell” metaprogramming: The ability to perform intensional syntax analysis and construction.
 
 

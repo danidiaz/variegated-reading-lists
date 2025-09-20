@@ -467,3 +467,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [how clash signal type works](https://www.reddit.com/r/haskell/comments/1ijqfsu/tricking_haskell_into_state_how_clashs_signal/)
 
+[disadvantage of row polymorphism](https://bsky.app/profile/welltypedwit.ch/post/3lyh5276ams2s)
+
+

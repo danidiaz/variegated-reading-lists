@@ -1156,4 +1156,6 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [origin of hallucinations](https://bsky.app/profile/timkellogg.me/post/3ly6lnlkyik2r)
 
+[ai agents and code review](https://news.ycombinator.com/item?id=45310529)
+
 

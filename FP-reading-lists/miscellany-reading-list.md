@@ -1064,6 +1064,10 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [distributors](https://github.com/morphismtech/distributors/blob/main/blog.md). [reddit](https://www.reddit.com/r/haskell/comments/1n7kpq4/new_blog_post_distributors/).
 
+[download responsibly](https://news.ycombinator.com/item?id=45329414)
+
+[open telemetry for claude](https://news.ycombinator.com/item?id=45325410)
+
 
 
 

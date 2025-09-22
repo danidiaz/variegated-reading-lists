@@ -400,4 +400,6 @@ is not a problem)
 
 [Intensional Analysis of Typed Template Haskell Quotations (mentions PHOAS)](https://www.youtube.com/watch?v=RbBoLq8AmAA)
 
+[Refinement-Types Driven Development: A study](https://arxiv.org/abs/2509.15005v1)
+
 

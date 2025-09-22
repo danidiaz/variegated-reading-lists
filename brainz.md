@@ -1158,4 +1158,8 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [ai agents and code review](https://news.ycombinator.com/item?id=45310529)
 
+[hot to write with Claude Code](https://x.com/GergelyOrosz/status/1969082762523979796)
+
+[Claude Can (Sometimes) Prove It](https://news.ycombinator.com/item?id=45275058)
+
 

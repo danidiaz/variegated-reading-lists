@@ -1149,6 +1149,8 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [React Anti-Pattern: Stop Passing Setters Down the Components Tree](https://matanbobi.dev/posts/stop-passing-setter-functions-to-components). [antipattern](https://www.perssondennis.com/articles/react-anti-patterns-and-best-practices-dos-and-donts). [more](https://medium.com/@samwyndhamii/react-hooks-an-antipattern-in-the-wild-c1409f463012).
 
+[state in the url in react the right way](https://www.reddit.com/r/reactjs/comments/1nmnsr2/state_in_the_url_in_react_the_right_way/)
+
 
 
 

@@ -57,4 +57,6 @@
 
 [The plight of the misunderstood memory ordering](https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/)
 
+[Pointer Tagging in C++: The Art of Packing Bits into a Pointer](https://news.ycombinator.com/item?id=45328335)
+
 

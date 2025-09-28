@@ -1068,6 +1068,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [open telemetry for claude](https://news.ycombinator.com/item?id=45325410)
 
+[functional representations of graphs](https://discourse.haskell.org/t/functional-representations-of-graphs/13016/5). [POPL Paper—Formalising Graph Algorithms with Coinduction](https://discourse.haskell.org/t/functional-representations-of-graphs/13016/5).
+
 
 
 

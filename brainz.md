@@ -1162,4 +1162,8 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [Claude Can (Sometimes) Prove It](https://news.ycombinator.com/item?id=45275058)
 
+[claude code debugging a desktop issue](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3lzttqgkr5s2h)
+
+[when to use agents](https://bsky.app/profile/darryl-ruggles.cloud/post/3lzw37dnpn222)
+
 

@@ -821,4 +821,6 @@ https://twitter.com/tailwindcss
 
 [CSS Debugging Tips](https://www.youtube.com/watch?v=2ThuIqMMJJc)
 
+[nested view transition groups](https://developer.chrome.com/docs/css-ui/view-transitions/nested-view-transition-groups)
+
 

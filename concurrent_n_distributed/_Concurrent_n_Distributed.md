@@ -823,5 +823,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [What even is distributed systems](https://notes.eatonphil.com/2025-08-09-what-even-is-distributed-systems.html)
 
+[using dbs for queues yay or nay](https://x.com/MarcJBrooker/status/1970280783500976168)
+
 
 

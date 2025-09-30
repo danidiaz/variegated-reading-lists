@@ -841,4 +841,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [Using Git Hooks When Creating Worktrees](https://mskelton.dev/bytes/20230906143340).
 
+[stupid jj tricks](https://lobste.rs/s/dkjswm/stupid_jj_tricks)
+
 

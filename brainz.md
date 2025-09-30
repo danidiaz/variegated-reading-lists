@@ -1166,4 +1166,6 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [when to use agents](https://bsky.app/profile/darryl-ruggles.cloud/post/3lzw37dnpn222)
 
+[AI is writing 90% of the code](https://lobste.rs/s/ayncvk/ai_is_writing_90_code)
+
 

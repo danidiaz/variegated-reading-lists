@@ -41,6 +41,6 @@
 
 [Data History Table vs Using a Current Record Flag](https://dba.stackexchange.com/questions/61815/data-history-table-vs-using-a-current-record-flag)
 
-
+[A SQL Heuristic: ORs Are Expensive](https://news.ycombinator.com/item?id=45413525)
 
 

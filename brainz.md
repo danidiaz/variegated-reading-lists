@@ -1190,6 +1190,8 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [The Impossibility of Inverse Permutation Learning in Transformer Models](https://arxiv.org/abs/2509.24125). [post](https://bsky.app/profile/tedunderwood.me/post/3m22kaotxak2c). [Let's Think Dot by Dot: Hidden Computation in Transformer Language Models](https://arxiv.org/abs/2404.15758).
 
+> The fact that intermediate tokens can act as filler tokens raises concerns about large language models engaging in unauditable, hidden computations that are increasingly detached from the observed chain-of-thought tokens
+
 
 
 

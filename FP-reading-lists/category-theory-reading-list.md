@@ -1114,4 +1114,6 @@ deals with its own properties.
 
 > In this case the action of ...-fold tensor product factors through the symmetric group.
 
+[a simple category theoretical understanding of category theory diagrams](https://news.ycombinator.com/item?id=45437742)
+
 

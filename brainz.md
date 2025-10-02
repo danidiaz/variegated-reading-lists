@@ -1168,4 +1168,31 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [AI is writing 90% of the code](https://lobste.rs/s/ayncvk/ai_is_writing_90_code)
 
+[Are Sixteen Heads Really Better than One?](https://arxiv.org/abs/1905.10650). [blog](https://blog.ml.cmu.edu/2020/03/20/are-sixteen-heads-really-better-than-one/).
+
+[Claude Sonnet 4.5](https://news.ycombinator.com/item?id=45415962). [Claude Code 2.0](https://news.ycombinator.com/item?id=45416228).
+
+[Sora 2](https://news.ycombinator.com/item?id=45427982)
+
+[Claude and the paradox of fiction](https://bsky.app/profile/diazcarrete.bsky.social/post/3m25jirufgs24)
+
+[ollama-haskell-0.2.1.0 released](https://discourse.haskell.org/t/ann-ollama-haskell-0-2-1-0-released/13024)
+
+[Unix philosophy and filesystem access makes Claude Code amazing](https://news.ycombinator.com/item?id=45437893)
+
+> My mind was blown when claude randomly called adb/logcat on my device connected via usb & running my android app, ingesting the real time log streams to debug the application in real time. Mind boggling moment for me. All because it can call "simple" tools/cli application and use their outputs. This has motivated me to adjust some of my own cli applications & tools to have better input, outputs and documentation
+
+[designing agentic loops](https://news.ycombinator.com/item?id=45426680)
+
+[ChatGPT pulse](https://news.ycombinator.com/item?id=45375477)
+
+[personal anecdote](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3m25aduonp22y). [claude Sonnet 4.5 love](https://bsky.app/profile/jay.bsky.team/post/3m242kk2j7k2t). [more](https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/). [experience with frontend](https://bsky.app/profile/matuzo.at/post/3m24f33pae222). [more](https://bsky.app/profile/peark.es/post/3m27r564xsc2z).
+
+[The Impossibility of Inverse Permutation Learning in Transformer Models](https://arxiv.org/abs/2509.24125). [post](https://bsky.app/profile/tedunderwood.me/post/3m22kaotxak2c). [Let's Think Dot by Dot: Hidden Computation in Transformer Language Models](https://arxiv.org/abs/2404.15758).
+
+
+
+
+
+
 

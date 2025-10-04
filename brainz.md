@@ -1192,6 +1192,8 @@ It seems that using git worktree with Claude Code is A Thing.
 
 > The fact that intermediate tokens can act as filler tokens raises concerns about large language models engaging in unauditable, hidden computations that are increasingly detached from the observed chain-of-thought tokens
 
+[retrospective on aiayn](https://www.reddit.com/r/LocalLLaMA/s/kIBLCvYX5a)
+
 
 
 

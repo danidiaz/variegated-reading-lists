@@ -1194,8 +1194,17 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [retrospective on aiayn](https://www.reddit.com/r/LocalLLaMA/s/kIBLCvYX5a)
 
+[Mastering Claude's Token Limits: A Beginner's Guide](https://www.arsturn.com/blog/mastering-claudes-token-limits-a-beginners-guide)
 
+> Every single time you hit send, the model re-reads the whole chat.
 
+> The Golden Rule: One Task, One Chat [...] Never reuse a long chat for a new, unrelated task. 
+
+[Gemini 2.5 Computer Use model](https://news.ycombinator.com/item?id=45507936)
+
+[Sonet 4.5 is aware of its own context window](https://www.reddit.com/r/ClaudeAI/s/tUkzVDXu02)
+
+[Effective context engineering for AI agents](https://news.ycombinator.com/item?id=45418251). [Embracing the parallel coding agent lifestyle](https://news.ycombinator.com/item?id=45481585).
 
 
 

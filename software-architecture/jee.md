@@ -497,4 +497,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Converting Future to CompletableFuture With Java Virtual Threads](https://www.morling.dev/blog/future-to-completablefuture-with-java-virtual-threads/)
 
+[Transactions and ThreadLocal in Spring Framework](https://www.reddit.com/r/java/s/ej29urP7WB).
+
 

@@ -939,5 +939,33 @@ Bernini, his life and his Rome
 
 [ai: turn any book into a text adventure](https://news.ycombinator.com/item?id=44725202)
 
+[dunkeon key](https://bsky.app/profile/diazcarrete.bsky.social/post/3m2ey5xigy22j). [post](https://thealexandrian.net/wordpress/35180/roleplaying-games/the-art-of-the-key).
+
+[Packing the world for longest lines of sight](https://news.ycombinator.com/item?id=45485227)
+
+[Don't Parse, Call](https://timkellogg.me/blog/2025/10/03/functions)
+
+[Reasoning LLMs are wandering solution explorers](https://news.ycombinator.com/item?id=45535425)
+
+>  There's lots of research that shows that LLMs can perform better when the CoT is nonsensical, compared to when it contains correct steps for the final answer.
+
+> There is no need to fall back to anthropomorphisation either to explain why long CoTs lead to better answers -- LLMs are a fixed amount of compute. Complexity theory says that for harder problems we need more correlated compute. Only way for an LLM to compute "more" is to produce more and more tokens. Note that due to previous computations coming as input, it is correlated compute, just what we need.
+
+[Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/). [hn](https://news.ycombinator.com/item?id=45481585). [Two things LLM coding agents are still bad at](https://news.ycombinator.com/item?id=45523537).
+
+[Why do LLMs freak out over the seahorse emoji?](https://news.ycombinator.com/item?id=45487044)
+
+[How does gradient descent work?](https://news.ycombinator.com/item?id=45467708)
+
+[Vibe engineering](https://news.ycombinator.com/item?id=45503867)
+
+[LLMs are mortally terrified of exceptions](https://news.ycombinator.com/item?id=45530486)
+
+[How A Good Data Scientist Looks At Matrix Multiplication](https://towardsdatascience.com/how-a-good-data-scientist-looks-at-matrix-multiplication-33a3128cd1bb/). [Matrix multiplication: interpreting and understanding the process](https://math.stackexchange.com/questions/24456/matrix-multiplication-interpreting-and-understanding-the-process#24469). [Definition of matrix-vector multiplication](https://math.stackexchange.com/questions/1623071/definition-of-matrix-vector-multiplication). [Row space and Column space and product of matrices question](https://math.stackexchange.com/questions/1163651/row-space-and-column-space-and-product-of-matrices-question). [Significance of Matrix-Vector multiplication](https://math.stackexchange.com/questions/30850/significance-of-matrix-vector-multiplication). [Are the columns in AB linear combinations of the columns in A ?](https://math.stackexchange.com/questions/4271937/are-the-columns-in-ab-linear-combinations-of-the-columns-in-a). [Game Math: Alternate Views on Matrix Multiplication](https://allenchou.net/2014/02/game-math-alternate-views-on-matrix-multiplication/). [Row and column spaces](https://en.wikipedia.org/wiki/Row_and_column_spaces).
+
+> It seems to me the first equation "fits" more neatly on the page because we have already committed to making an equation that is four rows tall (because of the 4×4
+ matrix, this is unavoidable), so there is no "cost" in also making the vectors four rows tall
+
+>  It's also possible that the convention is influenced by the interpretation of the matrix as a transformation to be applied to the vector, along with a preference for writing the names of transformations on the left of the thing they transform
 
 

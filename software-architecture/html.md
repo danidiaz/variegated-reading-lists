@@ -143,5 +143,10 @@
 
 [Just fucking use HTML](https://justfuckingusehtml.com/)
 
+[The <output> Tag](https://news.ycombinator.com/item?id=45547566). [hn](https://news.ycombinator.com/item?id=45547566).
+
+
+
+
 
 

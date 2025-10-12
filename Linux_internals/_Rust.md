@@ -206,5 +206,7 @@
 
 [The Generativity Pattern](https://arhan.sh/blog/the-generativity-pattern-in-rust/)
 
+[The Handle trait](https://lobste.rs/s/judd2f/handle_trait)
+
 
 

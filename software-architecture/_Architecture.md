@@ -1707,5 +1707,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [ddd-crew/context-mapping](https://github.com/ddd-crew/context-mapping).
 
+[My approach to building large technical projects](https://news.ycombinator.com/item?id=45535202)
+
+[Kohäsion: Wie erreicht man Functional Cohesion?](https://www.youtube.com/watch?v=ApJeDr49K-Y)
 
 

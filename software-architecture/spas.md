@@ -578,4 +578,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [TRACE request method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/TRACE)
 
+[PSA: Always use a separate domain for user content](https://news.ycombinator.com/item?id=45538760).
+
 

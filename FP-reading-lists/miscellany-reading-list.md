@@ -1070,6 +1070,10 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [functional representations of graphs](https://discourse.haskell.org/t/functional-representations-of-graphs/13016/5). [POPL Paper—Formalising Graph Algorithms with Coinduction](https://discourse.haskell.org/t/functional-representations-of-graphs/13016/5).
 
+[How to check for overlapping intervals](https://lobste.rs/s/cireck/how_check_for_overlapping_intervals)
 
+[Non-Obvious Haskell Idiom: ViewPattern Argument Transform](https://entropicthoughts.com/non-obvious-haskell-idiom-viewpattern-argument-transform)
+
+[The Debugging Book](https://www.debuggingbook.org/).
 
 

@@ -1229,7 +1229,7 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [Gemini 2.5 Computer Use model](https://news.ycombinator.com/item?id=45507936)
 
-[How A Good Data Scientist Looks At Matrix Multiplication](https://towardsdatascience.com/how-a-good-data-scientist-looks-at-matrix-multiplication-33a3128cd1bb/). [Game Math: Alternate Views on Matrix Multiplication](https://allenchou.net/2014/02/game-math-alternate-views-on-matrix-multiplication/). [Are the columns in $AB$ linear combinations of the columns in $A$?](https://math.stackexchange.com/questions/4271937/are-the-columns-in-ab-linear-combinations-of-the-columns-in-a). [Matrix multiplication: interpreting and understanding the process - Mathematics Stack Exchange](https://math.stackexchange.com/questions/24456/matrix-multiplication-interpreting-and-understanding-the-process#24469) <- good one! [Definition of matrix-vector multiplication](https://math.stackexchange.com/questions/1623071/definition-of-matrix-vector-multiplication). [Row space and Column space and product of matrices question](https://math.stackexchange.com/questions/1163651/row-space-and-column-space-and-product-of-matrices-question).
+[How A Good Data Scientist Looks At Matrix Multiplication](https://towardsdatascience.com/how-a-good-data-scientist-looks-at-matrix-multiplication-33a3128cd1bb/). [Game Math: Alternate Views on Matrix Multiplication](https://allenchou.net/2014/02/game-math-alternate-views-on-matrix-multiplication/). [Are the columns in $AB$ linear combinations of the columns in $A$?](https://math.stackexchange.com/questions/4271937/are-the-columns-in-ab-linear-combinations-of-the-columns-in-a). [Matrix multiplication: interpreting and understanding the process - Mathematics Stack Exchange](https://math.stackexchange.com/questions/24456/matrix-multiplication-interpreting-and-understanding-the-process#24469) <- good one! [Definition of matrix-vector multiplication](https://math.stackexchange.com/questions/1623071/definition-of-matrix-vector-multiplication). [Row space and Column space and product of matrices question](https://math.stackexchange.com/questions/1163651/row-space-and-column-space-and-product-of-matrices-question). [Superpowers: How I'm using coding agents in October 2025](https://news.ycombinator.com/item?id=45547344).
 
 > One simple pragmatic difference between these two equations is that the second one is a lot wider when it is fully written out.
 
@@ -1239,17 +1239,22 @@ It seems that using git worktree with Claude Code is A Thing.
 
 > Standard matrix multiplication. Matrix multiplication is defined the way it is because it corresponds to composition of linear transformations. 
 
+> And because product of matrices corresponds to composition of linear transformations, all the nice properties that composition of linear functions has will automatically also be true for product of matrices, because products of matrices is nothing more than a book-keeping device for keeping track of the composition of linear transformations.
 
+[A new breed of analyzers](https://lobste.rs/s/bo0chl/new_breed_analyzers).
 
+[the programmer identity crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
 
+[A History of Large Language Models](https://news.ycombinator.com/item?id=45488892)
 
+[An illustrated introduction to linear algebra](https://news.ycombinator.com/item?id=45490713)
 
+[the importance of question framing](https://bsky.app/profile/tedunderwood.com/post/3m2rlbps4ec2v)
 
+[Context windows - Claude Docs](https://docs.claude.com/en/docs/build-with-claude/context-windows). [Understanding LLM Context Windows: Tokens, Attention, and Challenges](https://medium.com/@tahirbalarabe2/understanding-llm-context-windows-tokens-attention-and-challenges-c98e140f174d).
 
+[a key skill in working effectively with coding agents](https://bsky.app/profile/simonwillison.net/post/3m2w6vqjdqs2x)
 
-
-
-
-
+> developing an intuition for when you don't need to closely review every line of code they produce. This feels deeply uncomfortable!
 
 

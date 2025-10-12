@@ -1214,6 +1214,12 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [Vibe engineering](https://news.ycombinator.com/item?id=45503867). [Embracing the parallel coding agent lifestyle](https://news.ycombinator.com/item?id=45481585).
 
+> I was pretty skeptical about this at first. AI-generated code needs to be reviewed, which means the natural bottleneck on all of this is how fast I can review the results. It’s tough keeping up with just a single LLM given how fast they can churn things out, where’s the benefit from running more than one at a time if it just leaves me further behind?
+
+> If you need a reminder about how a portion of your existing system works, modern “reasoning” LLMs can provide a detailed, actionable answer in just a minute or two.
+
+> It doesn’t matter how large your codebase is: coding agents are extremely effective with tools like grep and can follow codepaths through dozens of different files if they need to.
+
 [LLMs are mortally terrified of exceptions](https://news.ycombinator.com/item?id=45530486)
 
 [Two things LLM coding agents are still bad at](https://news.ycombinator.com/item?id=45523537)

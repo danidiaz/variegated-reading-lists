@@ -1257,4 +1257,6 @@ It seems that using git worktree with Claude Code is A Thing.
 
 > developing an intuition for when you don't need to closely review every line of code they produce. This feels deeply uncomfortable!
 
+[AB Matrix Multiplication as Linear Combination of Rows of B](https://www.youtube.com/watch?v=UV-RQTSe2Vw). [AB Matrix Multiplication as a Linear Combination of Columns of A](https://www.youtube.com/watch?v=IwW79VactDU). [Matrix multiplication as composition](https://www.youtube.com/watch?v=XkY2DOUCWMU).
+
 

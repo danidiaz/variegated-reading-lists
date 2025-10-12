@@ -1206,6 +1206,50 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [Effective context engineering for AI agents](https://news.ycombinator.com/item?id=45418251). [Embracing the parallel coding agent lifestyle](https://news.ycombinator.com/item?id=45481585).
 
+[grouped-query attention vs multi-head attention](https://bsky.app/profile/sebastianraschka.com/post/3m2wd454k7c25)
+
+[Reasoning LLMs are wandering solution explorers](https://news.ycombinator.com/item?id=45535425)
+
+> LLMs are a fixed amount of compute. Complexity theory says that for harder problems we need more correlated compute. Only way for an LLM to compute "more" is to produce more and more tokens. Note that due to previous computations coming as input, it is correlated compute, just what we need.
+
+[Vibe engineering](https://news.ycombinator.com/item?id=45503867). [Embracing the parallel coding agent lifestyle](https://news.ycombinator.com/item?id=45481585).
+
+[LLMs are mortally terrified of exceptions](https://news.ycombinator.com/item?id=45530486)
+
+[Two things LLM coding agents are still bad at](https://news.ycombinator.com/item?id=45523537)
+
+[Mastering Claude's Token Limits](https://www.arsturn.com/blog/mastering-claudes-token-limits-a-beginners-guide)
+
+[Don't parse, call](https://timkellogg.me/blog/2025/10/03/functions)
+
+> Why Use Functions?
+> Because models are trained for them. A lot. A ridiculously huge amount.
+
+[How does gradient descent work?](https://news.ycombinator.com/item?id=45467708)
+
+[Gemini 2.5 Computer Use model](https://news.ycombinator.com/item?id=45507936)
+
+[How A Good Data Scientist Looks At Matrix Multiplication](https://towardsdatascience.com/how-a-good-data-scientist-looks-at-matrix-multiplication-33a3128cd1bb/). [Game Math: Alternate Views on Matrix Multiplication](https://allenchou.net/2014/02/game-math-alternate-views-on-matrix-multiplication/). [Are the columns in $AB$ linear combinations of the columns in $A$?](https://math.stackexchange.com/questions/4271937/are-the-columns-in-ab-linear-combinations-of-the-columns-in-a). [Matrix multiplication: interpreting and understanding the process - Mathematics Stack Exchange](https://math.stackexchange.com/questions/24456/matrix-multiplication-interpreting-and-understanding-the-process#24469) <- good one! [Definition of matrix-vector multiplication](https://math.stackexchange.com/questions/1623071/definition-of-matrix-vector-multiplication). [Row space and Column space and product of matrices question](https://math.stackexchange.com/questions/1163651/row-space-and-column-space-and-product-of-matrices-question).
+
+> One simple pragmatic difference between these two equations is that the second one is a lot wider when it is fully written out.
+
+> It seems to me the first equation "fits" more neatly on the page because we have already committed to making an equation that is four rows tall (because of the 4×4 matrix, this is unavoidable), so there is no "cost" in also making the vectors four rows tall; 
+
+> It's also possible that the convention is influenced by the interpretation of the matrix as a transformation to be applied to the vector, along with a preference for writing the names of transformations on the left of the thing they transform 
+
+> Standard matrix multiplication. Matrix multiplication is defined the way it is because it corresponds to composition of linear transformations. 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

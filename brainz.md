@@ -1235,7 +1235,7 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [Gemini 2.5 Computer Use model](https://news.ycombinator.com/item?id=45507936)
 
-[How A Good Data Scientist Looks At Matrix Multiplication](https://towardsdatascience.com/how-a-good-data-scientist-looks-at-matrix-multiplication-33a3128cd1bb/). [Game Math: Alternate Views on Matrix Multiplication](https://allenchou.net/2014/02/game-math-alternate-views-on-matrix-multiplication/). [Are the columns in $AB$ linear combinations of the columns in $A$?](https://math.stackexchange.com/questions/4271937/are-the-columns-in-ab-linear-combinations-of-the-columns-in-a). [Matrix multiplication: interpreting and understanding the process - Mathematics Stack Exchange](https://math.stackexchange.com/questions/24456/matrix-multiplication-interpreting-and-understanding-the-process#24469) <- good one! [Definition of matrix-vector multiplication](https://math.stackexchange.com/questions/1623071/definition-of-matrix-vector-multiplication). [Row space and Column space and product of matrices question](https://math.stackexchange.com/questions/1163651/row-space-and-column-space-and-product-of-matrices-question). [Superpowers: How I'm using coding agents in October 2025](https://news.ycombinator.com/item?id=45547344).
+[How A Good Data Scientist Looks At Matrix Multiplication](https://towardsdatascience.com/how-a-good-data-scientist-looks-at-matrix-multiplication-33a3128cd1bb/). [Game Math: Alternate Views on Matrix Multiplication](https://allenchou.net/2014/02/game-math-alternate-views-on-matrix-multiplication/). [Are the columns in $AB$ linear combinations of the columns in $A$?](https://math.stackexchange.com/questions/4271937/are-the-columns-in-ab-linear-combinations-of-the-columns-in-a). [Matrix multiplication: interpreting and understanding the process - Mathematics Stack Exchange](https://math.stackexchange.com/questions/24456/matrix-multiplication-interpreting-and-understanding-the-process#24469) <- good one! [Definition of matrix-vector multiplication](https://math.stackexchange.com/questions/1623071/definition-of-matrix-vector-multiplication). [Row space and Column space and product of matrices question](https://math.stackexchange.com/questions/1163651/row-space-and-column-space-and-product-of-matrices-question). [Superpowers: How I'm using coding agents in October 2025](https://news.ycombinator.com/item?id=45547344). [neat intro](https://www.youtube.com/watch?v=1_2WXH4ar5Q).
 
 > One simple pragmatic difference between these two equations is that the second one is a lot wider when it is fully written out.
 
@@ -1264,5 +1264,9 @@ It seems that using git worktree with Claude Code is A Thing.
 > developing an intuition for when you don't need to closely review every line of code they produce. This feels deeply uncomfortable!
 
 [AB Matrix Multiplication as Linear Combination of Rows of B](https://www.youtube.com/watch?v=UV-RQTSe2Vw). [AB Matrix Multiplication as a Linear Combination of Columns of A](https://www.youtube.com/watch?v=IwW79VactDU). [Matrix multiplication as composition](https://www.youtube.com/watch?v=XkY2DOUCWMU).
+
+[chatfishers](https://bsky.app/profile/youngvulgarian.marieleconte.com/post/3m2ydsiiw4s2r)
+
+[an explanation for lay people](https://bsky.app/profile/theophite.bsky.social/post/3m33uaajwmk2t)
 
 

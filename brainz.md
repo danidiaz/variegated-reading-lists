@@ -1267,6 +1267,7 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [chatfishers](https://bsky.app/profile/youngvulgarian.marieleconte.com/post/3m2ydsiiw4s2r)
 
-[an explanation for lay people](https://bsky.app/profile/theophite.bsky.social/post/3m33uaajwmk2t)
+[an explanation for lay people](https://bsky.app/profile/theophite.bsky.social/post/3m33uaajwmk2t). [what attention layers do](https://bsky.app/profile/eleanor.lockhart.contact/post/3m33tz7fvd22q)
+
 
 

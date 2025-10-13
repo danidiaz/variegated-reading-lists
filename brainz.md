@@ -1269,5 +1269,13 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [an explanation for lay people](https://bsky.app/profile/theophite.bsky.social/post/3m33uaajwmk2t). [what attention layers do](https://bsky.app/profile/eleanor.lockhart.contact/post/3m33tz7fvd22q)
 
+> all attention does is to calculate the relation between points in your discrete calculation and then concatenate it back onto the vector which is holding the computation which is in process.
+
+> we then pass that vector through some layers which look very much like every other neural network. these layers are harder to explain than the attention mechanism, because we didn't really design what goes on in them. 
+
+> we repeat this process over and over until we get close to the output layer of the model. you can think of the output layer as being a keyboard where every key is a token. (every "token" is more or less a word.) we assign a probability to every key between 0 and 1. then we roll a die and press one.
+
+> so. as you add dimensions, spaces do not just change quantitatively; they change qualitatively. one of the ways in which they change is in how difficult it is for two lines to be perpendicular to each other. in one dimension, there is only one line. "perpendicular" is a category error.
+
 
 

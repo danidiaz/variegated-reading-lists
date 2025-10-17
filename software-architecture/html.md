@@ -147,6 +147,8 @@
 
 [<selectedcontent>](https://www.youtube.com/watch?v=tNBufpGQihY)
 
+[A modern approach to preventing CSRF in Go](https://news.ycombinator.com/item?id=45581288)
+
 
 
 

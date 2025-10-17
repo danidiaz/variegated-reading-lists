@@ -542,4 +542,5 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 > “Template Haskell” metaprogramming: The ability to perform intensional syntax analysis and construction.
 
+[Better Haskell stack traces via user annotations](https://www.well-typed.com/blog/2025/09/better-haskell-stack-traces/)
 

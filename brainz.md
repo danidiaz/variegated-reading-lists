@@ -1277,5 +1277,16 @@ It seems that using git worktree with Claude Code is A Thing.
 
 > so. as you add dimensions, spaces do not just change quantitatively; they change qualitatively. one of the ways in which they change is in how difficult it is for two lines to be perpendicular to each other. in one dimension, there is only one line. "perpendicular" is a category error.
 
+[next token predictors](https://bsky.app/profile/gracekind.net/post/3m3br3nrfss23). [inefficient?](https://bsky.app/profile/jgrahn.bsky.social/post/3m3c5erf55s2l)
+
+[llm course—Deep dive into Text Generation Inference with LLMs](https://huggingface.co/learn/llm-course/chapter1/8)
+
+> When processing token N, attention doesn’t just receive information from tokens (1…N), it also receives information from intermediate representations of (1…N) at prior layers. With autoregression, this allows a model to “set up” useful representations for future generations
+
+[Artisanal shims for the bitter lesson age](https://blog.nilenso.com/blog/2025/10/14/bitter-lesson-applied-ai/).
+
+> The engineer that has digested the bitter lesson will instead set up an environment that can provide feedback loops to the agent. This setup is simpler and better accommodates frontier reasoning models that are scaled with reinforcement learning by getting out of their way.
+
+[separation of concerns?](https://codemanship.wordpress.com/2025/10/17/the-ai-ready-software-developer-1-separation-of-concerns/)
 
 

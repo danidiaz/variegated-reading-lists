@@ -1291,4 +1291,6 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [Building an Agent That Leverages Throwaway Code](https://lucumr.pocoo.org/2025/10/17/code/).
 
+[clarifying with examples](https://bsky.app/profile/jasongorman.bsky.social/post/3m3hfa6wi3c2a)
+
 

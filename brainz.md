@@ -1289,4 +1289,6 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [separation of concerns?](https://codemanship.wordpress.com/2025/10/17/the-ai-ready-software-developer-1-separation-of-concerns/)
 
+[Building an Agent That Leverages Throwaway Code](https://lucumr.pocoo.org/2025/10/17/code/).
+
 

@@ -404,3 +404,18 @@ is not a problem)
 
 [Rebound: Efficient, Expressive, and Well-Scoped Binding](https://hachyderm.io/@DiazCarrete/115393999657648704). [reddit](https://www.reddit.com/r/haskell/comments/1o7p2z5/rebound_efficient_expressive_and_wellscoped/).
 
+[A Case for First-Class Environments](https://dl.acm.org/doi/10.1145/3689800)
+
+> Formalizations of programming languages typically adopt the substitution model from the lambda calculus. However, substitution creates notorious complications for reasoning and implementation. Furthermore, it is disconnected from practical implementations, which normally adopt environments and closures.
+
+[ocaml programming-10.4. Environment Model](https://cs3110.github.io/textbook/chapters/interp/environment.html)
+
+> So far we’ve been using the substitution model to evaluate programs. It’s a great mental model for evaluation, and it’s commonly used in programming languages theory.
+
+> But when it comes to implementation, the substitution model is not the best choice. It’s too eager
+
+> For sake of efficiency, it would be better to substitute lazily: only when the value of a variable is needed should the interpreter have to do the substitution. That’s the key idea behind the environment model. In this model, there is a data structure called the dynamic environment, or just “environment” for short, that is a dictionary mapping variable names to values. Whenever the value of a variable is needed, it’s looked up in that dictionary.
+
+[ocaml. substitution model](https://courses.cs.cornell.edu/cs3110/2021sp/textbook/interp/evaluation.html) vs [environment model](https://courses.cs.cornell.edu/cs3110/2021sp/textbook/interp/env_model.html).
+
+

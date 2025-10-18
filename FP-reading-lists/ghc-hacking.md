@@ -544,3 +544,6 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Better Haskell stack traces via user annotations](https://www.well-typed.com/blog/2025/09/better-haskell-stack-traces/)
 
+[Per-component dependency solving](https://github.com/haskell/cabal/issues/4087)
+
+

@@ -402,4 +402,5 @@ is not a problem)
 
 [Refinement-Types Driven Development: A study](https://arxiv.org/abs/2509.15005v1)
 
+[Rebound: Efficient, Expressive, and Well-Scoped Binding](https://hachyderm.io/@DiazCarrete/115393999657648704). [reddit](https://www.reddit.com/r/haskell/comments/1o7p2z5/rebound_efficient_expressive_and_wellscoped/).
 

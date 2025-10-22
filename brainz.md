@@ -1293,4 +1293,8 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [clarifying with examples](https://bsky.app/profile/jasongorman.bsky.social/post/3m3hfa6wi3c2a)
 
+[We’re summoning ghosts, not building animals](https://www.youtube.com/watch?v=lXUZvyajciY)
+
+[basics of tokens (video)](https://www.youtube.com/watch?v=nKSk_TiR8YA)
+
 

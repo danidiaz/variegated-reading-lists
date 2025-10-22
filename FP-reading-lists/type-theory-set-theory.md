@@ -375,6 +375,8 @@ or computations blocked by unknowns.
 
 [ two level type theory ](https://x.com/welltypedwitch/status/1839830148935291173)
 
+[good starting point](https://hachyderm.io/@jonmsterling@mathstodon.xyz/115378930937571429)
+
 ## Proof assistants
 
 [Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/)

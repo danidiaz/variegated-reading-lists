@@ -1711,4 +1711,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Kohäsion: Wie erreicht man Functional Cohesion?](https://www.youtube.com/watch?v=ApJeDr49K-Y)
 
+[No, Your Domains and Bounded Contexts Don’t Map 1 on 1](https://verraes.net/2025/08/domain-and-bounded-contexts-dont-map-one-on-one/)
+
 

@@ -1297,4 +1297,9 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [basics of tokens (video)](https://www.youtube.com/watch?v=nKSk_TiR8YA)
 
+[understand how context windows work](https://www.youtube.com/watch?v=-uW5-TaVXu4)
+
+[how to draw higher-dimensional tensors](https://x.com/ezyang/status/1982132802674974964)
+
+
 

@@ -546,4 +546,19 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Per-component dependency solving](https://github.com/haskell/cabal/issues/4087)
 
+[GHC optimization and fusion](https://markkarpov.com/tutorial/ghc-optimization-and-fusion)
+
+[Higher Order Patterns for Rewrite Rules](https://pure.tudelft.nl/ws/portalfiles/portal/221833630/3677999.3678275.pdf)
+
+> Since the introduction of fold/build fusion, a new flavor of short-cut
+> fusion, called stream fusion [1], has gained
+> traction in the literature. Stream fusion is based on unfolds rather than
+> folds, which gives it the ability to fuse functions with multiple lists as
+> input, such as zip
+
+> Rewrite rules are written in Haskell proper, but matching
+> happens at a point in the compilation pipeline where the
+> program has been desugared into a small intermediate representation called Core. Rewrite rules are desugared as well
+
+
 

@@ -546,7 +546,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Per-component dependency solving](https://github.com/haskell/cabal/issues/4087)
 
-[GHC optimization and fusion](https://markkarpov.com/tutorial/ghc-optimization-and-fusion)
+[GHC optimization and fusion](https://markkarpov.com/tutorial/ghc-optimization-and-fusion). [test - Disable implicit fusion rules](https://github.com/haskell/text/pull/348).
 
 [Higher Order Patterns for Rewrite Rules](https://pure.tudelft.nl/ws/portalfiles/portal/221833630/3677999.3678275.pdf)
 
@@ -559,6 +559,8 @@ ormolu --mode inplace $(git ls-files '*.hs')
 > Rewrite rules are written in Haskell proper, but matching
 > happens at a point in the compilation pipeline where the
 > program has been desugared into a small intermediate representation called Core. Rewrite rules are desugared as well
+
+[haskell to core](https://serokell.io/blog/haskell-to-core)
 
 
 

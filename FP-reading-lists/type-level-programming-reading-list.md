@@ -469,4 +469,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [disadvantage of row polymorphism](https://bsky.app/profile/welltypedwit.ch/post/3lyh5276ams2s)
 
+[Singletons (Haskell Unfolder #50)](https://www.reddit.com/r/haskell/comments/1ojcgl1/comment/nm7cygq/)
+
 

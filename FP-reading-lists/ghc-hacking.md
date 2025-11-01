@@ -562,5 +562,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [haskell to core](https://serokell.io/blog/haskell-to-core)
 
+[Allow expressions in SPECIALISE pragmas](https://github.com/ghc-proposals/ghc-proposals/blob/master/proposals/0493-specialise-expressions.rst)
+
 
 

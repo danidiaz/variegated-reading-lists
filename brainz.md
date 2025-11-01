@@ -1301,5 +1301,13 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [how to draw higher-dimensional tensors](https://x.com/ezyang/status/1982132802674974964)
 
+[i'm definitely not giving up my claude now](https://bsky.app/profile/danabra.mov/post/3m3tasjyl2s2h)
+
+[Build individually testable chunks](https://bsky.app/profile/sigmana.bsky.social/post/3m4j62t2o6s2d)
+
+[Setting up my YouTube knowledge base in NotebookLM](https://www.xda-developers.com/build-personal-knowledge-base-with-youtube-and-notebooklm/)
+
+[example in math](https://bsky.app/profile/wtgowers.bsky.social/post/3m4j7do2u7k2d)
+
 
 

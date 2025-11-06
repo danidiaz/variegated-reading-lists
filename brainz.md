@@ -1309,5 +1309,12 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [example in math](https://bsky.app/profile/wtgowers.bsky.social/post/3m4j7do2u7k2d)
 
+[Case Study: Debugging a Haskell space leak](https://www.well-typed.com/blog/2025/10/case-study-debugging-space-leak/)
+
+[the lethal trifecta](https://bsky.app/profile/timkellogg.me/post/3m4pzmcjlcc2q). [New prompt injection papers: Agents Rule of Two and The Attacker Moves Second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/).
+
+[tao — Mathematical exploration and discovery at scale](https://news.ycombinator.com/item?id=45833162)
+
+> AlphaEvolve does not evolve the score function inputs directly, but uses an LLM to evolve computer code (often written in a standard language such as Python) which will in turn be run to generate the inputs that one tests the score function on. This reflects the belief that in many cases, the extremizing inputs will not simply be an arbitrary-looking string of numbers, but will often have some structure that can be efficiently described, or at least approximated, by a relatively short piece of code.
 
 

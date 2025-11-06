@@ -1713,4 +1713,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [No, Your Domains and Bounded Contexts Don’t Map 1 on 1](https://verraes.net/2025/08/domain-and-bounded-contexts-dont-map-one-on-one/)
 
+[phased/staged dependency injection for typescript](https://github.com/7mind/izumi-chibi-ts). [HN](https://news.ycombinator.com/item?id=45778418)
+
 

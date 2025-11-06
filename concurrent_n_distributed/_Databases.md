@@ -1026,6 +1026,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Virtual 6NF](https://minimalmodeling.substack.com/p/virtual-6nf)
 
+[Why I’m not a fan of zero-copy Apache Kafka-Apache Iceberg](https://jack-vanlightly.com/blog/2025/10/15/why-im-not-a-fan-of-zero-copy-apache-kafka-apache-iceberg)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

@@ -445,6 +445,8 @@ Essential reading! Covers:
 
 [Choreographing a dance with the GHC specializer (Part 2)](https://well-typed.com/blog/2024/06/choreographing-specialization-pt2/)
 
+[-fpolymorphic-specialisation](https://downloads.haskell.org/ghc/latest/docs/users_guide/using-optimisation.html#ghc-flag-fpolymorphic-specialisation)
+
 [INLIN(E)ing: A case study](https://mpickering.github.io/posts/2017-05-17-inlining-case-study.html)
 
 [GHC and Cabal: the big picture](https://discourse.haskell.org/t/ghc-and-cabal-the-big-picture/9968)
@@ -579,6 +581,8 @@ ormolu --mode inplace $(git ls-files '*.hs')
 [haskell to core](https://serokell.io/blog/haskell-to-core)
 
 [Allow expressions in SPECIALISE pragmas](https://github.com/ghc-proposals/ghc-proposals/blob/master/proposals/0493-specialise-expressions.rst)
+
+[best practices for development](https://github.com/alexfmpe/semantic-satiation/blob/main/src/Posts/002-cheaper.md)
 
 
 

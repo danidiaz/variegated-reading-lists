@@ -401,8 +401,6 @@ Essential reading! Covers:
 
 [-fprefer-byte-code](https://twitter.com/mattoflambda/status/1780273199000744208)
 
-[Choreographing a dance with the GHC specializer (Part 1)](https://well-typed.com/blog/2024/04/choreographing-specialization-pt1/)
-
 [Improvements to the ghc-debug terminal interface](https://www.well-typed.com/blog/2024/04/ghc-debug-improvements/)
 
 [Getting your Haskell executable statically linked without Nix](https://hasufell.github.io/posts/2024-04-21-static-linking.html)
@@ -429,7 +427,25 @@ Essential reading! Covers:
 
 [LIQUID HASKELL THROUGH THE COMPILERS](https://www.tweag.io/blog/2024-05-30-lh-upgrades/)
 
+[Choreographing a dance with the GHC specializer (Part 1)](https://well-typed.com/blog/2024/04/choreographing-specialization-pt1/)
+
+> The extra allocations required to pass these implicit dictionary arguments and apply selectors to them do result in a measurable overhead, albeit one that is insignificant for most intents and purposes. As we will see, the real cost of ad-hoc polymorphism comes from the optimizations it prevents rather than the overhead it introduces.
+
+> all specializations that GHC generates are prefixed by $s
+
+> The above transformation really is all that the GHC specializer does to our programs. It may not be immediately clear why this optimization is a meaningful optimization at all. That is because specialization is an enabling optimization: The real benefit comes from the optimizations that it enables later in the pipeline, such as inlining.
+
+> GHC will only potentially attempt automatic specialization in exactly one scenario: An overloaded call at a concrete, statically known type is encountered (we’ll refer to such calls as “specializable” calls from now on).
+
+> Instead of specializing, GHC decided to eliminate the call entirely by inlining f [so GHC must sometimes choose between inlining and specialization?]
+
+> GHC prefers inlining over specialization, when possible, since inlining eliminates calls and doesn’t require creation of new bindings. [...]  when a specializable call is deemed too costly to inline, GHC will still attempt to specialize it.
+
+> Interestingly, the Core terms for foo and its specialization f_$sf are alpha-equivalent to the terms we arrived at when GHC inlined the call and applied worker/wrapper instead2, with the specialization playing the same role as the worker.
+
 [Choreographing a dance with the GHC specializer (Part 2)](https://well-typed.com/blog/2024/06/choreographing-specialization-pt2/)
+
+[INLIN(E)ing: A case study](https://mpickering.github.io/posts/2017-05-17-inlining-case-study.html)
 
 [GHC and Cabal: the big picture](https://discourse.haskell.org/t/ghc-and-cabal-the-big-picture/9968)
 

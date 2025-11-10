@@ -1317,4 +1317,8 @@ It seems that using git worktree with Claude Code is A Thing.
 
 > AlphaEvolve does not evolve the score function inputs directly, but uses an LLM to evolve computer code (often written in a standard language such as Python) which will in turn be run to generate the inputs that one tests the score function on. This reflects the belief that in many cases, the extremizing inputs will not simply be an arbitrary-looking string of numbers, but will often have some structure that can be efficiently described, or at least approximated, by a relatively short piece of code.
 
+[Claude Code 2.0 Cheatsheet](https://www.reddit.com/r/ClaudeAI/comments/1osgpit/claude_code_20_cheatsheet_pdf_png/)
+
+[belief](https://bsky.app/profile/tedunderwood.com/post/3m5cnts6lfk25)
+
 

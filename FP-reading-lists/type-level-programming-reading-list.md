@@ -471,4 +471,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Singletons (Haskell Unfolder #50)](https://www.reddit.com/r/haskell/comments/1ojcgl1/comment/nm7cygq/)
 
+[dependent types and how to get rid of them](https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased)
+
 

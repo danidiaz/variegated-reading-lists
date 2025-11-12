@@ -1076,4 +1076,9 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [The Debugging Book](https://www.debuggingbook.org/).
 
+[writing your BEAM](https://news.ycombinator.com/item?id=45867828)
+
+[The Write Last, Read First Rule](https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/)
+
+
 

@@ -358,4 +358,6 @@
 
 [Gall’s Law](https://nordicapis.com/what-is-galls-law-and-how-could-it-direct-api-design/)
 
+[source of truth & eternal repair](https://bsky.app/profile/toneloaf.bsky.social/post/3m5hh3an6zc2l)
+
 

@@ -823,4 +823,8 @@ https://twitter.com/tailwindcss
 
 [nested view transition groups](https://developer.chrome.com/docs/css-ui/view-transitions/nested-view-transition-groups)
 
+[The magic of auto-fit and auto-fill (and the difference between them)](https://www.youtube.com/watch?v=OZ6qKoq7RJU)
+
+
+
 

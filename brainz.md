@@ -1321,4 +1321,16 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [belief](https://bsky.app/profile/tedunderwood.com/post/3m5cnts6lfk25)
 
+[Structured outputs on the Claude Developer Platform](https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform). [hn](https://news.ycombinator.com/item?id=45930598).
+
+[Skills explained: How Skills compares to prompts, Projects, MCP, and subagents](https://www.claude.com/blog/skills-explained)
+
+[Code execution with MCP: Building more efficient agents](https://www.anthropic.com/engineering/code-execution-with-mcp)
+
+[emoji game](https://bsky.app/profile/ed3d.net/post/3m5k73q4f722b)
+
+[Understanding neural networks through sparse circuits](https://openai.com/index/understanding-neural-networks-through-sparse-circuits/)
+
+[spec-driven development](https://news.ycombinator.com/item?id=45935763)
+
 

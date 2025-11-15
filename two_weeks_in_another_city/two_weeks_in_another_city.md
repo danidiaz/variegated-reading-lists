@@ -968,4 +968,6 @@ Bernini, his life and his Rome
 
 >  It's also possible that the convention is influenced by the interpretation of the matrix as a transformation to be applied to the vector, along with a preference for writing the names of transformations on the left of the thing they transform
 
+[a Landscape of Knowledge Games](https://azhdarchid.com/against-metroidbrania-a-landscape-of-knowledge-games/)
+
 

@@ -950,5 +950,9 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [avoiding side-channels](https://lobste.rs/s/9appzu/how_we_avoided_side_channels_our_new_post)
 
+[OWASP Top 10:2025](https://www.reddit.com/r/programming/s/BrdlnFTzsP)
+
+
+
 
 

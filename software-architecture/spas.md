@@ -580,4 +580,12 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [PSA: Always use a separate domain for user content](https://news.ycombinator.com/item?id=45538760).
 
+[from AlpineJS, what "interactivity" libs pair well with HTMX?](https://www.reddit.com/r/htmx/comments/1on6d6q/aside_from_alpinejs_what_interactivity_libs_pair/)
+
+[Local First Htmx](https://news.ycombinator.com/item?id=45853536)
+
+
+
+
+
 

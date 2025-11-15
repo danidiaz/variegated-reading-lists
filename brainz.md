@@ -1333,4 +1333,24 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [spec-driven development](https://news.ycombinator.com/item?id=45935763)
 
+[Building out your agents really feels like staffing a software team](https://www.reddit.com/r/ClaudeAI/comments/1oux9ab/agents_are_life/)
+
+[not a success](https://www.reddit.com/r/ClaudeAI/s/nbeEGqTQfZ). [a success](https://bsky.app/profile/coldfusion.bsky.social/post/3m4ysbwxr3s2l)
+
+[write an agent](https://news.ycombinator.com/item?id=45840088)
+
+[encouraging best practices?](https://bsky.app/profile/gordon.bsky.social/post/3m4x4j7ri7c2s)
+
+> "wow, I really underestimated how many things are trivially fact-checkable but hard to surface"
+
+[LLMs and new programming languages](https://bsky.app/profile/simonwillison.net/post/3m52hvq5ej22m)
+
+
+
+
+
+
+
+
+
 

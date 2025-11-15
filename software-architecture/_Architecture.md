@@ -1715,4 +1715,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [phased/staged dependency injection for typescript](https://github.com/7mind/izumi-chibi-ts). [HN](https://news.ycombinator.com/item?id=45778418)
 
+[10 Years in a Single Codebase](https://revelry.co/insights/development/codebase-learnings/)
+
+
+
 

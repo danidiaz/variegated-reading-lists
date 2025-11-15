@@ -499,4 +499,12 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Transactions and ThreadLocal in Spring Framework](https://www.reddit.com/r/java/s/ej29urP7WB).
 
+[jakarta tech talks](https://www.reddit.com/r/java/s/8i6EZxhg0G)
+
+[JVM exceptions are weird: a decompiler perspective](https://news.ycombinator.com/item?id=45808899)
+
+[serialization 2.0](https://www.reddit.com/r/java/s/9gmw0A141B)
+
+
+
 

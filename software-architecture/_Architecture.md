@@ -1717,6 +1717,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [10 Years in a Single Codebase](https://revelry.co/insights/development/codebase-learnings/)
 
-
+[continuous architecture](https://news.ycombinator.com/item?id=45809722)
 
 

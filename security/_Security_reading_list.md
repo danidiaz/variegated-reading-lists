@@ -948,5 +948,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [csrf](https://words.filippo.io/csrf/). [xl-leaks](https://xsleaks.dev/).  
 
+[avoiding side-channels](https://lobste.rs/s/9appzu/how_we_avoided_side_channels_our_new_post)
+
 
 

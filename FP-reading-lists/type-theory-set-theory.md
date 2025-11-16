@@ -868,6 +868,10 @@ regress of beliefs.
 
 [ZF(C): Model or Inner Model](https://math.stackexchange.com/questions/2993674/zfc-model-or-inner-model). [Model theory is really meta, so you will have to pay attention here.](https://blog.evanchen.cc/2015/12/02/models-of-zfc/)
 
+[stretching text in Gimp](https://www.reddit.com/r/GIMP/comments/ys0ops/best_method_for_stretching_text_in_gimp/). [Scaling won’t work, warning “The selection does not intersect with the layer”.](https://www.reddit.com/r/GIMP/comments/aobgao/help_scaling_wont_work_warning_the_selection_does/)
+
+
+
 
 
 

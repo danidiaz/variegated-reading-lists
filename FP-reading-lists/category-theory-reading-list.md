@@ -1116,4 +1116,6 @@ deals with its own properties.
 
 [a simple category theoretical understanding of category theory diagrams](https://news.ycombinator.com/item?id=45437742)
 
+[Galois Slicing as Automatic Differentiation](https://arxiv.org/abs/2511.09203)
+
 

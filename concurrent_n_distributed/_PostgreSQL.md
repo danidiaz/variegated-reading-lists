@@ -483,7 +483,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Why You Should Build Durable Workflows With Postgres](https://www.dbos.dev/blog/why-postgres-durable-execution). [hn](https://news.ycombinator.com/item?id=44840693).
 
-
+[Pipelining in psql (PostgreSQL 18)](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html)
 
 
 

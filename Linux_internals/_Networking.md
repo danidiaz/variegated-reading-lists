@@ -176,6 +176,8 @@
 
 [Unshare and port forwarding into namespace](https://serverfault.com/questions/1151515/unshare-and-port-forwarding-into-namespace). [Is it possible to run 'unshare -n [program]' as an unprivileged user?](https://unix.stackexchange.com/questions/252714/is-it-possible-to-run-unshare-n-program-as-an-unprivileged-user). [Network namespace & slirp4netns - access namespaced network from host](https://unix.stackexchange.com/questions/637159/network-namespace-slirp4netns-access-namespaced-network-from-host). [Network namespaces to the Internet with veth and NAT](https://josephmuia.ca/2018-05-16-net-namespaces-veth-nat/)
 
+[   I finally understand Cloudflare Zero Trust tunnels ](https://news.ycombinator.com/item?id=45946865)
+
 
 
 

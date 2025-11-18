@@ -870,6 +870,9 @@ regress of beliefs.
 
 [stretching text in Gimp](https://www.reddit.com/r/GIMP/comments/ys0ops/best_method_for_stretching_text_in_gimp/). [Scaling won’t work, warning “The selection does not intersect with the layer”.](https://www.reddit.com/r/GIMP/comments/aobgao/help_scaling_wont_work_warning_the_selection_does/)
 
+[3 books](https://bsky.app/profile/diazcarrete.bsky.social/post/3m5wltduhjk2e)
+
+
 
 
 

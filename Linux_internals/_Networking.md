@@ -178,7 +178,7 @@
 
 [   I finally understand Cloudflare Zero Trust tunnels ](https://news.ycombinator.com/item?id=45946865)
 
-
+[When Reverse Proxies Surprise You: Hard Lessons from Operating at Scale](https://www.infoq.com/articles/scaling-reverse-proxies/). [hn](https://news.ycombinator.com/item?id=45914929).
 
 
 

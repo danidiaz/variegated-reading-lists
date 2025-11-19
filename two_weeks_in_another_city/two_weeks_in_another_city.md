@@ -970,4 +970,6 @@ Bernini, his life and his Rome
 
 [a Landscape of Knowledge Games](https://azhdarchid.com/against-metroidbrania-a-landscape-of-knowledge-games/)
 
+[Ultima VII revisited](https://news.ycombinator.com/item?id=45893007)
+
 

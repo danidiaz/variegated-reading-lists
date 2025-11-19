@@ -872,7 +872,7 @@ regress of beliefs.
 
 [3 books](https://bsky.app/profile/diazcarrete.bsky.social/post/3m5wltduhjk2e)
 
-
+[Structuring Definitions in Mathematical Libraries](https://arxiv.org/abs/2509.10828)
 
 
 

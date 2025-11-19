@@ -1345,6 +1345,8 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [LLMs and new programming languages](https://bsky.app/profile/simonwillison.net/post/3m52hvq5ej22m)
 
+[generative UI](https://research.google/blog/generative-ui-a-rich-custom-visual-interactive-user-experience-for-any-prompt/)
+
 
 
 

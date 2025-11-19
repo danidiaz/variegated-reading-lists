@@ -24,4 +24,6 @@
 
 [intro to lean](https://media.ccc.de/v/gpn22-483-intro-to-lean-4-a-language-at-the-intersection-of-programming-and-mathematics)
 
+[million-step LLM task](https://news.ycombinator.com/item?id=45968362)
+
 

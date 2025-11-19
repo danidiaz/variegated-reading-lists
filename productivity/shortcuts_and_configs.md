@@ -843,4 +843,8 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [stupid jj tricks](https://lobste.rs/s/dkjswm/stupid_jj_tricks)
 
+[blender 5.0](https://news.ycombinator.com/item?id=45974156)
+
+> Meanwhile, in other niches, Microsoft Office still beats open source office suites like LibreOffice; Photoshop isn't about to give up its crown to GIMP; Lightroom isn't losing to Darktable; and FreeCAD isn't even in the rear view mirror of Solidworks.
+
 

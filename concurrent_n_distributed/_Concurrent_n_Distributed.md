@@ -825,5 +825,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [using dbs for queues yay or nay](https://x.com/MarcJBrooker/status/1970280783500976168)
 
+[why strong consistency?](https://brooker.co.za/blog/2025/11/18/consistency.html)
+
 
 

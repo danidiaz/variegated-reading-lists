@@ -330,4 +330,6 @@ Identity, Parametrically](https://jesper.sikanda.be/files/leibniz-equality.pdf)
 
 [Decidable equality for indexed data types, take 2](https://byorgey.github.io/blog/posts/2025/08/22/OneLevelTypesIndexed2.lagda.html)
 
+[Agda Development Setup with Nix Flakes](https://phijor.me/tutorials/agda-development-nix-flakes.html). [agda-lib](https://agda.readthedocs.io/en/latest/getting-started/installation.html#install-agda-stdlib).
+
 

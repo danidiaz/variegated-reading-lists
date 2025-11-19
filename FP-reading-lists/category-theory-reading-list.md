@@ -1118,4 +1118,6 @@ deals with its own properties.
 
 [Galois Slicing as Automatic Differentiation](https://arxiv.org/abs/2511.09203)
 
+[descent](https://ncatlab.org/nlab/show/descent).
+
 

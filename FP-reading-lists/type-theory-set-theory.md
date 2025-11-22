@@ -876,7 +876,18 @@ regress of beliefs.
 
 [Type Theory in Type Theory using a Strictified Syntax](https://dl.acm.org/doi/10.1145/3747535)
 
-> However, proofs by gluing have yet to reach the stage of computer formalisation: formal proofs for the metatheory of dependent types are still stuck in the age of tedious syntactic proofs. The main reason for this is that semantic presentations of type theory are defined using sophisticated indexed inductive types, which are especially prone to "transport hell".
+> However, proofs by gluing have yet to reach the stage of computer
+> formalisation: formal proofs for the metatheory of dependent types are still
+> stuck in the age of tedious syntactic proofs. The main reason for this is
+> that semantic presentations of type theory are defined using sophisticated
+> indexed inductive types, which are especially prone to "transport hell".
+
+> The most syntactic definitions appear in actual implementations [Moura et al. 2015; Agda; Coq]
+where terms are untyped syntax trees and there is no typing relation, just an (efficient) algorithm for
+typechecking in some inconsistent metalanguage. A first step towards a more semantic definition
+is extrinsic syntax, where we work in a consistent metalanguage such as Coq [Adjedj et al. 2024] or
+Agda [Abel et al. 2017] and use typing relations to carve the meaningful terms out of the untyped
+ASTs. Intrinsic syntax goes yet a bit further by removing meaningless terms (the ASTs are indexed 
 
 [LLMs can write a language interpreter](https://news.ycombinator.com/item?id=46003144)
 

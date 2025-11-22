@@ -889,6 +889,10 @@ is extrinsic syntax, where we work in a consistent metalanguage such as Coq [Adj
 Agda [Abel et al. 2017] and use typing relations to carve the meaningful terms out of the untyped
 ASTs. Intrinsic syntax goes yet a bit further by removing meaningless terms (the ASTs are indexed 
 
+> Moving towards the left on the axis gives more practical implementations and observable
+computations, while moving towards the right gives elegance, abstraction, and easier metatheoretic
+proofs. 
+
 [LLMs can write a language interpreter](https://news.ycombinator.com/item?id=46003144)
 
 

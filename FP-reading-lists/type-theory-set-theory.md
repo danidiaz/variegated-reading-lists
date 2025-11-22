@@ -895,5 +895,8 @@ proofs.
 
 [LLMs can write a language interpreter](https://news.ycombinator.com/item?id=46003144)
 
+[Locally cartesian closed vs cartesian closed](https://math.stackexchange.com/questions/4150112/locally-cartesian-closed-vs-cartesian-closed)
 
+> Being locally cartesian closed tells you that each slice category is cartesian closed. This is "local" in the sense that a slice category C/x
+ is the part of the category "near" x
 

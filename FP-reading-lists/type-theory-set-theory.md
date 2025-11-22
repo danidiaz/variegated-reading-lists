@@ -893,6 +893,14 @@ ASTs. Intrinsic syntax goes yet a bit further by removing meaningless terms (the
 computations, while moving towards the right gives elegance, abstraction, and easier metatheoretic
 proofs. 
 
+> Until recently, some properties of dependent type theory were believed to be essentially syntactic,
+in the sense that it was not clear whether they can be proven while staying on the semantic
+side of the axis. One such example is normalisation. Normalisation traditionally means that any
+well-typed term can be reduced to a deep normal form, i.e., a term which does not contain any
+redex. This property plays an important role when implementing a type checker for type theory, as
+the usual algorithm for type checking performs type comparisons by normalising both types and
+then checking syntactic equality of their normal forms. 
+
 [LLMs can write a language interpreter](https://news.ycombinator.com/item?id=46003144)
 
 [Locally cartesian closed vs cartesian closed](https://math.stackexchange.com/questions/4150112/locally-cartesian-closed-vs-cartesian-closed). [more about slice categories](https://math.stackexchange.com/questions/994256/whats-a-good-motivating-example-for-the-concept-of-a-slice-category/994694#994694).

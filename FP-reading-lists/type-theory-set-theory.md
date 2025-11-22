@@ -874,7 +874,11 @@ regress of beliefs.
 
 [Structuring Definitions in Mathematical Libraries](https://arxiv.org/abs/2509.10828)
 
+[Type Theory in Type Theory using a Strictified Syntax](https://dl.acm.org/doi/10.1145/3747535)
 
+> However, proofs by gluing have yet to reach the stage of computer formalisation: formal proofs for the metatheory of dependent types are still stuck in the age of tedious syntactic proofs. The main reason for this is that semantic presentations of type theory are defined using sophisticated indexed inductive types, which are especially prone to "transport hell".
+
+[LLMs can write a language interpreter](https://news.ycombinator.com/item?id=46003144)
 
 
 

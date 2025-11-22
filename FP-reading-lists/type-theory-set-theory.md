@@ -915,6 +915,8 @@ it is advised to work with non-indexed terms and to use separate proofs of typin
 
 > concatenation of lists is only provably associative, but concatenation of difference lists is definitionally associative
 
+> [...] The telescopic contextualisation of this universe [...]
+
 [LLMs can write a language interpreter](https://news.ycombinator.com/item?id=46003144)
 
 [Locally cartesian closed vs cartesian closed](https://math.stackexchange.com/questions/4150112/locally-cartesian-closed-vs-cartesian-closed). [more about slice categories](https://math.stackexchange.com/questions/994256/whats-a-good-motivating-example-for-the-concept-of-a-slice-category/994694#994694).

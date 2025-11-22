@@ -901,10 +901,21 @@ redex. This property plays an important role when implementing a type checker fo
 the usual algorithm for type checking performs type comparisons by normalising both types and
 then checking syntactic equality of their normal forms. 
 
+>  Intrinsic representations are prone to “transport hell”. An analogy: whenever we work with
+vectors indexed by their length, we need transports to adjust the indices; for instance, the
+statement of associativity of vector concatenation depends on the associativity of addition,
+which appears as a transport on one of the vectors. Subsequently, we need to invoke general
+properties of transport (e.g. that it commutes with function application) every time we
+manipulate proofs involving vectors. This can get out of hand, and turn most of the code into
+uninteresting reasoning about transports. In fact, it is advised to avoid vectors, and instead
+to work with non-indexed lists and separate proofs about their length. For the same reasons,
+it is advised to work with non-indexed terms and to use separate proofs of typing.
+
 [LLMs can write a language interpreter](https://news.ycombinator.com/item?id=46003144)
 
 [Locally cartesian closed vs cartesian closed](https://math.stackexchange.com/questions/4150112/locally-cartesian-closed-vs-cartesian-closed). [more about slice categories](https://math.stackexchange.com/questions/994256/whats-a-good-motivating-example-for-the-concept-of-a-slice-category/994694#994694).
 
 > Being locally cartesian closed tells you that each slice category is cartesian closed. This is "local" in the sense that a slice category C/x
  is the part of the category "near" x
+
 

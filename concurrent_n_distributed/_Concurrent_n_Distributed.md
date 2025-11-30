@@ -827,5 +827,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [why strong consistency?](https://brooker.co.za/blog/2025/11/18/consistency.html)
 
+[on idempotency keys](https://www.morling.dev/blog/on-idempotency-keys/). [tweet](https://x.com/kellabyte/status/1993823493746577823).
+
 
 

@@ -148,5 +148,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [LeanLTL: A unifying framework for linear temporal logics in Lean](https://arxiv.org/abs/2507.01780)
 
+[Lazy Linearity for a Core Functional Language](https://discourse.haskell.org/t/lazy-linearity-for-a-core-functional-language-popl-2026/13328)
+
 
 

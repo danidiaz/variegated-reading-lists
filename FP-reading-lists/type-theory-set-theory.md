@@ -924,4 +924,22 @@ it is advised to work with non-indexed terms and to use separate proofs of typin
 > Being locally cartesian closed tells you that each slice category is cartesian closed. This is "local" in the sense that a slice category C/x
  is the part of the category "near" x
 
+[Uniqueness principle for functions types in the HoTT book](https://mathoverflow.net/questions/346220/uniqueness-principle-for-functions-types-in-the-hott-book)
+
+> these two principles are inter-derivable in the presence of congruence rules and β
+-rules for pairs
+
+> The situation is essentially the same as before. The η
+> -rule states that a function does not change if we apply it to a variable and then abstract over the variable. It also says that every element of f:A→B
+>  is a function, namely the one that maps x
+>   to fx . The extensionality rule says that two elements of A→B are equal if they act the same way on arguments. Another way to say this is: if f and g have equal values (at an arbitrary argument x:A), then they are equal.
+
+> But can we read the η -rule as stating that "f is determined by its values"?
+> Yes of course: f is equal to the mapping which takes an argument x:A to fx
+> (the value of f at x).
+
+[Set theory with types](https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html). [hn](https://news.ycombinator.com/item?id=46012846).
+
+> Many think that type theory refers to some sort of dependent type theory, as found in Lean or Agda, while everything else is set theory. But prior to 1980 or so, “type theory” generally referred to higher-order logic and related systems.
+
 

@@ -584,5 +584,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [best practices for development](https://github.com/alexfmpe/semantic-satiation/blob/main/src/Posts/002-cheaper.md)
 
+[next steps for reinstallable base](https://discourse.haskell.org/t/what-are-the-next-steps-for-reinstallable-base/13319)
+
 
 

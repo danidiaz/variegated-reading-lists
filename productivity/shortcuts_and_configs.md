@@ -847,4 +847,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 > Meanwhile, in other niches, Microsoft Office still beats open source office suites like LibreOffice; Photoshop isn't about to give up its crown to GIMP; Lightroom isn't losing to Darktable; and FreeCAD isn't even in the rear view mirror of Solidworks.
 
+[mac voice control](https://lobste.rs/s/o0x7rb/your_mouse_free_setups#c_r9k8d3). [official](https://support.apple.com/en-us/102225). [click with speech commands](https://macmost.com/using-voice-control-to-click-and-drag-with-speech-commands.html). [video](https://www.youtube.com/watch?v=rEUXpnVQF9w). 
+
 

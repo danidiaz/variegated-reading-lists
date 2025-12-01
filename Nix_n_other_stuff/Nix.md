@@ -1452,6 +1452,27 @@ A possible example of importing something into home.nix?
 
 [New AI Coding Teammate: Gemini CLI GitHub Actions](https://news.ycombinator.com/item?id=44822389)
 
+[tarball-ttl](https://nix.dev/manual/nix/2.24/command-ref/conf-file.html#conf-tarball-ttl)
+
+[Root downloads the same packages again](https://discourse.nixos.org/t/root-downloads-the-same-packages-again/33369/5). [How to pin nix registry nixpkgs to release channel](https://discourse.nixos.org/t/how-to-pin-nix-registry-nixpkgs-to-release-channel/14883). [unification](https://nix.dev/manual/nix/2.24/command-ref/new-cli/nix3-registry#unification).
+
+> Note that this only happens because the nix “registry” isn’t pinned by default, so nix shell nixpkgs/release-23.05#... is checking the internet for the latest release-23.05 commit. If you pin your registry, it won’t have to download anything.
+
+> The user registry ~/.config/nix/registry.json. This registry can be modified by commands such as nix registry pin.
+
+> The to flake reference in a registry entry is unified with some flake reference R by taking to and applying the rev and ref attributes from R, if specified. For example:
+
+> github:NixOS/nixpkgs unified with nixpkgs/nixos-20.09 produces github:NixOS/nixpkgs/nixos-20.09.
+
+> github:NixOS/nixpkgs/master unified with nixpkgs/nixos-20.09 produces github:NixOS/nixpkgs/nixos-20.09.
+
+> using the tag: nix run github:NixOS/nixpkgs/25.11#ripgrep fasdfadf
+
+> Also, please don’t use release-23.05. Use nixos-23.05. The former has not undergone hydra caching and testing, while the latter has.
+
+[You rarely want to use the tag. As it is static, it will not even receive security updates.](https://discourse.nixos.org/t/pinning-nixpkgs-in-documentation-examples/20749/5). [discord](https://discord.com/channels/568306982717751326/790886215532150815/1445170489986252902). [gh issue](https://github.com/NixOS/nixpkgs/issues/185168). [post](https://hachyderm.io/@DiazCarrete/115646598470982962)
+
+
 
 
 

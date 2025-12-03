@@ -1349,7 +1349,7 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [modern LLMs](https://bsky.app/profile/simonwillison.net/post/3m6n5mdnlvc2w)
 
-
+[pre-theoretic phase](https://bsky.app/profile/tedunderwood.com/post/3m6zzkrwbk22u)
 
 
 

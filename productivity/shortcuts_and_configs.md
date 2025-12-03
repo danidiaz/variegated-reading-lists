@@ -849,4 +849,16 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [mac voice control](https://lobste.rs/s/o0x7rb/your_mouse_free_setups#c_r9k8d3). [official](https://support.apple.com/en-us/102225). [click with speech commands](https://macmost.com/using-voice-control-to-click-and-drag-with-speech-commands.html). [video](https://www.youtube.com/watch?v=rEUXpnVQF9w). 
 
+[Remove WSL2 files after distro uninstall on Windows 11](https://superuser.com/questions/1746522/remove-wsl2-files-after-distro-uninstall-on-windows-11)
+
+[How to install Linux on Windows with WSL](https://learn.microsoft.com/en-us/windows/wsl/install). [reddit](https://www.reddit.com/r/wsl2/comments/ress9v/comment/hoba9r8/). [update](https://askubuntu.com/questions/1428423/upgrade-ubuntu-in-wsl2-from-20-04-to-22-04).
+
+> wsl.exe --list --online
+
+> The Ubuntu app on the Microsoft store, when installed, will always install the most recently released LTS version of Ubuntu
+
+> sudo apt update && sudo apt full-upgrade
+> # restart Ubuntu
+> sudo do-release-upgrade
+
 

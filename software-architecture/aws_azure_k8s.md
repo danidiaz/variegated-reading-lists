@@ -860,5 +860,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [AWS Introduces New Risk-Free Account Plan with Enhanced Free Credits](https://www.infoq.com/news/2025/07/aws-risk-free-account-credits/). [reddit](https://www.reddit.com/r/programming/comments/1m7x7xi/aws_introduces_new_riskfree_account_plan_with/).
 
+[Ephemeral Infrastructure: Why Short-Lived Is a Good Thing](https://lukasniessen.medium.com/ephemeral-infrastructure-why-short-lived-is-a-good-thing-2cf26afd75ef). [ABC: Always Be Cycling](https://news.ycombinator.com/item?id=46095602).
 
 

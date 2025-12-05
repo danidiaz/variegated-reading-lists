@@ -1472,7 +1472,7 @@ A possible example of importing something into home.nix?
 
 [You rarely want to use the tag. As it is static, it will not even receive security updates.](https://discourse.nixos.org/t/pinning-nixpkgs-in-documentation-examples/20749/5). [discord](https://discord.com/channels/568306982717751326/790886215532150815/1445170489986252902). [gh issue](https://github.com/NixOS/nixpkgs/issues/185168). [post](https://hachyderm.io/@DiazCarrete/115646598470982962)
 
-
+[differences between (and perhaps use cases for) single-user and multi-user Nix installations](https://discourse.nixos.org/t/what-are-the-specific-differences-between-and-perhaps-use-cases-for-single-user-and-multi-user-nix-installations/25671) apparently multi-user is better
 
 
 

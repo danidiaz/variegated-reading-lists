@@ -1482,6 +1482,8 @@ A possible example of importing something into home.nix?
 
 [[r/NixOS] Nix or home-manager for packages?](https://www.reddit.com/r/NixOS/comments/1pfpcgl/nix_or_homemanager_for_packages/)
 
-[Homeless Dotfiles With Nix Wrappers](https://www.youtube.com/watch?v=Zzvn9uYjQJY)
+[Homeless Dotfiles With Nix Wrappers](https://www.youtube.com/watch?v=Zzvn9uYjQJY). 
+
+[mkOutOfStoreSymlink](https://www.youtube.com/watch?v=Zzvn9uYjQJY&lc=Ugx9n1UEZ1X283JLBih4AaABAg.AOvF8mEsXGjAOvPvLlUYLt). [explanation, not sure if good idea](https://jeancharles.quillet.org/posts/2023-02-07-The-home-manager-function-that-changes-everything.html).
 
 

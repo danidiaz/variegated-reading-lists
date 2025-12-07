@@ -362,4 +362,6 @@
 
 [habits](https://bsky.app/profile/pookleblinky.bsky.social/post/3l23jre45bm2q)
 
+[Principles of Slack Maximalism](https://aelerinya.substack.com/p/the-10-principles-of-slack-maximalism). [hn](https://news.ycombinator.com/item?id=46081418).
+
 

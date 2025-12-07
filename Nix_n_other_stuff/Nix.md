@@ -1480,4 +1480,8 @@ A possible example of importing something into home.nix?
 
 > This means that the flake reference /path?dir=foo is not equivalent to /path/foo since the latter doesn't have access to /path.
 
+[[r/NixOS] Nix or home-manager for packages?](https://www.reddit.com/r/NixOS/comments/1pfpcgl/nix_or_homemanager_for_packages/)
+
+[Homeless Dotfiles With Nix Wrappers](https://www.youtube.com/watch?v=Zzvn9uYjQJY)
+
 

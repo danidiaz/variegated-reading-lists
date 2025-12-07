@@ -861,4 +861,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 > # restart Ubuntu
 > sudo do-release-upgrade
 
+[sudo tee trick](https://askubuntu.com/questions/20578/redirect-the-output-using-sudo)
+
 

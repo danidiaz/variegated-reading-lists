@@ -1474,5 +1474,10 @@ A possible example of importing something into home.nix?
 
 [differences between (and perhaps use cases for) single-user and multi-user Nix installations](https://discourse.nixos.org/t/what-are-the-specific-differences-between-and-perhaps-use-cases-for-single-user-and-multi-user-nix-installations/25671) apparently multi-user is better
 
+[nix flakes: flakes in subdirectories can access files in parent directories](https://github.com/NixOS/nix/issues/4414)
+
+> This is actually intended behaviour. A flake in a subdirectory is allowed to access other directories in the same input tree. (For instance, I have NixOS configurations in subdirectory flakes that access modules like ../common/stuff.nix.)
+
+> This means that the flake reference /path?dir=foo is not equivalent to /path/foo since the latter doesn't have access to /path.
 
 

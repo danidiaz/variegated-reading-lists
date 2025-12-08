@@ -1486,4 +1486,6 @@ A possible example of importing something into home.nix?
 
 [mkOutOfStoreSymlink](https://www.youtube.com/watch?v=Zzvn9uYjQJY&lc=Ugx9n1UEZ1X283JLBih4AaABAg.AOvF8mEsXGjAOvPvLlUYLt). [explanation, not sure if good idea](https://jeancharles.quillet.org/posts/2023-02-07-The-home-manager-function-that-changes-everything.html).
 
+[The problem with LD lib path is that it might break child processes at random, as the LD path overwrites rrpath and therefore binaries might not find it's libs anymore](https://discord.com/channels/568306982717751326/790886215532150815/1447522487998087168)
+
 

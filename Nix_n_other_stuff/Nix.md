@@ -1490,6 +1490,16 @@ A possible example of importing something into home.nix?
 
 [0062-content-addressed-paths.md](https://github.com/NixOS/rfcs/blob/master/rfcs/0062-content-addressed-paths.md)
 
+> The idea behind the “content-addressed” model is that rather than deriving these output paths from the inputs of the build, we derive them from the output (the produced store path).
+
+> Nix already supports a special-case of content-addressed derivations with the so-called “fixed-output” derivations. These are derivations that are content-addressed, but whose output hash has to be specified in advance, and are used in particular to fetch data from the internet (as the constraint that the hash has to be specified in advance means that we can relax the sandbox for these derivations).
+
+> The main change required by the content-addressed model is that we can’t know the output paths of a derivation before building it.
+
+> This means that the Nix evaluator doesn’t know the output paths of the dependencies it manipulates (it could know them if they are already built, but that would be a blatant purity hole), so these derivations can’t neither embed their own output path, nor explicitely refer to their dependencies by their output path.
+
+> In a input-addressed-only world, the concrete path for a derivation output was a pure function of this output's id that could be computed at eval-time. However this won't be the case anymore once we allow CA derivations, so we now need a way to register this information in the store:
+
 [Nix glossary](https://nix.dev/manual/nix/2.26/glossary)
 
 [Nix derivation madness](https://news.ycombinator.com/item?id=45772347)
@@ -1524,5 +1534,13 @@ nix-repl> :lf flake:nixpkgs
 
 [Complete Store Path Calculation](https://nix.dev/manual/nix/2.32/protocols/store-path) 
 
+> Regular users do not need to know this information --- store paths can be treated as black boxes computed from the properties of the store objects they refer to. But for those interested in exactly how Nix works, e.g. if they are reimplementing it, this information can be useful.
 
+[nix store make-content-addressed](https://nix.dev/manual/nix/2.22/command-ref/new-cli/nix3-store-make-content-addressed). [What guarantees do signatures by binary caches give?](https://discourse.nixos.org/t/what-guarantees-do-signatures-by-binary-caches-give/34802/4).
+
+
+
+
+
+By contrast, in a content-addressed path, the hash part is computed from the contents of the path. This allows the contents of the path to be verified without any additional information such as signatures. 
 

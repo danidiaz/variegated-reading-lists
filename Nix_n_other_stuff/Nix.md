@@ -1551,3 +1551,6 @@ nix-repl> :lf flake:nixpkgs
 
 `nix path-info --json .` vs `nix realisation info .` vs `nix derivation show .`
 
+> But, the hashDrv given is better than one that just hashes the drv as-is, because the "modulo fixed output derivations part". By ignoring the rest fixed output derivations and just returning a hash based on the fixed output hash (and name) alone, we gain the ability to change how fixed output derivations produce the data they do without changing downstream hashes. This how in Nixpkgs today, we can for example do https://github.com/NixOS/nixpkgs/pull/82130 and it won't be a mass rebuild.
+
+

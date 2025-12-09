@@ -1540,7 +1540,7 @@ nix-repl> :lf flake:nixpkgs
 
 > By contrast, in a content-addressed path, the hash part is computed from the contents of the path. This allows the contents of the path to be verified without any additional information such as signatures. 
 
-[What's in a Nix store path](https://fzakaria.com/2025/03/28/what-s-in-a-nix-store-path)
+[What's in a Nix store path](https://fzakaria.com/2025/03/28/what-s-in-a-nix-store-path). [In Nix, why does hashDrv replace the inputDrvs with a recursive hashDrv of their contents](https://stackoverflow.com/questions/64054487/in-nix-why-does-hashdrv-replace-the-inputdrvs-with-a-recursive-hashdrv-of-their).
 
 >  Learning Nix, one of the things you first learn are that the hashes that are part of the /nix/store are input-derived or “pessimistic” as I like to refer to them as.
 

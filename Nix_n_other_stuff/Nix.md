@@ -1538,9 +1538,13 @@ nix-repl> :lf flake:nixpkgs
 
 [nix store make-content-addressed](https://nix.dev/manual/nix/2.22/command-ref/new-cli/nix3-store-make-content-addressed). [What guarantees do signatures by binary caches give?](https://discourse.nixos.org/t/what-guarantees-do-signatures-by-binary-caches-give/34802/4).
 
+> By contrast, in a content-addressed path, the hash part is computed from the contents of the path. This allows the contents of the path to be verified without any additional information such as signatures. 
+
+[What's in a Nix store path](https://fzakaria.com/2025/03/28/what-s-in-a-nix-store-path)
+
+>  Learning Nix, one of the things you first learn are that the hashes that are part of the /nix/store are input-derived or “pessimistic” as I like to refer to them as.
+
+`nix path-info --json .` vs `nix realisation info .` vs `nix derivation show .`
 
 
-
-
-By contrast, in a content-addressed path, the hash part is computed from the contents of the path. This allows the contents of the path to be verified without any additional information such as signatures. 
 

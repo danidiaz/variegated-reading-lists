@@ -1351,7 +1351,7 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [pre-theoretic phase](https://bsky.app/profile/tedunderwood.com/post/3m6zzkrwbk22u)
 
-
+[good with animals](https://bsky.app/profile/tznkai.bsky.social/post/3m7ko7c6qsk26) and [words](https://bsky.app/profile/golikehellmachine.com/post/3m7hemrhl4k2d).
 
 
 

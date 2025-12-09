@@ -863,4 +863,8 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [sudo tee trick](https://askubuntu.com/questions/20578/redirect-the-output-using-sudo)
 
+[pasting into WSL ubuntu](https://superuser.com/questions/1680787/wsl-terminals-keyboard-paste-is-not-working)
+
+> The default behavior for new users in Windows Terminal is to enable CtrlC/CtrlV for Copy/Paste. However, I would recommend against this as Linux shells already expect to handle CtrlV themselves, and letting the Terminal do it will break some Linux/shell functionality (see below).
+
 

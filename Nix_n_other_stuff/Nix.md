@@ -1488,4 +1488,41 @@ A possible example of importing something into home.nix?
 
 [The problem with LD lib path is that it might break child processes at random, as the LD path overwrites rrpath and therefore binaries might not find it's libs anymore](https://discord.com/channels/568306982717751326/790886215532150815/1447522487998087168)
 
+[0062-content-addressed-paths.md](https://github.com/NixOS/rfcs/blob/master/rfcs/0062-content-addressed-paths.md)
+
+[Nix glossary](https://nix.dev/manual/nix/2.26/glossary)
+
+[Nix derivation madness](https://news.ycombinator.com/item?id=45772347)
+
+Loading a flake from nix-repl:
+
+```
+nix-repl> foo = builtins.getFlake "flake:nixpkgs"
+```
+
+or 
+
+```
+nix-repl> :lf flake:nixpkgs
+```
+
+[About fetchers](https://ryantm.github.io/nixpkgs/builders/fetchers/)
+
+> The fact that the hash belongs to the Nix derivation output and not the file itself can lead to confusion. 
+
+> A common mistake is to update a fetcher’s URL, or a version parameter, without updating the hash.
+
+> This will reuse the old contents. Remember to invalidate the hash argument, in this case by setting the hash attribute to an empty string.
+
+> Use the resulting error message to determine the correct hash.
+
+> blank sha for development: sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+
+[Fixed-output paths](https://nixos.org/guides/nix-pills/18-nix-store-paths.html#fixed-output-paths)
+
+> fixed:out:
+
+[Complete Store Path Calculation](https://nix.dev/manual/nix/2.32/protocols/store-path) 
+
+
 

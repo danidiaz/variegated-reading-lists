@@ -1353,6 +1353,7 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [good with animals](https://bsky.app/profile/tznkai.bsky.social/post/3m7ko7c6qsk26) and [words](https://bsky.app/profile/golikehellmachine.com/post/3m7hemrhl4k2d).
 
+[Traditional ML is dead and I’m pissed about it](https://www.reddit.com/r/learnmachinelearning/comments/1pilr8z/rant_traditional_ml_is_dead_and_im_pissed_about_it/)
 
 
 

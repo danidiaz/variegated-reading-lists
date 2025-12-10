@@ -867,4 +867,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 > The default behavior for new users in Windows Terminal is to enable CtrlC/CtrlV for Copy/Paste. However, I would recommend against this as Linux shells already expect to handle CtrlV themselves, and letting the Terminal do it will break some Linux/shell functionality (see below).
 
+[inspired by sneak](https://www.reddit.com/r/vim/comments/1phrh1x/from_mouse_to_motions_beam_jump_and_natural/)
+
 

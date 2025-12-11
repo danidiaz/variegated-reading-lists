@@ -364,4 +364,6 @@
 
 [Principles of Slack Maximalism](https://aelerinya.substack.com/p/the-10-principles-of-slack-maximalism). [hn](https://news.ycombinator.com/item?id=46081418).
 
+[patterns.dev](https://news.ycombinator.com/item?id=46226483)
+
 

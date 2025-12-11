@@ -1355,7 +1355,9 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [Traditional ML is dead and I’m pissed about it](https://www.reddit.com/r/learnmachinelearning/comments/1pilr8z/rant_traditional_ml_is_dead_and_im_pissed_about_it/)
 
+["that looks like a fever dream"](https://bsky.app/profile/moonjam.com/post/3m7i7onxvrc2w)
 
+[nihilism follows](https://bsky.app/profile/peligrietzer.bsky.social/post/3m7nw7j3nhk2u)
 
 
 

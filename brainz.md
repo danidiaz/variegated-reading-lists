@@ -1363,5 +1363,7 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [OpenAI are quietly adopting skills](https://news.ycombinator.com/item?id=46250332)
 
+[useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/). [hn](https://news.ycombinator.com/item?id=46223882).
+
 
 

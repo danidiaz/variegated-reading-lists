@@ -1554,3 +1554,17 @@ nix-repl> :lf flake:nixpkgs
 > But, the hashDrv given is better than one that just hashes the drv as-is, because the "modulo fixed output derivations part". By ignoring the rest fixed output derivations and just returning a hash based on the fixed output hash (and name) alone, we gain the ability to change how fixed output derivations produce the data they do without changing downstream hashes. This how in Nixpkgs today, we can for example do https://github.com/NixOS/nixpkgs/pull/82130 and it won't be a mass rebuild.
 
 [Single Service VPN in NixOS](https://sashanoraa.gay/blog/nixos-vpn-service/)
+
+[The flake registry](https://github.com/NixOS/flake-registry/)
+
+[nix registry pin pain](https://discourse.nixos.org/t/my-painpoints-with-flakes/9750)
+
+> Overwriting flake:nixpkgs with a local registry entry (eg. github:nixos/nixpkgs/nixos-20.09) seems to cause much less downloads and re-evaluations. And after using nix flake pin there haven’t been any downloads anymore, though then the local registry entry points to github:nixos/nixpkgs/$sha1, the information to which branch it pointed is lost. To “advance” the registry entry I have to actually know where it pointed to before and overwrite, and then pin again.
+
+[Improved evaluation times with pre-resolved Nix store paths](https://discourse.nixos.org/t/improved-evaluation-times-with-pre-resolved-nix-store-paths/60196)
+
+[caching evaluation results](https://www.tweag.io/blog/2020-06-25-eval-cache/)
+
+> Naively, maybe we can keep a cache that records that attribute A of file X evaluates to derivation D (or whatever metadata we want to cache).
+
+

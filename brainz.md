@@ -1361,5 +1361,7 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [nihilism follows](https://bsky.app/profile/peligrietzer.bsky.social/post/3m7nw7j3nhk2u)
 
+[OpenAI are quietly adopting skills](https://news.ycombinator.com/item?id=46250332)
+
 
 

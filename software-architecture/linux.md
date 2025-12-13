@@ -40,4 +40,6 @@ http://www.i3s.unice.fr/~urvoy/docs/VICC/3_vicc.pdf
 
 [the chroot technique](https://news.ycombinator.com/item?id=43632379)
 
+[Being a SysAdmin is hard](https://lobste.rs/s/lzmklx/being_sysadmin_is_hard)
+
 

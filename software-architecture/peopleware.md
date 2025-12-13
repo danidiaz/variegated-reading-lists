@@ -366,4 +366,6 @@
 
 [patterns.dev](https://news.ycombinator.com/item?id=46226483)
 
+[Why write engineering blogs?](https://writethatblog.substack.com/p/why-write-engineering-blogs)
+
 

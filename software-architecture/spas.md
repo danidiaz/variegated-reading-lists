@@ -584,8 +584,8 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [Local First Htmx](https://news.ycombinator.com/item?id=45853536)
 
+[Please stop using middleware to protect your routes (2024)](https://lobste.rs/s/vx1gr7/please_stop_using_middleware_protect)
 
-
-
+["You should never build a CMS"](https://news.ycombinator.com/item?id=46261020)
 
 

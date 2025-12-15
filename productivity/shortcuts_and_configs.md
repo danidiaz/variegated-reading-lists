@@ -869,4 +869,17 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [inspired by sneak](https://www.reddit.com/r/vim/comments/1phrh1x/from_mouse_to_motions_beam_jump_and_natural/)
 
+[gimp layer boundaries](https://www.reddit.com/r/GIMP/comments/uuh7w0/comment/i9fc4lo/)
+
+> If you right click on the layer in the layers panel look for an option that
+> says layer boundary to image size. It might not be that name exactly but
+> similar. The yellow square represents the size of your layer. I think it
+> exists for performance reasons so if the image on your layer only uses up a
+> small part of the canvas then it doesn’t use as much memory in saving the
+> blank pixels
+
+[Gimp How do you disable floating selection?](https://www.reddit.com/r/GIMP/comments/7mrf7h/how_do_you_disable_floating_selection/)
+
+[Gimp How does "move selection" work](https://www.reddit.com/r/GIMP/comments/15buca7/how_does_move_selection_work/)
+
 

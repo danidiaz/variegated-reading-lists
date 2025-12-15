@@ -882,4 +882,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [Gimp How does "move selection" work](https://www.reddit.com/r/GIMP/comments/15buca7/how_does_move_selection_work/)
 
+> No matter what I select using any of the selection tools, when I change to the move tool, nothing moves except the selection outline. I've tried selecting different layers but nothing
+
 

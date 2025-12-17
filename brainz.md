@@ -1367,5 +1367,7 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [Weird Generalization and Inductive Backdoors](https://arxiv.org/abs/2512.09742).
 
+[from GIMP to Gemini](https://bsky.app/profile/moultano.bsky.social/post/3ma5zmybnak24)
+
 
 

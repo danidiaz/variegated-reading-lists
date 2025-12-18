@@ -1080,5 +1080,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [The Write Last, Read First Rule](https://tigerbeetle.com/blog/2025-11-06-the-write-last-read-first-rule/)
 
+[stm containers subtle livelock footgun](https://www.parsonsmatt.org/2025/12/17/the_subtle_footgun_of_tvar_(map____).html)
+
 
 

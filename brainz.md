@@ -1369,5 +1369,10 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [from GIMP to Gemini](https://bsky.app/profile/moultano.bsky.social/post/3ma5zmybnak24)
 
+[code that is proven to work](https://news.ycombinator.com/item?id=46313297)
+
+[Agent Skills is now an open standard](https://news.ycombinator.com/item?id=46315414)
+
+[claude code](https://youtu.be/kZ-zzHVUrO4). [2](https://youtu.be/altX5elI-1k). [3](https://youtu.be/QlWyrYuEC84).
 
 

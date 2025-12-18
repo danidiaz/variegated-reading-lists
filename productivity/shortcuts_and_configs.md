@@ -884,7 +884,9 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 > No matter what I select using any of the selection tools, when I change to the move tool, nothing moves except the selection outline. I've tried selecting different layers but nothing
 
-[missing right option key in K](https://www.reddit.com/r/Keychron/comments/1gfo8mm/why_are_most_models_missing_a_mac_option_key_on/). [relevant for readline](https://www.reddit.com/r/Keychron/comments/1gfo8mm/comment/luoa704/)
+[missing right option key in K](https://www.reddit.com/r/Keychron/comments/1gfo8mm/why_are_most_models_missing_a_mac_option_key_on/). [relevant for readline](https://www.reddit.com/r/Keychron/comments/1gfo8mm/comment/luoa704/). [It is missing, at the very least, a right Option key](https://taoofmac.com/space/blog/2024/05/25/1800).
+
+
 
 
 

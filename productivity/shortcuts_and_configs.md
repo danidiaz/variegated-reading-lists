@@ -886,6 +886,7 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [missing right option key in K](https://www.reddit.com/r/Keychron/comments/1gfo8mm/why_are_most_models_missing_a_mac_option_key_on/). [relevant for readline](https://www.reddit.com/r/Keychron/comments/1gfo8mm/comment/luoa704/). [It is missing, at the very least, a right Option key](https://taoofmac.com/space/blog/2024/05/25/1800).
 
+[Love letter to Raycast](https://lobste.rs/s/l854tb/love_letter_raycast)
 
 
 

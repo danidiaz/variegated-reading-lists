@@ -588,4 +588,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 ["You should never build a CMS"](https://news.ycombinator.com/item?id=46261020)
 
+[Typescript HTML CSS: Minimal Npm Setup with Auto-Refresh](https://www.youtube.com/watch?v=Ue7qAyOY3OU)
+
 

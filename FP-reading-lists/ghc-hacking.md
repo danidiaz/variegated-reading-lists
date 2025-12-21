@@ -586,5 +586,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [next steps for reinstallable base](https://discourse.haskell.org/t/what-are-the-next-steps-for-reinstallable-base/13319)
 
+[The Subtle Footgun of TVar (Map _ _)](https://discourse.haskell.org/t/the-subtle-footgun-of-tvar-map/13429)
+
 
 

@@ -1375,4 +1375,31 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [claude code](https://youtu.be/kZ-zzHVUrO4). [2](https://youtu.be/altX5elI-1k). [3](https://youtu.be/QlWyrYuEC84).
 
+[claude - Understanding Usage and Length Limits](https://support.claude.com/en/articles/11647753-understanding-usage-and-length-limits)
+
+> Utilize projects effectively: Projects use retrieval-augmented generation (RAG), which allows Claude to work with larger amounts of information more efficiently by only loading relevant content into the context window.
+
+[claude code docs](https://code.claude.com/docs/en/overview)
+
+[Use Claude Code in VS Code](https://code.claude.com/docs/en/vs-code)
+
+[why claude desktop?](https://www.reddit.com/r/ClaudeAI/comments/1lbajzq/what_is_the_purpose_of_claude_desktop/?show=original)
+
+[Anthropic's SQLite MCP Server: A Deep Dive for AI Engineers](https://skywork.ai/skypage/en/anthropic-sqlite-mcp-server-ai-engineers/1977590535559376896). [video](https://www.youtube.com/watch?v=wxCCzo9dGj0).
+
+[Claude ultrathink](https://simonwillison.net/2025/Apr/19/claude-code-best-practices/). [Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices). [hn](https://news.ycombinator.com/item?id=43739997). 
+
+> Your CLAUDE.md files become part of Claude’s prompts, so they should be refined like any frequently used prompt. A common mistake is adding extensive content without iterating on its effectiveness.
+
+[claude slash commands](https://code.claude.com/docs/en/slash-commands)
+
+> https://code.claude.com/docs/en/slash-commands#custom-slash-commands
+
+[skills come to Codex](https://news.ycombinator.com/item?id=46334424)
+
+> Easy to author (at its most basic, just a markdown file), context efficient by default (only preloads yaml front-matter, can lazy load more markdown files as needed), can piggyback on top of existing tooling (for instance, instead of the GitHub MCP, you just make a skill describing how to use the `gh` cli).
+
+[Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+
+
 

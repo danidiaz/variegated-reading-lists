@@ -151,5 +151,11 @@
 
 [Marko](https://news.ycombinator.com/item?id=45858905)
 
+[W3C—Tables with Multi-Level Headers](https://www.w3.org/WAI/tutorials/tables/multi-level/). [the spec](https://www.w3.org/TR/html401/struct/tables.html#edef-THEAD)
+
+> Table rows may be grouped into a table head, table foot, and one or more table body sections, using the THEAD, TFOOT and TBODY elements, respectively. 
+
+[always plan](https://hanlho.com/p/implementing-an-urgent-feature-with-llms-and-zed/).
+
 
 

@@ -208,5 +208,7 @@
 
 [The Handle trait](https://lobste.rs/s/judd2f/handle_trait)
 
+[the block pattern](https://lobste.rs/s/lqvi24/rust_s_block_pattern)
+
 
 

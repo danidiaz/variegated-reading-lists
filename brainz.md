@@ -1401,5 +1401,26 @@ It seems that using git worktree with Claude Code is A Thing.
 
 [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 
+[claude custom subagents](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
+
+> On paper, custom subagents are Claude Code’s most powerful feature for context management. The pitch is simple: a complex task requires X tokens of input context (e.g., how to run tests), accumulates Y tokens of working context, and produces a Z token answer. Running N tasks means (X + Y + Z) * N tokens in your main window.
+
+> The subagent solution is to farm out the (X + Y) * N work to specialized agents, which only return the final Z token answers, keeping your main context clean.
+
+> My preferred alternative is to use Claude’s built-in Task(...) feature to spawn clones of the general agent.
+
+> I put all my key context in the CLAUDE.md. Then, I let the main agent decide when and how to delegate work to copies of itself. This gives me all the context-saving benefits of subagents without the drawbacks. The agent manages its own orchestration dynamically.
+
+> In my “Building Multi-Agent Systems (Part 2)” post, I called this the “Master-Clone” architecture, and I strongly prefer it over the “Lead-Specialist” model that custom subagents encourage.
+
+[Use Claude Code in VS Code](https://code.claude.com/docs/en/vs-code#run-cli-in-vs-code)
+
+- Interesting that, after connecting with /ide, a selection in the IDE shows a message like "11 lines selected" on the terminal. 
+
+Claude Code: "I can see the pattern".
+
+[A guide to local coding models](https://news.ycombinator.com/item?id=46348329). ["Something tells me your modules might be too big and need refactoring."](https://hachyderm.io/@DiazCarrete/115767659645415593). [h](https://hachyderm.io/@DiazCarrete/115767659645415593).
+
+[Scaling LLMs to larger codebases](https://blog.kierangill.xyz/oversight-and-guidance). [hn](https://news.ycombinator.com/item?id=46354970).
 
 

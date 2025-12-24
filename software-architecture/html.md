@@ -157,5 +157,8 @@
 
 [always plan](https://hanlho.com/p/implementing-an-urgent-feature-with-llms-and-zed/).
 
+[DOMContentLoaded event](https://developer.mozilla.org/en-US/docs/Web/API/Document/DOMContentLoaded_event)
+
+> A different event, load, should be used only to detect a fully-loaded page. It is a common mistake to use load where DOMContentLoaded would be more appropriate.
 
 

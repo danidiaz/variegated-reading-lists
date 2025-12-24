@@ -1719,4 +1719,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [continuous architecture](https://news.ycombinator.com/item?id=45809722)
 
+[Avoid Mini-frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/). [Lobsters](https://lobste.rs/s/mi8vrp/avoid_mini_frameworks).
+
 

@@ -1419,8 +1419,9 @@ It seems that using git worktree with Claude Code is A Thing.
 
 Claude Code: "I can see the pattern".
 
+Claude Code: Hit Enter to queue up additional messages while Claude is working.
+
 [A guide to local coding models](https://news.ycombinator.com/item?id=46348329). ["Something tells me your modules might be too big and need refactoring."](https://hachyderm.io/@DiazCarrete/115767659645415593). [h](https://hachyderm.io/@DiazCarrete/115767659645415593).
 
 [Scaling LLMs to larger codebases](https://blog.kierangill.xyz/oversight-and-guidance). [hn](https://news.ycombinator.com/item?id=46354970).
-
 

@@ -592,4 +592,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [CSRF protection without tokens or hidden form fields](https://news.ycombinator.com/item?id=46351666)
 
+[Vibium – Browser automation for AI and humans, by Selenium's creator](https://news.ycombinator.com/item?id=46377597)
+
 

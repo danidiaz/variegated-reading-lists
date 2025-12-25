@@ -1425,3 +1425,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Scaling LLMs to larger codebases](https://blog.kierangill.xyz/oversight-and-guidance). [hn](https://news.ycombinator.com/item?id=46354970).
 
+[Effective harnesses for long-running agents \ Anthropic](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents).
+
+

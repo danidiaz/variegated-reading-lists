@@ -1082,5 +1082,9 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [stm containers subtle livelock footgun](https://www.parsonsmatt.org/2025/12/17/the_subtle_footgun_of_tvar_(map____).html)
 
+[Spaced repetition for efficient learning (2019)](https://news.ycombinator.com/item?id=46379076)
+
+> One counterintuitive issue with spaced repetition is that the modern algorithms like FSRS are actually almost too good at scheduling. [...] Because spaced repetition is so good at always giving you things that you will find difficult, it doesn't actually feel like you're getting better overall even though you are.
+
 
 

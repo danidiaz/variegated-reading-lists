@@ -590,4 +590,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [Typescript HTML CSS: Minimal Npm Setup with Auto-Refresh](https://www.youtube.com/watch?v=Ue7qAyOY3OU)
 
+[CSRF protection without tokens or hidden form fields](https://news.ycombinator.com/item?id=46351666)
+
 

@@ -1427,4 +1427,9 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Effective harnesses for long-running agents \ Anthropic](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents).
 
+[Building an AI agent inside a 7-year old Rails application](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+
+[bad argument](https://bsky.app/profile/segyges.bsky.social/post/3mauciz6fes2n). [more](https://bsky.app/profile/atticusgf.bsky.social/post/3mauihcqafs2k).
+
+
 

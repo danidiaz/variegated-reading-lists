@@ -1086,5 +1086,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > One counterintuitive issue with spaced repetition is that the modern algorithms like FSRS are actually almost too good at scheduling. [...] Because spaced repetition is so good at always giving you things that you will find difficult, it doesn't actually feel like you're getting better overall even though you are.
 
+[Package managers keep using Git as a database, it never works out](https://news.ycombinator.com/item?id=46391514)
+
 
 

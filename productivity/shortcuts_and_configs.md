@@ -888,7 +888,7 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [Love letter to Raycast](https://lobste.rs/s/l854tb/love_letter_raycast)
 
-
+[Pre-commit hooks are fundamentally broken](https://news.ycombinator.com/item?id=46398906)
 
 
 

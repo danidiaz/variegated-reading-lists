@@ -890,5 +890,7 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [Pre-commit hooks are fundamentally broken](https://news.ycombinator.com/item?id=46398906)
 
+[Archiving Git branches as tags](https://news.ycombinator.com/item?id=46357362)
+
 
 

@@ -1088,5 +1088,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Package managers keep using Git as a database, it never works out](https://news.ycombinator.com/item?id=46391514)
 
+[Detect memory leaks of C extensions with psutil and psleak](https://gmpy.dev/blog/2025/psutil-heap-introspection-apis)
+
 
 

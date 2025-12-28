@@ -50,4 +50,6 @@
 
 [fardar](https://www.tiktok.com/@digochoeu/video/7431575800178134304)
 
+[Glosario cos erros léxicos e fraseolóxicos máis frecuentes](https://www.usc.gal/gl/servizos/area/normalizacion-linguistica/dubidas/Glosario)
+
 

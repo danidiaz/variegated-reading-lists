@@ -825,6 +825,20 @@ https://twitter.com/tailwindcss
 
 [The magic of auto-fit and auto-fill (and the difference between them)](https://www.youtube.com/watch?v=OZ6qKoq7RJU)
 
+[print](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries/Printing)
+
+```
+/*
+https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries/Printing
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/break-before
+https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-printing
+*/
+@media print {
+    #analysis { break-before: page; }
+    nav { display:none;}
+    form { display:none;}
+}
+```
 
 
 

@@ -161,4 +161,11 @@
 
 > A different event, load, should be used only to detect a fully-loaded page. It is a common mistake to use load where DOMContentLoaded would be more appropriate.
 
+[Replacing JS with just HTML](https://www.htmhell.dev/adventcalendar/2025/27/). [hn](https://news.ycombinator.com/item?id=46407337).
+
+> > Or you use HTMX... and you still end up with just as many (partial) views, but now with so much implicit state that you're veering into write-only code.
+
+> You're overthinking htmx then. I do some fairly complex stuff with no extra partials. Trick is just always rerender and use hx-select and hx-target to slice out the bits you want to update on the current page.
+
+
 

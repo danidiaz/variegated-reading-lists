@@ -952,7 +952,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [OWASP Top 10:2025](https://www.reddit.com/r/programming/s/BrdlnFTzsP)
 
-
+[The Dangers of SSL Certificates](https://news.ycombinator.com/item?id=46406129)
 
 
 

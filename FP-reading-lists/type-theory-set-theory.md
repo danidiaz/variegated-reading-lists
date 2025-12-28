@@ -942,4 +942,7 @@ it is advised to work with non-indexed terms and to use separate proofs of typin
 
 > Many think that type theory refers to some sort of dependent type theory, as found in Lean or Agda, while everything else is set theory. But prior to 1980 or so, “type theory” generally referred to higher-order logic and related systems.
 
+[some junk theorems in Lean](https://news.ycombinator.com/item?id=46364567)
+
+
 

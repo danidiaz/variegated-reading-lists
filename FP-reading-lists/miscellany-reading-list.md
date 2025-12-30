@@ -1090,5 +1090,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Detect memory leaks of C extensions with psutil and psleak](https://gmpy.dev/blog/2025/psutil-heap-introspection-apis)
 
+[text editing as the stumbling block for new UI frameworks](https://www.reddit.com/r/haskell/comments/1pxv11f/comment/nwgyu5d/)
+
 
 

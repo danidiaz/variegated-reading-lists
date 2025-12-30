@@ -167,5 +167,6 @@
 
 > You're overthinking htmx then. I do some fairly complex stuff with no extra partials. Trick is just always rerender and use hx-select and hx-target to slice out the bits you want to update on the current page.
 
+[Targeting by Reference in the Shadow DOM](https://meyerweb.com/eric/thoughts/2025/12/19/targeting-by-reference-in-the-shadow-dom/)
 
 

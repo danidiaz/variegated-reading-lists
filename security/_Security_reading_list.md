@@ -954,5 +954,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [The Dangers of SSL Certificates](https://news.ycombinator.com/item?id=46406129)
 
+[ssh-copy-id](https://mastodon.gal/@elrohir/115812984729362478)
+
 
 

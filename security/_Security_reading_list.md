@@ -956,5 +956,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [ssh-copy-id](https://mastodon.gal/@elrohir/115812984729362478). [SSH Copy ID for Copying SSH Keys to Servers](https://www.ssh.com/academy/ssh/copy-id).
 
+> Only the public key is copied to the server. The private key should never be copied to another machine.
+
 
 

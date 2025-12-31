@@ -954,7 +954,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [The Dangers of SSL Certificates](https://news.ycombinator.com/item?id=46406129)
 
-[ssh-copy-id](https://mastodon.gal/@elrohir/115812984729362478)
+[ssh-copy-id](https://mastodon.gal/@elrohir/115812984729362478). [SSH Copy ID for Copying SSH Keys to Servers](https://www.ssh.com/academy/ssh/copy-id).
 
 
 

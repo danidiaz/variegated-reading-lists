@@ -1086,11 +1086,18 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > One counterintuitive issue with spaced repetition is that the modern algorithms like FSRS are actually almost too good at scheduling. [...] Because spaced repetition is so good at always giving you things that you will find difficult, it doesn't actually feel like you're getting better overall even though you are.
 
+[FSRS: A modern, efficient spaced repetition algorithm](https://news.ycombinator.com/item?id=39002138)
+
+> The other major failure mode is similarly boring: sometimes it's just not useful to blindly memorize things. The exact problem that spaced repetition solves is pretty niche, and while it can be "close enough" to be beneficial in adjacent endeavors, it's also extremely subject to Goodharting. The more hardcore you go into optimizing your SRS procedure, the likelier it gets that the metrics you're optimizing for depart from your actual goal.
+
+[You have to aim for the highest levels by creating your own cards from the materials you are already using.](https://thehardway.guide/srs)
+
 [Package managers keep using Git as a database, it never works out](https://news.ycombinator.com/item?id=46391514)
 
 [Detect memory leaks of C extensions with psutil and psleak](https://gmpy.dev/blog/2025/psutil-heap-introspection-apis)
 
 [text editing as the stumbling block for new UI frameworks](https://www.reddit.com/r/haskell/comments/1pxv11f/comment/nwgyu5d/)
 
+[Specifications Don't Exist](https://www.galois.com/articles/specifications-dont-exist)
 
 

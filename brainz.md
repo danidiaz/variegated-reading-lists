@@ -1431,5 +1431,11 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [bad argument](https://bsky.app/profile/segyges.bsky.social/post/3mauciz6fes2n). [more](https://bsky.app/profile/atticusgf.bsky.social/post/3mauihcqafs2k).
 
+[AI Haskell generation](https://discourse.haskell.org/t/ai-haskell-generation/10378/37). [2](https://bsky.app/profile/ocramz.bsky.social/post/3mbduddmd5s2k).
+
+> In Haskell we have many fine tools for keeping the LLM honest, and basically deploying them all became much cheaper now too: “enable -Wall -Werror and fix all resulting breakage“, “write property tests for this invariant“, and so on.
+
+[2025 year in LLMs](https://news.ycombinator.com/item?id=46449643)
+
 
 

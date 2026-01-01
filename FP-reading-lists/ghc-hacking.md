@@ -588,5 +588,16 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [The Subtle Footgun of TVar (Map _ _)](https://discourse.haskell.org/t/the-subtle-footgun-of-tvar-map/13429)
 
+[--with-repl and doctest](https://github.com/haskell/cabal/blob/master/release-notes/Cabal-3.16.0.0.md)
+
+> Add --with-repl flag to specify alternative REPL program #9115 #10996
+
+> Added a new --with-repl command-line option that allows specifying an alternative program to use when starting a REPL session, instead of the default GHC.
+
+> This is particularly useful for tools like doctest and hie-bios that need to intercept the REPL session to perform their own operations. Previously, these tools had to use --with-ghc which required them to proxy all GHC invocations, including dependency compilation, making the implementation more complex.
+
+> before: cabal repl lib:dani-sqlite --with-ghc=doctest --repl-options='-w -Wdefault'
+
+> now (?): cabal repl --with-repl=doctest
 
 

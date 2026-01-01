@@ -505,6 +505,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [serialization 2.0](https://www.reddit.com/r/java/s/9gmw0A141B)
 
-
+[Java in the terminal](https://news.ycombinator.com/item?id=46445229)
 
 

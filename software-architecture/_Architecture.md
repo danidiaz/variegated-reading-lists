@@ -1721,4 +1721,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Avoid Mini-frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/). [Lobsters](https://lobste.rs/s/mi8vrp/avoid_mini_frameworks).
 
+[what’s the first thing you refactor when inheriting a messy codebase?](https://www.reddit.com/r/Backend/s/wB97aeJXQ0)
+
 

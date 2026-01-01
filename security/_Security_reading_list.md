@@ -954,7 +954,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [The Dangers of SSL Certificates](https://news.ycombinator.com/item?id=46406129)
 
-[ssh-copy-id](https://mastodon.gal/@elrohir/115812984729362478). [SSH Copy ID for Copying SSH Keys to Servers](https://www.ssh.com/academy/ssh/copy-id). [what does it do?](https://stackoverflow.com/questions/22700818/what-exactly-does-ssh-copy-id-do)
+[ssh-copy-id](https://mastodon.gal/@elrohir/115812984729362478). [SSH Copy ID for Copying SSH Keys to Servers](https://www.ssh.com/academy/ssh/copy-id). [what does it do?](https://stackoverflow.com/questions/22700818/what-exactly-does-ssh-copy-id-do). [doing it right?](https://unix.stackexchange.com/questions/375004/am-i-doing-the-first-time-experience-with-ssh-copy-id-right)
 
 > Only the public key is copied to the server. The private key should never be copied to another machine.
 

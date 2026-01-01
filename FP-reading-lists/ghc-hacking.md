@@ -608,4 +608,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 > Lack of explicit export list can degrade performance. The Main module in particular should always have an explicit export list that contains just the main function. Then, the compiler can do more aggressive optimizations on all the other non-exported functions.
 
+[Ccall vs. capi: discouraged?](https://discourse.haskell.org/t/ccall-vs-capi-discouraged/9031)
+
+
 

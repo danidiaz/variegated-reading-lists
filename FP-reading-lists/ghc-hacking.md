@@ -602,4 +602,10 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Better multi-line string literals + deprecate `QuasiQuotes`](https://github.com/ghc-proposals/ghc-proposals/issues/260)
 
+[cabal 3.16](https://github.com/haskell/cabal/blob/master/release-notes/cabal-install-3.16.0.0.md)
+
+> cabal init generates explicit export lists for Main #9889 #9890
+
+> Lack of explicit export list can degrade performance. The Main module in particular should always have an explicit export list that contains just the main function. Then, the compiler can do more aggressive optimizations on all the other non-exported functions.
+
 

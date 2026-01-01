@@ -1437,5 +1437,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [2025 year in LLMs](https://news.ycombinator.com/item?id=46449643)
 
+[AI is forcing us to write good code](https://news.ycombinator.com/item?id=46424200)
+
 
 

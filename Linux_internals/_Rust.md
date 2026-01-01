@@ -210,5 +210,7 @@
 
 [the block pattern](https://lobste.rs/s/lqvi24/rust_s_block_pattern)
 
+[The Algebra of Loans in Rust](https://news.ycombinator.com/item?id=46357814)
+
 
 

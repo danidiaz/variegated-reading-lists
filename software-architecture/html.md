@@ -169,4 +169,9 @@
 
 [Targeting by Reference in the Shadow DOM](https://meyerweb.com/eric/thoughts/2025/12/19/targeting-by-reference-in-the-shadow-dom/)
 
+[You can make up HTML tags](https://news.ycombinator.com/item?id=46416945). [HTML Elements Time Forgot](https://lobste.rs/s/kplced/html_elements_time_forgot).
+
+[HTTP Caching, a Refresher](https://news.ycombinator.com/item?id=46368616)
+
+
 

@@ -594,4 +594,12 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [Vibium – Browser automation for AI and humans, by Selenium's creator](https://news.ycombinator.com/item?id=46377597)
 
+[Thinking of abandoning SSR/Next.js for "Pure" React + TanStack Router](https://www.reddit.com/r/reactjs/s/iS7Z6yt8aN)
+
+[deduplicating paralell queries in tanstack](https://matthuggins.com/blog/posts/deduplicating-parallel-queries-in-tanstack-query-react-query)
+
+[the LLM tax](https://news.ycombinator.com/item?id=46315756).
+
+> The reason? The "LLM tax." While HTMX is a joy for manual development, my experience the last year is that LLMs struggle with the "glue" required for complex UI items in HTMX/Alpine. Conversely, the training data for React is so massive and the patterns so standardized that the AI productivity gains are impossible to ignore.
+
 

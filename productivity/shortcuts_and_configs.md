@@ -892,6 +892,8 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [Archiving Git branches as tags](https://news.ycombinator.com/item?id=46357362)
 
-[My setup, and why tmux workflow is better than ever](https://www.reddit.com/r/tmux/comments/1q12fz7/my_setup_and_why_tmux_workflow_is_better_than_ever/)
+[My setup, and why tmux workflow is better than ever](https://www.reddit.com/r/tmux/comments/1q12fz7/my_setup_and_why_tmux_workflow_is_better_than_ever/). [dispose of tmux?](https://www.reddit.com/r/Ghostty/s/pPIHbShp03)
+
+
 
 

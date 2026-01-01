@@ -625,7 +625,7 @@ https://twitter.com/tailwindcss
 
 [modern tailwind](https://twitter.com/samselikoff/status/1707475924571066614)
 
-[drag-and-drop gotchas](https://twitter.com/JoshWComeau/status/1708878759128957099)
+[drag-and-drop gotchas](https://twitter.com/JoshWComeau/status/1708878759128957099). [the api](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API).
 
 [aria-labelledby and accessible name computation](https://twitter.com/tuantrungvo/status/1710901776311107630). [what order should you follow?](https://twitter.com/SaraSoueidan/status/1710960167116808448)
 
@@ -839,6 +839,8 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
     form { display:none;}
 }
 ```
+
+[Pico CSS • Minimal CSS Framework for semantic HTML](https://picocss.com/)
 
 
 

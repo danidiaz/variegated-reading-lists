@@ -600,4 +600,6 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 > now (?): cabal repl --with-repl=doctest
 
+[Better multi-line string literals + deprecate `QuasiQuotes`](https://github.com/ghc-proposals/ghc-proposals/issues/260)
+
 

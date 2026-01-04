@@ -1723,4 +1723,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [what’s the first thing you refactor when inheriting a messy codebase?](https://www.reddit.com/r/Backend/s/wB97aeJXQ0)
 
+[Advent of EIP Day 9: Routing Slip](https://james-carr.org/posts/2025-01-02-advent-of-eip-day-9-routing-slip/)
+
 

@@ -1441,5 +1441,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [memory is poison](https://bsky.app/profile/theophite.bsky.social/post/3mbcumcgctc2m)
 
+[Adjacent Possible](https://bsky.app/profile/gracekind.net/post/3mbmelyjink2q)
 
 

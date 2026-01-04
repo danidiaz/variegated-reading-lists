@@ -610,5 +610,8 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Ccall vs. capi: discouraged?](https://discourse.haskell.org/t/ccall-vs-capi-discouraged/9031)
 
+[some bluefin thoughts](https://discourse.haskell.org/t/runst-does-not-prevent-resources-from-escaping/13467/14).
+
+[MicroHS discussions](https://github.com/augustss/MicroHs/discussions/379)
 
 

@@ -1449,4 +1449,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Mastering Git Worktrees with Claude Code for Parallel Development Workflow](https://dogukantuna.me/blog/mastering-git-worktrees-with-claude-code)
 
+[Neural Networks: Zero to Hero](https://news.ycombinator.com/item?id=46485090)
+
+[subagents](https://code.claude.com/docs/en/sub-agents)
+
+> Subagents are pre-configured AI personalities that Claude Code can delegate tasks to. 
+
 

@@ -261,6 +261,8 @@
 
 [How programs get run: ELF binaries](https://lwn.net/Articles/631631/). [Debug with gdb an application running with different libc (ld-linux.so)](https://stackoverflow.com/questions/66376921/debug-with-gdb-an-application-running-with-different-libc-ld-linux-so). [How to deal with `/lib64/ld-linux-x86-64.so.2` missing on NixOS?](https://discourse.nixos.org/t/how-to-deal-with-lib64-ld-linux-x86-64-so-2-missing-on-nixos/11401). [overwrite default /lib64/ld-linux-x86-64.so.2 to call executables](https://superuser.com/questions/1144758/overwrite-default-lib64-ld-linux-x86-64-so-2-to-call-executables)
 
+[linear address spaces](https://news.ycombinator.com/item?id=46442282)
+
 
 
 

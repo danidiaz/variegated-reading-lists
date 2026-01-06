@@ -1102,4 +1102,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Maybe comments should explain 'what'](https://news.ycombinator.com/item?id=46486780)
 
+[renamer pass or no renamer pass](https://discourse.haskell.org/t/microhs-v0-15-0-0/13422/9)
+
 

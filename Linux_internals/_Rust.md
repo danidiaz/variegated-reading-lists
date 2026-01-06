@@ -214,5 +214,7 @@
 
 [who owns the memory? part 3](https://lobste.rs/s/gykpyi/who_owns_memory_part_3_how_big_is_your_type)
 
+[the cost of a closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y-followup)
+
 
 

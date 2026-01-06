@@ -1100,4 +1100,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Specifications Don't Exist](https://www.galois.com/articles/specifications-dont-exist)
 
+[Maybe comments should explain 'what'](https://news.ycombinator.com/item?id=46486780)
+
 

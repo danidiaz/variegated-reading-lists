@@ -173,5 +173,7 @@
 
 [HTTP Caching, a Refresher](https://news.ycombinator.com/item?id=46368616)
 
+[How HTML changes in ePub](https://lobste.rs/s/hptqsw/how_html_changes_epub)
+
 
 

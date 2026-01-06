@@ -614,4 +614,6 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [MicroHS discussions](https://github.com/augustss/MicroHs/discussions/379)
 
+[prefer plain http-client](https://discord.com/channels/280033776820813825/280036215477239809/1457836430813429969)
+
 

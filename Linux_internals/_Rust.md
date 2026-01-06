@@ -212,5 +212,7 @@
 
 [The Algebra of Loans in Rust](https://news.ycombinator.com/item?id=46357814)
 
+[who owns the memory? part 3](https://lobste.rs/s/gykpyi/who_owns_memory_part_3_how_big_is_your_type)
+
 
 

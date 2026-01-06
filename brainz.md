@@ -1443,4 +1443,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Adjacent Possible](https://bsky.app/profile/gracekind.net/post/3mbmelyjink2q)
 
+[bespoke software is the future](https://lobste.rs/s/0r8fgx/bespoke_software_is_future)
+
+[Claude Code Sub-Agents: The Unsung Heroes of Context Management](https://www.linkedin.com/pulse/claude-code-sub-agents-unsung-heroes-context-sam-gaddis-ylcac)
+
+[Mastering Git Worktrees with Claude Code for Parallel Development Workflow](https://dogukantuna.me/blog/mastering-git-worktrees-with-claude-code)
+
 

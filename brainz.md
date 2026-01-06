@@ -1455,4 +1455,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 > Subagents are pre-configured AI personalities that Claude Code can delegate tasks to. 
 
+> When Claude Code encounters a task that matches a subagent’s expertise, it can delegate that task to the specialized subagent, which works independently and returns results.
+
 

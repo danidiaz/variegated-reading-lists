@@ -1457,4 +1457,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 > When Claude Code encounters a task that matches a subagent’s expertise, it can delegate that task to the specialized subagent, which works independently and returns results.
 
+[Ship working code while you sleep](https://www.youtube.com/watch?v=_IK18goX4X8)
+
+[Getting started with Claude for software development](https://steveklabnik.com/writing/getting-started-with-claude-for-software-development/). [post](https://bsky.app/profile/steveklabnik.com/post/3mbu3gbqrwk2y). ["grief"](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/). [post](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3mbu5i273zs2s). [gravity well](https://bsky.app/profile/daniloc.xyz/post/3mbtsh4wyzc2l). 
+
 

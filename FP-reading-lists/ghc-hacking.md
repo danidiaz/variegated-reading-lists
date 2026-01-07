@@ -616,4 +616,6 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [prefer plain http-client](https://discord.com/channels/280033776820813825/280036215477239809/1457836430813429969)
 
+[profiling TH splices](https://discourse.haskell.org/t/profiling-th-splices-with-stack-aka-ghc-env-files-from-stack/13493)
+
 

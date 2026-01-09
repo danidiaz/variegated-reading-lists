@@ -618,4 +618,14 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [profiling TH splices](https://discourse.haskell.org/t/profiling-th-splices-with-stack-aka-ghc-env-files-from-stack/13493)
 
+[5.2. Warnings and sanity-checking](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/using-warnings.html#warnings-and-sanity-checking)
+
+> In GHC < 8 the syntax for -W⟨wflag⟩ was -fwarn-⟨wflag⟩ (e.g. -fwarn-incomplete-patterns). This spelling is deprecated, but still accepted for backwards compatibility. Likewise, -Wno-⟨wflag⟩ used to be fno-warn-⟨wflag⟩ (e.g. -fno-warn-incomplete-patterns). 
+
+> Use -Werror to make all warnings into fatal errors, or -Werror=⟨wflag⟩ to make a specific warning into an error.
+
+[SBV: programmatically driving the optimizer?](https://discourse.haskell.org/t/sbv-programmatically-driving-the-optimizer/11796)
+
+
+
 

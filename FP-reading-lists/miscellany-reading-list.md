@@ -1104,4 +1104,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [renamer pass or no renamer pass](https://discourse.haskell.org/t/microhs-v0-15-0-0/13422/9)
 
+[Sorted string tables (SST) from first principles](https://news.ycombinator.com/item?id=46506143)
+
 

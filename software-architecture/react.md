@@ -1151,6 +1151,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [state in the url in react the right way](https://www.reddit.com/r/reactjs/comments/1nmnsr2/state_in_the_url_in_react_the_right_way/)
 
-
+[Stop Writing React Code Like This](https://www.youtube.com/watch?v=Ubbb1RK7iFs).
 
 

@@ -844,5 +844,7 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [stop fighting with css grid](https://www.youtube.com/watch?v=7OrtUkPgHLA)
 
+[::part()](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/::part)
+
 
 

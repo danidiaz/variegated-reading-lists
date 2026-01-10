@@ -1465,5 +1465,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [progression](https://bsky.app/profile/gracekind.net/post/3mbz4pxtklc2c)
 
+[Claude Agent SDK [Full Workshop]](https://www.youtube.com/watch?v=TqC1qOfiVcQ)
+
 
 

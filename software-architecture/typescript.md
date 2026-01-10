@@ -233,4 +233,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [types vs. interfaces, 2025](https://www.youtube.com/watch?v=e0AIkYrXAYE)
 
+[Stop Writing Your ID Types Like This](https://www.youtube.com/watch?v=aP6w2OzidYM).
+
 

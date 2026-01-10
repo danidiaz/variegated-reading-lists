@@ -842,5 +842,7 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [Pico CSS • Minimal CSS Framework for semantic HTML](https://picocss.com/)
 
+[stop fighting with css grid](https://www.youtube.com/watch?v=7OrtUkPgHLA)
+
 
 

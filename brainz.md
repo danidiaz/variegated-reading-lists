@@ -1467,5 +1467,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Claude Agent SDK [Full Workshop]](https://www.youtube.com/watch?v=TqC1qOfiVcQ)
 
+[having programmed](https://bsky.app/profile/ed3d.net/post/3mc3ptgsmxk2x)
+
 
 

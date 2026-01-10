@@ -175,5 +175,9 @@
 
 [How HTML changes in ePub](https://lobste.rs/s/hptqsw/how_html_changes_epub)
 
+[how Markdown took over the world](https://news.ycombinator.com/item?id=46556695)
+
+[enactivism](https://bsky.app/profile/hotrollhottakes.bsky.social/post/3mbyqcl4zck25)
+
 
 

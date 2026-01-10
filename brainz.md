@@ -1461,4 +1461,9 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Getting started with Claude for software development](https://steveklabnik.com/writing/getting-started-with-claude-for-software-development/). [post](https://bsky.app/profile/steveklabnik.com/post/3mbu3gbqrwk2y). ["grief"](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/). [post](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3mbu5i273zs2s). [gravity well](https://bsky.app/profile/daniloc.xyz/post/3mbtsh4wyzc2l). 
 
+[Prompting 101: Show, don’t tell](https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html). [lobsters](https://lobste.rs/s/zdwvdw/prompting_101_show_don_t_tell).
+
+[progression](https://bsky.app/profile/gracekind.net/post/3mbz4pxtklc2c)
+
+
 

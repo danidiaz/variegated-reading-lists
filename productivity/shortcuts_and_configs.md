@@ -894,6 +894,12 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [My setup, and why tmux workflow is better than ever](https://www.reddit.com/r/tmux/comments/1q12fz7/my_setup_and_why_tmux_workflow_is_better_than_ever/). [dispose of tmux?](https://www.reddit.com/r/Ghostty/s/pPIHbShp03)
 
+[a data model for Git](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/)
+
+[ask it to write tests, run the tests, and not break the tests](https://bsky.app/profile/vikrambath.bsky.social/post/3mbwyhpr4kc2w).
+
+[opposable thumb](https://bsky.app/profile/daniloc.xyz/post/3lqqekoiidk2i). [require new intuitions](https://bsky.app/profile/daniloc.xyz/post/3mbzdxn6gds2t).
+
 
 
 

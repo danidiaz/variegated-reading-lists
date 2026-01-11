@@ -1469,5 +1469,9 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [having programmed](https://bsky.app/profile/ed3d.net/post/3mc3ptgsmxk2x)
 
+[anti-anti-ai](https://lobste.rs/s/cmsfbu/don_t_fall_into_anti_ai_hype)
+
+[The /llms.txt file](https://llmstxt.org/)
+
 
 

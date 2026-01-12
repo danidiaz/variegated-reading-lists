@@ -235,4 +235,6 @@ const conforms: OnlyBoolsAndHorses = {
 
 [Stop Writing Your ID Types Like This](https://www.youtube.com/watch?v=aP6w2OzidYM).
 
+[concise typescript book](https://news.ycombinator.com/item?id=46573001)
+
 

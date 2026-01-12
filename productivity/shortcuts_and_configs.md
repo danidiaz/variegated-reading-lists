@@ -900,6 +900,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [opposable thumb](https://bsky.app/profile/daniloc.xyz/post/3lqqekoiidk2i). [require new intuitions](https://bsky.app/profile/daniloc.xyz/post/3mbzdxn6gds2t).
 
-
+[How I use Jujutsu](https://lobste.rs/s/osmrzx/how_i_use_jujutsu).
 
 

@@ -1473,5 +1473,12 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [The /llms.txt file](https://llmstxt.org/)
 
+> Tool use
+>   ide - getDiagnostics(uri: "/.../Api/Server.hs") (MCP)
+>   Get language diagnostics from VS Code
+
+[Opus now on Pro](https://www.reddit.com/r/ClaudeAI/comments/1pdf3zx/claude_opus_45_is_now_available_in_claude_code/)
+
+[Using Haskell embedded DSLs to provide LLMs with tool use surfaces](https://bsky.app/profile/hikikomorphism.bsky.social/post/3mc6cmy3hz22m)
 
 

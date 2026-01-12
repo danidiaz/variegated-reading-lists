@@ -626,6 +626,6 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [SBV: programmatically driving the optimizer?](https://discourse.haskell.org/t/sbv-programmatically-driving-the-optimizer/11796)
 
-
+[The Haskell Debugger for GHC 9.14](https://discourse.haskell.org/t/the-haskell-debugger-for-ghc-9-14/13499).
 
 

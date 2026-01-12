@@ -846,5 +846,12 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [::part()](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/::part)
 
+[New CSS features to know for 2025](https://www.youtube.com/watch?v=jSCgZqoebsM). [more on view transitions](https://developer.chrome.com/docs/web-platform/view-transitions). [Choosing Between CSS Transition and Animation: A UX Perspective.](https://medium.com/design-bootcamp/choosing-between-css-transition-and-animation-a-ux-perspective-75c457fa77fa). [Replace your JavaScript Animation Library with View Transitions](https://www.youtube.com/watch?v=prAHP9miQDY). [Toe Dipping Into View Transitions](https://css-tricks.com/toe-dipping-into-view-transitions/). [Some practical examples of view transitions to elevate your UI](https://piccalil.li/blog/some-practical-examples-of-view-transitions-to-elevate-your-ui/).
+
+[light dismiss](https://medium.com/design-bootcamp/popups-dialogs-tooltips-and-popovers-ux-patterns-2-939da7a1ddcd)
+
+
+
+
 
 

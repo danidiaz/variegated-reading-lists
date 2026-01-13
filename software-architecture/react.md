@@ -1153,4 +1153,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [Stop Writing React Code Like This](https://www.youtube.com/watch?v=Ubbb1RK7iFs).
 
+[every React concept in 12 minutes](https://www.youtube.com/watch?v=wIyHSOugGGw)
+
 

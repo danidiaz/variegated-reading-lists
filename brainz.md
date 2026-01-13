@@ -1481,4 +1481,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Using Haskell embedded DSLs to provide LLMs with tool use surfaces](https://bsky.app/profile/hikikomorphism.bsky.social/post/3mc6cmy3hz22m)
 
+[frontend harder for AI?](https://www.youtube.com/watch?v=pSritFeoYFo)
+
+[reasonless intermediate tokens](https://bsky.app/profile/vcarchidi.bsky.social/post/3mcdfrm2xtk2c). [paper](https://arxiv.org/abs/2505.13775).
+
 

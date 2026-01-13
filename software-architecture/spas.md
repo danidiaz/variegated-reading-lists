@@ -602,4 +602,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 > The reason? The "LLM tax." While HTMX is a joy for manual development, my experience the last year is that LLMs struggle with the "glue" required for complex UI items in HTMX/Alpine. Conversely, the training data for React is so massive and the patterns so standardized that the AI productivity gains are impossible to ignore.
 
+[Learn Tanstack Start In 60 Minutes](https://www.youtube.com/watch?v=KsHbs5RMVYU)
+
 

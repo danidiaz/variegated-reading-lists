@@ -628,4 +628,6 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [The Haskell Debugger for GHC 9.14](https://discourse.haskell.org/t/the-haskell-debugger-for-ghc-9-14/13499).
 
+[stakhanov : a Haskell PGMQ client](https://www.reddit.com/r/haskell/comments/1qarmz9/ann_stakhanov_a_haskell_pgmq_client/)
+
 

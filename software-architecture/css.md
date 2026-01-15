@@ -852,7 +852,7 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [Stop using so many Media Queries - Use clamp() instead!](https://www.youtube.com/watch?v=pYW3O0AxpI8). [there's a pretty narrow range of ideal body text width](https://www.youtube.com/watch?v=pYW3O0AxpI8&lc=Ugx7U8tLPykRMSaT3Mx4AaABAg).
 
-
+[NEW CSS Scroll Features](https://www.youtube.com/watch?v=HXIHpDnsizk)
 
 
 

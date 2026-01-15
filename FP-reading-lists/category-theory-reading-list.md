@@ -1120,4 +1120,6 @@ deals with its own properties.
 
 [descent](https://ncatlab.org/nlab/show/descent).
 
+[relative monads](https://discourse.haskell.org/t/applicative-wired-monad-pattern/12779/20?u=danidiaz)
+
 

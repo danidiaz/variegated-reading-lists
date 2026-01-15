@@ -368,4 +368,6 @@
 
 [Why write engineering blogs?](https://writethatblog.substack.com/p/why-write-engineering-blogs)
 
+[fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
+
 

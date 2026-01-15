@@ -1487,4 +1487,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [claude hole](https://www.reddit.com/r/sre/comments/1qbd255/new_term_claude_hole/)
 
+[programming evolved](https://news.ycombinator.com/item?id=46632039)
+
+[not yet there](https://news.ycombinator.com/item?id=46618042)
+
+[gas town](https://steveklabnik.com/writing/how-to-think-about-gas-town/)
+
 

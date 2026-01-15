@@ -850,6 +850,7 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [light dismiss](https://medium.com/design-bootcamp/popups-dialogs-tooltips-and-popovers-ux-patterns-2-939da7a1ddcd)
 
+[Stop using so many Media Queries - Use clamp() instead!](https://www.youtube.com/watch?v=pYW3O0AxpI8)
 
 
 

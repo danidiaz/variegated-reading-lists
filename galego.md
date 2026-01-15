@@ -52,4 +52,6 @@
 
 [Glosario cos erros léxicos e fraseolóxicos máis frecuentes](https://www.usc.gal/gl/servizos/area/normalizacion-linguistica/dubidas/Glosario)
 
+[Logo chámote ou logo te chamo](https://consellodacultura.gal/especiais/proxector/material.php?mat=94485)
+
 

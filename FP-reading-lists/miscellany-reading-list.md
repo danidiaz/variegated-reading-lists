@@ -1106,4 +1106,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Sorted string tables (SST) from first principles](https://news.ycombinator.com/item?id=46506143)
 
+[The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/)
+
 

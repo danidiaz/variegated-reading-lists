@@ -1485,4 +1485,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [reasonless intermediate tokens](https://bsky.app/profile/vcarchidi.bsky.social/post/3mcdfrm2xtk2c). [paper](https://arxiv.org/abs/2505.13775).
 
+[claude hole](https://www.reddit.com/r/sre/comments/1qbd255/new_term_claude_hole/)
+
 

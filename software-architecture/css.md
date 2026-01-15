@@ -854,5 +854,7 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [NEW CSS Scroll Features](https://www.youtube.com/watch?v=HXIHpDnsizk)
 
+[no more magic numbers](https://www.youtube.com/shorts/k330_RUaSIE)
+
 
 

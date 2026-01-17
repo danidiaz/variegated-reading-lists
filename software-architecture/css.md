@@ -858,7 +858,9 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [named colors](https://austingil.com/css-named-colors/)
 
-[printing](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries/Printing)
+[printing](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries/Printing). [page media](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Paged_media).
+
+
 
 
 

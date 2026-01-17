@@ -958,5 +958,7 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 > Only the public key is copied to the server. The private key should never be copied to another machine.
 
+[Linux boxes via SSH: suspended when disconected](https://news.ycombinator.com/item?id=46638629)
+
 
 

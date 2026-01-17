@@ -1503,4 +1503,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Cutting LLM token Usage by ~80% using REPL driven document analysis](https://lobste.rs/s/xankns/cutting_llm_token_usage_by_80_using_repl)
 
+[agent hype](https://bsky.app/profile/daniloc.xyz/post/3mcn3666gys26)
+
 

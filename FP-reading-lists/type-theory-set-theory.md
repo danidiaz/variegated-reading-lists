@@ -944,5 +944,10 @@ it is advised to work with non-indexed terms and to use separate proofs of typin
 
 [some junk theorems in Lean](https://news.ycombinator.com/item?id=46364567)
 
+[Can We Formalise Type Theory Intrinsically without Any Compromise? A Case Study in Cubical Agda](https://dl.acm.org/doi/10.1145/3779031.3779090)
+
+> Since our formalisation is carried out using Cubical Agda's native support for quotient inductive types, all our constructions compute at a reasonable speed. When we try to develop more sophisticated metatheory, however, the 'transport hell' problem reappears. 
+
+
 
 

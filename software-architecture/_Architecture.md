@@ -1725,4 +1725,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Advent of EIP Day 9: Routing Slip](https://james-carr.org/posts/2025-01-02-advent-of-eip-day-9-routing-slip/)
 
+[frontend architecture](https://www.youtube.com/watch?v=_aqtgF1xM-o)
+
 

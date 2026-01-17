@@ -1495,4 +1495,12 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Most usage is for debugging and helping understand existing code](https://martinfowler.com/fragments/2026-01-08.html)
 
+[Structured LLM outputs](https://nanonets.com/cookbooks/structured-llm-outputs). [hn](https://news.ycombinator.com/item?id=46635309).
+
+[RIP to ultrathink](https://www.reddit.com/r/ClaudeAI/s/uSd8TgIR02)
+
+[Reading across books with Claude Code](https://news.ycombinator.com/item?id=46650347)
+
+[Cutting LLM token Usage by ~80% using REPL driven document analysis](https://lobste.rs/s/xankns/cutting_llm_token_usage_by_80_using_repl)
+
 

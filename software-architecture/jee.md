@@ -507,4 +507,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Java in the terminal](https://news.ycombinator.com/item?id=46445229)
 
+[Modern Java](https://lobste.rs/s/xaxgtt/modern_java)
+
 

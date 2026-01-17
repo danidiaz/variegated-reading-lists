@@ -856,5 +856,9 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [no more magic numbers](https://www.youtube.com/shorts/k330_RUaSIE)
 
+[named colors](https://austingil.com/css-named-colors/)
+
+[printing](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries/Printing)
+
 
 

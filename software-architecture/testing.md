@@ -435,4 +435,6 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [better vocabulary for testing](https://alperenkeles.com/posts/vocab-for-testing/)
 
+[integration tests are best tests](https://jayconrod.com/posts/133/integration-tests-are-best-tests)
+
 

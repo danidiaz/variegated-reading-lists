@@ -1493,4 +1493,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [gas town](https://steveklabnik.com/writing/how-to-think-about-gas-town/)
 
+[Most usage is for debugging and helping understand existing code](https://martinfowler.com/fragments/2026-01-08.html)
+
 

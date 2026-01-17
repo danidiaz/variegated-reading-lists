@@ -902,4 +902,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [How I use Jujutsu](https://lobste.rs/s/osmrzx/how_i_use_jujutsu).
 
+[View git history of specific line](https://stackoverflow.com/questions/50469927/view-git-history-of-specific-line)
+
 

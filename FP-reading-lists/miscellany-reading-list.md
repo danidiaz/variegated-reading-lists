@@ -1108,4 +1108,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [The Unbearable Frustration of Figuring Out APIs](https://blog.ar-ms.me/thoughts/translation-cli/)
 
+[Programming, Evolved](https://news.ycombinator.com/item?id=46632039)
+
 

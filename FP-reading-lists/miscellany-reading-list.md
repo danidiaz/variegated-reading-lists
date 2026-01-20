@@ -1110,4 +1110,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Programming, Evolved](https://news.ycombinator.com/item?id=46632039)
 
+[A Social Filesystem](https://overreacted.io/a-social-filesystem/)
+
 

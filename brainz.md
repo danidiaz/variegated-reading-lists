@@ -1505,4 +1505,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [agent hype](https://bsky.app/profile/daniloc.xyz/post/3mcn3666gys26)
 
+[the limiting factor for general-purpose agents is the legibility of their environments, and the strength of their interfaces](https://news.ycombinator.com/item?id=46588972)
+
+[The unreasonable effectiveness of pattern matching](https://arxiv.org/abs/2601.11432). [post](https://bsky.app/profile/glupyan.bsky.social/post/3mcqp3z26gs2f).
+
 

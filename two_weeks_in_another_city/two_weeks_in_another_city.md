@@ -972,4 +972,6 @@ Bernini, his life and his Rome
 
 [Ultima VII revisited](https://news.ycombinator.com/item?id=45893007)
 
+[building blocks of tabletop game design](https://bsky.app/profile/extraspicyramen.bsky.social/post/3mc4accndo22v)
+
 

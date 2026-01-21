@@ -974,4 +974,6 @@ Bernini, his life and his Rome
 
 [building blocks of tabletop game design](https://bsky.app/profile/extraspicyramen.bsky.social/post/3mc4accndo22v)
 
+[the illusion of time in games](https://bsky.app/profile/mikesenters.bsky.social/post/3mcxopclf3c2s)
+
 

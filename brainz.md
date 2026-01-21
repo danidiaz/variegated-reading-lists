@@ -1509,4 +1509,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [The unreasonable effectiveness of pattern matching](https://arxiv.org/abs/2601.11432). [post](https://bsky.app/profile/glupyan.bsky.social/post/3mcqp3z26gs2f).
 
+[good error messages for LLMs](https://bsky.app/profile/shriram.bsky.social/post/3mcxmazstak25)
+
+[the days of humans reading code are done](https://bsky.app/profile/atticusgf.bsky.social/post/3mcxa6yhzuc2x)
+
+[Claude's soul](https://bsky.app/profile/hotrollhottakes.bsky.social/post/3mcxm4kyo4s2p). [more](https://bsky.app/profile/tedunderwood.com/post/3mcxluqp3ic2m). [shoggoth Claude](https://bsky.app/profile/norvid-studies.bsky.social/post/3mcxlha4gnc2m).
+
 

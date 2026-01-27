@@ -960,5 +960,8 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [Linux boxes via SSH: suspended when disconected](https://news.ycombinator.com/item?id=46638629)
 
+[Why does SSH send 100 packets per keystroke?](https://lobste.rs/s/go7npe/why_does_ssh_send_100_packets_per)
+
+[SSH has no host header](https://lobste.rs/s/7oqiqi/ssh_has_no_host_header).
 
 

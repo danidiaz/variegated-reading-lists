@@ -1513,6 +1513,14 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [the days of humans reading code are done](https://bsky.app/profile/atticusgf.bsky.social/post/3mcxa6yhzuc2x)
 
-[Claude's soul](https://bsky.app/profile/hotrollhottakes.bsky.social/post/3mcxm4kyo4s2p). [more](https://bsky.app/profile/tedunderwood.com/post/3mcxluqp3ic2m). [shoggoth Claude](https://bsky.app/profile/norvid-studies.bsky.social/post/3mcxlha4gnc2m).
+[Claude's soul](https://bsky.app/profile/hotrollhottakes.bsky.social/post/3mcxm4kyo4s2p). [more](https://bsky.app/profile/tedunderwood.com/post/3mcxluqp3ic2m). [shoggoth Claude](https://bsky.app/profile/norvid-studies.bsky.social/post/3mcxlha4gnc2m). [reprogrammed](https://bsky.app/profile/norvid-studies.bsky.social/post/3mcx2cvbslk2h).
+
+[source code will be like assembly](https://bsky.app/profile/davidcrespo.bsky.social/post/3mcxdimjul22v).
+
+[many Claude instances](https://bsky.app/profile/vgel.me/post/3mcyfisvuus26)
+
+[visualizing pipelines](https://www.linkedin.com/posts/gunnar-morling_flink-activity-7420456002501746688-i2Lu)
+
+[A few random notes from Claude coding quite a bit last few weeks](https://news.ycombinator.com/item?id=46771564).
 
 

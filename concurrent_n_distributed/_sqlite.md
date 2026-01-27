@@ -87,5 +87,9 @@
 
 [Siren Call of SQLite on the Server](https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/). [rs](https://lobste.rs/s/t1enph/siren_call_sqlite_on_server). [migrations](https://lobste.rs/s/iypstr/simple_declarative_schema_migration_for). [at what scale?](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood)
 
+[Why ALTER TABLE is such a problem for SQLite](https://lobste.rs/s/nsjybj/why_alter_table_is_such_problem_for_sqlite).
+
+[Many Small Queries Are Efficient in SQLite](https://news.ycombinator.com/item?id=46742635).
+
 
 

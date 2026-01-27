@@ -1112,4 +1112,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [A Social Filesystem](https://overreacted.io/a-social-filesystem/)
 
+[Interfaces and traits in C](https://lobste.rs/s/b95hk4/interfaces_traits_c). [c idioms](https://news.ycombinator.com/item?id=46676125)
+
 

@@ -487,5 +487,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [PostGIS](https://hachyderm.io/@javahippie@mainz.social/115897686445261243)
 
+[Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/)
 
 

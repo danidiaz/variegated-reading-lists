@@ -1523,4 +1523,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [A few random notes from Claude coding quite a bit last few weeks](https://news.ycombinator.com/item?id=46771564).
 
+[Agentic development basics](https://bsky.app/profile/steveklabnik.com/post/3mcznckciyk2e). [the most important thing](https://bsky.app/profile/steveklabnik.com/post/3mdg6nftkm22k).
+
 

@@ -179,5 +179,7 @@
 
 [enactivism](https://bsky.app/profile/hotrollhottakes.bsky.social/post/3mbyqcl4zck25)
 
+[localStorage trick](https://bsky.app/profile/simonwillison.net/post/3mdjca7wxns2d)
+
 
 

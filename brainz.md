@@ -1525,4 +1525,18 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Agentic development basics](https://bsky.app/profile/steveklabnik.com/post/3mcznckciyk2e). [the most important thing](https://bsky.app/profile/steveklabnik.com/post/3mdg6nftkm22k).
 
+[lecture notes to slides](https://bsky.app/profile/eugenevinitsky.bsky.social/post/3mdlmi3d5qk22)
+
+[making the product legible](https://bsky.app/profile/ed3d.net/post/3mdlmva3zps2n)
+
+[project Genie](https://news.ycombinator.com/item?id=46812933)
+
+[moltbook](https://news.ycombinator.com/item?id=46820360)
+
+[AGENTS.md outperforms skills in our agent evals](https://news.ycombinator.com/item?id=46809708).
+
+[impact in learning](https://news.ycombinator.com/item?id=46820924)
+
+[prompt requests](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3mdrqd5v3i22p)
+
 

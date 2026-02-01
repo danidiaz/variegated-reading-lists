@@ -181,5 +181,7 @@
 
 [localStorage trick](https://bsky.app/profile/simonwillison.net/post/3mdjca7wxns2d)
 
+[ARIA roles can remove their children’s semantics](https://www.stefanjudis.com/today-i-learned/aria-roles-can-remove-their-childrens-semantics/)
+
 
 

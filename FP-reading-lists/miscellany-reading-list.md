@@ -1114,4 +1114,10 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Interfaces and traits in C](https://lobste.rs/s/b95hk4/interfaces_traits_c). [c idioms](https://news.ycombinator.com/item?id=46676125)
 
+[bulk operations now composed](https://mniip.com/posts/2024-06-20-bulk-operations-now-composed)
+
+[in praise of --dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/). [hn](https://news.ycombinator.com/item?id=46840612).
+
+[history of C# and TypeScript](https://news.ycombinator.com/item?id=46782872)
+
 

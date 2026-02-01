@@ -91,5 +91,9 @@
 
 [Many Small Queries Are Efficient in SQLite](https://news.ycombinator.com/item?id=46742635).
 
+[SQLite is a Self Contained System](https://sqlite.org/selfcontained.html). [hn](https://news.ycombinator.com/item?id=46838361).
+
+> Default builds of SQLite contain appropriate VFS objects for talking to the underlying operating system, and those VFS objects will contain operating system calls such as open(), read(), write(), fsync(), and so forth. All of these interfaces are readily available on most platforms, and custom VFSes can be designed to run SQLite on even the most austere embedded devices.
+
 
 

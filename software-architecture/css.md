@@ -862,6 +862,8 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [subgrid and AI](https://bsky.app/profile/nerdy.dev/post/3mcsgsbwvws2r)
 
+[grid lanes (not yet)](https://webkit.org/blog/17758/when-will-css-grid-lanes-arrive-how-long-until-we-can-use-it/)
+
 
 
 

@@ -489,4 +489,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/)
 
+[pg_tracing](https://news.ycombinator.com/item?id=46804009)
+
 

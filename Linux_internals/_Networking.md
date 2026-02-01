@@ -180,7 +180,7 @@
 
 [When Reverse Proxies Surprise You: Hard Lessons from Operating at Scale](https://www.infoq.com/articles/scaling-reverse-proxies/). [hn](https://news.ycombinator.com/item?id=45914929).
 
-
+[Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)](https://news.ycombinator.com/item?id=46844870)
 
 
 

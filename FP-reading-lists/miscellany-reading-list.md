@@ -1120,4 +1120,10 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [history of C# and TypeScript](https://news.ycombinator.com/item?id=46782872)
 
+[how to scale](https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users)
+
+[The API Tooling Crisis: Why developers are abandoning Postman and its clones?](https://efp.asia/blog/2025/12/24/api-tooling-crisis/). [lb](https://lobste.rs/s/lgnaoi/api_tooling_crisis_why_developers_are). [Just use cURL](https://justuse.org/curl/).
+
+
+
 

@@ -1539,4 +1539,12 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [prompt requests](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3mdrqd5v3i22p)
 
+[10 Claude Code tips](https://www.reddit.com/r/ClaudeAI/s/FY7nDCnGbR).
+
+[What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/). [hn](https://news.ycombinator.com/item?id=46844822).
+
+[How I Stopped Babysitting Claude Code (And Started Walking Away)](https://xr0am.substack.com/p/how-i-stopped-babysitting-claude)
+
+
+
 

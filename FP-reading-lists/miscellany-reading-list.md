@@ -1124,6 +1124,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [The API Tooling Crisis: Why developers are abandoning Postman and its clones?](https://efp.asia/blog/2025/12/24/api-tooling-crisis/). [lb](https://lobste.rs/s/lgnaoi/api_tooling_crisis_why_developers_are). [Just use cURL](https://justuse.org/curl/).
 
-
+[The Cost of Leaving a Software Rewrite “On the Table"](https://www.reddit.com/r/programming/s/qGztoKW9ug)
 
 

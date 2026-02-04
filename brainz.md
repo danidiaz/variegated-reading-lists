@@ -1545,6 +1545,12 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [How I Stopped Babysitting Claude Code (And Started Walking Away)](https://xr0am.substack.com/p/how-i-stopped-babysitting-claude)
 
+[epistemological fault lines](https://bsky.app/profile/vcarchidi.bsky.social/post/3me2m6ca5ss2s)
 
+[the KV cache](https://bsky.app/profile/timfduffy.com/post/3lxl6pyfxpc2v)
+
+[I miss thinking hard](https://news.ycombinator.com/item?id=46881264)
+
+[Expensively Quadratic: the LLM Agent Cost Curve](https://lobste.rs/s/0stawc/expensively_quadratic_llm_agent_cost)
 
 

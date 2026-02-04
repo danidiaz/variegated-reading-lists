@@ -904,4 +904,8 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [View git history of specific line](https://stackoverflow.com/questions/50469927/view-git-history-of-specific-line)
 
+[Learn Visual Studio Code in 15 minutes: 2026 Official Beginner Tutorial](https://www.youtube.com/watch?v=rNUZm1xLlzo)
+
+[Notion synced blocks, a form of transclusion](https://www.notion.com/help/synced-blocks)
+
 

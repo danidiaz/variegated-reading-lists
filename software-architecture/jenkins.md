@@ -143,6 +143,8 @@
 
 > Git notes makes using git as a deployment history tool very convenient cause you can add structured metadata to a sha
 
+[eks n cdk](https://bsky.app/profile/darryl-ruggles.cloud/post/3mdze7xem3b2q)
+
 
 
 

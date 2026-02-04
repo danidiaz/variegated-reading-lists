@@ -183,5 +183,28 @@
 
 [ARIA roles can remove their children’s semantics](https://www.stefanjudis.com/today-i-learned/aria-roles-can-remove-their-childrens-semantics/)
 
+[WAI-ARIA Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Roles). [using aria-label](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-label).
+
+[Full accessibility tree in Chrome DevTools](https://developer.chrome.com/blog/full-accessibility-tree). [Ignored and uninteresting nodes](https://developer.chrome.com/blog/full-accessibility-tree).
+
+> We hide some nodes per default: ignored nodes, and nodes with role “generic” with no name. These nodes carry no semantic meaning and, in the case of ignored nodes, are not exposed to assistive technology. We hide these nodes to avoid cluttering the tree view. If we did not, the accessibility tree for most web pages would instead look something like this:
+
+[Understanding the Differences between aria-label and aria-labelledby](https://www.a11y-collective.com/blog/aria-label-vs-aria-labelledby/)
+
+[Understanding Accessible Names and ARIA-Labels](https://www.youtube.com/watch?v=9Q0RPmHGSlU). [misuse of aria labels](https://www.youtube.com/watch?v=QK35ta-Z38A). [video](https://www.youtube.com/watch?v=geSG1SfGbYA). [video](https://www.youtube.com/watch?v=n4dg37H_miA).
+
+[ARIA: aria-labelledby attribute](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-labelledby)
+
+> The aria-labelledby property enables authors to reference other elements on the page to define an accessible name. This is useful when using elements that don't have native support for associating elements to provide an accessible name.
+
+> Some elements get their accessible name from their inner content. For example, the accessible name for a <button>, <a>, or <td> comes from the text between the opening and closing tags. Other elements, such as form <textarea>, <fieldset>, and <table> get their accessible name from the content of associated elements; for these elements, the accessible name comes from the <label> with a for attribute, <legend>, and <caption> respectively>.
+
+> aria-labelledby takes precedence over all other methods of providing an accessible name, including aria-label, <label>, and the element's inner text.
+
+> The aria-labelledby attribute only defines the accessible name. It doesn't provide any of <label>'s other functionality, such as making clicking on the labeling element activate the input it is associated with. That has to be added back in with JavaScript.
+
+[Which HTML Elements Actually Support ARIA Labels?](https://www.youtube.com/watch?v=ar87RZLDphk)
+
+
 
 

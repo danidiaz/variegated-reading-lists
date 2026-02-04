@@ -182,8 +182,10 @@
 
 [Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)](https://news.ycombinator.com/item?id=46844870)
 
+[Local tunnels - how to access remote SSH server behind NAT](https://www.reddit.com/r/programming/s/vTh95d7wqj)
 
+[one useful CC use case](https://bsky.app/profile/ryancordell.org/post/3mdopqfazlk2p)
 
-
+[Extend Claude Code](https://code.claude.com/docs/en/features-overview). [Create custom subagents](https://code.claude.com/docs/en/sub-agents). [Extend Claude with skills](https://code.claude.com/docs/en/skills). [hn](https://news.ycombinator.com/item?id=46871173).
 
 

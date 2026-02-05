@@ -1553,4 +1553,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Expensively Quadratic: the LLM Agent Cost Curve](https://lobste.rs/s/0stawc/expensively_quadratic_llm_agent_cost)
 
+[AI is killing B2B SaaS](https://news.ycombinator.com/item?id=46888441)
+
+[regain control](https://bsky.app/profile/kelseyhightower.com/post/3me55kymqkc2h). [home-cooked software](https://maggieappleton.com/home-cooked-software).
+
+
+
 

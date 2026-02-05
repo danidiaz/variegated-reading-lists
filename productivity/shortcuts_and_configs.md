@@ -908,4 +908,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [Notion synced blocks, a form of transclusion](https://www.notion.com/help/synced-blocks)
 
+[what do you use for your personal database?](https://news.ycombinator.com/item?id=33629112)
+
 

@@ -95,5 +95,7 @@
 
 > Default builds of SQLite contain appropriate VFS objects for talking to the underlying operating system, and those VFS objects will contain operating system calls such as open(), read(), write(), fsync(), and so forth. All of these interfaces are readily available on most platforms, and custom VFSes can be designed to run SQLite on even the most austere embedded devices.
 
+[SQLite databases are recommended by the US Library of Congress as a storage format for long-term preservation of digital content.](https://www.sqlite.org/appfileformat.htm)
+
 
 

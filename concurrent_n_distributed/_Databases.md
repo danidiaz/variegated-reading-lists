@@ -1028,6 +1028,8 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Why I’m not a fan of zero-copy Apache Kafka-Apache Iceberg](https://jack-vanlightly.com/blog/2025/10/15/why-im-not-a-fan-of-zero-copy-apache-kafka-apache-iceberg)
 
+[Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite](https://news.ycombinator.com/item?id=46845239)
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

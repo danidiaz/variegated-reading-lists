@@ -1557,6 +1557,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [regain control](https://bsky.app/profile/kelseyhightower.com/post/3me55kymqkc2h). [home-cooked software](https://maggieappleton.com/home-cooked-software).
 
+[my AI adoption journey](https://news.ycombinator.com/item?id=46903558)
+
+[Introducing Claude Opus 4.6 and agent teams](https://www.anthropic.com/news/claude-opus-4-6)
+
 
 
 

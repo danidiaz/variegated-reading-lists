@@ -1559,12 +1559,14 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [my AI adoption journey](https://news.ycombinator.com/item?id=46903558)
 
-[Introducing Claude Opus 4.6 and agent teams](https://www.anthropic.com/news/claude-opus-4-6)
+[Prompt Augmentation Scales up GRPO Training on Mathematical Reasoning](https://arxiv.org/abs/2602.03190). [Mitigating Conversational Inertia in Multi-Turn Agents](https://arxiv.org/abs/2602.03664).
+
+[Introducing Claude Opus 4.6 and agent teams](https://www.anthropic.com/news/claude-opus-4-6). [HN](https://news.ycombinator.com/item?id=46902223).
 
 > the idea that anytime you find an agent makes a mistake, you take the time to engineer a solution such that the agent never makes that mistake again.
 
 > If an agent isn't running, I ask myself "is there something an agent could be doing for me right now?"
 
-
+[Orchestrate teams of Claude Code sessions](https://code.claude.com/docs/en/agent-teams).
 
 

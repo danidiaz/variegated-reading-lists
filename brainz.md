@@ -1571,4 +1571,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Is the Claude-Code-Guide agent a new thing?](https://www.reddit.com/r/ClaudeAI/comments/1p9p2cb/is_the_claudecodeguide_agent_a_new_thing/)
 
+[Exploring new worlds with Genie 3](https://www.fofr.ai/genie-3)
+
 

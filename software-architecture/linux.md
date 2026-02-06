@@ -42,4 +42,6 @@ http://www.i3s.unice.fr/~urvoy/docs/VICC/3_vicc.pdf
 
 [Being a SysAdmin is hard](https://lobste.rs/s/lzmklx/being_sysadmin_is_hard)
 
+[things that linux can do atomically](https://news.ycombinator.com/item?id=46909468)
+
 

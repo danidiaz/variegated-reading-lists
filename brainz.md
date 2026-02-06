@@ -1561,6 +1561,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Introducing Claude Opus 4.6 and agent teams](https://www.anthropic.com/news/claude-opus-4-6)
 
+> the idea that anytime you find an agent makes a mistake, you take the time to engineer a solution such that the agent never makes that mistake again.
+
+> If an agent isn't running, I ask myself "is there something an agent could be doing for me right now?"
+
 
 
 

@@ -1573,4 +1573,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Exploring new worlds with Genie 3](https://www.fofr.ai/genie-3)
 
+[cc - [FEATURE]: Better controls/UX for queued messages.](https://github.com/anomalyco/opencode/issues/8685).
+
+[Coding agents have replaced every framework I used](https://blog.alaindichiappari.dev/p/software-engineering-is-back). [How to effectively write quality code with AI](https://news.ycombinator.com/item?id=46916586). [LLMs could be, but shouldn't be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/).
+
 

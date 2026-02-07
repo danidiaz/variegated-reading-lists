@@ -509,4 +509,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Modern Java](https://lobste.rs/s/xaxgtt/modern_java)
 
+[Java is the new python](https://www.the-main-thread.com/p/java-is-the-new-python-jbang-java-21)
+
 

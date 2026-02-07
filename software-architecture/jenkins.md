@@ -145,6 +145,6 @@
 
 [eks n cdk](https://bsky.app/profile/darryl-ruggles.cloud/post/3mdze7xem3b2q)
 
-
+[No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator](https://lobste.rs/s/5mzzfq/no_really_bash_is_not_enough_why_large)
 
 

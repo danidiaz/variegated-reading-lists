@@ -868,5 +868,7 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes). [hn](https://news.ycombinator.com/item?id=46227619).
 
+[CSS nesting and &](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Nesting/Using). [use with caution](https://piccalil.li/blog/css-nesting-use-with-caution/).
+
 
 

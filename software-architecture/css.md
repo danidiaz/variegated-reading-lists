@@ -864,7 +864,7 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [grid lanes (not yet)](https://webkit.org/blog/17758/when-will-css-grid-lanes-arrive-how-long-until-we-can-use-it/)
 
-
+[Do It With Style: Rethinking CSS](https://www.youtube.com/watch?v=nhbYveaV0pk)
 
 
 

@@ -1727,4 +1727,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [frontend architecture](https://www.youtube.com/watch?v=_aqtgF1xM-o)
 
+[Modular Monoliths and Other Facepalms](https://www.youtube.com/watch?v=4qfsmE11Ejo).
+
 

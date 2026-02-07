@@ -1731,6 +1731,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Domain-centric? Why Hexagonal And Onion Architecture Are Answers to The Wrong Question](https://hachyderm.io/@odrotbohm@chaos.social/116029317438402944). [slides](https://speakerdeck.com/olivergierke/domain-centric-why-hexagonal-onion-and-clean-architecture-are-answers-to-the-wrong-question). [video](https://www.youtube.com/watch?v=co3acmgP2Ng).
 
-
+[Modern Architecture 101 for New Engineers & Forgetful Experts](https://www.youtube.com/watch?v=WRg13Ze_UpY)
 
 

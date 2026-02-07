@@ -1577,4 +1577,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Coding agents have replaced every framework I used](https://blog.alaindichiappari.dev/p/software-engineering-is-back). [How to effectively write quality code with AI](https://news.ycombinator.com/item?id=46916586). [LLMs could be, but shouldn't be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/).
 
+[software factory](https://bsky.app/profile/simonwillison.net/post/3mebr2ljx5c2m)
+
+[llms in security](https://addisoncrump.info/research/a-horrible-conclusion/)
+
 

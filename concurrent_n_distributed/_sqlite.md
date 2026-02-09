@@ -97,5 +97,9 @@
 
 [SQLite databases are recommended by the US Library of Congress as a storage format for long-term preservation of digital content.](https://www.sqlite.org/appfileformat.htm)
 
+[sqlite concurrency and DEFERRED transaction](https://news.ycombinator.com/item?id=45781519). [SQLITE_BUSY](https://simonwillison.net/tags/sqlite-busy/). [What to do about SQLITE_BUSY errors despite setting a timeout](https://berthub.eu/articles/posts/a-brief-post-on-sqlite3-database-locked-despite-timeout/)
+
+
+
 
 

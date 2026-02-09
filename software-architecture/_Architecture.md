@@ -1733,4 +1733,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Modern Architecture 101 for New Engineers & Forgetful Experts](https://www.youtube.com/watch?v=WRg13Ze_UpY)
 
+[Top 10 Rest API Design Pitfalls by Victor Rentea @ Spring I/O 2025](https://www.youtube.com/watch?v=u_5JppAExDs)
+
 

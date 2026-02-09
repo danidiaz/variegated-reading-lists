@@ -513,4 +513,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [The New Java Best Practices](https://www.youtube.com/watch?v=4sjJmKXLnuY)
 
+[java memory leaks](https://www.youtube.com/watch?v=-0vkHxlGlOU)
+
 

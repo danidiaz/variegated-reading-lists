@@ -1581,4 +1581,14 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [llms in security](https://addisoncrump.info/research/a-horrible-conclusion/)
 
+[the maintainer is doing agentic coding through a shitty UX](https://bsky.app/profile/fullmoon.id/post/3meadfaulhk2s)
+
+[Reinforcement Learning from Human Feedback book](https://rlhfbook.com/). [hn](https://news.ycombinator.com/item?id=46923463).
+
+[Waymo world model](https://news.ycombinator.com/item?id=46914785)
+
+[the new Fabio is Claude](https://www.nytimes.com/2026/02/08/business/the-new-fabio-is-claude.html)
+
+[paradoxes](https://bsky.app/profile/jomichell.bsky.social/post/3medtnjgjdk2a)
+
 

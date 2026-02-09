@@ -910,4 +910,12 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [what do you use for your personal database?](https://news.ycombinator.com/item?id=33629112)
 
+[GIMP floating layer](https://www.youtube.com/watch?v=TgeBBZOngq0). [37 paste selection in another layer](https://www.youtube.com/watch?v=SrD7baaEKgU). [38 layer group](https://www.youtube.com/watch?v=aM2fqsXgcEI) 
+
+[official docs - combining images](https://docs.gimp.org/3.0/en/gimp-image-combining.html)
+
+[colors -> color to alpha — SE](https://graphicdesign.stackexchange.com/a/5454/87848)
+
+
+
 

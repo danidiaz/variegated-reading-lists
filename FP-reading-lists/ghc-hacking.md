@@ -630,4 +630,6 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [stakhanov : a Haskell PGMQ client](https://www.reddit.com/r/haskell/comments/1qarmz9/ann_stakhanov_a_haskell_pgmq_client/)
 
+[hs-bindgen](https://well-typed.com/blog/2026/02/hs-bindgen-alpha/)
+
 

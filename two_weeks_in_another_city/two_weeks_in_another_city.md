@@ -976,4 +976,6 @@ Bernini, his life and his Rome
 
 [the illusion of time in games](https://bsky.app/profile/mikesenters.bsky.social/post/3mcxopclf3c2s)
 
+[llms and stories](https://bsky.app/profile/hotrollhottakes.bsky.social/post/3mehnwtv5w224)
+
 

@@ -1591,4 +1591,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [paradoxes](https://bsky.app/profile/jomichell.bsky.social/post/3medtnjgjdk2a)
 
+[kv-caching](https://huggingface.co/blog/not-lain/kv-caching). [video](https://www.youtube.com/watch?v=gpp57x_z_Jg). [Attention in transformers, step-by-step](https://www.youtube.com/watch?v=eMlx5fFNoYc&t=16s).
+
+[llms and stories](https://bsky.app/profile/hotrollhottakes.bsky.social/post/3mehnwtv5w224)
+
 

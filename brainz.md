@@ -1597,4 +1597,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [harness engineering](https://bsky.app/profile/steveklabnik.com/post/3meqvs4xxtc25)
 
+[more FOMO](https://bsky.app/profile/carnage4life.bsky.social/post/3metebrbdek2o). [rodney](https://bsky.app/profile/johnwards.bsky.social/post/3metevanvuc2j).
+
 

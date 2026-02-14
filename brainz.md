@@ -1595,4 +1595,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [llms and stories](https://bsky.app/profile/hotrollhottakes.bsky.social/post/3mehnwtv5w224)
 
+[harness engineering](https://bsky.app/profile/steveklabnik.com/post/3meqvs4xxtc25)
+
 

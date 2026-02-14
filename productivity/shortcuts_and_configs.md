@@ -922,4 +922,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [Vim 9.2, ghostty vs. tmux](https://news.ycombinator.com/item?id=47017350)
 
+[evolving Git for the next decade](https://lobste.rs/s/jcio2j/evolving_git_for_next_decade)
+
 

@@ -1126,4 +1126,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [The Cost of Leaving a Software Rewrite “On the Table"](https://www.reddit.com/r/programming/s/qGztoKW9ug)
 
+[fun with algebraic effects in ocaml](https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/)
+
 

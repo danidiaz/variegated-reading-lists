@@ -920,6 +920,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [GIMP invert selection](https://docs.gimp.org/3.0/en/gimp-selection-invert.html)
 
-[ghostty vs. tmux](https://news.ycombinator.com/item?id=47017350)
+[Vim 9.2, ghostty vs. tmux](https://news.ycombinator.com/item?id=47017350)
 
 

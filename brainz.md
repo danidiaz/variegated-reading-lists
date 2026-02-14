@@ -1599,4 +1599,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [more FOMO](https://bsky.app/profile/carnage4life.bsky.social/post/3metebrbdek2o). [rodney](https://bsky.app/profile/johnwards.bsky.social/post/3metevanvuc2j).
 
+[Coding agents as the new compilers](https://www.anildash.com/2026/02/11/coding-agents-as-the-new-compilers/)
+
 

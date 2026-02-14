@@ -1601,4 +1601,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Coding agents as the new compilers](https://www.anildash.com/2026/02/11/coding-agents-as-the-new-compilers/)
 
+[factorio analogy](https://bsky.app/profile/thebadcode.com/post/3metmlyae6c2z)
+
 

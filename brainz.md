@@ -1603,4 +1603,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [factorio analogy](https://bsky.app/profile/thebadcode.com/post/3metmlyae6c2z)
 
+[quamina + claude](https://hachyderm.io/@icing@chaos.social/116074067716903149)
+
+[Two different tricks for fast LLM inference](https://www.seangoedecke.com/fast-llm-inference/)
+
 

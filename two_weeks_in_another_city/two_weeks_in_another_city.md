@@ -978,4 +978,6 @@ Bernini, his life and his Rome
 
 [llms and stories](https://bsky.app/profile/hotrollhottakes.bsky.social/post/3mehnwtv5w224)
 
+[Ink explorer](https://bsky.app/profile/wildwinter.bsky.social/post/3meu3gfomxc2h)
+
 

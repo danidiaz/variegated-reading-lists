@@ -1609,4 +1609,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [cc success story](https://bsky.app/profile/jdcmedlock.bsky.social/post/3mewjsi4mm22s)
 
+[claude hiding stuff](https://news.ycombinator.com/item?id=47033622)
+
 

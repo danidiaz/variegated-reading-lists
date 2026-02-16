@@ -870,5 +870,7 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [CSS nesting and &](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Nesting/Using). [use with caution](https://piccalil.li/blog/css-nesting-use-with-caution/).
 
+[Modern CSS Code Snippets: Stop writing CSS like it's 2015](https://news.ycombinator.com/item?id=47025851)
+
 
 

@@ -1735,4 +1735,10 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Top 10 Rest API Design Pitfalls by Victor Rentea @ Spring I/O 2025](https://www.youtube.com/watch?v=u_5JppAExDs)
 
+[DDD Aggregates: Optimistic Concurrency](https://www.jamesmichaelhickey.com/optimistic-concurrency/). [Version number in event sourcing aggregate?](https://stackoverflow.com/questions/54817804/version-number-in-event-sourcing-aggregate). [Optimistic Concurrency and Deployment](https://martendb.io/tutorials/advanced-considerations). [Optimistic concurrency locking and inter-aggregate invariants in Clean DDD](https://medium.com/unil-ci-software-engineering/optimistic-concurrency-locking-and-inter-aggregate-invariants-in-clean-ddd-9a7adcbb7bbe). [c# - Where to control optimistic concurrency in a domain-driven design (DDD) application? ](https://softwareengineering.stackexchange.com/questions/443904/where-to-control-optimistic-concurrency-in-a-domain-driven-design-ddd-applicat). 
+
+> There is nothing inherently wrong in adding purely technical attributes to entities (or other domain objects) which are exclusive required for implementing things like persistence or concurrent access
+
+> you either don't show those attributes to your domain experts, or you mark them somehow as "technical" and tell your experts to ignore them.
+
 

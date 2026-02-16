@@ -1030,6 +1030,9 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite](https://news.ycombinator.com/item?id=46845239)
 
+[Optimistic Locking: Concurrency Control with a Version Column](https://medium.com/@sumit-s/optimistic-locking-concurrency-control-with-a-version-column-2e3db2a8120d). [video](https://youtu.be/H_zJ81I_D5E?si=8kCzLiWvfLc6joYv). [Optimistic concurrency control](https://docs.redhat.com/en/documentation/jboss_enterprise_application_platform_common_criteria_certification/5/html/hibernate_core_reference_guide/transactions-optimistic). [post](https://blog.bytebytego.com/p/optimistic-locking). [What You Need to Know About Optimistic Concurrency](https://dev.to/harri_etty/what-you-need-to-know-about-optimistic-concurrency-1g3l). [Optimistic vs. Pessimistic Concurrency In .NET](https://mehdihadeli.com/blog/optimistic-vs-pessimistic-concurrency). [retry](https://enterprisecraftsmanship.com/posts/optimistic-locking-automatic-retry/). [post](https://fraktalio.com/blog/optimistic-locking.html). [post](https://rite2rohit88.medium.com/concurrency-control-with-versioning-5ed6feacfecf). [post](https://www.sparkcodehub.com/sql/performance-security/optimistic-concurrency).
+
+
 # Podcasts
 
 [Database Choices and Uber with Markus Winand](https://softwareengineeringdaily.com/tag/postgresql/)

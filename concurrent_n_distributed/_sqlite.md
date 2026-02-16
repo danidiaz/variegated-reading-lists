@@ -99,6 +99,8 @@
 
 [sqlite concurrency and DEFERRED transaction](https://news.ycombinator.com/item?id=45781519). [SQLITE_BUSY](https://simonwillison.net/tags/sqlite-busy/). [What to do about SQLITE_BUSY errors despite setting a timeout](https://berthub.eu/articles/posts/a-brief-post-on-sqlite3-database-locked-despite-timeout/)
 
+[sqlite isolation](https://sqlite.org/isolation.html). [old link](https://news.ycombinator.com/item?id=13227078).
+
 
 
 

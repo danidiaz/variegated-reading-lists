@@ -1607,4 +1607,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Two different tricks for fast LLM inference](https://www.seangoedecke.com/fast-llm-inference/)
 
+[cc success story](https://bsky.app/profile/jdcmedlock.bsky.social/post/3mewjsi4mm22s)
+
 

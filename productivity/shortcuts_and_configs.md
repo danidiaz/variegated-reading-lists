@@ -924,4 +924,8 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [evolving Git for the next decade](https://lobste.rs/s/jcio2j/evolving_git_for_next_decade)
 
+[GIMP - select and move a layer](https://www.reddit.com/r/GIMP/comments/wakj7p/super_basic_how_to_select_layer_just_by_clicking/)
+
+[vim for writing](https://news.ycombinator.com/item?id=46997356)
+
 

@@ -1611,4 +1611,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [claude hiding stuff](https://news.ycombinator.com/item?id=47033622)
 
+[should I walk or drive?](https://news.ycombinator.com/item?id=47031580)
+
 

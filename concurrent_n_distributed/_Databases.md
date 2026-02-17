@@ -1032,6 +1032,64 @@ https://use-the-index-luke.com/sql/myth-directory/most-selective-first
 
 [Optimistic Locking: Concurrency Control with a Version Column](https://medium.com/@sumit-s/optimistic-locking-concurrency-control-with-a-version-column-2e3db2a8120d). [video](https://youtu.be/H_zJ81I_D5E?si=8kCzLiWvfLc6joYv). [Optimistic concurrency control](https://docs.redhat.com/en/documentation/jboss_enterprise_application_platform_common_criteria_certification/5/html/hibernate_core_reference_guide/transactions-optimistic). [post](https://blog.bytebytego.com/p/optimistic-locking). [What You Need to Know About Optimistic Concurrency](https://dev.to/harri_etty/what-you-need-to-know-about-optimistic-concurrency-1g3l). [Optimistic vs. Pessimistic Concurrency In .NET](https://mehdihadeli.com/blog/optimistic-vs-pessimistic-concurrency). [retry](https://enterprisecraftsmanship.com/posts/optimistic-locking-automatic-retry/). [post](https://fraktalio.com/blog/optimistic-locking.html). [post](https://rite2rohit88.medium.com/concurrency-control-with-versioning-5ed6feacfecf). [post](https://www.sparkcodehub.com/sql/performance-security/optimistic-concurrency).
 
+[Harnessing Postgres race conditions](https://www.lirbank.com/harnessing-postgres-race-conditions). [hn](https://news.ycombinator.com/item?id=47039834). 
+
+> Without race condition tests, every possible race condition in your system is one refactor away from hitting production.
+
+> Six months from now, someone refactors the data access layer. The query gets rewritten, the function gets restructured, the lock gets lost in the shuffle. With barrier testing in your suite, that regression doesn't ship. The test fails before it leaves the developer's machine.
+
+> But only if the test actually catches the regression. Every time you change the barrier or the business logic — like moving the barrier to fix the deadlock — remove the lock and confirm the test fails. If it passes both ways, it's a vanity test.
+
+> Postgres has SERIALIZABLE transaction isolation level. Just use it
+
+> SERIALIZABLE is really quite hard to retrofit to existing apps [...] “it’s slow” show up all over the place when you switch it on.
+
+> I guess I'd say -- I think you're right that you shouldn't (ideally) be able to trigger true deadlocks/livelocks with just serializable transactions + an OLTP DBMS.
+
+> Good call, SERIALIZABLE is a strong option - it eliminates a whole class of bugs at the isolation level. The trade-off is your app needs to handle serialization failures with retry logic, which introduces its own complexity. That retry logic itself needs testing, and barriers work for that too. On randomized testing - that actually has the same limitation you mentioned about barriers: you need to know where to point it. And without coordination, the odds of two operations overlapping at exactly the wrong moment are slim. You'd need enormous pressure to trigger the race reliably, and even then a passing run doesn't prove much. Barriers make the interleaving deterministic so a pass actually means something.
+
+> Using SERIALIZABLE everywhere sounds nice in theory but it tanks throughput on write-heavy workloads. In practice, most teams I've worked with use a mix: SERIALIZABLE for the critical financial paths, READ COMMITTED + explicit locking for the rest.
+
+> You need the transaction + SELECT FOR UPDATE because the validation depends on current state, and two concurrent requests could both pass the duplicate check. The hooks parameter is the barrier injection point from the article - that's how you test that the lock actually prevents the race.
+
+> Absolutely - if you can express the whole operation as a single atomic statement, that's the best outcome. No locks needed, no race to test for. The article is about what comes next: when the logic can't collapse into one query, how do you verify your concurrency handling actually works?
+
+> to avoid these conditions i have usually inserted a row into a lock table used for this purpose to create a lock with a unique key for that row with a few minute timer, the once the transaction is complete it will delete the lock row. This way, simultaneous users will only get the first lock, all other requests would fail, and then if the timer expired, we would assume the transaction never completed and it could try again after a few minutes
+
+> The standard pattern to avoid select for update (which can cause poor performance under load) is to use optimistic concurrency control.
+
+> We hit exactly this kind of race condition in our Go + Postgres SaaS when handling concurrent waitlist signups. Two requests would read the current count, both pass the limit check, and both insert — exceeding the waitlist cap.
+Ended up using SELECT FOR UPDATE on the waitlist row before the count check. Simple but effective. The barrier testing approach described here would have caught this much earlier in development instead of discovering it under load.
+
+[PostgreSQL anti-patterns: read-modify-write cycles](https://www.enterprisedb.com/blog/postgresql-anti-patterns-read-modify-write-cycles). [hn](https://news.ycombinator.com/item?id=13227078). [hn](https://news.ycombinator.com/item?id=13229920).
+
+> Thankfully PostgreSQL (and SQL in general) has a few tools that will help you, and there are some application side options too. Some popular solutions to this problem are:
+> Avoiding the read-modify-write with a calculated update
+> Row level locking with SELECT ... FOR UPDATE
+> Use of SERIALIZABLE transactions
+> Optimistic concurrency control, otherwise known as optimistic locking
+
+> SERIALIZABLE isolation can force applications to repeat a lot of work if a big transaction aborts or if conflicts are common. It’s very useful for complex cases where attempting to use row locking might just cause deadlocks, though.
+
+> Optimistic concurrency control (or “optimistic locking”) is usually implemented as an application-side method for handling concurrency, often by object relational mapping tools like Hibernate.
+
+> Unlike SERIALIZABLE isolation, it works even in autocommit mode or if the statements are in separate transactions. For this reason it’s often a good choice for web applications that might have very long user “think time” pauses or where clients might just vanish mid-session, as it doesn’t need long-running transactions that can cause performance problems.
+
+> How are "serializable" transactions in PostgreSQL different from optimistic concurrency control? 
+
+> As far as I can tell, this doesn't make transactions any more serializable; it just fails them if they wouldn't have been serializable anyway. And then clients typically retry. That sounds just like OCC. Like OCC, I'd expect that under any kind of contention, this could lead to very large numbers of failures and retries.
+
+> Well, first: to properly implement OCC, you need to validate not just your write set (as implemented in some ORMs) but also your read set. Otherwise you're only addressing write-after-write anomalies, leaving write-after-read unaddressed.
+
+> One major difference is that optimistic concurrency control is handled by the calling application and not in the database. Your app should handle the error in either case, but in the case of OCC you end up doing the bookkeeping yourself, which may be preferable (lower overhead for Postgres to handle the query for instance).
+
+> Unlike SERIALIZABLE isolation, it works even in autocommit mode or *IF THE STATEMENTS ARE IN SEPARATE TRANSACTIONS*. For this reason it’s often a good choice for web applications that might have very long user “think time” pauses or where clients might just vanish mid-session, as it doesn’t need long-running transactions that can cause performance problems.
+
+
+
+
+
+
 
 # Podcasts
 

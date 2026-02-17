@@ -101,6 +101,8 @@
 
 [sqlite isolation](https://sqlite.org/isolation.html). [old link](https://news.ycombinator.com/item?id=13227078).
 
+[DEFERRED, IMMEDIATE, and EXCLUSIVE](https://dba.stackexchange.com/questions/258003/what-standard-sql-isolation-levels-do-the-sqlite-isolation-levels-correspond-to)
+
 
 
 

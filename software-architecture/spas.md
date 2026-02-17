@@ -604,4 +604,8 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [Learn Tanstack Start In 60 Minutes](https://www.youtube.com/watch?v=KsHbs5RMVYU)
 
+[perf rant](https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/#the-real-alternative-server-side-work). [hn](https://news.ycombinator.com/item?id=47029339).
+
+> The obvious [alternative] one is simple full-page navigation
+
 

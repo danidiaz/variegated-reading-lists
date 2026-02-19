@@ -1631,7 +1631,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Level of Detail](https://phinze.com/writing/level-of-detail)
 
-[AI makes you boring](https://www.marginalia.nu/log/a_132_ai_bores/)
+[AI makes you boring](https://www.marginalia.nu/log/a_132_ai_bores/). [hn](https://news.ycombinator.com/item?id=47076966).
 
 
 

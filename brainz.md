@@ -1627,7 +1627,11 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
 
+[It's an Exoskeleton.](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
+[Level of Detail](https://phinze.com/writing/level-of-detail)
+
+[AI makes you boring](https://www.marginalia.nu/log/a_132_ai_bores/)
 
 
 

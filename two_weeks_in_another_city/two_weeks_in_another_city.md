@@ -980,4 +980,6 @@ Bernini, his life and his Rome
 
 [Ink explorer](https://bsky.app/profile/wildwinter.bsky.social/post/3meu3gfomxc2h)
 
+[My 1981 adventure game is now a multimedia extravaganza](https://news.ycombinator.com/item?id=47041294)
+
 

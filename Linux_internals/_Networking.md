@@ -188,4 +188,6 @@
 
 [Extend Claude Code](https://code.claude.com/docs/en/features-overview). [Create custom subagents](https://code.claude.com/docs/en/sub-agents). [Extend Claude with skills](https://code.claude.com/docs/en/skills). [hn](https://news.ycombinator.com/item?id=46871173).
 
+[Tailscale Peer Relays](https://tailscale.com/blog/peer-relays-ga)
+
 

@@ -910,6 +910,7 @@ small-step operational semantics
 
 [type inference zoo](https://zoo.cuichen.cc/)
 
+[How to choose between Hindley-Milner and bidirectional typing](https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/). [hn](https://news.ycombinator.com/item?id=47025885).
 
 
 

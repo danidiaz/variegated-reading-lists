@@ -1613,4 +1613,22 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [should I walk or drive?](https://news.ycombinator.com/item?id=47031580)
 
+[claude anecdotes](https://bsky.app/profile/jomichell.bsky.social/post/3mf3irfgaec2i)
+
+[AI has fixed my productivity](https://blog.dmcc.io/journal/ai-has-fixed-my-productivity/)
+
+[bounding boxes](https://bsky.app/profile/phasebinary.bsky.social/post/3mfa4lxk5ms2a)
+
+[AI made coding more enjoyable](https://news.ycombinator.com/item?id=47075400)
+
+[lower performance in multi-turn conversations](https://bsky.app/profile/peark.es/post/3mf5r5h5pas2e)
+
+[generalist intro to CC](https://bsky.app/profile/benansell.bsky.social/post/3mf7gzf5jrc2l)
+
+[microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
+
+
+
+
+
 

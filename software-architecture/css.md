@@ -872,5 +872,7 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [Modern CSS Code Snippets: Stop writing CSS like it's 2015](https://news.ycombinator.com/item?id=47025851)
 
+[Element-Scoped View Transitions](https://bsky.app/profile/bram.us/post/3mf4x7sxyc226)
+
 
 

@@ -491,4 +491,6 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [pg_tracing](https://news.ycombinator.com/item?id=46804009)
 
+[pg_search](https://www.youtube.com/watch?v=zrokmIR9Ytg)
+
 

@@ -928,4 +928,10 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [vim for writing](https://news.ycombinator.com/item?id=46997356)
 
+[How I use Obsidian (2023)](https://news.ycombinator.com/item?id=47054369)
+
+
+
+
+
 

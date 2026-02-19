@@ -948,6 +948,10 @@ it is advised to work with non-indexed terms and to use separate proofs of typin
 
 > Since our formalisation is carried out using Cubical Agda's native support for quotient inductive types, all our constructions compute at a reasonable speed. When we try to develop more sophisticated metatheory, however, the 'transport hell' problem reappears. 
 
+[Learning Lean: Part 1](https://news.ycombinator.com/item?id=47022604)
+
+[proof assistants in the age of AI](https://leodemoura.github.io/blog/2026/02/18/proof-assistants-in-the-age-of-ai.html)
+
 
 
 

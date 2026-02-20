@@ -610,4 +610,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [form actions](https://bsky.app/profile/danabra.mov/post/3mf6cwnd4t22r)
 
+[web components rant](https://news.ycombinator.com/item?id=47087213)
+
 

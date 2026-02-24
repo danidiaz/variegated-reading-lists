@@ -1639,4 +1639,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Writing about Agentic Engineering Patterns](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/)
 
+[commands vs. skills in Claude](https://bsky.app/profile/ed3d.net/post/3mfn7sy2tjs2n)
+
 

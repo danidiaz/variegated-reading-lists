@@ -934,6 +934,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 > Cómo crear un modelo de programación lineal en Excel
 
-
+['Self-host it' is not the answer](https://neilzone.co.uk/2022/07/self-host-it-is-not-the-answer/)
 
 

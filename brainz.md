@@ -1637,4 +1637,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [hypotethical example of vibecoding slack](https://news.ycombinator.com/item?id=47110188)
 
+[Writing about Agentic Engineering Patterns](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/)
+
 

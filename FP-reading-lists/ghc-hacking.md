@@ -632,4 +632,6 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [hs-bindgen](https://well-typed.com/blog/2026/02/hs-bindgen-alpha/)
 
+[ CPS can work well when every continuation is statically known and inline. But: If any CPS remains at runtime, the overheads are eye-watering](https://www.reddit.com/r/haskell/comments/1raoz6m/comment/o6ml33l/)
+
 

@@ -930,7 +930,9 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [How I use Obsidian (2023)](https://news.ycombinator.com/item?id=47054369)
 
+[Solver in Excel](https://www.youtube.com/watch?v=rdynw0FprfU). [otro vídeo](https://www.youtube.com/watch?v=fdONp58uwRc).
 
+> Cómo crear un modelo de programación lineal en Excel
 
 
 

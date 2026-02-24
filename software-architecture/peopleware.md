@@ -370,4 +370,6 @@
 
 [fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
 
+[xp comeback?](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3mfjqcale2c2f)
+
 

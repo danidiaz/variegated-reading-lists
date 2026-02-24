@@ -1633,6 +1633,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [AI makes you boring](https://www.marginalia.nu/log/a_132_ai_bores/). [hn](https://news.ycombinator.com/item?id=47076966).
 
+[Separation of planning and execution](https://news.ycombinator.com/item?id=47106686)
 
+[hypotethical example of vibecoding slack](https://news.ycombinator.com/item?id=47110188)
 
 

@@ -952,6 +952,8 @@ it is advised to work with non-indexed terms and to use separate proofs of typin
 
 [proof assistants in the age of AI](https://leodemoura.github.io/blog/2026/02/18/proof-assistants-in-the-age-of-ai.html)
 
+[Type has Prop as a subobject classifier](https://bsky.app/profile/boarders.bsky.social/post/3mfdorts6ak2m)
+
 
 
 

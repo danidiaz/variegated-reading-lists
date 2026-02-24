@@ -103,7 +103,7 @@
 
 [DEFERRED, IMMEDIATE, and EXCLUSIVE](https://dba.stackexchange.com/questions/258003/what-standard-sql-isolation-levels-do-the-sqlite-isolation-levels-correspond-to)
 
-
+[lobste.rs migrates from MariaDB to SQLite ](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite)
 
 
 

@@ -1641,4 +1641,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [commands vs. skills in Claude](https://bsky.app/profile/ed3d.net/post/3mfn7sy2tjs2n)
 
+[cli and tmux](https://bsky.app/profile/v21.bsky.social/post/3mfondnxclc2s). [tweet](https://bsky.app/profile/grimalkina.bsky.social/post/3mfon2azxvs2w).
+
 

@@ -1128,4 +1128,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [fun with algebraic effects in ocaml](https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/)
 
+[Some silly Z3 scripts](https://news.ycombinator.com/item?id=47125044). [introduction to Z3](https://www.cs.toronto.edu/~victorn/tutorials/z3/SMT.html). [Solving SAT and SMT Problems Using Z3](https://www.cs.umd.edu/class/fall2025/cmsc433/Solving_SAT_and_SMT_Problems_Using_Z3.html). [Modern SAT solvers: fast, neat and underused](https://news.ycombinator.com/item?id=21095766).
+
+[against query-based compilers](https://lobste.rs/s/yhv8lq/against_query_based_compilers)
+
 

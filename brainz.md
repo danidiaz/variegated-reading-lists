@@ -1643,4 +1643,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [cli and tmux](https://bsky.app/profile/v21.bsky.social/post/3mfondnxclc2s). [tweet](https://bsky.app/profile/grimalkina.bsky.social/post/3mfon2azxvs2w).
 
+[Reducing Friction in AI-Assisted Development](https://martinfowler.com/articles/reduce-friction-ai/). [Knowledge Priming](https://www.martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html). [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/). [hn](https://news.ycombinator.com/item?id=47149151). [Making MCP cheaper via CLI](https://news.ycombinator.com/item?id=47157398)
+
+> Then a brick hits you in the face when it dawns on you that all of our tools are dumping crazy amounts of non-relevant context into stdout thereby polluting your context windows.
+
+[Nano Banana 2](https://news.ycombinator.com/item?id=47167858)
+
 

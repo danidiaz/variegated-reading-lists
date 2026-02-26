@@ -938,8 +938,4 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [The Missing Semester of Your CS Education – Revised for 2026](https://news.ycombinator.com/item?id=47124171)
 
-[Reducing Friction in AI-Assisted Development](https://martinfowler.com/articles/reduce-friction-ai/). [Knowledge Priming](https://www.martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html). [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/). [hn](https://news.ycombinator.com/item?id=47149151). 
-
-> Then a brick hits you in the face when it dawns on you that all of our tools are dumping crazy amounts of non-relevant context into stdout thereby polluting your context windows.
-
 

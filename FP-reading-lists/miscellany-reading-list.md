@@ -1132,4 +1132,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [against query-based compilers](https://lobste.rs/s/yhv8lq/against_query_based_compilers)
 
+[Applicative-wired monad pattern](https://discourse.haskell.org/t/applicative-wired-monad-pattern/12779).
+
+[causality](https://bsky.app/profile/p-hunermund.com/post/3mfebqrijlc2h)
+
 

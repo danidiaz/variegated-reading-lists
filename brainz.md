@@ -1439,7 +1439,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [AI is forcing us to write good code](https://news.ycombinator.com/item?id=46424200)
 
-[memory is poison](https://bsky.app/profile/theophite.bsky.social/post/3mbcumcgctc2m)
+[memory is poison](https://bsky.app/profile/theophite.bsky.social/post/3mbcumcgctc2m). [more on memory](https://bsky.app/profile/timkellogg.me/post/3mfzbheyc4k2p).
 
 [Adjacent Possible](https://bsky.app/profile/gracekind.net/post/3mbmelyjink2q)
 

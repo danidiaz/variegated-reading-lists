@@ -1653,4 +1653,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Evaluating AGENTS.md: are they helpful for coding agents?](https://arxiv.org/abs/2602.11988). [hn](https://news.ycombinator.com/item?id=47034087).
 
+[I'm using claude --worktree for everything now](https://www.youtube.com/watch?v=yv8VZpov8bk)
+
 

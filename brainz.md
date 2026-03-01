@@ -1653,6 +1653,12 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Evaluating AGENTS.md: are they helpful for coding agents?](https://arxiv.org/abs/2602.11988). [hn](https://news.ycombinator.com/item?id=47034087).
 
-[I'm using claude --worktree for everything now](https://www.youtube.com/watch?v=yv8VZpov8bk)
+[I'm using claude --worktree for everything now](https://www.youtube.com/watch?v=yv8VZpov8bk). [worktree tips](https://www.reddit.com/r/ClaudeAI/comments/1rae05r/5_claude_code_worktree_tips_from_creator_of/)
+
+> [6:40] subagents now can use worktrees on their own now?
+
+> Migrate ... to ... . Batch up the changes and launch 10 parallel agents with worktree isolation. Make sure each agent tests its changes end to end, then have it put a PR.
+
+
 
 

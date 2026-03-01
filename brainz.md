@@ -1651,4 +1651,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [costs](https://bsky.app/profile/regimecpa.bsky.social/post/3mfx7swr5uc2v)
 
+[Evaluating AGENTS.md: are they helpful for coding agents?](https://arxiv.org/abs/2602.11988). [hn](https://news.ycombinator.com/item?id=47034087).
+
 

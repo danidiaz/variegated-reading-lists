@@ -495,5 +495,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [Making Haskell Talk to PostgreSQL Without Suffering](https://www.iankduncan.com/engineering/2026-02-20-haskell-postgresql-without-suffering). [reddit](https://www.reddit.com/r/haskell/s/1xRt3M26yA).
 
+[we have pgvector at home](https://bsky.app/profile/theconsensus.bsky.social/post/3mfyz3zqskc2a)
+
 
 

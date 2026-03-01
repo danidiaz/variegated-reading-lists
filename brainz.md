@@ -1659,6 +1659,14 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 > Migrate ... to ... . Batch up the changes and launch 10 parallel agents with worktree isolation. Make sure each agent tests its changes end to end, then have it put a PR.
 
+[Anthropic academy](https://www.reddit.com/r/ClaudeAI/comments/1rh92yp/anthropic_has_opened_up_its_entire_educational/)
+
+[How to actually force Claude Code to use the right CLI (without CLAUDE.md)](https://www.youtube.com/watch?v=3CSi8QAoN-s).
+
+> negative instructions are bad [?]
+
+> the solution involves the PreToolUse hook.
+
 
 
 

@@ -1669,6 +1669,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Mitchell Hashimoto’s new way of writing code](https://www.youtube.com/watch?v=WjckELpzLOU)
 
-
+[for learning](https://bsky.app/profile/steveklabnik.com/post/3mfz4l6ej5s2m)
 
 

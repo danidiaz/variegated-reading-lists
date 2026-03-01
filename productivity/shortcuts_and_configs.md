@@ -938,4 +938,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [The Missing Semester of Your CS Education – Revised for 2026](https://news.ycombinator.com/item?id=47124171)
 
+[[r/libreoffice] ODF is just the first of the advantages of LibreOffice](https://www.reddit.com/r/libreoffice/comments/1rg7vna/odf_is_just_the_first_of_the_advantages_of/)
+
 

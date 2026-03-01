@@ -1649,4 +1649,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Nano Banana 2](https://news.ycombinator.com/item?id=47167858)
 
+[costs](https://bsky.app/profile/regimecpa.bsky.social/post/3mfx7swr5uc2v)
+
 

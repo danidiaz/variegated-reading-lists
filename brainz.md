@@ -1625,7 +1625,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [generalist intro to CC](https://bsky.app/profile/benansell.bsky.social/post/3mf7gzf5jrc2l)
 
-[microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
+[microgpt](http://karpathy.github.io/2026/02/12/microgpt/). [hn](https://news.ycombinator.com/item?id=47202708)
 
 [It's an Exoskeleton.](https://www.kasava.dev/blog/ai-as-exoskeleton)
 

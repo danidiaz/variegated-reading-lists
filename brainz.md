@@ -1667,6 +1667,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 > the solution involves the PreToolUse hook.
 
+[Mitchell Hashimoto’s new way of writing code](https://www.youtube.com/watch?v=WjckELpzLOU)
+
 
 
 

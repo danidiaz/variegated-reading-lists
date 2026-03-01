@@ -954,6 +954,7 @@ it is advised to work with non-indexed terms and to use separate proofs of typin
 
 [Type has Prop as a subobject classifier](https://bsky.app/profile/boarders.bsky.social/post/3mfdorts6ak2m)
 
+[having surface syntax for hypothetical judgments is objectively better than only allowing closed definitions and using function types to indirectly construct hypothetical judgments](https://hachyderm.io/@trebor@types.pl/116155506341365379)
 
 
 

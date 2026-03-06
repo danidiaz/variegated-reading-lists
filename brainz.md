@@ -1675,4 +1675,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Agentic Engineering Patterns](https://news.ycombinator.com/item?id=47243272).
 
+[mocking something up quickly](https://bsky.app/profile/spavel.bsky.social/post/3mgfq2molsc23)
+
 

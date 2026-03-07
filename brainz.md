@@ -1643,7 +1643,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [cli and tmux](https://bsky.app/profile/v21.bsky.social/post/3mfondnxclc2s). [tweet](https://bsky.app/profile/grimalkina.bsky.social/post/3mfon2azxvs2w).
 
-[Reducing Friction in AI-Assisted Development](https://martinfowler.com/articles/reduce-friction-ai/). [Knowledge Priming](https://www.martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html). [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/). [hn](https://news.ycombinator.com/item?id=47149151). [Making MCP cheaper via CLI](https://news.ycombinator.com/item?id=47157398). [Your codebase is NOT ready for AI](https://www.youtube.com/watch?v=uC44zFz7JSM). [Stop Burning Your Context Window](https://news.ycombinator.com/item?id=47193064). [method actor](https://bsky.app/profile/tznkai.bsky.social/post/3mgafostxic2c).
+[Reducing Friction in AI-Assisted Development](https://martinfowler.com/articles/reduce-friction-ai/). [Knowledge Priming](https://www.martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html). [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/). [hn](https://news.ycombinator.com/item?id=47149151). [Making MCP cheaper via CLI](https://news.ycombinator.com/item?id=47157398). [Your codebase is NOT ready for AI](https://www.youtube.com/watch?v=uC44zFz7JSM). [Stop Burning Your Context Window](https://news.ycombinator.com/item?id=47193064). [method actor](https://bsky.app/profile/tznkai.bsky.social/post/3mgafostxic2c). [Intelligence is a commodity. Context is the real AI Moat](https://news.ycombinator.com/item?id=47205009).
 
 > Then a brick hits you in the face when it dawns on you that all of our tools are dumping crazy amounts of non-relevant context into stdout thereby polluting your context windows.
 
@@ -1676,5 +1676,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 [Agentic Engineering Patterns](https://news.ycombinator.com/item?id=47243272).
 
 [mocking something up quickly](https://bsky.app/profile/spavel.bsky.social/post/3mgfq2molsc23)
+
+[gh command vs. GitHub MCP](https://www.reddit.com/r/ClaudeCode/comments/1r53lqr/is_github_mcp_useful_or_is_it_better_to_just_use/)
 
 

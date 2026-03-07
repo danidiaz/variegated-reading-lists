@@ -1679,4 +1679,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [gh command vs. GitHub MCP](https://www.reddit.com/r/ClaudeCode/comments/1r53lqr/is_github_mcp_useful_or_is_it_better_to_just_use/)
 
+[steering it intentionally, accidental complexity](https://bsky.app/profile/danabra.mov/post/3mggtjecjec2d). [acceptance criteria](https://news.ycombinator.com/item?id=47283337)
+
 

@@ -207,4 +207,6 @@
 
 [Goodbye InnerHTML, Hello SetHTML](https://news.ycombinator.com/item?id=47136611)
 
+[Perfect types with `setHTML()`](https://frederikbraun.de/perfect-types-with-sethtml.html)
+
 

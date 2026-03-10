@@ -1136,4 +1136,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [causality](https://bsky.app/profile/p-hunermund.com/post/3mfebqrijlc2h)
 
+[Pushing and Pulling: Three Reactivity Algorithms](https://lobste.rs/s/2zk3oe/pushing_pulling_three_reactivity)
+
 

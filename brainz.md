@@ -1679,6 +1679,15 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [gh command vs. GitHub MCP](https://www.reddit.com/r/ClaudeCode/comments/1r53lqr/is_github_mcp_useful_or_is_it_better_to_just_use/)
 
-[steering it intentionally, accidental complexity](https://bsky.app/profile/danabra.mov/post/3mggtjecjec2d). [acceptance criteria](https://news.ycombinator.com/item?id=47283337)
+[steering it intentionally, accidental complexity](https://bsky.app/profile/danabra.mov/post/3mggtjecjec2d). [acceptance criteria](https://news.ycombinator.com/item?id=47283337). [How to Create Production-Ready Code with Claude Code](https://towardsdatascience.com/how-to-create-production-ready-code-with-claude-code/)
+
+[LLM Writing Tropes.md](https://news.ycombinator.com/item?id=47291513)
+
+[Claude n Haskell](https://www.reddit.com/r/haskell/comments/1rq5elw/teaching_claude_to_be_lazy/)
+
+> Claude Code works really well with tightly scoped issues, lots of tests and
+> examples, and good safety guardrails. I asked it to make cabal faster, and
+> taught it how to run cabal with debug logs, timings, and then to build a
+> profiled version of it. Then it looped for a bit
 
 

@@ -1567,4 +1567,16 @@ nix-repl> :lf flake:nixpkgs
 
 > Naively, maybe we can keep a cache that records that attribute A of file X evaluates to derivation D (or whatever metadata we want to cache).
 
+[Nix is a lie, and that's ok](https://fzakaria.com/2026/03/07/nix-is-a-lie-and-that-s-ok)
+
+> Well, if we modified every derivation to include the correct libGL.so it would cause massive rebuilds for every user and make the NixOS cache effectively useless.
+
+> To solve this, NixOS & Home Manager introduce an intentional impurity, a global path at /run/opengl-driver/lib where derivations expect to find libGL.so.
+
+> We’ve just re-introduced a convention path à la FHS. 🫠
+
+> Unfortunately, that leaves users who use Nix on other Linux distributions in a bad state which is documented in issue#9415, that has been opened since 2015.
+
+> nixGL, a runtime script that injects the library via $LD_LIBRARY_PATH
+
 

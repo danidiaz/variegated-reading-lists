@@ -1690,4 +1690,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 > taught it how to run cabal with debug logs, timings, and then to build a
 > profiled version of it. Then it looped for a bit
 
+[making Claude write the tests](https://news.ycombinator.com/item?id=47327559)
+
 

@@ -1692,4 +1692,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [making Claude write the tests](https://news.ycombinator.com/item?id=47327559)
 
+[AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/). [lobsters](https://lobste.rs/s/tiktds/ai_should_help_us_produce_better_code). [red-green tdd](https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/).
+
+
+
 

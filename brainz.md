@@ -1716,5 +1716,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [microGPT](https://bsky.app/profile/artjomshl.bsky.social/post/3mftwuosox226). [microGPT visualized](https://bsky.app/profile/jtauber.com/post/3mfxw3j6io22s)
 
+[securing mcp](https://blog.ogwilliam.com/post/secure-model-context-protocol-mcp-guide.html). [more](https://towardsdatascience.com/the-mcp-security-survival-guide-best-practices-pitfalls-and-real-world-lessons/).
+
+[1M context](https://news.ycombinator.com/item?id=47367129)
+
+[agentic engineering video](https://simonwillison.net/2026/Mar/14/pragmatic-summit/)
 
 

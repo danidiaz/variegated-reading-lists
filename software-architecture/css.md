@@ -876,5 +876,7 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [smart layouts](https://bsky.app/profile/fridayfrontend.com/post/3mgg2ettwq52q)
 
+[Is Sass Dead Yet? CSS Mixins and Functions](https://www.youtube.com/watch?v=IIvqkkfmPYE)
+
 
 

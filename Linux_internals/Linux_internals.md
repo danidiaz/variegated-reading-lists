@@ -265,6 +265,8 @@
 
 [Linux 7.0 Aims To Replace More Caching Code With Sheaves For "Hopefully" Improved Performance](https://www.phoronix.com/news/Linux-7.0-Replace-Slabs-Sheaves)
 
+[hot to allocate memory](https://geocar.sdf1.org/alloc.html)
+
 
 
 

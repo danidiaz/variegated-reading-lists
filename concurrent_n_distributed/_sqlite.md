@@ -105,5 +105,5 @@
 
 [lobste.rs migrates from MariaDB to SQLite ](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite)
 
-
+[SQLite is not a single connection database](https://news.ycombinator.com/item?id=42095012). [SQLite User Forum: Will sqlite serialise queries from multiple threads?](https://sqlite.org/forum/info/d6a1432453feffde09db4f59f14f5c37ab69ac2fa2dbe623b8e0f2f8a1383666). 
 

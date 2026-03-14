@@ -862,4 +862,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [Ephemeral Infrastructure: Why Short-Lived Is a Good Thing](https://lukasniessen.medium.com/ephemeral-infrastructure-why-short-lived-is-a-good-thing-2cf26afd75ef). [ABC: Always Be Cycling](https://news.ycombinator.com/item?id=46095602).
 
+[AWS in 2025: The Stuff You Think You Know That's Now Wrong](https://www.reddit.com/r/programming/s/4bUCDRvDWG)
+
 

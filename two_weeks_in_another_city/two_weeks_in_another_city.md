@@ -982,4 +982,7 @@ Bernini, his life and his Rome
 
 [My 1981 adventure game is now a multimedia extravaganza](https://news.ycombinator.com/item?id=47041294)
 
+[Making Video Games in 2025 (without an engine)](https://news.ycombinator.com/item?id=47176576)
+
+
 

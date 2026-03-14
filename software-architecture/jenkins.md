@@ -147,4 +147,13 @@
 
 [No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator](https://lobste.rs/s/5mzzfq/no_really_bash_is_not_enough_why_large)
 
+[The purpose of Continuous Integration is to fail](https://news.ycombinator.com/item?id=47311634)
+
+[Document poisoning in RAG systems](https://news.ycombinator.com/item?id=47350407)
+
+[Reliable Software in the LLM Era](https://news.ycombinator.com/item?id=47347901)
+
+
+
+
 

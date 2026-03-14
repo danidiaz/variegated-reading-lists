@@ -497,5 +497,7 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 [we have pgvector at home](https://bsky.app/profile/theconsensus.bsky.social/post/3mfyz3zqskc2a)
 
+[better JIT for postgres](https://news.ycombinator.com/item?id=47243804)
+
 
 

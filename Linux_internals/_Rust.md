@@ -216,5 +216,12 @@
 
 [the cost of a closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y-followup)
 
+[cost of indirection in Rust](https://news.ycombinator.com/item?id=47312226). [Functional Valhalla?](https://bokesan.blogspot.com/2026/03/functional-valhalla.html).
+
+[Parametricity, or Comptime is Bonkers](https://lobste.rs/s/l3rkdl/parametricity_comptime_is_bonkers)
+
+[vision for the future](https://news.ycombinator.com/item?id=47256376)
+
+
 
 

@@ -515,4 +515,9 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [java memory leaks](https://www.youtube.com/watch?v=-0vkHxlGlOU)
 
+[How to emulate LEFT JOIN FETCH using Record-based projections](https://www.reddit.com/r/java/s/jsby3nzBPt)
+
+[ Data Oriented Programming, Beyond Records](https://www.reddit.com/r/java/s/cFLmCzW727)
+
+
 

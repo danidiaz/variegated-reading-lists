@@ -437,4 +437,11 @@ https://news.ycombinator.com/item?id=18740246 Turning GraphQL diagrams to mock b
 
 [integration tests are best tests](https://jayconrod.com/posts/133/integration-tests-are-best-tests)
 
+[human-in-the-loop](https://www.reddit.com/r/Playwright/s/HKryKXpqof)
+
+[Playwright Test Automation with AI](https://www.reddit.com/r/softwaretesting/s/NIuM0pKT4E)
+
+[synthetic monitoring engine](https://bsky.app/profile/chrisshort.net/post/3mfrmotoeit2w)
+
+
 

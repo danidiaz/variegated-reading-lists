@@ -1138,4 +1138,23 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Pushing and Pulling: Three Reactivity Algorithms](https://lobste.rs/s/2zk3oe/pushing_pulling_three_reactivity)
 
+[What canceled my Go context?](https://news.ycombinator.com/item?id=47244882)
+
+[Anki SRS Algorithm : Spaced repetition explained with code](https://news.ycombinator.com/item?id=34152100). [FSRS: A modern, efficient spaced repetition algorithm](https://news.ycombinator.com/item?id=39002138). [more](https://news.ycombinator.com/item?id=40013143). [Spaced repetition systems have gotten better](https://news.ycombinator.com/item?id=44020591).
+
+[Against Query Based Compilers](https://matklad.github.io/2026/02/25/against-query-based-compilers.html). [Zig Language Server And Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html).
+
+[some silly Z3 scripts](https://news.ycombinator.com/item?id=47125044). [sbv: SMT Based Verification: Symbolic Haskell theorem prover using SMT solving.](https://hackage.haskell.org/package/sbv)
+
+[Stop Putting Secrets in .env Files](https://lobste.rs/s/eai9st/stop_putting_secrets_env_files)
+
+[devirtualization and static polymorphism](https://www.reddit.com/r/programming/s/jMWArMv0yb)
+
+
+
+
+
+
+
+
 

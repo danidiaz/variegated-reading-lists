@@ -874,5 +874,7 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [Element-Scoped View Transitions](https://bsky.app/profile/bram.us/post/3mf4x7sxyc226)
 
+[smart layouts](https://bsky.app/profile/fridayfrontend.com/post/3mgg2ettwq52q)
+
 
 

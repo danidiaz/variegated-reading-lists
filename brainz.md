@@ -1643,7 +1643,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [cli and tmux](https://bsky.app/profile/v21.bsky.social/post/3mfondnxclc2s). [tweet](https://bsky.app/profile/grimalkina.bsky.social/post/3mfon2azxvs2w).
 
-[Reducing Friction in AI-Assisted Development](https://martinfowler.com/articles/reduce-friction-ai/). [Knowledge Priming](https://www.martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html). [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/). [hn](https://news.ycombinator.com/item?id=47149151). [Making MCP cheaper via CLI](https://news.ycombinator.com/item?id=47157398). [Your codebase is NOT ready for AI](https://www.youtube.com/watch?v=uC44zFz7JSM). [Stop Burning Your Context Window](https://news.ycombinator.com/item?id=47193064). [method actor](https://bsky.app/profile/tznkai.bsky.social/post/3mgafostxic2c). [Intelligence is a commodity. Context is the real AI Moat](https://news.ycombinator.com/item?id=47205009).
+[Reducing Friction in AI-Assisted Development](https://martinfowler.com/articles/reduce-friction-ai/). [Knowledge Priming](https://www.martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html). [LLM=True](https://blog.codemine.be/posts/2026/20260222-be-quiet/). [hn](https://news.ycombinator.com/item?id=47149151). [Making MCP cheaper via CLI](https://news.ycombinator.com/item?id=47157398). [Your codebase is NOT ready for AI](https://www.youtube.com/watch?v=uC44zFz7JSM). [Stop Burning Your Context Window](https://news.ycombinator.com/item?id=47193064). [method actor](https://bsky.app/profile/tznkai.bsky.social/post/3mgafostxic2c). [Intelligence is a commodity. Context is the real AI Moat](https://news.ycombinator.com/item?id=47205009). [Zero-Waste Agentic RAG](https://towardsdatascience.com/zero-waste-agentic-rag-designing-caching-architectures-to-minimize-latency-and-llm-costs-at-scale/)
 
 > Then a brick hits you in the face when it dawns on you that all of our tools are dumping crazy amounts of non-relevant context into stdout thereby polluting your context windows.
 
@@ -1683,7 +1683,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [LLM Writing Tropes.md](https://news.ycombinator.com/item?id=47291513)
 
-[Claude n Haskell](https://www.reddit.com/r/haskell/comments/1rq5elw/teaching_claude_to_be_lazy/)
+[Claude n Haskell](https://www.reddit.com/r/haskell/comments/1rq5elw/teaching_claude_to_be_lazy/). [#2](https://discourse.haskell.org/t/yet-another-opinion-on-llms-hasufells-blog/13775/8?u=danidiaz). [#3](https://discourse.haskell.org/t/yet-another-opinion-on-llms-hasufells-blog/13775/11?u=danidiaz).
 
 > Claude Code works really well with tightly scoped issues, lots of tests and
 > examples, and good safety guardrails. I asked it to make cabal faster, and
@@ -1694,6 +1694,27 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/). [lobsters](https://lobste.rs/s/tiktds/ai_should_help_us_produce_better_code). [red-green tdd](https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/).
 
+[will MCP be dead soon?](https://www.reddit.com/r/ClaudeCode/s/WfwHSdfbsZ). [Browser DevTools MCP vs Playwright MCP](https://www.reddit.com/r/mcp/s/u0y0bTGGwv)
+
+[divide-and-conquer](https://bsky.app/profile/hikikomorphism.bsky.social/post/3mgvmkdnywk25). [more](https://bsky.app/profile/danabra.mov/post/3mgufcfmz522j).
+
+[ai and the command-line](https://bsky.app/profile/theregister.com/post/3mgtv2f5xdn2u). [TUIs winning again, for now](https://www.reddit.com/r/ExperiencedDevs/s/7YIXnMk7Fc). [Using tmux with Claude Code](https://hboon.com/using-tmux-with-claude-code/).
+
+[AI should help us produce better code](https://lobste.rs/s/tiktds/ai_should_help_us_produce_better_code)
+
+[Evaluating Agent Capabilities in Maintaining Codebases via CI](https://news.ycombinator.com/item?id=47295537) 
+
+[LLMs work best when the user defines their acceptance criteria first](https://news.ycombinator.com/item?id=47283337)
+
+[agents that run while I sleep](https://news.ycombinator.com/item?id=47327559)
+
+[We Might All Be AI Engineers Now](https://news.ycombinator.com/item?id=47272734)
+
+[adversarial verification and code review](https://bsky.app/profile/hikikomorphism.bsky.social/post/3mg7ej2q2ns23)
+
+[Orchestrate teams of Claude Code sessions](https://code.claude.com/docs/en/agent-teams)
+
+[microGPT](https://bsky.app/profile/artjomshl.bsky.social/post/3mftwuosox226). [microGPT visualized](https://bsky.app/profile/jtauber.com/post/3mfxw3j6io22s)
 
 
 

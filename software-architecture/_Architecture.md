@@ -1741,4 +1741,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > you either don't show those attributes to your domain experts, or you mark them somehow as "technical" and tell your experts to ignore them.
 
+[What architectural decision looked “wrong” at first but turned out to be the right call long-term?](https://www.reddit.com/r/ExperiencedDevs/s/JtEdLtVYAe)
+
+[Modular monolith contract layer, fat DTO or multiple methods?](https://www.reddit.com/r/softwarearchitecture/s/1RG1pjRlkE)
+
+
 

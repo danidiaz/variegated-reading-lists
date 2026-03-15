@@ -940,4 +940,11 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [[r/libreoffice] ODF is just the first of the advantages of LibreOffice](https://www.reddit.com/r/libreoffice/comments/1rg7vna/odf_is_just_the_first_of_the_advantages_of/)
 
+[GIMP 3.2 released](https://news.ycombinator.com/item?id=47380465)
+
+> Unfortunately, that leaves users who use Nix on other Linux distributions in a bad state which is documented in issue#9415, that has been opened since 2015.
+
+> Select a rectangle. Stroke or fill the selection.
+
+
 

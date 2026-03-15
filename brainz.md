@@ -1694,7 +1694,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/). [lobsters](https://lobste.rs/s/tiktds/ai_should_help_us_produce_better_code). [red-green tdd](https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/).
 
-[will MCP be dead soon?](https://www.reddit.com/r/ClaudeCode/s/WfwHSdfbsZ). [Browser DevTools MCP vs Playwright MCP](https://www.reddit.com/r/mcp/s/u0y0bTGGwv)
+[will MCP be dead soon?](https://www.reddit.com/r/ClaudeCode/s/WfwHSdfbsZ). [Browser DevTools MCP vs Playwright MCP](https://www.reddit.com/r/mcp/s/u0y0bTGGwv). [don't simplity mimic your API](https://bsky.app/profile/jeremymorrell.dev/post/3mh33ct7g6c24).
 
 [divide-and-conquer](https://bsky.app/profile/hikikomorphism.bsky.social/post/3mgvmkdnywk25). [more](https://bsky.app/profile/danabra.mov/post/3mgufcfmz522j).
 
@@ -1721,5 +1721,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 [1M context](https://news.ycombinator.com/item?id=47367129)
 
 [agentic engineering video](https://simonwillison.net/2026/Mar/14/pragmatic-summit/)
+
+[Software Bonkers](https://craigmod.com/essays/software_bonkers/)
 
 

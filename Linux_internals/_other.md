@@ -59,4 +59,6 @@
 
 [Pointer Tagging in C++: The Art of Packing Bits into a Pointer](https://news.ycombinator.com/item?id=45328335)
 
+[How kernel anti-cheats work](https://news.ycombinator.com/item?id=47382791)
+
 

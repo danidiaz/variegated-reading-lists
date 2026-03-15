@@ -190,4 +190,6 @@
 
 [Tailscale Peer Relays](https://tailscale.com/blog/peer-relays-ga)
 
+[A most elegant TCP hole punching algorithm](https://news.ycombinator.com/item?id=47384032)
+
 

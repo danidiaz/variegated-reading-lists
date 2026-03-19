@@ -372,4 +372,6 @@
 
 [xp comeback?](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3mfjqcale2c2f)
 
+[Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
+
 

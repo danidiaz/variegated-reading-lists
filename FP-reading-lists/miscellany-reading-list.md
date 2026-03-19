@@ -1150,11 +1150,12 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [devirtualization and static polymorphism](https://www.reddit.com/r/programming/s/jMWArMv0yb)
 
+[Beyond Hypermodern: Python is easy now](https://rdrn.me/postmodern-python/)
 
+[Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989#abstract)
 
+[How to implement the Outbox pattern in Go and Postgres](https://www.reddit.com/r/softwarearchitecture/s/YvfLgMCbx1)
 
-
-
-
+[Have a fucking website](https://news.ycombinator.com/item?id=47421442). [don't sweat the Cloudflare](https://hachyderm.io/@jonmsterling@mathstodon.xyz/116240555250337482).
 
 

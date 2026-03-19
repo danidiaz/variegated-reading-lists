@@ -1745,5 +1745,10 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Modular monolith contract layer, fat DTO or multiple methods?](https://www.reddit.com/r/softwarearchitecture/s/1RG1pjRlkE)
 
+[I tried building my startup entirely on European infrastructure](https://news.ycombinator.com/item?id=47085483)
+
+[Separating the Wayland Compositor and Window Manager](https://lobste.rs/s/pk2axu/separating_wayland_compositor_window)
+
+
 
 

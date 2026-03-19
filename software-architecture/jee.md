@@ -519,5 +519,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [ Data Oriented Programming, Beyond Records](https://www.reddit.com/r/java/s/cFLmCzW727)
 
+[Java 26 is here](https://news.ycombinator.com/item?id=47416548)
 
 

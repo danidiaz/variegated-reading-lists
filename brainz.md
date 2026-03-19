@@ -1716,12 +1716,18 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [microGPT](https://bsky.app/profile/artjomshl.bsky.social/post/3mftwuosox226). [microGPT visualized](https://bsky.app/profile/jtauber.com/post/3mfxw3j6io22s)
 
-[securing mcp](https://blog.ogwilliam.com/post/secure-model-context-protocol-mcp-guide.html). [more](https://towardsdatascience.com/the-mcp-security-survival-guide-best-practices-pitfalls-and-real-world-lessons/). [on security](https://bsky.app/profile/den.dev/post/3mh25idubis27)
+[securing mcp](https://blog.ogwilliam.com/post/secure-model-context-protocol-mcp-guide.html). [more](https://towardsdatascience.com/the-mcp-security-survival-guide-best-practices-pitfalls-and-real-world-lessons/). [on security](https://bsky.app/profile/den.dev/post/3mh25idubis27). [mcp](https://news.ycombinator.com/item?id=47400261)
 
 [1M context](https://news.ycombinator.com/item?id=47367129)
 
 [agentic engineering video](https://simonwillison.net/2026/Mar/14/pragmatic-summit/)
 
 [Software Bonkers](https://craigmod.com/essays/software_bonkers/)
+
+[A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code). [post](https://bsky.app/profile/fullmoon.id/post/3mhb5v3scgk2g). [hn](https://news.ycombinator.com/item?id=47434047)
+
+[The fastest way to feed ghc type errors to LLM](https://discourse.haskell.org/t/the-fastest-way-to-feed-ghc-type-errors-to-llm/13827)
+
+[how coding agents work under the hood](https://bsky.app/profile/simonwillison.net/post/3mh6myiuavc2e)
 
 

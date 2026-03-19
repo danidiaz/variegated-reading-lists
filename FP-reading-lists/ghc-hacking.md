@@ -634,4 +634,6 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [ CPS can work well when every continuation is statically known and inline. But: If any CPS remains at runtime, the overheads are eye-watering](https://www.reddit.com/r/haskell/comments/1raoz6m/comment/o6ml33l/)
 
+[backtraces issue](https://github.com/haskell/core-libraries-committee/issues/383)
+
 

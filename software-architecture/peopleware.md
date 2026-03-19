@@ -372,6 +372,8 @@
 
 [xp comeback?](https://bsky.app/profile/gergely.pragmaticengineer.com/post/3mfjqcale2c2f)
 
-[Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
+[Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316). [killing human code review](https://bsky.app/profile/davidcrespo.bsky.social/post/3mg6w6hyhyk2h).
+
+
 
 

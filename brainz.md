@@ -1730,4 +1730,9 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [how coding agents work under the hood](https://bsky.app/profile/simonwillison.net/post/3mh6myiuavc2e)
 
+[cc - plugins refrence](https://code.claude.com/docs/en/plugins-reference). [cc - Create and distribute a plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces). [code intelligence](https://code.claude.com/docs/en/discover-plugins#code-intelligence)
+
+
+
+
 

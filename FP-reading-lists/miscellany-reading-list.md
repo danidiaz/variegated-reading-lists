@@ -1158,4 +1158,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Have a fucking website](https://news.ycombinator.com/item?id=47421442). [don't sweat the Cloudflare](https://hachyderm.io/@jonmsterling@mathstodon.xyz/116240555250337482).
 
+[monuses and heaps](https://doisinkidney.com/posts/2026-03-03-monus-heaps.html)
+
 

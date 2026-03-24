@@ -1732,6 +1732,22 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [cc - plugins refrence](https://code.claude.com/docs/en/plugins-reference). [cc - Create and distribute a plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces). [code intelligence](https://code.claude.com/docs/en/discover-plugins#code-intelligence)
 
+[bundled skills](https://code.claude.com/docs/en/skills#bundled-skills)
+
+> Bundled skills ship with Claude Code and are available in every session. Unlike built-in commands, which execute fixed logic directly, bundled skills are prompt-based: they give Claude a detailed playbook and let it orchestrate the work using its tools. This means bundled skills can spawn parallel agents, read files, and adapt to your codebase.
+
+[cc built-in commands](https://code.claude.com/docs/en/commands). [vim mode](https://code.claude.com/docs/en/interactive-mode#vim-editor-mode). [background mode](https://code.claude.com/docs/en/interactive-mode#how-backgrounding-works). [Code Review](https://code.claude.com/docs/en/code-review).
+
+> /vim
+> /branch /fork
+> /rewind
+> /copy
+> /hooks
+> /voice
+> 
+
+[yet another 'how I use cc'](https://news.ycombinator.com/item?id=47494890). [cc cheat sheet](https://news.ycombinator.com/item?id=47495527).
+
 
 
 

@@ -1748,7 +1748,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [yet another 'how I use cc'](https://news.ycombinator.com/item?id=47494890). [cc cheat sheet](https://news.ycombinator.com/item?id=47495527).
 
-
+[Bootstrapping XML schema definitions with Claude Opus 4.6](https://discourse.haskell.org/t/bootstrapping-xml-schema-definitions-with-claude-opus-4-6-a-case-study-the-good-the-bad-and-the-ugly/13853).
 
 
 

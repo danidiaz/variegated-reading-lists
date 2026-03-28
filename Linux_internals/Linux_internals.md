@@ -267,7 +267,7 @@
 
 [hot to allocate memory](https://geocar.sdf1.org/alloc.html)
 
-
+[curl > dev/sda](https://lobste.rs/s/brcq3a/curl_dev_sda)
 
 
 

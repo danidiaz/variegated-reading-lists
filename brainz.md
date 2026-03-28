@@ -1748,9 +1748,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [yet another 'how I use cc'](https://news.ycombinator.com/item?id=47494890). [cc cheat sheet](https://news.ycombinator.com/item?id=47495527).
 
-[Bootstrapping XML schema definitions with Claude Opus 4.6](https://discourse.haskell.org/t/bootstrapping-xml-schema-definitions-with-claude-opus-4-6-a-case-study-the-good-the-bad-and-the-ugly/13853).
+[Bootstrapping XML schema definitions with Claude Opus 4.6](https://discourse.haskell.org/t/bootstrapping-xml-schema-definitions-with-claude-opus-4-6-a-case-study-the-good-the-bad-and-the-ugly/13853). [LLMs lie to you](https://www.youtube.com/watch?v=9VNG0h4pLh0).
 
-[agent containment](https://news.ycombinator.com/item?id=47550282)
+[cc remote control](https://code.claude.com/docs/en/remote-control). [dispatch](https://code.claude.com/docs/en/desktop?utm_source=it&utm_medium=email&utm_campaign=2026_Q1_Dispatch_Computer_Use_Launch_on_CC&utm_term=claude_code&campaignId=17409921&utm_content=inline_link#sessions-from-dispatch). [/loop](https://code.claude.com/docs/en/scheduled-tasks?utm_source=it&utm_medium=email&utm_campaign=2026_Q1_Dispatch_Computer_Use_Launch_on_CC&utm_term=claude_code&campaignId=17409921&utm_content=inline_link#sessions-from-dispatch). [agent containment](https://news.ycombinator.com/item?id=47550282)
+
 
 
 

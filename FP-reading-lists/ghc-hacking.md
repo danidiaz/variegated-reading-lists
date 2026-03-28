@@ -636,4 +636,6 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [backtraces issue](https://github.com/haskell/core-libraries-committee/issues/383)
 
+[Writing an OS in Haskell](https://www.reddit.com/r/haskell/comments/1s4a8e3/writing_an_os_in_haskell_agniv_sarkar/)
+
 

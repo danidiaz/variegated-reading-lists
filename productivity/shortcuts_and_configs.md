@@ -946,5 +946,9 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 > Select a rectangle. Stroke or fill the selection.
 
+[GIMP: Brightness, Exposure, Contrast and Levels are more or less simplified "views" of Curves.](https://www.reddit.com/r/GIMP/comments/smdd3f/levels_vs_exposure_vs_contrast/)
+
+> Exposure keeps the leftmost part of the histogram where it is (unless you play with the black point) and expands/compress the histogram to the right. This is an good approximation of increasing or decreasing the exposure time on the camera (i.e., multiply values by a constant)
+
 
 

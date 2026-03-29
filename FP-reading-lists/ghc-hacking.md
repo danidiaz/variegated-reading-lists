@@ -638,4 +638,6 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Writing an OS in Haskell](https://www.reddit.com/r/haskell/comments/1s4a8e3/writing_an_os_in_haskell_agniv_sarkar/)
 
+[scoped thread locals](https://github.com/edmundnoble/ghc-proposals/blob/push-lploylwznonz/proposals/0731-scoped-thread-locals.rst)
+
 

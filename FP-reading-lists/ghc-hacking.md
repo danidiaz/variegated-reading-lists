@@ -640,4 +640,6 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [scoped thread locals](https://github.com/edmundnoble/ghc-proposals/blob/push-lploylwznonz/proposals/0731-scoped-thread-locals.rst)
 
+[Tracking GHC performance](https://www.youtube.com/watch?v=78bzCe729Qo)
+
 

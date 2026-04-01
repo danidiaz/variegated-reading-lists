@@ -1752,6 +1752,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [cc remote control](https://code.claude.com/docs/en/remote-control). [dispatch](https://code.claude.com/docs/en/desktop?utm_source=it&utm_medium=email&utm_campaign=2026_Q1_Dispatch_Computer_Use_Launch_on_CC&utm_term=claude_code&campaignId=17409921&utm_content=inline_link#sessions-from-dispatch). [/loop](https://code.claude.com/docs/en/scheduled-tasks?utm_source=it&utm_medium=email&utm_campaign=2026_Q1_Dispatch_Computer_Use_Launch_on_CC&utm_term=claude_code&campaignId=17409921&utm_content=inline_link#sessions-from-dispatch). [agent containment](https://news.ycombinator.com/item?id=47550282)
 
-
+[ the answers are implicit in the questions](https://bsky.app/profile/gracekind.net/post/3micestq6mk2e)
 
 

@@ -950,5 +950,11 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 > Exposure keeps the leftmost part of the histogram where it is (unless you play with the black point) and expands/compress the histogram to the right. This is an good approximation of increasing or decreasing the exposure time on the camera (i.e., multiply values by a constant)
 
+[GIMP: Why could saturation values be different under HSL, HSV, and HSB for the same colour?](https://www.reddit.com/r/explainlikeimfive/comments/7e3lcf/comment/dq2aher/)
+
+> In this kind of color space, we classify a color by hue (whether it's red or blue or some other color), how strong the color is, and how light or bright it is. But while these color spaces generally agree on how to measure hue, they have different ways to quantify the other two aspects.
+
+> Here is the HSL color space. This uses hue and lightness, but also a new coordinate called “saturation”. In the HSL color space, “saturation” means how much chroma a color has, relative to a color with the same brightness and the maximum possible chroma. That way, saturation can range from zero to 100% regardless of lightness. The downside is that things get a bit weird for white and black; we can say that black or white has zero saturation or 100% saturation.
+
 
 

@@ -642,4 +642,6 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Tracking GHC performance](https://www.youtube.com/watch?v=78bzCe729Qo)
 
+[Rethinking Typed Template Haskell](https://gitlab.haskell.org/ghc/ghc/-/wikis/Rethinking-TTH)
+
 

@@ -521,4 +521,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [Java 26 is here](https://news.ycombinator.com/item?id=47416548)
 
+[graal at trivago](https://bsky.app/profile/graalvm.org/post/3miivtx55c22s)
+
 

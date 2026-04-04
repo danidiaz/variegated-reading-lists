@@ -1754,4 +1754,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [ the answers are implicit in the questions](https://bsky.app/profile/gracekind.net/post/3micestq6mk2e)
 
+[Simple self-distillation improves code generation](https://news.ycombinator.com/item?id=47637757)
+
 

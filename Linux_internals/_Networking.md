@@ -192,4 +192,6 @@
 
 [A most elegant TCP hole punching algorithm](https://news.ycombinator.com/item?id=47384032)
 
+[Using Wireshark to reverse-engineer a USB device](https://crescentro.se/posts/wireshark-usb/)
+
 

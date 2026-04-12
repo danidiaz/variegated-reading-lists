@@ -880,5 +880,8 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [Name-Only Containers: The Scoping We Needed](https://frontendmasters.com/blog/name-only-containers-the-scoping-we-needed/)
 
+[CSS scoping](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Scoping)
+
+
 
 

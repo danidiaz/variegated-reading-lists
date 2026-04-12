@@ -107,3 +107,8 @@
 
 [SQLite is not a single connection database](https://news.ycombinator.com/item?id=42095012). [SQLite User Forum: Will sqlite serialise queries from multiple threads?](https://sqlite.org/forum/info/d6a1432453feffde09db4f59f14f5c37ab69ac2fa2dbe623b8e0f2f8a1383666). 
 
+[SQLite Release 3.53.0 On 2026-04-09](https://sqlite.org/releaselog/3_53_0.html)
+
+> Enhance ALTER TABLE to permit adding and removing NOT NULL and CHECK constraints.
+
+

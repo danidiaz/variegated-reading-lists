@@ -956,5 +956,8 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 > Here is the HSL color space. This uses hue and lightness, but also a new coordinate called “saturation”. In the HSL color space, “saturation” means how much chroma a color has, relative to a color with the same brightness and the maximum possible chroma. That way, saturation can range from zero to 100% regardless of lightness. The downside is that things get a bit weird for white and black; we can say that black or white has zero saturation or 100% saturation.
 
+[How to build a git diff driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
+
+[git fixup](https://arialdomartini.github.io/git-fixup). [lobsters](https://lobste.rs/s/2urycz/git_fixup_is_magic_magit_is_too).
 
 

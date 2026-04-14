@@ -882,6 +882,6 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [CSS scoping](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Scoping)
 
-
+[CSS Container Queries let components style themselves](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Containment/Container_queries)
 
 

@@ -374,6 +374,6 @@
 
 [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316). [killing human code review](https://bsky.app/profile/davidcrespo.bsky.social/post/3mg6w6hyhyk2h).
 
-
+[Code Review Anxiety](https://bsky.app/profile/grimalkina.bsky.social/post/3mjkkynof722d)
 
 

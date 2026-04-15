@@ -1756,4 +1756,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Simple self-distillation improves code generation](https://news.ycombinator.com/item?id=47637757)
 
+[the commons](https://bsky.app/profile/cataranea.bsky.social/post/3m2uveqjxfs2j)
+
+[why open protocols](https://bsky.app/profile/werd.io/post/3mjjwnblwac23)
+
+[before the brain turns to mush](https://backofmind.substack.com/p/the-most-important-number)
+
 

@@ -612,4 +612,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [web components rant](https://news.ycombinator.com/item?id=47087213)
 
+[It is incorrect to "normalize" // in HTTP URL paths](https://news.ycombinator.com/item?id=47813454)
+
 

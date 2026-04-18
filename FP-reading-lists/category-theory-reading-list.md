@@ -1122,4 +1122,6 @@ deals with its own properties.
 
 [relative monads](https://discourse.haskell.org/t/applicative-wired-monad-pattern/12779/20?u=danidiaz)
 
+[Factoring through objects](https://muratkasimov.art/Ya/Articles/Factoring-through-objects/)
+
 

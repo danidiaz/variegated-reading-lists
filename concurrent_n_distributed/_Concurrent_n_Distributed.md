@@ -829,5 +829,7 @@ https://news.ycombinator.com/item?id=25061901
 
 [on idempotency keys](https://www.morling.dev/blog/on-idempotency-keys/). [tweet](https://x.com/kellabyte/status/1993823493746577823).
 
+[Stability Sim](https://stability-sim.systems/). [video](https://www.youtube.com/watch?v=ymud-sjJgnQ).
+
 
 

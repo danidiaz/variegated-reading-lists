@@ -269,5 +269,7 @@
 
 [curl > dev/sda](https://lobste.rs/s/brcq3a/curl_dev_sda)
 
+[Rewriting Every Syscall in a Linux Binary at Load Time](https://news.ycombinator.com/item?id=47760135)
+
 
 

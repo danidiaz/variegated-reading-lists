@@ -1762,4 +1762,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [before the brain turns to mush](https://backofmind.substack.com/p/the-most-important-number)
 
+[the technological turn](https://bsky.app/profile/fennert.bsky.social/post/3mjowhkhsxc2g)
+
+[Claude design](https://news.ycombinator.com/item?id=47806725)
+
 

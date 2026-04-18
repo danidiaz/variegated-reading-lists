@@ -1126,4 +1126,6 @@ deals with its own properties.
 
 [orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/). [more](https://news.ycombinator.com/item?id=47814391).
 
+[Lawvere theories](https://discourse.haskell.org/t/lawvere-theories/13944)
+
 

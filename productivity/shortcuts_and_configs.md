@@ -960,4 +960,6 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [git fixup](https://arialdomartini.github.io/git-fixup). [lobsters](https://lobste.rs/s/2urycz/git_fixup_is_magic_magit_is_too).
 
+[state of kdenlive](https://news.ycombinator.com/item?id=47815118)
+
 

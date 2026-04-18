@@ -864,4 +864,6 @@ terraform [data sources](https://developer.hashicorp.com/terraform/language/data
 
 [AWS in 2025: The Stuff You Think You Know That's Now Wrong](https://www.reddit.com/r/programming/s/4bUCDRvDWG)
 
+[migrating to Hetzner](https://news.ycombinator.com/item?id=47815774)
+
 

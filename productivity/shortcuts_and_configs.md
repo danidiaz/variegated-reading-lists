@@ -962,4 +962,18 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [state of kdenlive](https://news.ycombinator.com/item?id=47815118)
 
+[Storing Data in Git Objects With Notes](https://www.kenmuse.com/blog/storing-data-in-git-objects-with-notes/). [Git Notes Unraveled: History, Mechanics, and Practical Uses](https://dev.to/shrsv/git-notes-unraveled-history-mechanics-and-practical-uses-25i9). [more](https://medium.com/digitalfrontiers/git-your-stuff-together-storing-test-reports-along-your-sources-with-git-notes-f5c8068dc981). [main docs](https://git-scm.com/docs/git-notes)
+
+[deleting the entire notes ref](https://stackoverflow.com/a/18507031/1364288)
+
+```
+noty$ git notes get-ref
+refs/notes/commits
+noty$ git update-ref -d refs/notes/commits
+noty$ git notes show
+error: no note found for object 9e85df89af7920f232a8a402c4af422956cd94c0.
+noty$ git notes add -f  -m "overwrites"
+noty$ git notes show
+overwrites
+```
 

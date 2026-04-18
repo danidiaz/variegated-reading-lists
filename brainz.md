@@ -1768,4 +1768,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [generated codebases](https://www.reddit.com/r/ExperiencedDevs/comments/1sosciu/saving_challenging_projects_was_my_niche_but_ai/)
 
+> The best way I can put it is: AI-generated code is like a thousand people were assigned to a task, and for every single line, the current writer just passed the task to the next person. There is no plan, architecture or underlying logic at all. The code doesn't feel built with purpose; it feels like just a big collection of fragments that happen to be in the same place. It’s... just there, sometimes completely unused.
+
 

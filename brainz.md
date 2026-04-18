@@ -1766,4 +1766,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Claude design](https://news.ycombinator.com/item?id=47806725)
 
+[generated codebases](https://www.reddit.com/r/ExperiencedDevs/comments/1sosciu/saving_challenging_projects_was_my_niche_but_ai/)
+
 

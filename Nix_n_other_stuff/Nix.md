@@ -1583,4 +1583,8 @@ nix-repl> :lf flake:nixpkgs
 
 [npins](https://github.com/andir/npins)
 
+[Nix intro tutorial](https://www.youtube.com/watch?v=GBTTVrmqkfE)
+
+> nix edit
+
 

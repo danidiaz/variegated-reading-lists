@@ -1162,7 +1162,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [pGenie - a SQL-first code generator for PostgreSQL and Haskell (no DSLs, no ORMs)](https://www.reddit.com/r/haskell/comments/1s9dm34/announcing_pgenie_a_sqlfirst_code_generator_for/). [more](https://discourse.haskell.org/t/ann-pgenie-a-sql-first-code-generator-for-postgresql-no-dsls-no-orms-no-hand-rolled-codecs/13869).
 
-
+[The Simple Geometry Behind Any Road](https://sandboxspirit.com/blog/simple-geometry-of-roads/)
 
 
 

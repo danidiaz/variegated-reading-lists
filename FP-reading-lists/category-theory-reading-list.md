@@ -1124,4 +1124,6 @@ deals with its own properties.
 
 [Factoring through objects](https://muratkasimov.art/Ya/Articles/Factoring-through-objects/)
 
+[orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/). [more](https://news.ycombinator.com/item?id=47814391).
+
 

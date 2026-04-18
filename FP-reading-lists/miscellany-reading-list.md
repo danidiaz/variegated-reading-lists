@@ -1164,5 +1164,7 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [The Simple Geometry Behind Any Road](https://sandboxspirit.com/blog/simple-geometry-of-roads/)
 
+[dumb introduction to Z3](https://news.ycombinator.com/item?id=47760648)
+
 
 

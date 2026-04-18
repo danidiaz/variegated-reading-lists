@@ -1579,7 +1579,7 @@ nix-repl> :lf flake:nixpkgs
 
 > nixGL, a runtime script that injects the library via $LD_LIBRARY_PATH
 
-[Elevate Your Nix Config With Dendritic Pattern](https://www.youtube.com/watch?v=-TRbzkw6Hjs). [[r/NixOS] A simple Nix dendritic config](https://www.reddit.com/r/NixOS/comments/1so8ymk/a_simple_nix_dendritic_config/).
+[Elevate Your Nix Config With Dendritic Pattern](https://www.youtube.com/watch?v=-TRbzkw6Hjs). [[r/NixOS] A simple Nix dendritic config](https://www.reddit.com/r/NixOS/comments/1so8ymk/a_simple_nix_dendritic_config/). [import-tree](https://github.com/vic/import-tree).
 
 [npins](https://github.com/andir/npins)
 

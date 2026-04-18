@@ -1768,6 +1768,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [generated codebases](https://www.reddit.com/r/ExperiencedDevs/comments/1sosciu/saving_challenging_projects_was_my_niche_but_ai/)
 
+> Human-written clusterfucks and spaghetti codebases still have SOME signs of a human thought process. No matter how wrong it is, there IS a path. Until recently, I was always positive that the rabbit hole had an end. There was an immense amount of satisfaction that came from progressively discovering someone's thought process as they went down the wrong path.
+
+> AI-written codebases, though, are just completely incomprehensible to me and make no sense most of the time. They are completely unpredictable and act like a triple pendulum. It’s really hard to describe the experience of diving deep into one of these.
+
 > The best way I can put it is: AI-generated code is like a thousand people were assigned to a task, and for every single line, the current writer just passed the task to the next person. There is no plan, architecture or underlying logic at all. The code doesn't feel built with purpose; it feels like just a big collection of fragments that happen to be in the same place. It’s... just there, sometimes completely unused.
 
 

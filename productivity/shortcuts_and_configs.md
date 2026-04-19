@@ -962,7 +962,7 @@ OJO! Raycast has support for hyperkey!!! Notion also installs some global always
 
 [state of kdenlive](https://news.ycombinator.com/item?id=47815118)
 
-[Storing Data in Git Objects With Notes](https://www.kenmuse.com/blog/storing-data-in-git-objects-with-notes/). [Git Notes Unraveled: History, Mechanics, and Practical Uses](https://dev.to/shrsv/git-notes-unraveled-history-mechanics-and-practical-uses-25i9). [more](https://medium.com/digitalfrontiers/git-your-stuff-together-storing-test-reports-along-your-sources-with-git-notes-f5c8068dc981). [main docs](https://git-scm.com/docs/git-notes)
+[Storing Data in Git Objects With Notes](https://www.kenmuse.com/blog/storing-data-in-git-objects-with-notes/). [Git Notes Unraveled: History, Mechanics, and Practical Uses](https://dev.to/shrsv/git-notes-unraveled-history-mechanics-and-practical-uses-25i9). [more](https://medium.com/digitalfrontiers/git-your-stuff-together-storing-test-reports-along-your-sources-with-git-notes-f5c8068dc981). [main docs](https://git-scm.com/docs/git-notes). [How to get git notes from github API?](https://stackoverflow.com/questions/71586519/how-to-get-git-notes-from-github-api). [github API: get repository content](https://docs.github.com/en/rest/repos/contents?apiVersion=2026-03-10#get-repository-content). [parents of a commit from the API](https://docs.github.com/en/rest/commits/commits?apiVersion=2026-03-10)
 
 [deleting the entire notes ref](https://stackoverflow.com/a/18507031/1364288). Creating a note is creating a commit. You can switch to the notes ref (with a detached head)
 

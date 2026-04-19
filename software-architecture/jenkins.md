@@ -153,7 +153,7 @@
 
 [Reliable Software in the LLM Era](https://news.ycombinator.com/item?id=47347901)
 
-[Buildkite has a free plan](https://buildkite.com/pricing/)
+[Buildkite has a free plan](https://buildkite.com/pricing/). [local agents](https://aagarwal-jobs.medium.com/setup-buildkite-4d8ceb76dff0).
 
 
 

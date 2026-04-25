@@ -152,5 +152,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975)
 
+[ghci printin issue with constructors](https://gitlab.haskell.org/ghc/ghc/-/issues/21275)
+
 
 

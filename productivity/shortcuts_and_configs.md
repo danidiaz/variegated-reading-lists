@@ -977,4 +977,6 @@ noty$ git notes show
 overwrites
 ```
 
+[nickel](https://discourse.haskell.org/t/config-languages-and-dhall/13948/18)
+
 

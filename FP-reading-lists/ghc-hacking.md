@@ -644,4 +644,6 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Rethinking Typed Template Haskell](https://gitlab.haskell.org/ghc/ghc/-/wikis/Rethinking-TTH)
 
+[Botan project recap](https://discourse.haskell.org/t/botan-bindings-devlog/6855/202)
+
 

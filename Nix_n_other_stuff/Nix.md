@@ -1587,4 +1587,6 @@ nix-repl> :lf flake:nixpkgs
 
 > nix edit
 
+[Nix: A Solution With Problems](https://arxiv.org/abs/2604.11398)
+
 

@@ -376,4 +376,6 @@
 
 [Code Review Anxiety](https://bsky.app/profile/grimalkina.bsky.social/post/3mjkkynof722d)
 
+[Rise of the Forward Deployed Engineer](https://news.ycombinator.com/item?id=47951082)
+
 

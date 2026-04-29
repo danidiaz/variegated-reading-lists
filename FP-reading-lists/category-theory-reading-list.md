@@ -1128,4 +1128,6 @@ deals with its own properties.
 
 [Lawvere theories](https://discourse.haskell.org/t/lawvere-theories/13944)
 
+[profunctor things](https://bsky.app/profile/aspiwack.bsky.social/post/3mkic7p4vt22q)
+
 

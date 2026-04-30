@@ -155,7 +155,7 @@
 
 [Buildkite has a free plan](https://buildkite.com/pricing/). [local agents](https://aagarwal-jobs.medium.com/setup-buildkite-4d8ceb76dff0).
 
-
+[No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator](https://www.reddit.com/r/programming/s/9N3gl9uf6f)
 
 
 

@@ -1784,4 +1784,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 > The challenge is: when you let a session idle for >1 hour, when you come back to it and send a prompt, it will be a full cache miss, all N messages. We noticed that this corner case led to outsized token costs for users. In an extreme case, if you had 900k tokens in your context window, then idled for an hour, then sent a message, that would be >900k tokens written to cache all at once, which would eat up a significant % of your rate limits, especially for Pro users.
 
+[do not write code](https://bsky.app/profile/daniloc.xyz/post/3mcn43rvcxk26)
+
+[lack of structure in AI-generated text](https://bsky.app/profile/kaffeehaus.bsky.social/post/3mkvfqtmc422b). [more](https://bsky.app/profile/kaffeehaus.bsky.social/post/3mkx3jasnos2n).
+
 

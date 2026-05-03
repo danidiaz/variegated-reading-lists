@@ -1591,4 +1591,6 @@ nix-repl> :lf flake:nixpkgs
 
 [Wombat’s Book of Nix](https://mhwombat.codeberg.page/nix-book/)
 
+[Stamp It! All Programs Must Report Their Version](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
+
 

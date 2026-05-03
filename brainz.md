@@ -1786,6 +1786,9 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [do not write code](https://bsky.app/profile/daniloc.xyz/post/3mcn43rvcxk26)
 
+[careful](https://bsky.app/profile/phasebinary.bsky.social/post/3mkxqjdoksc2o)
+
 [lack of structure in AI-generated text](https://bsky.app/profile/kaffeehaus.bsky.social/post/3mkvfqtmc422b). [more](https://bsky.app/profile/kaffeehaus.bsky.social/post/3mkx3jasnos2n).
+
 
 

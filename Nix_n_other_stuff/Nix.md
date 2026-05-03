@@ -1589,4 +1589,6 @@ nix-repl> :lf flake:nixpkgs
 
 [Nix: A Solution With Problems](https://arxiv.org/abs/2604.11398)
 
+[Wombat’s Book of Nix](https://mhwombat.codeberg.page/nix-book/)
+
 

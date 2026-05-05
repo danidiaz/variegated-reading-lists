@@ -1086,9 +1086,7 @@ Ended up using SELECT FOR UPDATE on the waitlist row before the count check. Sim
 > Unlike SERIALIZABLE isolation, it works even in autocommit mode or *IF THE STATEMENTS ARE IN SEPARATE TRANSACTIONS*. For this reason it’s often a good choice for web applications that might have very long user “think time” pauses or where clients might just vanish mid-session, as it doesn’t need long-running transactions that can cause performance problems.
 
 
-
-
-
+[Why JOIN USING Can Lead to Errors in SQL](https://blog.jooq.org/why-join-using-can-lead-to-errors-in-sql/)
 
 
 # Podcasts

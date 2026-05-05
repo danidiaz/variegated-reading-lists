@@ -150,7 +150,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [Lazy Linearity for a Core Functional Language](https://discourse.haskell.org/t/lazy-linearity-for-a-core-functional-language-popl-2026/13328)
 
-[Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975)
+[Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975). [on hackage](https://discourse.haskell.org/t/ann-pure-borrow-0-0-0-0/14037)
 
 [ghci printin issue with constructors](https://gitlab.haskell.org/ghc/ghc/-/issues/21275)
 

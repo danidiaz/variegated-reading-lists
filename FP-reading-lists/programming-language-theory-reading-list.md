@@ -912,6 +912,6 @@ small-step operational semantics
 
 [How to choose between Hindley-Milner and bidirectional typing](https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/). [hn](https://news.ycombinator.com/item?id=47025885).
 
-
+[A bidirectional typechecking puzzle](https://lobste.rs/s/rsj8sx/bidirectional_typechecking_puzzle)
 
 

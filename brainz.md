@@ -1790,5 +1790,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [lack of structure in AI-generated text](https://bsky.app/profile/kaffeehaus.bsky.social/post/3mkvfqtmc422b). [more](https://bsky.app/profile/kaffeehaus.bsky.social/post/3mkx3jasnos2n).
 
+[vibecoding stuff](https://bsky.app/profile/jomichell.bsky.social/post/3mkzp7u3yoc2g)
+
 
 

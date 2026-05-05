@@ -1749,6 +1749,6 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Separating the Wayland Compositor and Window Manager](https://lobste.rs/s/pk2axu/separating_wayland_compositor_window)
 
-
+[The Vertical Codebase](https://tkdodo.eu/blog/the-vertical-codebase)
 
 

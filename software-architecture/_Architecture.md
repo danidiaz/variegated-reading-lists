@@ -1749,6 +1749,8 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Separating the Wayland Compositor and Window Manager](https://lobste.rs/s/pk2axu/separating_wayland_compositor_window)
 
-[The Vertical Codebase](https://tkdodo.eu/blog/the-vertical-codebase)
+[The Vertical Codebase](https://tkdodo.eu/blog/the-vertical-codebase).
+
+> In my opinion, agents need mostly the same things humans need to work efficiently: boundaries, constraints, and fast feedback loops. That includes a project structure that is easy to navigate, a good setup of lint rules and TypeScript, as well as a fast and reliable test suite. That’s why agents are so good at new codebases, but not very effective on codebases that have grown organically over years.
 
 

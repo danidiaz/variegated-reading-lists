@@ -1130,4 +1130,6 @@ deals with its own properties.
 
 [profunctor things](https://bsky.app/profile/aspiwack.bsky.social/post/3mkic7p4vt22q)
 
+[category transformers](https://discourse.haskell.org/t/category-transformers/14054/6)
+
 

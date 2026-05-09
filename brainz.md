@@ -1792,5 +1792,15 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [vibecoding stuff](https://bsky.app/profile/jomichell.bsky.social/post/3mkzp7u3yoc2g)
 
+[LLM etiquette](https://discourse.haskell.org/t/anti-llm-sentiment-considered-harmful/14008/93). [more](https://news.ycombinator.com/item?id=48072059).
+
+> On complex problems with lengthy proofs, the first step that I would have done is to ask 5.5 pro in a new, unrelated, session, to be very critical, to try to find flaws in the arguments.
+
+> And certainly not to send it to a fellow colleague to ask its opinion first.
+
+[A recent experience with ChatGPT 5.5 Pro](https://news.ycombinator.com/item?id=48071262)
+
+[workflows](https://bsky.app/profile/beijingpalmer.bsky.social/post/3mlewfs2wak25)
+
 
 

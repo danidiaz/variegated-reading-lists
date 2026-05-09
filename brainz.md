@@ -1802,5 +1802,9 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [workflows](https://bsky.app/profile/beijingpalmer.bsky.social/post/3mlewfs2wak25). [photo editing](https://bsky.app/profile/tjmzj.bsky.social/post/3mlf5nuqfes2m)
 
+[Using Claude Code: The unreasonable effectiveness of HTML](https://news.ycombinator.com/item?id=48071940). [page](https://thariqs.github.io/html-effectiveness/). [more](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/). [html tools](https://simonwillison.net/2025/Dec/10/html-tools/).
+
+[LLMs Corrupt Your Documents When You Delegate](https://news.ycombinator.com/item?id=48073246)
+
 
 

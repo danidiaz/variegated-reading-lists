@@ -1800,7 +1800,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [A recent experience with ChatGPT 5.5 Pro](https://news.ycombinator.com/item?id=48071262)
 
-[workflows](https://bsky.app/profile/beijingpalmer.bsky.social/post/3mlewfs2wak25)
+[workflows](https://bsky.app/profile/beijingpalmer.bsky.social/post/3mlewfs2wak25). [photo editing](https://bsky.app/profile/tjmzj.bsky.social/post/3mlf5nuqfes2m)
 
 
 

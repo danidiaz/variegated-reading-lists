@@ -979,4 +979,6 @@ overwrites
 
 [nickel](https://discourse.haskell.org/t/config-languages-and-dhall/13948/18)
 
+[Obsidian Git and CRLF > LF shenanigans](https://www.reddit.com/r/ObsidianMD/comments/1cian6w/obsidian_git_and_crlf_lf_shenanigans/)
+
 

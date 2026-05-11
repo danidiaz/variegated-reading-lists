@@ -1808,5 +1808,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [get gud](https://bsky.app/profile/fakegreekgrill.bsky.social/post/3mllvoi7rn22m)
 
+[drama](https://news.ycombinator.com/item?id=48095550)
+
 
 

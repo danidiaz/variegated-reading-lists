@@ -60,4 +60,6 @@
 
 [Acentuación de pronomes interrogativos](https://ciberdubidas.blogspot.com/2011/04/acentuacion-de-pronomes-interrogativos.html)
 
+[piropo](https://bsky.app/profile/ilgusc.bsky.social/post/3mllcv3tgns2s)
+
 

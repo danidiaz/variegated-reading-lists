@@ -1806,5 +1806,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [LLMs Corrupt Your Documents When You Delegate](https://news.ycombinator.com/item?id=48073246)
 
+[get gud](https://bsky.app/profile/fakegreekgrill.bsky.social/post/3mllvoi7rn22m)
+
 
 

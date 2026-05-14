@@ -1810,5 +1810,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [drama](https://news.ycombinator.com/item?id=48095550)
 
+[back to doing it by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
+
+> If your AI doesn't generate this pattern by default, the directive makes it the only legal option.
 
 

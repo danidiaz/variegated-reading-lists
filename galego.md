@@ -54,7 +54,7 @@
 
 [Logo chámote ou logo te chamo](https://consellodacultura.gal/especiais/proxector/material.php?mat=94485)
 
-[Deber + infinitivo ou Deber de + infinitivo](https://debullandoafala.blogspot.com/2018/06/deber-infinitivo-ou-deber-de-infinitivo.html)
+[Debullando a fala](https://debullandoafala.blogspot.com/). [Deber + infinitivo ou Deber de + infinitivo](https://debullandoafala.blogspot.com/2018/06/deber-infinitivo-ou-deber-de-infinitivo.html)
 
 [Non digas 'non teño medo *algún'](https://www.youtube.com/watch?v=yooMKAUyAsY)
 

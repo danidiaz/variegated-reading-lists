@@ -888,6 +888,14 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [CSS @scope and @layer: 3 Patterns That Replace Complex Methodologies](https://medium.com/@genildocs/css-scope-and-layer-3-patterns-that-replace-complex-methodologies-22273170b563)
 
+[I’ve Been a CSS Modules Fan for Years. @scope Changed That](https://medium.com/@mevbg/ive-been-a-css-modules-fan-for-years-scope-changed-that-d1f476224c07). [How does the native `@scope` rule compare with CSS modules?](https://www.reddit.com/r/css/comments/1sbl1es/how_does_the_native_scope_rule_compare_with_css/)
 
+> CSS Modules is a build-time solution. When you write a .module.css file, your build tool (Webpack, Vite, or another bundler) transforms every class name into a unique, hashed identifier. So .title in your file becomes something like .title_x5j2l in the final HTML.
+
+> CSS Modules requires a build pipeline. 
+
+> Because every class name is unique, styles cannot leak from one component to another. The scoping is guaranteed not by the browser, but by your build process.
+
+> Both allow you to write simple, readable selectors inside a defined boundary. With CSS Modules, that boundary is the file. With @scope, that boundary is a DOM subtree
 
 

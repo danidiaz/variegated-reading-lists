@@ -209,4 +209,8 @@
 
 [Perfect types with `setHTML()`](https://frederikbraun.de/perfect-types-with-sethtml.html)
 
+[setting aria label](https://bsky.app/profile/sarasoueidan.com/post/3mlvfj3c2zk2i)
+
+[requirements analysis](https://kiro.dev/blog/deep-spec-analysis/)
+
 

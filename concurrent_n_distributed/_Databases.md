@@ -1088,6 +1088,7 @@ Ended up using SELECT FOR UPDATE on the waitlist row before the count check. Sim
 
 [Why JOIN USING Can Lead to Errors in SQL](https://blog.jooq.org/why-join-using-can-lead-to-errors-in-sql/)
 
+[Quack: The DuckDB Client-Server Protocol](https://news.ycombinator.com/item?id=48111765)
 
 # Podcasts
 

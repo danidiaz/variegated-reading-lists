@@ -981,6 +981,6 @@ overwrites
 
 [Obsidian Git and CRLF > LF shenanigans](https://www.reddit.com/r/ObsidianMD/comments/1cian6w/obsidian_git_and_crlf_lf_shenanigans/). [more](https://forum.obsidian.md/t/being-able-to-select-line-endings-crlf-lf/5294/23)
 
-
+[git worktree - Is there a good reason why working trees should be created at the same directory hierarchy level as the git repo?](https://stackoverflow.com/questions/64458949/is-there-a-good-reason-why-working-trees-should-be-created-at-the-same-directory)
 
 

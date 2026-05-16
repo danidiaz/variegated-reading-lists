@@ -1814,4 +1814,25 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 > If your AI doesn't generate this pattern by default, the directive makes it the only legal option.
 
+[Hybrid Search and Re-Ranking in Production RAG](https://towardsdatascience.com/hybrid-search-and-re-ranking-in-production-rag/)
+
+[the need for taste](https://www.reddit.com/r/webdev/comments/1tddd5b/comment/olzppua/)
+
+[securing vibecoded apps](https://www.reddit.com/r/devops/comments/1td7mxp/how_are_you_securing_aigenerated_vibecoded/)
+
+[How Claude Code works in large codebases](https://news.ycombinator.com/item?id=48144494)
+
+> That being said, your remark is right and for well organised smaller repo’s there’s better tooing it can and should use. But I think it does, at least Codex does is my case so I guess Claude does it to. For example Codex use ‘go doc’ first before doing greps.
+
+> But real software quality problems often arise from many small, individually reasonable decisions that collectively produce bad outcomes. No single one is obviously "the fault." In that scenario, a tool that generates low-quality building blocks piecemeal may never converge on good code, because each piece seems fine in isolation.
+
+[terminal use](https://news.ycombinator.com/item?id=48117956)
+
+[I'm going back to writing code by hand](https://news.ycombinator.com/item?id=48090029)
+
+[Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://news.ycombinator.com/item?id=48052537)
+
+[reviewing text](https://bsky.app/profile/lizthegrey.com/post/3mlcnytoxa222). [finding sources](https://bsky.app/profile/omrimarian.bsky.social/post/3mly4ujnduc2p).
+
+
 

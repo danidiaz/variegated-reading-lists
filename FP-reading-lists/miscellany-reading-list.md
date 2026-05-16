@@ -1166,5 +1166,10 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [dumb introduction to Z3](https://news.ycombinator.com/item?id=47760648)
 
+[Rendering the Sky, Sunsets, and Planets](https://news.ycombinator.com/item?id=48107997)
+
+[Production engineering when trading billions of dollars a day [video]](https://news.ycombinator.com/item?id=48067786)
+
+[The unreasonable effectiveness of HTML](https://news.ycombinator.com/item?id=48071940)
 
 

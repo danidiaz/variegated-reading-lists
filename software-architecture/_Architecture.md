@@ -1753,4 +1753,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 > In my opinion, agents need mostly the same things humans need to work efficiently: boundaries, constraints, and fast feedback loops. That includes a project structure that is easy to navigate, a good setup of lint rules and TypeScript, as well as a fast and reliable test suite. That’s why agents are so good at new codebases, but not very effective on codebases that have grown organically over years.
 
+[Untapped Way to Learn a Codebase: Build a Visualizer](https://news.ycombinator.com/item?id=47085425)
+
+[Learning Software Architecture](https://news.ycombinator.com/item?id=48106024)
+
+
 

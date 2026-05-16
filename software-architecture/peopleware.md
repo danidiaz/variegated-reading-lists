@@ -378,4 +378,6 @@
 
 [Rise of the Forward Deployed Engineer](https://news.ycombinator.com/item?id=47951082)
 
+[problem with huge prs](https://www.reddit.com/r/ExperiencedDevs/s/hwAYghfxug)
+
 

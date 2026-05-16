@@ -886,6 +886,8 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [Moving away from Tailwind, and learning to structure my CSS](https://bsky.app/profile/b0rk.jvns.ca/post/3mlvouzh7ms2r). [a modern css reset](https://bsky.app/profile/haselkern.com/post/3mlvxtzhkf22k). [hn](https://news.ycombinator.com/item?id=48158400).
 
+[CSS @scope and @layer: 3 Patterns That Replace Complex Methodologies](https://medium.com/@genildocs/css-scope-and-layer-3-patterns-that-replace-complex-methodologies-22273170b563)
+
 
 
 

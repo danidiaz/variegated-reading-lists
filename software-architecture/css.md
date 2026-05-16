@@ -884,6 +884,8 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 [CSS Container Queries let components style themselves](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Containment/Container_queries)
 
-[Moving away from Tailwind, and learning to structure my CSS](https://bsky.app/profile/b0rk.jvns.ca/post/3mlvouzh7ms2r)
+[Moving away from Tailwind, and learning to structure my CSS](https://bsky.app/profile/b0rk.jvns.ca/post/3mlvouzh7ms2r). [a modern css reset](https://bsky.app/profile/haselkern.com/post/3mlvxtzhkf22k).
+
+
 
 

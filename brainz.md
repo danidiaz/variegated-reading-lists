@@ -1834,5 +1834,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [reviewing text](https://bsky.app/profile/lizthegrey.com/post/3mlcnytoxa222). [finding sources](https://bsky.app/profile/omrimarian.bsky.social/post/3mly4ujnduc2p).
 
+[maximalist approach](https://bsky.app/profile/ianbicking.org/post/3mm5nqzkko222)
+
 
 

@@ -1836,6 +1836,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [maximalist approach](https://bsky.app/profile/ianbicking.org/post/3mm5nqzkko222). [how to make it work](https://bsky.app/profile/vortexegg.com/post/3mm6owyih3c2h).
 
+[The last six months in LLMs in five minutes](https://news.ycombinator.com/item?id=48188183)
+
 
 
 

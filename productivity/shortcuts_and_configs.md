@@ -983,4 +983,6 @@ overwrites
 
 [git worktree - Is there a good reason why working trees should be created at the same directory hierarchy level as the git repo?](https://stackoverflow.com/questions/64458949/is-there-a-good-reason-why-working-trees-should-be-created-at-the-same-directory)
 
+[jj branch names](https://lobste.rs/s/r4xf2n/better_generated_branch_names_with_jj)
+
 

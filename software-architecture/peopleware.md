@@ -380,7 +380,7 @@
 
 [problem with huge prs](https://www.reddit.com/r/ExperiencedDevs/s/hwAYghfxug)
 
-[the generation effect](https://haskellforall.com/2026/05/type-out-the-code). [tweet](https://bsky.app/profile/fullmoon.id/post/3mm7jljh67c2d)
+[the generation effect](https://haskellforall.com/2026/05/type-out-the-code). [bsky](https://bsky.app/profile/fullmoon.id/post/3mm7jljh67c2d). [lobsters](https://lobste.rs/s/zotppg/type_out_code)
 
 
 

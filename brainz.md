@@ -1838,6 +1838,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [The last six months in LLMs in five minutes](https://news.ycombinator.com/item?id=48188183)
 
+[Remarks on the disproof of the unit distance conjecture](https://bsky.app/profile/mathco-bot.bsky.social/post/3mmdt5p4ytf2z)
+
+[slower programmer?](https://social.vivaldi.net/@RosaCtrl/116607065056817305)
+
 
 
 

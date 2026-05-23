@@ -382,5 +382,8 @@
 
 [the generation effect](https://haskellforall.com/2026/05/type-out-the-code). [bsky](https://bsky.app/profile/fullmoon.id/post/3mm7jljh67c2d). [lobsters](https://lobste.rs/s/zotppg/type_out_code)
 
+[Our docs are shit](https://deadsimpletech.com/blog/docs-shit-bad-at-teaching)
+
+
 
 

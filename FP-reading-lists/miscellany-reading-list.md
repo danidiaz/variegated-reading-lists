@@ -1172,4 +1172,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [The unreasonable effectiveness of HTML](https://news.ycombinator.com/item?id=48071940)
 
+[jujutsu tutorial](https://steveklabnik.github.io/jujutsu-tutorial/)
+
 

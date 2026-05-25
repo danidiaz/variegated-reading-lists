@@ -1842,6 +1842,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [slower programmer?](https://social.vivaldi.net/@RosaCtrl/116607065056817305)
 
+[the social contract of writing](https://bsky.app/profile/jola.dev/post/3mmoh4gc5fk2c)
+
 
 
 

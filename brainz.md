@@ -1848,6 +1848,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [classifier](https://bsky.app/profile/timkellogg.me/post/3mmuchxfgas2g)
 
+[human attention is the bottleneck](https://bsky.app/profile/fullmoon.id/post/3mmtxconfjs25)
+
 
 
 

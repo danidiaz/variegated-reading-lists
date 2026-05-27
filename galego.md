@@ -62,4 +62,6 @@
 
 [piropo](https://bsky.app/profile/ilgusc.bsky.social/post/3mllcv3tgns2s)
 
+[debruzar](https://academia.gal/dicionario/-/termo/debruzar)
+
 

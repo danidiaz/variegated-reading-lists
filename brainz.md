@@ -1850,6 +1850,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [human attention is the bottleneck](https://bsky.app/profile/fullmoon.id/post/3mmtxconfjs25)
 
+[SQLite is all you need for durable workflows](https://news.ycombinator.com/item?id=48326802)
 
+[frozen monuments of accumulated cultural knowledge](https://bsky.app/profile/himself.bsky.social/post/3mn3onf6a3k2k)
 
 

@@ -648,6 +648,8 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Exception Annotations: Lay of the Land](https://discourse.haskell.org/t/exception-annotations-lay-of-the-land/14056). Seems to me that `ExceptionWithContext` is more for catching, and `NoBacktrace` is more for throwing?
 
+[[ANN] OpenTelemetry 1.0 release](https://discourse.haskell.org/t/ann-opentelemetry-1-0-release/14168)
+
 
 
 

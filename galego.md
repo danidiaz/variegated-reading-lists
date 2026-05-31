@@ -72,4 +72,6 @@
 
 [Casos específicos del gallego y errores frecuentes](https://wikidog.xunta.gal/index.php/Casos_espec%C3%ADficos_del_gallego_y_errores_frecuentes)
 
+[verbos](https://centros.edu.xunta.gal/iesmilladoiro/aulavirtual/pluginfile.php/66977/mod_book/chapter/2584/verborodeira.pdf)
+
 

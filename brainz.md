@@ -1854,4 +1854,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [frozen monuments of accumulated cultural knowledge](https://bsky.app/profile/himself.bsky.social/post/3mn3onf6a3k2k)
 
+[Domain expertise has always been the real moat](https://news.ycombinator.com/item?id=48340411)
+
 

@@ -64,4 +64,10 @@
 
 [debruzar](https://academia.gal/dicionario/-/termo/debruzar)
 
+[eslimar](https://academia.gal/dicionario/-/termo/eslimar)
+
+[caramuxo](https://ilg.usc.gal/ddd/ddd_pescuda.php?pescuda=caramuxo&tipo_busca=lema&lang=gl), corna, bucio.
+
+
+
 

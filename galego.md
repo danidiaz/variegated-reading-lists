@@ -68,6 +68,8 @@
 
 [caramuxo](https://ilg.usc.gal/ddd/ddd_pescuda.php?pescuda=caramuxo&tipo_busca=lema&lang=gl), corna, bucio.
 
+[Glosario cos erros léxicos e fraseolóxicos máis frecuentes](https://www.usc.gal/gl/servizos/area/normalizacion-linguistica/dubidas/Glosario)
 
+[Casos específicos del gallego y errores frecuentes](https://wikidog.xunta.gal/index.php/Casos_espec%C3%ADficos_del_gallego_y_errores_frecuentes)
 
 

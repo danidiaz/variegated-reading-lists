@@ -650,6 +650,8 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [[ANN] OpenTelemetry 1.0 release](https://discourse.haskell.org/t/ann-opentelemetry-1-0-release/14168)
 
+[Serokell’s Work on GHC: Dependent Types, Part 5](https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5)
+
 
 
 

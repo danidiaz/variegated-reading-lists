@@ -985,4 +985,6 @@ overwrites
 
 [jj branch names](https://lobste.rs/s/r4xf2n/better_generated_branch_names_with_jj)
 
+[Using github.sha in cache-key prevents cache from being restored](https://github.com/flatpak/flatpak-github-actions/issues/239)
+
 

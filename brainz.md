@@ -1856,4 +1856,14 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Domain expertise has always been the real moat](https://news.ycombinator.com/item?id=48340411)
 
+[backpressure is all you need](https://news.ycombinator.com/item?id=48345090)
+
+>  build enough orchestration tooling to be able to automate everything: development container bringup, building it, running the unit tests, doing integration testing, and using the software as eventually an end user. then to iterate set performance goals on an already solid basis so the automated agent ("gym") can go and iterate autonomously, and let you know when it's "done". 
+
+> "The goal to make longer unattended sessions safe enough to be useful without fully removing the human from the loop. It should also reduce the number of low-quality PRs your teammates have to review for details the agent should have caught itself."
+
+[The Speed of Prototyping in the Age of AI](https://news.ycombinator.com/item?id=48347153)
+
+[CS336: Language Modeling from Scratch](https://news.ycombinator.com/item?id=48357075)
+
 

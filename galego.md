@@ -74,4 +74,7 @@
 
 [verbos](https://centros.edu.xunta.gal/iesmilladoiro/aulavirtual/pluginfile.php/66977/mod_book/chapter/2584/verborodeira.pdf)
 
+[curso de galego](https://centros.edu.xunta.gal/iesfontexeria/aulavirtual/course/view.php?id=118)
+
+[castelanismos](https://aschavesdalingua.gal/20-castelanismos-frecuentes-que-debes-eliminar-da-tua-fala/). [2](https://recursos.edu.xunta.gal/sites/default/files/recurso/1444815157/falo_galego/4_castelanismos.html). [3](https://gl.wiktionary.org/wiki/Ap%C3%A9ndice:Castelanismos_usuais).
 

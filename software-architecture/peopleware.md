@@ -384,6 +384,6 @@
 
 [Our docs are shit](https://deadsimpletech.com/blog/docs-shit-bad-at-teaching)
 
-
+[Stop Using Conventional Commits](https://lobste.rs/s/oqlpna/stop_using_conventional_commits)
 
 

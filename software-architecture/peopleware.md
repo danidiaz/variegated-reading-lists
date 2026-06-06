@@ -386,4 +386,6 @@
 
 [Stop Using Conventional Commits](https://lobste.rs/s/oqlpna/stop_using_conventional_commits)
 
+> In any moderately complex project, it takes multiple commits to land any notable feature.
+
 

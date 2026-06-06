@@ -987,4 +987,6 @@ overwrites
 
 [Using github.sha in cache-key prevents cache from being restored](https://github.com/flatpak/flatpak-github-actions/issues/239)
 
+GIMP tips: add alpha channel (so that transparent color remains after cutting something) and lock alpha channel (when flood-filling stuff, to avoid coloring the transparent areas).
+
 

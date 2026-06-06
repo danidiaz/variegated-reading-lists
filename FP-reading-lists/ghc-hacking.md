@@ -652,6 +652,9 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Serokell’s Work on GHC: Dependent Types, Part 5](https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5)
 
+[tricorder](https://discourse.haskell.org/t/ann-tricorder-a-new-development-tool-for-haskell-and-llms/14208)
+
+
 
 
 

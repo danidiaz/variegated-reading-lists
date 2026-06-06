@@ -1866,4 +1866,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [CS336: Language Modeling from Scratch](https://news.ycombinator.com/item?id=48357075)
 
+[QKV variants](https://news.ycombinator.com/item?id=48405931)
+
+
 

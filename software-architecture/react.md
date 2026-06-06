@@ -1155,4 +1155,6 @@ type ReactNode = ReactChild | ReactFragment | ReactPortal | boolean | null | und
 
 [every React concept in 12 minutes](https://www.youtube.com/watch?v=wIyHSOugGGw)
 
+[TanStack AI: Your MCP, your way](https://tanstack.com/blog/your-mcp-your-way)
+
 

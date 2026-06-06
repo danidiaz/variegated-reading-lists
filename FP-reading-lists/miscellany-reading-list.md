@@ -1174,4 +1174,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [jujutsu tutorial](https://steveklabnik.github.io/jujutsu-tutorial/)
 
+[Write your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
+
 

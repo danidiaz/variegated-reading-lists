@@ -1868,5 +1868,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [QKV variants](https://news.ycombinator.com/item?id=48405931)
 
+[How LLMs work](https://news.ycombinator.com/item?id=48389360)
+
 
 

@@ -78,3 +78,6 @@
 
 [castelanismos](https://aschavesdalingua.gal/20-castelanismos-frecuentes-que-debes-eliminar-da-tua-fala/). [2](https://recursos.edu.xunta.gal/sites/default/files/recurso/1444815157/falo_galego/4_castelanismos.html). [3](https://gl.wiktionary.org/wiki/Ap%C3%A9ndice:Castelanismos_usuais).
 
+[guía básica para uso correcto](https://www.cig.gal/files/novas/2020/06/05/Guia_basica_uso_correcto_lingua_galega_2020.pdf)
+
+

@@ -984,5 +984,7 @@ Bernini, his life and his Rome
 
 [Making Video Games in 2025 (without an engine)](https://news.ycombinator.com/item?id=47176576)
 
+[game economics](https://bsky.app/profile/inkle.co/post/3mocyit5m322i)
+
 
 

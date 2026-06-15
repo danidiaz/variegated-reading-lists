@@ -1872,3 +1872,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 > "Attention is all you need" is actually a bad paper if you want to learn about autoregressive LLMs specifically, because it describes a more complicated encoder-decoder architecture while modern LLMs are decoder only. So it's an unnecessarily hard way to get into the subject. "Language Models are Unsupervised Multitask Learners" is probably what you are looking for (aka the GPT-2 paper). This was the first time LLMs really showed what is possible, i.e. they can learn to generalize very well from unstructured data. So no more human labelling necessary, which until then was the primary bottleneck in ML.
 
+[Fable](https://news.ycombinator.com/item?id=48463808). [Mythos organizations](https://bsky.app/profile/timkellogg.me/post/3miblz6dvps27)
+
+

@@ -61,4 +61,6 @@
 
 [How kernel anti-cheats work](https://news.ycombinator.com/item?id=47382791)
 
+[Every byte matters](https://fzakaria.com/2026/06/01/every-byte-matters)
+
 

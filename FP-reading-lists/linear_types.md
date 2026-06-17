@@ -154,5 +154,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [ghci printin issue with constructors](https://gitlab.haskell.org/ghc/ghc/-/issues/21275)
 
+[linearity-lab](https://hachyderm.io/@zyang@mathstodon.xyz/116761292560192808)
+
 
 

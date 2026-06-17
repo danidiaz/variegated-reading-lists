@@ -1874,4 +1874,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Fable](https://news.ycombinator.com/item?id=48463808). [Mythos organizations](https://bsky.app/profile/timkellogg.me/post/3miblz6dvps27)
 
+[more fun than ever](https://martinfowler.com/fragments/2026-06-16.html)
+
+> more fun than ever. His post lists reasons why: removing drudgery, speeding up feedback loops, reviving long abandoned projects, and exploring new technologies.
+
 

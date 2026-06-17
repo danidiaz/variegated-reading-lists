@@ -83,6 +83,8 @@
 
 [an uninsurable world](https://www.cnbc.com/2025/08/08/climate-insurers-are-worried-the-world-could-soon-become-uninsurable-.html). [post](https://bsky.app/profile/olufemiotaiwo.bsky.social/post/3lvzzjtm3ms2w). [post](https://bsky.app/profile/lastpositivist.bsky.social/post/3lw2dnams2s2i). [paper](https://philpapers.org/rec/BRACIDl).
 
+[Is Lloyd’s of London the world’s oldest podshop?](https://www.ft.com/content/ae60efcc-863e-4e0c-8805-26457f8d299e?shareType=nongift)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

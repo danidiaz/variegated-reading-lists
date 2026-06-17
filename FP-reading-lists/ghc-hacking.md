@@ -654,7 +654,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [tricorder](https://discourse.haskell.org/t/ann-tricorder-a-new-development-tool-for-haskell-and-llms/14208)
 
-
+[Making GHC upgrades easy](https://blog.haskell.org/making-ghc-upgrades-easy/)
 
 
 

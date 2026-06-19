@@ -991,5 +991,8 @@ GIMP tips: add alpha channel (so that transparent color remains after cutting so
 
 [Updating Stacked Pull Requests with git rebase --onto](https://bd103.dev/blog/2026-06-18-git-rebase-onto/). [	.gitignore Isn't the only way to ignore files in Git ](https://news.ycombinator.com/item?id=48583356).
 
+[vim + ai](https://lobste.rs/s/p7i4ny/there_s_no_place_like_home_10_journey_vim)
+
+> Yeah it's the dream these days. You just tell AI how your workflow is, and you can integrate it into Neovim. 
 
 

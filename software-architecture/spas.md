@@ -616,4 +616,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [Progressive Web Components](https://lobste.rs/s/tkcood/progressive_web_components)
 
+[proof-of-work measures against crawlers](https://lobste.rs/s/azy6y2/i_hate_compilers#c_esroht)
+
 

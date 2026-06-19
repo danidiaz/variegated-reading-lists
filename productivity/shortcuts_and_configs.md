@@ -989,4 +989,7 @@ overwrites
 
 GIMP tips: add alpha channel (so that transparent color remains after cutting something) and lock alpha channel (when flood-filling stuff, to avoid coloring the transparent areas).
 
+[Updating Stacked Pull Requests with git rebase --onto](https://bd103.dev/blog/2026-06-18-git-rebase-onto/). [	.gitignore Isn't the only way to ignore files in Git ](https://news.ycombinator.com/item?id=48583356).
+
+
 

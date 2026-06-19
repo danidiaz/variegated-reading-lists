@@ -964,4 +964,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [SSH has no host header](https://lobste.rs/s/7oqiqi/ssh_has_no_host_header).
 
+[On hybrid signatures](https://keymaterial.net/2026/06/18/on-hybrid-signatures/)
+
 

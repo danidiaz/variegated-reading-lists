@@ -1878,4 +1878,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 > more fun than ever. His post lists reasons why: removing drudgery, speeding up feedback loops, reviving long abandoned projects, and exploring new technologies.
 
+[more discipline, not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
+
 

@@ -1880,4 +1880,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [more discipline, not less](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)
 
+[review with LLM first](https://bsky.app/profile/filippo.abyssdomain.expert/post/3moq6sdq6xk2l). [easy to stack them](https://bsky.app/profile/wryb.org/post/3moqai2o5fc2v).
+
+
+
 

@@ -1882,6 +1882,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [review with LLM first](https://bsky.app/profile/filippo.abyssdomain.expert/post/3moq6sdq6xk2l). [easy to stack them](https://bsky.app/profile/wryb.org/post/3moqai2o5fc2v).
 
+[Human Judgment as a Specification](https://blog.brownplt.org/2026/06/09/pick.html)
+
+[fuzzing themselves to an implementation](https://bsky.app/profile/patigallardo.bsky.social/post/3mopyg4t3vc2w)
+
 
 
 

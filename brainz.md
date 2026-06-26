@@ -1886,6 +1886,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [fuzzing themselves to an implementation](https://bsky.app/profile/patigallardo.bsky.social/post/3mopyg4t3vc2w)
 
-
+[unit test for taste](https://news.ycombinator.com/item?id=48657049). [Rethinking the Value of Agent-Generated Tests for LLM-Based Software Engineering Agents](https://arxiv.org/abs/2602.07900)
 
 

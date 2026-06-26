@@ -1888,4 +1888,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [unit test for taste](https://news.ycombinator.com/item?id=48657049). [Rethinking the Value of Agent-Generated Tests for LLM-Based Software Engineering Agents](https://arxiv.org/abs/2602.07900)
 
+[possible future](https://bsky.app/profile/quantian.bsky.social/post/3mp64pashqc2s)
+
 

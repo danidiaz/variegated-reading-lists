@@ -656,5 +656,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Making GHC upgrades easy](https://blog.haskell.org/making-ghc-upgrades-easy/)
 
+[Dev log: implementing new syntax in GHC](https://discourse.haskell.org/t/dev-log-implementing-new-syntax-in-ghc/14319)
+
 
 

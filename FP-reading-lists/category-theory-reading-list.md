@@ -1132,4 +1132,6 @@ deals with its own properties.
 
 [category transformers](https://discourse.haskell.org/t/category-transformers/14054/6)
 
+[sheaves in Haskell](https://www.tweag.io/blog/2026-06-18-sheaves-in-haskell/)
+
 

@@ -618,4 +618,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [proof-of-work measures against crawlers](https://lobste.rs/s/azy6y2/i_hate_compilers#c_esroht)
 
+[developers don't understand CORS](https://news.ycombinator.com/item?id=48614844)
+
 

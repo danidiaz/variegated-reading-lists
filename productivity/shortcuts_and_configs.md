@@ -995,4 +995,6 @@ GIMP tips: add alpha channel (so that transparent color remains after cutting so
 
 > Yeah it's the dream these days. You just tell AI how your workflow is, and you can integrate it into Neovim. 
 
+[tmux revival](https://lobste.rs/s/s1ep1w/is_anyone_still_using_emacs#c_qwemcc)
+
 

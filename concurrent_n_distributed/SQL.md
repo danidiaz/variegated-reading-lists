@@ -43,4 +43,6 @@
 
 [A SQL Heuristic: ORs Are Expensive](https://news.ycombinator.com/item?id=45413525)
 
+[structured primary keys](https://modern-sql.com/blog/2026-06/structured-primary-keys)
+
 

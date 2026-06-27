@@ -85,6 +85,8 @@
 
 [Is Lloyd’s of London the world’s oldest podshop?](https://www.ft.com/content/ae60efcc-863e-4e0c-8805-26457f8d299e?shareType=nongift)
 
+[Lloyd's list](https://www.lloydslist.com/)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

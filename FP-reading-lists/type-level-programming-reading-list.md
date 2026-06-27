@@ -475,4 +475,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Type-level programming is still programming](https://discourse.haskell.org/t/type-level-programming-is-still-programming/13890)
 
+[dependent with vs. dependent switch](https://types.pl/@pigworker/116818963164427297)
+
 

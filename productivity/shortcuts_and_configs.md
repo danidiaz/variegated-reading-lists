@@ -997,4 +997,24 @@ GIMP tips: add alpha channel (so that transparent color remains after cutting so
 
 [tmux revival](https://lobste.rs/s/s1ep1w/is_anyone_still_using_emacs#c_qwemcc)
 
+[Wispr Flow | Effortless Voice Dictation](https://wisprflow.ai/). [multiple languages](https://docs.wisprflow.ai/articles/3191899797-use-flow-with-multiple-languages). [2](https://wisprflow.ai/research/supporting-languages). [different from whishper-api?](https://whisper-api.com/). [language boundary drift](https://www.reddit.com/r/productivity/comments/1ssk0ys/wispr_flow_alternatives_for_multilingual_users/)
+
+> Why not just use the built-in voice mode?
+> Most AI tools (ChatGPT, Claude, Gemini) have a built-in voice mode. They're great for conversation, but they give you a raw transcript: every "um," false start, and mid-sentence correction stays in. You have to go back and clean it up. And each one only works inside its own app.
+
+[claude voice dictation](https://code.claude.com/docs/en/voice-dictation). [Rebind the dictation key](https://code.claude.com/docs/en/voice-dictation#rebind-the-dictation-key). `/keybindings`. `alt+v` for `pushToTalk` in Windows? You need to unbind it from 'pasteImage' first.
+
+> To skip the warmup, switch to tap mode with /voice tap, or rebind to a modifier combination like meta+k. Modifier combos start recording on the first keypress.
+
+claude / tmux
+
+> or add 'set -g mouse on' to ~/.tmux.conf for wheel scroll
+> 'set -g focus-events on' to ~/.tmux.conf and reattach for focu
+
+[Tmux customization: do you really need it?](https://medium.com/terminal-sessions/tmux-customization-do-you-really-need-it-d2cb96409497)
+
+[claude fullscreen rendering](https://code.claude.com/docs/en/fullscreen)
+
+
+
 

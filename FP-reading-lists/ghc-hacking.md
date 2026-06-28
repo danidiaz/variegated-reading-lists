@@ -658,7 +658,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Dev log: implementing new syntax in GHC](https://discourse.haskell.org/t/dev-log-implementing-new-syntax-in-ghc/14319). [modifiers syntax](https://gitlab.haskell.org/ghc/ghc/-/merge_requests/14781).
 
-
+[INLINE and OPAQUE](https://discourse.haskell.org/t/can-noinline-fail-to-prevent-inlining/14324/8)
 
 
 

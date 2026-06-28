@@ -1890,6 +1890,4 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [possible future](https://bsky.app/profile/quantian.bsky.social/post/3mp64pashqc2s)
 
-[Wispr Flow | Effortless Voice Dictation](https://wisprflow.ai/)
-
-
+[DSpark: Speculative decoding accelerates LLM inference](https://news.ycombinator.com/item?id=48696585)

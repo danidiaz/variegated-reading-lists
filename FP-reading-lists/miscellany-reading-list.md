@@ -1176,4 +1176,4 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Write your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 
-
+[Type-checked non-empty strings](https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html). [hn](https://news.ycombinator.com/item?id=48687843)

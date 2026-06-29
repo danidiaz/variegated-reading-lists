@@ -1757,5 +1757,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Learning Software Architecture](https://news.ycombinator.com/item?id=48106024)
 
+[The Return of Aspect Oriented Programming ](https://thomaswc.com/blog/the_return_of_aop.html). [hn](https://news.ycombinator.com/item?id=48679904)
+
 
 

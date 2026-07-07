@@ -1891,3 +1891,11 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 [possible future](https://bsky.app/profile/quantian.bsky.social/post/3mp64pashqc2s)
 
 [DSpark: Speculative decoding accelerates LLM inference](https://news.ycombinator.com/item?id=48696585)
+
+[loops](https://www.reddit.com/r/ExperiencedDevs/comments/1ukttup/armin_ronacher_is_very_uneasy_about_the_agent/)
+
+[Artificial adventures](https://www.scattered-thoughts.net/writing/artificial-adventures/)
+
+[What Claude Code Can Do That You Haven't Tried](https://www.youtube.com/watch?v=zaDbZt40kRg)
+
+

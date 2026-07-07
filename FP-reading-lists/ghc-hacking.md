@@ -660,5 +660,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [INLINE and OPAQUE](https://discourse.haskell.org/t/can-noinline-fail-to-prevent-inlining/14324/8)
 
+[GHC Proposal: Top-level IO initialized bindings](https://discourse.haskell.org/t/ghc-proposal-top-level-io-initialized-bindings/14328)
+
 
 

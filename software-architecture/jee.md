@@ -527,4 +527,6 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [complex combined data](https://www.reddit.com/r/SpringBoot/comments/1tyjv5b/how_do_you_guys_handle_complexcombined_data/)
 
+[megamorphic calls](https://youtube.com/shorts/-g7oY06n5C8)
+
 

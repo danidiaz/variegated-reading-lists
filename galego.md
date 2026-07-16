@@ -80,4 +80,11 @@
 
 [guía básica para uso correcto](https://www.cig.gal/files/novas/2020/06/05/Guia_basica_uso_correcto_lingua_galega_2020.pdf)
 
+[ladaíña](https://academia.gal/dicionario/-/termo/busca/lada%C3%AD%C3%B1a)
+
+[espelicar](https://academia.gal/dicionario/-/termo/espelicar)
+
+[estalicar](https://academia.gal/dicionario/-/termo/estalicar)
+
+
 

@@ -1898,4 +1898,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [What Claude Code Can Do That You Haven't Tried](https://www.youtube.com/watch?v=zaDbZt40kRg)
 
+[Coding Agent Evaluation Is Not a Benchmark Slide](https://www.the-main-thread.com/p/coding-agent-evaluation-not-benchmark-slide)
+
+[Maintainability sensors for coding agents](https://bsky.app/profile/birgitta410.bsky.social/post/3mqjf2wjyfs2l)
+
 

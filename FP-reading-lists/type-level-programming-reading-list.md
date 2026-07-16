@@ -477,4 +477,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [dependent with vs. dependent switch](https://types.pl/@pigworker/116818963164427297)
 
+[Typed Expression EDSLs (Part 1)](https://blog.jle.im/entry/extreme-haskell-typed-expression-edsls-1.html)
+
 

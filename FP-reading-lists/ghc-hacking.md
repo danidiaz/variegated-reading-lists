@@ -662,5 +662,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [GHC Proposal: Top-level IO initialized bindings](https://discourse.haskell.org/t/ghc-proposal-top-level-io-initialized-bindings/14328)
 
+[Lightweight profiling with ghc-stack-profiler](https://www.youtube.com/watch?v=13J-eIlLods)
+
 
 

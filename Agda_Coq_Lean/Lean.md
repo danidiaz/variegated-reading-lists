@@ -28,4 +28,6 @@
 
 [why not just use Lean?](https://news.ycombinator.com/item?id=47922079). [post](https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html).
 
+[pattern matching](https://bsky.app/profile/bisimulation.bsky.social/post/3mqyp7jaahk2g)
+
 

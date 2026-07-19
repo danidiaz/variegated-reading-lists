@@ -1134,4 +1134,6 @@ deals with its own properties.
 
 [sheaves in Haskell](https://www.tweag.io/blog/2026-06-18-sheaves-in-haskell/)
 
+[Tambara optics using Tannakian reconstruction.](https://bartoszmilewski.com/2026/07/19/profunctor-optics/)
+
 

@@ -156,5 +156,7 @@ Controlled Array Fusion using Linear Types. Josef Svenningsson (can't find the p
 
 [linearity-lab](https://hachyderm.io/@zyang@mathstodon.xyz/116761292560192808)
 
+[existentials on a Leash](https://discourse.haskell.org/t/existentials-on-a-leash/14434)
+
 
 

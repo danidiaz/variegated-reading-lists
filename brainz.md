@@ -1902,4 +1902,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Maintainability sensors for coding agents](https://bsky.app/profile/birgitta410.bsky.social/post/3mqjf2wjyfs2l)
 
+[liberating](https://bsky.app/profile/jenson.org/post/3mqxzhnds422h)
+
 

@@ -86,5 +86,7 @@
 
 [estalicar](https://academia.gal/dicionario/-/termo/estalicar)
 
+[estoutro](https://digalego.xunta.gal/gl/term/28075/estoutro-tra)
+
 
 

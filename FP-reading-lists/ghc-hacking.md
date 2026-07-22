@@ -664,5 +664,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Lightweight profiling with ghc-stack-profiler](https://www.youtube.com/watch?v=13J-eIlLods)
 
+[Carefully implement coercion zapping](https://gitlab.haskell.org/ghc/ghc/-/merge_requests/16378)
+
 
 

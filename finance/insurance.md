@@ -87,6 +87,8 @@
 
 [Lloyd's list](https://www.lloydslist.com/)
 
+[FAIR risk explodes](https://bsky.app/profile/urbanlandrent.bsky.social/post/3mrawvs4c3s22)
+
 ## History 
 
 [The Medical Malpractice Crisis of the 1970's: A Retrospective](https://www.jstor.org/stable/1191413)

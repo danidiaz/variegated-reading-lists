@@ -1904,4 +1904,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [liberating](https://bsky.app/profile/jenson.org/post/3mqxzhnds422h)
 
+[Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://news.ycombinator.com/item?id=49010345)
+
+[Dinitz-Garg-Goemans](https://bsky.app/profile/timkellogg.me/post/3mrbmuldsns2r). [conversation](https://chatgpt.com/share/6a60b2eb-0b64-83ee-9c76-7931ca1de063).
+
 

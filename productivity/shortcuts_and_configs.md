@@ -1015,6 +1015,8 @@ claude / tmux
 
 [claude fullscreen rendering](https://code.claude.com/docs/en/fullscreen)
 
+[talk to computer](https://bsky.app/profile/scoiattolo.mountainherder.xyz/post/3mrsrfe5uec2i)
+
 
 
 

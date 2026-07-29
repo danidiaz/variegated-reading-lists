@@ -479,4 +479,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [Typed Expression EDSLs (Part 1)](https://blog.jle.im/entry/extreme-haskell-typed-expression-edsls-1.html)
 
+[effing W](https://www.youtube.com/watch?v=Vc2ninFboYY). [post](https://bsky.app/profile/sjoerdvisscher.w3future.com/post/3mrezdjvgsc2c).
+
 

@@ -481,4 +481,6 @@ There are two different notions of equality applicable to singletons: Boolean eq
 
 [effing W](https://www.youtube.com/watch?v=Vc2ninFboYY). [post](https://bsky.app/profile/sjoerdvisscher.w3future.com/post/3mrezdjvgsc2c).
 
+[Building a Dependently Typed Language in Haskell Part 1 | Andres Loeh | ZuriHac 2026](https://www.youtube.com/watch?v=E5Hhlw1GdeU)
+
 

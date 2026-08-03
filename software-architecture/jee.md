@@ -529,4 +529,8 @@ loom (2020) [1](https://webtide.com/do-looms-claims-stack-up-part-1/) [2](https:
 
 [megamorphic calls](https://youtube.com/shorts/-g7oY06n5C8)
 
+[Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://news.ycombinator.com/item?id=49091895)
+
+[Why package structures fail in Spring Boot (and how we turned architecture rules into Maven compilation errors)](https://www.reddit.com/r/SpringBoot/s/2zibS8QJiw)
+
 

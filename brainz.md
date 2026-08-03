@@ -1908,4 +1908,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Dinitz-Garg-Goemans](https://bsky.app/profile/timkellogg.me/post/3mrbmuldsns2r). [conversation](https://chatgpt.com/share/6a60b2eb-0b64-83ee-9c76-7931ca1de063).
 
+[a computer, or a container?](https://bsky.app/profile/jeremymorrell.dev/post/3ms7fs4vn7225)
+
 

@@ -1759,5 +1759,7 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [The Return of Aspect Oriented Programming ](https://thomaswc.com/blog/the_return_of_aop.html). [hn](https://news.ycombinator.com/item?id=48679904)
 
+[Effectiveness of Constructive Data Modeling](https://www.reddit.com/r/haskell/comments/1v835jg/alexis_king_the_unreasonable_effectiveness_of/)
+
 
 

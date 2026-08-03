@@ -418,4 +418,6 @@ is not a problem)
 
 [ocaml. substitution model](https://courses.cs.cornell.edu/cs3110/2021sp/textbook/interp/evaluation.html) vs [environment model](https://courses.cs.cornell.edu/cs3110/2021sp/textbook/interp/env_model.html).
 
+[ contextual embeddings](https://hachyderm.io/@ratherforky@types.pl/116727447791494111). [paper](https://dl.acm.org/doi/10.1145/3808269). [video](https://youtu.be/dyRiPJM4DNw).
+
 

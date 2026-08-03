@@ -194,4 +194,6 @@
 
 [Using Wireshark to reverse-engineer a USB device](https://crescentro.se/posts/wireshark-usb/)
 
+[More Tailscale tricks for your jailbroken Kindle](https://news.ycombinator.com/item?id=49093569)
+
 

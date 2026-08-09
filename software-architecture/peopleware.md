@@ -388,4 +388,6 @@
 
 > In any moderately complex project, it takes multiple commits to land any notable feature.
 
+[suddely flipped](https://bsky.app/profile/grimalkina.bsky.social/post/3msduiz5fls2m)
+
 

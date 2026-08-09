@@ -914,4 +914,8 @@ small-step operational semantics
 
 [A bidirectional typechecking puzzle](https://lobste.rs/s/rsj8sx/bidirectional_typechecking_puzzle)
 
+[subject reduction](https://hachyderm.io/@jonmsterling@mathstodon.xyz/117032193517359887)
+
+> One immediate issue is with the subject reduction framing is that subject reduction is a theorem that one states about declarative formal systems in which definitional equality is defined by means of rewriting. No dependent type systems that are currently in production use actually work this way, and there are serious obstacles (the classic problems with surjective pairing) that I need not go into.
+
 

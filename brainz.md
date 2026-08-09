@@ -1910,4 +1910,9 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [a computer, or a container?](https://bsky.app/profile/jeremymorrell.dev/post/3ms7fs4vn7225)
 
+[different experience](https://bsky.app/profile/lorak.bsky.social/post/3mse7a6fxxc2m)
+
+[Don't be a meat proxy](https://news.ycombinator.com/item?id=49151933). [more](https://www.reddit.com/r/sysadmin/comments/1vik84c/aiobsessed_coworkers_are_becoming_a_massive/).
+
+
 

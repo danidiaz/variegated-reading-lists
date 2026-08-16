@@ -1914,5 +1914,11 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Don't be a meat proxy](https://news.ycombinator.com/item?id=49151933). [more](https://www.reddit.com/r/sysadmin/comments/1vik84c/aiobsessed_coworkers_are_becoming_a_massive/).
 
+[do SE fundamentals matter anymore?](https://news.ycombinator.com/item?id=49314902). [How should coding agents reason about architecture?
+](https://www.reddit.com/r/softwarearchitecture/comments/1vpo6j0/how_should_coding_agents_reason_about_architecture/).
+
+> With generated code, the directory structure, interface design and general state management is usually a haphazard mess. 
+
+[more working memory](https://news.ycombinator.com/item?id=49312845)
 
 

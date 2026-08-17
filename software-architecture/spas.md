@@ -620,4 +620,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [developers don't understand CORS](https://news.ycombinator.com/item?id=48614844)
 
+[the web server deployment model breaks at hobby scale](https://news.ycombinator.com/item?id=49209921)
+
 

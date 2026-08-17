@@ -196,4 +196,18 @@
 
 [More Tailscale tricks for your jailbroken Kindle](https://news.ycombinator.com/item?id=49093569)
 
+[How-to: Publishing localhost server with Tailscale Funnel using WSL2 Ubuntu](https://www.reddit.com/r/Tailscale/comments/13wnjdh/howto_publishing_localhost_server_with_tailscale/)
+
+[Carrier-Grade NAT (CGNAT) hole punching](https://www.reddit.com/r/networking/comments/1gtdsyw/given_modern_best_practices_in_a_personal_local/). [more](https://www.reddit.com/r/Tailscale/comments/1jksqab/how_does_tailscale_bypass_cgnat_for_p2p/). [NAT traversal, and how we're improving it (pt. 1)](https://tailscale.com/blog/nat-traversal-improvements-pt-1). [STUN](https://en.wikipedia.org/wiki/STUN). [how NAT traversal works](https://tailscale.com/blog/how-nat-traversal-works).
+
+> Tailscale’s architecture is built to favor direct peer-to-peer (P2P) connections whenever possible. In fact, the vast majority of Tailscale traffic flows directly between peers, with the cloud relay servers (called DERP servers) used to initiate connections and as a fallback relay​.
+
+> First, the protocol should be based on UDP. You can do NAT traversal with TCP, but it adds another layer of complexity to an already quite complex problem, and may even require kernel customizations depending on how deep you want to go. We’re going to focus on UDP for the rest of this article.
+
+> But connections and “direction” are a figment of the protocol designer’s imagination. On the wire, every connection ends up being bidirectional; it’s all individual packets flying back and forth. How does the firewall know what’s inbound and what’s outbound?
+
+> For UDP, the rule is very simple: the firewall allows an inbound UDP packet if it previously saw a matching outbound packet. 
+
+
+
 

@@ -1912,7 +1912,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [different experience](https://bsky.app/profile/lorak.bsky.social/post/3mse7a6fxxc2m)
 
-[Don't be a meat proxy](https://news.ycombinator.com/item?id=49151933). [more](https://www.reddit.com/r/sysadmin/comments/1vik84c/aiobsessed_coworkers_are_becoming_a_massive/).
+[Don't be a meat proxy](https://news.ycombinator.com/item?id=49151933). [more](https://www.reddit.com/r/sysadmin/comments/1vik84c/aiobsessed_coworkers_are_becoming_a_massive/). [done](https://brettcodes.com/im-done-using-ai/).
 
 [do SE fundamentals matter anymore?](https://news.ycombinator.com/item?id=49314902). [How should coding agents reason about architecture?
 ](https://www.reddit.com/r/softwarearchitecture/comments/1vpo6j0/how_should_coding_agents_reason_about_architecture/).
@@ -1920,5 +1920,23 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 > With generated code, the directory structure, interface design and general state management is usually a haphazard mess. 
 
 [more working memory](https://news.ycombinator.com/item?id=49312845)
+
+[more like that management](https://news.ycombinator.com/item?id=49309451)
+
+[ai by hand](https://news.ycombinator.com/item?id=49300568)
+
+[Understanding is the new bottleneck](https://news.ycombinator.com/item?id=49300568)
+
+[DeepSeek Harness developer preview](https://news.ycombinator.com/item?id=49285244)
+
+[Reviewing code is a skill](https://typesanitizer.com/blog/code-review.html)
+
+[Patterns and problems in emerging multiagent systems](https://www.anthropic.com/research/multiagent-systems)
+
+[Retire the Abstractions?](https://news.ycombinator.com/item?id=49191130)
+
+[How Claude marks AI-generated content](https://news.ycombinator.com/item?id=49250109)
+
+[Compression is prediction](https://news.ycombinator.com/item?id=49263497). [The Human Is the Loop](https://news.ycombinator.com/item?id=49267108).
 
 

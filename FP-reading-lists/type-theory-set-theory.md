@@ -958,5 +958,8 @@ it is advised to work with non-indexed terms and to use separate proofs of typin
 
 [trusted kernel and abstraction](https://hachyderm.io/@jonmsterling@mathstodon.xyz/116184628965201258)
 
+[Fuss-free cumulative universes: theory and practice](https://arxiv.org/abs/2607.11329)
+
+
 
 

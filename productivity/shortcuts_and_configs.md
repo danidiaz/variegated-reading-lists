@@ -1017,6 +1017,8 @@ claude / tmux
 
 [talk to computer](https://bsky.app/profile/scoiattolo.mountainherder.xyz/post/3mrsrfe5uec2i)
 
+[GitHub Stacks in Jujutsu](https://lobste.rs/s/keiw21/github_stacks_jujutsu)
 
+[A shell exclamation mark is not for yelling](https://news.ycombinator.com/item?id=49197565)
 
 

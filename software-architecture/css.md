@@ -898,4 +898,9 @@ https://stackoverflow.com/questions/1664049/can-i-force-a-page-break-in-html-pri
 
 > Both allow you to write simple, readable selectors inside a defined boundary. With CSS Modules, that boundary is the file. With @scope, that boundary is a DOM subtree
 
+[CSS properties you should know for better text designs](https://news.ycombinator.com/item?id=49261417)
+
+
+
+
 

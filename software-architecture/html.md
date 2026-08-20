@@ -213,4 +213,6 @@
 
 [requirements analysis](https://kiro.dev/blog/deep-spec-analysis/)
 
+[HTML can do that](https://lobste.rs/s/5gcd3t/html_can_do)
+
 

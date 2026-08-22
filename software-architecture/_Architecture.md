@@ -1763,8 +1763,9 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Extensible Software in the age of LLMs](https://news.ycombinator.com/item?id=49363668)
 
+[DDD in the time of AI](https://www.reddit.com/r/coding/comments/1vtfe8q/domaindriven_design_matters_more_when_ai_writes/)
 
-
+[Do you actually separate JPA Entities and Domain Objects, or is a single model enough?](https://www.reddit.com/r/softwarearchitecture/comments/1vv9kav/do_you_actually_separate_jpa_entities_and_domain/)
 
 
 

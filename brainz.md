@@ -1939,4 +1939,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Compression is prediction](https://news.ycombinator.com/item?id=49263497). [The Human Is the Loop](https://news.ycombinator.com/item?id=49267108).
 
+[the model and the domain](https://bsky.app/profile/nick-tune.me/post/3mtk5zqgj222v)
+
+[SQL context](https://bsky.app/profile/taylorbar.net/post/3mtofizzog22e)
+
 

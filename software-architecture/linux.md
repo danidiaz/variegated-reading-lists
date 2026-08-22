@@ -44,4 +44,6 @@ http://www.i3s.unice.fr/~urvoy/docs/VICC/3_vicc.pdf
 
 [things that linux can do atomically](https://news.ycombinator.com/item?id=46909468)
 
+[reclaim the terminal](https://lobste.rs/s/7v1wvd/reclaim_terminal)
+
 

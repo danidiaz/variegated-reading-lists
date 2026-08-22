@@ -1761,5 +1761,10 @@ Namely, it was extremely hard to onboard new developers to work on the product. 
 
 [Effectiveness of Constructive Data Modeling](https://www.reddit.com/r/haskell/comments/1v835jg/alexis_king_the_unreasonable_effectiveness_of/)
 
+[Extensible Software in the age of LLMs](https://news.ycombinator.com/item?id=49363668)
+
+
+
+
 
 

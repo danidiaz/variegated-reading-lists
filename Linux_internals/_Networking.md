@@ -208,6 +208,8 @@
 
 > For UDP, the rule is very simple: the firewall allows an inbound UDP packet if it previously saw a matching outbound packet. 
 
+[EVPN und VXLAN für effizientere Skalierung von Rechenzentren](https://www.heise.de/hintergrund/EVPN-und-VXLAN-fuer-effizientere-Skalierung-von-Rechenzentren-11395385.html).
+
 
 
 

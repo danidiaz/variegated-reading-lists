@@ -113,5 +113,7 @@
 
 [SQLite Is a Library of Congress Recommended Storage Format](https://news.ycombinator.com/item?id=48042434)
 
+[SQLite for everything](https://lobste.rs/s/gmherj/sqlite_for_everything)
+
 
 

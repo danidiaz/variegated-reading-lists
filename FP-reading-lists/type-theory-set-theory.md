@@ -960,6 +960,14 @@ it is advised to work with non-indexed terms and to use separate proofs of typin
 
 [Fuss-free cumulative universes: theory and practice](https://arxiv.org/abs/2607.11329)
 
+[structural set theory](https://ncatlab.org/nlab/show/structural+set+theory)
+
+> somewhat paradoxically, it turns out that one of the primary attributes of a structural set theory is that the elements of a set have no “internal” structure
+
+> Structural set theory thus looks very much like type theory
+
+[agda rocq lean](https://hachyderm.io/@jonmsterling@mathstodon.xyz/117129862183695633)
+
 
 
 

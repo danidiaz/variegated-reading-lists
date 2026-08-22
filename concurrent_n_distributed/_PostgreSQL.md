@@ -503,5 +503,10 @@ Lastly, if a test fails you'd typically like to leave the data behind so that yo
 
 > My conclusion: it's still not wise to mix long (OLAP-style) loads and quick-churning (queue-style) loads on the same Postgres instance. Maybe running 0MQ or even RMQ may be an easier solution, depending on the requirements to the queue.
 
+[PostgreSQL for Everything](https://news.ycombinator.com/item?id=49361279)
+
+
+
+
 
 

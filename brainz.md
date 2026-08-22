@@ -1943,4 +1943,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [SQL context](https://bsky.app/profile/taylorbar.net/post/3mtofizzog22e)
 
+[I'm becoming AI-blind](https://news.ycombinator.com/item?id=49386699)
+
 

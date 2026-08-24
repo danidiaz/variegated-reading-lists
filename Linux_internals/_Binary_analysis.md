@@ -36,5 +36,7 @@
 
 [GCC, glibc, stack unwinding and relocations – A war story](https://blog.sergiodj.net/posts/gcc-glibc-stack-unwinding-relocations-bug/)
 
+[Your executable is a SQLite database](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database). [hn](https://news.ycombinator.com/item?id=49415271).
+
 
 

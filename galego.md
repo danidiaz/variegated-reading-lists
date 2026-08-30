@@ -88,5 +88,9 @@
 
 [estoutro](https://digalego.xunta.gal/gl/term/28075/estoutro-tra)
 
+[Cando introducimos o obxecto directo coa preposición a](https://dubidasdogalego.wordpress.com/2014/03/31/cando-introducimos-o-obxecto-directo-coa-preposicion-a/). [Obxecto directo de persoa con "a"](https://ciberdubidas.blogspot.com/2010/01/obxecto-directo-con.html)
+
+
+
 
 

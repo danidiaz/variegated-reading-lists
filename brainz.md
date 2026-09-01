@@ -1945,4 +1945,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [I'm becoming AI-blind](https://news.ycombinator.com/item?id=49386699)
 
+[implementation is solved](https://bsky.app/profile/jefferyharrell.bsky.social/post/3muhx2b5nrk2n). [architecture, not so much](https://bsky.app/profile/mikell.bsky.social/post/3muhzbl4uws26).
+
 

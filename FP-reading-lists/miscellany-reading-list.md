@@ -1180,4 +1180,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [Mindful coding: Purpose and intention](https://var0.xyz/posts/mindful-coding-purpose-and-intention.html)
 
+[efficiently transposing a matrix](https://gudok.xyz/transpose/)
+
 

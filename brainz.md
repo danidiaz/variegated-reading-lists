@@ -1949,4 +1949,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [review first](https://bsky.app/profile/tef.bsky.social/post/3mutzowx7e22s)
 
+[the value of judgement](https://bsky.app/profile/carnage4life.bsky.social/post/3muur772hf22l)
+
 

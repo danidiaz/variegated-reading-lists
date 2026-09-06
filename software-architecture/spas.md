@@ -622,4 +622,6 @@ This URI has a path /users/ which includes two segments: "users" and an empty se
 
 [the web server deployment model breaks at hobby scale](https://news.ycombinator.com/item?id=49209921)
 
+[Resource Age and Its Impact on Cacheability](https://paulcalvano.com/2026-09-05-resource-age-and-its-impact-on-cacheability/).
+
 

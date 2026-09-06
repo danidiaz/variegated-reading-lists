@@ -92,7 +92,8 @@
 
 [conxugar futuro de subxuntivo](https://www.youtube.com/watch?v=fYmCnnJYcdg)
 
+[O, ao, ó](https://dubidasdogalego.wordpress.com/2015/06/08/o-ao-o/)
 
-
+> Insisto sempre en que no galego non existe unha correlación exacta entre escrita e pronuncia. Hai varios casos: Para lese pra cando é preposición; verea lese vrea; verán lese vran; sacar a lingua lese saca-la lingua; todos os lese tódolos…
 
 

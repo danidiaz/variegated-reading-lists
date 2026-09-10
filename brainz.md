@@ -1951,4 +1951,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [the value of judgement](https://bsky.app/profile/carnage4life.bsky.social/post/3muur772hf22l)
 
+[funk](https://hachyderm.io/@chris__martin@functional.cafe/117231207264151314)
+
+[simple or not?](https://bsky.app/profile/jefferyharrell.bsky.social/post/3muzkoqyc4s2m)
+
+[an agentic (or adversarial) loop](https://www.youtube.com/watch?v=yMJsdBKlBM0)
+
 

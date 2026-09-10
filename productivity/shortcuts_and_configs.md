@@ -1021,4 +1021,6 @@ claude / tmux
 
 [A shell exclamation mark is not for yelling](https://news.ycombinator.com/item?id=49197565)
 
+[Vim9 language server](https://www.reddit.com/r/vim/comments/1w86gqp/vimlsgo_010_a_language_server_for_vim_script_and/)
+
 

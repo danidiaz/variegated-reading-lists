@@ -1957,4 +1957,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [an agentic (or adversarial) loop](https://www.youtube.com/watch?v=yMJsdBKlBM0)
 
+[more like a control problem](https://hachyderm.io/@cford@toot.thoughtworks.com/117262887381412604)
+
 

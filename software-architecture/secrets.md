@@ -14,3 +14,6 @@
 
 [coasian hell](https://ioc.exchange/@invisv/109984592344963986)    
 
+[no one really implements it properly](https://bsky.app/profile/eikopf.com/post/3mvgc3imnos26)
+
+

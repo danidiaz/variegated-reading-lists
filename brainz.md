@@ -1959,4 +1959,10 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [more like a control problem](https://hachyderm.io/@cford@toot.thoughtworks.com/117262887381412604)
 
+[what to salvage](https://bsky.app/profile/danabra.mov/post/3mtujwgnnzs2f)
+
+[RLHF](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback)
+
+[How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
+
 

@@ -1963,6 +1963,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [RLHF](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback)
 
-[How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705)
+[How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705). [How to Write with an LLM](https://news.ycombinator.com/item?id=49747070).
+
+
 
 

@@ -1136,4 +1136,6 @@ deals with its own properties.
 
 [Tambara optics using Tannakian reconstruction.](https://bartoszmilewski.com/2026/07/19/profunctor-optics/)
 
+[Zurihac trac 1](https://www.youtube.com/watch?v=Xr1gcdb_IvA). [Zurihac trac 2](https://www.youtube.com/watch?v=mul96pw49CI).
+
 

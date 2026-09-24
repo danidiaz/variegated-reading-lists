@@ -986,5 +986,7 @@ Bernini, his life and his Rome
 
 [game economics](https://bsky.app/profile/inkle.co/post/3mocyit5m322i)
 
+[The Video Game "Commute" Problem](https://www.youtube.com/watch?v=dfrZHF23IeE)
+
 
 

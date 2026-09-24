@@ -666,5 +666,7 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Carefully implement coercion zapping](https://gitlab.haskell.org/ghc/ghc/-/merge_requests/16378)
 
+[Real-Time Telemetry with Eventlog Live](https://discourse.haskell.org/t/well-typed-blog-real-time-telemetry-with-eventlog-live/14738)
+
 
 

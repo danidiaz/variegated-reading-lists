@@ -1965,6 +1965,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [How to keep enjoying programming in a world of LLMs](https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705). [How to Write with an LLM](https://news.ycombinator.com/item?id=49747070).
 
-
+[LLMs in 2026 so far](https://bsky.app/profile/simonwillison.net/post/3mwluv7t57k2q)
 
 

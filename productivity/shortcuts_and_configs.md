@@ -1023,4 +1023,6 @@ claude / tmux
 
 [Vim9 language server](https://www.reddit.com/r/vim/comments/1w86gqp/vimlsgo_010_a_language_server_for_vim_script_and/)
 
+[make TMUX the OS](https://matduggan.com/what-does-my-dream-os-ui-look-like/). [hn](https://news.ycombinator.com/item?id=49937540).
+
 

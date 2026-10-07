@@ -215,4 +215,6 @@
 
 [HTML can do that](https://lobste.rs/s/5gcd3t/html_can_do)
 
+[Why don't more developers “use the platform”?](https://news.ycombinator.com/item?id=49950554)
+
 

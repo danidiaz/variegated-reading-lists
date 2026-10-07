@@ -668,5 +668,8 @@ ormolu --mode inplace $(git ls-files '*.hs')
 
 [Real-Time Telemetry with Eventlog Live](https://discourse.haskell.org/t/well-typed-blog-real-time-telemetry-with-eventlog-live/14738)
 
+[Designing Haskell libraries for qualified import](https://mrcjkb.dev/posts/2026-10-06-design-for-qualified-import.html). [comment](https://www.reddit.com/r/haskell/comments/1wzzaz8/comment/pegy4jg/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
+
+
 
 

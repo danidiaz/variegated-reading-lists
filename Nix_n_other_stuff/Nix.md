@@ -1593,4 +1593,6 @@ nix-repl> :lf flake:nixpkgs
 
 [Stamp It! All Programs Must Report Their Version](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
 
+[Nix wrote half of my debugger](https://news.ycombinator.com/item?id=50017247)
+
 

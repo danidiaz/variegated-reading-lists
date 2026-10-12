@@ -1969,4 +1969,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Stanford CME295 Transformers & LLMs | Autumn 2026 | Lecture 1 - Transformers](https://bsky.app/profile/diazcarrete.bsky.social/post/3mxmgmb36qc2m)
 
+[/wayfinder](https://www.youtube.com/watch?v=F3lL98Pj90o)
+
 

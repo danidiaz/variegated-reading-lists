@@ -1967,4 +1967,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [LLMs in 2026 so far](https://bsky.app/profile/simonwillison.net/post/3mwluv7t57k2q)
 
+[Stanford CME295 Transformers & LLMs | Autumn 2026 | Lecture 1 - Transformers](https://bsky.app/profile/diazcarrete.bsky.social/post/3mxmgmb36qc2m)
+
 

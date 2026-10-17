@@ -988,5 +988,7 @@ Bernini, his life and his Rome
 
 [The Video Game "Commute" Problem](https://www.youtube.com/watch?v=dfrZHF23IeE)
 
+[worldbuilding from a mechanic](https://bsky.app/profile/konstantinosd.bsky.social/post/3my2l43etgc2o)
+
 
 

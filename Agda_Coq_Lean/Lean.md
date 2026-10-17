@@ -30,4 +30,6 @@
 
 [pattern matching](https://bsky.app/profile/bisimulation.bsky.social/post/3mqyp7jaahk2g)
 
+[RealWorld in Lean](https://news.ycombinator.com/item?id=50088748)
+
 

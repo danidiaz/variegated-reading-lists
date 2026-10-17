@@ -1975,6 +1975,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [single use(r) software](https://mastodon.gal/@luca@social.luca.run/117455226224265264)
 
+[You could have invented transformers from memory](https://news.ycombinator.com/item?id=50122878)
 
 
 

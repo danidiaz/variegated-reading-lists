@@ -1182,4 +1182,8 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 [efficiently transposing a matrix](https://gudok.xyz/transpose/)
 
+[trace redaction](https://www.infoq.com/news/2026/10/grafana-tempo-31/)
+
+> Trace redaction, introduced in 3.0 through t`empo-cli redact`, previously required enumerating trace IDs. Sensitive values such as tokens or account numbers often appear across more traces than can practically be listed.
+
 

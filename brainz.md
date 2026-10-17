@@ -1971,4 +1971,6 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [/wayfinder](https://www.youtube.com/watch?v=F3lL98Pj90o)
 
+[My old job feels distant now](https://news.ycombinator.com/item?id=50118048)
+
 

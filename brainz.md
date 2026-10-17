@@ -1973,4 +1973,8 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [My old job feels distant now](https://news.ycombinator.com/item?id=50118048)
 
+[single use(r) software](https://mastodon.gal/@luca@social.luca.run/117455226224265264)
+
+
+
 

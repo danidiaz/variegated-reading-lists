@@ -1977,5 +1977,9 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [You could have invented transformers from memory](https://news.ycombinator.com/item?id=50122878)
 
+[to help prototype](https://hachyderm.io/@stephaniewalter@front-end.social/117473362823917718)
+
+[Why is AI generated language so hard to understand?](https://news.ycombinator.com/item?id=50223647)
+
 
 

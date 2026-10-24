@@ -1186,4 +1186,6 @@ Complex Data Structures](http://files.b-studios.de/master-thesis.pdf)
 
 > Trace redaction, introduced in 3.0 through t`empo-cli redact`, previously required enumerating trace IDs. Sensitive values such as tokens or account numbers often appear across more traces than can practically be listed.
 
+[dead code shouldn't exist](https://tkdodo.eu/blog/dead-code-shouldnt-exist)
+
 

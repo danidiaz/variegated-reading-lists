@@ -1983,7 +1983,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [code mold](https://bsky.app/profile/ed3d.net/post/3myybzpvdvc2a)
 
-[slop and taste](https://bsky.app/profile/rekmarks.com/post/3mz4j4bfudh2t)
+[slop and taste](https://bsky.app/profile/rekmarks.com/post/3mz4j4bfudh2t). [more](https://bsky.app/profile/liasae.bsky.social/post/3mz73zircfk2y).
 
 
 

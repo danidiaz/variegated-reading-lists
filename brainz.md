@@ -1981,5 +1981,9 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [Why is AI generated language so hard to understand?](https://news.ycombinator.com/item?id=50223647)
 
+[code mold](https://bsky.app/profile/ed3d.net/post/3myybzpvdvc2a)
+
+[slop and taste](https://bsky.app/profile/rekmarks.com/post/3mz4j4bfudh2t)
+
 
 

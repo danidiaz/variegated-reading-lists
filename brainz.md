@@ -1985,7 +1985,7 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [slop and taste](https://bsky.app/profile/rekmarks.com/post/3mz4j4bfudh2t). [more](https://bsky.app/profile/liasae.bsky.social/post/3mz73zircfk2y). [which ones](https://bsky.app/profile/davidcrespo.bsky.social/post/3mz72jsadfs2y).
 
-
+[ouch](https://bsky.app/profile/dervine7.bsky.social/post/3mzdiridxvs2m). [2](https://bsky.app/profile/professormusgrave.bsky.social/post/3mzaiutsytk2d).
 
 
 

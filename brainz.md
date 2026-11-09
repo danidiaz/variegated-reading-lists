@@ -1987,6 +1987,5 @@ Claude Code: Hit Enter to queue up additional messages while Claude is working.
 
 [ouch](https://bsky.app/profile/dervine7.bsky.social/post/3mzdiridxvs2m). [2](https://bsky.app/profile/professormusgrave.bsky.social/post/3mzaiutsytk2d).
 
-[worry](https://bsky.app/profile/patigallardo.bsky.social/post/3mzsirwehws25).
 
 

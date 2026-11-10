@@ -966,4 +966,6 @@ https://twitter.com/IanColdwater/status/1411131037753696256  container breakout
 
 [On hybrid signatures](https://keymaterial.net/2026/06/18/on-hybrid-signatures/)
 
+[public key tricks](https://news.ycombinator.com/item?id=50434264)
+
 
